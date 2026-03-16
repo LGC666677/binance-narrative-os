@@ -1,0 +1,13 @@
+我做了一个基于 OpenClaw 的新项目：币安 Narrative OS。
+
+它不是又一个行情助手，而是把 Binance 生态里的 Topic Rush、热度、Smart Money 和官方公告整合成一张可解释的叙事地图，帮你看清今天市场到底在讲什么。
+
+核心亮点：
+1. 自动识别最强叙事主题
+2. 找出热度与资金同时确认的代币
+3. 关联官方上新/活动/公告催化
+4. 一键生成 Binance Square 内容草稿
+
+Demo / 仓库：<填写链接>
+
+#Binance #OpenClaw #AI #Web3

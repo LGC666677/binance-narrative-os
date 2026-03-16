@@ -1,0 +1,4 @@
+interface:
+  display_name: "币安叙事中枢"
+  short_description: "聚合叙事强度、轮动、催化与伪叙事风险的情报中枢"
+  default_prompt: "使用 $binance-narrative-os 生成最新报告，并总结当前最强主线、链间轮动和伪叙事风险。"

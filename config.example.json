@@ -1,0 +1,20 @@
+{
+  "chains": ["56", "CT_501", "8453"],
+  "topic_rank_types": [30, 20],
+  "topic_limit_per_chain": 8,
+  "social_limit_per_chain": 16,
+  "smart_money_period": "24h",
+  "signal_limit_per_chain": 12,
+  "market_rank_size": 10,
+  "rotation_limit": 8,
+  "playbook_limit": 6,
+  "calendar_limit": 8,
+  "false_narrative_limit": 6,
+  "history_dir": "output/history",
+  "history_keep_files": 96,
+  "history_window_hours": 48,
+  "announcement_catalog_ids": [48, 49, 93],
+  "announcement_limit_per_catalog": 3,
+  "request_timeout_seconds": 20,
+  "request_interval_seconds": 0.08
+}
