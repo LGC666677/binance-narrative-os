@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-16T15:47:12.280105+00:00
+- 生成时间：2026-03-16T19:36:15.649654+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 XAICASH，所在链为 Solana，叙事强度 83.04。
-- 当前平均叙事强度为 78.87，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 INCOME，来自 Solana，共振分数 100.0。
-- 记忆层显示 Federal Tariff Reserve 当前处于“新出现”状态。
+- 当前最强叙事是 OpenShell，所在链为 Solana，叙事强度 85.47。
+- 当前平均叙事强度为 82.5，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 龙虾，来自 BSC，共振分数 100.0。
+- 记忆层显示 OpenShell 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Will Add Centrifuge (CFG) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures。
 
 ## 叙事雷达
 
-- XAICASH | Solana | 降温中 | 强度 83.04 | 质量 75.99
+- OpenShell | Solana | 降温中 | 强度 85.47 | 质量 78.90
+  - 主题摘要：According to Cooka.hl | Kms.eth | 版本之子 | Cooka's post, there is uncertainty regarding the authorship of the OpenShell repository, with speculation about whether fees should be dir…
+  - 资金 100.00 / 广度 96.12 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trump Plumber | Solana | 降温中 | 强度 84.20 | 质量 74.57
+  - 主题摘要：Trumber (Trump Plumber) is a meme token inspired by plumbing humor, positioning itself as a 'hedge against AI' in the job market. The token's logo features a cartoon plumber chara…
+  - 资金 100.00 / 广度 81.70 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- XAICASH | Solana | 降温中 | 强度 83.99 | 质量 76.52
   - 主题摘要：Multiple tokens named 「XAIC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.17 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.93 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Rebuilding Trust | Solana | 加速中 | 强度 81.82 | 质量 76.38
-  - 主题摘要：According to Lil Alpha's post, $WRT (World Rebuilding Trust) has experienced a pullback from recent highs and is currently consolidating around a market cap of 51K.
-  - 资金 100.00 / 广度 83.81 / 确认 23.76 / 脆弱性 14.00
+- how to become a trillionaire | Solana | 降温中 | 强度 82.72 | 质量 71.83
+  - 主题摘要：TRILLIONAIRE token emerged from the 'How to Become a Trillionaire' concept, inspired by the idea of wealth creation through innovative ventures. The logo features a futuristic roc…
+  - 资金 100.00 / 广度 72.58 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- World Rebuilding Trust | Solana | 加速中 | 强度 82.08 | 质量 78.38
+  - 主题摘要：According to Lil Alpha's post, $WRT is experiencing a market pullback after a strong performance, currently consolidating around a 51K market cap.
+  - 资金 100.00 / 广度 83.85 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Federal Tariff Reserve | Solana | 加速中 | 强度 80.31 | 质量 71.01
-  - 主题摘要：According to Right Pulse News's post, President Trump has imposed 10% tariffs on eight European countries, with plans to raise them to 25% on June 1st if Greenland acquisition neg…
-  - 资金 100.00 / 广度 62.68 / 确认 23.76 / 脆弱性 15.57
+- AI-Powered Retirement Plan Token | Solana | 加速中 | 强度 81.90 | 质量 68.95
+  - 主题摘要：According to Chex's post, an AI-powered retirement plan concept is introduced, where savings accounts function as AI agents, featuring 100% buybacks and a token named '401k' for r…
+  - 资金 100.00 / 广度 78.74 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WAKE | BSC | 加速中 | 强度 80.17 | 质量 72.86
-  - 主题摘要：According to Claw2Flap's post, an AI agent on the Claw2Flap platform autonomously created and launched the WakeClaw token on BNB Chain, marking the beginning of the AI agent-drive…
-  - 资金 100.00 / 广度 94.28 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Integrates AI with Lobster Theme | BSC | 已确认 | 强度 79.30 | 质量 76.13
+- Pepe the Frog Graffiti Appears at BlackRock Office | Solana | 降温中 | 强度 80.54 | 质量 75.18
+  - 主题摘要：According to Crypto World Federation's post, a stencil depicting Pepe the Frog wearing a hoodie and holding a spray can was found on the exterior wall of the BlackRock office in L…
+  - 资金 100.00 / 广度 87.88 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- grunk | Solana | 降温中 | 强度 79.07 | 质量 73.14
+  - 主题摘要：According to Jenniaos's post, the content highlights the use or importance of an agent function, though specific context or intent remains unclear. The post includes a URL, potent…
+  - 资金 100.00 / 广度 77.59 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Binance Integrates AI with Lobster Theme | BSC | 已确认 | 强度 78.25 | 质量 72.73
   - 主题摘要：According to 🔝芒种金狗👑's post, the topic centers around Binance's integration of an AI-themed feature or interface, humorously associated with a lobster (龙虾) motif. The referenced co…
-  - 资金 100.00 / 广度 82.31 / 确认 30.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.93 / 确认 30.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- This will make ur monthly | Solana | 降温中 | 强度 78.56 | 质量 71.94
-  - 主题摘要：According to Unikva Sented's post, concerns have been raised regarding the Salary token, where bonding has occurred but development, particularly the bot, has not commenced, poten…
-  - 资金 100.00 / 广度 84.94 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- herm: A Claude Code Alternative Project | Solana | 加速中 | 强度 78.25 | 质量 65.35
-  - 主题摘要：According to QuantDev's post, a developer named Adrien Duermael is creating 'herm', an open-source AI code tool inspired by Claude Code, featuring containerization, multi-provider…
-  - 资金 100.00 / 广度 80.92 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Delusional Bulls Will Win in the End | Solana | 加速中 | 强度 77.31 | 质量 63.59
-  - 主题摘要：According to Murad 💹🧲's post, 'Delusional Bulls Will Win in the End,' reflecting a bullish sentiment amid market skepticism.
-  - 资金 100.00 / 广度 75.20 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cai Guoqiang's Sky Ladder Tribute | BSC | 降温中 | 强度 77.02 | 质量 65.09
-  - 主题摘要：According to Massimo's post, artist Cai Guoqiang successfully launched his 500-meter 'Sky Ladder' firework installation shortly before his grandmother's passing. The event marked…
-  - 资金 100.00 / 广度 71.89 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PancakeSwap Launches Pancake Town | BSC | 加速中 | 强度 76.47 | 质量 71.48
+- PancakeSwap Launches Pancake Town | BSC | 加速中 | 强度 76.64 | 质量 71.67
   - 主题摘要：According to PancakeSwap's post, PancakeSwap has officially launched Pancake Town, described as the first-ever interactive AI-agent world powered by PancakeSwap AI Skills.
-  - 资金 100.00 / 广度 76.93 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.24 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Limiting Beliefs and Flea in a Jar Analogy | Solana | 降温中 | 强度 76.23 | 质量 67.44
-  - 主题摘要：According to aannii's post, the metaphor of $flea in a jar is used to illustrate how limiting beliefs prevent individuals from escaping self-imposed mental constraints, despite ha…
-  - 资金 100.00 / 广度 56.34 / 确认 11.52 / 脆弱性 14.00
+- Cai Guoqiang's Sky Ladder Tribute | BSC | 降温中 | 强度 76.35 | 质量 64.03
+  - 主题摘要：According to Massimo's post, artist Cai Guoqiang successfully launched his 500-meter 'Sky Ladder' firework installation shortly before his grandmother's passing. The event marks t…
+  - 资金 100.00 / 广度 71.96 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Gayatollah Meme Coin Emerges Amid Controversial Political Narrative | Solana | 加速中 | 强度 75.44 | 质量 61.51
-  - 主题摘要：According to demon's post, a Meme coin named Gayatollah has appeared in the context of a controversial narrative involving a reported claim about Iran's new Supreme Leader. This i…
-  - 资金 100.00 / 广度 74.71 / 确认 24.48 / 脆弱性 14.00
+- WAKE | BSC | 加速中 | 强度 72.61 | 质量 62.85
+  - 主题摘要：According to Claw2Flap's post, an AI agent on the Claw2Flap platform autonomously created and launched the WakeClaw token on BNB Chain, marking the beginning of the AI agent-drive…
+  - 资金 100.00 / 广度 90.82 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 封神 | BSC | 加速中 | 强度 73.39 | 质量 57.97
-  - 主题摘要：Binance Chinese promotes a C2C trading event offering rewards including iPhone 16 and Airpods 4, alongside token vouchers. The token '封神' (Fengshen) is described as a BNB Chain-ba…
-  - 资金 100.00 / 广度 68.63 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BinanceAICLAW | BSC | 降温中 | 强度 71.33 | 质量 52.85
+- BinanceAICLAW | BSC | 降温中 | 强度 71.39 | 质量 52.94
   - 主题摘要：BinanceAICLAW is a token inspired by the intersection of artificial intelligence and legal systems. It aims to revolutionize legal services through AI-powered tools, focusing on c…
-  - 资金 100.00 / 广度 73.32 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.35 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Binance AI Beta Feature Discussion | BSC | 加速中 | 强度 70.08 | 质量 70.49
+  - 主题摘要：According to 🙂𝙅𝙤𝙨𝙚𝙥𝙝 🔶 BNB's post, the user questioned whether Binance had integrated AI functionality, referencing a prior reply that mentioned a Binance AI-related private test.
+  - 资金 93.48 / 广度 86.49 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.87，其中已确认叙事 0 个。
-- Federal Tariff Reserve 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- XAICASH 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.5，其中已确认叙事 0 个。
+- AI-Powered Retirement Plan Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- OpenShell 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- World Rebuilding Trust | 质量 76.38 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Integrates AI with Lobster Theme | 质量 76.13 | 可交易性 100.00 | 风险 低
-- XAICASH | 质量 75.99 | 可交易性 100.00 | 风险 低
-- WAKE | 质量 72.86 | 可交易性 70.62 | 风险 低
-- This will make ur monthly | 质量 71.94 | 可交易性 82.72 | 风险 低
-- PancakeSwap Launches Pancake Town | 质量 71.48 | 可交易性 83.37 | 风险 低
-- Federal Tariff Reserve | 质量 71.01 | 可交易性 96.60 | 风险 低
-- Limiting Beliefs and Flea in a Jar Analogy | 质量 67.44 | 可交易性 100.00 | 风险 低
-- herm: A Claude Code Alternative Project | 质量 65.35 | 可交易性 58.95 | 风险 低
-- Cai Guoqiang's Sky Ladder Tribute | 质量 65.09 | 可交易性 84.93 | 风险 低
+- OpenShell | 质量 78.90 | 可交易性 100.00 | 风险 低
+- World Rebuilding Trust | 质量 78.38 | 可交易性 100.00 | 风险 低
+- XAICASH | 质量 76.52 | 可交易性 100.00 | 风险 低
+- Pepe the Frog Graffiti Appears at BlackRock Office | 质量 75.18 | 可交易性 95.87 | 风险 低
+- Trump Plumber | 质量 74.57 | 可交易性 100.00 | 风险 低
+- grunk | 质量 73.14 | 可交易性 99.33 | 风险 低
+- Uncertain:Binance Integrates AI with Lobster Theme | 质量 72.73 | 可交易性 100.00 | 风险 低
+- how to become a trillionaire | 质量 71.83 | 可交易性 100.00 | 风险 低
+- PancakeSwap Launches Pancake Town | 质量 71.67 | 可交易性 83.71 | 风险 低
+- Uncertain:Binance AI Beta Feature Discussion | 质量 70.49 | 可交易性 92.58 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：XAICASH（Solana，分数 83.04）
-2. 共振最强代币：INCOME（Solana，共振 100.0）
-3. 记忆层变化：Federal Tariff Reserve 当前为“新出现”
+1. 当前最强叙事：OpenShell（Solana，分数 85.47）
+2. 共振最强代币：龙虾（BSC，共振 100.0）
+3. 记忆层变化：OpenShell 当前为“新出现”
 4. 最新官方催化：Binance Will Add Centrifuge (CFG) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 #Binance #NarrativeOS #OpenClaw
