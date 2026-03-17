@@ -1,98 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-17T18:08:18.461808+00:00
+- 生成时间：2026-03-17T20:03:27.366041+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Solana Eyes on X，所在链为 Solana，叙事强度 88.26。
-- 当前平均叙事强度为 81.39，其中已确认叙事 0 个。
+- 当前最强叙事是 Solana Solves Trilemma，所在链为 Solana，叙事强度 86.05。
+- 当前平均叙事强度为 79.41，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 Uncertain:Binance Integrates AI with Lobster Theme 当前处于“强化”状态。
+- 记忆层显示 There's BAE in there 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 The Mole and Undercover Operations，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Block Street Trading Competition: Trade Block Street (BSB) and Share $100K Worth of Rewards。
 
 ## 叙事雷达
 
-- Solana Eyes on X | Solana | 加速中 | 强度 88.26 | 质量 80.35
-  - 主题摘要：Solana's official account reacted with 👀 to X's message that 'tomorrow is a brand new day', sparking speculation about their relationship or potential interactions.
-  - 资金 100.00 / 广度 93.06 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Solana Solves Trilemma | Solana | 加速中 | 强度 88.26 | 质量 80.35
+- Solana Solves Trilemma | Solana | 加速中 | 强度 86.05 | 质量 81.19
   - 主题摘要：Solana is being praised for effectively solving the blockchain trilemma — balancing decentralization, security, and performance — while offering strong developer support and ecosy…
-  - 资金 100.00 / 广度 93.06 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 92.69 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Integrates AI with Lobster Theme | BSC | 已确认 | 强度 86.57 | 质量 80.51
-  - 主题摘要：According to 🔝芒种金狗👑's post, the Binance app has integrated a feature related to AI and lobster imagery, prompting comparisons to the term 'bibi+龙虾'. Further details remain unverif…
-  - 资金 100.00 / 广度 85.15 / 确认 31.68 / 脆弱性 14.00
+- Solana Eyes on X | Solana | 加速中 | 强度 85.51 | 质量 81.19
+  - 主题摘要：Solana's official account reacted with 👀 to X's message that 'tomorrow is a brand new day', sparking speculation about their relationship or potential interactions.
+  - 资金 100.00 / 广度 92.69 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Binance Integrates AI with Lobster Theme | BSC | 已确认 | 强度 84.80 | 质量 80.50
+  - 主题摘要：According to 🔝芒种金狗👑's post, a Meme image combining Binance AI and a lobster has been shared, referencing a related Binance APP integration and user curiosity.
+  - 资金 100.00 / 广度 85.09 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Aster DEX Promotes Privacy Trading | BSC | 已确认 | 强度 83.81 | 质量 83.30
-  - 主题摘要：According to Aster 🥷's post, the platform emphasizes privacy in trading by leveraging its native blockchain, Aster Chain. The message metaphorically references the lotus, symboliz…
-  - 资金 100.00 / 广度 94.42 / 确认 31.68 / 脆弱性 14.00
+- Uncertain:Binance AI Naming Suggestion | BSC | 已确认 | 强度 83.56 | 质量 81.03
+  - 主题摘要：招财猫🔶BNB suggested a name for the upcoming Binance AI project, proposing 'AnAn' as a complementary counterpart to 'BIBI'. According to the post, this name is likely to be adopted.
+  - 资金 100.00 / 广度 89.52 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Kekkek | Solana | 降温中 | 强度 83.72 | 质量 72.56
-  - 主题摘要：Kekkek token draws inspiration from Elon Musk's return to Path of Exile 2, rebranding as 'kekkek'. The token's logo features a character resembling Musk, reflecting the community'…
-  - 资金 100.00 / 广度 87.95 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance AI Naming Suggestion | BSC | 已确认 | 强度 83.48 | 质量 80.92
-  - 主题摘要：招财猫🔶BNB suggested the name 'AnAn' for Binance's upcoming AI product in response to a naming contest hosted by Binance. The post implies a naming preference but does not confirm an…
-  - 资金 100.00 / 广度 89.14 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- BNB Chain Launches BNB City | BSC | 加速中 | 强度 82.27 | 质量 80.28
+- BNB Chain Launches BNB City | BSC | 加速中 | 强度 82.12 | 质量 80.29
   - 主题摘要：BNB Chain collaborates with BSC_Trace to launch an interactive virtual city that visualizes blockchain activity. Combines gamification and blockchain data for user engagement.
-  - 资金 100.00 / 广度 92.80 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 92.86 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FML | Solana | 降温中 | 强度 79.64 | 质量 69.45
+- FML | Solana | 降温中 | 强度 79.47 | 质量 69.44
   - 主题摘要：FML token embraces internet culture's 'fml' meme, featuring a yellow face emoji with a frown in its logo. The community slogan 'Your bad luck and poor decisions are now the commun…
-  - 资金 100.00 / 广度 64.62 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 64.59 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Collaboration on AI Agent Development | Solana | 加速中 | 强度 78.54 | 质量 67.20
+- Collaboration on AI Agent Development | Solana | 加速中 | 强度 79.37 | 质量 67.43
   - 主题摘要：Multiple tokens named 「OLAF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.79 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.83 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Mole and Undercover Operations | Solana | 降温中 | 强度 77.92 | 质量 62.76
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.50 / 确认 9.36 / 脆弱性 14.00
+- The Mole and Undercover Operations | Solana | 降温中 | 强度 77.66 | 质量 66.94
+  - 主题摘要：Toly, co-founder of Solana Labs, posted cryptic content referencing 'this season' and an undercover operation to identify the mole. The message implies a thematic or narrative con…
+  - 资金 100.00 / 广度 90.23 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump's Voting Bill Impact | Solana | 降温中 | 强度 77.78 | 质量 62.55
-  - 主题摘要：According to Economic Times's post, the topic discusses how a proposed voting bill associated with Donald Trump could potentially harm his core voter base by imposing restrictive…
-  - 资金 100.00 / 广度 81.84 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- U.S. Military Strikes on Iranian Targets | Solana | 降温中 | 强度 76.97 | 质量 61.16
-  - 主题摘要：President Donald J. Trump announced that U.S. military forces conducted large-scale precision strikes on dozens of key Iranian military targets located on Kharg Island, asserting…
-  - 资金 100.00 / 广度 81.87 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 燃烧银行 | BSC | 加速中 | 强度 76.42 | 质量 72.07
+- 燃烧银行 | BSC | 加速中 | 强度 76.29 | 质量 69.83
   - 主题摘要：Multiple tokens named 「燃烧银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.04 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.09 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Diversify Meme | BSC | 加速中 | 强度 72.70 | 质量 60.16
+- Trump's Voting Bill Impact | Solana | 降温中 | 强度 76.15 | 质量 64.50
+  - 主题摘要：According to Economic Times's post, the topic discusses how a proposed voting bill associated with Donald Trump could potentially harm his core voter base by imposing restrictive…
+  - 资金 100.00 / 广度 88.37 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- U.S. Military Strikes on Iranian Targets | Solana | 降温中 | 强度 76.15 | 质量 64.50
+  - 主题摘要：President Donald J. Trump asserted that Iran has no ability to defend against U.S. military strikes on Kharg Island, referencing the recent precision attacks conducted by U.S. for…
+  - 资金 100.00 / 广度 88.37 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- There's BAE in there | BSC | 加速中 | 强度 75.55 | 质量 66.94
+  - 主题摘要：Binance官方推文调侃式暗示某个'宝贝'（BAE）存在于某个项目或话题中，引发社区猜测与二次创作，具有一定的传播潜力。
+  - 资金 100.00 / 广度 66.92 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Pufferfish Played by Dolphin at Aquarium | Solana | 降温中 | 强度 74.90 | 质量 63.35
+  - 主题摘要：According to ライブドアニュース's post, an unfortunate pufferfish entered a dolphin pool at the Sea Aquarium Seedonuts in Kumamoto Prefecture and was observed playing with a dolphin before…
+  - 资金 100.00 / 广度 86.87 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Diversify Meme | BSC | 加速中 | 强度 74.31 | 质量 60.53
   - 主题摘要：Binance's tweet 'Diversify responsibly' with a salute emoji hints at promoting balanced crypto investments, sparking playful reinterpretation in the community.
-  - 资金 100.00 / 广度 76.80 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.99 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.39，其中已确认叙事 0 个。
-- Solana Eyes on X 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Kekkek 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.41，其中已确认叙事 0 个。
+- There's BAE in there 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- FML 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Aster DEX Promotes Privacy Trading | 质量 83.30 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance AI Naming Suggestion | 质量 80.92 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Integrates AI with Lobster Theme | 质量 80.51 | 可交易性 100.00 | 风险 低
-- Solana Eyes on X | 质量 80.35 | 可交易性 100.00 | 风险 低
-- Solana Solves Trilemma | 质量 80.35 | 可交易性 100.00 | 风险 低
-- BNB Chain Launches BNB City | 质量 80.28 | 可交易性 100.00 | 风险 低
-- Kekkek | 质量 72.56 | 可交易性 87.05 | 风险 低
-- 燃烧银行 | 质量 72.07 | 可交易性 100.00 | 风险 低
-- FML | 质量 69.45 | 可交易性 100.00 | 风险 低
-- Collaboration on AI Agent Development | 质量 67.20 | 可交易性 64.25 | 风险 低
+- Solana Solves Trilemma | 质量 81.19 | 可交易性 100.00 | 风险 低
+- Solana Eyes on X | 质量 81.19 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance AI Naming Suggestion | 质量 81.03 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance Integrates AI with Lobster Theme | 质量 80.50 | 可交易性 100.00 | 风险 低
+- BNB Chain Launches BNB City | 质量 80.29 | 可交易性 100.00 | 风险 低
+- 燃烧银行 | 质量 69.83 | 可交易性 100.00 | 风险 低
+- FML | 质量 69.44 | 可交易性 100.00 | 风险 低
+- Collaboration on AI Agent Development | 质量 67.43 | 可交易性 64.97 | 风险 低
+- The Mole and Undercover Operations | 质量 66.94 | 可交易性 66.04 | 风险 低
+- There's BAE in there | 质量 66.94 | 可交易性 78.79 | 风险 低
 
 ## 伪叙事风险
 
+- The Mole and Undercover Operations | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Trump's Voting Bill Impact | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- U.S. Military Strikes on Iranian Targets | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Pufferfish Played by Dolphin at Aquarium | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -130,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Solana Eyes on X（Solana，分数 88.26）
+1. 当前最强叙事：Solana Solves Trilemma（Solana，分数 86.05）
 2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：Uncertain:Binance Integrates AI with Lobster Theme 当前为“强化”
+3. 记忆层变化：There's BAE in there 当前为“新出现”
 4. 最新官方催化：Block Street Trading Competition: Trade Block Street (BSB) and Share $100K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
