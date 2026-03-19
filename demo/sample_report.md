@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-19T17:44:23.967211+00:00
+- 生成时间：2026-03-19T19:52:51.996062+00:00
 - 跟踪叙事：14
 - 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 CZ on Dubai and Fake News，所在链为 BSC，叙事强度 88.24。
-- 当前平均叙事强度为 80.7，其中已确认叙事 2 个。
+- 当前最强叙事是 CZ on Dubai and Fake News，所在链为 BSC，叙事强度 88.13。
+- 当前平均叙事强度为 80.42，其中已确认叙事 2 个。
 - 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 Without Goal Wont Lose 当前处于“新出现”状态。
+- 记忆层显示 Downlon Mwusk 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined EDGEUSDT Perpetual Contract Pre-Market Trading (2026-03-19)。
 
 ## 叙事雷达
 
-- CZ on Dubai and Fake News | BSC | 已确认 | 强度 88.24 | 质量 83.39
+- CZ on Dubai and Fake News | BSC | 已确认 | 强度 88.13 | 质量 83.39
   - 主题摘要：CZ sarcastically warns against seeking 'false news' in Dubai, a place he implies is not tolerant of misinformation. The tone and context are ripe for meme interpretation.
-  - 资金 100.00 / 广度 94.73 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.74 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon aims rocket at Doge | Solana | 已确认 | 强度 88.08 | 质量 83.75
+- Elon aims rocket at Doge | Solana | 已确认 | 强度 87.95 | 质量 83.87
   - 主题摘要：Elon Musk posted an image of pointing a rocket at Doge, sparking speculation and humor in the crypto community about his influence on meme coins.
-  - 资金 100.00 / 广度 93.73 / 确认 34.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.15 / 确认 34.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Cryptocurrency Discussions | BSC | 已确认 | 强度 87.53 | 质量 79.94
-  - 主题摘要：According to YYYzzy | GDC🦞's post, the user responded to a comment from @Yolo_7_, indicating disagreement with the sentiment expressed. The post is related to the GDC community an…
-  - 资金 100.00 / 广度 85.88 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon: Grok file formats next week | Solana | 降温中 | 强度 86.53 | 质量 80.21
+- Elon: Grok file formats next week | Solana | 加速中 | 强度 86.83 | 质量 82.76
   - 主题摘要：Elon Musk announced Grok AI will soon support outputting files in various formats, sparking excitement about its potential as an all-in-one business tool.
-  - 资金 100.00 / 广度 97.87 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Says p(Simulation)≈1 | Solana | 降温中 | 强度 83.07 | 质量 75.46
-  - 主题摘要：Elon Musk replies to Demis Hassabis with a cryptic statement on simulation theory, reigniting philosophical and tech debates across social media.
-  - 资金 100.00 / 广度 87.26 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NVIDIA Scientist and UW Professor Launch The AGI Hamster | Solana | 加速中 | 强度 82.42 | 质量 72.89
-  - 主题摘要：According to launch's post, Caelan Garrett, a Senior Research Scientist at NVIDIA, and YI LI, a professor at the University of Washington, are collaborating on the development of…
-  - 资金 100.00 / 广度 86.27 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 97.90 / 确认 24.48 / 脆弱性 26.13
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Retweets Balloon Flight Grok Meme Image | Solana | 加速中 | 强度 82.12 | 质量 76.36
+- Cryptocurrency Discussions | BSC | 已确认 | 强度 85.70 | 质量 80.04
+  - 主题摘要：Multiple tokens named 「黑洞」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.22 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Elon Musk Retweets Balloon Flight Grok Meme Image | Solana | 加速中 | 强度 84.24 | 质量 76.54
   - 主题摘要：Elon Musk retweeted a post referencing the Balloon Flight Grok Imagine template, which appears to be an AI-generated visual concept. The post includes a link to an image and is as…
-  - 资金 100.00 / 广度 85.20 / 确认 24.48 / 脆弱性 25.36
+  - 资金 100.00 / 广度 85.60 / 确认 24.48 / 脆弱性 16.13
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon: Grok file formats next week | BSC | 加速中 | 强度 81.70 | 质量 75.57
+- Elon: Grok file formats next week | BSC | 加速中 | 强度 83.60 | 质量 75.78
   - 主题摘要：Elon Musk announced Grok AI will soon support outputting files in various formats, sparking excitement about its potential as an all-in-one business tool.
-  - 资金 100.00 / 广度 83.48 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.60 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Solana Co-Founder Seeks Feedback on Percolator | Solana | 加速中 | 强度 80.45 | 质量 69.42
+- Downlon Mwusk | Solana | 降温中 | 强度 83.04 | 质量 72.29
+  - 主题摘要：DOWNLON token draws inspiration from Elon Musk's space exploration vision, featuring a logo with a person in a red planet-like environment. The token's narrative centers on Musk's…
+  - 资金 100.00 / 广度 74.09 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Bags Launches 0 Initiative Meme Coin | Solana | 加速中 | 强度 82.52 | 质量 75.78
+  - 主题摘要：According to Mr M's post, Bags has launched a new Meme coin initiative with zero fees, zero community, and minimal development effort. The initiative aims to facilitate easy distr…
+  - 资金 100.00 / 广度 80.40 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- NVIDIA Scientist and UW Professor Launch The AGI Hamster | Solana | 加速中 | 强度 79.43 | 质量 72.75
+  - 主题摘要：Multiple tokens named 「Nigel」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.67 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Solana Co-Founder Seeks Feedback on Percolator | Solana | 加速中 | 强度 77.28 | 质量 67.66
   - 主题摘要：Toly, co-founder of Solana Labs, has requested public feedback on a proposed significant change to the Percolator project, which is described as an educational research project no…
-  - 资金 100.00 / 广度 78.75 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.02 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Grok Imagine Templates Adds Video Mode | Solana | 加速中 | 强度 78.29 | 质量 69.45
-  - 主题摘要：According to Tech Dev Notes's post, Grok Imagine Templates on Web now includes a video mode, expanding its multimedia capabilities.
-  - 资金 100.00 / 广度 84.31 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Without Goal Wont Lose | Solana | 降温中 | 强度 77.41 | 质量 62.19
+- Without Goal Wont Lose | Solana | 降温中 | 强度 75.72 | 质量 61.73
   - 主题摘要：According to Molly Ploofkins's post, the phrase 'You can't lose if you don't have a goal' is attributed to a figure referred to as Don Tzu, with associated tokens bearing variatio…
-  - 资金 100.00 / 广度 72.80 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.90 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- U.S. Government Registers aliens.gov Domain | BSC | 降温中 | 强度 75.63 | 质量 68.54
+- U.S. Government Registers aliens.gov Domain | BSC | 降温中 | 强度 75.61 | 质量 68.69
   - 主题摘要：According to Polymarket's post, the U.S. Government has secretly registered the aliens.gov domain, sparking speculation and attention across social media and related crypto market…
-  - 资金 100.00 / 广度 79.72 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.95 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Wangwang Team Great Escape Incident | BSC | 加速中 | 强度 75.59 | 质量 64.30
-  - 主题摘要：According to 超级老尿🔶 BNB's post, a story involving seven dogs escaping from dog traffickers and returning home has been linked to the 7DOGE token. The narrative appears to be used f…
-  - 资金 100.00 / 广度 80.43 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Aster DEX Promotes Privacy Trading | BSC | 加速中 | 强度 75.54 | 质量 74.99
+- Aster DEX Promotes Privacy Trading | BSC | 加速中 | 强度 74.96 | 质量 77.26
   - 主题摘要：According to Aster 🥷's post, the platform promotes privacy trading on its native blockchain, Aster Chain. The message metaphorically emphasizes the concept of leaving no trace dur…
-  - 资金 100.00 / 广度 88.93 / 确认 31.68 / 脆弱性 14.00
+  - 资金 96.12 / 广度 88.93 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Wangwang Team Great Escape Incident | BSC | 加速中 | 强度 74.51 | 质量 64.34
+  - 主题摘要：According to 超级老尿🔶 BNB's post, a group of seven dogs escaped from dog thieves and returned home safely over a distance of 17 kilometers in Changchun, Jilin Province. The incident…
+  - 资金 100.00 / 广度 80.46 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.7，其中已确认叙事 2 个。
-- Wangwang Team Great Escape Incident 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Elon: Grok file formats next week 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.42，其中已确认叙事 2 个。
+- Bags Launches 0 Initiative Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Downlon Mwusk 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon aims rocket at Doge | 质量 83.75 | 可交易性 100.00 | 风险 低
+- Elon aims rocket at Doge | 质量 83.87 | 可交易性 100.00 | 风险 低
 - CZ on Dubai and Fake News | 质量 83.39 | 可交易性 100.00 | 风险 低
-- Elon: Grok file formats next week | 质量 80.21 | 可交易性 100.00 | 风险 低
-- Cryptocurrency Discussions | 质量 79.94 | 可交易性 100.00 | 风险 低
-- Elon Musk Retweets Balloon Flight Grok Meme Image | 质量 76.36 | 可交易性 91.38 | 风险 低
-- Elon: Grok file formats next week | 质量 75.57 | 可交易性 90.47 | 风险 低
-- Elon Says p(Simulation)≈1 | 质量 75.46 | 可交易性 92.12 | 风险 低
-- Aster DEX Promotes Privacy Trading | 质量 74.99 | 可交易性 94.83 | 风险 低
-- NVIDIA Scientist and UW Professor Launch The AGI Hamster | 质量 72.89 | 可交易性 78.75 | 风险 低
-- Grok Imagine Templates Adds Video Mode | 质量 69.45 | 可交易性 69.76 | 风险 低
+- Elon: Grok file formats next week | 质量 82.76 | 可交易性 100.00 | 风险 低
+- Cryptocurrency Discussions | 质量 80.04 | 可交易性 100.00 | 风险 低
+- Aster DEX Promotes Privacy Trading | 质量 77.26 | 可交易性 96.42 | 风险 低
+- Elon Musk Retweets Balloon Flight Grok Meme Image | 质量 76.54 | 可交易性 91.58 | 风险 低
+- Elon: Grok file formats next week | 质量 75.78 | 可交易性 91.05 | 风险 低
+- Bags Launches 0 Initiative Meme Coin | 质量 75.78 | 可交易性 94.25 | 风险 低
+- NVIDIA Scientist and UW Professor Launch The AGI Hamster | 质量 72.75 | 可交易性 77.87 | 风险 低
+- Downlon Mwusk | 质量 72.29 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -126,8 +126,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CZ on Dubai and Fake News（BSC，分数 88.24）
+1. 当前最强叙事：CZ on Dubai and Fake News（BSC，分数 88.13）
 2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：Without Goal Wont Lose 当前为“新出现”
+3. 记忆层变化：Downlon Mwusk 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined EDGEUSDT Perpetual Contract Pre-Market Trading (2026-03-19)
 #Binance #NarrativeOS #OpenClaw
