@@ -1,100 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-18T23:57:49.092894+00:00
+- 生成时间：2026-03-19T05:16:35.116381+00:00
 - 跟踪叙事：14
-- 已确认叙事：5
-- 高风险伪叙事：0
+- 已确认叙事：1
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Investors Rotate into Cash Rapidly，所在链为 Solana，叙事强度 84.74。
-- 当前平均叙事强度为 83.48，其中已确认叙事 5 个。
+- 当前最强叙事是 Wangwang Team Great Escape Incident，所在链为 BSC，叙事强度 87.98。
+- 当前平均叙事强度为 76.66，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 Meta Stock Surges After AI-Related Layoff Reports 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 mayemusk 新书，伪叙事风险 47.23。
+- 记忆层显示 Wangwang Team Great Escape Incident 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Musk's 3 Universal Elements，伪叙事风险 52.99。
 - 最新官方催化来自 新币上新：Binance Will Add Katana (KAT) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures。
 
 ## 叙事雷达
 
-- Investors Rotate into Cash Rapidly | Solana | 已确认 | 强度 84.74 | 质量 81.73
-  - 主题摘要：According to Kalshi's post, investors are rotating into cash at the fastest rate since the onset of the COVID-19 pandemic, indicating a significant shift in market behavior and ri…
-  - 资金 100.00 / 广度 87.09 / 确认 34.56 / 脆弱性 24.00
+- Wangwang Team Great Escape Incident | BSC | 已确认 | 强度 87.98 | 质量 79.60
+  - 主题摘要：According to 超级老尿🔶 BNB's post, a group of seven dogs escaped from dog thieves and returned home safely over a 17-kilometer journey, inspiring the creation of the 7DOGE token. This…
+  - 资金 100.00 / 广度 84.73 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- The Great Rotation and Regime Shift | Solana | 已确认 | 强度 83.99 | 质量 80.86
-  - 主题摘要：Samson Mow predicts a major market shift known as 'The Great Rotation' amid Bitcoin's rise to $73K and gold's decline below $5,000. According to Samson Mow's post, this reflects a…
-  - 资金 100.00 / 广度 86.83 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- The Great Recession Financial Outlook | Solana | 已确认 | 强度 83.99 | 质量 80.86
-  - 主题摘要：According to Community Deployer's post, a Business Insider article cited by a risk analyst who previously predicted the Great Recession now claims that a more severe financial cri…
-  - 资金 100.00 / 广度 86.83 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Financial Crisis Prediction by Analyst | Solana | 已确认 | 强度 83.95 | 质量 80.86
-  - 主题摘要：According to Business Insider's post, a risk analyst who accurately predicted the Great Recession warns that a more severe financial crisis may be developing. The analyst highligh…
-  - 资金 100.00 / 广度 86.83 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Meta Stock Surges After AI-Related Layoff Reports | Solana | 已确认 | 强度 83.63 | 质量 80.29
-  - 主题摘要：According to Polymarket's post, Meta's stock price surged after reports indicated the company is laying off 20% of its workforce due to AI-related strategic shifts.
-  - 资金 100.00 / 广度 84.92 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alien Government Website Registration | Solana | 加速中 | 强度 83.15 | 质量 72.06
-  - 主题摘要：According to Skywatch Signal's post, the domain aliens.gov was recently registered with a status indicating it is government-controlled, sparking speculation about official involv…
-  - 资金 100.00 / 广度 83.55 / 确认 20.16 / 脆弱性 14.00
+- Elon Says p(Simulation)≈1 | Solana | 加速中 | 强度 86.59 | 质量 78.60
+  - 主题摘要：Elon Musk replies to Demis Hassabis with a cryptic statement on simulation theory, reigniting philosophical and tech debates across social media.
+  - 资金 100.00 / 广度 87.42 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Brasil Launches 'Crypto Is Real' Web Series | BSC | 降温中 | 强度 82.81 | 质量 72.20
-  - 主题摘要：According to Binance Brasil's post, the founder of The News shared a financial decision that challenged the company's CFO. This was part of the first episode of 'Cripto Já é Real'…
-  - 资金 100.00 / 广度 79.28 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Solana Roasts BULK: You are... | Solana | 加速中 | 强度 82.55 | 质量 75.31
+- Solana Roasts BULK: You are... | Solana | 加速中 | 强度 82.64 | 质量 76.51
   - 主题摘要：Solana roasts BULK in a viral Twitter exchange using a cryptic 'You are' meme format, sparking community-driven jokes and memefication of the interaction.
-  - 资金 100.00 / 广度 87.82 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.52 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- NASDAQ Approves Tokenized Assets Trading | Solana | 加速中 | 强度 81.82 | 质量 73.72
-  - 主题摘要：According to Esoteric's post, the NASDAQ has approved trading of tokenized assets, and a related token named NASCAT has been referenced in the context of this development. This in…
-  - 资金 100.00 / 广度 87.63 / 确认 23.76 / 脆弱性 24.00
+- Meta Stock Surges After AI-Related Layoff Reports | Solana | 加速中 | 强度 82.40 | 质量 79.11
+  - 主题摘要：According to Polymarket's post, Meta's stock price surged after reports indicated the company is laying off 20% of its workforce due to AI-related strategic shifts.
+  - 资金 100.00 / 广度 83.62 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- mayemusk 新书 | BSC | 点火期 | 强度 77.52 | 质量 72.49
-  - 主题摘要：Maye Musk announced the release of her upcoming book 'TIMELESS', set to be published by Harper Books and HQ Stories on September 15, 2026. According to Maye Musk's post, the book…
-  - 资金 100.00 / 广度 80.18 / 确认 16.56 / 脆弱性 24.00
+- U.S. Government Registers aliens.gov Domain | Solana | 点火期 | 强度 80.73 | 质量 78.55
+  - 主题摘要：According to Polymarket's post, the U.S. Government has secretly registered the aliens.gov domain name, sparking speculation and discussion across social media and related cryptoc…
+  - 资金 100.00 / 广度 89.69 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Binance AI Naming Suggestion | BSC | 加速中 | 强度 75.74 | 质量 75.96
-  - 主题摘要：According to 招财猫🔶BNB's post, a user suggested the name 'AnAn' for the upcoming Binance AI product, indicating a high probability of it being adopted. The post responds to Binance'…
-  - 资金 100.00 / 广度 93.57 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- There's BAE in there | BSC | 加速中 | 强度 74.84 | 质量 61.99
-  - 主题摘要：Binance官方推文调侃式暗示某个'宝贝'（BAE）存在于某个项目或话题中，引发社区猜测与二次创作，具有一定的传播潜力。
-  - 资金 100.00 / 广度 79.20 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Eidi Token Discussion | BSC | 加速中 | 强度 74.52 | 质量 57.80
-  - 主题摘要：According to Binance Pakistan 🇵🇰's post, the topic reflects a sentiment around the term 'Eidi', typically associated with cultural gift-giving practices, being humorously referenc…
-  - 资金 100.00 / 广度 73.95 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Chain Launches BNB City | BSC | 加速中 | 强度 74.29 | 质量 71.07
+- ALIEN BABY | Solana | 降温中 | 强度 80.16 | 质量 74.88
+  - 主题摘要：ALIENBABY is a meme token inspired by the viral 'Alien Baby' internet meme featuring a cute, alien-themed baby character. The token embraces the playful, community-driven spirit o…
+  - 资金 100.00 / 广度 82.74 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alien Government Website Registration | Solana | 点火期 | 强度 77.62 | 质量 71.33
+  - 主题摘要：According to Skywatch Signal's post, the domain aliens.gov was recently registered with a status indicating it is government-controlled, sparking speculation about official involv…
+  - 资金 100.00 / 广度 84.70 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Over $800 Billion Erased from US Stock Market | Solana | 点火期 | 强度 76.59 | 质量 74.70
+  - 主题摘要：According to إيران بالعربية's post, more than $800 billion was erased from the U.S. stock market yesterday. This information reflects a significant market correction, though no fu…
+  - 资金 100.00 / 广度 91.58 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Musk's 3 Universal Elements | Solana | 点火期 | 强度 76.05 | 质量 69.06
+  - 主题摘要：Elon Musk's cryptic tweet listing 'Matter, Energy & Intelligence' sparks speculation about its philosophical or technological meaning. This concise and cosmic message has the pote…
+  - 资金 100.00 / 广度 98.97 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- mayemusk 新书 | BSC | 点火期 | 强度 75.52 | 质量 70.24
+  - 主题摘要：Maye Musk announced the release of her upcoming book 'TIMELESS', set to be published by Harper Books and HQ Stories on September 15, 2026. According to Maye Musk's post, the book…
+  - 资金 100.00 / 广度 79.90 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- BNB Chain Launches BNB City | BSC | 加速中 | 强度 74.78 | 质量 72.17
   - 主题摘要：BNB Chain collaborates with BSC_Trace to launch an interactive virtual city that visualizes blockchain activity. Combines gamification and blockchain data for user engagement.
-  - 资金 100.00 / 广度 85.04 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.12 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- There's BAE in there | BSC | 加速中 | 强度 74.57 | 质量 68.78
+  - 主题摘要：Binance官方推文调侃式暗示某个'宝贝'（BAE）存在于某个项目或话题中，引发社区猜测与二次创作，具有一定的传播潜力。
+  - 资金 100.00 / 广度 80.93 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Binance AI Naming Suggestion | BSC | 加速中 | 强度 73.60 | 质量 72.77
+  - 主题摘要：招财猫🔶BNB suggested the name 'AnAn' for Binance's upcoming AI product, in response to an official naming contest hosted by Binance. According to 招财猫🔶BNB's post, this name is likely…
+  - 资金 100.00 / 广度 93.67 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 燃烧狗 | BSC | 降温中 | 强度 73.52 | 质量 60.41
+  - 主题摘要：Multiple tokens named 「BurnDog」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.65 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.48，其中已确认叙事 5 个。
-- Meta Stock Surges After AI-Related Layoff Reports 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Uncertain:Binance Brasil Launches 'Crypto Is Real' Web Series 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.66，其中已确认叙事 1 个。
+- Wangwang Team Great Escape Incident 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- ALIEN BABY 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Investors Rotate into Cash Rapidly | 质量 81.73 | 可交易性 100.00 | 风险 低
-- The Great Rotation and Regime Shift | 质量 80.86 | 可交易性 100.00 | 风险 低
-- The Great Recession Financial Outlook | 质量 80.86 | 可交易性 100.00 | 风险 低
-- Financial Crisis Prediction by Analyst | 质量 80.86 | 可交易性 100.00 | 风险 低
-- Meta Stock Surges After AI-Related Layoff Reports | 质量 80.29 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance AI Naming Suggestion | 质量 75.96 | 可交易性 100.00 | 风险 低
-- Solana Roasts BULK: You are... | 质量 75.31 | 可交易性 100.00 | 风险 低
-- NASDAQ Approves Tokenized Assets Trading | 质量 73.72 | 可交易性 80.69 | 风险 低
-- mayemusk 新书 | 质量 72.49 | 可交易性 89.32 | 风险 低
-- Uncertain:Binance Brasil Launches 'Crypto Is Real' Web Series | 质量 72.20 | 可交易性 89.23 | 风险 低
+- Wangwang Team Great Escape Incident | 质量 79.60 | 可交易性 100.00 | 风险 低
+- Meta Stock Surges After AI-Related Layoff Reports | 质量 79.11 | 可交易性 100.00 | 风险 低
+- Elon Says p(Simulation)≈1 | 质量 78.60 | 可交易性 99.81 | 风险 低
+- U.S. Government Registers aliens.gov Domain | 质量 78.55 | 可交易性 100.00 | 风险 低
+- Solana Roasts BULK: You are... | 质量 76.51 | 可交易性 100.00 | 风险 低
+- ALIEN BABY | 质量 74.88 | 可交易性 100.00 | 风险 低
+- Over $800 Billion Erased from US Stock Market | 质量 74.70 | 可交易性 87.92 | 风险 低
+- Uncertain:Binance AI Naming Suggestion | 质量 72.77 | 可交易性 100.00 | 风险 低
+- BNB Chain Launches BNB City | 质量 72.17 | 可交易性 100.00 | 风险 低
+- Alien Government Website Registration | 质量 71.33 | 可交易性 80.93 | 风险 低
 
 ## 伪叙事风险
 
+- Musk's 3 Universal Elements | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - mayemusk 新书 | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Over $800 Billion Erased from US Stock Market | 风险 44.91 | 原因：流动性偏薄
+- U.S. Government Registers aliens.gov Domain | 风险 42.03 | 原因：流动性偏薄
+- Alien Government Website Registration | 风险 42.03 | 原因：流动性偏薄
+- ALIEN BABY | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -103,7 +108,6 @@
 - Cake | BSC | 看多 | 新鲜度 70.27 | 暂无直接叙事映射
 - Fight | BSC | 看多 | 新鲜度 58.28 | 暂无直接叙事映射
 - HeavyPulp | Solana | 看多 | 新鲜度 51.07 | 暂无直接叙事映射
-- SAFE | BSC | 看多 | 新鲜度 48.17 | 暂无直接叙事映射
 - frogs | BSC | 看多 | 新鲜度 47.14 | 暂无直接叙事映射
 
 ## 官方催化
@@ -130,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Investors Rotate into Cash Rapidly（Solana，分数 84.74）
+1. 当前最强叙事：Wangwang Team Great Escape Incident（BSC，分数 87.98）
 2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：Meta Stock Surges After AI-Related Layoff Reports 当前为“新出现”
+3. 记忆层变化：Wangwang Team Great Escape Incident 当前为“新出现”
 4. 最新官方催化：Binance Will Add Katana (KAT) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 #Binance #NarrativeOS #OpenClaw
