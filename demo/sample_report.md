@@ -1,101 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-21T21:47:59.356737+00:00
+- 生成时间：2026-03-21T22:53:53.139764+00:00
 - 跟踪叙事：14
-- 已确认叙事：5
-- 高风险伪叙事：0
+- 已确认叙事：4
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Elon Musk Sends Dog to Mars，所在链为 BSC，叙事强度 88.28。
-- 当前平均叙事强度为 81.89，其中已确认叙事 4 个。
+- 当前最强叙事是 Elon Musk Sends Dog to Mars，所在链为 BSC，叙事强度 86.95。
+- 当前平均叙事强度为 81.79，其中已确认叙事 4 个。
 - 注意力与资金共振最强的代币是 PA，来自 BSC，共振分数 100.0。
-- 记忆层显示 Delusional Bull 当前处于“新出现”状态。
+- 记忆层显示 Cryptocurrency Discussions 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 So Many Chains, So Few Real Ones，伪叙事风险 52.99。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch PAYPUSDT USDⓈ-Margined Equity Perpetual Contract (2026-03-23)。
 
 ## 叙事雷达
 
-- Elon Musk Sends Dog to Mars | BSC | 加速中 | 强度 88.28 | 质量 82.15
+- Elon Musk Sends Dog to Mars | BSC | 加速中 | 强度 86.95 | 质量 82.16
   - 主题摘要：Elon Musk tweeted an image of a dog in a rocketship with the caption 'First dog on Mars'—sparking wild speculation, humor, and meme potential around space exploration and crypto c…
-  - 资金 100.00 / 广度 95.87 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.91 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Monitoring The Situation | Solana | 降温中 | 强度 86.08 | 质量 77.26
+- Monitoring The Situation | Solana | 降温中 | 强度 85.85 | 质量 77.31
   - 主题摘要：Multiple tokens named 「MTS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.40 / 确认 16.56 / 脆弱性 10.00
+  - 资金 100.00 / 广度 85.54 / 确认 16.56 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Two Tokens with High LP to Market Cap Ratio | Solana | 加速中 | 强度 84.30 | 质量 72.67
-  - 主题摘要：According to Tom's post, two tokens have reached a 50% liquidity pool to market cap ratio on Balanced mode, indicating significant trader interest in this balanced liquidity model.
-  - 资金 100.00 / 广度 82.75 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon: Grok file formats next week | BSC | 已确认 | 强度 83.63 | 质量 78.95
+- Elon: Grok file formats next week | BSC | 已确认 | 强度 84.07 | 质量 77.60
   - 主题摘要：Elon Musk announced Grok AI will soon support outputting files in various formats, sparking excitement about its potential as an all-in-one business tool.
-  - 资金 100.00 / 广度 95.55 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 95.41 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- lieless Announces Zazu Meme图 on Bonk | Solana | 已确认 | 强度 82.79 | 质量 75.92
-  - 主题摘要：According to lieless's post, the zazu Meme图 has successfully achieved what many previously failed to do, leveraging Bonk's support. The post highlights the cultural significance a…
-  - 资金 100.00 / 广度 72.47 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Delusional Bull | Solana | 降温中 | 强度 82.57 | 质量 72.58
-  - 主题摘要：The $BULL token, launched on Discord, has quickly gained traction on X platform, drawing inspiration from fintech innovation and bullish market trends. Discussions highlight its p…
-  - 资金 100.00 / 广度 69.79 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 燃烧王 | BSC | 已确认 | 强度 82.46 | 质量 78.59
+- Two Tokens with High LP to Market Cap Ratio | Solana | 加速中 | 强度 83.26 | 质量 73.14
+  - 主题摘要：According to Tom's post, two tokens have reached a liquidity pool to market cap ratio of nearly 50% based on trading volume observed on balanced mode. This metric is seen as favor…
+  - 资金 100.00 / 广度 83.60 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 燃烧王 | BSC | 已确认 | 强度 82.52 | 质量 78.61
   - 主题摘要：Multiple tokens named 「燃烧王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.75 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.79 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- This Style Is Taking Over | BSC | 已确认 | 强度 81.79 | 质量 74.58
-  - 主题摘要：Binance官方账号发布一条神秘推文暗示某种视觉风格将主导接下来的网络潮流，引发社区猜测与模仿，具有传播发酵潜力。
-  - 资金 100.00 / 广度 81.26 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Musk LOLs at Banger | BSC | 加速中 | 强度 81.70 | 质量 72.07
-  - 主题摘要：Elon Musk replies to a fan's tweet with 'Banger 🤣🤣', sparking meme-worthy reactions and potential for a meme token based on the phrase.
-  - 资金 100.00 / 广度 94.40 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Sanae Takaichi Meme Image Trend | BSC | 已确认 | 强度 80.87 | 质量 71.79
-  - 主题摘要：According to Autism Capital 🧩's post, Japanese X users are circulating Meme images mocking Sanae Takaichi, referring to her as 'the cart titan.' The content reflects a satirical o…
-  - 资金 100.00 / 广度 74.94 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 我们做了这件事 | BSC | 加速中 | 强度 79.95 | 质量 77.57
-  - 主题摘要：Nina Rong retweeted a post referencing the launch of goo economy, which appears to be connected to BNB Chain. Further details about the initiative remain unclear.
-  - 资金 100.00 / 广度 87.89 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WLFI Article and BONK Resurgence | Solana | 加速中 | 强度 79.40 | 质量 70.68
+- WLFI Article and BONK Resurgence | Solana | 加速中 | 强度 82.43 | 质量 71.79
   - 主题摘要：According to Quinx's post, a Meme image previously mentioned in a WLFI article about agents has resurfaced in relevance following the return of 'bonk'.
-  - 资金 100.00 / 广度 79.30 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.35 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Tsuki The Seal Birthday Celebration | Solana | 加速中 | 强度 79.26 | 质量 71.84
+- Sanae Takaichi Meme Image Trend | BSC | 已确认 | 强度 81.11 | 质量 71.81
+  - 主题摘要：According to Autism Capital 🧩's post, Japanese X users are circulating Meme images mocking Sanae Takaichi, the Japanese politician, with humorous and critical commentary.
+  - 资金 100.00 / 广度 74.97 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Tsuki The Seal Birthday Celebration | Solana | 加速中 | 强度 80.35 | 质量 72.08
   - 主题摘要：According to くま's post, a birthday celebration message was shared featuring the character Tsuki, who is associated with a seal theme and appears to be part of a crypto or online c…
-  - 资金 100.00 / 广度 83.85 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.03 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Influencer Launched Cryptocurrency | BSC | 加速中 | 强度 76.44 | 质量 65.37
-  - 主题摘要：According to 赊币人🔶BNB's post, a cryptocurrency was issued by a major influencer with millions of followers. The post highlights the phenomenon of social media influencers launching…
-  - 资金 100.00 / 广度 83.00 / 确认 30.96 / 脆弱性 24.00
+- Musk LOLs at Banger | BSC | 加速中 | 强度 80.34 | 质量 72.02
+  - 主题摘要：Elon Musk replies to a fan's tweet with 'Banger 🤣🤣', sparking meme-worthy reactions and potential for a meme token based on the phrase.
+  - 资金 100.00 / 广度 94.44 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- This Style Is Taking Over | BSC | 加速中 | 强度 79.90 | 质量 73.63
+  - 主题摘要：Binance官方账号发布一条神秘推文暗示某种视觉风格将主导接下来的网络潮流，引发社区猜测与模仿，具有传播发酵潜力。
+  - 资金 100.00 / 广度 81.04 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Cryptocurrency Discussions | BSC | 已确认 | 强度 79.75 | 质量 73.30
+  - 主题摘要：According to YYYzzy | GDC🦞's post, the BlackHole Protocol implements a 3% transaction fee, which is allocated for BNB dividends and token burns. The mechanism encourages long-term…
+  - 资金 100.00 / 广度 80.32 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- 我们做了这件事 | BSC | 加速中 | 强度 79.65 | 质量 77.56
+  - 主题摘要：Nina Rong retweeted a post referencing the launch of goo economy, which appears to be connected to BNB Chain. Further details about the initiative remain unclear.
+  - 资金 100.00 / 广度 88.02 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Burrito Token Deployment Update | Solana | 加速中 | 强度 76.32 | 质量 61.39
+  - 主题摘要：According to chip's post, the original token was deployed before an update and is not eligible for rewards. A new deployment on USD1 will be conducted properly following the updat…
+  - 资金 100.00 / 广度 76.85 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- So Many Chains, So Few Real Ones | Solana | 点火期 | 强度 74.51 | 质量 67.60
+  - 主题摘要：A sarcastic response from Solana to Elon Musk's tweet about phonies, sparking a meme-ified debate over which blockchains are truly 'the real deal'. It taps into ongoing crypto tri…
+  - 资金 100.00 / 广度 88.64 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 81.89，其中已确认叙事 4 个。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 81.79，其中已确认叙事 4 个。
+- Cryptocurrency Discussions 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Monitoring The Situation 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk Sends Dog to Mars | 质量 82.15 | 可交易性 100.00 | 风险 低
-- Elon: Grok file formats next week | 质量 78.95 | 可交易性 100.00 | 风险 低
-- 燃烧王 | 质量 78.59 | 可交易性 100.00 | 风险 低
-- 我们做了这件事 | 质量 77.57 | 可交易性 93.24 | 风险 低
-- Monitoring The Situation | 质量 77.26 | 可交易性 100.00 | 风险 低
-- lieless Announces Zazu Meme图 on Bonk | 质量 75.92 | 可交易性 100.00 | 风险 低
-- This Style Is Taking Over | 质量 74.58 | 可交易性 99.87 | 风险 低
-- Two Tokens with High LP to Market Cap Ratio | 质量 72.67 | 可交易性 81.54 | 风险 低
-- Delusional Bull | 质量 72.58 | 可交易性 100.00 | 风险 低
-- Musk LOLs at Banger | 质量 72.07 | 可交易性 67.89 | 风险 低
+- Elon Musk Sends Dog to Mars | 质量 82.16 | 可交易性 100.00 | 风险 低
+- 燃烧王 | 质量 78.61 | 可交易性 100.00 | 风险 低
+- Elon: Grok file formats next week | 质量 77.60 | 可交易性 100.00 | 风险 低
+- 我们做了这件事 | 质量 77.56 | 可交易性 93.10 | 风险 低
+- Monitoring The Situation | 质量 77.31 | 可交易性 100.00 | 风险 低
+- This Style Is Taking Over | 质量 73.63 | 可交易性 100.00 | 风险 低
+- Cryptocurrency Discussions | 质量 73.30 | 可交易性 100.00 | 风险 低
+- Two Tokens with High LP to Market Cap Ratio | 质量 73.14 | 可交易性 82.26 | 风险 低
+- Tsuki The Seal Birthday Celebration | 质量 72.08 | 可交易性 78.29 | 风险 低
+- Musk LOLs at Banger | 质量 72.02 | 可交易性 67.68 | 风险 低
 
 ## 伪叙事风险
 
+- So Many Chains, So Few Real Ones | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- pa | BSC | 看多 | 新鲜度 100.00 | Influencer Launched Cryptocurrency
+- pa | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CHIBIFY | BSC | 看多 | 新鲜度 100.00 | Elon: Grok file formats next week
 - CHIBELON | BSC | 看多 | 新鲜度 100.00 | Elon Musk Sends Dog to Mars / Musk LOLs at Banger
 - CHIBI | Solana | 看多 | 新鲜度 88.27 | 暂无直接叙事映射
@@ -128,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Elon Musk Sends Dog to Mars（BSC，分数 88.28）
+1. 当前最强叙事：Elon Musk Sends Dog to Mars（BSC，分数 86.95）
 2. 共振最强代币：PA（BSC，共振 100.0）
-3. 记忆层变化：Delusional Bull 当前为“新出现”
+3. 记忆层变化：Cryptocurrency Discussions 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch PAYPUSDT USDⓈ-Margined Equity Perpetual Contract (2026-03-23)
 #Binance #NarrativeOS #OpenClaw
