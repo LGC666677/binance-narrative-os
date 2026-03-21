@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-21T16:57:56.813979+00:00
+- 生成时间：2026-03-21T17:52:53.990347+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Monitoring The Situation，所在链为 Solana，叙事强度 88.12。
-- 当前平均叙事强度为 82.95，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
-- 记忆层显示 WLFI Article and BONK Resurgence 当前处于“新出现”状态。
+- 当前最强叙事是 Elon Musk Sends Dog to Mars，所在链为 BSC，叙事强度 88.23。
+- 当前平均叙事强度为 82.88，其中已确认叙事 3 个。
+- 注意力与资金共振最强的代币是 龙虾，来自 BSC，共振分数 100.0。
+- 记忆层显示 lieless Announces Zazu Meme图 on Bonk 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 So Many Chains, So Few Real Ones，伪叙事风险 40.99。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch PAYPUSDT USDⓈ-Margined Equity Perpetual Contract (2026-03-23)。
 
 ## 叙事雷达
 
-- Monitoring The Situation | Solana | 降温中 | 强度 88.12 | 质量 77.19
-  - 主题摘要：Multiple tokens named 「MTS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.15 / 确认 16.56 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Sends Dog to Mars | BSC | 加速中 | 强度 87.91 | 质量 82.11
+- Elon Musk Sends Dog to Mars | BSC | 加速中 | 强度 88.23 | 质量 82.14
   - 主题摘要：Elon Musk tweeted an image of a dog in a rocketship with the caption 'First dog on Mars'—sparking wild speculation, humor, and meme potential around space exploration and crypto c…
-  - 资金 100.00 / 广度 95.76 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.85 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- So Many Chains, So Few Real Ones | Solana | 降温中 | 强度 85.89 | 质量 78.39
-  - 主题摘要：A sarcastic response from Solana to Elon Musk's tweet about phonies, sparking a meme-ified debate over which blockchains are truly 'the real deal'. It taps into ongoing crypto tri…
-  - 资金 100.00 / 广度 89.15 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon: Grok file formats next week | BSC | 已确认 | 强度 85.73 | 质量 81.39
+- Elon: Grok file formats next week | BSC | 已确认 | 强度 84.77 | 质量 81.24
   - 主题摘要：Elon Musk announced Grok AI will soon support outputting files in various formats, sparking excitement about its potential as an all-in-one business tool.
-  - 资金 100.00 / 广度 95.95 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 96.00 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Anti-AI Coin Community Growth | Solana | 加速中 | 强度 82.85 | 质量 72.76
+- Monitoring The Situation | Solana | 降温中 | 强度 84.66 | 质量 75.57
+  - 主题摘要：Multiple tokens named 「MTS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.03 / 确认 9.36 / 脆弱性 10.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- lieless Announces Zazu Meme图 on Bonk | Solana | 加速中 | 强度 84.59 | 质量 74.98
+  - 主题摘要：According to lieless's post, the zazu Meme图 has successfully achieved what many previously failed to do, leveraging Bonk's support. The post highlights the cultural significance a…
+  - 资金 100.00 / 广度 69.86 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Anti-AI Coin Community Growth | Solana | 加速中 | 强度 83.88 | 质量 73.01
   - 主题摘要：Multiple tokens named 「ANTIAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.57 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.74 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AI Plagiarism Meme Coin 'PISS' | Solana | 加速中 | 强度 82.46 | 质量 72.18
-  - 主题摘要：According to Clance's post, a Meme image circulating on Reddit and Pinterest humorously renames AI as 'Plagiarized Information Synthesis System' (PISS), referencing newly deployed…
-  - 资金 100.00 / 广度 83.67 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- This Style Is Taking Over | BSC | 加速中 | 强度 81.72 | 质量 77.51
-  - 主题摘要：Binance官方账号发布一条神秘推文暗示某种视觉风格将主导接下来的网络潮流，引发社区猜测与模仿，具有传播发酵潜力。
-  - 资金 100.00 / 广度 81.79 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WLFI Article and BONK Resurgence | Solana | 降温中 | 强度 81.67 | 质量 70.00
+- WLFI Article and BONK Resurgence | Solana | 加速中 | 强度 83.67 | 质量 72.10
   - 主题摘要：According to Quinx's post, a Meme image previously mentioned in a WLFI article about agents has resurfaced in relevance following the return of 'bonk'.
-  - 资金 100.00 / 广度 78.58 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Musk LOLs at Banger | BSC | 加速中 | 强度 81.33 | 质量 72.05
-  - 主题摘要：Elon Musk replies to a fan's tweet with 'Banger 🤣🤣', sparking meme-worthy reactions and potential for a meme token based on the phrase.
-  - 资金 100.00 / 广度 94.26 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.81 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AI Plagiarism Meme Coin 'PISS' | Solana | 加速中 | 强度 81.18 | 质量 69.86
-  - 主题摘要：According to Michael's post, the AI-related Meme coin 'PISS' stands for 'Plagiarized Information Synthesis System' and originated from a Reddit thread. The name appears to be a sa…
-  - 资金 100.00 / 广度 84.07 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 燃烧王 | BSC | 已确认 | 强度 81.16 | 质量 78.46
+- 燃烧王 | BSC | 已确认 | 强度 82.20 | 质量 78.48
   - 主题摘要：Multiple tokens named 「燃烧王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.29 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.36 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- AISLOPOPEDIA Meme Image Shared | Solana | 降温中 | 强度 81.05 | 质量 72.25
-  - 主题摘要：According to Shubham Saboo's post, multiple AISLOPOPEDIA-named tokens have been created on platforms such as RapidLaunch.io and J7Tracker.io, and promoted via Discord. The repeate…
-  - 资金 100.00 / 广度 82.55 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 我们做了这件事 | BSC | 加速中 | 强度 80.40 | 质量 76.65
-  - 主题摘要：Multiple tokens named 「蛊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.00 / 确认 23.76 / 脆弱性 14.00
+- AI Plagiarism Meme Coin 'PISS' | Solana | 加速中 | 强度 82.10 | 质量 70.11
+  - 主题摘要：According to Michael's post, the AI-related Meme coin 'PISS' stands for 'Plagiarized Information Synthesis System' and originated from a Reddit thread. The name appears to be a sa…
+  - 资金 100.00 / 广度 84.24 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Google Employee Creates Wiki Slop Website | Solana | 降温中 | 强度 80.37 | 质量 71.53
-  - 主题摘要：According to DarthMiaul's post, a Google employee created a website called 'Wiki Slop'. The website features a logo and is linked to the AISLOPOPEDIA token, though no further deta…
-  - 资金 100.00 / 广度 71.57 / 确认 9.36 / 脆弱性 14.00
+- Musk LOLs at Banger | BSC | 加速中 | 强度 81.73 | 质量 72.15
+  - 主题摘要：Elon Musk replies to a fan's tweet with 'Banger 🤣🤣', sparking meme-worthy reactions and potential for a meme token based on the phrase.
+  - 资金 100.00 / 广度 94.37 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- So Many Chains, So Few Real Ones | Solana | 降温中 | 强度 81.72 | 质量 76.55
+  - 主题摘要：A sarcastic response from Solana to Elon Musk's tweet about phonies, sparking a meme-ified debate over which blockchains are truly 'the real deal'. It taps into ongoing crypto tri…
+  - 资金 100.00 / 广度 89.01 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- This Style Is Taking Over | BSC | 加速中 | 强度 81.62 | 质量 77.48
+  - 主题摘要：Binance官方账号发布一条神秘推文暗示某种视觉风格将主导接下来的网络潮流，引发社区猜测与模仿，具有传播发酵潜力。
+  - 资金 100.00 / 广度 81.80 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- AI Plagiarism Meme Coin 'PISS' | Solana | 加速中 | 强度 81.18 | 质量 68.48
+  - 主题摘要：Multiple tokens named 「PISS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.69 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Final Boss Meme Image | Solana | 加速中 | 强度 80.93 | 质量 73.71
+  - 主题摘要：According to OutKick's post, a Meme image referencing 'The Final Boss' has gained attention, with multiple tokens adopting similar names and themes. The image appears to originate…
+  - 资金 100.00 / 广度 83.04 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Cryptocurrency Discussions | BSC | 已确认 | 强度 78.73 | 质量 73.50
+  - 主题摘要：According to YYYzzy | GDC🦞's post, the BlackHole Protocol implements a 3% transaction fee, which is allocated for BNB dividends and token burns. The mechanism encourages long-term…
+  - 资金 100.00 / 广度 80.46 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.95，其中已确认叙事 0 个。
-- AI Plagiarism Meme Coin 'PISS' 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 82.88，其中已确认叙事 3 个。
+- lieless Announces Zazu Meme图 on Bonk 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Monitoring The Situation 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk Sends Dog to Mars | 质量 82.11 | 可交易性 100.00 | 风险 低
-- Elon: Grok file formats next week | 质量 81.39 | 可交易性 100.00 | 风险 低
-- 燃烧王 | 质量 78.46 | 可交易性 100.00 | 风险 低
-- So Many Chains, So Few Real Ones | 质量 78.39 | 可交易性 100.00 | 风险 低
-- This Style Is Taking Over | 质量 77.51 | 可交易性 98.64 | 风险 低
-- Monitoring The Situation | 质量 77.19 | 可交易性 100.00 | 风险 低
-- 我们做了这件事 | 质量 76.65 | 可交易性 93.05 | 风险 低
-- Anti-AI Coin Community Growth | 质量 72.76 | 可交易性 79.00 | 风险 低
-- AISLOPOPEDIA Meme Image Shared | 质量 72.25 | 可交易性 91.42 | 风险 低
-- AI Plagiarism Meme Coin 'PISS' | 质量 72.18 | 可交易性 78.97 | 风险 低
+- Elon Musk Sends Dog to Mars | 质量 82.14 | 可交易性 100.00 | 风险 低
+- Elon: Grok file formats next week | 质量 81.24 | 可交易性 100.00 | 风险 低
+- 燃烧王 | 质量 78.48 | 可交易性 100.00 | 风险 低
+- This Style Is Taking Over | 质量 77.48 | 可交易性 98.50 | 风险 低
+- So Many Chains, So Few Real Ones | 质量 76.55 | 可交易性 99.28 | 风险 低
+- Monitoring The Situation | 质量 75.57 | 可交易性 100.00 | 风险 低
+- lieless Announces Zazu Meme图 on Bonk | 质量 74.98 | 可交易性 100.00 | 风险 低
+- Final Boss Meme Image | 质量 73.71 | 可交易性 87.86 | 风险 低
+- Cryptocurrency Discussions | 质量 73.50 | 可交易性 100.00 | 风险 低
+- Anti-AI Coin Community Growth | 质量 73.01 | 可交易性 79.69 | 风险 低
 
 ## 伪叙事风险
 
+- So Many Chains, So Few Real Ones | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -129,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Monitoring The Situation（Solana，分数 88.12）
-2. 共振最强代币：SIREN（BSC，共振 100.0）
-3. 记忆层变化：WLFI Article and BONK Resurgence 当前为“新出现”
+1. 当前最强叙事：Elon Musk Sends Dog to Mars（BSC，分数 88.23）
+2. 共振最强代币：龙虾（BSC，共振 100.0）
+3. 记忆层变化：lieless Announces Zazu Meme图 on Bonk 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch PAYPUSDT USDⓈ-Margined Equity Perpetual Contract (2026-03-23)
 #Binance #NarrativeOS #OpenClaw
