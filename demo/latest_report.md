@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-22T05:11:39.690518+00:00
+- 生成时间：2026-03-22T07:28:35.663400+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Elon Musk Sends Dog to Mars，所在链为 BSC，叙事强度 87.46。
-- 当前平均叙事强度为 80.51，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 WeChat Launches ClawBot Plugin 当前处于“新出现”状态。
+- 当前最强叙事是 Aspen，所在链为 Solana，叙事强度 87.22。
+- 当前平均叙事强度为 81.77，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
+- 记忆层显示 Grokputer 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch PAYPUSDT USDⓈ-Margined Equity Perpetual Contract (2026-03-23)。
 
 ## 叙事雷达
 
-- Elon Musk Sends Dog to Mars | BSC | 加速中 | 强度 87.46 | 质量 82.17
-  - 主题摘要：Elon Musk tweeted an image of a dog in a rocketship with the caption 'First dog on Mars'—sparking wild speculation, humor, and meme potential around space exploration and crypto c…
-  - 资金 100.00 / 广度 95.96 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Against All Odds Token Launch | Solana | 加速中 | 强度 84.99 | 质量 80.34
-  - 主题摘要：According to Against All Odds's post, a new Meme coin was launched with a thematic focus on probability and existential odds, referencing astronomical figures to highlight the imp…
-  - 资金 100.00 / 广度 93.02 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Divergent Focus in Crypto Communities | Solana | 加速中 | 强度 84.69 | 质量 80.82
-  - 主题摘要：According to Pump.fun's post, the platform contrasts its approach of scanning active communities with others who focus on newly listed coins, highlighting differing strategies in…
-  - 资金 100.00 / 广度 94.63 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WeChat Launches ClawBot Plugin | BSC | 加速中 | 强度 83.49 | 质量 77.36
-  - 主题摘要：According to 牙爪角度(p图是狗)'s post, WeChat recently launched a plugin called ClawBot, allowing users to bind their accounts via QR code scanning. The plugin appears to be linked to th…
-  - 资金 100.00 / 广度 80.24 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Aspen | Solana | 加速中 | 强度 82.24 | 质量 83.24
-  - 主题摘要：According to Zeptic's post, the individual expressed an approach or strategy involving 'Balanced Mode' in the context of cryptocurrency or token engagement. The statement reflects…
-  - 资金 100.00 / 广度 97.39 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MJ the Dolphin Meme Coin | Solana | 降温中 | 强度 81.58 | 质量 69.66
-  - 主题摘要：According to KTLA's post, a pantropical spotted dolphin was photographed performing an extraordinary aerial leap off the coast of Hawaii, drawing comparisons to Michael Jordan and…
-  - 资金 100.00 / 广度 77.56 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Musk LOLs at Banger | BSC | 加速中 | 强度 80.72 | 质量 71.86
-  - 主题摘要：Elon Musk replies to a fan's tweet with 'Banger 🤣🤣', sparking meme-worthy reactions and potential for a meme token based on the phrase.
-  - 资金 100.00 / 广度 94.63 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Two Tokens with High LP to Market Cap Ratio | Solana | 加速中 | 强度 80.00 | 质量 73.31
-  - 主题摘要：According to Tom's post, two tokens have reached a significant trading volume under balanced mode, with their liquidity pool to market cap ratio nearing 50%. This aligns with trad…
-  - 资金 100.00 / 广度 84.87 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Conviction Narrative in Meme Coin Community | Solana | 降温中 | 强度 79.28 | 质量 69.40
-  - 主题摘要：According to Clown's post, the community aims to reinforce a 'conviction and holder mentality' around the $conviction token, distributing and locking portions among holders to enc…
-  - 资金 100.00 / 广度 64.48 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon: Grok file formats next week | BSC | 已确认 | 强度 78.60 | 质量 74.37
-  - 主题摘要：Elon Musk announced Grok AI will soon support outputting files in various formats, sparking excitement about its potential as an all-in-one business tool.
-  - 资金 100.00 / 广度 95.08 / 确认 28.08 / 脆弱性 14.00
+- Aspen | Solana | 已确认 | 强度 87.22 | 质量 84.33
+  - 主题摘要：According to Zeptic's post, the individual is referencing the use of a 'Balanced Mode' in a gaming or strategic context. The statement appears to reflect a gameplay or decision-ma…
+  - 资金 100.00 / 广度 97.87 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- gr3g Joins Bonkfun as Advisor | Solana | 降温中 | 强度 77.22 | 质量 67.44
-  - 主题摘要：gr3g announces joining Bonkfun as an advisor to support trader-focused development, provide community insights, and assist in platform growth. He emphasizes his continued active p…
-  - 资金 100.00 / 广度 80.86 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cryptocurrency Discussions | BSC | 加速中 | 强度 76.84 | 质量 70.27
-  - 主题摘要：According to YYYzzy | GDC🦞's post, the BlackHole Protocol implements a 3% transaction fee, which is allocated for BNB dividends and token burns. The mechanism encourages long-term…
-  - 资金 100.00 / 广度 79.89 / 确认 28.08 / 脆弱性 14.00
+- Elon Musk Sends Dog to Mars | BSC | 加速中 | 强度 87.14 | 质量 82.18
+  - 主题摘要：Elon Musk tweeted an image of a dog in a rocketship with the caption 'First dog on Mars'—sparking wild speculation, humor, and meme potential around space exploration and crypto c…
+  - 资金 100.00 / 广度 95.99 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dolphin Air Jordan | Solana | 降温中 | 强度 76.77 | 质量 62.13
-  - 主题摘要：The AirDolphin token draws inspiration from the iconic 6-ring design and marine animals, blending elements of Prime Air Jordan's cultural appeal. Its rapid spread is fueled by dis…
-  - 资金 100.00 / 广度 61.34 / 确认 16.56 / 脆弱性 14.00
+- Grokputer | Solana | 加速中 | 强度 86.98 | 质量 78.30
+  - 主题摘要：According to ️️️️ ️ᅠ‏️️️️ ️ᅠ️️️️ ️️️️️ ️ᅠ's post, an AI-themed Meme图 was shared, referencing Grok, the AI model developed by xAI. The post links to the image and appears to highli…
+  - 资金 100.00 / 广度 86.23 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- WeChat Launches ClawBot Plugin | BSC | 加速中 | 强度 83.27 | 质量 77.49
+  - 主题摘要：According to 牙爪角度(p图是狗)'s post, WeChat has launched a new plugin called ClawBot, which allows users to bind their accounts via QR code scanning after installation.
+  - 资金 100.00 / 广度 80.83 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Against All Odds Token Launch | Solana | 加速中 | 强度 83.27 | 质量 80.29
+  - 主题摘要：According to Against All Odds's post, a new Meme coin was launched with a thematic focus on probability and existential odds, referencing astronomical figures to highlight the imp…
+  - 资金 100.00 / 广度 92.85 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Divergent Focus in Crypto Communities | Solana | 加速中 | 强度 83.00 | 质量 80.78
+  - 主题摘要：According to Pump.fun's post, the platform contrasts its approach of scanning active communities with others who focus on newly listed coins, highlighting differing strategies in…
+  - 资金 100.00 / 广度 94.48 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Two Tokens with High LP to Market Cap Ratio | Solana | 加速中 | 强度 81.75 | 质量 73.41
+  - 主题摘要：According to Tom's post, two tokens have achieved a balanced mode with trading volume nearly equal to their market capitalization, indicating a favorable liquidity-to-market cap r…
+  - 资金 100.00 / 广度 85.15 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Musk LOLs at Banger | BSC | 加速中 | 强度 80.26 | 质量 71.70
+  - 主题摘要：Elon Musk replies to a fan's tweet with 'Banger 🤣🤣', sparking meme-worthy reactions and potential for a meme token based on the phrase.
+  - 资金 100.00 / 广度 94.67 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- MJ the Dolphin Meme Coin | Solana | 降温中 | 强度 80.01 | 质量 69.64
+  - 主题摘要：According to KTLA's post, a pantropical spotted dolphin was photographed performing an extraordinary aerial leap off the coast of Hawaii, drawing comparisons to Michael Jordan's a…
+  - 资金 100.00 / 广度 77.87 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 燃烧王 | BSC | 加速中 | 强度 75.96 | 质量 74.37
+- Halter Startup Valued at $2B | Solana | 降温中 | 强度 76.52 | 质量 61.06
+  - 主题摘要：According to Polymarket's post, the AI cow collar startup Halter has reportedly raised funds at a $2 billion valuation, utilizing a proprietary algorithm referred to as the 'cowgo…
+  - 资金 100.00 / 广度 77.97 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Mini Lobster Meme Coin Gains Attention | BSC | 加速中 | 强度 76.03 | 质量 64.69
+  - 主题摘要：According to 迷你龙虾's post, the token represents a Meme图-inspired project that emphasizes cultural expression over technical complexity, positioning itself as a 'hard currency' in t…
+  - 资金 100.00 / 广度 65.10 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 燃烧王 | BSC | 加速中 | 强度 75.69 | 质量 72.49
   - 主题摘要：Multiple tokens named 「燃烧王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.09 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.70 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Bison Tribute for America's 250th Birthday | Solana | 降温中 | 强度 75.44 | 质量 62.64
+  - 主题摘要：According to #TuckFrump's post, the American bison, recognized as the nation's official mammal, has received a bronze tribute in commemoration of the United States' 250th birthday.
+  - 资金 100.00 / 广度 72.37 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- This Style Is Taking Over | BSC | 加速中 | 强度 74.75 | 质量 68.14
+  - 主题摘要：Binance官方账号发布一条神秘推文暗示某种视觉风格将主导接下来的网络潮流，引发社区猜测与模仿，具有传播发酵潜力。
+  - 资金 100.00 / 广度 76.59 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.51，其中已确认叙事 1 个。
-- WeChat Launches ClawBot Plugin 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.77，其中已确认叙事 1 个。
+- Grokputer 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - MJ the Dolphin Meme Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Aspen | 质量 83.24 | 可交易性 100.00 | 风险 低
-- Elon Musk Sends Dog to Mars | 质量 82.17 | 可交易性 100.00 | 风险 低
-- Divergent Focus in Crypto Communities | 质量 80.82 | 可交易性 100.00 | 风险 低
-- Against All Odds Token Launch | 质量 80.34 | 可交易性 100.00 | 风险 低
-- WeChat Launches ClawBot Plugin | 质量 77.36 | 可交易性 99.69 | 风险 低
-- Elon: Grok file formats next week | 质量 74.37 | 可交易性 100.00 | 风险 低
-- 燃烧王 | 质量 74.37 | 可交易性 100.00 | 风险 低
-- Two Tokens with High LP to Market Cap Ratio | 质量 73.31 | 可交易性 81.55 | 风险 低
-- Musk LOLs at Banger | 质量 71.86 | 可交易性 66.95 | 风险 低
-- Cryptocurrency Discussions | 质量 70.27 | 可交易性 100.00 | 风险 低
+- Aspen | 质量 84.33 | 可交易性 100.00 | 风险 低
+- Elon Musk Sends Dog to Mars | 质量 82.18 | 可交易性 100.00 | 风险 低
+- Divergent Focus in Crypto Communities | 质量 80.78 | 可交易性 100.00 | 风险 低
+- Against All Odds Token Launch | 质量 80.29 | 可交易性 100.00 | 风险 低
+- Grokputer | 质量 78.30 | 可交易性 100.00 | 风险 低
+- WeChat Launches ClawBot Plugin | 质量 77.49 | 可交易性 99.51 | 风险 低
+- Two Tokens with High LP to Market Cap Ratio | 质量 73.41 | 可交易性 81.60 | 风险 低
+- 燃烧王 | 质量 72.49 | 可交易性 100.00 | 风险 低
+- Musk LOLs at Banger | 质量 71.70 | 可交易性 66.39 | 风险 低
+- MJ the Dolphin Meme Coin | 质量 69.64 | 可交易性 82.11 | 风险 低
 
 ## 伪叙事风险
 
@@ -97,15 +97,15 @@
 ## 信号台
 
 - pa | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CHIBIFY | BSC | 看多 | 新鲜度 100.00 | Elon: Grok file formats next week
+- CHIBIFY | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CHIBELON | BSC | 看多 | 新鲜度 100.00 | Elon Musk Sends Dog to Mars / Musk LOLs at Banger
-- CHIBI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 財務自由 | BSC | 看多 | 新鲜度 84.80 | 暂无直接叙事映射
-- TITAN | BSC | 看多 | 新鲜度 74.42 | 暂无直接叙事映射
+- CHIBI | Solana | 看多 | 新鲜度 82.67 | 暂无直接叙事映射
+- TITAN | BSC | 看多 | 新鲜度 76.03 | 暂无直接叙事映射
 - Cake | BSC | 看多 | 新鲜度 70.27 | 暂无直接叙事映射
-- Punch | Solana | 看多 | 新鲜度 67.00 | 暂无直接叙事映射
+- Punch | Solana | 看多 | 新鲜度 67.39 | 暂无直接叙事映射
 - Terafab | BSC | 看多 | 新鲜度 66.64 | 暂无直接叙事映射
-- ClawBot | BSC | 看多 | 新鲜度 65.74 | WeChat Launches ClawBot Plugin
+- ClawBot | BSC | 看多 | 新鲜度 60.94 | WeChat Launches ClawBot Plugin
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Elon Musk Sends Dog to Mars（BSC，分数 87.46）
-2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：WeChat Launches ClawBot Plugin 当前为“新出现”
+1. 当前最强叙事：Aspen（Solana，分数 87.22）
+2. 共振最强代币：SIREN（BSC，共振 100.0）
+3. 记忆层变化：Grokputer 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch PAYPUSDT USDⓈ-Margined Equity Perpetual Contract (2026-03-23)
 #Binance #NarrativeOS #OpenClaw
