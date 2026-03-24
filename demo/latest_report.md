@@ -1,101 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-24T11:11:49.750740+00:00
+- 生成时间：2026-03-24T14:44:10.337857+00:00
 - 跟踪叙事：14
-- 已确认叙事：5
+- 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance AI Search: Ask and You Shall Trade，所在链为 BSC，叙事强度 92.23。
-- 当前平均叙事强度为 80.36，其中已确认叙事 3 个。
-- 注意力与资金共振最强的代币是 RIVER，来自 BSC，共振分数 100.0。
-- 记忆层显示 The 7 Spiders 当前处于“新出现”状态。
+- 当前最强叙事是 Binance AI Search: Ask and You Shall Trade，所在链为 BSC，叙事强度 90.93。
+- 当前平均叙事强度为 79.3，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
+- 记忆层显示 Binance AiPro Launches With Multi-AI Models 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Snow Mountain Saving the Fox，伪叙事风险 44.91。
 - 最新官方催化来自 币安最新公告：Introducing Binance Ai Pro Beta。
 
 ## 叙事雷达
 
-- Binance AI Search: Ask and You Shall Trade | BSC | 已确认 | 强度 92.23 | 质量 85.58
+- Binance AI Search: Ask and You Shall Trade | BSC | 已确认 | 强度 90.93 | 质量 85.75
   - 主题摘要：Binance promotes its AI-powered search tool that offers trade recommendations and real-time market insights. The casual, user-invitation tone hints at meme potential, blending cry…
-  - 资金 100.00 / 广度 94.09 / 确认 42.52 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.64 / 确认 42.52 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- The 7 Spiders | Solana | 加速中 | 强度 85.37 | 质量 74.18
-  - 主题摘要：7SPIDERS is a community-driven token inspired by Spider-Man's iconic identity. The logo features multiple Spider-Man characters in blue and red suits, symbolizing unity and streng…
-  - 资金 100.00 / 广度 69.33 / 确认 24.48 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Snow Mountain Saving the Fox | Solana | 降温中 | 强度 84.18 | 质量 75.06
-  - 主题摘要：雪山救狐 (Snow Mountain Saving the Fox) draws inspiration from a heartwarming story of a fox rescued from a snowy mountain. The token's logo depicts a fox being fed by a person in a s…
-  - 资金 100.00 / 广度 78.04 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Book of Elon Meme Coin Launch | Solana | 已确认 | 强度 83.82 | 质量 74.12
-  - 主题摘要：According to JIN's post, the 'Book of Elon' Meme coin is launching with fees routed to Eric Jorgenson's GitHub. The author, Eric Jorgenson, is described as crypto native and engag…
-  - 资金 100.00 / 广度 78.21 / 确认 35.40 / 脆弱性 14.00
+- Binance AiPro Launches With Multi-AI Models | BSC | 已确认 | 强度 85.69 | 质量 81.04
+  - 主题摘要：Binance launched AiPro, an AI-powered trading agent platform that integrates major AI models like ChatGPT and Qwen, sparking excitement in the crypto and AI communities.
+  - 资金 100.00 / 广度 86.88 / 确认 31.72 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 幸运、韧性与保护用户的回忆录 | BSC | 已确认 | 强度 83.78 | 质量 82.68
-  - 主题摘要：According to Alejandra🦋's post, Binance has launched a new section titled 'CZ's Binance Journey' on its official website, highlighting the experiences and values of Binance's foun…
-  - 资金 100.00 / 广度 95.00 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Biteye Comments on Zun2025 Business Battle | BSC | 已确认 | 强度 83.02 | 质量 75.67
-  - 主题摘要：Biteye commented on a social media exchange involving Binance AI Pro, describing it as a straightforward business battle. The post appears to reflect on competitive dynamics assoc…
-  - 资金 100.00 / 广度 75.08 / 确认 35.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- AI智能 | BSC | 加速中 | 强度 80.99 | 质量 79.96
-  - 主题摘要：AI智能 token draws inspiration from artificial intelligence, as reflected in its name and logo featuring a stylized 'A' in blue and green. Announced by AI_zhineng on March 23, it po…
-  - 资金 100.00 / 广度 86.46 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SIREN | Solana | 加速中 | 强度 80.42 | 质量 78.17
+- SIREN | Solana | 加速中 | 强度 84.41 | 质量 78.49
   - 主题摘要：According to Shadow's post, the content expresses a spiritual reflection and references cryptocurrency through a shared link. The tone suggests a connection between faith and fina…
-  - 资金 100.00 / 广度 83.05 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.68 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dog Named Sheriff Killed in Texas | Solana | 已确认 | 强度 78.74 | 质量 64.25
-  - 主题摘要：According to ski's post, a dog named Sheriff was shot three times and killed without apparent reason in a fenced backyard in Texas. The incident reportedly occurred when an indivi…
-  - 资金 100.00 / 广度 76.96 / 确认 28.08 / 脆弱性 14.00
+- AI智能 | BSC | 加速中 | 强度 82.58 | 质量 79.61
+  - 主题摘要：AI智能 token draws inspiration from artificial intelligence, as reflected in its name and logo featuring a stylized 'A' in blue and green. Announced by AI_zhineng on March 23, it po…
+  - 资金 100.00 / 广度 85.29 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Book of Elon Meme Coin Launch | Solana | 已确认 | 强度 81.81 | 质量 74.40
+  - 主题摘要：According to JIN's post, the 'Book of Elon' Meme coin is launching with fees routed to Eric Jorgenson's GitHub. The author, Eric Jorgenson, is described as crypto native and engag…
+  - 资金 100.00 / 广度 79.11 / 确认 35.40 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- The 7 Trumps | Solana | 降温中 | 强度 77.45 | 质量 69.85
-  - 主题摘要：7TRUMPS is a meme token inspired by Donald Trump's political persona, featuring multiple images of the former president in a collage style. The token's name and imagery reflect it…
-  - 资金 100.00 / 广度 69.67 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Decentralized AI Meme Coin Discussion | Solana | 加速中 | 强度 76.14 | 质量 70.58
-  - 主题摘要：According to Szn's post, a decentralized AI-based memecoin called 'Nemocoin' or 'Nemo' is being discussed, referencing TAO and Templar subnets. The post suggests it may represent…
-  - 资金 100.00 / 广度 60.49 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Sandwich Meme Coin Emerges | Solana | 降温中 | 强度 75.47 | 质量 66.58
+- Snow Mountain Saving the Fox | Solana | 点火期 | 强度 81.58 | 质量 76.81
+  - 主题摘要：According to CryptoJoJo (好运版)'s post, the topic centers on a Meme image trend featuring a white fox in the context of 'Snow Mountain Saving the Fox', originating from a Douyin vid…
+  - 资金 100.00 / 广度 97.83 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Sandwich Meme Coin Emerges | Solana | 加速中 | 强度 78.13 | 质量 64.55
   - 主题摘要：According to faverity's post, a viral incident involving a man who stole a sandwich and received jail time has gained over 80 million views within six hours. The post references a…
-  - 资金 100.00 / 广度 76.31 / 确认 11.52 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance AI Pro Token Announcement | BSC | 加速中 | 强度 72.31 | 质量 66.00
-  - 主题摘要：According to 马帕鲁🦞(not a lobster)'s post, a token associated with Binance AI Pro was referenced. The token is linked to the Binance platform and its AI-related initiatives.
-  - 资金 100.00 / 广度 75.41 / 确认 23.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.72 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Customer Support Endorsement | BSC | 降温中 | 强度 69.85 | 质量 52.80
-  - 主题摘要：According to 0xMo.eth's post, the author expresses a strong preference for Binance as their centralized exchange (CEX) of choice due to its reliable customer support and seamless…
-  - 资金 100.00 / 广度 68.68 / 确认 9.36 / 脆弱性 14.00
+- Gooning Culture and Meme Coin Discussion | Solana | 降温中 | 强度 78.06 | 质量 68.28
+  - 主题摘要：According to Clown's post, 'gooning' culture has become prevalent in the memecoin space, with multiple 'goon' tokens emerging despite unclear long-term viability. The post highlig…
+  - 资金 100.00 / 广度 89.85 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Wojak Creator Shares Solana Wallet Address | Solana | 加速中 | 强度 77.77 | 质量 67.28
+  - 主题摘要：Voyack, the original creator of Wojak, shared his Solana wallet address in response to persistent inquiries. The post aims to reduce unsolicited messages on platforms like Reddit.…
+  - 资金 100.00 / 广度 80.44 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Decentralized AI Meme Coin Discussion | Solana | 加速中 | 强度 77.45 | 质量 70.73
+  - 主题摘要：According to Szn's post, a decentralized AI-based memecoin called 'Nemocoin' or 'Nemo' is being discussed, referencing TAO and Templar subnets. The post suggests it may represent…
+  - 资金 100.00 / 广度 60.99 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- TEK | Solana | 降温中 | 强度 77.15 | 质量 61.44
+  - 主题摘要：TEK token features a cartoon green dinosaur wearing colorful sunglasses, embodying a playful, tech-savvy identity. The token's description 'GUD TEK' suggests a community-driven ap…
+  - 资金 100.00 / 广度 83.93 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- YZi Labs Shared Meme Image | BSC | 加速中 | 强度 74.18 | 质量 60.94
+  - 主题摘要：According to YZi Labs's post, the content appears to reference several cryptocurrency tokens, including AtlаsЅcоut and a new AI-related project under the YZI brand. The nature and…
+  - 资金 100.00 / 广度 78.00 / 确认 19.44 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Biteye Comments on Zun2025 Business Battle | BSC | 加速中 | 强度 71.52 | 质量 66.89
+  - 主题摘要：Biteye commented on a social media exchange involving Binance AI Pro, describing it as a straightforward business battle. The post appears to reflect on competitive dynamics assoc…
+  - 资金 100.00 / 广度 75.09 / 确认 31.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 幸运、韧性与保护用户的回忆录 | BSC | 加速中 | 强度 70.91 | 质量 67.04
+  - 主题摘要：According to Alejandra🦋's post, a new memoir section titled 'CZ's Binance Journey' has been launched on the Binance official website, highlighting the experiences of Changpeng Zha…
+  - 资金 100.00 / 广度 89.75 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.36，其中已确认叙事 3 个。
-- The 7 Spiders 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Snow Mountain Saving the Fox 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.3，其中已确认叙事 2 个。
+- Binance AiPro Launches With Multi-AI Models 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Gooning Culture and Meme Coin Discussion 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance AI Search: Ask and You Shall Trade | 质量 85.58 | 可交易性 100.00 | 风险 低
-- 幸运、韧性与保护用户的回忆录 | 质量 82.68 | 可交易性 100.00 | 风险 低
-- AI智能 | 质量 79.96 | 可交易性 100.00 | 风险 低
-- SIREN | 质量 78.17 | 可交易性 99.56 | 风险 低
-- Biteye Comments on Zun2025 Business Battle | 质量 75.67 | 可交易性 91.24 | 风险 低
-- Snow Mountain Saving the Fox | 质量 75.06 | 可交易性 100.00 | 风险 低
-- The 7 Spiders | 质量 74.18 | 可交易性 100.00 | 风险 低
-- Book of Elon Meme Coin Launch | 质量 74.12 | 可交易性 82.88 | 风险 低
-- Decentralized AI Meme Coin Discussion | 质量 70.58 | 可交易性 100.00 | 风险 低
-- The 7 Trumps | 质量 69.85 | 可交易性 100.00 | 风险 低
+- Binance AI Search: Ask and You Shall Trade | 质量 85.75 | 可交易性 100.00 | 风险 低
+- Binance AiPro Launches With Multi-AI Models | 质量 81.04 | 可交易性 100.00 | 风险 低
+- AI智能 | 质量 79.61 | 可交易性 100.00 | 风险 低
+- SIREN | 质量 78.49 | 可交易性 100.00 | 风险 低
+- Snow Mountain Saving the Fox | 质量 76.81 | 可交易性 91.46 | 风险 低
+- Book of Elon Meme Coin Launch | 质量 74.40 | 可交易性 82.92 | 风险 低
+- Decentralized AI Meme Coin Discussion | 质量 70.73 | 可交易性 100.00 | 风险 低
+- Gooning Culture and Meme Coin Discussion | 质量 68.28 | 可交易性 95.40 | 风险 低
+- Wojak Creator Shares Solana Wallet Address | 质量 67.28 | 可交易性 65.86 | 风险 低
+- 幸运、韧性与保护用户的回忆录 | 质量 67.04 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- Snow Mountain Saving the Fox | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
+- 词元 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Binance Ai Pro | BSC | 看多 | 新鲜度 100.00 | Binance AI Search: Ask and You Shall Trade
 - pa | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CHIBIFY | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -105,7 +108,6 @@
 - 財務自由 | BSC | 看多 | 新鲜度 84.80 | 暂无直接叙事映射
 - CHIBI | Solana | 看多 | 新鲜度 82.67 | 暂无直接叙事映射
 - Claymation | BSC | 看多 | 新鲜度 80.96 | 暂无直接叙事映射
-- 幸运、韧性与保护用户的回忆录 | BSC | 看多 | 新鲜度 79.64 | 幸运、韧性与保护用户的回忆录
 
 ## 官方催化
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance AI Search: Ask and You Shall Trade（BSC，分数 92.23）
-2. 共振最强代币：RIVER（BSC，共振 100.0）
-3. 记忆层变化：The 7 Spiders 当前为“新出现”
+1. 当前最强叙事：Binance AI Search: Ask and You Shall Trade（BSC，分数 90.93）
+2. 共振最强代币：SIREN（BSC，共振 100.0）
+3. 记忆层变化：Binance AiPro Launches With Multi-AI Models 当前为“新出现”
 4. 最新官方催化：Introducing Binance Ai Pro Beta
 #Binance #NarrativeOS #OpenClaw
