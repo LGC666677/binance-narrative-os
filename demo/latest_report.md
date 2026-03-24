@@ -1,104 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-24T00:00:13.052352+00:00
+- 生成时间：2026-03-24T05:23:44.093861+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 The 7 Wanderers Meme Coin，所在链为 Solana，叙事强度 83.53。
-- 当前平均叙事强度为 77.96，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
-- 记忆层显示 Gooning Culture and Meme Coin Discussion 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Renewed Belief in Crypto Market，伪叙事风险 47.79。
+- 当前最强叙事是 Binance AI Search: Ask and You Shall Trade，所在链为 BSC，叙事强度 87.68。
+- 当前平均叙事强度为 78.19，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 RIVER，来自 BSC，共振分数 100.0。
+- 记忆层显示 SIREN 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Decentralized AI Meme Coin Discussion，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：Word of the Day: Test Your Knowledge on “AI Trading” to Unlock USDC Rewards!。
 
 ## 叙事雷达
 
-- The 7 Wanderers Meme Coin | Solana | 加速中 | 强度 83.53 | 质量 78.55
-  - 主题摘要：According to Hughman's post, a group of seven stolen dogs reportedly traveled 17 km back to their owner, going viral on social media. The narrative centers on their journey and pu…
-  - 资金 100.00 / 广度 96.94 / 确认 19.44 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance AI Search: Ask and You Shall Trade | BSC | 加速中 | 强度 83.20 | 质量 81.11
+- Binance AI Search: Ask and You Shall Trade | BSC | 已确认 | 强度 87.68 | 质量 83.09
   - 主题摘要：Binance promotes its AI-powered search tool that offers trade recommendations and real-time market insights. The casual, user-invitation tone hints at meme potential, blending cry…
-  - 资金 100.00 / 广度 92.41 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.72 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- SIREN | Solana | 加速中 | 强度 85.31 | 质量 77.57
+  - 主题摘要：According to Shadow's post, the content expresses a spiritual reflection and references cryptocurrency through a shared link. The tone suggests a connection between faith and fina…
+  - 资金 100.00 / 广度 80.61 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AI智能 | BSC | 已确认 | 强度 82.79 | 质量 79.90
+- 幸运、韧性与保护用户的回忆录 | BSC | 已确认 | 强度 82.57 | 质量 82.65
+  - 主题摘要：According to Alejandra🦋's post, Binance has launched a new section titled 'CZ's Binance Journey' on its official website, highlighting the experiences and reflections of Binance f…
+  - 资金 100.00 / 广度 94.90 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- AI智能 | BSC | 加速中 | 强度 82.46 | 质量 79.86
   - 主题摘要：AI智能 token draws inspiration from artificial intelligence, as reflected in its name and logo featuring a stylized 'A' in blue and green. Announced by AI_zhineng on March 23, it po…
-  - 资金 100.00 / 广度 85.75 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 幸运、韧性与保护用户的回忆录 | BSC | 已确认 | 强度 81.87 | 质量 82.62
-  - 主题摘要：According to Alejandra🦋's post, Binance has launched a new section titled 'CZ's Binance Journey' on its official website, highlighting the personal and professional experiences of…
-  - 资金 100.00 / 广度 94.81 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Gooning Culture and Meme Coin Discussion | Solana | 点火期 | 强度 81.08 | 质量 78.86
-  - 主题摘要：According to Clown's post, 'gooning' culture has become prevalent in the memecoin space, with multiple 'goon coins' reportedly in development. The post references @solporttom and…
-  - 资金 100.00 / 广度 90.72 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 黄仁勋评价tokens | BSC | 加速中 | 强度 79.28 | 质量 78.88
-  - 主题摘要：CZ tweeted that Bitcoin is a hard asset, suggesting it holds intrinsic value like gold, sparking discussions on its narrative evolution.
-  - 资金 100.00 / 广度 87.27 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.13 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Renewed Belief in Crypto Market | Solana | 点火期 | 强度 78.06 | 质量 69.62
-  - 主题摘要：According to faded's post, the message emphasizes the importance of renewed belief in the crypto space despite imperfect conditions, accompanied by the $HODL token link.
-  - 资金 100.00 / 广度 85.10 / 确认 9.36 / 脆弱性 14.00
+- Wojak Creator Shares Solana Wallet Address | Solana | 加速中 | 强度 78.41 | 质量 66.63
+  - 主题摘要：Voyack, the original creator of Wojak, shared his Solana wallet address in response to persistent inquiries. The post aims to reduce unsolicited messages on platforms like Reddit.…
+  - 资金 100.00 / 广度 78.02 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Gooning Culture and Meme Coin Discussion | Solana | 降温中 | 强度 76.76 | 质量 67.94
+  - 主题摘要：According to Clown's post, 'gooning' culture has become prevalent in the memecoin space, with multiple 'goon' tokens emerging despite unclear long-term viability. The post highlig…
+  - 资金 100.00 / 广度 90.31 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Biteye Comments on Zun2025 Business Battle | BSC | 加速中 | 强度 75.71 | 质量 74.26
+  - 主题摘要：Biteye commented on a social media exchange involving Binance AI Pro, describing it as a straightforward business battle. The post appears to reflect on competitive dynamics assoc…
+  - 资金 100.00 / 广度 78.52 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Decentralized AI Meme Coin Discussion | Solana | 点火期 | 强度 74.81 | 质量 69.50
+  - 主题摘要：According to Szn's post, a decentralized AI-based memecoin called 'Nemocoin' or 'Nemo' is being discussed, referencing TAO and Templar subnets. The post suggests it may represent…
+  - 资金 100.00 / 广度 59.52 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- BoomDoom | Solana | 降温中 | 强度 76.90 | 质量 69.37
-  - 主题摘要：Multiple tokens named 「BD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.38 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The 7 Alons | Solana | 降温中 | 强度 76.61 | 质量 68.42
-  - 主题摘要：7ALONS is a community-driven token inspired by the concept of collective resilience. The logo features a line of characters wearing yellow helmets and 'STOP BEING POOR' shirts, sy…
-  - 资金 100.00 / 广度 61.20 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 汪汪队大逃亡 | Solana | 加速中 | 强度 75.40 | 质量 67.94
+- Corgi Leader Named 'Da Pang' Identified | Solana | 加速中 | 强度 73.86 | 质量 67.08
+  - 主题摘要：According to Grok's post, a corgi named Da Pang became a viral sensation on Douyin for leading a group 17 km home. The story gained attention and was later referenced in cryptocur…
+  - 资金 100.00 / 广度 82.43 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 汪汪队大逃亡 | Solana | 加速中 | 强度 72.81 | 质量 66.77
   - 主题摘要：According to 超级老尿🔶 BNB's post, a token named '汪汪队大逃亡' was deployed using the tracker platform j7tracker.io, indicating potential meme-based token activity linked to the popular ch…
-  - 资金 100.00 / 广度 77.40 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.87 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Believe In Something | Solana | 点火期 | 强度 74.91 | 质量 64.42
-  - 主题摘要：According to Pump.fun's post, the phrase 'it's time to believe in something' has been associated with multiple cryptocurrency tokens bearing similar names. The post appears to pro…
-  - 资金 100.00 / 广度 84.96 / 确认 9.36 / 脆弱性 14.00
+- BoomDoom | Solana | 降温中 | 强度 71.31 | 质量 57.62
+  - 主题摘要：Multiple tokens named 「BD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 60.27 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Scam Gang Pretending as BNB Builder Exposed | BSC | 点火期 | 强度 70.92 | 质量 65.40
+  - 主题摘要：CZ转发揭露一群有组织的诈骗团伙伪装成BNB Builder散布FUD，引发对信息真实性和社区安全的关注。
+  - 资金 100.00 / 广度 75.98 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Homeward Bound Meme Coin Trend | Solana | 点火期 | 强度 73.74 | 质量 70.97
-  - 主题摘要：Multiple tokens named 「Homeward」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.31 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- White House Tweet with LEGENDARY Token Reference | BSC | 加速中 | 强度 71.56 | 质量 57.56
-  - 主题摘要：The White House shared a Meme image with the word 'LEGENDARY' and a guitar emoji, sparking online discussion. The post is associated with multiple tokens bearing the same name, th…
-  - 资金 100.00 / 广度 70.98 / 确认 24.48 / 脆弱性 14.00
+- Cwat | Solana | 加速中 | 强度 70.92 | 质量 62.31
+  - 主题摘要：According to Pwog's post, he is launching $Cwat, a token inspired by a cat he once dreamed about. This follows his previous token, Fwog, which gained notable attention in the cryp…
+  - 资金 100.00 / 广度 79.23 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Clawdy Land Launches BNB-Incentivized Testing Platform | BSC | 加速中 | 强度 69.07 | 质量 64.14
-  - 主题摘要：Chen Jinchu, founder of Nuwa World, launched Clawdy Land, a platform designed to test the expressive, negotiation, and persuasive capabilities of Lobster Agents. Participants comp…
-  - 资金 100.00 / 广度 78.53 / 确认 28.08 / 脆弱性 24.00
+- 黄仁勋评价tokens | BSC | 加速中 | 强度 69.82 | 质量 66.69
+  - 主题摘要：CZ tweeted that Bitcoin is a hard asset, suggesting it holds intrinsic value like gold, sparking discussions on its narrative evolution.
+  - 资金 100.00 / 广度 81.81 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.96，其中已确认叙事 2 个。
-- Gooning Culture and Meme Coin Discussion 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- BoomDoom 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.19，其中已确认叙事 2 个。
+- SIREN 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Gooning Culture and Meme Coin Discussion 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- 幸运、韧性与保护用户的回忆录 | 质量 82.62 | 可交易性 100.00 | 风险 低
-- Binance AI Search: Ask and You Shall Trade | 质量 81.11 | 可交易性 100.00 | 风险 低
-- AI智能 | 质量 79.90 | 可交易性 100.00 | 风险 低
-- 黄仁勋评价tokens | 质量 78.88 | 可交易性 100.00 | 风险 低
-- Gooning Culture and Meme Coin Discussion | 质量 78.86 | 可交易性 100.00 | 风险 低
-- The 7 Wanderers Meme Coin | 质量 78.55 | 可交易性 90.64 | 风险 低
-- Homeward Bound Meme Coin Trend | 质量 70.97 | 可交易性 99.22 | 风险 低
-- Renewed Belief in Crypto Market | 质量 69.62 | 可交易性 80.11 | 风险 低
-- BoomDoom | 质量 69.37 | 可交易性 100.00 | 风险 低
-- The 7 Alons | 质量 68.42 | 可交易性 100.00 | 风险 低
+- Binance AI Search: Ask and You Shall Trade | 质量 83.09 | 可交易性 100.00 | 风险 低
+- 幸运、韧性与保护用户的回忆录 | 质量 82.65 | 可交易性 100.00 | 风险 低
+- AI智能 | 质量 79.86 | 可交易性 100.00 | 风险 低
+- SIREN | 质量 77.57 | 可交易性 100.00 | 风险 低
+- Biteye Comments on Zun2025 Business Battle | 质量 74.26 | 可交易性 88.42 | 风险 低
+- Decentralized AI Meme Coin Discussion | 质量 69.50 | 可交易性 100.00 | 风险 低
+- Gooning Culture and Meme Coin Discussion | 质量 67.94 | 可交易性 97.64 | 风险 低
+- Corgi Leader Named 'Da Pang' Identified | 质量 67.08 | 可交易性 66.38 | 风险 低
+- 汪汪队大逃亡 | 质量 66.77 | 可交易性 69.90 | 风险 低
+- 黄仁勋评价tokens | 质量 66.69 | 可交易性 99.64 | 风险 低
 
 ## 伪叙事风险
 
-- Renewed Belief in Crypto Market | 风险 47.79 | 原因：流动性偏薄
-- Believe In Something | 风险 47.79 | 原因：流动性偏薄
-- Homeward Bound Meme Coin Trend | 风险 47.79 | 原因：流动性偏薄
-- Gooning Culture and Meme Coin Discussion | 风险 42.03 | 原因：流动性偏薄
-- BoomDoom | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Decentralized AI Meme Coin Discussion | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Scam Gang Pretending as BNB Builder Exposed | 风险 42.03 | 原因：流动性偏薄
+- Gooning Culture and Meme Coin Discussion | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -137,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：The 7 Wanderers Meme Coin（Solana，分数 83.53）
-2. 共振最强代币：SIREN（BSC，共振 100.0）
-3. 记忆层变化：Gooning Culture and Meme Coin Discussion 当前为“新出现”
+1. 当前最强叙事：Binance AI Search: Ask and You Shall Trade（BSC，分数 87.68）
+2. 共振最强代币：RIVER（BSC，共振 100.0）
+3. 记忆层变化：SIREN 当前为“新出现”
 4. 最新官方催化：Word of the Day: Test Your Knowledge on “AI Trading” to Unlock USDC Rewards!
 #Binance #NarrativeOS #OpenClaw
