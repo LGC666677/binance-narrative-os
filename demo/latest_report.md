@@ -1,111 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-25T12:07:11.153843+00:00
+- 生成时间：2026-03-25T15:56:11.667405+00:00
 - 跟踪叙事：14
 - 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance AI Search: Ask and You Shall Trade，所在链为 BSC，叙事强度 88.3。
-- 当前平均叙事强度为 79.53，其中已确认叙事 2 个。
+- 当前最强叙事是 Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park，所在链为 BSC，叙事强度 85.05。
+- 当前平均叙事强度为 80.8，其中已确认叙事 3 个。
 - 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
-- 记忆层显示 WRT Token Launch Announcement 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park，伪叙事风险 47.23。
+- 记忆层显示 Join Us In 24 Hours 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 EARTH FRAGMENTS，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Impossible Cloud Network Trading Competition: Trade Impossible Cloud Network (ICNT) and Share $100K Worth of Rewards。
 
 ## 叙事雷达
 
-- Binance AI Search: Ask and You Shall Trade | BSC | 已确认 | 强度 88.30 | 质量 82.48
+- Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park | BSC | 加速中 | 强度 85.05 | 质量 79.71
+  - 主题摘要：According to 中國新聞社's post, a golden-furred black-leaf monkey named Chuqi made its public debut at Guangzhou Chimelong Wildlife World on March 23, drawing attention as a new attrac…
+  - 资金 100.00 / 广度 88.26 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- First Shiba Inu Statue in Japan Commercialized | Solana | 降温中 | 强度 84.84 | 质量 75.50
+  - 主题摘要：According to reilom's post, the first statue of a Shiba Inu in Japan has been commercialized, drawing inspiration from the historical figure Queen Himiko, who was accompanied by a…
+  - 资金 100.00 / 广度 90.96 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance AI Search: Ask and You Shall Trade | BSC | 已确认 | 强度 84.72 | 质量 82.08
   - 主题摘要：Binance promotes its AI-powered search tool that offers trade recommendations and real-time market insights. The casual, user-invitation tone hints at meme potential, blending cry…
-  - 资金 100.00 / 广度 94.21 / 确认 35.28 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.43 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Kano Eikou Announces Collaboration with Jarujaru | Solana | 已确认 | 强度 85.63 | 质量 82.07
-  - 主题摘要：According to 狩野英孝's post, he has arrived in Osaka and is working with the comedy duo JARJAR for the first time in a while.
-  - 资金 100.00 / 广度 92.97 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance AiPro Launches With Multi-AI Models | BSC | 已确认 | 强度 85.01 | 质量 86.55
+- Join Us In 24 Hours | Solana | 降温中 | 强度 84.35 | 质量 76.19
+  - 主题摘要：Solana's official account teased with a cryptic 'Join Us in 24 hours' message, echoing the style of event countdowns and community hype-building strategies. This type of narrative…
+  - 资金 100.00 / 广度 90.80 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- DAN KOE Shared Meme Image | Solana | 降温中 | 强度 84.32 | 质量 75.49
+  - 主题摘要：According to DAN KOE's post, he shared a Meme image related to creativity and cryptocurrency culture.
+  - 资金 100.00 / 广度 84.78 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance AiPro Launches With Multi-AI Models | BSC | 已确认 | 强度 83.40 | 质量 84.30
   - 主题摘要：Binance launched AiPro, an AI-powered trading agent platform that integrates major AI models like ChatGPT and Qwen, sparking excitement in the crypto and AI communities.
   - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Sustained Lunar Exploration Vision | Solana | 加速中 | 强度 81.08 | 质量 81.13
-  - 主题摘要：The White House emphasizes the objective of establishing a sustained human presence on the Moon, aligning with NASA's strategic shift toward standardized rocket architecture and f…
-  - 资金 100.00 / 广度 93.01 / 确认 23.76 / 脆弱性 24.00
+- 麻了 | BSC | 已确认 | 强度 82.66 | 质量 81.97
+  - 主题摘要：According to 麻了's post, the '麻了' project has revealed its name and is preparing for launch, positioning itself as a representation of a new generation of online emotional identity…
+  - 资金 100.00 / 广度 90.00 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Kano Eikou Announces Collaboration with Jarujaru | Solana | 加速中 | 强度 80.04 | 质量 80.58
+  - 主题摘要：According to 狩野英孝's post, he has arrived in Osaka and is working with the comedy duo JARJAR for the first time in a while.
+  - 资金 100.00 / 广度 92.31 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WRT Token Launch Announcement | Solana | 降温中 | 强度 80.52 | 质量 71.79
+- WRT Token Launch Announcement | Solana | 降温中 | 强度 79.54 | 质量 71.09
   - 主题摘要：According to KinderCube's post, the WRT token has been launched, with multiple token entries sharing the same symbol and a common message emphasizing that the issuer has 'never ru…
-  - 资金 100.00 / 广度 72.43 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.03 / 确认 9.36 / 脆弱性 14.67
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- XiaoLong | Solana | 加速中 | 强度 80.31 | 质量 69.19
-  - 主题摘要：Multiple tokens named 「XiaoLong」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.96 / 确认 20.16 / 脆弱性 14.00
+- Chuqi Token Discussion | Solana | 加速中 | 强度 78.87 | 质量 64.54
+  - 主题摘要：According to onzhainmozart 🔶 100X GEM HUNTER's post, there is speculation regarding the Chinese name associated with a token referred to as 'Chuqi,' with reference to a price poin…
+  - 资金 100.00 / 广度 80.37 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- First Shiba Inu Statue in Japan Commercialized | Solana | 降温中 | 强度 78.75 | 质量 72.88
-  - 主题摘要：According to reilom's post, the first statue of a Shiba Inu in Japan, modeled after Queen Himiko's dog 'Komaki', has been commercialized and is gaining significant attention on so…
-  - 资金 100.00 / 广度 78.05 / 确认 9.36 / 脆弱性 14.00
+- Vanguard Digital Oil Reserve | Solana | 加速中 | 强度 77.42 | 质量 70.18
+  - 主题摘要：VDOR (Vanguard Digital Oil Reserve) draws inspiration from oil industry symbolism, featuring a logo with oil pumps and barrels. The token aims to create a decentralized digital oi…
+  - 资金 100.00 / 广度 69.55 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- EARTH FRAGMENTS | Solana | 降温中 | 强度 77.19 | 质量 69.36
+  - 主题摘要：FRAG (EARTH FRAGMENTS) is a community-driven token inspired by the concept of Earth's fragmented ecosystem. It aims to support environmental conservation through decentralized ini…
+  - 资金 100.00 / 广度 64.34 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 78.43 | 质量 64.57
+- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 75.31 | 质量 64.52
   - 主题摘要：According to 火蝴蝶FLAP's post, the Flame Butterfly project, co-created with @flap_ch, will be launched on the Flap platform, integrating mechanisms such as token burning, ranking, v…
-  - 资金 100.00 / 广度 75.20 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.81 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park | BSC | 点火期 | 强度 78.29 | 质量 73.46
-  - 主题摘要：According to 中國新聞社's post, a golden-furred black-leaf monkey named '初七' (Chuqi) made its public debut at Guangzhou Chimelong Wildlife World on March 23 after reaching one month ol…
-  - 资金 100.00 / 广度 84.18 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Capybara Beaten in Brazil Incident | Solana | 降温中 | 强度 77.06 | 质量 63.79
-  - 主题摘要：According to Snoozy's post, a wild capybara was brutally beaten in Brazil, drawing public attention to animal welfare and inspiring related cryptocurrency token creations. This in…
-  - 资金 100.00 / 广度 84.49 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 7 Paws | Solana | 降温中 | 强度 76.99 | 质量 66.31
-  - 主题摘要：7 Paws token draws inspiration from a viral internet meme featuring seven cats. The token's narrative centers on the 'Night of the Seven Paws' where cats unite to escape captivity…
-  - 资金 100.00 / 广度 54.17 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GigaChud | Solana | 降温中 | 强度 76.90 | 质量 61.48
-  - 主题摘要：GigaChud is a meme token inspired by internet culture, featuring a cartoon character with glowing purple glasses against a stormy background. The token's community rallies around…
-  - 资金 100.00 / 广度 71.97 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AI智能 | BSC | 加速中 | 强度 74.00 | 质量 68.13
-  - 主题摘要：AI智能 token draws inspiration from artificial intelligence, as reflected in its name and logo featuring a stylized 'A' in blue and green. Announced by AI_zhineng on March 23, it po…
-  - 资金 100.00 / 广度 78.82 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 幸运、韧性与保护用户的回忆录 | BSC | 加速中 | 强度 73.14 | 质量 71.46
-  - 主题摘要：According to Alejandra🦋's post, a new memoir section titled 'CZ's Binance Journey' has been launched on the Binance official website, highlighting the experiences of Changpeng Zha…
-  - 资金 100.00 / 广度 84.73 / 确认 28.08 / 脆弱性 24.00
+- Lobster King | BSC | 加速中 | 强度 73.64 | 质量 65.72
+  - 主题摘要：Multiple tokens named 「龙虾王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.68 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.53，其中已确认叙事 2 个。
-- XiaoLong 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- WRT Token Launch Announcement 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.8，其中已确认叙事 3 个。
+- 麻了 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- First Shiba Inu Statue in Japan Commercialized 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance AiPro Launches With Multi-AI Models | 质量 86.55 | 可交易性 100.00 | 风险 低
-- Binance AI Search: Ask and You Shall Trade | 质量 82.48 | 可交易性 100.00 | 风险 低
-- Kano Eikou Announces Collaboration with Jarujaru | 质量 82.07 | 可交易性 100.00 | 风险 低
-- Sustained Lunar Exploration Vision | 质量 81.13 | 可交易性 100.00 | 风险 低
-- Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park | 质量 73.46 | 可交易性 88.53 | 风险 低
-- First Shiba Inu Statue in Japan Commercialized | 质量 72.88 | 可交易性 98.01 | 风险 低
-- WRT Token Launch Announcement | 质量 71.79 | 可交易性 100.00 | 风险 低
-- 幸运、韧性与保护用户的回忆录 | 质量 71.46 | 可交易性 100.00 | 风险 低
-- XiaoLong | 质量 69.19 | 可交易性 69.90 | 风险 低
-- AI智能 | 质量 68.13 | 可交易性 100.00 | 风险 低
+- Binance AiPro Launches With Multi-AI Models | 质量 84.30 | 可交易性 100.00 | 风险 低
+- Binance AI Search: Ask and You Shall Trade | 质量 82.08 | 可交易性 100.00 | 风险 低
+- 麻了 | 质量 81.97 | 可交易性 100.00 | 风险 低
+- Kano Eikou Announces Collaboration with Jarujaru | 质量 80.58 | 可交易性 99.14 | 风险 低
+- Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park | 质量 79.71 | 可交易性 100.00 | 风险 低
+- Join Us In 24 Hours | 质量 76.19 | 可交易性 100.00 | 风险 低
+- First Shiba Inu Statue in Japan Commercialized | 质量 75.50 | 可交易性 91.20 | 风险 低
+- DAN KOE Shared Meme Image | 质量 75.49 | 可交易性 100.00 | 风险 低
+- WRT Token Launch Announcement | 质量 71.09 | 可交易性 100.00 | 风险 低
+- Vanguard Digital Oil Reserve | 质量 70.18 | 可交易性 99.23 | 风险 低
 
 ## 伪叙事风险
 
-- Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- EARTH FRAGMENTS | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - Binance Ai Pro | BSC | 看多 | 新鲜度 100.00 | Binance AI Search: Ask and You Shall Trade
-- SIREN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 词元 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - pa | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CHIBIFY | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CHIBELON | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 7 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CHIBI | Solana | 看多 | 新鲜度 99.47 | 暂无直接叙事映射
+- 龙虾王 | BSC | 看多 | 新鲜度 94.76 | Lobster King
+- SIREN | BSC | 看多 | 新鲜度 91.72 | 暂无直接叙事映射
+- TITAN | BSC | 看多 | 新鲜度 91.38 | 暂无直接叙事映射
 - one | Solana | 看多 | 新鲜度 85.34 | 暂无直接叙事映射
 - Claymation | BSC | 看多 | 新鲜度 80.96 | 暂无直接叙事映射
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance AI Search: Ask and You Shall Trade（BSC，分数 88.3）
+1. 当前最强叙事：Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park（BSC，分数 85.05）
 2. 共振最强代币：SIREN（BSC，共振 100.0）
-3. 记忆层变化：WRT Token Launch Announcement 当前为“新出现”
+3. 记忆层变化：Join Us In 24 Hours 当前为“新出现”
 4. 最新官方催化：Impossible Cloud Network Trading Competition: Trade Impossible Cloud Network (ICNT) and Share $100K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
