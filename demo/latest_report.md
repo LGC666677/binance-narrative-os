@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-25T18:38:08.598907+00:00
+- 生成时间：2026-03-25T20:05:22.508586+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance AiPro Launches With Multi-AI Models，所在链为 BSC，叙事强度 84.12。
-- 当前平均叙事强度为 78.98，其中已确认叙事 2 个。
+- 当前最强叙事是 麻了，所在链为 BSC，叙事强度 83.94。
+- 当前平均叙事强度为 77.84，其中已确认叙事 2 个。
 - 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
-- 记忆层显示 Meme图 Sharing 当前处于“新出现”状态。
+- 记忆层显示 Comic Book Template on Grok Imagine 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 EARTH FRAGMENTS，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Impossible Cloud Network Trading Competition: Trade Impossible Cloud Network (ICNT) and Share $100K Worth of Rewards。
 
 ## 叙事雷达
 
-- Binance AiPro Launches With Multi-AI Models | BSC | 已确认 | 强度 84.12 | 质量 83.71
-  - 主题摘要：Binance launched AiPro, an AI-powered trading agent platform that integrates major AI models like ChatGPT and Qwen, sparking excitement in the crypto and AI communities.
-  - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park | BSC | 加速中 | 强度 83.01 | 质量 77.86
-  - 主题摘要：According to 中國新聞社's post, a golden-furred black-leaf monkey named 'Chuqi' debuted at Guangzhou Chimelong Wildlife World on March 23, drawing attention as a new attraction. The in…
-  - 资金 100.00 / 广度 85.66 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 麻了 | BSC | 已确认 | 强度 82.36 | 质量 82.08
+- 麻了 | BSC | 已确认 | 强度 83.94 | 质量 82.11
   - 主题摘要：According to 麻了's post, the '麻了' project has officially announced its imminent launch, positioning itself as a representation of a new generation of online emotional identity. The…
-  - 资金 100.00 / 广度 90.36 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.48 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance AI Search: Ask and You Shall Trade | BSC | 加速中 | 强度 80.91 | 质量 76.35
-  - 主题摘要：Binance promotes its AI-powered search tool that offers trade recommendations and real-time market insights. The casual, user-invitation tone hints at meme potential, blending cry…
-  - 资金 100.00 / 广度 94.41 / 确认 27.36 / 脆弱性 14.00
+- Comic Book Template on Grok Imagine | Solana | 加速中 | 强度 82.57 | 质量 77.28
+  - 主题摘要：According to DogeDesigner's post, the 'Comic Book' template on Grok Imagine allows users to instantly convert images into comic-style visuals with a single tap. The post promotes…
+  - 资金 100.00 / 广度 88.90 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Vanguard Digital Oil Reserve | Solana | 加速中 | 强度 80.17 | 质量 71.29
+- Binance AiPro Launches With Multi-AI Models | BSC | 已确认 | 强度 82.54 | 质量 83.42
+  - 主题摘要：Binance launched AiPro, an AI-powered trading agent platform that integrates major AI models like ChatGPT and Qwen, sparking excitement in the crypto and AI communities.
+  - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Vanguard Digital Oil Reserve | Solana | 加速中 | 强度 80.55 | 质量 71.51
   - 主题摘要：VDOR (Vanguard Digital Oil Reserve) draws inspiration from oil industry symbolism, featuring a logo with oil pumps and barrels. The token aims to create a decentralized digital oi…
-  - 资金 100.00 / 广度 70.63 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 70.60 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- EARTH FRAGMENTS | Solana | 降温中 | 强度 79.57 | 质量 69.66
-  - 主题摘要：FRAG (EARTH FRAGMENTS) is a community-driven token inspired by the concept of Earth's fragmented ecosystem. It aims to support environmental conservation through decentralized ini…
-  - 资金 100.00 / 广度 65.34 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Meme图 Sharing | Solana | 加速中 | 强度 78.64 | 质量 73.55
-  - 主题摘要：According to @jason's post, a Meme图 was shared, indicating engagement with crypto-native cultural content, though no specific context or token details were provided.
-  - 资金 100.00 / 广度 84.10 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 76.92 | 质量 64.63
-  - 主题摘要：According to 火蝴蝶FLAP's post, the火蝴蝶 project will be launched on the @flap_ch platform, featuring a multi-layer mechanism including token burning, ranking, viral growth, staking, a…
-  - 资金 100.00 / 广度 76.06 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MoonPay Releases AI Wallet Standard | Solana | 加速中 | 强度 76.61 | 质量 67.01
-  - 主题摘要：According to CoinMarketCap's post, MoonPay has released an open-source wallet standard enabling AI agents to hold funds and conduct transactions across multiple blockchains.
-  - 资金 100.00 / 广度 78.09 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AI-Powered Internet Characters and Token Launch | Solana | 降温中 | 强度 76.32 | 质量 64.37
-  - 主题摘要：According to Yong's post, internet culture is evolving from traditional memes like Pepe and Doge to AI agents with autonomous behavior. Yong also announced the imminent launch of…
-  - 资金 100.00 / 广度 74.65 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pregnant Hippo Mauled Zookeeper | Solana | 降温中 | 强度 73.90 | 质量 65.67
-  - 主题摘要：According to chunky's post, a zookeeper was fatally mauled by Hamsini, a pregnant hippo, during a nighttime check at a zoo enclosure. The incident is expected to gain significant…
-  - 资金 100.00 / 广度 53.07 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Benji Bean | BSC | 加速中 | 强度 73.40 | 质量 62.72
-  - 主题摘要：BENJI is a meme token inspired by the popular dog meme culture. It features a playful dog character as its mascot, embodying the fun and community-driven spirit of meme coins. BEN…
-  - 资金 100.00 / 广度 77.34 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- buttensor | Solana | 加速中 | 强度 72.90 | 质量 62.82
+- buttensor | Solana | 加速中 | 强度 79.71 | 质量 75.24
   - 主题摘要：According to Cutie Cat's post, $TAO has gained significant traction across social media platforms, being widely promoted by notable figures and accumulating over 20 million views.…
-  - 资金 100.00 / 广度 78.77 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.66 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Lobster King | BSC | 加速中 | 强度 72.12 | 质量 65.41
-  - 主题摘要：Multiple tokens named 「龙虾王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.97 / 确认 24.48 / 脆弱性 24.00
+- Binance AI Search: Ask and You Shall Trade | BSC | 加速中 | 强度 77.83 | 质量 78.11
+  - 主题摘要：Binance promotes its AI-powered search tool that offers trade recommendations and real-time market insights. The casual, user-invitation tone hints at meme potential, blending cry…
+  - 资金 92.56 / 广度 94.42 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- EARTH FRAGMENTS | Solana | 降温中 | 强度 77.64 | 质量 69.74
+  - 主题摘要：FRAG (EARTH FRAGMENTS) is a community-driven token inspired by the concept of Earth's fragmented ecosystem. It aims to support environmental conservation through decentralized ini…
+  - 资金 100.00 / 广度 65.61 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park | BSC | 加速中 | 强度 77.58 | 质量 74.77
+  - 主题摘要：According to 中國新聞社's post, a golden-furred black-leaf monkey named 'Chuqi' debuted at Guangzhou Chimelong Wildlife World on March 23, drawing attention as a new attraction. The in…
+  - 资金 100.00 / 广度 85.67 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Grok Imagine's Comic Book Template | BSC | 加速中 | 强度 76.14 | 质量 69.31
+  - 主题摘要：According to DogeDesigner's post, users can now apply the 'Comic Book' template on Grok Imagine to instantly convert images into comic-style visuals. The feature is promoted as re…
+  - 资金 100.00 / 广度 73.68 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 75.83 | 质量 64.66
+  - 主题摘要：According to 火蝴蝶FLAP's post, the火蝴蝶 project will be launched on the @flap_ch platform, featuring a multi-layer mechanism including token burning, ranking, viral growth, staking, a…
+  - 资金 100.00 / 广度 76.12 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Hakrium | BSC | 加速中 | 强度 75.01 | 质量 59.44
+  - 主题摘要：Multiple tokens named 「HKM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.94 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Meme图 Sharing | Solana | 加速中 | 强度 74.48 | 质量 74.46
+  - 主题摘要：According to @jason's post, a Meme图 was shared, indicating engagement with crypto-native cultural content, though no specific context or token details were provided.
+  - 资金 92.65 / 广度 83.91 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Proof of Human Coin Deployment on Solana | Solana | 加速中 | 强度 74.30 | 质量 69.76
+  - 主题摘要：According to thedevasdfg's post, a 'Proof of Human' token ($PoH) has been deployed on Solana, inspired by a 2013 BitcoinTalk post. The developer emphasizes human participation ami…
+  - 资金 100.00 / 广度 71.79 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- TrumpBot 3000 Introduction | BSC | 加速中 | 强度 73.84 | 质量 65.50
+  - 主题摘要：According to Governor Newsom Press Office's post, the TrumpBot 3000 Meme image was introduced as a humorous representation tied to Donald Trump's public persona. The image appears…
+  - 资金 100.00 / 广度 62.95 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.98，其中已确认叙事 2 个。
-- Meme图 Sharing 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.84，其中已确认叙事 2 个。
+- Comic Book Template on Grok Imagine 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - EARTH FRAGMENTS 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance AiPro Launches With Multi-AI Models | 质量 83.71 | 可交易性 100.00 | 风险 低
-- 麻了 | 质量 82.08 | 可交易性 100.00 | 风险 低
-- Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park | 质量 77.86 | 可交易性 93.82 | 风险 低
-- Binance AI Search: Ask and You Shall Trade | 质量 76.35 | 可交易性 98.94 | 风险 低
-- Meme图 Sharing | 质量 73.55 | 可交易性 83.10 | 风险 低
-- Vanguard Digital Oil Reserve | 质量 71.29 | 可交易性 100.00 | 风险 低
-- EARTH FRAGMENTS | 质量 69.66 | 可交易性 100.00 | 风险 低
-- MoonPay Releases AI Wallet Standard | 质量 67.01 | 可交易性 67.85 | 风险 低
-- Pregnant Hippo Mauled Zookeeper | 质量 65.67 | 可交易性 98.96 | 风险 低
-- Lobster King | 质量 65.41 | 可交易性 58.11 | 风险 低
+- Binance AiPro Launches With Multi-AI Models | 质量 83.42 | 可交易性 100.00 | 风险 低
+- 麻了 | 质量 82.11 | 可交易性 100.00 | 风险 低
+- Binance AI Search: Ask and You Shall Trade | 质量 78.11 | 可交易性 98.83 | 风险 低
+- Comic Book Template on Grok Imagine | 质量 77.28 | 可交易性 90.75 | 风险 低
+- buttensor | 质量 75.24 | 可交易性 85.20 | 风险 低
+- Golden Black-Leaf Monkey 'Chuqi' at Guangzhou Chimelong Safari Park | 质量 74.77 | 可交易性 91.83 | 风险 低
+- Meme图 Sharing | 质量 74.46 | 可交易性 86.33 | 风险 低
+- Vanguard Digital Oil Reserve | 质量 71.51 | 可交易性 100.00 | 风险 低
+- Proof of Human Coin Deployment on Solana | 质量 69.76 | 可交易性 83.31 | 风险 低
+- EARTH FRAGMENTS | 质量 69.74 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- EARTH FRAGMENTS | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -102,8 +104,8 @@
 - pa | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 7 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CHIBI | Solana | 看多 | 新鲜度 99.47 | 暂无直接叙事映射
-- 龙虾王 | BSC | 看多 | 新鲜度 94.76 | Lobster King
 - one | Solana | 看多 | 新鲜度 85.34 | 暂无直接叙事映射
+- 龙虾王 | BSC | 看多 | 新鲜度 82.76 | 暂无直接叙事映射
 - Claymation | BSC | 看多 | 新鲜度 80.96 | 暂无直接叙事映射
 - Terafab | BSC | 看多 | 新鲜度 79.05 | 暂无直接叙事映射
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance AiPro Launches With Multi-AI Models（BSC，分数 84.12）
+1. 当前最强叙事：麻了（BSC，分数 83.94）
 2. 共振最强代币：SIREN（BSC，共振 100.0）
-3. 记忆层变化：Meme图 Sharing 当前为“新出现”
+3. 记忆层变化：Comic Book Template on Grok Imagine 当前为“新出现”
 4. 最新官方催化：Impossible Cloud Network Trading Competition: Trade Impossible Cloud Network (ICNT) and Share $100K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
