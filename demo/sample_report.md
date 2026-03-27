@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-27T23:05:30.765354+00:00
+- 生成时间：2026-03-27T23:57:44.065339+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 The Pump Swing，所在链为 Solana，叙事强度 82.47。
-- 当前平均叙事强度为 77.39，其中已确认叙事 0 个。
+- 当前最强叙事是 NEKOKICHI，所在链为 Solana，叙事强度 77.3。
+- 当前平均叙事强度为 73.99，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
-- 记忆层显示 Trump AI Meme Image Shared 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 One Coin to Hold Forever，伪叙事风险 40.99。
+- 记忆层显示 The Whale Killer Token Strategy 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 SAVEMOON，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards。
 
 ## 叙事雷达
 
-- The Pump Swing | Solana | 降温中 | 强度 82.47 | 质量 70.76
-  - 主题摘要：PUMPSWING embodies the chaotic energy of crypto market rallies, visualized as a child on a swing with a pill floating above. The logo depicts a child on a swing with green candles…
-  - 资金 100.00 / 广度 69.01 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- National Agriculture Day 2026 Announcement | Solana | 降温中 | 强度 81.85 | 质量 72.09
-  - 主题摘要：The White House issued a statement on National Agriculture Day 2026, recognizing the contributions of American farmers, ranchers, and growers to the nation's food supply and econo…
-  - 资金 100.00 / 广度 84.43 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NEKOKICHI | Solana | 加速中 | 强度 77.19 | 质量 66.58
+- NEKOKICHI | Solana | 加速中 | 强度 77.30 | 质量 66.63
   - 主题摘要：NEKO (NEKOKICHI) is a meme token inspired by Maneki-neko, the Japanese lucky cat. The logo features a cute, cartoon-style cat with traditional Maneki-neko features, including a re…
-  - 资金 100.00 / 广度 79.36 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.40 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump AI Meme Image Shared | Solana | 加速中 | 强度 75.91 | 质量 73.95
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.56 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Meme图: It Ain't Much, But It's Honest Work | Solana | 降温中 | 强度 75.78 | 质量 69.10
-  - 主题摘要：According to 💰's post, the phrase 'It ain't much, but it's honest work' is associated with a widely shared Meme image that has been posted multiple times by @Pumpfun and is docume…
-  - 资金 100.00 / 广度 63.46 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Farmjak | Solana | 降温中 | 强度 75.72 | 质量 66.88
-  - 主题摘要：FARMJAK is a community-driven token inspired by the 'Farmers' Market' concept. The token features a cartoon farmer character in overalls and a straw hat, embodying the agricultura…
-  - 资金 100.00 / 广度 56.07 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Explosions in Toronto | Solana | 降温中 | 强度 75.69 | 质量 61.62
-  - 主题摘要：According to RT's post, a building in Toronto was rocked by explosions. Further details regarding the cause and extent of the incident remain unclear.
-  - 资金 100.00 / 广度 77.03 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNB Chain Likes New Feature | BSC | 降温中 | 强度 75.19 | 质量 63.19
-  - 主题摘要：BNB Chain官方账号点赞一项新功能，引发社区对其未来生态更新的猜测，但缺乏足够的情绪引爆点或视觉内容来推动Meme化。
-  - 资金 100.00 / 广度 64.90 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- One Coin to Hold Forever | Solana | 降温中 | 强度 74.54 | 质量 62.52
-  - 主题摘要：According to Forever's post, the FOREVER token is promoted as a long-term holding asset in the current volatile memecoin market. The post emphasizes commitment to holding rather t…
-  - 资金 100.00 / 广度 84.69 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- American Farmers and State Savings Inquiry | BSC | 加速中 | 强度 73.07 | 质量 57.43
-  - 主题摘要：The White House shared a link to ONLYFARMS.GOV to provide information on how American farmers are currently benefiting and state-level savings data.
-  - 资金 100.00 / 广度 71.15 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 72.02 | 质量 60.70
-  - 主题摘要：According to 火蝴蝶FLAP's post, the Fire Butterfly project will be launched on the @flap_ch platform as a multifunctional token integrating burning, ranking, forking, staking, and fo…
-  - 资金 100.00 / 广度 76.00 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hakrium | BSC | 加速中 | 强度 71.83 | 质量 63.04
+- Hakrium | BSC | 加速中 | 强度 75.38 | 质量 66.89
   - 主题摘要：Multiple tokens named 「HKM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.52 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.50 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance AiPro Launches With Multi-AI Models | BSC | 加速中 | 强度 71.58 | 质量 71.25
-  - 主题摘要：Binance launched AiPro, an AI-powered trading agent platform that integrates major AI models like ChatGPT and Qwen, sparking excitement in the crypto and AI communities.
-  - 资金 100.00 / 广度 86.34 / 确认 35.28 / 脆弱性 24.00
+- The Whale Killer Token Strategy | Solana | 降温中 | 强度 75.28 | 质量 60.05
+  - 主题摘要：According to Frost's post, $Orca 'The Whale Killer' is being positioned as a token designed to counter White Whale Labs, which previously controlled significant supply. Frost sugg…
+  - 资金 100.00 / 广度 75.59 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trump AI Meme Image Shared | Solana | 加速中 | 强度 75.24 | 质量 72.97
+  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.13 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 麻了 | BSC | 加速中 | 强度 68.36 | 质量 66.12
+- Kash Patel's GOONER Account Leaked | Solana | 加速中 | 强度 74.06 | 质量 63.95
+  - 主题摘要：According to Right Wing Cope's post, Kash Patel's GOONER account was identified following a username leak. The post includes a link to the associated profile.
+  - 资金 100.00 / 广度 74.20 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Google's Agent Smith AI Tool | Solana | 降温中 | 强度 73.48 | 质量 58.37
+  - 主题摘要：According to Chris's post, Google has developed a new internal AI tool called 'Agent Smith' which became so popular among employees that access had to be restricted. The tool is p…
+  - 资金 100.00 / 广度 75.98 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- AI Agent Meme Coin Gains Reddit Traction | Solana | 加速中 | 强度 72.94 | 质量 62.59
+  - 主题摘要：According to Glow's post, r/explainitpeter is a Reddit-based autonomous agent that generates detailed explanations similar to Grok. The post promotes the $PETER token linked to th…
+  - 资金 100.00 / 广度 73.61 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 72.49 | 质量 62.33
+  - 主题摘要：According to 火蝴蝶FLAP's post, the Fire Butterfly project will be launched on the @flap_ch platform as a multifunctional token integrating burning, ranking, forking, staking, and fo…
+  - 资金 100.00 / 广度 75.99 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- American Farmers and State Savings Inquiry | BSC | 加速中 | 强度 72.44 | 质量 57.99
+  - 主题摘要：The White House shared a link to ONLYFARMS.GOV to provide information on how American farmers are currently benefiting and state-level savings data.
+  - 资金 100.00 / 广度 72.31 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- SAVEMOON | Solana | 降温中 | 强度 72.24 | 质量 66.00
+  - 主题摘要：SAVEMOON (SVM) is a community-driven initiative to protect the SafeMoon brand. Created by Crypto_2Joe, who advocates for 'America First - God First', SVM aims to raise capital thr…
+  - 资金 100.00 / 广度 53.13 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Meme Coin Onboarding and Fee Payments | Solana | 加速中 | 强度 71.35 | 质量 60.76
+  - 主题摘要：According to fear's post, an individual plans to onboard and transfer token supply to @GreenManReports, while also sending fees. The post references $pisscoin, though no detailed…
+  - 资金 100.00 / 广度 77.23 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 麻了 | BSC | 加速中 | 强度 71.26 | 质量 70.53
   - 主题摘要：According to 麻了's post, the '麻了' project has officially revealed its name and is preparing for launch, positioning itself as a representation of a new generation's online emotiona…
-  - 资金 100.00 / 广度 80.59 / 确认 35.28 / 脆弱性 24.00
+  - 资金 100.00 / 广度 80.55 / 确认 34.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance AiPro Launches With Multi-AI Models | BSC | 加速中 | 强度 70.94 | 质量 70.33
+  - 主题摘要：Binance launched AiPro, an AI-powered trading agent platform that integrates major AI models like ChatGPT and Qwen, sparking excitement in the crypto and AI communities.
+  - 资金 100.00 / 广度 86.25 / 确认 35.28 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trump's Comments on Hormuz Strait | BSC | 降温中 | 强度 70.88 | 质量 56.67
+  - 主题摘要：Donald Trump expressed contradictory statements regarding the strategic importance of the Hormuz Strait, initially stating the U.S. does not need it, then urging Iran to keep it o…
+  - 资金 100.00 / 广度 60.80 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.39，其中已确认叙事 0 个。
-- Trump AI Meme Image Shared 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- The Pump Swing 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 73.99，其中已确认叙事 0 个。
+- Kash Patel's GOONER Account Leaked 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- The Whale Killer Token Strategy 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Trump AI Meme Image Shared | 质量 73.95 | 可交易性 90.50 | 风险 低
-- National Agriculture Day 2026 Announcement | 质量 72.09 | 可交易性 96.83 | 风险 低
-- Binance AiPro Launches With Multi-AI Models | 质量 71.25 | 可交易性 100.00 | 风险 低
-- The Pump Swing | 质量 70.76 | 可交易性 100.00 | 风险 低
-- Meme图: It Ain't Much, But It's Honest Work | 质量 69.10 | 可交易性 100.00 | 风险 低
-- Farmjak | 质量 66.88 | 可交易性 100.00 | 风险 低
-- NEKOKICHI | 质量 66.58 | 可交易性 67.78 | 风险 低
-- 麻了 | 质量 66.12 | 可交易性 100.00 | 风险 低
-- BNB Chain Likes New Feature | 质量 63.19 | 可交易性 78.87 | 风险 低
-- Hakrium | 质量 63.04 | 可交易性 85.61 | 风险 低
+- Trump AI Meme Image Shared | 质量 72.97 | 可交易性 87.04 | 风险 低
+- 麻了 | 质量 70.53 | 可交易性 100.00 | 风险 低
+- Binance AiPro Launches With Multi-AI Models | 质量 70.33 | 可交易性 100.00 | 风险 低
+- Hakrium | 质量 66.89 | 可交易性 86.17 | 风险 低
+- NEKOKICHI | 质量 66.63 | 可交易性 67.92 | 风险 低
+- SAVEMOON | 质量 66.00 | 可交易性 100.00 | 风险 低
+- Kash Patel's GOONER Account Leaked | 质量 63.95 | 可交易性 64.17 | 风险 低
+- AI Agent Meme Coin Gains Reddit Traction | 质量 62.59 | 可交易性 60.24 | 风险 低
+- Fire Butterfly Ecosystem Project Launch | 质量 62.33 | 可交易性 63.04 | 风险 低
+- Meme Coin Onboarding and Fee Payments | 质量 60.76 | 可交易性 47.36 | 风险 低
 
 ## 伪叙事风险
 
-- One Coin to Hold Forever | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- SAVEMOON | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：The Pump Swing（Solana，分数 82.47）
+1. 当前最强叙事：NEKOKICHI（Solana，分数 77.3）
 2. 共振最强代币：SIREN（BSC，共振 100.0）
-3. 记忆层变化：Trump AI Meme Image Shared 当前为“新出现”
+3. 记忆层变化：The Whale Killer Token Strategy 当前为“新出现”
 4. 最新官方催化：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
