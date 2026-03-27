@@ -1,104 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-27T14:17:12.277916+00:00
+- 生成时间：2026-03-27T17:31:26.210825+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Anthropic Testing Claude Mythos AI Model，所在链为 Solana，叙事强度 86.34。
-- 当前平均叙事强度为 82.6，其中已确认叙事 1 个。
+- 当前最强叙事是 Anthropic Testing Claude Mythos AI Model，所在链为 Solana，叙事强度 83.29。
+- 当前平均叙事强度为 77.64，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
-- 记忆层显示 The Pump Swing 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Cryptic Tokens and White House Post，伪叙事风险 40.99。
+- 记忆层显示 Alon's 'hiyo' Token Account Mystery 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Comesticle，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards。
 
 ## 叙事雷达
 
-- Anthropic Testing Claude Mythos AI Model | Solana | 加速中 | 强度 86.34 | 质量 81.76
+- Anthropic Testing Claude Mythos AI Model | Solana | 点火期 | 强度 83.29 | 质量 79.91
   - 主题摘要：According to tradfi news's post, Anthropic is testing a new AI model called 'Claude Mythos,' which is reported to be more powerful than previous versions. The model is in early-ac…
-  - 资金 100.00 / 广度 94.57 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.22 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alon's 'hiyo' Token Account Mystery | Solana | 降温中 | 强度 78.39 | 质量 67.66
+  - 主题摘要：According to Sgt. Wingflapper's post, Alon's wallet funded the 'hiyo' token on Pumpfun, predating $test and remaining unbonded. The rationale behind the alias 'hiyo' is unclear, a…
+  - 资金 100.00 / 广度 53.40 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Cryptic Tokens and White House Post | Solana | 降温中 | 强度 78.22 | 质量 70.33
+  - 主题摘要：According to FSMN's post, a cryptic social media post from the White House has generated interest in related cryptocurrency tokens with 'Cryptic' in their name. The post includes…
+  - 资金 100.00 / 广度 95.58 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- FOMO CEO's Favorite Meme Shared | Solana | 加速中 | 强度 77.67 | 质量 63.54
+  - 主题摘要：According to drill's post, the FOMO CEO stated that a particular Meme图 is his favorite, contributing to the associated token's visibility.
+  - 资金 100.00 / 广度 77.76 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Pump Swing | Solana | 降温中 | 强度 84.20 | 质量 76.44
-  - 主题摘要：PUMPSWING embodies the chaotic energy of crypto market rallies, visualized as a child on a swing with a pill floating above. The logo depicts a child on a swing with green candles…
-  - 资金 100.00 / 广度 86.36 / 确认 11.52 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cryptic Tokens and White House Post | Solana | 降温中 | 强度 82.06 | 质量 77.72
-  - 主题摘要：According to FSMN's post, a recent cryptic social media message from the White House has led to speculation about its potential connection to several newly launched or referenced…
-  - 资金 100.00 / 广度 92.21 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- White House Shared Meme Image | Solana | 降温中 | 强度 82.03 | 质量 77.60
-  - 主题摘要：The White House posted a Meme image on social media, sparking public attention and engagement around its visual content.
-  - 资金 100.00 / 广度 91.80 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Deadwhale | Solana | 已确认 | 强度 81.99 | 质量 72.57
-  - 主题摘要：According to Ephraim Schindler's post, the token $Deadwhale is experiencing significant price movement, reaching $200k valuation, despite lacking a cashback feature commonly found…
-  - 资金 99.95 / 广度 84.25 / 确认 30.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- White House Meme图 and Pump Speculation | Solana | 降温中 | 强度 81.78 | 质量 77.39
-  - 主题摘要：According to chip's post, cryptic messages attributed to the White House are circulating online, fueling speculation of a potential PUMP event. chip questions whether the White Ho…
-  - 资金 100.00 / 广度 91.09 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Terrence Johnson the Third's $CRYPTIC Post | Solana | 降温中 | 强度 81.24 | 质量 76.45
-  - 主题摘要：According to Terrence Johnson the Third's post, the term $CRYPTIC was used in a social media message, referencing a token associated with 'The Cryptic House'. The post appears to…
-  - 资金 100.00 / 广度 87.96 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- White House Meme Image Shared | Solana | 降温中 | 强度 81.13 | 质量 76.29
-  - 主题摘要：The White House posted an image accompanied by a whisper emoji, sharing a Meme-style visual that has sparked online discussion. The post does not reference any specific cryptocurr…
-  - 资金 100.00 / 广度 87.43 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 小龙虾 | BSC | 加速中 | 强度 77.01 | 质量 61.61
-  - 主题摘要：Multiple tokens named 「小龙虾」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.24 / 确认 24.48 / 脆弱性 14.00
+- Comesticle | Solana | 点火期 | 强度 77.07 | 质量 72.12
+  - 主题摘要：BANSTICLE (Comesticle) is a meme token inspired by the banana and condom imagery in its logo. The token gained attention through a viral post by Comesticle on X, featuring a yello…
+  - 资金 100.00 / 广度 73.52 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Panda Playing with Pony Toy | Solana | 加速中 | 强度 76.38 | 质量 71.91
+  - 主题摘要：According to 环球网's post, a panda is shown playfully interacting with a small pony toy, displaying continuous curiosity and affection. The post highlights the animal's endearing be…
+  - 资金 100.00 / 广度 84.49 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hakrium | BSC | 加速中 | 强度 74.51 | 质量 67.21
-  - 主题摘要：Multiple tokens named 「HKM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.73 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance AiPro Launches With Multi-AI Models | BSC | 加速中 | 强度 72.65 | 质量 70.50
-  - 主题摘要：Binance launched AiPro, an AI-powered trading agent platform that integrates major AI models like ChatGPT and Qwen, sparking excitement in the crypto and AI communities.
-  - 资金 100.00 / 广度 88.36 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 麻了 | BSC | 加速中 | 强度 72.13 | 质量 69.75
-  - 主题摘要：According to 麻了's post, the '麻了' project has officially revealed its name and is preparing for launch, positioning itself as a representation of a new generation's online emotiona…
-  - 资金 100.00 / 广度 82.65 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 71.13 | 质量 60.82
+- NEKOKICHI | Solana | 降温中 | 强度 75.49 | 质量 65.57
+  - 主题摘要：NEKO (NEKOKICHI) is a meme token inspired by Maneki-neko, the Japanese lucky cat. The logo features a cute, cartoon-style cat with traditional Maneki-neko features, including a re…
+  - 资金 100.00 / 广度 79.06 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- fomo promotes Believe in something token | Solana | 点火期 | 强度 74.63 | 质量 68.81
+  - 主题摘要：According to fomo's post, the trading app is promoting a token named 'Believe in something' to build internet audiences, referencing user leaderboard achievements. The token has m…
+  - 资金 100.00 / 广度 81.76 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 73.94 | 质量 61.64
   - 主题摘要：According to 火蝴蝶FLAP's post, the Fire Butterfly project will be launched on the @flap_ch platform as a multifunctional token integrating burning, ranking, forking, staking, and fo…
-  - 资金 100.00 / 广度 76.25 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.05 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 龙虾 | BSC | 加速中 | 强度 69.50 | 质量 52.86
+- 麻了 | BSC | 加速中 | 强度 73.24 | 质量 71.44
+  - 主题摘要：According to 麻了's post, the '麻了' project has officially revealed its name and is preparing for launch, positioning itself as a representation of a new generation's online emotiona…
+  - 资金 100.00 / 广度 80.91 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance AiPro Launches With Multi-AI Models | BSC | 加速中 | 强度 70.36 | 质量 69.18
+  - 主题摘要：Binance launched AiPro, an AI-powered trading agent platform that integrates major AI models like ChatGPT and Qwen, sparking excitement in the crypto and AI communities.
+  - 资金 100.00 / 广度 86.64 / 确认 35.28 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Hakrium | BSC | 加速中 | 强度 69.78 | 质量 63.62
+  - 主题摘要：Multiple tokens named 「HKM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.91 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 龙虾 | BSC | 加速中 | 强度 68.02 | 质量 51.19
   - 主题摘要：Multiple tokens named 「龙虾」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.29 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 64.56 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GiggleGive | BSC | 加速中 | 强度 67.10 | 质量 57.14
+  - 主题摘要：According to hAnk's post, the Giggle Foundation may have launched a new token, with a smart contract address linked to the BNB Chain. The referenced content claims charitable cont…
+  - 资金 100.00 / 广度 75.86 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.6，其中已确认叙事 1 个。
-- 小龙虾 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- The Pump Swing 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.64，其中已确认叙事 0 个。
+- FOMO CEO's Favorite Meme Shared 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alon's 'hiyo' Token Account Mystery 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Anthropic Testing Claude Mythos AI Model | 质量 81.76 | 可交易性 100.00 | 风险 低
-- Cryptic Tokens and White House Post | 质量 77.72 | 可交易性 100.00 | 风险 低
-- White House Shared Meme Image | 质量 77.60 | 可交易性 100.00 | 风险 低
-- White House Meme图 and Pump Speculation | 质量 77.39 | 可交易性 100.00 | 风险 低
-- Terrence Johnson the Third's $CRYPTIC Post | 质量 76.45 | 可交易性 100.00 | 风险 低
-- The Pump Swing | 质量 76.44 | 可交易性 100.00 | 风险 低
-- White House Meme Image Shared | 质量 76.29 | 可交易性 100.00 | 风险 低
-- Deadwhale | 质量 72.57 | 可交易性 74.94 | 风险 低
-- Binance AiPro Launches With Multi-AI Models | 质量 70.50 | 可交易性 100.00 | 风险 低
-- 麻了 | 质量 69.75 | 可交易性 100.00 | 风险 低
+- Anthropic Testing Claude Mythos AI Model | 质量 79.91 | 可交易性 100.00 | 风险 低
+- Comesticle | 质量 72.12 | 可交易性 100.00 | 风险 低
+- Panda Playing with Pony Toy | 质量 71.91 | 可交易性 77.79 | 风险 低
+- 麻了 | 质量 71.44 | 可交易性 100.00 | 风险 低
+- Cryptic Tokens and White House Post | 质量 70.33 | 可交易性 89.65 | 风险 低
+- Binance AiPro Launches With Multi-AI Models | 质量 69.18 | 可交易性 100.00 | 风险 低
+- fomo promotes Believe in something token | 质量 68.81 | 可交易性 75.46 | 风险 低
+- Alon's 'hiyo' Token Account Mystery | 质量 67.66 | 可交易性 100.00 | 风险 低
+- NEKOKICHI | 质量 65.57 | 可交易性 67.36 | 风险 低
+- Hakrium | 质量 63.62 | 可交易性 84.52 | 风险 低
 
 ## 伪叙事风险
 
+- Comesticle | 风险 47.79 | 原因：流动性偏薄
+- Anthropic Testing Claude Mythos AI Model | 风险 42.03 | 原因：流动性偏薄
+- fomo promotes Believe in something token | 风险 42.03 | 原因：流动性偏薄
 - Cryptic Tokens and White House Post | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- White House Shared Meme Image | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- White House Meme图 and Pump Speculation | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Terrence Johnson the Third's $CRYPTIC Post | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- White House Meme Image Shared | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -137,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Anthropic Testing Claude Mythos AI Model（Solana，分数 86.34）
+1. 当前最强叙事：Anthropic Testing Claude Mythos AI Model（Solana，分数 83.29）
 2. 共振最强代币：XRP（BSC，共振 100.0）
-3. 记忆层变化：The Pump Swing 当前为“新出现”
+3. 记忆层变化：Alon's 'hiyo' Token Account Mystery 当前为“新出现”
 4. 最新官方催化：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
