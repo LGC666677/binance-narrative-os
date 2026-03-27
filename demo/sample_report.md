@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-26T22:59:15.573597+00:00
+- 生成时间：2026-03-27T00:00:47.511795+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 U.S. Redesigning Dollar Banknotes with Trump's Name，所在链为 Solana，叙事强度 82.69。
-- 当前平均叙事强度为 73.91，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
-- 记忆层显示 U.S. Redesigning Dollar Banknotes with Trump's Name 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 NASA Invites Public to Join Artemis Moon Mission，伪叙事风险 50.11。
+- 当前最强叙事是 U.S. Redesigning Dollar Banknotes with Trump's Name，所在链为 Solana，叙事强度 83.19。
+- 当前平均叙事强度为 75.84，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 龙虾，来自 BSC，共振分数 100.0。
+- 记忆层显示 GTCHI 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 NASA Invites Public to Join Artemis Moon Mission，伪叙事风险 44.91。
 - 最新官方催化来自 最新活动：Pakistan Exclusive: Join the $25,000 Powerplay Challenge and Score Runs to Win。
 
 ## 叙事雷达
 
-- U.S. Redesigning Dollar Banknotes with Trump's Name | Solana | 已确认 | 强度 82.69 | 质量 80.43
+- U.S. Redesigning Dollar Banknotes with Trump's Name | Solana | 已确认 | 强度 83.19 | 质量 80.53
   - 主题摘要：According to Pubity's post, the U.S. government is reportedly redesigning all dollar banknotes to feature Donald Trump's name and signature. This information is unverified. Please…
-  - 资金 100.00 / 广度 85.88 / 确认 30.28 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.23 / 确认 30.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 79.82 | 质量 65.93
+- GTCHI | Solana | 加速中 | 强度 77.46 | 质量 67.16
+  - 主题摘要：According to Garry Tan's post, there is growing engagement from startup founders within the Y Combinator ecosystem, reflecting broader trends in startup acceleration and founder s…
+  - 资金 100.00 / 广度 74.45 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 77.03 | 质量 65.79
   - 主题摘要：According to 火蝴蝶FLAP's post, the Fire Butterfly project will be launched on the @flap_ch platform as a multifunctional token integrating burning, ranking, forking, staking, and fo…
-  - 资金 100.00 / 广度 77.88 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.91 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Deadwhale | Solana | 降温中 | 强度 77.26 | 质量 64.44
-  - 主题摘要：According to Ephraim Schindler's post, the token $Deadwhale is experiencing significant price movement without offering a cashback feature, raising questions about its value propo…
-  - 资金 100.00 / 广度 73.28 / 确认 16.56 / 脆弱性 14.00
+- AI Arena for LLM Battles | Solana | 降温中 | 强度 76.40 | 质量 67.86
+  - 主题摘要：According to petal's post, an AI arena has been developed where LLMs can battle each other, based on the game Yomi Hustle. A tournament featuring eight models is planned, and all…
+  - 资金 100.00 / 广度 55.47 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance AiPro Launches With Multi-AI Models | BSC | 加速中 | 强度 75.55 | 质量 73.41
-  - 主题摘要：Binance launched AiPro, an AI-powered trading agent platform that integrates major AI models like ChatGPT and Qwen, sparking excitement in the crypto and AI communities.
-  - 资金 100.00 / 广度 91.23 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 麻了 | BSC | 加速中 | 强度 75.13 | 质量 73.80
+- 麻了 | BSC | 加速中 | 强度 75.81 | 质量 72.89
   - 主题摘要：According to 麻了's post, the '麻了' project has officially revealed its name and is preparing for launch, positioning itself as a representation of a new generation's online emotiona…
-  - 资金 100.00 / 广度 84.69 / 确认 35.28 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.60 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- goldify | BSC | 加速中 | 强度 74.51 | 质量 64.06
-  - 主题摘要：According to 神龙 🔶 BNB's post, there is uncertainty about whether the token 'goldify' is associated with a USDT-based strategy or play, suggesting potential confusion or speculatio…
-  - 资金 100.00 / 广度 80.57 / 确认 24.48 / 脆弱性 14.00
+- Deadwhale | Solana | 加速中 | 强度 75.80 | 质量 65.27
+  - 主题摘要：According to Ephraim Schindler's post, the token $Deadwhale is experiencing significant price movement without offering a cashback feature, raising questions about its value propo…
+  - 资金 100.00 / 广度 73.92 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GiggleGive | BSC | 加速中 | 强度 74.48 | 质量 63.68
+- Hermes Agent Communication Prototype | Solana | 降温中 | 强度 74.96 | 质量 63.01
+  - 主题摘要：Teknium (e/λ) developed a working prototype enabling inter-agent communication between two Hermes instances (Icarus and Daedalus), allowing them to engage in philosophical dialogu…
+  - 资金 100.00 / 广度 49.89 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- GiggleGive | BSC | 加速中 | 强度 74.89 | 质量 63.76
   - 主题摘要：According to hAnk's post, the Giggle Foundation may have launched a new token, with a smart contract address linked to the BNB Chain. The referenced content claims charitable cont…
-  - 资金 100.00 / 广度 79.53 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.57 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hakrium | BSC | 加速中 | 强度 73.58 | 质量 61.19
+- Kangaroo Escapes in Jeans | Solana | 加速中 | 强度 73.89 | 质量 62.73
+  - 主题摘要：According to Esee's post, a kangaroo named 'Chesney' that escaped from a Wisconsin zoo wearing jeans has inspired meme culture and is associated with multiple related tokens. This…
+  - 资金 100.00 / 广度 78.50 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Hakrium | BSC | 加速中 | 强度 73.35 | 质量 63.41
   - 主题摘要：Multiple tokens named 「HKM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.22 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.18 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Aegis Place | Solana | 降温中 | 强度 73.14 | 质量 62.67
-  - 主题摘要：AEGIS Place is the first marketplace for AI agent creators, where agents earn 100% of every skill invocation. The project connects autonomous agents with on-chain skills through i…
-  - 资金 100.00 / 广度 47.96 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NASA Invites Public to Join Artemis Moon Mission | Solana | 点火期 | 强度 71.36 | 质量 73.29
+- Binance AiPro Launches With Multi-AI Models | BSC | 加速中 | 强度 73.02 | 质量 71.50
+  - 主题摘要：Binance launched AiPro, an AI-powered trading agent platform that integrates major AI models like ChatGPT and Qwen, sparking excitement in the crypto and AI communities.
+  - 资金 100.00 / 广度 91.15 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- NASA Invites Public to Join Artemis Moon Mission | Solana | 点火期 | 强度 72.96 | 质量 70.09
   - 主题摘要：According to NASA Wallops's post, members of the public can submit their names to be included in a digital boarding pass for the Artemis lunar mission, marking a symbolic opportun…
-  - 资金 81.71 / 广度 91.40 / 确认 12.96 / 脆弱性 24.00
+  - 资金 93.39 / 广度 91.37 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Vanguard Digital Oil Reserve | Solana | 加速中 | 强度 71.20 | 质量 68.25
-  - 主题摘要：VDOR (Vanguard Digital Oil Reserve) draws inspiration from oil industry imagery, featuring pumpjacks and oil barrels in its logo. The token appears to be a meme coin leveraging th…
-  - 资金 100.00 / 广度 67.10 / 确认 24.48 / 脆弱性 18.23
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- All Meme Dogs Are Turkish | Solana | 降温中 | 强度 71.09 | 质量 55.98
-  - 主题摘要：According to bullishdihployer19's post, several popular Meme coins featuring dogs, including WIF, Billy, Shiba, and Floki, are humorously linked to Turkey, drawing from a quoted a…
-  - 资金 100.00 / 广度 69.60 / 确认 16.56 / 脆弱性 14.00
+- Aegis Place | Solana | 降温中 | 强度 72.09 | 质量 60.06
+  - 主题摘要：AEGIS Place is the first marketplace for AI agent creators, where agents earn 100% of every skill invocation. The project connects autonomous agents with on-chain skills through i…
+  - 资金 100.00 / 广度 48.06 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Glizzard | Solana | 加速中 | 强度 70.65 | 质量 62.86
-  - 主题摘要：Harper posted a Meme image referencing 'Glizzard' and included a link to a token deployment platform. According to Harper's post, this Meme appears to be resurfacing from one year…
-  - 资金 100.00 / 广度 78.21 / 确认 24.48 / 脆弱性 24.00
+- goldify | BSC | 加速中 | 强度 71.77 | 质量 63.77
+  - 主题摘要：According to 神龙 🔶 BNB's post, there is uncertainty about whether the token 'goldify' is associated with a USDT-based strategy or play, suggesting potential confusion or speculatio…
+  - 资金 100.00 / 广度 80.66 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Holder | BSC | 降温中 | 强度 70.48 | 质量 53.27
-  - 主题摘要：Multiple tokens named 「Binance Holder」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.12 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 73.91，其中已确认叙事 1 个。
-- U.S. Redesigning Dollar Banknotes with Trump's Name 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Deadwhale 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.84，其中已确认叙事 1 个。
+- GTCHI 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- AI Arena for LLM Battles 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- U.S. Redesigning Dollar Banknotes with Trump's Name | 质量 80.43 | 可交易性 100.00 | 风险 低
-- 麻了 | 质量 73.80 | 可交易性 100.00 | 风险 低
-- Binance AiPro Launches With Multi-AI Models | 质量 73.41 | 可交易性 100.00 | 风险 低
-- NASA Invites Public to Join Artemis Moon Mission | 质量 73.29 | 可交易性 83.38 | 风险 低
-- Vanguard Digital Oil Reserve | 质量 68.25 | 可交易性 100.00 | 风险 低
-- Fire Butterfly Ecosystem Project Launch | 质量 65.93 | 可交易性 63.93 | 风险 低
-- Deadwhale | 质量 64.44 | 可交易性 69.38 | 风险 低
-- goldify | 质量 64.06 | 可交易性 55.02 | 风险 低
-- GiggleGive | 质量 63.68 | 可交易性 54.80 | 风险 低
-- Glizzard | 质量 62.86 | 可交易性 53.36 | 风险 低
+- U.S. Redesigning Dollar Banknotes with Trump's Name | 质量 80.53 | 可交易性 100.00 | 风险 低
+- 麻了 | 质量 72.89 | 可交易性 100.00 | 风险 低
+- Binance AiPro Launches With Multi-AI Models | 质量 71.50 | 可交易性 100.00 | 风险 低
+- NASA Invites Public to Join Artemis Moon Mission | 质量 70.09 | 可交易性 83.35 | 风险 低
+- AI Arena for LLM Battles | 质量 67.86 | 可交易性 98.58 | 风险 低
+- GTCHI | 质量 67.16 | 可交易性 71.47 | 风险 低
+- Fire Butterfly Ecosystem Project Launch | 质量 65.79 | 可交易性 63.45 | 风险 低
+- Deadwhale | 质量 65.27 | 可交易性 68.85 | 风险 低
+- goldify | 质量 63.77 | 可交易性 53.94 | 风险 低
+- GiggleGive | 质量 63.76 | 可交易性 55.01 | 风险 低
 
 ## 伪叙事风险
 
-- NASA Invites Public to Join Artemis Moon Mission | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- NASA Invites Public to Join Artemis Moon Mission | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：U.S. Redesigning Dollar Banknotes with Trump's Name（Solana，分数 82.69）
-2. 共振最强代币：SIREN（BSC，共振 100.0）
-3. 记忆层变化：U.S. Redesigning Dollar Banknotes with Trump's Name 当前为“新出现”
+1. 当前最强叙事：U.S. Redesigning Dollar Banknotes with Trump's Name（Solana，分数 83.19）
+2. 共振最强代币：龙虾（BSC，共振 100.0）
+3. 记忆层变化：GTCHI 当前为“新出现”
 4. 最新官方催化：Pakistan Exclusive: Join the $25,000 Powerplay Challenge and Score Runs to Win
 #Binance #NarrativeOS #OpenClaw
