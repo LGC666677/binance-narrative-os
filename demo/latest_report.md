@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-28T15:05:07.066182+00:00
+- 生成时间：2026-03-28T16:02:45.946723+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 USA Claims .gov Domain for AI Agents Project，所在链为 Solana，叙事强度 80.53。
-- 当前平均叙事强度为 77.67，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 扭羊歌，来自 BSC，共振分数 100.0。
-- 记忆层显示 The Whale Killer Token Strategy 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 燃烧，伪叙事风险 52.99。
+- 当前最强叙事是 The Agentic Economy Architecture，所在链为 BSC，叙事强度 82.61。
+- 当前平均叙事强度为 72.42，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
+- 记忆层显示 Viral Giant Pet Spirit Trend on X 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 The Pump Swing，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards。
 
 ## 叙事雷达
 
-- USA Claims .gov Domain for AI Agents Project | Solana | 加速中 | 强度 80.53 | 质量 74.53
-  - 主题摘要：According to rabbit dev's post, the USA has claimed a .gov domain related to AI agents, suggesting potential government involvement in AI agent development. The post speculates on…
-  - 资金 100.00 / 广度 79.82 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- kotaro | Solana | 加速中 | 强度 79.53 | 质量 75.79
-  - 主题摘要：kota is a meme token inspired by a chubby, round dog character named Kotaro. The narrative emphasizes Kotaro's resilience and positive attitude, portraying him as a 'roundest hero…
-  - 资金 100.00 / 广度 74.68 / 确认 24.48 / 脆弱性 10.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Whale Killer Token Strategy | Solana | 降温中 | 强度 78.93 | 质量 70.60
-  - 主题摘要：According to Frost's post, $Orca 'The Whale Killer' is being positioned as a token that challenges White Whale Labs by locking 50% of supply and dev fees. Frost suggests this crea…
-  - 资金 100.00 / 广度 82.39 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- OpenClaw's Mass-Scale City for AI Agents | Solana | 加速中 | 强度 78.11 | 质量 70.27
-  - 主题摘要：According to Lix's post, a developer created a large-scale virtual city called 'Gas Town' for OpenClaw agents, simulating office environments during code sessions.
-  - 资金 100.00 / 广度 79.19 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AI and humanoid-driven business transformation with Grok Blockchain | Solana | 加速中 | 强度 77.88 | 质量 74.20
-  - 主题摘要：Mark Cuban anticipates a corporate transformation over the next four years, leveraging humanoids and AI, particularly Grok and future models, to replace human labor. He highlights…
-  - 资金 100.00 / 广度 87.12 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Lettuce Hands Meme Image Shared | Solana | 降温中 | 强度 76.07 | 质量 65.62
-  - 主题摘要：According to thedevrrrrrr's post, Adam Back, a prominent figure in the crypto community, humorously referenced 'Lettuce Hands' in response to a discussion about low conviction hol…
-  - 资金 100.00 / 广度 85.06 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Woodpecker Flying With a Weasel | Solana | 降温中 | 强度 75.31 | 质量 65.84
-  - 主题摘要：According to World's Amazing Things's post, a woodpecker was photographed flying with a weasel on its back by Martin Le-May in Hornchurch Country Park, London. This unusual wildli…
-  - 资金 100.00 / 广度 77.12 / 确认 11.52 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Agentic Economy Architecture | BSC | 降温中 | 强度 75.07 | 质量 69.34
+- The Agentic Economy Architecture | BSC | 加速中 | 强度 82.61 | 质量 75.90
   - 主题摘要：According to WLFI's post, the architecture of the Agentic Economy is transitioning from theory to implementation, emphasizing the integration of raw compute and personal sovereign…
-  - 资金 100.00 / 广度 74.95 / 确认 11.52 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.43 / 确认 22.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- kotaro | Solana | 加速中 | 强度 81.64 | 质量 75.90
+  - 主题摘要：kota is a meme token inspired by a chubby, round dog character named Kotaro. The narrative emphasizes Kotaro's resilience and positive attitude, portraying him as a 'roundest hero…
+  - 资金 100.00 / 广度 75.05 / 确认 24.48 / 脆弱性 0.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- The Whale Killer Token Strategy | Solana | 降温中 | 强度 79.54 | 质量 70.74
+  - 主题摘要：According to Frost's post, $Orca 'The Whale Killer' is being positioned as a token that challenges White Whale Labs by locking 50% of supply and dev fees. Frost suggests this crea…
+  - 资金 100.00 / 广度 82.55 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Grok AI Updates Image-to-Game Feature | Solana | 加速中 | 强度 75.03 | 质量 64.81
+- USA Claims .gov Domain for AI Agents Project | Solana | 加速中 | 强度 77.68 | 质量 74.24
+  - 主题摘要：According to rabbit dev's post, the USA has claimed a .gov domain related to AI agents, suggesting potential government involvement in AI agent development. The post speculates on…
+  - 资金 100.00 / 广度 80.00 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Grok AI Updates Image-to-Game Feature | Solana | 加速中 | 强度 77.55 | 质量 65.34
   - 主题摘要：According to irony's post, Grok released an update allowing users to convert images into game-ready formats, which is expected to be widely adopted for profile pictures. The post…
-  - 资金 100.00 / 广度 82.76 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.10 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 72.40 | 质量 61.32
-  - 主题摘要：According to 火蝴蝶FLAP's post, the Fire Butterfly project will be launched on the @flap_ch platform as a multifunctional token integrating burning, ranking, forking, staking, and fo…
-  - 资金 100.00 / 广度 73.41 / 确认 24.48 / 脆弱性 14.00
+- OpenClaw's Mass-Scale City for AI Agents | Solana | 加速中 | 强度 75.28 | 质量 69.98
+  - 主题摘要：According to Lix's post, a developer created a large-scale virtual city called 'Gas Town' for OpenClaw agents, simulating office environments during code sessions.
+  - 资金 100.00 / 广度 79.36 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:大学生与Binance Narrative | BSC | 加速中 | 强度 72.38 | 质量 65.61
-  - 主题摘要：According to HOLDERS's post, a Meme image circulates online depicting a village welcoming a college student wearing a Binance-branded helmet, symbolizing crypto influence in rural…
-  - 资金 100.00 / 广度 81.26 / 确认 24.48 / 脆弱性 24.00
+- Viral Giant Pet Spirit Trend on X | Solana | 降温中 | 强度 75.14 | 质量 65.83
+  - 主题摘要：According to lone degen's post, a viral trend on X involves pet owners photoshopping their pets' giant anime-style faces into travel photos, symbolizing a guardian spirit watching…
+  - 资金 100.00 / 广度 56.34 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:大学生与Binance Narrative | BSC | 加速中 | 强度 74.19 | 质量 65.78
+  - 主题摘要：According to HOLDERS's post, a college student arrived in the village wearing a construction helmet and tightly holding onto Binance, symbolizing a narrative around crypto adoptio…
+  - 资金 100.00 / 广度 81.38 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CaptainBNB | BSC | 加速中 | 强度 70.92 | 质量 55.81
-  - 主题摘要：CaptainBNB is a meme token inspired by the iconic Captain America character, blending superhero themes with blockchain technology. It aims to create a community-driven ecosystem w…
-  - 资金 100.00 / 广度 65.95 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 燃烧 | BSC | 点火期 | 强度 69.92 | 质量 73.22
-  - 主题摘要：燃烧 (Burn) is a meme token inspired by the viral 'Burn' meme, featuring a cartoon character with a fiery expression. It embraces the 'burn' culture of crypto, focusing on community…
-  - 资金 77.73 / 广度 77.57 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 抖音热搜 | BSC | 加速中 | 强度 69.02 | 质量 61.25
+- SAVEMOON | Solana | 降温中 | 强度 73.93 | 质量 66.30
+  - 主题摘要：SAVEMOON (SVM) is a community-driven initiative to protect the SafeMoon brand. Created by Crypto_2Joe, who advocates for 'America First - God First', SVM aims to raise capital thr…
+  - 资金 100.00 / 广度 54.15 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Pump Swing | Solana | 降温中 | 强度 72.90 | 质量 58.63
+  - 主题摘要：PUMPSWING embodies the chaotic energy of crypto market rallies, visualized as a child on a swing with a pill floating above. The logo depicts a child on a swing with green candles…
+  - 资金 100.00 / 广度 64.83 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 抖音热搜 | BSC | 加速中 | 强度 70.34 | 质量 61.30
   - 主题摘要：According to 0Research's post, China has deployed AI-controlled robotic wolves into their military. The claim references a Douyin video as evidence, but no independent verificatio…
-  - 资金 100.00 / 广度 77.48 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.57 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CaptainBNB | BSC | 加速中 | 强度 70.26 | 质量 55.73
+  - 主题摘要：CaptainBNB is a meme token inspired by the iconic Captain America character, blending superhero themes with blockchain technology. It aims to create a community-driven ecosystem w…
+  - 资金 100.00 / 广度 65.99 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 69.22 | 质量 58.46
+  - 主题摘要：According to 火蝴蝶FLAP's post, the Fire Butterfly project will be launched on the @flap_ch platform as a multifunctional token integrating burning, ranking, forking, staking, and fo…
+  - 资金 100.00 / 广度 73.29 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- xaipro | BSC | 加速中 | 强度 67.89 | 质量 54.54
+  - 主题摘要：xaipro is a decentralized token inspired by Elon Musk's AI vision. The logo features a stylized 'X' symbol, reflecting its connection to Musk's AI ecosystem. It aims to revolution…
+  - 资金 100.00 / 广度 57.74 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.67，其中已确认叙事 0 个。
-- OpenClaw's Mass-Scale City for AI Agents 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 72.42，其中已确认叙事 0 个。
+- xaipro 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - The Whale Killer Token Strategy 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- kotaro | 质量 75.79 | 可交易性 100.00 | 风险 低
-- USA Claims .gov Domain for AI Agents Project | 质量 74.53 | 可交易性 90.66 | 风险 低
-- AI and humanoid-driven business transformation with Grok Blockchain | 质量 74.20 | 可交易性 82.78 | 风险 低
-- 燃烧 | 质量 73.22 | 可交易性 100.00 | 风险 低
-- The Whale Killer Token Strategy | 质量 70.60 | 可交易性 86.09 | 风险 低
-- OpenClaw's Mass-Scale City for AI Agents | 质量 70.27 | 可交易性 77.10 | 风险 低
-- The Agentic Economy Architecture | 质量 69.34 | 可交易性 87.73 | 风险 低
-- Woodpecker Flying With a Weasel | 质量 65.84 | 可交易性 73.91 | 风险 低
-- Lettuce Hands Meme Image Shared | 质量 65.62 | 可交易性 66.81 | 风险 低
-- Uncertain:大学生与Binance Narrative | 质量 65.61 | 可交易性 59.48 | 风险 低
+- The Agentic Economy Architecture | 质量 75.90 | 可交易性 96.20 | 风险 低
+- kotaro | 质量 75.90 | 可交易性 100.00 | 风险 低
+- USA Claims .gov Domain for AI Agents Project | 质量 74.24 | 可交易性 89.52 | 风险 低
+- The Whale Killer Token Strategy | 质量 70.74 | 可交易性 86.37 | 风险 低
+- OpenClaw's Mass-Scale City for AI Agents | 质量 69.98 | 可交易性 75.95 | 风险 低
+- SAVEMOON | 质量 66.30 | 可交易性 100.00 | 风险 低
+- Viral Giant Pet Spirit Trend on X | 质量 65.83 | 可交易性 99.94 | 风险 低
+- Uncertain:大学生与Binance Narrative | 质量 65.78 | 可交易性 59.92 | 风险 低
+- Grok AI Updates Image-to-Game Feature | 质量 65.34 | 可交易性 56.74 | 风险 低
+- 抖音热搜 | 质量 61.30 | 可交易性 48.82 | 风险 低
 
 ## 伪叙事风险
 
-- 燃烧 | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- The Pump Swing | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：USA Claims .gov Domain for AI Agents Project（Solana，分数 80.53）
-2. 共振最强代币：扭羊歌（BSC，共振 100.0）
-3. 记忆层变化：The Whale Killer Token Strategy 当前为“新出现”
+1. 当前最强叙事：The Agentic Economy Architecture（BSC，分数 82.61）
+2. 共振最强代币：XRP（BSC，共振 100.0）
+3. 记忆层变化：Viral Giant Pet Spirit Trend on X 当前为“新出现”
 4. 最新官方催化：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
