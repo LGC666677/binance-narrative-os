@@ -1,103 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-28T17:50:18.798354+00:00
+- 生成时间：2026-03-28T19:26:39.600449+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 kotaro，所在链为 Solana，叙事强度 82.91。
-- 当前平均叙事强度为 74.41，其中已确认叙事 0 个。
+- 当前最强叙事是 Japanese X Meme Image Launch，所在链为 Solana，叙事强度 84.8。
+- 当前平均叙事强度为 80.43，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
-- 记忆层显示 Reviving Real PVE Coins 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 The Whale Killer Token Strategy，伪叙事风险 52.99。
+- 记忆层显示 Japanese X Meme Image Launch 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards。
 
 ## 叙事雷达
 
-- kotaro | Solana | 加速中 | 强度 82.91 | 质量 76.07
+- Japanese X Meme Image Launch | Solana | 加速中 | 强度 84.80 | 质量 79.98
+  - 主题摘要：According to name lastname's post, a Meme coin referred to as 'Japanese X' has been circulating since 2023. Multiple tokens with similar names and symbols have appeared, featuring…
+  - 资金 100.00 / 广度 91.82 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Meme图Mangafication Trend | Solana | 加速中 | 强度 81.14 | 质量 75.15
+  - 主题摘要：According to susdev67's post, a trend referred to as 'Mangafication' is emerging in the crypto space, where users are encouraged to post mangafied images. This appears to be linke…
+  - 资金 100.00 / 广度 84.93 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- kotaro | Solana | 加速中 | 强度 81.06 | 质量 76.30
   - 主题摘要：kota is a meme token inspired by a chubby, round dog character named Kotaro. The narrative emphasizes Kotaro's resilience and positive attitude, portraying him as a 'roundest hero…
-  - 资金 100.00 / 广度 75.63 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 76.37 / 确认 24.48 / 脆弱性 10.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Agentic Economy Architecture | BSC | 加速中 | 强度 80.22 | 质量 75.88
+- Wholesome Japanese Posts and Pig Samurai Meme图 Trend | Solana | 降温中 | 强度 80.81 | 质量 74.29
+  - 主题摘要：According to Nikita Bier's post, the reference to 'wholesome Japanese posts' appears in the context of a meme image. The discussion reflects ongoing engagement with internet cultu…
+  - 资金 100.00 / 广度 87.08 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Proposal for Japanese Version of CT | Solana | 降温中 | 强度 79.58 | 质量 72.27
+  - 主题摘要：According to Douϝ pnλ wλ coᴉuƨ ᴉ ʍᴉɼɼ ʁnმ's post, the Japanese version of Crypto Twitter appears to be underperforming, prompting a suggestion that it should be improved or replac…
+  - 资金 100.00 / 广度 86.68 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Agentic Economy Architecture | BSC | 加速中 | 强度 78.94 | 质量 75.63
   - 主题摘要：According to WLFI's post, the architecture of the Agentic Economy is transitioning from theory to practical implementation, signaling a new phase in decentralized financial system…
-  - 资金 100.00 / 广度 81.02 / 确认 22.32 / 脆弱性 24.00
+  - 资金 100.00 / 广度 80.90 / 确认 22.32 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Grok AI Updates Image-to-Game Feature | Solana | 加速中 | 强度 77.60 | 质量 65.80
-  - 主题摘要：According to irony's post, Grok has introduced an update allowing users to convert images into games, which may influence the next trend in profile picture usage.
-  - 资金 100.00 / 广度 83.85 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Whale Killer Token Strategy | Solana | 点火期 | 强度 76.45 | 质量 70.49
+- The Whale Killer Token Strategy | Solana | 降温中 | 强度 78.88 | 质量 70.36
   - 主题摘要：According to Frost's post, $Orca 'The Whale Killer' is being positioned as a token that challenges White Whale Labs by locking 50% of supply and dev fees. Frost suggests this crea…
-  - 资金 100.00 / 广度 82.68 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Reviving Real PVE Coins | Solana | 点火期 | 强度 73.86 | 质量 66.15
-  - 主题摘要：According to Mello's post, the topic centers on the challenges of reintroducing authentic PVE-themed cryptocurrency tokens, citing issues such as PvP, botting, and short holding t…
-  - 资金 100.00 / 广度 77.77 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- trash can | Solana | 加速中 | 强度 73.50 | 质量 65.59
-  - 主题摘要：According to Esee's post, an image featuring a trash can is being shared with the claim that it can go viral, despite a recent OpenAI-related assertion suggesting otherwise.
-  - 资金 100.00 / 广度 83.41 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:大学生与Binance Narrative | BSC | 加速中 | 强度 73.01 | 质量 65.81
-  - 主题摘要：According to HOLDERS's post, a college student arrived in the village wearing a construction helmet and tightly holding onto Binance, symbolizing a narrative around crypto adoptio…
-  - 资金 100.00 / 广度 81.52 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 抖音热搜 | BSC | 加速中 | 强度 72.34 | 质量 61.82
-  - 主题摘要：According to 0Research's post, China has deployed AI-controlled robotic wolves into their military. The claim references a Douyin video as evidence, but no independent verificatio…
-  - 资金 100.00 / 广度 77.75 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SAVEMOON | Solana | 降温中 | 强度 71.14 | 质量 62.43
-  - 主题摘要：SAVEMOON (SVM) is a community-driven initiative to protect the SafeMoon brand. Created by Crypto_2Joe, who advocates for 'America First - God First', SVM aims to raise capital thr…
-  - 资金 100.00 / 广度 53.30 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.45 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Pump Swing | Solana | 降温中 | 强度 71.05 | 质量 55.90
-  - 主题摘要：PUMPSWING embodies the chaotic energy of crypto market rallies, visualized as a child on a swing with a pill floating above. The logo depicts a child on a swing with green candles…
-  - 资金 100.00 / 广度 64.72 / 确认 9.36 / 脆弱性 24.00
+- Japanese Memes Gaining Traction on Twitter | Solana | 降温中 | 强度 78.62 | 质量 65.76
+  - 主题摘要：According to Esee's post, Japanese Meme images are increasingly going viral on Twitter, marking a notable cultural trend. The post highlights this as a new development in online v…
+  - 资金 100.00 / 广度 86.50 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 69.71 | 质量 59.45
-  - 主题摘要：According to 火蝴蝶FLAP's post, the Fire Butterfly project will be launched on the @flap_ch platform as a multifunctional token integrating burning, ranking, forking, staking, and fo…
-  - 资金 100.00 / 广度 73.12 / 确认 24.48 / 脆弱性 24.00
+- Grok AI Updates Image-to-Game Feature | Solana | 加速中 | 强度 78.54 | 质量 66.05
+  - 主题摘要：According to irony's post, Grok has introduced an update allowing users to convert images into games, which may influence the next trend in profile picture usage.
+  - 资金 100.00 / 广度 84.24 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CaptainBNB | BSC | 加速中 | 强度 68.95 | 质量 55.73
+- Uncertain:Binance Poland Shares Meme Image | BSC | 加速中 | 强度 77.13 | 质量 64.24
+  - 主题摘要：According to Binance Poland's post, a Meme image referencing 'soon' in the context of IOS was shared on social media, sparking online discussion.
+  - 资金 100.00 / 广度 71.07 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:大学生与Binance Narrative | BSC | 加速中 | 强度 76.10 | 质量 66.22
+  - 主题摘要：According to HOLDERS's post, a college student arrived in a village wearing a construction helmet and holding a connection to Binance, suggesting a symbolic or literal integration…
+  - 资金 100.00 / 广度 81.65 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CaptainBNB | BSC | 加速中 | 强度 70.67 | 质量 55.76
   - 主题摘要：CaptainBNB is a meme token inspired by the iconic Captain America character, blending superhero themes with blockchain technology. It aims to create a community-driven ecosystem w…
-  - 资金 100.00 / 广度 66.04 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 65.91 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump's Upcoming Announcement | Solana | 降温中 | 强度 68.78 | 质量 51.05
-  - 主题摘要：Multiple tokens named 「CRYPTIC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.89 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- xaipro | BSC | 加速中 | 强度 68.36 | 质量 54.76
+- 抖音热搜 | BSC | 加速中 | 强度 70.37 | 质量 61.67
+  - 主题摘要：According to 0Research's post, China has deployed AI-controlled robotic wolves into their military. The claim references a Douyin video as evidence, but no independent verificatio…
+  - 资金 100.00 / 广度 77.81 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- xaipro | BSC | 加速中 | 强度 68.95 | 质量 58.05
   - 主题摘要：xaipro is a decentralized token inspired by Elon Musk's AI vision. The logo features a stylized 'X' symbol, reflecting its connection to Musk's AI ecosystem. It aims to revolution…
-  - 资金 100.00 / 广度 57.92 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.01 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 74.41，其中已确认叙事 0 个。
-- Reviving Real PVE Coins 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- SAVEMOON 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.43，其中已确认叙事 0 个。
+- Japanese X Meme Image Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Wholesome Japanese Posts and Pig Samurai Meme图 Trend 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- kotaro | 质量 76.07 | 可交易性 100.00 | 风险 低
-- The Agentic Economy Architecture | 质量 75.88 | 可交易性 95.54 | 风险 低
-- The Whale Killer Token Strategy | 质量 70.49 | 可交易性 85.43 | 风险 低
-- Reviving Real PVE Coins | 质量 66.15 | 可交易性 75.87 | 风险 低
-- Uncertain:大学生与Binance Narrative | 质量 65.81 | 可交易性 59.90 | 风险 低
-- Grok AI Updates Image-to-Game Feature | 质量 65.80 | 可交易性 57.53 | 风险 低
-- trash can | 质量 65.59 | 可交易性 57.80 | 风险 低
-- SAVEMOON | 质量 62.43 | 可交易性 100.00 | 风险 低
-- 抖音热搜 | 质量 61.82 | 可交易性 50.36 | 风险 低
-- Fire Butterfly Ecosystem Project Launch | 质量 59.45 | 可交易性 62.71 | 风险 低
+- Japanese X Meme Image Launch | 质量 79.98 | 可交易性 100.00 | 风险 低
+- kotaro | 质量 76.30 | 可交易性 100.00 | 风险 低
+- The Agentic Economy Architecture | 质量 75.63 | 可交易性 94.84 | 风险 低
+- Meme图Mangafication Trend | 质量 75.15 | 可交易性 88.13 | 风险 低
+- Wholesome Japanese Posts and Pig Samurai Meme图 Trend | 质量 74.29 | 可交易性 91.04 | 风险 低
+- Proposal for Japanese Version of CT | 质量 72.27 | 可交易性 84.70 | 风险 低
+- The Whale Killer Token Strategy | 质量 70.36 | 可交易性 86.22 | 风险 低
+- Uncertain:大学生与Binance Narrative | 质量 66.22 | 可交易性 61.12 | 风险 低
+- Grok AI Updates Image-to-Game Feature | 质量 66.05 | 可交易性 57.98 | 风险 低
+- Japanese Memes Gaining Traction on Twitter | 质量 65.76 | 可交易性 65.85 | 风险 低
 
 ## 伪叙事风险
 
-- The Whale Killer Token Strategy | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Reviving Real PVE Coins | 风险 47.79 | 原因：流动性偏薄
-- The Pump Swing | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Trump's Upcoming Announcement | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -136,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：kotaro（Solana，分数 82.91）
+1. 当前最强叙事：Japanese X Meme Image Launch（Solana，分数 84.8）
 2. 共振最强代币：XRP（BSC，共振 100.0）
-3. 记忆层变化：Reviving Real PVE Coins 当前为“新出现”
+3. 记忆层变化：Japanese X Meme Image Launch 当前为“新出现”
 4. 最新官方催化：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
