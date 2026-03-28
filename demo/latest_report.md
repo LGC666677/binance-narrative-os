@@ -1,103 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-27T23:57:44.065339+00:00
+- 生成时间：2026-03-28T05:14:20.567991+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 NEKOKICHI，所在链为 Solana，叙事强度 77.3。
-- 当前平均叙事强度为 73.99，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
-- 记忆层显示 The Whale Killer Token Strategy 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 SAVEMOON，伪叙事风险 40.99。
+- 当前最强叙事是 Elon Musk Retweets Meme Image，所在链为 Solana，叙事强度 90.26。
+- 当前平均叙事强度为 82.51，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
+- 记忆层显示 Elon Musk Retweets Meme Image 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 The Whale Killer Token Strategy，伪叙事风险 42.03。
 - 最新官方催化来自 最新活动：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards。
 
 ## 叙事雷达
 
-- NEKOKICHI | Solana | 加速中 | 强度 77.30 | 质量 66.63
-  - 主题摘要：NEKO (NEKOKICHI) is a meme token inspired by Maneki-neko, the Japanese lucky cat. The logo features a cute, cartoon-style cat with traditional Maneki-neko features, including a re…
-  - 资金 100.00 / 广度 79.40 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hakrium | BSC | 加速中 | 强度 75.38 | 质量 66.89
-  - 主题摘要：Multiple tokens named 「HKM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.50 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Whale Killer Token Strategy | Solana | 降温中 | 强度 75.28 | 质量 60.05
-  - 主题摘要：According to Frost's post, $Orca 'The Whale Killer' is being positioned as a token designed to counter White Whale Labs, which previously controlled significant supply. Frost sugg…
-  - 资金 100.00 / 广度 75.59 / 确认 9.36 / 脆弱性 14.00
+- Elon Musk Retweets Meme Image | Solana | 已确认 | 强度 90.26 | 质量 83.49
+  - 主题摘要：Elon Musk retweeted a post from @dogeofficialceo that includes a Meme image. The post does not contain textual commentary or direct reference to any specific cryptocurrency projec…
+  - 资金 100.00 / 广度 95.06 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- White House Shared Meme Image | Solana | 降温中 | 强度 85.57 | 质量 78.39
+  - 主题摘要：Multiple tokens named 「PIXEL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 94.43 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump AI Meme Image Shared | Solana | 加速中 | 强度 75.24 | 质量 72.97
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.13 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Kash Patel's GOONER Account Leaked | Solana | 加速中 | 强度 74.06 | 质量 63.95
-  - 主题摘要：According to Right Wing Cope's post, Kash Patel's GOONER account was identified following a username leak. The post includes a link to the associated profile.
-  - 资金 100.00 / 广度 74.20 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Google's Agent Smith AI Tool | Solana | 降温中 | 强度 73.48 | 质量 58.37
-  - 主题摘要：According to Chris's post, Google has developed a new internal AI tool called 'Agent Smith' which became so popular among employees that access had to be restricted. The tool is p…
-  - 资金 100.00 / 广度 75.98 / 确认 9.36 / 脆弱性 14.00
+- Terrence Johnson the Third's $CRYPTIC Post | Solana | 降温中 | 强度 85.50 | 质量 78.13
+  - 主题摘要：According to Terrence Johnson the Third's post, the $CRYPTIC token was referenced in a cryptic message. The token is associated with 'The Cryptic House' and appears to be deployed…
+  - 资金 100.00 / 广度 93.56 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AI Agent Meme Coin Gains Reddit Traction | Solana | 加速中 | 强度 72.94 | 质量 62.59
-  - 主题摘要：According to Glow's post, r/explainitpeter is a Reddit-based autonomous agent that generates detailed explanations similar to Grok. The post promotes the $PETER token linked to th…
-  - 资金 100.00 / 广度 73.61 / 确认 20.16 / 脆弱性 14.00
+- White House Meme Image Shared | Solana | 降温中 | 强度 85.27 | 质量 78.12
+  - 主题摘要：Multiple tokens named 「CRYPTIC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.54 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- kotaro | Solana | 加速中 | 强度 82.33 | 质量 73.52
+  - 主题摘要：kota is a meme token inspired by a chubby, round dog character named Kotaro. The narrative emphasizes Kotaro's resilience and positive attitude, portraying him as a 'roundest hero…
+  - 资金 100.00 / 广度 67.13 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 72.49 | 质量 62.33
+- Elon Was Wrong | Solana | 降温中 | 强度 78.59 | 质量 67.65
+  - 主题摘要：Elon Musk receives a playful jab from user @yacineMTB after a research-oriented post implied he was incorrect. The reaction highlights the dynamic between tech leaders and the onl…
+  - 资金 100.00 / 广度 82.11 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Stolen Koala Mandi Sparks Global Search | Solana | 加速中 | 强度 77.66 | 质量 65.58
+  - 主题摘要：According to Friendly Dev's post, a koala named Mandi was stolen from a famous zoo in Australia, and the incident is expected to gain global attention. The post emphasizes the ong…
+  - 资金 100.00 / 广度 72.02 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- The Whale Killer Token Strategy | Solana | 点火期 | 强度 74.92 | 质量 70.90
+  - 主题摘要：According to Frost's post, $Orca 'The Whale Killer' executed a token supply strategy involving locking 50% of the supply and burning the remainder, following a prior confrontation…
+  - 资金 100.00 / 广度 80.62 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 74.49 | 质量 61.99
   - 主题摘要：According to 火蝴蝶FLAP's post, the Fire Butterfly project will be launched on the @flap_ch platform as a multifunctional token integrating burning, ranking, forking, staking, and fo…
-  - 资金 100.00 / 广度 75.99 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.21 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- American Farmers and State Savings Inquiry | BSC | 加速中 | 强度 72.44 | 质量 57.99
-  - 主题摘要：The White House shared a link to ONLYFARMS.GOV to provide information on how American farmers are currently benefiting and state-level savings data.
-  - 资金 100.00 / 广度 72.31 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SAVEMOON | Solana | 降温中 | 强度 72.24 | 质量 66.00
-  - 主题摘要：SAVEMOON (SVM) is a community-driven initiative to protect the SafeMoon brand. Created by Crypto_2Joe, who advocates for 'America First - God First', SVM aims to raise capital thr…
-  - 资金 100.00 / 广度 53.13 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Meme Coin Onboarding and Fee Payments | Solana | 加速中 | 强度 71.35 | 质量 60.76
-  - 主题摘要：According to fear's post, an individual plans to onboard and transfer token supply to @GreenManReports, while also sending fees. The post references $pisscoin, though no detailed…
-  - 资金 100.00 / 广度 77.23 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 麻了 | BSC | 加速中 | 强度 71.26 | 质量 70.53
+- 麻了 | BSC | 加速中 | 强度 70.13 | 质量 69.62
   - 主题摘要：According to 麻了's post, the '麻了' project has officially revealed its name and is preparing for launch, positioning itself as a representation of a new generation's online emotiona…
-  - 资金 100.00 / 广度 80.55 / 确认 34.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.31 / 确认 30.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance AiPro Launches With Multi-AI Models | BSC | 加速中 | 强度 70.94 | 质量 70.33
+- 龙虾 | BSC | 加速中 | 强度 70.04 | 质量 53.55
+  - 主题摘要：Multiple tokens named 「龙虾」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.04 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance AiPro Launches With Multi-AI Models | BSC | 加速中 | 强度 69.85 | 质量 69.13
   - 主题摘要：Binance launched AiPro, an AI-powered trading agent platform that integrates major AI models like ChatGPT and Qwen, sparking excitement in the crypto and AI communities.
-  - 资金 100.00 / 广度 86.25 / 确认 35.28 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.25 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump's Comments on Hormuz Strait | BSC | 降温中 | 强度 70.88 | 质量 56.67
-  - 主题摘要：Donald Trump expressed contradictory statements regarding the strategic importance of the Hormuz Strait, initially stating the U.S. does not need it, then urging Iran to keep it o…
-  - 资金 100.00 / 广度 60.80 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Hakrium | BSC | 加速中 | 强度 69.71 | 质量 61.73
+  - 主题摘要：Multiple tokens named 「HKM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.91 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GiggleGive | BSC | 加速中 | 强度 68.33 | 质量 56.65
+  - 主题摘要：According to hAnk's post, the Giggle Foundation may have launched a new token, with a smart contract address linked to the BNB Chain. The referenced content claims charitable cont…
+  - 资金 100.00 / 广度 74.67 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 73.99，其中已确认叙事 0 个。
-- Kash Patel's GOONER Account Leaked 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- The Whale Killer Token Strategy 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.51，其中已确认叙事 1 个。
+- Elon Musk Retweets Meme Image 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- White House Shared Meme Image 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Trump AI Meme Image Shared | 质量 72.97 | 可交易性 87.04 | 风险 低
-- 麻了 | 质量 70.53 | 可交易性 100.00 | 风险 低
-- Binance AiPro Launches With Multi-AI Models | 质量 70.33 | 可交易性 100.00 | 风险 低
-- Hakrium | 质量 66.89 | 可交易性 86.17 | 风险 低
-- NEKOKICHI | 质量 66.63 | 可交易性 67.92 | 风险 低
-- SAVEMOON | 质量 66.00 | 可交易性 100.00 | 风险 低
-- Kash Patel's GOONER Account Leaked | 质量 63.95 | 可交易性 64.17 | 风险 低
-- AI Agent Meme Coin Gains Reddit Traction | 质量 62.59 | 可交易性 60.24 | 风险 低
-- Fire Butterfly Ecosystem Project Launch | 质量 62.33 | 可交易性 63.04 | 风险 低
-- Meme Coin Onboarding and Fee Payments | 质量 60.76 | 可交易性 47.36 | 风险 低
+- Elon Musk Retweets Meme Image | 质量 83.49 | 可交易性 100.00 | 风险 低
+- White House Shared Meme Image | 质量 78.39 | 可交易性 100.00 | 风险 低
+- Terrence Johnson the Third's $CRYPTIC Post | 质量 78.13 | 可交易性 100.00 | 风险 低
+- White House Meme Image Shared | 质量 78.12 | 可交易性 100.00 | 风险 低
+- kotaro | 质量 73.52 | 可交易性 100.00 | 风险 低
+- The Whale Killer Token Strategy | 质量 70.90 | 可交易性 83.57 | 风险 低
+- 麻了 | 质量 69.62 | 可交易性 100.00 | 风险 低
+- Binance AiPro Launches With Multi-AI Models | 质量 69.13 | 可交易性 100.00 | 风险 低
+- Elon Was Wrong | 质量 67.65 | 可交易性 76.54 | 风险 低
+- Stolen Koala Mandi Sparks Global Search | 质量 65.58 | 可交易性 71.79 | 风险 低
 
 ## 伪叙事风险
 
-- SAVEMOON | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- The Whale Killer Token Strategy | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
+- 扭羊歌 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SIREN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Binance Ai Pro | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 词元 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -107,7 +108,6 @@
 - one | Solana | 看多 | 新鲜度 85.34 | 暂无直接叙事映射
 - goldify | BSC | 看多 | 新鲜度 85.15 | 暂无直接叙事映射
 - 龙虾王 | BSC | 看多 | 新鲜度 82.76 | 暂无直接叙事映射
-- Claymation | BSC | 看多 | 新鲜度 80.96 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：NEKOKICHI（Solana，分数 77.3）
-2. 共振最强代币：SIREN（BSC，共振 100.0）
-3. 记忆层变化：The Whale Killer Token Strategy 当前为“新出现”
+1. 当前最强叙事：Elon Musk Retweets Meme Image（Solana，分数 90.26）
+2. 共振最强代币：XRP（BSC，共振 100.0）
+3. 记忆层变化：Elon Musk Retweets Meme Image 当前为“新出现”
 4. 最新官方催化：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
