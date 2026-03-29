@@ -1,102 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-29T08:01:46.096823+00:00
+- 生成时间：2026-03-29T09:55:54.455190+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：2
+- 已确认叙事：0
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 trash can，所在链为 Solana，叙事强度 80.27。
-- 当前平均叙事强度为 75.77，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 LOL，来自 Solana，共振分数 100.0。
-- 记忆层显示 The First Meme Coin on Bitcoin Forum 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Meme Cycle and Dopamine Tolerance，伪叙事风险 58.43。
+- 当前最强叙事是 Japanese X Meme Image Launch，所在链为 Solana，叙事强度 82.33。
+- 当前平均叙事强度为 76.28，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 GGIVE，来自 BSC，共振分数 100.0。
+- 记忆层显示 Uncertain:CZ's Growth and Binance Development 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards。
 
 ## 叙事雷达
 
-- trash can | Solana | 加速中 | 强度 80.27 | 质量 70.46
-  - 主题摘要：According to Esee's post, an internet Meme image featuring a trash can has gained attention online, with claims that it can go viral despite OpenAI's recent assertion that it cann…
-  - 资金 100.00 / 广度 88.43 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Japanese X Meme Image Launch | Solana | 点火期 | 强度 80.01 | 质量 79.43
+- Japanese X Meme Image Launch | Solana | 加速中 | 强度 82.33 | 质量 80.22
   - 主题摘要：According to name lastname's post, a Meme coin referred to as 'Japanese X' has been circulating since 2023. The coin appears to be part of the broader Meme coin trend, though no d…
-  - 资金 100.00 / 广度 92.62 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- The First Meme Coin on Bitcoin Forum | Solana | 加速中 | 强度 79.30 | 质量 64.34
-  - 主题摘要：According to Lix's post, a token referred to as BQC is claimed to be the first memecoin posted on Satoshi's Bitcoin forum, two years before Dogecoin. The post includes a link to t…
-  - 资金 100.00 / 广度 80.39 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 92.63 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Poland Shares Meme Image | BSC | 已确认 | 强度 78.98 | 质量 75.44
-  - 主题摘要：According to Binance Poland's post, a Meme image referencing 'soon' in the context of IOS was shared on social media.
-  - 资金 100.00 / 广度 86.70 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Smoking Chicken Meme Video Gains Traction | BSC | 加速中 | 强度 78.90 | 质量 68.05
-  - 主题摘要：According to c's post, a Meme image of an Asian man using a chicken body as a blunt is going viral on X, drawing comparisons to the 'smoking chicken fish' meme. The post reference…
-  - 资金 100.00 / 广度 68.30 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FEET Token Popularity and Meme Culture | Solana | 降温中 | 强度 77.61 | 质量 63.12
-  - 主题摘要：According to Just an Honest Guy's post, $FEET is being promoted as a Meme coin with claims of increasing search popularity and market dominance. The author asserts involvement in…
-  - 资金 100.00 / 广度 83.14 / 确认 9.36 / 脆弱性 14.00
+- Meme Cycle and Dopamine Tolerance | BSC | 降温中 | 强度 80.44 | 质量 68.89
+  - 主题摘要：According to CryptoD | 1000X GEM's post, the Meme cycle mirrors neuro adaptation, where repeated exposure reduces impact. Market dynamics evolve, requiring layered cultural releva…
+  - 资金 100.00 / 广度 81.82 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DIE | BSC | 加速中 | 强度 75.43 | 质量 67.97
-  - 主题摘要：Multiple tokens named 「蝶」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.14 / 确认 22.16 / 脆弱性 24.00
+- trash can | Solana | 加速中 | 强度 79.31 | 质量 70.52
+  - 主题摘要：According to Esee's post, an internet Meme image featuring a trash can has gained attention online, with claims that it can go viral despite OpenAI's recent assertion that it cann…
+  - 资金 100.00 / 广度 88.60 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trencherrz Announces Launch of $Orca | Solana | 加速中 | 强度 73.29 | 质量 66.83
+- Uncertain:CZ's Growth and Binance Development | BSC | 加速中 | 强度 77.39 | 质量 67.55
+  - 主题摘要：According to 大力出奇迹🔶见贤思齐's post, CZ's early public appearance 16 days after Binance's launch is reviewed, highlighting his initial nervousness and subsequent transformation into a…
+  - 资金 100.00 / 广度 64.72 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Binance Poland Shares Meme Image | BSC | 加速中 | 强度 76.52 | 质量 74.50
+  - 主题摘要：According to Binance Poland's post, they shared a Meme image referencing the term 'soon' in relation to IOS. The post includes an image link but does not specify any particular to…
+  - 资金 100.00 / 广度 86.67 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trencherrz Announces Launch of $Orca | Solana | 加速中 | 强度 76.18 | 质量 67.13
   - 主题摘要：Trencherrz, former CTO lead of White Whale, announced the launch of $Orca under the name 'The Killer Whale' to 'vamp' White Whale, citing prior warnings and recent community deman…
-  - 资金 100.00 / 广度 87.32 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.09 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:大学生与Binance Narrative | BSC | 加速中 | 强度 73.21 | 质量 66.02
-  - 主题摘要：According to HOLDERS's post, a college student arrived in the village wearing a construction helmet and holding onto Binance tightly. The post appears to be a metaphorical or sati…
-  - 资金 100.00 / 广度 82.24 / 确认 24.48 / 脆弱性 24.00
+- DIE | BSC | 加速中 | 强度 75.60 | 质量 67.87
+  - 主题摘要：Multiple tokens named 「蝶」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.38 / 确认 22.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Grok AI Updates Image-to-Game Feature | Solana | 加速中 | 强度 72.95 | 质量 64.77
-  - 主题摘要：According to irony's post, Grok has introduced an update allowing users to convert images into games, which may influence the next trend in profile picture usage.
-  - 资金 100.00 / 广度 85.40 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Meme Cycle and Dopamine Tolerance | BSC | 点火期 | 强度 72.67 | 质量 71.10
-  - 主题摘要：Multiple tokens named 「Memecycle」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.43 / 确认 12.96 / 脆弱性 40.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Smoking Chicken Meme Video Gains Traction | Solana | 降温中 | 强度 71.88 | 质量 60.72
-  - 主题摘要：According to c's post, a Meme image featuring an Asian man using a chicken body as a blunt is going viral on X, drawing comparisons to the previously popular 'smoking chicken fish…
-  - 资金 98.35 / 广度 66.86 / 确认 13.00 / 脆弱性 14.00
+- Act O: The Whale Killer Prophecy | Solana | 降温中 | 强度 74.99 | 质量 68.24
+  - 主题摘要：ACTO is a community-driven memecoin inspired by the concept of a 'whale killer' prophecy. The token features a futuristic eye logo with purple and blue hues, symbolizing vigilance…
+  - 资金 100.00 / 广度 60.59 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- xaipro | BSC | 加速中 | 强度 71.86 | 质量 59.69
-  - 主题摘要：xaipro is a decentralized token inspired by Elon Musk's AI vision. The logo features a stylized 'X' symbol, reflecting its connection to Musk's AI ecosystem. It aims to revolution…
-  - 资金 100.00 / 广度 69.43 / 确认 23.76 / 脆弱性 14.00
+- The First Meme Coin on Bitcoin Forum | Solana | 加速中 | 强度 74.48 | 质量 63.24
+  - 主题摘要：According to Lix's post, a token referred to as BQC is claimed to be the first memecoin posted on Satoshi's Bitcoin forum, two years before Dogecoin. The post includes a link to t…
+  - 资金 100.00 / 广度 80.53 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Market Resilience Meme Image Shared | Solana | 点火期 | 强度 70.86 | 质量 66.64
-  - 主题摘要：According to Bad Estonian's post, a Meme image expressing market sentiment went viral, emphasizing the belief that one major gain can offset previous losses in trading. The post r…
-  - 资金 100.00 / 广度 87.42 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- JoJo Meme Image Goes Viral | Solana | 降温中 | 强度 74.18 | 质量 63.15
+  - 主题摘要：According to idrawcooks's post, a Meme image combining JoJo artistic style with elements like the sharingan has gone viral, being widely shared across platforms as a reaction imag…
+  - 资金 100.00 / 广度 48.78 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Grok AI Updates Image-to-Game Feature | Solana | 加速中 | 强度 72.52 | 质量 65.30
+  - 主题摘要：According to irony's post, Grok has introduced an update allowing users to convert images into games, which may influence the next trend in profile picture usage.
+  - 资金 100.00 / 广度 85.48 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 72.26 | 质量 61.10
+  - 主题摘要：According to 火蝴蝶FLAP's post, the Fire Butterfly project will be launched on the @flap_ch platform as a multifunctional token integrating burning, ranking, forking, staking, and fo…
+  - 资金 100.00 / 广度 72.29 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- xaipro | BSC | 加速中 | 强度 72.07 | 质量 59.73
+  - 主题摘要：xaipro is a decentralized token inspired by Elon Musk's AI vision. The logo features a stylized 'X' symbol, reflecting its connection to Musk's AI ecosystem. It aims to revolution…
+  - 资金 100.00 / 广度 69.47 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:大学生与Binance Narrative | BSC | 加速中 | 强度 70.73 | 质量 59.58
+  - 主题摘要：According to HOLDERS's post, a college student arrived in the village wearing a construction helmet and tightly holding onto Binance, symbolizing a narrative related to crypto cul…
+  - 资金 100.00 / 广度 82.17 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.77，其中已确认叙事 0 个。
-- The First Meme Coin on Bitcoin Forum 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- FEET Token Popularity and Meme Culture 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.28，其中已确认叙事 0 个。
+- Uncertain:CZ's Growth and Binance Development 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Meme Cycle and Dopamine Tolerance 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Japanese X Meme Image Launch | 质量 79.43 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Poland Shares Meme Image | 质量 75.44 | 可交易性 84.17 | 风险 低
-- Meme Cycle and Dopamine Tolerance | 质量 71.10 | 可交易性 85.08 | 风险 高
-- trash can | 质量 70.46 | 可交易性 68.49 | 风险 低
-- Smoking Chicken Meme Video Gains Traction | 质量 68.05 | 可交易性 81.11 | 风险 低
-- DIE | 质量 67.97 | 可交易性 75.17 | 风险 低
-- Trencherrz Announces Launch of $Orca | 质量 66.83 | 可交易性 58.02 | 风险 低
-- Market Resilience Meme Image Shared | 质量 66.64 | 可交易性 67.84 | 风险 低
-- Uncertain:大学生与Binance Narrative | 质量 66.02 | 可交易性 59.87 | 风险 低
-- Grok AI Updates Image-to-Game Feature | 质量 64.77 | 可交易性 55.73 | 风险 低
+- Japanese X Meme Image Launch | 质量 80.22 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance Poland Shares Meme Image | 质量 74.50 | 可交易性 81.08 | 风险 低
+- trash can | 质量 70.52 | 可交易性 68.50 | 风险 低
+- Meme Cycle and Dopamine Tolerance | 质量 68.89 | 可交易性 78.31 | 风险 低
+- Act O: The Whale Killer Prophecy | 质量 68.24 | 可交易性 100.00 | 风险 低
+- DIE | 质量 67.87 | 可交易性 74.60 | 风险 低
+- Uncertain:CZ's Growth and Binance Development | 质量 67.55 | 可交易性 82.49 | 风险 低
+- Trencherrz Announces Launch of $Orca | 质量 67.13 | 可交易性 59.26 | 风险 低
+- Grok AI Updates Image-to-Game Feature | 质量 65.30 | 可交易性 54.77 | 风险 低
+- The First Meme Coin on Bitcoin Forum | 质量 63.24 | 可交易性 55.50 | 风险 低
 
 ## 伪叙事风险
 
-- Meme Cycle and Dopamine Tolerance | 风险 58.43 | 原因：流动性偏薄、近 1 小时净流入转负、审计风险高
-- Market Resilience Meme Image Shared | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Japanese X Meme Image Launch | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -135,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：trash can（Solana，分数 80.27）
-2. 共振最强代币：LOL（Solana，共振 100.0）
-3. 记忆层变化：The First Meme Coin on Bitcoin Forum 当前为“新出现”
+1. 当前最强叙事：Japanese X Meme Image Launch（Solana，分数 82.33）
+2. 共振最强代币：GGIVE（BSC，共振 100.0）
+3. 记忆层变化：Uncertain:CZ's Growth and Binance Development 当前为“新出现”
 4. 最新官方催化：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
