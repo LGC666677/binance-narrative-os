@@ -1,98 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-29T21:02:10.121893+00:00
+- 生成时间：2026-03-29T22:03:34.255487+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Solana Big Week: Tokenized Equity RWA Domination，所在链为 Solana，叙事强度 81.94。
-- 当前平均叙事强度为 76.8，其中已确认叙事 0 个。
+- 当前最强叙事是 Solana Big Week: Tokenized Equity RWA Domination，所在链为 Solana，叙事强度 82.15。
+- 当前平均叙事强度为 75.78，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
-- 记忆层显示 meme boobs 当前处于“新出现”状态。
+- 记忆层显示 Sugmi Meme Image Discussion 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 DIE，伪叙事风险 43.31。
 - 最新官方催化来自 最新活动：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards。
 
 ## 叙事雷达
 
-- Solana Big Week: Tokenized Equity RWA Domination | Solana | 加速中 | 强度 81.94 | 质量 81.60
+- Solana Big Week: Tokenized Equity RWA Domination | Solana | 加速中 | 强度 82.15 | 质量 81.59
   - 主题摘要：Solana announced a protocol upgrade and enterprise tools, with global payment giants joining its ecosystem. The network now leads in tokenized equity, RWA lending, and developer c…
-  - 资金 100.00 / 广度 94.56 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.55 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- meme boobs | Solana | 降温中 | 强度 80.15 | 质量 70.62
-  - 主题摘要：MEMEBOOBS is a meme token inspired by internet culture, featuring a pixelated yellow bow-tie logo that represents the token's playful, irreverent identity. It embraces humor and c…
-  - 资金 100.00 / 广度 63.25 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GGG Token Goes Viral on Social Media | Solana | 加速中 | 强度 78.40 | 质量 68.93
-  - 主题摘要：According to Ayush's post, the GGG Meme image is reportedly gaining viral traction on social media, drawing comparisons to the 'Hawk Tuah' Meme sensation of 2024. The post highlig…
-  - 资金 100.00 / 广度 78.58 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- orange guy glasses Meme图 | Solana | 降温中 | 强度 77.78 | 质量 69.86
-  - 主题摘要：According to Daniel Hentschel's post, the 'orange guy glasses' Meme image has been referenced in multiple token deployments on platforms like j7tracker.io and rapidlaunch.io. The…
-  - 资金 100.00 / 广度 81.88 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Japanese X Meme Image Launch | Solana | 加速中 | 强度 76.29 | 质量 70.27
+- Japanese X Meme Image Launch | Solana | 加速中 | 强度 81.85 | 质量 74.91
   - 主题摘要：According to name lastname's post, a Meme coin referred to as 'Japanese X' has been circulating since 2023. The coin appears to be part of the broader Meme coin trend, though no d…
-  - 资金 100.00 / 广度 86.99 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.75 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Big Boy Purchase Meme Trend | Solana | 降温中 | 强度 74.28 | 质量 64.68
-  - 主题摘要：According to xsovich's post, the 'Big Boy Purchase' Meme图 trend is gaining traction on social media, with users sharing humorous and sarcastic content about exaggerated or fake pu…
-  - 资金 100.00 / 广度 52.46 / 确认 9.36 / 脆弱性 14.00
+- Sugmi Meme Image Discussion | Solana | 降温中 | 强度 81.70 | 质量 74.56
+  - 主题摘要：According to him's post, the term Sugmi appears in the context of crypto slang, potentially referencing a meme or cultural expression similar to Wagmi. The discussion reflects inf…
+  - 资金 100.00 / 广度 87.67 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Over 4 Million Children Claim Trump Accounts | BSC | 降温中 | 强度 74.07 | 质量 61.01
-  - 主题摘要：The White House announced that more than 4 million children have claimed their Trump Accounts, promoting a program linked to the website TRUMPACCOUNTS.GOV. The message emphasizes…
-  - 资金 100.00 / 广度 67.25 / 确认 9.36 / 脆弱性 14.00
+- Americans Oppose Endless Wars | Solana | 降温中 | 强度 79.89 | 质量 68.83
+  - 主题摘要：Toly, co-founder of Solana Labs, shared a Meme image expressing public frustration with U.S. spending priorities, particularly highlighting the contrast between domestic issues be…
+  - 资金 100.00 / 广度 89.17 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Miniverse: VS Code Extension for Claude Agents | Solana | 降温中 | 强度 73.77 | 质量 66.60
-  - 主题摘要：According to ray's post, a VS Code extension called Miniverse was developed by @ian_builds, enabling Claude code agents to be visualized as pixelated characters working in a virtu…
-  - 资金 100.00 / 广度 52.16 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trencherrz Announces Launch of $Orca | Solana | 加速中 | 强度 71.78 | 质量 64.76
+- Trencherrz Announces Launch of $Orca | Solana | 加速中 | 强度 70.73 | 质量 64.43
   - 主题摘要：Trencherrz, former CTO lead of White Whale, announced the launch of $Orca under the name 'The Killer Whale' to 'vamp' White Whale, citing prior warnings and recent community deman…
-  - 资金 100.00 / 广度 87.18 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.20 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Poland Shares Meme Image | BSC | 加速中 | 强度 69.86 | 质量 63.68
-  - 主题摘要：According to Binance Poland's post, a Meme image was shared suggesting an upcoming event related to iOS, accompanied by a facial expression emoji indicating anticipation or surpri…
-  - 资金 100.00 / 广度 86.10 / 确认 23.76 / 脆弱性 14.00
+- GGG Token Goes Viral on Social Media | Solana | 加速中 | 强度 70.39 | 质量 62.14
+  - 主题摘要：According to Ayush's post, the GGG Meme image is reportedly gaining viral traction on social media, drawing comparisons to the 'Hawk Tuah' Meme sensation of 2024. The post highlig…
+  - 资金 100.00 / 广度 78.87 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 大力神杯 | BSC | 加速中 | 强度 68.11 | 质量 60.60
+- Christopher Greene Boosts $PIXEL Meme Coin | Solana | 加速中 | 强度 69.89 | 质量 60.92
+  - 主题摘要：Multiple tokens named 「GREENE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.83 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Iran Threatens Middle East Power Targets | Solana | 加速中 | 强度 69.60 | 质量 59.48
+  - 主题摘要：According to The Star's post, oil prices increased after Iran's Revolutionary Guards warned of targeting Israel's power plants and infrastructure supporting U.S. bases in the Gulf…
+  - 资金 100.00 / 广度 73.33 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 大力神杯 | BSC | 加速中 | 强度 68.14 | 质量 60.62
   - 主题摘要：According to OSK蝴蝶平台's post, the Hercules Cup is the first oracle-based prediction application in the Butterfly ecosystem, co-developed by multiple communities and DeFan Capital.…
-  - 资金 100.00 / 广度 74.01 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.03 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 67.94 | 质量 56.15
+- Uncertain:Binance Poland Shares Meme Image | BSC | 加速中 | 强度 67.73 | 质量 60.61
+  - 主题摘要：According to Binance Poland's post, a Meme image was shared suggesting an upcoming development related to iOS. The post includes an image link but no detailed explanation.
+  - 资金 100.00 / 广度 85.58 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Fire Butterfly Ecosystem Project Launch | BSC | 加速中 | 强度 67.41 | 质量 55.35
   - 主题摘要：According to 火蝴蝶FLAP's post, the Fire Butterfly project will be launched on the @flap_ch platform as a multifunctional token integrating burning, ranking, forking, staking, and fo…
-  - 资金 100.00 / 广度 71.79 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.71 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 麻了 | BSC | 加速中 | 强度 63.45 | 质量 59.29
+- Over 4 Million Children Claim Trump Accounts | BSC | 降温中 | 强度 65.46 | 质量 53.97
+  - 主题摘要：The White House announced that more than 4 million children have claimed their Trump Accounts, promoting a program linked to the website TRUMPACCOUNTS.GOV. The message emphasizes…
+  - 资金 100.00 / 广度 68.46 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- DIE | BSC | 点火期 | 强度 64.96 | 质量 55.58
+  - 主题摘要：Multiple tokens named 「蝶」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.09 / 确认 14.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 麻了 | BSC | 加速中 | 强度 63.23 | 质量 60.73
   - 主题摘要：According to 麻了's post, the '麻了' project has officially revealed its name and is preparing for launch, positioning itself as a representation of a new generation's online emotiona…
-  - 资金 100.00 / 广度 72.13 / 确认 30.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- xaipro | BSC | 加速中 | 强度 62.42 | 质量 45.98
-  - 主题摘要：xaipro is a decentralized token inspired by Elon Musk's AI vision. The logo features a stylized 'X' symbol, reflecting its connection to Musk's AI ecosystem. It aims to revolution…
-  - 资金 100.00 / 广度 63.31 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.10 / 确认 30.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.8，其中已确认叙事 0 个。
-- GGG Token Goes Viral on Social Media 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- meme boobs 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.78，其中已确认叙事 0 个。
+- Christopher Greene Boosts $PIXEL Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Sugmi Meme Image Discussion 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Solana Big Week: Tokenized Equity RWA Domination | 质量 81.60 | 可交易性 100.00 | 风险 低
-- meme boobs | 质量 70.62 | 可交易性 100.00 | 风险 低
-- Japanese X Meme Image Launch | 质量 70.27 | 可交易性 100.00 | 风险 低
-- orange guy glasses Meme图 | 质量 69.86 | 可交易性 84.13 | 风险 低
-- GGG Token Goes Viral on Social Media | 质量 68.93 | 可交易性 73.22 | 风险 低
-- Miniverse: VS Code Extension for Claude Agents | 质量 66.60 | 可交易性 97.69 | 风险 低
-- Trencherrz Announces Launch of $Orca | 质量 64.76 | 可交易性 53.89 | 风险 低
-- Big Boy Purchase Meme Trend | 质量 64.68 | 可交易性 96.28 | 风险 低
-- Uncertain:Binance Poland Shares Meme Image | 质量 63.68 | 可交易性 78.30 | 风险 低
-- Over 4 Million Children Claim Trump Accounts | 质量 61.01 | 可交易性 69.24 | 风险 低
+- Solana Big Week: Tokenized Equity RWA Domination | 质量 81.59 | 可交易性 100.00 | 风险 低
+- Japanese X Meme Image Launch | 质量 74.91 | 可交易性 100.00 | 风险 低
+- Sugmi Meme Image Discussion | 质量 74.56 | 可交易性 94.00 | 风险 低
+- Americans Oppose Endless Wars | 质量 68.83 | 可交易性 85.78 | 风险 低
+- Trencherrz Announces Launch of $Orca | 质量 64.43 | 可交易性 52.78 | 风险 低
+- GGG Token Goes Viral on Social Media | 质量 62.14 | 可交易性 50.32 | 风险 低
+- Christopher Greene Boosts $PIXEL Meme Coin | 质量 60.92 | 可交易性 52.45 | 风险 低
+- 麻了 | 质量 60.73 | 可交易性 100.00 | 风险 低
+- 大力神杯 | 质量 60.62 | 可交易性 50.09 | 风险 低
+- Uncertain:Binance Poland Shares Meme Image | 质量 60.61 | 可交易性 78.39 | 风险 低
 
 ## 伪叙事风险
 
+- DIE | 风险 43.31 | 原因：流动性偏薄
+- Over 4 Million Children Claim Trump Accounts | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -131,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Solana Big Week: Tokenized Equity RWA Domination（Solana，分数 81.94）
+1. 当前最强叙事：Solana Big Week: Tokenized Equity RWA Domination（Solana，分数 82.15）
 2. 共振最强代币：SIREN（BSC，共振 100.0）
-3. 记忆层变化：meme boobs 当前为“新出现”
+3. 记忆层变化：Sugmi Meme Image Discussion 当前为“新出现”
 4. 最新官方催化：Audiera Trading Competition: Trade Audiera (BEAT) and Share $200K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
