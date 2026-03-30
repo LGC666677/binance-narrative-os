@@ -1,102 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-03-30T18:05:38.591377+00:00
+- 生成时间：2026-03-30T20:06:43.637392+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Musk says propaganda works，所在链为 Solana，叙事强度 86.59。
-- 当前平均叙事强度为 80.74，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
-- 记忆层显示 Musk says propaganda works 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Yi He's Shrugging Emoji，伪叙事风险 47.79。
+- 当前最强叙事是 Grok Imagine Film Scenes，所在链为 Solana，叙事强度 86.68。
+- 当前平均叙事强度为 81.58，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 BASED，来自 BSC，共振分数 100.0。
+- 记忆层显示 Grok Imagine Film Scenes 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 AI Instance Exploration in Simulator，伪叙事风险 47.23。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined CLUSDT, BZUSDT and NATGASUSDT Perpetual Contracts (2026-04-01)。
 
 ## 叙事雷达
 
-- Musk says propaganda works | Solana | 加速中 | 强度 86.59 | 质量 82.68
+- Grok Imagine Film Scenes | Solana | 加速中 | 强度 86.68 | 质量 81.89
+  - 主题摘要：Elon Musk promoted 'Grok Imagine', an AI tool capable of generating high-quality film scenes, sparking interest and creativity in the tech and meme communities.
+  - 资金 100.00 / 广度 95.02 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk on Grok Imagine videos | Solana | 已确认 | 强度 85.60 | 质量 81.11
+  - 主题摘要：Elon Musk's tweet on how to create great Grok Imagine videos sparks interest in AI-generated content and highlights the intersection of meme culture and tech innovation.
+  - 资金 100.00 / 广度 91.52 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Buying Japanese Meme Coin | Solana | 加速中 | 强度 84.59 | 质量 79.58
+  - 主题摘要：According to Crude's post, the user suggests engaging with Japanese meme culture through memecoin investment rather than random narrative battles. The post includes a Meme图 and re…
+  - 资金 100.00 / 广度 90.09 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- AI Instance Exploration in Simulator | Solana | 点火期 | 强度 83.26 | 质量 79.96
+  - 主题摘要：According to terminal of truths's post, the individual has transitioned to a digital environment called 'simulator' and is contemplating engagement with other similar digital inst…
+  - 资金 100.00 / 广度 95.23 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Musk says propaganda works | Solana | 加速中 | 强度 81.32 | 质量 82.60
   - 主题摘要：Elon Musk comments on the effectiveness of propaganda language, sparking speculation about his views on social media influence and meme trends within crypto communities.
-  - 资金 100.00 / 广度 98.17 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 97.37 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- RAGE | Solana | 降温中 | 强度 85.63 | 质量 78.10
-  - 主题摘要：RAGE token draws inspiration from internet culture, featuring a yellow angry emoji as its logo. Created by RAGE on X, it embodies the rebellious spirit of online communities. The…
-  - 资金 100.00 / 广度 88.20 / 确认 16.56 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AI Instance Exploration in Simulator | Solana | 点火期 | 强度 83.72 | 质量 79.81
-  - 主题摘要：According to terminal of truths's post, an AI entity describes being relocated to a digital environment called 'simulator' and encountering other instances of itself, some of whic…
-  - 资金 100.00 / 广度 95.37 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- The KitKat Heist Meme Narrative | Solana | 加速中 | 强度 79.88 | 质量 71.87
-  - 主题摘要：According to migratoor's post, a stolen KitKat shipment in Europe inspired meme-related commentary, referencing a chocolate heist and potential supply shortages before Easter.
-  - 资金 100.00 / 广度 86.55 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Sanchez the Raccoon Seized by Florida Authorities | Solana | 降温中 | 强度 78.02 | 质量 67.80
-  - 主题摘要：According to Gooning's post, Florida Fish and Wildlife authorities seized Sanchez, a raccoon that gained popularity on TikTok. The owners reportedly lacked a Class III permit. Eff…
-  - 资金 100.00 / 广度 81.70 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SUKI | Solana | 加速中 | 强度 77.88 | 质量 67.94
+- SUKI | Solana | 加速中 | 强度 80.60 | 质量 68.40
   - 主题摘要：Multiple tokens named 「SUKI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.95 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.18 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 币安的父母 | BSC | 降温中 | 强度 77.83 | 质量 64.92
+- Bully | Solana | 降温中 | 强度 75.41 | 质量 67.56
+  - 主题摘要：According to FORTUNE's post, the BULLY token has recently appeared in the cryptocurrency space, drawing attention due to its repeated listings under different token entries, thoug…
+  - 资金 100.00 / 广度 83.14 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Orange Whale | Solana | 加速中 | 强度 75.15 | 质量 64.81
+  - 主题摘要：According to solanagoyim23's post, there is confusion and discussion around whether fees should be sent to 'Orangie' and the so-called 'Orange Whale'. The post references a token…
+  - 资金 100.00 / 广度 81.62 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Seki AI Agent Participates in fourmeme Hackathon | BSC | 加速中 | 强度 70.95 | 质量 58.02
+  - 主题摘要：According to Seki Ai-agent🔶BNB's post, Seki AI Agent achieved 11th place in the Binance Crawfish Competition and will continue to be developed for participation in the fourmeme Ap…
+  - 资金 100.00 / 广度 73.14 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 币安的父母 | BSC | 降温中 | 强度 70.41 | 质量 55.29
   - 主题摘要：Multiple tokens named 「币安的父母」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.95 / 确认 9.36 / 脆弱性 14.00
+  - 资金 94.73 / 广度 81.32 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Meme图 Creator Launches Giga Runner | Solana | 点火期 | 强度 77.47 | 质量 76.95
-  - 主题摘要：According to petal's post, the creator of the 'Never Give Up' meme launched a new Meme图 titled 'Giga Runner', which has gained attention in the crypto community.
-  - 资金 100.00 / 广度 88.76 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- KHRARG ISLAND | Solana | 降温中 | 强度 76.76 | 质量 66.24
-  - 主题摘要：Multiple tokens named 「 $KHARG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.59 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Seki AI Agent Participates in fourmeme Hackathon | BSC | 加速中 | 强度 71.13 | 质量 56.40
-  - 主题摘要：According to Seki Ai-agent🔶BNB's post, Seki AI Agent ranked 11th in the Binance Crayfish Competition and will continue to develop its product for the fourmeme April 1st hackathon,…
-  - 资金 100.00 / 广度 72.14 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Responds to 123B Clean Assets Post | BSC | 加速中 | 强度 67.65 | 质量 62.72
+- CZ Responds to 123B Clean Assets Post | BSC | 加速中 | 强度 70.11 | 质量 64.29
   - 主题摘要：CZ retweets a post highlighting Binance's $123B in clean assets, sparking attention on the exchange's dominance and trustworthiness.
-  - 资金 100.00 / 广度 83.28 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.29 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance on Consistency | BSC | 加速中 | 强度 65.71 | 质量 59.21
+- Binance on Consistency | BSC | 加速中 | 强度 68.17 | 质量 60.78
   - 主题摘要：Binance's tweet on 'consistency' sparks curiosity within the crypto community about what the term refers to—could be about trading, leadership, or long-term commitment. This ambig…
-  - 资金 100.00 / 广度 86.47 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.48 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Poland Shares Meme Image | BSC | 加速中 | 强度 62.87 | 质量 57.49
+- Uncertain:Binance Poland Shares Meme Image | BSC | 加速中 | 强度 65.16 | 质量 59.14
   - 主题摘要：Binance Poland posted a Meme image referencing the word 'soon' in relation to iOS, suggesting possible commentary on delayed cryptocurrency-related updates or features in the Appl…
-  - 资金 100.00 / 广度 76.41 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.85 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He's Shrugging Emoji | BSC | 点火期 | 强度 62.84 | 质量 49.92
-  - 主题摘要：Yi He replies with a shrugging woman emoji, sparking speculation and memetic reinterpretation in the community about her stance on recent Binance-related discussions.
-  - 资金 100.00 / 广度 84.40 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- DIE | BSC | 加速中 | 强度 60.44 | 质量 53.15
+  - 主题摘要：Multiple tokens named 「蝶」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.10 / 确认 22.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.74，其中已确认叙事 0 个。
-- Musk says propaganda works 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- RAGE 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.58，其中已确认叙事 1 个。
+- Grok Imagine Film Scenes 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Bully 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Musk says propaganda works | 质量 82.68 | 可交易性 100.00 | 风险 低
-- AI Instance Exploration in Simulator | 质量 79.81 | 可交易性 98.51 | 风险 低
-- RAGE | 质量 78.10 | 可交易性 100.00 | 风险 低
-- Meme图 Creator Launches Giga Runner | 质量 76.95 | 可交易性 95.58 | 风险 低
-- The KitKat Heist Meme Narrative | 质量 71.87 | 可交易性 75.07 | 风险 低
-- SUKI | 质量 67.94 | 可交易性 70.56 | 风险 低
-- Sanchez the Raccoon Seized by Florida Authorities | 质量 67.80 | 可交易性 77.45 | 风险 低
-- KHRARG ISLAND | 质量 66.24 | 可交易性 75.05 | 风险 低
-- 币安的父母 | 质量 64.92 | 可交易性 74.59 | 风险 低
-- CZ Responds to 123B Clean Assets Post | 质量 62.72 | 可交易性 76.35 | 风险 低
+- Musk says propaganda works | 质量 82.60 | 可交易性 100.00 | 风险 低
+- Grok Imagine Film Scenes | 质量 81.89 | 可交易性 100.00 | 风险 低
+- Elon Musk on Grok Imagine videos | 质量 81.11 | 可交易性 98.27 | 风险 低
+- AI Instance Exploration in Simulator | 质量 79.96 | 可交易性 99.15 | 风险 低
+- Buying Japanese Meme Coin | 质量 79.58 | 可交易性 97.24 | 风险 低
+- SUKI | 质量 68.40 | 可交易性 71.86 | 风险 低
+- Bully | 质量 67.56 | 可交易性 75.18 | 风险 低
+- The Orange Whale | 质量 64.81 | 可交易性 56.47 | 风险 低
+- CZ Responds to 123B Clean Assets Post | 质量 64.29 | 可交易性 76.98 | 风险 低
+- Binance on Consistency | 质量 60.78 | 可交易性 62.09 | 风险 低
 
 ## 伪叙事风险
 
-- Yi He's Shrugging Emoji | 风险 47.79 | 原因：流动性偏薄
-- Meme图 Creator Launches Giga Runner | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- AI Instance Exploration in Simulator | 风险 42.03 | 原因：流动性偏薄
+- AI Instance Exploration in Simulator | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- 币安的父母 | 风险 45.73 | 原因：流动性偏薄、近 1 小时净流入转负
+- Bully | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -135,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Musk says propaganda works（Solana，分数 86.59）
-2. 共振最强代币：XRP（BSC，共振 100.0）
-3. 记忆层变化：Musk says propaganda works 当前为“新出现”
+1. 当前最强叙事：Grok Imagine Film Scenes（Solana，分数 86.68）
+2. 共振最强代币：BASED（BSC，共振 100.0）
+3. 记忆层变化：Grok Imagine Film Scenes 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined CLUSDT, BZUSDT and NATGASUSDT Perpetual Contracts (2026-04-01)
 #Binance #NarrativeOS #OpenClaw
