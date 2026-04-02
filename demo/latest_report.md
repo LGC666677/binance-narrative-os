@@ -1,100 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-02T12:01:54.396351+00:00
+- 生成时间：2026-04-02T15:41:11.470867+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 April Fools' Reminder on Social Media，所在链为 Solana，叙事强度 88.59。
-- 当前平均叙事强度为 78.7，其中已确认叙事 1 个。
+- 当前最强叙事是 Woman Creates Perfect Heart with Body，所在链为 Solana，叙事强度 84.02。
+- 当前平均叙事强度为 77.66，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
-- 记忆层显示 April Fools' Reminder on Social Media 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Moon's Meme Image Post，伪叙事风险 50.11。
+- 记忆层显示 Woman Creates Perfect Heart with Body 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 GOGL，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Join the Binance Ai Pro Feedback Campaign for a Chance to Unlock 30 Days of Free Access!。
 
 ## 叙事雷达
 
-- April Fools' Reminder on Social Media | Solana | 已确认 | 强度 88.59 | 质量 82.98
-  - 主题摘要：According to BONK!!!'s post, a community token of Web3, a reminder was issued that April Fools' Day should be approached with skepticism, advising users not to believe everything…
-  - 资金 100.00 / 广度 90.68 / 确认 35.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- SIP360 | Solana | 降温中 | 强度 84.31 | 质量 73.87
-  - 主题摘要：Multiple tokens named 「SIP360」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.36 / 确认 9.36 / 脆弱性 14.00
+- Woman Creates Perfect Heart with Body | Solana | 降温中 | 强度 84.02 | 质量 77.02
+  - 主题摘要：According to Preeti's post, a woman gained viral attention for creating a perfect heart shape using her body in a Meme图. The post inspired multiple cryptocurrency tokens bearing r…
+  - 资金 100.00 / 广度 89.88 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GOGL | BSC | 降温中 | 强度 82.24 | 质量 73.15
-  - 主题摘要：Multiple tokens named 「金狗人生🔥🔥🔥」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.96 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- HorseCoin | BSC | 已确认 | 强度 81.04 | 质量 76.71
+- Brandon Daley's Crypto Loss and Movie | Solana | 加速中 | 强度 81.91 | 质量 71.47
+  - 主题摘要：Brandon Daley lost $65,000 on speculative cryptocurrency investments and subsequently created a film reflecting his experience. He shared the movie trailer on social media, refere…
+  - 资金 100.00 / 广度 79.90 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- $CLAWCODE fees allocation controversy | Solana | 加速中 | 强度 79.43 | 质量 76.03
+  - 主题摘要：According to trencheshero62 from brixton's post, the ClawCode token has reached a market cap of $400k, but concerns have been raised over the distribution of fees, with claims tha…
+  - 资金 100.00 / 广度 84.05 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- HorseCoin | BSC | 已确认 | 强度 78.75 | 质量 73.76
   - 主题摘要：Multiple tokens named 「马币」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.75 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.01 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Moon's Meme Image Post | Solana | 点火期 | 强度 80.54 | 质量 77.69
-  - 主题摘要：Multiple tokens named 「MOON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 96.59 / 广度 98.39 / 确认 12.96 / 脆弱性 24.00
+- Community Coins Advocacy | Solana | 加速中 | 强度 78.61 | 质量 73.23
+  - 主题摘要：According to Flux's post, a recently trending article criticizes certain token models involving cashback, fees, and agent systems as meaningless, promoting community-driven tokens…
+  - 资金 100.00 / 广度 85.16 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- April Fools' Reminder on Social Media | Solana | 加速中 | 强度 78.12 | 质量 77.50
+  - 主题摘要：According to BONK!!!'s post, April Fools' Day is a time when users should not take all information on the platform at face value, suggesting a general caution toward social media…
+  - 资金 100.00 / 广度 93.05 / 确认 23.84 / 脆弱性 34.40
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GOGL | BSC | 点火期 | 强度 76.76 | 质量 73.55
+  - 主题摘要：Multiple tokens named 「金狗人生🔥🔥🔥」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.29 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 前行者 | BSC | 加速中 | 强度 78.49 | 质量 77.61
-  - 主题摘要：前行者 token draws inspiration from the concept of pioneers in the crypto space. The logo features a hooded figure with a flaming face, symbolizing courage and leadership. The token…
-  - 资金 100.00 / 广度 80.74 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Community Coins Advocacy | Solana | 加速中 | 强度 76.68 | 质量 70.25
-  - 主题摘要：According to Flux's post, a recently trending article criticizes certain token models involving cashback, fees, and agent systems as ineffective, promoting instead the value of au…
-  - 资金 100.00 / 广度 85.34 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ROCKET but cheeper | Solana | 加速中 | 强度 76.65 | 质量 66.64
-  - 主题摘要：According to Meme For Meme's post, a token referred to as ROCKET is being promoted at a lower price point, suggesting a cost-effective opportunity for engagement or investment.
-  - 资金 100.00 / 广度 82.66 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:He Yi's Strength at Binance | BSC | 降温中 | 强度 75.97 | 质量 63.97
+- Uncertain:He Yi's Strength at Binance | BSC | 降温中 | 强度 75.93 | 质量 65.17
   - 主题摘要：Multiple tokens named 「1」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.36 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.38 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Lego Meme Campaign Inspires Token | Solana | 降温中 | 强度 74.58 | 质量 61.09
-  - 主题摘要：According to devooooor's post, the 'Everyone Wants A Piece' marketing campaign by LEGO has inspired a crypto-themed buying trend, with users encouraged to 'buy the piece' as a met…
-  - 资金 100.00 / 广度 67.35 / 确认 9.36 / 脆弱性 14.00
+- Lego Meme Campaign Inspires Token | Solana | 点火期 | 强度 74.44 | 质量 65.53
+  - 主题摘要：According to devooooor's post, the Lego 'Everyone Wants A Piece' campaign is being interpreted as a potential inspiration for a Meme image. The post questions why the community ha…
+  - 资金 100.00 / 广度 86.33 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:One Step Forward Makes All the Difference | BSC | 降温中 | 强度 72.87 | 质量 60.02
+  - 主题摘要：Multiple tokens named 「1」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.68 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Tibetan Fox Meme Image Gains Traction | Solana | 降温中 | 强度 74.53 | 质量 64.11
-  - 主题摘要：According to Pikalosi's post, a Tibetan fox Meme image has gained significant traction on X, accumulating over 2.1 million views within a day. The image's unique facial expression…
-  - 资金 100.00 / 广度 75.16 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 福凤 | BSC | 加速中 | 强度 74.18 | 质量 63.99
-  - 主题摘要：According to 御用dev🔶 BNB's post, the author mentioned having mistakenly invested in the wrong pool, potentially referring to a DeFi or token investment context.
-  - 资金 100.00 / 广度 78.78 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Commodities Trading Expansion | Solana | 加速中 | 强度 73.73 | 质量 61.01
+- Moon's Meme Image Post | Solana | 点火期 | 强度 72.67 | 质量 70.53
+  - 主题摘要：According to Moon's post, several cryptocurrencies with the symbol MOON have emerged, many of which appear to be inspired by internet meme culture and carry names such as 'To The…
+  - 资金 100.00 / 广度 99.29 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Commodities Trading Expansion | Solana | 加速中 | 强度 72.11 | 质量 61.38
   - 主题摘要：According to Gemini's post, the platform has expanded its trading offerings to include daily, weekly, and monthly timeframes for copper, natural gas, and oil (Brent/WTI) markets,…
-  - 资金 100.00 / 广度 73.59 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.29 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:One Step Forward Makes All the Difference | BSC | 降温中 | 强度 73.12 | 质量 59.25
-  - 主题摘要：Multiple tokens named 「1」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.76 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 福凤 | BSC | 加速中 | 强度 70.32 | 质量 63.96
+  - 主题摘要：According to 御用dev🔶 BNB's post, the author mentioned having mistakenly invested in the wrong pool, potentially referring to a DeFi or token investment context.
+  - 资金 92.04 / 广度 79.42 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 前行者 | BSC | 加速中 | 强度 69.98 | 质量 68.12
+  - 主题摘要：前行者 token draws inspiration from the concept of pioneers in the crypto space. The logo features a hooded figure with a flaming face, symbolizing courage and leadership. The token…
+  - 资金 100.00 / 广度 78.23 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.7，其中已确认叙事 1 个。
-- April Fools' Reminder on Social Media 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- SIP360 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.66，其中已确认叙事 0 个。
+- Brandon Daley's Crypto Loss and Movie 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Woman Creates Perfect Heart with Body 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- April Fools' Reminder on Social Media | 质量 82.98 | 可交易性 100.00 | 风险 低
-- Moon's Meme Image Post | 质量 77.69 | 可交易性 91.08 | 风险 低
-- 前行者 | 质量 77.61 | 可交易性 100.00 | 风险 低
-- HorseCoin | 质量 76.71 | 可交易性 100.00 | 风险 低
-- SIP360 | 质量 73.87 | 可交易性 100.00 | 风险 低
-- GOGL | 质量 73.15 | 可交易性 100.00 | 风险 低
-- Community Coins Advocacy | 质量 70.25 | 可交易性 74.03 | 风险 低
-- ROCKET but cheeper | 质量 66.64 | 可交易性 61.51 | 风险 低
-- Tibetan Fox Meme Image Gains Traction | 质量 64.11 | 可交易性 66.38 | 风险 低
-- 福凤 | 质量 63.99 | 可交易性 53.93 | 风险 低
+- April Fools' Reminder on Social Media | 质量 77.50 | 可交易性 87.80 | 风险 低
+- Woman Creates Perfect Heart with Body | 质量 77.02 | 可交易性 100.00 | 风险 低
+- $CLAWCODE fees allocation controversy | 质量 76.03 | 可交易性 94.60 | 风险 低
+- HorseCoin | 质量 73.76 | 可交易性 100.00 | 风险 低
+- GOGL | 质量 73.55 | 可交易性 100.00 | 风险 低
+- Community Coins Advocacy | 质量 73.23 | 可交易性 84.14 | 风险 低
+- Brandon Daley's Crypto Loss and Movie | 质量 71.47 | 可交易性 80.38 | 风险 低
+- Moon's Meme Image Post | 质量 70.53 | 可交易性 86.82 | 风险 低
+- 前行者 | 质量 68.12 | 可交易性 100.00 | 风险 低
+- Lego Meme Campaign Inspires Token | 质量 65.53 | 可交易性 62.59 | 风险 低
 
 ## 伪叙事风险
 
-- Moon's Meme Image Post | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- GOGL | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Moon's Meme Image Post | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Lego Meme Campaign Inspires Token | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -133,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：April Fools' Reminder on Social Media（Solana，分数 88.59）
+1. 当前最强叙事：Woman Creates Perfect Heart with Body（Solana，分数 84.02）
 2. 共振最强代币：SIREN（BSC，共振 100.0）
-3. 记忆层变化：April Fools' Reminder on Social Media 当前为“新出现”
+3. 记忆层变化：Woman Creates Perfect Heart with Body 当前为“新出现”
 4. 最新官方催化：Join the Binance Ai Pro Feedback Campaign for a Chance to Unlock 30 Days of Free Access!
 #Binance #NarrativeOS #OpenClaw
