@@ -1,101 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-09T16:49:50.883272+00:00
+- 生成时间：2026-04-09T20:08:12.996267+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 VanEck Launches $GENZ ETF，所在链为 Solana，叙事强度 85.56。
-- 当前平均叙事强度为 80.12，其中已确认叙事 1 个。
+- 当前最强叙事是 VanEck Launches $GENZ ETF，所在链为 Solana，叙事强度 88.38。
+- 当前平均叙事强度为 79.91，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ARIA，来自 BSC，共振分数 100.0。
-- 记忆层显示 VanEck Launches $GENZ ETF 当前处于“新出现”状态。
+- 记忆层显示 Elon Musk reacts to teach a man to st meme 当前处于“强化”状态。
+- 当前最需要防止误判的叙事是 CZ Announces Divorce & Billion Dollar Bet，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：Binance VIP Capital Connect Masters Tournament: Compete for Up to $300,000 in Rewards and Exposure to Global Institutional Capital。
 
 ## 叙事雷达
 
-- VanEck Launches $GENZ ETF | Solana | 降温中 | 强度 85.56 | 质量 75.28
-  - 主题摘要：According to VanEck's post, the asset manager has launched the $GENZ ETF, targeting investment in the digital native economy. Further details are available on their official websi…
-  - 资金 100.00 / 广度 85.78 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Announces Divorce & Billion Dollar Bet | BSC | 已确认 | 强度 85.35 | 质量 84.96
-  - 主题摘要：CZ responds to Star_OKX's challenge by announcing his official divorce and daring bet of $1 billion. Combines personal drama with high-stakes bravado, sparking interest in the feu…
-  - 资金 100.00 / 广度 95.22 / 确认 38.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Strategic Defense Reserve | Solana | 加速中 | 强度 82.63 | 质量 77.40
-  - 主题摘要：Multiple tokens named 「SDR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.20 / 确认 20.16 / 脆弱性 14.00
+- VanEck Launches $GENZ ETF | Solana | 加速中 | 强度 88.38 | 质量 79.52
+  - 主题摘要：VanEck introduced the $GENZ ETF, targeting the digital native economy. The fund aims to reflect the economic behavior and consumption patterns of Generation Z. According to VanEck…
+  - 资金 100.00 / 广度 89.26 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Artificial Analysis Unveils New Model Surpassing Seedance 2.0 | Solana | 降温中 | 强度 81.59 | 质量 75.07
-  - 主题摘要：According to Chetaslua's post, Artificial Analysis has unexpectedly introduced a new AI model that reportedly outperforms Seedance 2.0. Further details and sample results are expe…
-  - 资金 100.00 / 广度 90.60 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Upcoming Announcement by Sam | Solana | 加速中 | 强度 81.39 | 质量 74.00
-  - 主题摘要：Sam has indicated through a social media post that an upcoming announcement is imminent, suggesting potential relevance to cryptocurrency or related developments. According to Sam…
-  - 资金 100.00 / 广度 83.60 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Freedom | BSC | 已确认 | 强度 80.12 | 质量 73.15
-  - 主题摘要：CZ announces the global release of his book 'Freedom of Money' on April 8th, with proceeds going to charity, sparking curiosity and potential memetic engagement around the concept…
-  - 资金 100.00 / 广度 86.82 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Global Digital Oil Exchange | Solana | 已确认 | 强度 79.07 | 质量 78.01
-  - 主题摘要：Michael Saylor promotes Bitcoin and references $STRC in a social media post, emphasizing his long-term support for Bitcoin and related initiatives. According to Michael Saylor's p…
-  - 资金 100.00 / 广度 77.34 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Nietzschean Turtle Meme Image | Solana | 降温中 | 强度 78.36 | 质量 68.33
-  - 主题摘要：According to bane's post, a Meme图 featuring a Nietzschean turtle named Tortellini has gained viral attention on TikTok, accumulating millions of views. The turtle is depicted wand…
-  - 资金 100.00 / 广度 84.69 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk reacts to teach a man to st meme | Solana | 加速中 | 强度 77.96 | 质量 72.88
+- Elon Musk reacts to teach a man to st meme | Solana | 加速中 | 强度 88.12 | 质量 82.49
   - 主题摘要：Elon Musk reacts with laughter emojis to a meme referencing 'teach a man to fish' and crypto st culture. The cryptic reaction fuels speculation and meme potential.
-  - 资金 100.00 / 广度 88.35 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 97.55 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Next Era of Finance | BSC | 加速中 | 强度 75.75 | 质量 67.07
-  - 主题摘要：Binance tweeted an image captioned 'This is what building the next era of finance looks like', suggesting a bold vision of the future of finance, possibly inspiring meme interpret…
-  - 资金 100.00 / 广度 78.14 / 确认 24.48 / 脆弱性 14.00
+- CZ Announces Divorce & Billion Dollar Bet | BSC | 点火期 | 强度 80.44 | 质量 81.64
+  - 主题摘要：CZ responds to Star_OKX's challenge by announcing his official divorce and daring bet of $1 billion. Combines personal drama with high-stakes bravado, sparking interest in the feu…
+  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Adam Back Identified as Satoshi Nakamoto | Solana | 降温中 | 强度 80.11 | 质量 68.41
+  - 主题摘要：According to Crypto Rover's post referencing a New York Times article, Adam Back, a 55-year-old British computer scientist and cryptographer, is identified as Satoshi Nakamoto, th…
+  - 资金 100.00 / 广度 80.97 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Nietzschean Turtle Meme Image | Solana | 降温中 | 强度 78.79 | 质量 67.79
+  - 主题摘要：According to bane's post, a Meme图 featuring a Nietzschean turtle named Tortellini has gained viral attention on TikTok, accumulating millions of views. The turtle is depicted wand…
+  - 资金 100.00 / 广度 85.14 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Strategic Defense Reserve | Solana | 加速中 | 强度 77.79 | 质量 72.39
+  - 主题摘要：Multiple tokens named 「SDR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.28 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Freedom of Money | BSC | 加速中 | 强度 75.23 | 质量 66.42
+- Global Digital Oil Exchange | Solana | 加速中 | 强度 76.13 | 质量 75.00
+  - 主题摘要：Michael Saylor promotes Bitcoin and references $STRC in a social media post, emphasizing his long-term support for Bitcoin and related initiatives. According to Michael Saylor's p…
+  - 资金 100.00 / 广度 77.59 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Mooduang Baby Hippo and Associated Token | Solana | 降温中 | 强度 75.11 | 质量 71.20
+  - 主题摘要：According to chonker312's post, a baby pygmy hippo named Mooduang was born in Khon Kaen Zoo and has been linked to the Moodeng phenomenon. The name has subsequently inspired multi…
+  - 资金 86.65 / 广度 93.42 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Opal the Orangutan's Viral Appeal | Solana | 加速中 | 强度 74.83 | 质量 60.91
+  - 主题摘要：According to John Meyerwin's post, Opal, an elderly orangutan isolated for 46 years at a zoo, has become a viral figure due to mistreatment by visitors. A petition with over 87,00…
+  - 资金 100.00 / 广度 75.02 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Freedom | BSC | 加速中 | 强度 74.70 | 质量 68.02
+  - 主题摘要：CZ announces the global release of his book 'Freedom of Money' on April 8th, with proceeds going to charity, sparking curiosity and potential memetic engagement around the concept…
+  - 资金 100.00 / 广度 83.89 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Freedom of Money | BSC | 加速中 | 强度 74.36 | 质量 68.21
   - 主题摘要：CZ reveals he wrote the first draft of his book while in prison over four months, sparking intrigue and meme potential around his personal journey and reflections.
-  - 资金 100.00 / 广度 79.12 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.23 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Anna Aa Moo Duang Meme Image Shared | Solana | 降温中 | 强度 74.41 | 质量 66.94
-  - 主题摘要：According to profitable's post, a Meme image featuring 'Anna Aa Moo Duang,' a pygmy hippopotamus born at Khon Kaen Zoo, has been shared, sparking online engagement and the creatio…
-  - 资金 100.00 / 广度 83.81 / 确认 12.96 / 脆弱性 24.00
+- CZ Countdown to Live Stream | BSC | 降温中 | 强度 73.93 | 质量 59.14
+  - 主题摘要：CZ announced a live stream in two hours, generating anticipation and attention from the crypto community. This event could spark short-term speculation and memetic engagement.
+  - 资金 100.00 / 广度 68.52 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNB BANK | BSC | 加速中 | 强度 73.11 | 质量 59.89
-  - 主题摘要：Multiple tokens named 「BANK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.76 / 确认 24.48 / 脆弱性 14.00
+- BNB Chain's Chinese Name Mentioned | BSC | 降温中 | 强度 73.46 | 质量 65.27
+  - 主题摘要：According to JBL's post, the BNB Chain has been given the official Chinese name '共建' (GongJian), with references to a book page and meme imagery. This appears to be a community-dr…
+  - 资金 92.13 / 广度 83.55 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Next Era of Finance | BSC | 加速中 | 强度 72.54 | 质量 65.50
+  - 主题摘要：Binance tweeted an image captioned 'This is what building the next era of finance looks like', suggesting a bold vision of the future of finance, possibly inspiring meme interpret…
+  - 资金 100.00 / 广度 74.04 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Launches MBTI Campaign | BSC | 降温中 | 强度 72.29 | 质量 56.00
-  - 主题摘要：According to 农了么's post, Binance has launched an MBTI-themed campaign for the new year, allowing users to identify with specific personality roles and RT to participate in a promo…
-  - 资金 100.00 / 广度 73.97 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.12，其中已确认叙事 1 个。
-- CZ Announces Divorce & Billion Dollar Bet 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- VanEck Launches $GENZ ETF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.91，其中已确认叙事 0 个。
+- Elon Musk reacts to teach a man to st meme 正在向主线升级: Solana 上该叙事处于“强化”状态，值得持续跟踪。
+- Adam Back Identified as Satoshi Nakamoto 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ Announces Divorce & Billion Dollar Bet | 质量 84.96 | 可交易性 100.00 | 风险 低
-- Global Digital Oil Exchange | 质量 78.01 | 可交易性 100.00 | 风险 低
-- Strategic Defense Reserve | 质量 77.40 | 可交易性 100.00 | 风险 低
-- VanEck Launches $GENZ ETF | 质量 75.28 | 可交易性 93.00 | 风险 低
-- Artificial Analysis Unveils New Model Surpassing Seedance 2.0 | 质量 75.07 | 可交易性 100.00 | 风险 低
-- Upcoming Announcement by Sam | 质量 74.00 | 可交易性 88.29 | 风险 低
-- Freedom | 质量 73.15 | 可交易性 100.00 | 风险 低
-- Elon Musk reacts to teach a man to st meme | 质量 72.88 | 可交易性 74.51 | 风险 低
-- Nietzschean Turtle Meme Image | 质量 68.33 | 可交易性 73.56 | 风险 低
-- The Next Era of Finance | 质量 67.07 | 可交易性 95.71 | 风险 低
+- Elon Musk reacts to teach a man to st meme | 质量 82.49 | 可交易性 100.00 | 风险 低
+- CZ Announces Divorce & Billion Dollar Bet | 质量 81.64 | 可交易性 100.00 | 风险 低
+- VanEck Launches $GENZ ETF | 质量 79.52 | 可交易性 97.87 | 风险 低
+- Global Digital Oil Exchange | 质量 75.00 | 可交易性 93.52 | 风险 低
+- Strategic Defense Reserve | 质量 72.39 | 可交易性 100.00 | 风险 低
+- Mooduang Baby Hippo and Associated Token | 质量 71.20 | 可交易性 87.51 | 风险 低
+- Adam Back Identified as Satoshi Nakamoto | 质量 68.41 | 可交易性 80.20 | 风险 低
+- Freedom of Money | 质量 68.21 | 可交易性 100.00 | 风险 低
+- Freedom | 质量 68.02 | 可交易性 100.00 | 风险 低
+- Nietzschean Turtle Meme Image | 质量 67.79 | 可交易性 73.97 | 风险 低
 
 ## 伪叙事风险
 
+- CZ Announces Divorce & Billion Dollar Bet | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- jelly | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SBTI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 共建 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SIREN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -105,7 +108,6 @@
 - 714 | BSC | 看多 | 新鲜度 80.35 | 暂无直接叙事映射
 - 幣安人生 | BSC | 看多 | 新鲜度 76.46 | 暂无直接叙事映射
 - CS | BSC | 看多 | 新鲜度 74.90 | 暂无直接叙事映射
-- jelly | BSC | 看多 | 新鲜度 70.57 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：VanEck Launches $GENZ ETF（Solana，分数 85.56）
+1. 当前最强叙事：VanEck Launches $GENZ ETF（Solana，分数 88.38）
 2. 共振最强代币：ARIA（BSC，共振 100.0）
-3. 记忆层变化：VanEck Launches $GENZ ETF 当前为“新出现”
+3. 记忆层变化：Elon Musk reacts to teach a man to st meme 当前为“强化”
 4. 最新官方催化：Binance VIP Capital Connect Masters Tournament: Compete for Up to $300,000 in Rewards and Exposure to Global Institutional Capital
 #Binance #NarrativeOS #OpenClaw
