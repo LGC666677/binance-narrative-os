@@ -1,96 +1,96 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-09T20:08:12.996267+00:00
+- 生成时间：2026-04-09T22:08:25.052363+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 VanEck Launches $GENZ ETF，所在链为 Solana，叙事强度 88.38。
-- 当前平均叙事强度为 79.91，其中已确认叙事 0 个。
+- 当前最强叙事是 Mooduang Baby Hippo and Associated Token，所在链为 Solana，叙事强度 87.7。
+- 当前平均叙事强度为 81.27，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ARIA，来自 BSC，共振分数 100.0。
-- 记忆层显示 Elon Musk reacts to teach a man to st meme 当前处于“强化”状态。
+- 记忆层显示 Mooduang Baby Hippo and Associated Token 当前处于“强化”状态。
 - 当前最需要防止误判的叙事是 CZ Announces Divorce & Billion Dollar Bet，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：Binance VIP Capital Connect Masters Tournament: Compete for Up to $300,000 in Rewards and Exposure to Global Institutional Capital。
 
 ## 叙事雷达
 
-- VanEck Launches $GENZ ETF | Solana | 加速中 | 强度 88.38 | 质量 79.52
-  - 主题摘要：VanEck introduced the $GENZ ETF, targeting the digital native economy. The fund aims to reflect the economic behavior and consumption patterns of Generation Z. According to VanEck…
-  - 资金 100.00 / 广度 89.26 / 确认 24.48 / 脆弱性 14.00
+- Mooduang Baby Hippo and Associated Token | Solana | 加速中 | 强度 87.70 | 质量 79.99
+  - 主题摘要：According to chonker312's post, a baby pygmy hippo named Mooduang was born in Khon Kaen Zoo and has been linked to the Moodeng phenomenon. Multiple tokens named MOODUANG have sinc…
+  - 资金 96.15 / 广度 94.81 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk reacts to teach a man to st meme | Solana | 加速中 | 强度 88.12 | 质量 82.49
+- Cat and Dog Friendship After Rescue | Solana | 降温中 | 强度 83.34 | 质量 75.76
+  - 主题摘要：According to The Mirror's post, a cat and dog formed a bond after being rescued from a war zone in Russia-Ukraine conflict. The story highlights their coexistence and emotional co…
+  - 资金 100.00 / 广度 86.45 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Act B : The Satoshi Prophecy | Solana | 加速中 | 强度 83.06 | 质量 74.27
+  - 主题摘要：ACTB (Act B: The Satoshi Prophecy) draws inspiration from Bitcoin's founder, Satoshi Nakamoto. The token's logo features a Bitcoin coin in an eye, symbolizing the vision of Nakamo…
+  - 资金 100.00 / 广度 69.60 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Anna Aa Moo Duang Meme Image Shared | Solana | 降温中 | 强度 82.52 | 质量 71.61
+  - 主题摘要：According to profitable's post, the inspiration for the Anna Aa Moo Duang meme comes from a newborn pygmy hippopotamus named Moo Duang at Khon Kaen Zoo in Thailand. The post refer…
+  - 资金 100.00 / 广度 82.90 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk reacts to teach a man to st meme | Solana | 加速中 | 强度 79.39 | 质量 79.98
   - 主题摘要：Elon Musk reacts with laughter emojis to a meme referencing 'teach a man to fish' and crypto st culture. The cryptic reaction fuels speculation and meme potential.
-  - 资金 100.00 / 广度 97.55 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.53 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Announces Divorce & Billion Dollar Bet | BSC | 点火期 | 强度 80.44 | 质量 81.64
+- Moodeng and Moo Duang Meme Images Shared | Solana | 降温中 | 强度 79.10 | 质量 66.92
+  - 主题摘要：According to taxxin's post, the topic refers to a Meme image featuring 'Moodeng,' a Thai internet-famous pygmy hippo, with a distinction made between Moodeng and 'Moo Duang.' The…
+  - 资金 100.00 / 广度 83.02 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Announces Divorce & Billion Dollar Bet | BSC | 点火期 | 强度 78.69 | 质量 78.89
   - 主题摘要：CZ responds to Star_OKX's challenge by announcing his official divorce and daring bet of $1 billion. Combines personal drama with high-stakes bravado, sparking interest in the feu…
   - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Adam Back Identified as Satoshi Nakamoto | Solana | 降温中 | 强度 80.11 | 质量 68.41
-  - 主题摘要：According to Crypto Rover's post referencing a New York Times article, Adam Back, a 55-year-old British computer scientist and cryptographer, is identified as Satoshi Nakamoto, th…
-  - 资金 100.00 / 广度 80.97 / 确认 9.36 / 脆弱性 14.00
+- Moodeng and Mooduang Meme Image Confusion | Solana | 降温中 | 强度 77.83 | 质量 64.61
+  - 主题摘要：According to taxxin's post, a Meme image mix-up occurred involving Moodeng and Mooduang, causing confusion in the shared visual representation of the two characters.
+  - 资金 100.00 / 广度 77.14 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nietzschean Turtle Meme Image | Solana | 降温中 | 强度 78.79 | 质量 67.79
-  - 主题摘要：According to bane's post, a Meme图 featuring a Nietzschean turtle named Tortellini has gained viral attention on TikTok, accumulating millions of views. The turtle is depicted wand…
-  - 资金 100.00 / 广度 85.14 / 确认 9.36 / 脆弱性 14.00
+- Birth of Moo Duang, Relative of Moo Deng | Solana | 降温中 | 强度 77.24 | 质量 62.95
+  - 主题摘要：According to Bangkok Post's post, Khon Kaen Zoo has welcomed the birth of Moo Duang, a pygmy hippopotamus calf and relative of the internationally known Moo Deng, expanding the zo…
+  - 资金 100.00 / 广度 76.92 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Strategic Defense Reserve | Solana | 加速中 | 强度 77.79 | 质量 72.39
-  - 主题摘要：Multiple tokens named 「SDR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.28 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Global Digital Oil Exchange | Solana | 加速中 | 强度 76.13 | 质量 75.00
-  - 主题摘要：Michael Saylor promotes Bitcoin and references $STRC in a social media post, emphasizing his long-term support for Bitcoin and related initiatives. According to Michael Saylor's p…
-  - 资金 100.00 / 广度 77.59 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mooduang Baby Hippo and Associated Token | Solana | 降温中 | 强度 75.11 | 质量 71.20
-  - 主题摘要：According to chonker312's post, a baby pygmy hippo named Mooduang was born in Khon Kaen Zoo and has been linked to the Moodeng phenomenon. The name has subsequently inspired multi…
-  - 资金 86.65 / 广度 93.42 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Opal the Orangutan's Viral Appeal | Solana | 加速中 | 强度 74.83 | 质量 60.91
-  - 主题摘要：According to John Meyerwin's post, Opal, an elderly orangutan isolated for 46 years at a zoo, has become a viral figure due to mistreatment by visitors. A petition with over 87,00…
-  - 资金 100.00 / 广度 75.02 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Freedom | BSC | 加速中 | 强度 74.70 | 质量 68.02
+- Freedom | BSC | 加速中 | 强度 76.65 | 质量 71.05
   - 主题摘要：CZ announces the global release of his book 'Freedom of Money' on April 8th, with proceeds going to charity, sparking curiosity and potential memetic engagement around the concept…
-  - 资金 100.00 / 广度 83.89 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.62 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Freedom of Money | BSC | 加速中 | 强度 74.36 | 质量 68.21
+- BNB Chain's Chinese Name Mentioned | BSC | 降温中 | 强度 74.85 | 质量 62.76
+  - 主题摘要：According to JBL's post, the BNB Chain has been assigned the Chinese name '共建' (GongJian), referencing a book page that introduced the term and quoting related content.
+  - 资金 100.00 / 广度 83.56 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Freedom of Money | BSC | 加速中 | 强度 73.64 | 质量 67.24
   - 主题摘要：CZ reveals he wrote the first draft of his book while in prison over four months, sparking intrigue and meme potential around his personal journey and reflections.
-  - 资金 100.00 / 广度 75.23 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.09 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Countdown to Live Stream | BSC | 降温中 | 强度 73.93 | 质量 59.14
-  - 主题摘要：CZ announced a live stream in two hours, generating anticipation and attention from the crypto community. This event could spark short-term speculation and memetic engagement.
-  - 资金 100.00 / 广度 68.52 / 确认 9.36 / 脆弱性 14.00
+- CZ's Cow Adoption Meme and Token Mechanism | BSC | 降温中 | 强度 72.22 | 质量 58.07
+  - 主题摘要：According to 认养一头牛's post, CZ has decided to launch a Meme image featuring a奶牛 (cow), with humorous references to daily milk consumption and tokenomics mechanisms. The post includ…
+  - 资金 100.00 / 广度 73.68 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNB Chain's Chinese Name Mentioned | BSC | 降温中 | 强度 73.46 | 质量 65.27
-  - 主题摘要：According to JBL's post, the BNB Chain has been given the official Chinese name '共建' (GongJian), with references to a book page and meme imagery. This appears to be a community-dr…
-  - 资金 92.13 / 广度 83.55 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Next Era of Finance | BSC | 加速中 | 强度 72.54 | 质量 65.50
+- The Next Era of Finance | BSC | 加速中 | 强度 72.21 | 质量 65.10
   - 主题摘要：Binance tweeted an image captioned 'This is what building the next era of finance looks like', suggesting a bold vision of the future of finance, possibly inspiring meme interpret…
-  - 资金 100.00 / 广度 74.04 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.81 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.91，其中已确认叙事 0 个。
-- Elon Musk reacts to teach a man to st meme 正在向主线升级: Solana 上该叙事处于“强化”状态，值得持续跟踪。
-- Adam Back Identified as Satoshi Nakamoto 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.27，其中已确认叙事 0 个。
+- Mooduang Baby Hippo and Associated Token 正在向主线升级: Solana 上该叙事处于“强化”状态，值得持续跟踪。
+- Cat and Dog Friendship After Rescue 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk reacts to teach a man to st meme | 质量 82.49 | 可交易性 100.00 | 风险 低
-- CZ Announces Divorce & Billion Dollar Bet | 质量 81.64 | 可交易性 100.00 | 风险 低
-- VanEck Launches $GENZ ETF | 质量 79.52 | 可交易性 97.87 | 风险 低
-- Global Digital Oil Exchange | 质量 75.00 | 可交易性 93.52 | 风险 低
-- Strategic Defense Reserve | 质量 72.39 | 可交易性 100.00 | 风险 低
-- Mooduang Baby Hippo and Associated Token | 质量 71.20 | 可交易性 87.51 | 风险 低
-- Adam Back Identified as Satoshi Nakamoto | 质量 68.41 | 可交易性 80.20 | 风险 低
-- Freedom of Money | 质量 68.21 | 可交易性 100.00 | 风险 低
-- Freedom | 质量 68.02 | 可交易性 100.00 | 风险 低
-- Nietzschean Turtle Meme Image | 质量 67.79 | 可交易性 73.97 | 风险 低
+- Mooduang Baby Hippo and Associated Token | 质量 79.99 | 可交易性 97.03 | 风险 低
+- Elon Musk reacts to teach a man to st meme | 质量 79.98 | 可交易性 99.86 | 风险 低
+- CZ Announces Divorce & Billion Dollar Bet | 质量 78.89 | 可交易性 100.00 | 风险 低
+- Cat and Dog Friendship After Rescue | 质量 75.76 | 可交易性 99.23 | 风险 低
+- Act B : The Satoshi Prophecy | 质量 74.27 | 可交易性 100.00 | 风险 低
+- Anna Aa Moo Duang Meme Image Shared | 质量 71.61 | 可交易性 83.64 | 风险 低
+- Freedom | 质量 71.05 | 可交易性 100.00 | 风险 低
+- Freedom of Money | 质量 67.24 | 可交易性 100.00 | 风险 低
+- Moodeng and Moo Duang Meme Images Shared | 质量 66.92 | 可交易性 67.91 | 风险 低
+- The Next Era of Finance | 质量 65.10 | 可交易性 95.15 | 风险 低
 
 ## 伪叙事风险
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：VanEck Launches $GENZ ETF（Solana，分数 88.38）
+1. 当前最强叙事：Mooduang Baby Hippo and Associated Token（Solana，分数 87.7）
 2. 共振最强代币：ARIA（BSC，共振 100.0）
-3. 记忆层变化：Elon Musk reacts to teach a man to st meme 当前为“强化”
+3. 记忆层变化：Mooduang Baby Hippo and Associated Token 当前为“强化”
 4. 最新官方催化：Binance VIP Capital Connect Masters Tournament: Compete for Up to $300,000 in Rewards and Exposure to Global Institutional Capital
 #Binance #NarrativeOS #OpenClaw
