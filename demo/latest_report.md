@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-12T17:56:20.227291+00:00
+- 生成时间：2026-04-12T19:54:23.464255+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Coral Fish Smiling in Meme图，所在链为 Solana，叙事强度 86.32。
-- 当前平均叙事强度为 81.11，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ARIA，来自 BSC，共振分数 100.0。
-- 记忆层显示 Shi Kelaung 2.0 Alleged Launch 当前处于“新出现”状态。
+- 当前最强叙事是 USD0 and Anti-Trump Sentiment，所在链为 Solana，叙事强度 85.37。
+- 当前平均叙事强度为 83.93，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
+- 记忆层显示 WLFI Incident on Dolomite 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Stable Trading Competition: Trade Stable (STABLE) and Share $100K Worth of Rewards。
 
 ## 叙事雷达
 
-- Coral Fish Smiling in Meme图 | Solana | 降温中 | 强度 86.32 | 质量 77.96
-  - 主题摘要：According to Earth's post, a Meme image featuring a coral fish appearing to 'smile' has gained attention. The imagery has inspired multiple cryptocurrency tokens with related name…
-  - 资金 100.00 / 广度 93.00 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Announces Divorce & Billion Dollar Bet | BSC | 已确认 | 强度 82.27 | 质量 77.00
-  - 主题摘要：CZ responds to Star_OKX's challenge by announcing his official divorce and daring bet of $1 billion. Combines personal drama with high-stakes bravado, sparking interest in the feu…
-  - 资金 100.00 / 广度 88.56 / 确认 38.88 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Shi Kelaung 2.0 Alleged Launch | BSC | 已确认 | 强度 82.09 | 质量 74.00
-  - 主题摘要：According to SKL2coin's post, a new token launch is allegedly underway, featuring a 3% transaction tax for buybacks and burns, along with a high concentration of holdings and low…
-  - 资金 100.00 / 广度 81.03 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- USD0 and Anti-Trump Sentiment | Solana | 加速中 | 强度 82.05 | 质量 78.52
+- USD0 and Anti-Trump Sentiment | Solana | 加速中 | 强度 85.37 | 质量 79.42
   - 主题摘要：According to Caroline Ellison's post, a shift away from support for Donald Trump is occurring, with figures like Nick Fuentes and Tucker Carlson reportedly aligning with the Anti-…
-  - 资金 100.00 / 广度 88.85 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.31 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Token Printing and USDC Withdrawal | Solana | 加速中 | 强度 80.53 | 质量 76.26
-  - 主题摘要：According to Alon Dev's post, an entity allegedly minted 5 billion of their own tokens and then withdrew them as USDC, causing significant attention and virality on social media.
-  - 资金 100.00 / 广度 86.71 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump Family's Involvement in WLFI Token Project | Solana | 加速中 | 强度 80.53 | 质量 76.26
-  - 主题摘要：Multiple tokens named 「WLFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.71 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WLFI Token Collateral Usage Leads to Price Drop | Solana | 加速中 | 强度 80.44 | 质量 76.26
-  - 主题摘要：Multiple tokens named 「WLFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.71 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WLFI Faces Solvency Concerns | Solana | 加速中 | 强度 80.44 | 质量 76.26
-  - 主题摘要：Multiple tokens named 「WLFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.71 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WLFI Token Crash and Rug Pull Allegations | Solana | 加速中 | 强度 80.44 | 质量 76.26
-  - 主题摘要：Multiple tokens named 「WLFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.71 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nick Fuentes Criticizes MAGA and Trump | Solana | 降温中 | 强度 78.11 | 质量 64.57
-  - 主题摘要：According to RT's post, Nick Fuentes criticizes the MAGA movement, stating it has lost its youth support and is now dominated by older demographics influenced by AI misinformation…
-  - 资金 100.00 / 广度 84.61 / 确认 9.36 / 脆弱性 14.00
+- Coral Fish Smiling in Meme图 | Solana | 降温中 | 强度 85.24 | 质量 79.89
+  - 主题摘要：According to Earth's post, a Meme image featuring a coral fish appearing to 'smile' has gained attention. The imagery has inspired multiple cryptocurrency tokens with related name…
+  - 资金 100.00 / 广度 94.17 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNB Chain celebrates the weekend with a disco ball | BSC | 加速中 | 强度 73.95 | 质量 74.96
-  - 主题摘要：BNB Chain posted a celebratory message with a disco ball emoji, marking the arrival of the weekend. The lighthearted tone and visual flair make it a fun and relatable moment for c…
-  - 资金 84.24 / 广度 89.91 / 确认 23.76 / 脆弱性 24.00
+- Alleged Token Printing and USDC Withdrawal | Solana | 加速中 | 强度 83.92 | 质量 77.17
+  - 主题摘要：According to Alon Dev's post, an entity allegedly minted 5 billion of their own tokens and then withdrew them as USDC, causing significant attention and virality on social media.
+  - 资金 100.00 / 广度 85.68 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- LOONG | BSC | 加速中 | 强度 73.24 | 质量 63.06
-  - 主题摘要：Multiple tokens named 「LOONG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.72 / 确认 24.48 / 脆弱性 24.00
+- Trump Family's Involvement in WLFI Token Project | Solana | 加速中 | 强度 83.92 | 质量 77.17
+  - 主题摘要：Multiple tokens named 「WLFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.68 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Prison Professors | BSC | 加速中 | 强度 73.19 | 质量 60.41
+- WLFI Token Collateral Usage Leads to Price Drop | Solana | 加速中 | 强度 83.89 | 质量 77.17
+  - 主题摘要：Multiple tokens named 「WLFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.68 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- WLFI Faces Solvency Concerns | Solana | 加速中 | 强度 83.89 | 质量 77.17
+  - 主题摘要：Multiple tokens named 「WLFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.68 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- WLFI Token Crash and Rug Pull Allegations | Solana | 加速中 | 强度 83.73 | 质量 77.17
+  - 主题摘要：Multiple tokens named 「WLFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.68 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- WLFI Incident on Dolomite | Solana | 加速中 | 强度 81.48 | 质量 73.54
+  - 主题摘要：According to Twenk's post, the WLFI token was involved in a controversial incident on Dolomite where $150M in USDC was borrowed against $400M in WLFI, resulting in frozen investor…
+  - 资金 100.00 / 广度 82.57 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ Announces Divorce & Billion Dollar Bet | BSC | 已确认 | 强度 80.31 | 质量 78.42
+  - 主题摘要：CZ responds to Star_OKX's challenge by announcing his official divorce and daring bet of $1 billion. Combines personal drama with high-stakes bravado, sparking interest in the feu…
+  - 资金 100.00 / 广度 88.42 / 确认 38.88 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Shi Kelaung 2.0 Alleged Launch | BSC | 已确认 | 强度 79.91 | 质量 73.73
+  - 主题摘要：According to SKL2coin's post, a new token launch is allegedly underway, featuring a 3% transaction tax for buybacks and burns, along with a high concentration of holdings and low…
+  - 资金 100.00 / 广度 80.93 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Prison Professors | BSC | 加速中 | 强度 75.45 | 质量 62.31
   - 主题摘要：According to bscadev's post, Binance has introduced Predict Points, a token associated with its prediction market feature. The token is symbolized as PP and appears to be linked t…
-  - 资金 100.00 / 广度 73.64 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.66 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Freedom of Money | BSC | 加速中 | 强度 71.34 | 质量 65.29
-  - 主题摘要：CZ reveals he wrote the first draft of his book while in prison over four months, sparking intrigue and meme potential around his personal journey and reflections.
-  - 资金 100.00 / 广度 66.12 / 确认 28.08 / 脆弱性 14.00
+- LOONG | BSC | 加速中 | 强度 72.69 | 质量 62.99
+  - 主题摘要：Multiple tokens named 「LOONG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.79 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ's Cow Adoption Meme and Token Mechanism | BSC | 加速中 | 强度 69.94 | 质量 57.52
+  - 主题摘要：According to 认养一头牛's post, they decided to launch a cow-themed Meme image concept, incorporating tokenomics involving a 4% tax mechanism. The referenced tweet by Colin Wu discusse…
+  - 资金 100.00 / 广度 70.96 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- BNB Chain celebrates the weekend with a disco ball | BSC | 加速中 | 强度 69.89 | 质量 69.69
+  - 主题摘要：BNB Chain posted a celebratory message with a disco ball emoji, marking the arrival of the weekend. The lighthearted tone and visual flair make it a fun and relatable moment for c…
+  - 资金 84.17 / 广度 88.62 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.11，其中已确认叙事 0 个。
-- Shi Kelaung 2.0 Alleged Launch 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.93，其中已确认叙事 0 个。
+- WLFI Incident on Dolomite 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Coral Fish Smiling in Meme图 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- USD0 and Anti-Trump Sentiment | 质量 78.52 | 可交易性 95.47 | 风险 低
-- Coral Fish Smiling in Meme图 | 质量 77.96 | 可交易性 100.00 | 风险 低
-- CZ Announces Divorce & Billion Dollar Bet | 质量 77.00 | 可交易性 100.00 | 风险 低
-- Alleged Token Printing and USDC Withdrawal | 质量 76.26 | 可交易性 92.72 | 风险 低
-- Trump Family's Involvement in WLFI Token Project | 质量 76.26 | 可交易性 92.72 | 风险 低
-- WLFI Token Collateral Usage Leads to Price Drop | 质量 76.26 | 可交易性 92.72 | 风险 低
-- WLFI Faces Solvency Concerns | 质量 76.26 | 可交易性 92.72 | 风险 低
-- WLFI Token Crash and Rug Pull Allegations | 质量 76.26 | 可交易性 92.72 | 风险 低
-- BNB Chain celebrates the weekend with a disco ball | 质量 74.96 | 可交易性 85.91 | 风险 低
-- Shi Kelaung 2.0 Alleged Launch | 质量 74.00 | 可交易性 85.04 | 风险 低
+- Coral Fish Smiling in Meme图 | 质量 79.89 | 可交易性 100.00 | 风险 低
+- USD0 and Anti-Trump Sentiment | 质量 79.42 | 可交易性 100.00 | 风险 低
+- CZ Announces Divorce & Billion Dollar Bet | 质量 78.42 | 可交易性 100.00 | 风险 低
+- Alleged Token Printing and USDC Withdrawal | 质量 77.17 | 可交易性 96.76 | 风险 低
+- Trump Family's Involvement in WLFI Token Project | 质量 77.17 | 可交易性 96.76 | 风险 低
+- WLFI Token Collateral Usage Leads to Price Drop | 质量 77.17 | 可交易性 96.76 | 风险 低
+- WLFI Faces Solvency Concerns | 质量 77.17 | 可交易性 96.76 | 风险 低
+- WLFI Token Crash and Rug Pull Allegations | 质量 77.17 | 可交易性 96.76 | 风险 低
+- Shi Kelaung 2.0 Alleged Launch | 质量 73.73 | 可交易性 84.23 | 风险 低
+- WLFI Incident on Dolomite | 质量 73.54 | 可交易性 87.79 | 风险 低
 
 ## 伪叙事风险
 
@@ -103,9 +103,9 @@
 - 共建 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - stonks | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Bin4nce | BSC | 看多 | 新鲜度 97.98 | 暂无直接叙事映射
-- 714 | BSC | 看多 | 新鲜度 80.35 | 暂无直接叙事映射
 - CS | BSC | 看多 | 新鲜度 74.90 | 暂无直接叙事映射
 - CBK | BSC | 看多 | 新鲜度 73.73 | 暂无直接叙事映射
+- SIREN | BSC | 看多 | 新鲜度 63.93 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Coral Fish Smiling in Meme图（Solana，分数 86.32）
-2. 共振最强代币：ARIA（BSC，共振 100.0）
-3. 记忆层变化：Shi Kelaung 2.0 Alleged Launch 当前为“新出现”
+1. 当前最强叙事：USD0 and Anti-Trump Sentiment（Solana，分数 85.37）
+2. 共振最强代币：RAVE（BSC，共振 100.0）
+3. 记忆层变化：WLFI Incident on Dolomite 当前为“新出现”
 4. 最新官方催化：Stable Trading Competition: Trade Stable (STABLE) and Share $100K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
