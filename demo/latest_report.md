@@ -1,100 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-12T12:03:50.646885+00:00
+- 生成时间：2026-04-12T14:27:32.913535+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 CZ Announces Divorce & Billion Dollar Bet，所在链为 BSC，叙事强度 85.53。
-- 当前平均叙事强度为 78.56，其中已确认叙事 3 个。
-- 注意力与资金共振最强的代币是 BULL，来自 Solana，共振分数 100.0。
-- 记忆层显示 eBitcoinCash Rug Launch on Pump.fun 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 The Unwelcome Penguin Meme Goes Viral，伪叙事风险 42.03。
+- 当前最强叙事是 CZ Announces Divorce & Billion Dollar Bet，所在链为 BSC，叙事强度 87.79。
+- 当前平均叙事强度为 80.82，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ARIA，来自 BSC，共振分数 100.0。
+- 记忆层显示 GEM ALARM 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Stable Trading Competition: Trade Stable (STABLE) and Share $100K Worth of Rewards。
 
 ## 叙事雷达
 
-- CZ Announces Divorce & Billion Dollar Bet | BSC | 已确认 | 强度 85.53 | 质量 82.82
+- CZ Announces Divorce & Billion Dollar Bet | BSC | 已确认 | 强度 87.79 | 质量 83.12
   - 主题摘要：CZ responds to Star_OKX's challenge by announcing his official divorce and daring bet of $1 billion. Combines personal drama with high-stakes bravado, sparking interest in the feu…
-  - 资金 100.00 / 广度 89.32 / 确认 38.88 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.04 / 确认 38.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Steel Heart | BSC | 已确认 | 强度 85.00 | 质量 79.43
-  - 主题摘要：According to 0xMoon's post, multiple tokens named 钢铁之心 and 冲破枷锁的钢铁之心 have been referenced, indicating potential thematic or promotional interest in these token names. The post doe…
-  - 资金 100.00 / 广度 84.81 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- BNB Chain celebrates the weekend with a disco ball | BSC | 已确认 | 强度 83.02 | 质量 81.92
+- GEM ALARM | Solana | 降温中 | 强度 87.21 | 质量 78.41
+  - 主题摘要：According to flitzy's post, there are multiple cryptocurrency tokens with the same symbol GEM but different names, including GEM ALARM and GEM ALERM, raising questions about poten…
+  - 资金 100.00 / 广度 94.49 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- BNB Chain celebrates the weekend with a disco ball | BSC | 已确认 | 强度 84.12 | 质量 81.93
   - 主题摘要：BNB Chain posted a celebratory message with a disco ball emoji, marking the arrival of the weekend. The lighthearted tone and visual flair make it a fun and relatable moment for c…
-  - 资金 100.00 / 广度 89.83 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.86 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- eBitcoinCash Rug Launch on Pump.fun | Solana | 降温中 | 强度 81.52 | 质量 72.25
-  - 主题摘要：According to hyamsol's post, Alon has allegedly launched eBitcoinCash with the ticker $eBCSH, and the post emphasizes the importance of using the correct ticker and logo. This inf…
-  - 资金 100.00 / 广度 68.68 / 确认 16.56 / 脆弱性 14.00
+- Wifejak | Solana | 降温中 | 强度 83.70 | 质量 72.01
+  - 主题摘要：$WIFEJAK is a cryptocurrency inspired by the viral 'Wifejak' meme, known for its humor and emotional appeal. The token leverages social media platforms and key opinion leaders (KO…
+  - 资金 100.00 / 广度 91.06 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Meme Image Controversy and Community Discussion | Solana | 加速中 | 强度 81.26 | 质量 71.18
-  - 主题摘要：According to PokéMellon's post, a Meme图 project called '75K IS LARP' (MORITZ) has drawn criticism for developers redirecting transaction fees to their own accounts, raising concer…
-  - 资金 100.00 / 广度 77.82 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Grok Groks | Solana | 降温中 | 强度 79.66 | 质量 68.98
-  - 主题摘要：Elon Musk posted a short message 'Grok groks', referencing the AI chatbot Grok developed by xAI, his own team. The message appears to be a playful or promotional statement related…
-  - 资金 100.00 / 广度 63.07 / 确认 9.36 / 脆弱性 14.00
+- Cohen Coin Meme Image in Backyard | Solana | 降温中 | 强度 81.61 | 质量 72.17
+  - 主题摘要：According to Granzorth's post, a person named Alon has a bush shaped like a coin with a 'C' in the center in his backyard, resembling a Cohen Coin Meme image.
+  - 资金 100.00 / 广度 80.50 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- READ THIS | Solana | 加速中 | 强度 79.49 | 质量 71.33
-  - 主题摘要：Multiple tokens named 「MORITZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 91.46 / 广度 77.91 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Meme Coin Larping Incident | Solana | 加速中 | 强度 79.46 | 质量 71.19
+- Alleged Meme Coin Larping Incident | Solana | 加速中 | 强度 79.91 | 质量 72.01
   - 主题摘要：According to Ibra's post, a developer allegedly assumed a previously abandoned Twitter handle, created a Meme coin named MORITZ, and used it to collect fees before transferring th…
-  - 资金 91.63 / 广度 77.98 / 确认 20.16 / 脆弱性 14.00
+  - 资金 91.40 / 广度 73.86 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cat Saved by Grok Coin | Solana | 加速中 | 强度 79.40 | 质量 71.15
+- READ THIS | Solana | 加速中 | 强度 79.88 | 质量 72.09
   - 主题摘要：Multiple tokens named 「MORITZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 91.63 / 广度 77.75 / 确认 20.16 / 脆弱性 14.00
+  - 资金 91.21 / 广度 73.71 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Grok Saved The Cat | Solana | 降温中 | 强度 76.69 | 质量 63.14
+- Cat Saved by Grok Coin | Solana | 加速中 | 强度 79.73 | 质量 71.86
+  - 主题摘要：Multiple tokens named 「MORITZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 91.40 / 广度 73.35 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Grok Saved The Cat | Solana | 降温中 | 强度 77.61 | 质量 64.23
   - 主题摘要：Elon Musk tweeted 'Grok saved the cat,' referring to an incident where his AI allegedly rescued a cat in Frankfurt. Combines celebrity, AI, and meme-worthy narrative.
-  - 资金 100.00 / 广度 83.96 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.26 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Unwelcome Penguin Meme Goes Viral | Solana | 点火期 | 强度 75.50 | 质量 66.61
-  - 主题摘要：According to Beam!'s post, a Meme图 featuring a parentless and mateless penguin referred to as 'Penguina Non Grata' has gained significant attention on Instagram, accumulating 4 mi…
-  - 资金 100.00 / 广度 83.04 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- LOONG | BSC | 加速中 | 强度 74.92 | 质量 62.28
+- LOONG | BSC | 加速中 | 强度 77.42 | 质量 63.26
   - 主题摘要：Multiple tokens named 「LOONG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.12 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.18 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ's Youthful Appearance | BSC | 降温中 | 强度 71.86 | 质量 58.57
-  - 主题摘要：According to 九九🔶 BNB's post, the topic centers on a nostalgic reflection on CZ's youthful appearance, likely referencing a shared image or sentiment about his earlier years.
-  - 资金 100.00 / 广度 70.45 / 确认 12.96 / 脆弱性 14.00
+- The Random Passerby Meme图 Initiative | Solana | 降温中 | 强度 76.91 | 质量 68.36
+  - 主题摘要：According to Realmeme0x's post, a new Meme image initiative inspired by the $wojak and $troll memes has been introduced under the name #路人乙 (The Random Passerby), representing the…
+  - 资金 100.00 / 广度 61.43 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 7777球 to Launch on Butterfly Platform at 7 PM | BSC | 降温中 | 强度 71.05 | 质量 56.91
-  - 主题摘要：According to 7777球's post, the team will launch on the Butterfly platform at 7 PM tonight. The tokenomics feature a 3% transaction tax model with dual dividend distributions and t…
-  - 资金 100.00 / 广度 67.54 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Freedom of Money | BSC | 加速中 | 强度 70.78 | 质量 66.00
+  - 主题摘要：CZ reveals he wrote the first draft of his book while in prison over four months, sparking intrigue and meme potential around his personal journey and reflections.
+  - 资金 100.00 / 广度 65.57 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ's AI Reads His Book in His Own Voice | BSC | 加速中 | 强度 70.12 | 质量 64.98
+  - 主题摘要：CZ shared a fun AI-generated audiobook where the AI reads his book in a voice indistinguishable from his own, creating a surreal and humorous crypto-celebrity crossover moment.
+  - 资金 100.00 / 广度 79.33 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 蝴蝶首个自动分红屎壳郎金库 | BSC | 加速中 | 强度 69.61 | 质量 55.29
+  - 主题摘要：Multiple tokens named 「宝贝屎壳郎」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.64 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.56，其中已确认叙事 3 个。
-- The Unwelcome Penguin Meme Goes Viral 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- eBitcoinCash Rug Launch on Pump.fun 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.82，其中已确认叙事 0 个。
+- Freedom of Money 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- GEM ALARM 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ Announces Divorce & Billion Dollar Bet | 质量 82.82 | 可交易性 100.00 | 风险 低
-- BNB Chain celebrates the weekend with a disco ball | 质量 81.92 | 可交易性 100.00 | 风险 低
-- Steel Heart | 质量 79.43 | 可交易性 99.38 | 风险 低
-- eBitcoinCash Rug Launch on Pump.fun | 质量 72.25 | 可交易性 100.00 | 风险 低
-- READ THIS | 质量 71.33 | 可交易性 91.14 | 风险 低
-- Alleged Meme Coin Larping Incident | 质量 71.19 | 可交易性 90.72 | 风险 低
-- Meme Image Controversy and Community Discussion | 质量 71.18 | 可交易性 90.72 | 风险 低
-- Cat Saved by Grok Coin | 质量 71.15 | 可交易性 90.72 | 风险 低
-- Grok Groks | 质量 68.98 | 可交易性 100.00 | 风险 低
-- The Unwelcome Penguin Meme Goes Viral | 质量 66.61 | 可交易性 66.84 | 风险 低
+- CZ Announces Divorce & Billion Dollar Bet | 质量 83.12 | 可交易性 100.00 | 风险 低
+- BNB Chain celebrates the weekend with a disco ball | 质量 81.93 | 可交易性 100.00 | 风险 低
+- GEM ALARM | 质量 78.41 | 可交易性 100.00 | 风险 低
+- Cohen Coin Meme Image in Backyard | 质量 72.17 | 可交易性 87.91 | 风险 低
+- READ THIS | 质量 72.09 | 可交易性 91.81 | 风险 低
+- Wifejak | 质量 72.01 | 可交易性 76.84 | 风险 低
+- Alleged Meme Coin Larping Incident | 质量 72.01 | 可交易性 91.39 | 风险 低
+- Cat Saved by Grok Coin | 质量 71.86 | 可交易性 91.39 | 风险 低
+- The Random Passerby Meme图 Initiative | 质量 68.36 | 可交易性 99.57 | 风险 低
+- Freedom of Money | 质量 66.00 | 可交易性 97.51 | 风险 低
 
 ## 伪叙事风险
 
-- The Unwelcome Penguin Meme Goes Viral | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -104,9 +102,9 @@
 - 共建 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - stonks | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Bin4nce | BSC | 看多 | 新鲜度 97.98 | 暂无直接叙事映射
-- BURNIE | Solana | 看多 | 新鲜度 82.91 | 暂无直接叙事映射
 - 714 | BSC | 看多 | 新鲜度 80.35 | 暂无直接叙事映射
 - CS | BSC | 看多 | 新鲜度 74.90 | 暂无直接叙事映射
+- CBK | BSC | 看多 | 新鲜度 67.78 | 暂无直接叙事映射
 - SIREN | BSC | 看多 | 新鲜度 63.93 | 暂无直接叙事映射
 
 ## 官方催化
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CZ Announces Divorce & Billion Dollar Bet（BSC，分数 85.53）
-2. 共振最强代币：BULL（Solana，共振 100.0）
-3. 记忆层变化：eBitcoinCash Rug Launch on Pump.fun 当前为“新出现”
+1. 当前最强叙事：CZ Announces Divorce & Billion Dollar Bet（BSC，分数 87.79）
+2. 共振最强代币：ARIA（BSC，共振 100.0）
+3. 记忆层变化：GEM ALARM 当前为“新出现”
 4. 最新官方催化：Stable Trading Competition: Trade Stable (STABLE) and Share $100K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
