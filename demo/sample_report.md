@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-15T09:47:12.966879+00:00
+- 生成时间：2026-04-15T10:49:29.729439+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Top Traders Ranking & An Xiaojiang Launch，所在链为 BSC，叙事强度 90.72。
-- 当前平均叙事强度为 77.38，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
-- 记忆层显示 Top Traders Ranking & An Xiaojiang Launch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Devon Sawa's Meme图 Involving DRTRUMP，伪叙事风险 52.99。
+- 当前最强叙事是 Top Traders Ranking & An Xiaojiang Launch，所在链为 BSC，叙事强度 88.45。
+- 当前平均叙事强度为 77.3，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 GENIUS，来自 BSC，共振分数 100.0。
+- 记忆层显示 Kekius Maximus' New Character 'AzureArcFifth' Sparks Rumors 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Devon Sawa's Meme图 Involving DRTRUMP，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Binance Earn: Subscribe to Discount Buy and Earn Up to 50% APR。
 
 ## 叙事雷达
 
-- Top Traders Ranking & An Xiaojiang Launch | BSC | 已确认 | 强度 90.72 | 质量 85.36
+- Top Traders Ranking & An Xiaojiang Launch | BSC | 已确认 | 强度 88.45 | 质量 84.61
   - 主题摘要：Binance launches a keyless wallet-based leaderboard and introduces 'An Xiaojiang' address tags, offering exclusive rewards for active users.
-  - 资金 100.00 / 广度 96.02 / 确认 38.88 / 脆弱性 14.00
+  - 资金 100.00 / 广度 96.15 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Binance Wallet Launches Keyless Trader Leaderboard and Trencher Badge | BSC | 已确认 | 强度 86.34 | 质量 79.71
+- Uncertain:Binance Wallet Launches Keyless Trader Leaderboard and Trencher Badge | BSC | 加速中 | 强度 84.25 | 质量 79.16
   - 主题摘要：Binance Wallet has launched the Hot Ranking leaderboard and the Trencher address badge to recognize active traders using the Binance Keyless Wallet and provide them with exclusive…
-  - 资金 100.00 / 广度 85.11 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- UNC SLEAZE | Solana | 降温中 | 强度 80.09 | 质量 70.17
-  - 主题摘要：SLEAZE is a meme token inspired by the 'Sleaze' internet culture, featuring a distinctive logo of a cartoon character with sunglasses and a distinctive hairstyle. The token embrac…
-  - 资金 100.00 / 广度 61.77 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Devon Sawa's Meme图 Involving DRTRUMP | Solana | 点火期 | 强度 79.00 | 质量 76.09
+  - 资金 100.00 / 广度 85.92 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Devon Sawa's Meme图 Involving DRTRUMP | Solana | 点火期 | 强度 80.78 | 质量 76.20
   - 主题摘要：According to devon sawa's post, a Meme图 referencing the DRTRUMP token was shared, contributing to the token's visibility within crypto communities. The content leverages pop cultu…
-  - 资金 100.00 / 广度 86.77 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.13 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Ivy ♡'s Token Incentive Strategy | Solana | 降温中 | 强度 77.60 | 质量 68.43
-  - 主题摘要：Ivy ♡ announced a strategy to support the $UNC token by purchasing 10% of the dev supply and distributing 0.5% to $Degen holders who maintain a balance of over 1% for 10 minutes w…
-  - 资金 100.00 / 广度 62.95 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- She's Not Interested | Solana | 降温中 | 强度 76.66 | 质量 64.14
+- She's Not Interested | Solana | 降温中 | 强度 79.16 | 质量 67.82
   - 主题摘要：Multiple tokens named 「SNI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.78 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.63 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 预测马 | BSC | 加速中 | 强度 76.40 | 质量 62.17
-  - 主题摘要：Multiple tokens named 「预测马」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.48 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Meme Virality and Crypto Culture | BSC | 加速中 | 强度 76.08 | 质量 64.59
-  - 主题摘要：According to TrustWallet中文频道's post, the term 'Meme' predates the internet and was coined by a biologist in 1976 to describe cultural units that survive through传播力. The post draws…
-  - 资金 100.00 / 广度 69.45 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Broccoli Heads Meme图 Trend | Solana | 降温中 | 强度 75.08 | 质量 60.51
-  - 主题摘要：According to The Quantski's post, the 'Broccoli Heads' Meme图 trend appears to be circulating on social media, coinciding with the emergence of multiple tokens bearing similar or r…
-  - 资金 100.00 / 广度 70.96 / 确认 16.56 / 脆弱性 14.00
+- Kekius Maximus' New Character 'AzureArcFifth' Sparks Rumors | Solana | 降温中 | 强度 78.57 | 质量 70.91
+  - 主题摘要：According to Wugi's post, Kekius Maximus, a figure previously linked to a token that reached a $400M market cap, is rumored to have introduced a new in-game character named 'Azure…
+  - 资金 100.00 / 广度 64.21 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 冰川协议 | BSC | 加速中 | 强度 73.36 | 质量 69.02
-  - 主题摘要：Multiple tokens named 「冰川协议」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.73 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dragon Coin | BSC | 加速中 | 强度 73.08 | 质量 62.48
+- niggunc | Solana | 降温中 | 强度 76.70 | 质量 68.05
+  - 主题摘要：niggunc is a meme token inspired by internet culture, featuring a cartoon character with sunglasses in its logo. The token's creator, niggunc, shares a tweet with a unique token a…
+  - 资金 100.00 / 广度 63.67 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Viral Knight Video Symbolizing Hope | Solana | 降温中 | 强度 76.22 | 质量 64.81
+  - 主题摘要：According to Faith's post, a TikTok video featuring a knight symbolizing hope amid chaos has gained significant traction, accumulating over 21 million views and 3.6 million likes…
+  - 资金 100.00 / 广度 54.65 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Dragon Coin | BSC | 加速中 | 强度 75.31 | 质量 62.63
   - 主题摘要：Dragon Coin (龙头) is a DeFi token inspired by Chinese dragon mythology, featuring a black dragon logo with golden eyes. It implements a unique mining system with 4% transaction tax…
-  - 资金 100.00 / 广度 76.87 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.92 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pumpcade's Fundraising Success | Solana | 降温中 | 强度 73.04 | 质量 63.17
-  - 主题摘要：According to Pop Punk's post, Pumpcade raised $6M in two rounds over 12 days from major VCs despite initial resistance due to its live token model. The project leveraged community…
-  - 资金 100.00 / 广度 67.12 / 确认 9.36 / 脆弱性 14.00
+- 冰川协议 | BSC | 加速中 | 强度 74.76 | 质量 69.08
+  - 主题摘要：Multiple tokens named 「冰川协议」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.77 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Rock-Based Meme Token Concept | Solana | 降温中 | 强度 74.54 | 质量 62.19
+  - 主题摘要：According to him's post, a 'rock' has been symbolically assigned value, reflecting a conceptual approach to meme coins. The post inspired the creation of tokens such as rockinu, t…
+  - 资金 100.00 / 广度 79.99 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:When Bro Thinks He's Influential | BSC | 加速中 | 强度 72.04 | 质量 65.68
-  - 主题摘要：Annie 所长 shared a Meme image referencing the perceived influence of individuals within the crypto community, particularly using the term 'bro' in a humorous context. According to…
-  - 资金 100.00 / 广度 72.36 / 确认 23.76 / 脆弱性 14.00
+- 预测马 | BSC | 加速中 | 强度 74.26 | 质量 62.23
+  - 主题摘要：Multiple tokens named 「预测马」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.03 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SheepCoin DAO Dual-Token Model Launch | BSC | 加速中 | 强度 71.01 | 质量 67.57
-  - 主题摘要：According to 羊币🔶SheepCoin🦋's post, SheepCoin introduces a DAO-based dual-token model, positioning itself as a leader in resilient protocol design with community governance and no…
-  - 资金 100.00 / 广度 75.34 / 确认 27.36 / 脆弱性 14.00
+- NamDuong Panda | Solana | 加速中 | 强度 73.81 | 质量 57.26
+  - 主题摘要：Namduong Panda token draws inspiration from the iconic giant panda, featuring a smiling panda in its logo. The token's name and description 'The Laugh That Echoes Everywhere' sugg…
+  - 资金 100.00 / 广度 58.72 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- BNB Chain celebrates the weekend with a disco ball | BSC | 加速中 | 强度 73.10 | 质量 68.99
+  - 主题摘要：BNB Chain posted a celebratory message with a disco ball emoji, marking the arrival of the weekend. The lighthearted tone and visual flair make it a fun and relatable moment for c…
+  - 资金 100.00 / 广度 81.30 / 确认 30.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 潜龙 | BSC | 加速中 | 强度 70.98 | 质量 60.77
+  - 主题摘要：Multiple tokens named 「潜龙」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.62 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.38，其中已确认叙事 2 个。
-- Top Traders Ranking & An Xiaojiang Launch 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- UNC SLEAZE 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.3，其中已确认叙事 1 个。
+- NamDuong Panda 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- She's Not Interested 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Top Traders Ranking & An Xiaojiang Launch | 质量 85.36 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Wallet Launches Keyless Trader Leaderboard and Trencher Badge | 质量 79.71 | 可交易性 100.00 | 风险 低
-- Devon Sawa's Meme图 Involving DRTRUMP | 质量 76.09 | 可交易性 100.00 | 风险 低
-- UNC SLEAZE | 质量 70.17 | 可交易性 100.00 | 风险 低
-- 冰川协议 | 质量 69.02 | 可交易性 75.39 | 风险 低
-- Ivy ♡'s Token Incentive Strategy | 质量 68.43 | 可交易性 98.30 | 风险 低
-- SheepCoin DAO Dual-Token Model Launch | 质量 67.57 | 可交易性 89.99 | 风险 低
-- Uncertain:When Bro Thinks He's Influential | 质量 65.68 | 可交易性 73.31 | 风险 低
-- Meme Virality and Crypto Culture | 质量 64.59 | 可交易性 67.14 | 风险 低
-- She's Not Interested | 质量 64.14 | 可交易性 88.97 | 风险 低
+- Top Traders Ranking & An Xiaojiang Launch | 质量 84.61 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance Wallet Launches Keyless Trader Leaderboard and Trencher Badge | 质量 79.16 | 可交易性 100.00 | 风险 低
+- Devon Sawa's Meme图 Involving DRTRUMP | 质量 76.20 | 可交易性 100.00 | 风险 低
+- Kekius Maximus' New Character 'AzureArcFifth' Sparks Rumors | 质量 70.91 | 可交易性 100.00 | 风险 低
+- 冰川协议 | 质量 69.08 | 可交易性 75.56 | 风险 低
+- BNB Chain celebrates the weekend with a disco ball | 质量 68.99 | 可交易性 89.91 | 风险 低
+- niggunc | 质量 68.05 | 可交易性 100.00 | 风险 低
+- She's Not Interested | 质量 67.82 | 可交易性 88.72 | 风险 低
+- Viral Knight Video Symbolizing Hope | 质量 64.81 | 可交易性 94.53 | 风险 低
+- Dragon Coin | 质量 62.63 | 可交易性 53.91 | 风险 低
 
 ## 伪叙事风险
 
-- Devon Sawa's Meme图 Involving DRTRUMP | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Devon Sawa's Meme图 Involving DRTRUMP | 风险 47.79 | 原因：流动性偏薄
 - She's Not Interested | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -134,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Top Traders Ranking & An Xiaojiang Launch（BSC，分数 90.72）
-2. 共振最强代币：SIREN（BSC，共振 100.0）
-3. 记忆层变化：Top Traders Ranking & An Xiaojiang Launch 当前为“新出现”
+1. 当前最强叙事：Top Traders Ranking & An Xiaojiang Launch（BSC，分数 88.45）
+2. 共振最强代币：GENIUS（BSC，共振 100.0）
+3. 记忆层变化：Kekius Maximus' New Character 'AzureArcFifth' Sparks Rumors 当前为“新出现”
 4. 最新官方催化：Binance Earn: Subscribe to Discount Buy and Earn Up to 50% APR
 #Binance #NarrativeOS #OpenClaw
