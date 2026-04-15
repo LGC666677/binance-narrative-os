@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-15T20:38:36.894834+00:00
+- 生成时间：2026-04-15T21:34:01.038101+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Top Traders Ranking & An Xiaojiang Launch，所在链为 BSC，叙事强度 89.15。
-- 当前平均叙事强度为 80.45，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 ARIA，来自 BSC，共振分数 100.0。
-- 记忆层显示 Normie Coin Proposal 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Kusia the Stoat Meme Image Shared，伪叙事风险 47.23。
+- 当前最强叙事是 Top Traders Ranking & An Xiaojiang Launch，所在链为 BSC，叙事强度 86.89。
+- 当前平均叙事强度为 80.13，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
+- 记忆层显示 Bullcoin 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 币安改变人生，伪叙事风险 44.11。
 - 最新官方催化来自 币安最新公告：Introducing Binance Chat: Connect, Transact, and Trade All in One Place。
 
 ## 叙事雷达
 
-- Top Traders Ranking & An Xiaojiang Launch | BSC | 已确认 | 强度 89.15 | 质量 83.64
+- Top Traders Ranking & An Xiaojiang Launch | BSC | 已确认 | 强度 86.89 | 质量 83.63
   - 主题摘要：Binance launches a keyless wallet-based leaderboard and introduces 'An Xiaojiang' address tags, offering exclusive rewards for active users.
-  - 资金 100.00 / 广度 95.56 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.53 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Binance Wallet Launches Keyless Trader Leaderboard and Trencher Badge | BSC | 加速中 | 强度 84.45 | 质量 76.94
-  - 主题摘要：Binance Wallet has launched the Hot Ranking leaderboard and the Trencher address badge to recognize and reward active Keyless Wallet traders with exclusive benefits.
-  - 资金 100.00 / 广度 86.33 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Normie Coin Proposal | Solana | 已确认 | 强度 80.30 | 质量 68.81
-  - 主题摘要：According to Aura's post, a new token called $Normie is proposed as a simplified cryptocurrency to attract mainstream users back into crypto trading. This information is unverifie…
-  - 资金 100.00 / 广度 82.95 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Trump Blocks the Blockade at Hormuz | BSC | 已确认 | 强度 80.20 | 质量 80.18
-  - 主题摘要：According to DD Geopolitics's post, Pepe Escobar discusses a geopolitical scenario in which former U.S. President Donald Trump intervenes to block a maritime blockade at the Strai…
-  - 资金 100.00 / 广度 86.67 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- fart unc | Solana | 降温中 | 强度 79.84 | 质量 70.22
-  - 主题摘要：FARTUNC is a meme token inspired by internet humor, featuring a cartoon character with sunglasses and green gas coming out of its mouth. The token embraces absurdist humor with it…
-  - 资金 100.00 / 广度 67.20 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Kusia the Stoat Meme Image Shared | Solana | 点火期 | 强度 79.69 | 质量 77.58
+- Kusia the Stoat Meme Image Shared | Solana | 点火期 | 强度 82.29 | 质量 77.68
   - 主题摘要：Multiple tokens named 「READ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.44 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.80 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- AI-Driven Organizational Singularity | Solana | 加速中 | 强度 79.63 | 质量 78.97
-  - 主题摘要：Multiple tokens named 「AI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.46 / 确认 20.16 / 脆弱性 24.00
+- Uncertain:Binance Wallet Launches Keyless Trader Leaderboard and Trencher Badge | BSC | 加速中 | 强度 82.11 | 质量 76.79
+  - 主题摘要：Binance Wallet has launched the Hot Ranking leaderboard and the Trencher address badge to recognize and reward active Keyless Wallet traders with exclusive benefits.
+  - 资金 100.00 / 广度 86.35 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Launch of $monk Token by Pump | Solana | 降温中 | 强度 79.01 | 质量 68.58
-  - 主题摘要：Pump announced the launch of a token named $monk, representing a thematic concept centered around monk-like wisdom and spiritual irony. According to Pump's post, the token is meta…
-  - 资金 100.00 / 广度 61.75 / 确认 9.36 / 脆弱性 14.00
+- AI-Driven Organizational Singularity | Solana | 加速中 | 强度 81.02 | 质量 79.00
+  - 主题摘要：Multiple tokens named 「AI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.56 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Bullcoin | Solana | 降温中 | 强度 80.18 | 质量 66.53
+  - 主题摘要：$BULLCOIN is a Solana-based memecoin embodying the bullish spirit, offering hope amid market fear and leadership in chaos. Its rapid spread is fueled by KOL endorsements (e.g., @M…
+  - 资金 100.00 / 广度 87.57 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Attack on Sam Altman | Solana | 加速中 | 强度 78.26 | 质量 76.65
+- Trump Blocks the Blockade at Hormuz | BSC | 已确认 | 强度 80.01 | 质量 80.17
+  - 主题摘要：Pepe Escobar discusses geopolitical developments at the Strait of Hormuz and references Trump's role in blocking a blockade, according to DD Geopolitics's post.
+  - 资金 100.00 / 广度 86.64 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Attack on Sam Altman | Solana | 加速中 | 强度 79.63 | 质量 76.66
   - 主题摘要：According to The Wall Street Journal's post, a suspect in an attack on OpenAI CEO Sam Altman's California home was found carrying an 'Anti-AI' document listing AI executives. The…
-  - 资金 100.00 / 广度 87.28 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.37 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- A $10K college built for the AI era | Solana | 加速中 | 强度 78.12 | 质量 76.42
+- 币安改变人生 | BSC | 降温中 | 强度 79.52 | 质量 71.68
+  - 主题摘要：Binance Life is a meme token inspired by CZ's autobiography 'Binance Life', which quickly gained traction in the Chinese crypto community. The token's rapid rise was fueled by men…
+  - 资金 100.00 / 广度 72.08 / 确认 9.36 / 脆弱性 30.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- A $10K college built for the AI era | Solana | 加速中 | 强度 79.49 | 质量 76.43
   - 主题摘要：According to Axios's post, a $10,000 college has been built from scratch tailored for the AI era, aiming to provide accessible and future-focused education.
-  - 资金 100.00 / 广度 86.50 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.60 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- NASA's Upcoming AI Q&A Session | Solana | 加速中 | 强度 78.11 | 质量 76.39
+- NASA's Upcoming AI Q&A Session | Solana | 加速中 | 强度 79.47 | 质量 76.40
   - 主题摘要：Multiple tokens named 「AI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.41 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.50 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 潜龙 | BSC | 加速中 | 强度 76.89 | 质量 62.12
-  - 主题摘要：Multiple tokens named 「潜龙」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.61 / 确认 24.48 / 脆弱性 14.00
+- r/antiai Rebrands AI as Actual Imagination | Solana | 加速中 | 强度 79.47 | 质量 76.40
+  - 主题摘要：According to TarperDEV's post, the subreddit r/antiai is attempting to reframe the concept of AI by using the term 'Actual Imagination' to symbolize a movement that opposes artifi…
+  - 资金 100.00 / 广度 86.50 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Phaltron Claims Matt Furie's Funding Wallet Identified | BSC | 加速中 | 强度 76.73 | 质量 74.03
+- Supply Shock Strategy for Bottominu | Solana | 加速中 | 强度 79.47 | 质量 76.40
+  - 主题摘要：Multiple tokens named 「AI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.50 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Phaltron Claims Matt Furie's Funding Wallet Identified | BSC | 加速中 | 强度 76.50 | 质量 73.94
   - 主题摘要：According to Phaltron The Mastermind 🧠's post, a specific Ethereum wallet is identified as the original funder of Matt Furie's wallet, drawing attention to potential connections w…
-  - 资金 100.00 / 广度 84.30 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.34 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 预测马 | BSC | 加速中 | 强度 75.30 | 质量 62.69
+- 预测马 | BSC | 加速中 | 强度 75.75 | 质量 62.76
   - 主题摘要：Multiple tokens named 「预测马」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.85 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.91 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.45，其中已确认叙事 2 个。
-- Normie Coin Proposal 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- fart unc 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.13，其中已确认叙事 2 个。
+- r/antiai Rebrands AI as Actual Imagination 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Bullcoin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Top Traders Ranking & An Xiaojiang Launch | 质量 83.64 | 可交易性 100.00 | 风险 低
-- Trump Blocks the Blockade at Hormuz | 质量 80.18 | 可交易性 100.00 | 风险 低
-- AI-Driven Organizational Singularity | 质量 78.97 | 可交易性 100.00 | 风险 低
-- Kusia the Stoat Meme Image Shared | 质量 77.58 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Wallet Launches Keyless Trader Leaderboard and Trencher Badge | 质量 76.94 | 可交易性 92.19 | 风险 低
-- Attack on Sam Altman | 质量 76.65 | 可交易性 93.45 | 风险 低
-- A $10K college built for the AI era | 质量 76.42 | 可交易性 93.45 | 风险 低
-- NASA's Upcoming AI Q&A Session | 质量 76.39 | 可交易性 93.45 | 风险 低
-- Phaltron Claims Matt Furie's Funding Wallet Identified | 质量 74.03 | 可交易性 81.86 | 风险 低
-- fart unc | 质量 70.22 | 可交易性 100.00 | 风险 低
+- Top Traders Ranking & An Xiaojiang Launch | 质量 83.63 | 可交易性 100.00 | 风险 低
+- Trump Blocks the Blockade at Hormuz | 质量 80.17 | 可交易性 100.00 | 风险 低
+- AI-Driven Organizational Singularity | 质量 79.00 | 可交易性 100.00 | 风险 低
+- Kusia the Stoat Meme Image Shared | 质量 77.68 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance Wallet Launches Keyless Trader Leaderboard and Trencher Badge | 质量 76.79 | 可交易性 91.65 | 风险 低
+- Attack on Sam Altman | 质量 76.66 | 可交易性 93.37 | 风险 低
+- A $10K college built for the AI era | 质量 76.43 | 可交易性 93.37 | 风险 低
+- NASA's Upcoming AI Q&A Session | 质量 76.40 | 可交易性 93.37 | 风险 低
+- r/antiai Rebrands AI as Actual Imagination | 质量 76.40 | 可交易性 93.37 | 风险 低
+- Supply Shock Strategy for Bottominu | 质量 76.40 | 可交易性 93.37 | 风险 低
 
 ## 伪叙事风险
 
-- Kusia the Stoat Meme Image Shared | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- 币安改变人生 | 风险 44.11 | 原因：流动性偏薄、审计风险高
+- Kusia the Stoat Meme Image Shared | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Top Traders Ranking & An Xiaojiang Launch（BSC，分数 89.15）
-2. 共振最强代币：ARIA（BSC，共振 100.0）
-3. 记忆层变化：Normie Coin Proposal 当前为“新出现”
+1. 当前最强叙事：Top Traders Ranking & An Xiaojiang Launch（BSC，分数 86.89）
+2. 共振最强代币：RAVE（BSC，共振 100.0）
+3. 记忆层变化：Bullcoin 当前为“新出现”
 4. 最新官方催化：Introducing Binance Chat: Connect, Transact, and Trade All in One Place
 #Binance #NarrativeOS #OpenClaw
