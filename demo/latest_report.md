@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-16T16:12:37.571426+00:00
+- 生成时间：2026-04-16T17:42:05.902846+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Shitcoin Promotion and Awareness，所在链为 Solana，叙事强度 84.66。
-- 当前平均叙事强度为 79.93，其中已确认叙事 1 个。
+- 当前最强叙事是 Normie Coin Proposal，所在链为 Solana，叙事强度 85.03。
+- 当前平均叙事强度为 79.37，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 LOL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Ephyra AI 当前处于“新出现”状态。
+- 记忆层显示 Trump shares image of Jesus hugging him 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Genius Foundation Trading Competition: Trade Genius Foundation (GENIUS) and Share $200K Worth of Rewards。
 
 ## 叙事雷达
 
-- Shitcoin Promotion and Awareness | Solana | 降温中 | 强度 84.66 | 质量 78.17
-  - 主题摘要：According to shitcoin's post, a cryptocurrency project named shitcoin claims to be a real investment coin with no rug pulls or misinformation, featuring a trademarked name, doxxed…
-  - 资金 100.00 / 广度 88.43 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ephyra AI | Solana | 降温中 | 强度 83.77 | 质量 78.16
-  - 主题摘要：Multiple tokens named 「EPHYRA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.67 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Safety Skit: Palworld's Fatal Mistake | BSC | 已确认 | 强度 83.09 | 质量 82.57
-  - 主题摘要：Binance launches a safety awareness campaign through a short skit series, featuring a character named Palworld who makes a critical mistake related to device permissions. The humo…
-  - 资金 100.00 / 广度 92.00 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- JewDeng Meme Image Gains Attention | Solana | 降温中 | 强度 83.08 | 质量 74.27
-  - 主题摘要：According to The Investor's post, a Meme图 referencing a pygmy hippo at an Israeli zoo has inspired multiple cryptocurrency tokens named JEWDENG. The tokens appear to be Meme币 with…
-  - 资金 100.00 / 广度 82.04 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Normie Coin Proposal | Solana | 已确认 | 强度 82.48 | 质量 80.09
+- Normie Coin Proposal | Solana | 已确认 | 强度 85.03 | 质量 80.15
   - 主题摘要：According to Aura's post, a new cryptocurrency token named $Normie is proposed as a simplified means to re-engage mainstream users in crypto trading. The suggestion appears to be…
-  - 资金 100.00 / 广度 86.36 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.57 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- AiHelloAi | BSC | 加速中 | 强度 80.79 | 质量 74.70
+- Binance Safety Skit: Palworld's Fatal Mistake | BSC | 已确认 | 强度 84.41 | 质量 82.61
+  - 主题摘要：Binance launches a safety awareness campaign through a short skit series, featuring a character named Palworld who makes a critical mistake related to device permissions. The humo…
+  - 资金 100.00 / 广度 92.14 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Shitcoin Promotion and Awareness | Solana | 降温中 | 强度 83.19 | 质量 78.10
+  - 主题摘要：According to shitcoin's post, a cryptocurrency project named shitcoin claims to be a real investment coin with no rug pulls or misinformation, featuring a trademarked name, doxxed…
+  - 资金 100.00 / 广度 88.20 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trump shares image of Jesus hugging him | Solana | 加速中 | 强度 82.73 | 质量 79.65
+  - 主题摘要：According to The Independent's post, Donald Trump shared a social media image depicting Jesus hugging him, following previous backlash over an AI-generated deity portrayal of hims…
+  - 资金 100.00 / 广度 90.71 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Crypto Personality Test | BSC | 降温中 | 强度 82.58 | 质量 71.25
+  - 主题摘要：According to justadev ☄️'s post, a personality test themed around Binance and crypto culture has gained attention. The content appears to be related to tokens bearing similar them…
+  - 资金 100.00 / 广度 84.26 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- AiHelloAi | BSC | 加速中 | 强度 80.78 | 质量 74.70
   - 主题摘要：Multiple tokens named 「AHA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 74.22 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump says Iran war 'OVER' | Solana | 加速中 | 强度 76.37 | 质量 65.49
-  - 主题摘要：According to RT's post, Donald Trump stated that the Iran war is 'OVER'. The statement reflects a geopolitical narrative but lacks elaboration or confirmation.
-  - 资金 100.00 / 广度 77.15 / 确认 24.48 / 脆弱性 24.00
+- Bitcoin Long-Term Holders Resume Buying | Solana | 加速中 | 强度 80.66 | 质量 74.12
+  - 主题摘要：According to Crypto Rover's post, long-term Bitcoin holders are resuming purchases, indicating renewed confidence in Bitcoin's long-term value amid market volatility. The post sug…
+  - 资金 100.00 / 广度 72.27 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Peace and Conflict Philosophical Reflection | Solana | 加速中 | 强度 76.37 | 质量 65.49
-  - 主题摘要：Toly, co-founder of Solana Labs, engaged in a discussion regarding the nature of peace and conflict resolution, reflecting on the ethical implications of relinquishing possessions…
-  - 资金 100.00 / 广度 77.15 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Vance's Comments on Iran | Solana | 加速中 | 强度 76.37 | 质量 65.49
-  - 主题摘要：According to *Walter Bloomberg's post, Vance expressed confidence in the current stance regarding Iran. The statement reflects a political sentiment rather than a crypto or meme-r…
-  - 资金 100.00 / 广度 77.15 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Peaceful HODL Meme Image Shared | Solana | 加速中 | 强度 76.37 | 质量 65.50
-  - 主题摘要：According to The Ai Wizard's post, a viral Meme图 featuring a peaceful cat is being used to promote a more harmonious and less volatile crypto trading environment, encouraging trad…
-  - 资金 100.00 / 广度 77.13 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Top Traders Ranking & An Xiaojiang Launch | BSC | 加速中 | 强度 74.99 | 质量 71.00
-  - 主题摘要：Binance launches a keyless wallet-based leaderboard and introduces 'An Xiaojiang' address tags, offering exclusive rewards for active users.
-  - 资金 96.60 / 广度 88.76 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 首个通缩+分红双机制新协议 | BSC | 加速中 | 强度 74.55 | 质量 59.73
-  - 主题摘要：Multiple tokens named 「赛博屎壳郎」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.09 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 预测马 | BSC | 加速中 | 强度 72.46 | 质量 57.53
-  - 主题摘要：Multiple tokens named 「预测马」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.17 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Meme Coin Supercycle Discussion | BSC | 降温中 | 强度 70.97 | 质量 61.79
-  - 主题摘要：According to Flap 🦋's post, the concept of a memecoin supercycle is being discussed, indicating renewed market interest in meme-themed digital assets.
-  - 资金 100.00 / 广度 77.53 / 确认 16.56 / 脆弱性 24.00
+- Save the Kids Charity Initiative | Solana | 降温中 | 强度 77.35 | 质量 69.37
+  - 主题摘要：According to DRK's post, the 'Save the Kids' initiative aims to utilize creator fees from a token to support children in need, with full donation transparency. The project is live…
+  - 资金 100.00 / 广度 64.36 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- SnowFall Tech Addresses Pump.fun Token Bundling | Solana | 加速中 | 强度 75.90 | 质量 71.74
+  - 主题摘要：According to DegenAds's post, SnowFall Tech introduces airdrop technology to address token bundling on Pump.fun, where developers often distribute large token supplies and abandon…
+  - 资金 100.00 / 广度 83.12 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Top Traders Ranking & An Xiaojiang Launch | BSC | 加速中 | 强度 75.29 | 质量 71.74
+  - 主题摘要：Binance launches a keyless wallet-based leaderboard and introduces 'An Xiaojiang' address tags, offering exclusive rewards for active users.
+  - 资金 96.33 / 广度 88.45 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trump says Iran war 'OVER' | Solana | 加速中 | 强度 75.07 | 质量 65.40
+  - 主题摘要：According to RT's post, Donald Trump stated that the Iran war is 'OVER'. The statement reflects a geopolitical narrative but lacks elaboration or confirmation.
+  - 资金 100.00 / 广度 77.39 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Peace and Conflict Philosophical Reflection | Solana | 加速中 | 强度 75.00 | 质量 65.40
+  - 主题摘要：Toly, co-founder of Solana Labs, engaged in a discussion regarding the nature of peace and conflict resolution, reflecting on the ethical implications of relinquishing possessions…
+  - 资金 100.00 / 广度 77.38 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 预测马 | BSC | 加速中 | 强度 73.28 | 质量 58.78
+  - 主题摘要：Multiple tokens named 「预测马」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.91 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 癞格宝 | BSC | 加速中 | 强度 70.76 | 质量 58.90
+  - 主题摘要：Multiple tokens named 「癞格宝」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.11 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.93，其中已确认叙事 1 个。
-- Trump says Iran war 'OVER' 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.37，其中已确认叙事 1 个。
+- Trump shares image of Jesus hugging him 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Shitcoin Promotion and Awareness 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Safety Skit: Palworld's Fatal Mistake | 质量 82.57 | 可交易性 100.00 | 风险 低
-- Normie Coin Proposal | 质量 80.09 | 可交易性 100.00 | 风险 低
-- Shitcoin Promotion and Awareness | 质量 78.17 | 可交易性 100.00 | 风险 低
-- Ephyra AI | 质量 78.16 | 可交易性 100.00 | 风险 低
+- Binance Safety Skit: Palworld's Fatal Mistake | 质量 82.61 | 可交易性 100.00 | 风险 低
+- Normie Coin Proposal | 质量 80.15 | 可交易性 100.00 | 风险 低
+- Trump shares image of Jesus hugging him | 质量 79.65 | 可交易性 100.00 | 风险 低
+- Shitcoin Promotion and Awareness | 质量 78.10 | 可交易性 100.00 | 风险 低
 - AiHelloAi | 质量 74.70 | 可交易性 100.00 | 风险 低
-- JewDeng Meme Image Gains Attention | 质量 74.27 | 可交易性 93.37 | 风险 低
-- Top Traders Ranking & An Xiaojiang Launch | 质量 71.00 | 可交易性 91.27 | 风险 低
-- Peaceful HODL Meme Image Shared | 质量 65.50 | 可交易性 63.25 | 风险 低
-- Trump says Iran war 'OVER' | 质量 65.49 | 可交易性 63.20 | 风险 低
-- Peace and Conflict Philosophical Reflection | 质量 65.49 | 可交易性 63.21 | 风险 低
+- Bitcoin Long-Term Holders Resume Buying | 质量 74.12 | 可交易性 100.00 | 风险 低
+- SnowFall Tech Addresses Pump.fun Token Bundling | 质量 71.74 | 可交易性 75.41 | 风险 低
+- Top Traders Ranking & An Xiaojiang Launch | 质量 71.74 | 可交易性 90.67 | 风险 低
+- Binance Crypto Personality Test | 质量 71.25 | 可交易性 82.92 | 风险 低
+- Save the Kids Charity Initiative | 质量 69.37 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -97,15 +97,15 @@
 ## 信号台
 
 - 赫美斯 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- jelly | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BM | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PEPE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Goku | Solana | 看多 | 新鲜度 99.25 | 暂无直接叙事映射
 - 安小将 | BSC | 看多 | 新鲜度 92.27 | Top Traders Ranking & An Xiaojiang Launch
 - BNTI | BSC | 看多 | 新鲜度 83.90 | Binance Safety Skit: Palworld's Fatal Mistake
 - CBK | BSC | 看多 | 新鲜度 75.60 | 暂无直接叙事映射
-- CS | BSC | 看多 | 新鲜度 74.90 | 暂无直接叙事映射
 - BNBELIEF | BSC | 看多 | 新鲜度 74.31 | 暂无直接叙事映射
+- 共建 | BSC | 看多 | 新鲜度 66.38 | 暂无直接叙事映射
+- Punch | Solana | 看多 | 新鲜度 61.18 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Shitcoin Promotion and Awareness（Solana，分数 84.66）
+1. 当前最强叙事：Normie Coin Proposal（Solana，分数 85.03）
 2. 共振最强代币：LOL（Solana，共振 100.0）
-3. 记忆层变化：Ephyra AI 当前为“新出现”
+3. 记忆层变化：Trump shares image of Jesus hugging him 当前为“新出现”
 4. 最新官方催化：Genius Foundation Trading Competition: Trade Genius Foundation (GENIUS) and Share $200K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
