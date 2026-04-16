@@ -1,100 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-16T19:53:31.566849+00:00
+- 生成时间：2026-04-16T20:35:44.259085+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance Safety Skit: Palworld's Fatal Mistake，所在链为 BSC，叙事强度 84.99。
-- 当前平均叙事强度为 77.79，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 UNC，来自 Solana，共振分数 100.0。
-- 记忆层显示 Shit And Piss 500 Meme Coin Concept 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Elon Musk tweets about Doge and Mars，伪叙事风险 52.99。
+- 当前最强叙事是 Shitcoin Promotion and Awareness，所在链为 Solana，叙事强度 85.66。
+- 当前平均叙事强度为 77.89，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 MYSE，来自 Solana，共振分数 100.0。
+- 记忆层显示 Human Identity in AI Era 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Genius Foundation Trading Competition: Trade Genius Foundation (GENIUS) and Share $200K Worth of Rewards。
 
 ## 叙事雷达
 
-- Binance Safety Skit: Palworld's Fatal Mistake | BSC | 已确认 | 强度 84.99 | 质量 82.61
-  - 主题摘要：Binance launches a safety awareness campaign through a short skit series, featuring a character named Palworld who makes a critical mistake related to device permissions. The humo…
-  - 资金 100.00 / 广度 92.15 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Crypto Personality Test | BSC | 降温中 | 强度 84.08 | 质量 73.91
-  - 主题摘要：According to justadev ☄️'s post, the topic involves the tokens BNTI and 金铲贵族, which appear to be related to personality testing and tracking tools within the BNB Chain ecosystem.…
-  - 资金 100.00 / 广度 84.38 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Shitcoin Promotion and Awareness | Solana | 加速中 | 强度 84.00 | 质量 79.47
+- Shitcoin Promotion and Awareness | Solana | 加速中 | 强度 85.66 | 质量 79.45
   - 主题摘要：According to shitcoin's post, the token is described as a long-term investment with claims of being a real investment coin, having a fully doxxed developer, and an official YouTub…
-  - 资金 100.00 / 广度 87.49 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.42 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bitcoin Long-Term Holders Resume Buying | Solana | 加速中 | 强度 83.21 | 质量 74.32
+- Binance Crypto Personality Test | BSC | 降温中 | 强度 83.86 | 质量 73.54
+  - 主题摘要：According to justadev ☄️'s post, the topic involves the tokens BNTI and 金铲贵族, which appear to be related to personality testing and tracking tools within the BNB Chain ecosystem.…
+  - 资金 100.00 / 广度 84.31 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Safety Skit: Palworld's Fatal Mistake | BSC | 已确认 | 强度 83.66 | 质量 82.58
+  - 主题摘要：Binance launches a safety awareness campaign through a short skit series, featuring a character named Palworld who makes a critical mistake related to device permissions. The humo…
+  - 资金 100.00 / 广度 92.04 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Bitcoin Long-Term Holders Resume Buying | Solana | 加速中 | 强度 83.38 | 质量 74.38
   - 主题摘要：According to Crypto Rover's post, long-term Bitcoin holders are resuming purchases, indicating renewed confidence in Bitcoin's long-term value amid market volatility. The post sug…
-  - 资金 100.00 / 广度 72.95 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.15 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AiHelloAi | BSC | 加速中 | 强度 80.70 | 质量 74.72
+- AiHelloAi | BSC | 加速中 | 强度 80.50 | 质量 74.74
   - 主题摘要：Multiple tokens named 「AHA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.29 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.34 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Shit And Piss 500 Meme Coin Concept | Solana | 加速中 | 强度 75.86 | 质量 60.98
-  - 主题摘要：Multiple tokens named 「S&P500」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.01 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Top Traders Ranking & An Xiaojiang Launch | BSC | 加速中 | 强度 74.93 | 质量 71.51
-  - 主题摘要：Binance launches a keyless wallet-based leaderboard and introduces 'An Xiaojiang' address tags, offering exclusive rewards for active users.
-  - 资金 97.00 / 广度 88.16 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Anthony Promotes Monkey Meme Coin | Solana | 加速中 | 强度 74.10 | 质量 65.38
-  - 主题摘要：Anthony promotes a Meme image titled 'monkey' gaining popularity on X, referencing a previously viral Meme 'chicken in crisis' and highlighting its relevance in current crypto dis…
-  - 资金 100.00 / 广度 82.05 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mysterious Source of Income | Solana | 加速中 | 强度 73.95 | 质量 64.98
+- Mysterious Source of Income | Solana | 加速中 | 强度 77.73 | 质量 65.57
   - 主题摘要：According to The Sailor's post, a TikTok Meme image referencing 'suspicious source of income' and lifestyle role-playing (LARP) has inspired a crypto-themed narrative. The post su…
-  - 资金 100.00 / 广度 79.50 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 80.15 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SnowFall Tech Addresses Pump.fun Token Bundling | Solana | 加速中 | 强度 73.37 | 质量 67.19
-  - 主题摘要：According to DegenAds's post, SnowFall Tech introduces airdrop technology to address token bundling on Pump.fun, where developers often distribute large token supplies and abandon…
-  - 资金 100.00 / 广度 82.87 / 确认 28.08 / 脆弱性 14.00
+- Top Traders Ranking & An Xiaojiang Launch | BSC | 加速中 | 强度 77.16 | 质量 71.62
+  - 主题摘要：Binance launches a keyless wallet-based leaderboard and introduces 'An Xiaojiang' address tags, offering exclusive rewards for active users.
+  - 资金 100.00 / 广度 88.12 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Crypto Bros Dodging IRS Reporting | Solana | 加速中 | 强度 72.41 | 质量 66.22
-  - 主题摘要：Multiple tokens named 「IRS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.02 / 确认 20.16 / 脆弱性 24.00
+- Human Identity in AI Era | Solana | 加速中 | 强度 76.64 | 质量 67.55
+  - 主题摘要：According to devvy0x's post, the cryptocurrency token $human reflects a thematic focus on human identity and shared humanity amidst the rise of AI tokens. The message emphasizes t…
+  - 资金 100.00 / 广度 79.35 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk tweets about Doge and Mars | Solana | 点火期 | 强度 71.50 | 质量 70.26
-  - 主题摘要：Elon Musk, CEO of Tesla and founder of SpaceX, posted a cryptic tweet referencing Doge and Mars, sparking speculation and excitement in both crypto and tech communities.
-  - 资金 100.00 / 广度 91.15 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 预测马 | BSC | 加速中 | 强度 71.40 | 质量 58.04
-  - 主题摘要：Multiple tokens named 「预测马」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.09 / 确认 24.48 / 脆弱性 24.00
+- mum | Solana | 降温中 | 强度 76.35 | 质量 68.74
+  - 主题摘要：MUM token draws inspiration from the concept of motherhood, featuring a logo depicting a mother figure with sunglasses and a pearl necklace. Created by pumpdotmum, it embodies the…
+  - 资金 100.00 / 广度 62.27 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Shit And Piss 500 Meme Coin Concept | Solana | 加速中 | 强度 75.21 | 质量 62.24
+  - 主题摘要：Multiple tokens named 「S&P500」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.60 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 首个通缩+分红双机制新协议 | BSC | 加速中 | 强度 70.63 | 质量 55.11
-  - 主题摘要：Multiple tokens named 「赛博屎壳郎」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.23 / 确认 24.48 / 脆弱性 14.00
+- Uncertain:Binance MENA's Nostalgic Message | BSC | 加速中 | 强度 75.16 | 质量 59.20
+  - 主题摘要：According to Binance MENA's post, the message reflects on the evolution from the Nokia era to the present, emphasizing continuity of ambition and innovation in the digital space.
+  - 资金 100.00 / 广度 72.22 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:致 CZ and Yi He | BSC | 加速中 | 强度 75.16 | 质量 59.20
+  - 主题摘要：According to 哪吒（沉淀版）'s post, the message is addressed to CZ (Zhao Changpeng) and Yi He, likely expressing support or commentary on their role in the crypto industry.
+  - 资金 100.00 / 广度 72.22 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Anthony Promotes Monkey Meme Coin | Solana | 加速中 | 强度 74.58 | 质量 65.48
+  - 主题摘要：Anthony promotes a Meme image titled 'monkey' gaining popularity on X, referencing a previously viral Meme 'chicken in crisis' and highlighting its relevance in current crypto dis…
+  - 资金 100.00 / 广度 82.10 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Fertilizer Prices Surge Amid Middle East Instability | Solana | 降温中 | 强度 73.59 | 质量 63.77
+  - 主题摘要：According to Mario Nawfal's post, fertilizer prices, particularly urea, have surged past $720 per ton due to rapid disruptions in supply routes through the Middle East. This insta…
+  - 资金 100.00 / 广度 54.89 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.79，其中已确认叙事 1 个。
-- Shit And Piss 500 Meme Coin Concept 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.89，其中已确认叙事 0 个。
+- Human Identity in AI Era 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Binance Crypto Personality Test 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Safety Skit: Palworld's Fatal Mistake | 质量 82.61 | 可交易性 100.00 | 风险 低
-- Shitcoin Promotion and Awareness | 质量 79.47 | 可交易性 100.00 | 风险 低
-- AiHelloAi | 质量 74.72 | 可交易性 100.00 | 风险 低
-- Bitcoin Long-Term Holders Resume Buying | 质量 74.32 | 可交易性 100.00 | 风险 低
-- Binance Crypto Personality Test | 质量 73.91 | 可交易性 92.49 | 风险 低
-- Top Traders Ranking & An Xiaojiang Launch | 质量 71.51 | 可交易性 90.67 | 风险 低
-- Elon Musk tweets about Doge and Mars | 质量 70.26 | 可交易性 94.73 | 风险 低
-- SnowFall Tech Addresses Pump.fun Token Bundling | 质量 67.19 | 可交易性 60.50 | 风险 低
-- Crypto Bros Dodging IRS Reporting | 质量 66.22 | 可交易性 66.93 | 风险 低
-- Anthony Promotes Monkey Meme Coin | 质量 65.38 | 可交易性 57.92 | 风险 低
+- Binance Safety Skit: Palworld's Fatal Mistake | 质量 82.58 | 可交易性 100.00 | 风险 低
+- Shitcoin Promotion and Awareness | 质量 79.45 | 可交易性 100.00 | 风险 低
+- AiHelloAi | 质量 74.74 | 可交易性 100.00 | 风险 低
+- Bitcoin Long-Term Holders Resume Buying | 质量 74.38 | 可交易性 100.00 | 风险 低
+- Binance Crypto Personality Test | 质量 73.54 | 可交易性 91.33 | 风险 低
+- Top Traders Ranking & An Xiaojiang Launch | 质量 71.62 | 可交易性 90.67 | 风险 低
+- mum | 质量 68.74 | 可交易性 100.00 | 风险 低
+- Human Identity in AI Era | 质量 67.55 | 可交易性 67.88 | 风险 低
+- Mysterious Source of Income | 质量 65.57 | 可交易性 60.48 | 风险 低
+- Anthony Promotes Monkey Meme Coin | 质量 65.48 | 可交易性 58.23 | 风险 低
 
 ## 伪叙事风险
 
-- Elon Musk tweets about Doge and Mars | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -107,7 +105,7 @@
 - CBK | BSC | 看多 | 新鲜度 75.60 | 暂无直接叙事映射
 - BNBELIEF | BSC | 看多 | 新鲜度 74.31 | 暂无直接叙事映射
 - 共建 | BSC | 看多 | 新鲜度 66.38 | 暂无直接叙事映射
-- SIREN | BSC | 看多 | 新鲜度 61.72 | 暂无直接叙事映射
+- SIREN | BSC | 看多 | 新鲜度 61.90 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance Safety Skit: Palworld's Fatal Mistake（BSC，分数 84.99）
-2. 共振最强代币：UNC（Solana，共振 100.0）
-3. 记忆层变化：Shit And Piss 500 Meme Coin Concept 当前为“新出现”
+1. 当前最强叙事：Shitcoin Promotion and Awareness（Solana，分数 85.66）
+2. 共振最强代币：MYSE（Solana，共振 100.0）
+3. 记忆层变化：Human Identity in AI Era 当前为“新出现”
 4. 最新官方催化：Genius Foundation Trading Competition: Trade Genius Foundation (GENIUS) and Share $200K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
