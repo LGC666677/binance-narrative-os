@@ -1,102 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-17T21:00:41.153758+00:00
+- 生成时间：2026-04-17T21:57:54.397008+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Euphoria: Reviving the Trenches，所在链为 Solana，叙事强度 84.13。
-- 当前平均叙事强度为 78.55，其中已确认叙事 0 个。
+- 当前最强叙事是 Elon Musk: Doge to Mars，所在链为 BSC，叙事强度 86.25。
+- 当前平均叙事强度为 73.81，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
-- 记忆层显示 Wasabi Cheese 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Launch of $LAIKA Token Inspired by Space Dog Laika，伪叙事风险 42.03。
+- 记忆层显示 XERO 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Euphoria: Reviving the Trenches，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards。
 
 ## 叙事雷达
 
-- Euphoria: Reviving the Trenches | Solana | 降温中 | 强度 84.13 | 质量 77.50
-  - 主题摘要：According to euphoria's post, the Euphoria project aims to revive optimism and positive sentiment in the cryptocurrency space through a self-fulfilling prophecy of good vibes.
-  - 资金 100.00 / 广度 86.19 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk: Doge to Mars | BSC | 已确认 | 强度 83.64 | 质量 84.85
+- Elon Musk: Doge to Mars | BSC | 已确认 | 强度 86.25 | 质量 86.55
   - 主题摘要：Elon Musk tweeted a rocket emoji and 'Doge to Mars' in reply to a fan's comment about using DOGE for space travel, reigniting meme-driven crypto enthusiasm.
-  - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 24.00
+  - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Microstrategy Bitcoin Reserve | Solana | 降温中 | 强度 80.21 | 质量 72.84
+- Euphoria: Reviving the Trenches | Solana | 降温中 | 强度 81.70 | 质量 76.08
+  - 主题摘要：According to euphoria's post, Euphoria represents a resurgence of optimism and excitement within the crypto space, described as the peak of the trenches and a self-fulfilling prop…
+  - 资金 100.00 / 广度 86.73 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Tsuki and Floki-Inspired Asteroid | Solana | 降温中 | 强度 80.11 | 质量 71.56
+  - 主题摘要：According to Rebecca Perrotto's post, the asteroid was named after Elons dog Floki, and Tsuki was adopted after the asteroid's creation. This information is based on personal narr…
+  - 资金 100.00 / 广度 89.16 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk Announces Flōki as New CEO | Solana | 降温中 | 强度 80.05 | 质量 71.50
+  - 主题摘要：Elon Musk announced that Flōki has resumed the role of CEO of X, referencing a token deployment link. The message implies a humorous or symbolic gesture rather than a literal corp…
+  - 资金 100.00 / 广度 89.51 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- XERO | Solana | 加速中 | 强度 79.69 | 质量 70.79
+  - 主题摘要：Multiple tokens named 「XERO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 61.70 / 确认 19.44 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Microstrategy Bitcoin Reserve | Solana | 降温中 | 强度 78.88 | 质量 72.72
   - 主题摘要：USHIBAKE announced a strategy to use developer fees to purchase Bitcoin on Solana and reward long-term holders, positioning Bitcoin as the premier crypto asset.
-  - 资金 100.00 / 广度 74.77 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.40 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Tsuki and Floki-Inspired Asteroid | Solana | 降温中 | 强度 79.90 | 质量 71.65
-  - 主题摘要：According to Rebecca Perrotto's post, the asteroid was named after Elons dog Floki, and Tsuki was adopted afterward. The connection between the asteroid and the individual is desc…
-  - 资金 100.00 / 广度 88.92 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Wasabi Cheese | Solana | 加速中 | 强度 79.67 | 质量 74.04
+- Meme Image Precedence in Bitcoin Search | Solana | 加速中 | 强度 76.91 | 质量 75.01
+  - 主题摘要：According to Bob's post, searching for 'BITCOIN' on the platform surfaces a meme version before the actual asset. This observation highlights a potential trend in search-driven vi…
+  - 资金 100.00 / 广度 84.86 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Wasabi Cheese | Solana | 加速中 | 强度 76.60 | 质量 74.28
   - 主题摘要：Wasabi Cheese token features a cute, cartoon-style wasabi emoji with expressive eyes and a pink tongue. Inspired by Japanese culinary culture, it aims to blend humor with blockcha…
-  - 资金 100.00 / 广度 73.06 / 确认 18.72 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.36 / 确认 19.44 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Announces Flōki as New CEO | Solana | 降温中 | 强度 79.50 | 质量 71.14
-  - 主题摘要：Elon Musk announced that Flōki has resumed the role of CEO of X (formerly Twitter), referencing a symbolic or humorous appointment tied to the Flōki token ecosystem. The post impl…
-  - 资金 100.00 / 广度 87.76 / 确认 9.36 / 脆弱性 24.00
+- The Bull Starter Meme Image | Solana | 降温中 | 强度 76.23 | 质量 62.39
+  - 主题摘要：According to vibooor's post, a trending article describes a girl licking the Wall Street bull statue, being humorously credited with initiating a new crypto bull run, and linked t…
+  - 资金 100.00 / 广度 74.65 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GIGA VIRAL Meme Image Trend | Solana | 加速中 | 强度 78.21 | 质量 64.20
-  - 主题摘要：According to Xibri's post, a Meme image titled 'Generational Crashout' has gained significant traction online, accumulating 6 million views within five hours of posting. The Meme…
-  - 资金 100.00 / 广度 79.68 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 蝴蝶首个日月协议 | BSC | 加速中 | 强度 75.17 | 质量 60.26
-  - 主题摘要：Multiple tokens named 「日」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.85 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon's signature is the signal | Solana | 加速中 | 强度 73.57 | 质量 71.12
-  - 主题摘要：Elon Musk's signature is referenced as a symbolic signal in the context of cryptocurrency speculation. The post implies significance is being attached to Musk's endorsement or inv…
-  - 资金 100.00 / 广度 92.88 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of $LAIKA Token Inspired by Space Dog Laika | Solana | 点火期 | 强度 73.18 | 质量 62.30
-  - 主题摘要：According to anondev777's post, a Meme coin named after Laika, the first animal to orbit Earth, is being promoted with a promise of 100% buyback and DEX listing at 15k holders. Th…
-  - 资金 100.00 / 广度 81.75 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- XFLAP | BSC | 加速中 | 强度 72.03 | 质量 64.29
+- XFLAP | BSC | 加速中 | 强度 73.41 | 质量 64.34
   - 主题摘要：Multiple tokens named 「XFLAP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.55 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.58 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 癞格宝 | BSC | 加速中 | 强度 70.62 | 质量 56.31
-  - 主题摘要：Multiple tokens named 「癞格宝」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.27 / 确认 24.48 / 脆弱性 14.00
+- 蝴蝶首个日月协议 | BSC | 加速中 | 强度 72.85 | 质量 60.18
+  - 主题摘要：Multiple tokens named 「日」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.01 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Safety Skit: Palworld's Fatal Mistake | BSC | 加速中 | 强度 70.57 | 质量 66.50
-  - 主题摘要：Binance launches a safety awareness campaign through a short skit series, featuring a character named Palworld who makes a critical mistake related to device permissions. The humo…
-  - 资金 100.00 / 广度 84.12 / 确认 34.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:AI and Cryptocurrency Usage | BSC | 加速中 | 强度 69.99 | 质量 59.85
+- Uncertain:AI and Cryptocurrency Usage | BSC | 加速中 | 强度 71.33 | 质量 59.88
   - 主题摘要：According to Sunshine's post, many individuals are misapplying AI in cryptocurrency practices. Binance Academy has released a free course to educate users on the correct integrati…
-  - 资金 100.00 / 广度 67.52 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 67.56 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- MizoraFi | BSC | 加速中 | 强度 70.56 | 质量 53.91
+  - 主题摘要：Multiple tokens named 「MIZORA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.82 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Safety Skit: Palworld's Fatal Mistake | BSC | 加速中 | 强度 68.44 | 质量 70.03
+  - 主题摘要：Binance launches a safety awareness campaign through a short skit series, featuring a character named Palworld who makes a critical mistake related to device permissions. The humo…
+  - 资金 85.18 / 广度 84.03 / 确认 34.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.55，其中已确认叙事 0 个。
-- Wasabi Cheese 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 73.81，其中已确认叙事 1 个。
+- XERO 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Euphoria: Reviving the Trenches 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk: Doge to Mars | 质量 84.85 | 可交易性 100.00 | 风险 低
-- Euphoria: Reviving the Trenches | 质量 77.50 | 可交易性 100.00 | 风险 低
-- Wasabi Cheese | 质量 74.04 | 可交易性 100.00 | 风险 低
-- Microstrategy Bitcoin Reserve | 质量 72.84 | 可交易性 98.54 | 风险 低
-- Tsuki and Floki-Inspired Asteroid | 质量 71.65 | 可交易性 83.05 | 风险 低
-- Elon Musk Announces Flōki as New CEO | 质量 71.14 | 可交易性 82.51 | 风险 低
-- Elon's signature is the signal | 质量 71.12 | 可交易性 95.95 | 风险 低
-- Binance Safety Skit: Palworld's Fatal Mistake | 质量 66.50 | 可交易性 95.68 | 风险 低
-- XFLAP | 质量 64.29 | 可交易性 58.81 | 风险 低
-- GIGA VIRAL Meme Image Trend | 质量 64.20 | 可交易性 56.38 | 风险 低
+- Elon Musk: Doge to Mars | 质量 86.55 | 可交易性 100.00 | 风险 低
+- Euphoria: Reviving the Trenches | 质量 76.08 | 可交易性 100.00 | 风险 低
+- Meme Image Precedence in Bitcoin Search | 质量 75.01 | 可交易性 90.40 | 风险 低
+- Wasabi Cheese | 质量 74.28 | 可交易性 100.00 | 风险 低
+- Microstrategy Bitcoin Reserve | 质量 72.72 | 可交易性 98.51 | 风险 低
+- Tsuki and Floki-Inspired Asteroid | 质量 71.56 | 可交易性 82.50 | 风险 低
+- Elon Musk Announces Flōki as New CEO | 质量 71.50 | 可交易性 81.96 | 风险 低
+- XERO | 质量 70.79 | 可交易性 100.00 | 风险 低
+- Binance Safety Skit: Palworld's Fatal Mistake | 质量 70.03 | 可交易性 95.68 | 风险 低
+- XFLAP | 质量 64.34 | 可交易性 58.92 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Launch of $LAIKA Token Inspired by Space Dog Laika | 风险 42.03 | 原因：流动性偏薄
-- Tsuki and Floki-Inspired Asteroid | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Elon Musk Announces Flōki as New CEO | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Euphoria: Reviving the Trenches | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -135,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Euphoria: Reviving the Trenches（Solana，分数 84.13）
+1. 当前最强叙事：Elon Musk: Doge to Mars（BSC，分数 86.25）
 2. 共振最强代币：XRP（BSC，共振 100.0）
-3. 记忆层变化：Wasabi Cheese 当前为“新出现”
+3. 记忆层变化：XERO 当前为“新出现”
 4. 最新官方催化：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
