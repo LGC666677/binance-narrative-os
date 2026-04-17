@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-17T14:05:46.110497+00:00
+- 生成时间：2026-04-17T15:12:20.859328+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
-- 高风险伪叙事：0
+- 已确认叙事：2
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Elon Musk: Doge to Mars，所在链为 Solana，叙事强度 91.84。
-- 当前平均叙事强度为 74.37，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 ASTROID，来自 Solana，共振分数 100.0。
-- 记忆层显示 Space Plush Deployment by Childhood Cancer Survivors 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Space Plush Deployment by Childhood Cancer Survivors，伪叙事风险 44.91。
+- 当前最强叙事是 Elon Musk: Doge to Mars，所在链为 Solana，叙事强度 87.17。
+- 当前平均叙事强度为 79.74，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 PENGU，来自 Solana，共振分数 100.0。
+- 记忆层显示 Ketsu Pillow Product Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Space Plush Deployment by Childhood Cancer Survivors，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards。
 
 ## 叙事雷达
 
-- Elon Musk: Doge to Mars | Solana | 已确认 | 强度 91.84 | 质量 86.24
+- Elon Musk: Doge to Mars | Solana | 已确认 | 强度 87.17 | 质量 84.81
   - 主题摘要：Elon Musk tweeted a rocket emoji and 'Doge to Mars' in reply to a fan's comment about using DOGE for space travel, reigniting meme-driven crypto enthusiasm.
-  - 资金 100.00 / 广度 100.00 / 确认 37.44 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 30.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon Musk: Doge to Mars | BSC | 已确认 | 强度 85.62 | 质量 86.55
+- Elon Musk: Doge to Mars | BSC | 已确认 | 强度 85.32 | 质量 86.55
   - 主题摘要：Elon Musk tweeted a rocket emoji and 'Doge to Mars' in reply to a fan's comment about using DOGE for space travel, reigniting meme-driven crypto enthusiasm.
   - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Liv Perrotto's Unanswered Questions for Elon Musk | Solana | 加速中 | 强度 84.05 | 质量 81.74
-  - 主题摘要：According to Glenn Beck's post, Liv Perrotto, a young fan of Elon Musk who passed away from cancer, had prepared a list of questions for him. Her mother shared that Liv was too we…
-  - 资金 100.00 / 广度 95.05 / 确认 23.76 / 脆弱性 24.00
+- Ketsu Pillow Product Launch | Solana | 加速中 | 强度 84.14 | 质量 75.72
+  - 主题摘要：According to ひねくれ坊's post, a Meme image promoting a product called 'ケツ枕' (Ass Pillow) is being shared, referencing related cryptocurrency tokens with similar themes. This appears…
+  - 资金 100.00 / 广度 74.98 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Misspelled Word in Post | Solana | 已确认 | 强度 81.15 | 质量 80.10
-  - 主题摘要：According to nolan's post, there is a spelling error in the word 'MAIN' in a referenced article, which was shared in the context of a discussion involving Glenn Beck and Rebecca P…
-  - 资金 100.00 / 广度 87.74 / 确认 30.24 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Asteroid aura | Solana | 加速中 | 强度 80.28 | 质量 75.14
-  - 主题摘要：Multiple tokens named 「Asteraura」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.67 / 确认 20.16 / 脆弱性 14.00
+- Liv Perrotto's Unanswered Questions for Elon Musk | Solana | 加速中 | 强度 83.49 | 质量 81.74
+  - 主题摘要：Elon Musk was presented with a list of unanswered questions from Liv Perrotto, a late fan of his, which included inquiries about his potential phone, Tesla Diner expansion, new Te…
+  - 资金 100.00 / 广度 95.03 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Microstrategy Bitcoin Reserve | Solana | 降温中 | 强度 79.13 | 质量 73.24
+- Microstrategy Bitcoin Reserve | Solana | 降温中 | 强度 79.86 | 质量 73.15
   - 主题摘要：USHIBAKE announced a strategy to use developer fees to purchase Bitcoin on Solana and reward long-term holders, positioning Bitcoin as the premier crypto asset.
-  - 资金 100.00 / 广度 76.09 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.02 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Repetitive Crypto Optimism Quote | Solana | 降温中 | 强度 78.78 | 质量 63.67
+- Repetitive Crypto Optimism Quote | Solana | 降温中 | 强度 77.52 | 质量 63.57
   - 主题摘要：According to Ayush's post, the phrase 'I AM EXTREMELY OPTIMISTIC ABOUT THE FUTURE OF CRYPTOCURRENCY' is being repeatedly tweeted every second, creating a viral pattern on X. This…
-  - 资金 100.00 / 广度 88.99 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.99 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Space Plush Deployment by Childhood Cancer Survivors | Solana | 点火期 | 强度 75.90 | 质量 71.15
-  - 主题摘要：According to testing's post, Hayley Arceneaux deployed a zero-g plush named 'Jude' during the Inspiration4 mission in 2021, followed by Liv Perroto with 'Asteroid' on Polaris Dawn…
-  - 资金 100.00 / 广度 87.23 / 确认 12.96 / 脆弱性 14.00
+- Misspelled Word in Post | Solana | 加速中 | 强度 76.78 | 质量 77.65
+  - 主题摘要：According to nolan's post, there is a spelling error in the word 'MAIN' in a referenced article, which was shared in the context of a discussion involving Glenn Beck and Rebecca P…
+  - 资金 100.00 / 广度 87.66 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Perfectly Useless Cryptocurrency | Solana | 点火期 | 强度 74.58 | 质量 68.75
+  - 主题摘要：According to feeless coin deployments (fee sometimes)'s post, the term 'Perfectly Useless Cryptocurrency' refers to a thematic critique or commentary on certain crypto projects th…
+  - 资金 100.00 / 广度 77.35 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Astarded | Solana | 降温中 | 强度 75.70 | 质量 69.44
-  - 主题摘要：ASTARTED is a meme token inspired by the 'Astarded' meme, featuring a cartoon dog with a headband and glasses. The token's logo depicts a Shiba Inu character with a playful expres…
-  - 资金 100.00 / 广度 64.61 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- XFLAP | BSC | 加速中 | 强度 75.10 | 质量 64.43
-  - 主题摘要：Multiple tokens named 「XFLAP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.80 / 确认 24.48 / 脆弱性 14.00
+- Space Plush Deployment by Childhood Cancer Survivors | Solana | 点火期 | 强度 74.39 | 质量 71.01
+  - 主题摘要：According to testing's post, Hayley Arceneaux deployed a zero-g plush named 'Jude' during the Inspiration4 mission in 2021, followed by Liv Perroto with 'Asteroid' on Polaris Dawn…
+  - 资金 100.00 / 广度 87.26 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 首枚空投代币 | BSC | 加速中 | 强度 72.80 | 质量 58.51
+  - 主题摘要：Multiple tokens named 「币安空投」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.83 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Safety Skit: Palworld's Fatal Mistake | BSC | 加速中 | 强度 74.32 | 质量 72.78
+- Binance Safety Skit: Palworld's Fatal Mistake | BSC | 加速中 | 强度 72.58 | 质量 73.14
   - 主题摘要：Binance launches a safety awareness campaign through a short skit series, featuring a character named Palworld who makes a critical mistake related to device permissions. The humo…
-  - 资金 100.00 / 广度 86.21 / 确认 34.56 / 脆弱性 24.00
+  - 资金 92.84 / 广度 85.61 / 确认 34.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 燃烧人生 | BSC | 加速中 | 强度 70.72 | 质量 58.29
-  - 主题摘要：燃烧人生 (Burn Life) is a meme token inspired by the concept of embracing life's challenges with resilience. It embodies the philosophy of 'burning through life' to achieve success, r…
-  - 资金 100.00 / 广度 70.96 / 确认 20.16 / 脆弱性 24.00
+- XFLAP | BSC | 加速中 | 强度 72.49 | 质量 64.24
+  - 主题摘要：Multiple tokens named 「XFLAP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.95 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AiHelloAi | BSC | 降温中 | 强度 70.48 | 质量 61.10
-  - 主题摘要：Multiple tokens named 「AHA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.06 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:AI and Cryptocurrency Usage | BSC | 加速中 | 强度 69.96 | 质量 59.83
+- Uncertain:AI and Cryptocurrency Usage | BSC | 加速中 | 强度 71.36 | 质量 59.86
   - 主题摘要：According to Sunshine's post, many individuals are misapplying AI in cryptocurrency practices. Binance Academy has released a free course to educate users on the correct integrati…
-  - 资金 100.00 / 广度 67.45 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 67.48 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- WinVault Bidirectional Yield Protocol Analysis | BSC | 加速中 | 强度 67.84 | 质量 60.42
+  - 主题摘要：According to WinVault's post, the protocol operates on a dual-yield model where winners receive 90% of their opponent's tokens and losers receive BNB rewards equivalent to twice t…
+  - 资金 100.00 / 广度 75.58 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 74.37，其中已确认叙事 1 个。
-- Space Plush Deployment by Childhood Cancer Survivors 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.74，其中已确认叙事 1 个。
+- Ketsu Pillow Product Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Microstrategy Bitcoin Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Elon Musk: Doge to Mars | 质量 86.55 | 可交易性 100.00 | 风险 低
-- Elon Musk: Doge to Mars | 质量 86.24 | 可交易性 100.00 | 风险 低
+- Elon Musk: Doge to Mars | 质量 84.81 | 可交易性 100.00 | 风险 低
 - Liv Perrotto's Unanswered Questions for Elon Musk | 质量 81.74 | 可交易性 100.00 | 风险 低
-- Misspelled Word in Post | 质量 80.10 | 可交易性 97.09 | 风险 低
-- Asteroid aura | 质量 75.14 | 可交易性 100.00 | 风险 低
-- Microstrategy Bitcoin Reserve | 质量 73.24 | 可交易性 98.53 | 风险 低
-- Binance Safety Skit: Palworld's Fatal Mistake | 质量 72.78 | 可交易性 95.99 | 风险 低
-- Space Plush Deployment by Childhood Cancer Survivors | 质量 71.15 | 可交易性 80.44 | 风险 低
-- Astarded | 质量 69.44 | 可交易性 100.00 | 风险 低
-- XFLAP | 质量 64.43 | 可交易性 60.01 | 风险 低
+- Misspelled Word in Post | 质量 77.65 | 可交易性 95.57 | 风险 低
+- Ketsu Pillow Product Launch | 质量 75.72 | 可交易性 100.00 | 风险 低
+- Microstrategy Bitcoin Reserve | 质量 73.15 | 可交易性 98.31 | 风险 低
+- Binance Safety Skit: Palworld's Fatal Mistake | 质量 73.14 | 可交易性 95.77 | 风险 低
+- Space Plush Deployment by Childhood Cancer Survivors | 质量 71.01 | 可交易性 79.94 | 风险 低
+- Perfectly Useless Cryptocurrency | 质量 68.75 | 可交易性 90.02 | 风险 低
+- XFLAP | 质量 64.24 | 可交易性 59.23 | 风险 低
 
 ## 伪叙事风险
 
-- Space Plush Deployment by Childhood Cancer Survivors | 风险 44.91 | 原因：流动性偏薄
+- Space Plush Deployment by Childhood Cancer Survivors | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Perfectly Useless Cryptocurrency | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -103,7 +104,7 @@
 - ASTEROID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PEPE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Goku | Solana | 看多 | 新鲜度 99.25 | 暂无直接叙事映射
-- MGC | BSC | 看多 | 新鲜度 90.31 | 暂无直接叙事映射
+- MGC | BSC | 看多 | 新鲜度 89.11 | 暂无直接叙事映射
 - SIREN | BSC | 看多 | 新鲜度 88.08 | 暂无直接叙事映射
 - 安小将 | BSC | 看多 | 新鲜度 80.27 | 暂无直接叙事映射
 - BNBELIEF | BSC | 看多 | 新鲜度 74.31 | 暂无直接叙事映射
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Elon Musk: Doge to Mars（Solana，分数 91.84）
-2. 共振最强代币：ASTROID（Solana，共振 100.0）
-3. 记忆层变化：Space Plush Deployment by Childhood Cancer Survivors 当前为“新出现”
+1. 当前最强叙事：Elon Musk: Doge to Mars（Solana，分数 87.17）
+2. 共振最强代币：PENGU（Solana，共振 100.0）
+3. 记忆层变化：Ketsu Pillow Product Launch 当前为“新出现”
 4. 最新官方催化：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
