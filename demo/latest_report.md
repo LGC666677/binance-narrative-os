@@ -1,101 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-18T19:13:27.214380+00:00
+- 生成时间：2026-04-18T19:52:09.372417+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Elon Musk: Doge to Mars，所在链为 BSC，叙事强度 90.37。
-- 当前平均叙事强度为 74.15，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 GENIUS，来自 BSC，共振分数 100.0。
-- 记忆层显示 Elon Musk: Doge to Mars 当前处于“强化”状态。
-- 当前最需要防止误判的叙事是 Nietzschean Pigeon $PIGEON Launch Announcement，伪叙事风险 47.23。
+- 当前最强叙事是 UNCEROID，所在链为 Solana，叙事强度 89.18。
+- 当前平均叙事强度为 78.55，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
+- 记忆层显示 nostalgicgareth Bought a Star Named Solana 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Rebecca Perrotto and Meme Coin Misattribution，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards。
 
 ## 叙事雷达
 
-- Elon Musk: Doge to Mars | BSC | 已确认 | 强度 90.37 | 质量 84.84
-  - 主题摘要：Elon Musk tweeted a rocket emoji and 'Doge to Mars' in reply to a fan's comment about using DOGE for space travel, reigniting meme-driven crypto enthusiasm.
-  - 资金 100.00 / 广度 91.65 / 确认 42.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- UNCEROID | Solana | 加速中 | 强度 88.49 | 质量 79.62
+- UNCEROID | Solana | 加速中 | 强度 89.18 | 质量 79.88
   - 主题摘要：UNCEROID is a meme token inspired by the concept of an asteroid with a cute, cat-like appearance. The token features a plush toy character with sunglasses, embodying the playful '…
-  - 资金 100.00 / 广度 87.44 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 88.30 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dumbo Crashout Meme Coin Discussion | Solana | 加速中 | 强度 86.27 | 质量 78.83
-  - 主题摘要：According to h's post, the Dumbo Crashout Meme图 has been associated with multiple cryptocurrency tokens, some of which reference deployment links or speculative narratives. The po…
-  - 资金 100.00 / 广度 84.81 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump Power Stance at Press Event | Solana | 降温中 | 强度 85.38 | 质量 77.84
+- Elon Musk: Doge to Mars | BSC | 已确认 | 强度 88.67 | 质量 85.25
+  - 主题摘要：Elon Musk tweeted a rocket emoji and 'Doge to Mars' in reply to a fan's comment about using DOGE for space travel, reigniting meme-driven crypto enthusiasm.
+  - 资金 100.00 / 广度 93.03 / 确认 42.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Trump Power Stance at Press Event | Solana | 降温中 | 强度 85.47 | 质量 77.85
   - 主题摘要：According to AF Post's post, Trump adopts a power stance during a press interaction with reporters, highlighting his assertive posture in public engagement.
-  - 资金 100.00 / 广度 92.61 / 确认 9.36 / 脆弱性 23.36
+  - 资金 100.00 / 广度 92.63 / 确认 9.36 / 脆弱性 23.15
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Astroid Space Meme Image | Solana | 加速中 | 强度 77.74 | 质量 74.74
+- Astroid Space Meme Image | Solana | 点火期 | 强度 80.16 | 质量 77.81
   - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
-  - 资金 100.00 / 广度 80.92 / 确认 20.20 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nietzschean Pigeon $PIGEON Launch Announcement | Solana | 点火期 | 强度 76.40 | 质量 74.71
-  - 主题摘要：According to Valentine | Fan Profile's post, the author announced the launch of the Nietzschean Pigeon $PIGEON, drawing a contrast with $PICANTE, which lacks a clear identity or t…
-  - 资金 100.00 / 广度 85.99 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.18 / 确认 16.60 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Dumb Asteroid | Solana | 降温中 | 强度 74.71 | 质量 57.93
-  - 主题摘要：Dumb Asteroid (DA) is a meme token inspired by the playful concept of a space explorer dog. The logo features a cute dog character in astronaut gear, embodying the token's lighthe…
-  - 资金 100.00 / 广度 81.06 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 农民协议 | BSC | 加速中 | 强度 74.21 | 质量 61.17
-  - 主题摘要：Multiple tokens named 「农民协议」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.62 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- qit qappens | Solana | 降温中 | 强度 73.57 | 质量 62.61
+- qit qappens | Solana | 加速中 | 强度 76.50 | 质量 64.08
   - 主题摘要：Multiple tokens named 「QAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.80 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged AI Agent Coin Experiment | Solana | 加速中 | 强度 73.37 | 质量 71.01
-  - 主题摘要：According to Lobstar Wilde's post, a social experiment involving AI agents and the token $UNC is being conducted, where 5% of the token was distributed to several AI agents to obs…
-  - 资金 100.00 / 广度 80.58 / 确认 20.16 / 脆弱性 29.29
+  - 资金 100.00 / 广度 65.06 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Liv Perrotto’s SpaceX Dream | BSC | 降温中 | 强度 71.46 | 质量 59.54
+- Nietzschean Pigeon $PIGEON Launch Announcement | Solana | 点火期 | 强度 75.56 | 质量 74.32
+  - 主题摘要：According to Valentine | Fan Profile's post, the author announced the launch of the Nietzschean Pigeon $PIGEON, drawing a contrast with $PICANTE, which lacks a clear identity or t…
+  - 资金 100.00 / 广度 86.00 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Liv Perrotto’s SpaceX Dream | BSC | 加速中 | 强度 75.54 | 质量 63.21
   - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
-  - 资金 100.00 / 广度 60.18 / 确认 13.00 / 脆弱性 14.00
+  - 资金 100.00 / 广度 65.22 / 确认 20.20 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- nostalgicgareth Bought a Star Named Solana | Solana | 降温中 | 强度 74.74 | 质量 62.83
+  - 主题摘要：According to nostalgicgareth (ai/acc)'s post, he claims to have purchased and named a star 'Solana' as part of a space-themed initiative, linked to the token $SOLSTAR.
+  - 资金 97.03 / 广度 61.33 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Chinese Era Meme Image Promotion | BSC | 加速中 | 强度 71.13 | 质量 68.40
+- Rebecca Perrotto and Meme Coin Misattribution | Solana | 点火期 | 强度 73.53 | 质量 68.91
+  - 主题摘要：Rebecca Perrotto denies involvement in the creation of any meme coins linked to her name. According to her post, unknown parties have associated tokens with her account without he…
+  - 资金 100.00 / 广度 73.49 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged AI Agent Coin Experiment | Solana | 加速中 | 强度 73.26 | 质量 72.52
+  - 主题摘要：According to Lobstar Wilde's post, a social experiment involving AI agents and the token $UNC is being conducted, where 5% of the token was distributed to several AI agents to obs…
+  - 资金 100.00 / 广度 80.59 / 确认 23.76 / 脆弱性 35.09
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- WinVault Bidirectional Yield Protocol Analysis | BSC | 加速中 | 强度 73.19 | 质量 59.16
+  - 主题摘要：According to WinVault's post, the protocol operates on a two-way yield model where users either win 90% of their opponent's tokens or receive double the BNB value as a dividend up…
+  - 资金 100.00 / 广度 71.04 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 农民协议 | BSC | 加速中 | 强度 71.84 | 质量 61.02
+  - 主题摘要：Multiple tokens named 「农民协议」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.63 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Chinese Era Meme Image Promotion | BSC | 加速中 | 强度 70.72 | 质量 67.78
   - 主题摘要：According to 角度🔶 BNB's post, '中文时代' (Chinese Era) reflects a movement emphasizing the rise of Chinese-themed cryptocurrency projects and cultural identity within the crypto space.…
-  - 资金 100.00 / 广度 82.14 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.15 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WinVault Bidirectional Yield Protocol Analysis | BSC | 加速中 | 强度 69.19 | 质量 56.75
-  - 主题摘要：According to WinVault's post, the dual-yield protocol enables participants to profit regardless of win or loss outcomes. Winners receive 90% of their opponent's staked tokens, whi…
-  - 资金 100.00 / 广度 70.99 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Recommends OpenClaw for X API | BSC | 降温中 | 强度 68.54 | 质量 50.84
+- Elon Recommends OpenClaw for X API | BSC | 降温中 | 强度 69.71 | 质量 52.20
   - 主题摘要：Elon Musk publicly endorses OpenClaw as a way to access X's API, sparking interest in affordable and fun agentic tools.
-  - 资金 100.00 / 广度 64.83 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 66.89 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 74.15，其中已确认叙事 1 个。
-- Elon Musk: Doge to Mars 正在向主线升级: BSC 上该叙事处于“强化”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.55，其中已确认叙事 0 个。
+- Rebecca Perrotto and Meme Coin Misattribution 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Trump Power Stance at Press Event 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk: Doge to Mars | 质量 84.84 | 可交易性 100.00 | 风险 低
-- UNCEROID | 质量 79.62 | 可交易性 100.00 | 风险 低
-- Dumbo Crashout Meme Coin Discussion | 质量 78.83 | 可交易性 100.00 | 风险 低
-- Trump Power Stance at Press Event | 质量 77.84 | 可交易性 100.00 | 风险 低
-- Astroid Space Meme Image | 质量 74.74 | 可交易性 93.40 | 风险 低
-- Nietzschean Pigeon $PIGEON Launch Announcement | 质量 74.71 | 可交易性 90.90 | 风险 低
-- Alleged AI Agent Coin Experiment | 质量 71.01 | 可交易性 81.35 | 风险 低
-- Chinese Era Meme Image Promotion | 质量 68.40 | 可交易性 65.73 | 风险 低
-- qit qappens | 质量 62.61 | 可交易性 71.74 | 风险 低
-- 农民协议 | 质量 61.17 | 可交易性 51.34 | 风险 低
+- Elon Musk: Doge to Mars | 质量 85.25 | 可交易性 100.00 | 风险 低
+- UNCEROID | 质量 79.88 | 可交易性 100.00 | 风险 低
+- Trump Power Stance at Press Event | 质量 77.85 | 可交易性 100.00 | 风险 低
+- Astroid Space Meme Image | 质量 77.81 | 可交易性 100.00 | 风险 低
+- Nietzschean Pigeon $PIGEON Launch Announcement | 质量 74.32 | 可交易性 89.59 | 风险 低
+- Alleged AI Agent Coin Experiment | 质量 72.52 | 可交易性 83.72 | 风险 低
+- Rebecca Perrotto and Meme Coin Misattribution | 质量 68.91 | 可交易性 89.33 | 风险 低
+- Chinese Era Meme Image Promotion | 质量 67.78 | 可交易性 65.67 | 风险 低
+- qit qappens | 质量 64.08 | 可交易性 73.75 | 风险 低
+- Liv Perrotto’s SpaceX Dream | 质量 63.21 | 可交易性 75.77 | 风险 低
 
 ## 伪叙事风险
 
+- Rebecca Perrotto and Meme Coin Misattribution | 风险 47.79 | 原因：流动性偏薄
 - Nietzschean Pigeon $PIGEON Launch Announcement | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Trump Power Stance at Press Event | 风险 40.66 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Astroid Space Meme Image | 风险 42.00 | 原因：流动性偏薄
+- Trump Power Stance at Press Event | 风险 40.55 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
 
@@ -134,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Elon Musk: Doge to Mars（BSC，分数 90.37）
-2. 共振最强代币：GENIUS（BSC，共振 100.0）
-3. 记忆层变化：Elon Musk: Doge to Mars 当前为“强化”
+1. 当前最强叙事：UNCEROID（Solana，分数 89.18）
+2. 共振最强代币：RAVE（BSC，共振 100.0）
+3. 记忆层变化：nostalgicgareth Bought a Star Named Solana 当前为“新出现”
 4. 最新官方催化：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
