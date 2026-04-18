@@ -1,95 +1,94 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-18T22:02:52.908212+00:00
+- 生成时间：2026-04-18T22:53:10.371935+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 UNCEROID，所在链为 Solana，叙事强度 87.39。
-- 当前平均叙事强度为 79.74，其中已确认叙事 1 个。
+- 当前最强叙事是 UNCEROID，所在链为 Solana，叙事强度 90.45。
+- 当前平均叙事强度为 80.66，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
-- 记忆层显示 Trump's Budget Priorities Criticized 当前处于“新出现”状态。
+- 记忆层显示 Trump renames Strait of Hormuz to 'Strait of Trump'? 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards。
 
 ## 叙事雷达
 
-- UNCEROID | Solana | 加速中 | 强度 87.39 | 质量 80.83
+- UNCEROID | Solana | 加速中 | 强度 90.45 | 质量 81.20
   - 主题摘要：UNCEROID is a meme token inspired by the concept of an asteroid with a cute, cat-like appearance. The token features a plush toy character with sunglasses, embodying the playful '…
-  - 资金 100.00 / 广度 91.49 / 确认 24.48 / 脆弱性 10.00
+  - 资金 100.00 / 广度 92.71 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk: Doge to Mars | BSC | 已确认 | 强度 85.67 | 质量 84.54
+- Elon Musk: Doge to Mars | BSC | 已确认 | 强度 84.92 | 质量 85.73
   - 主题摘要：Elon Musk tweeted a rocket emoji and 'Doge to Mars' in reply to a fan's comment about using DOGE for space travel, reigniting meme-driven crypto enthusiasm.
-  - 资金 100.00 / 广度 96.52 / 确认 42.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 96.69 / 确认 42.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Astroid Space Meme Image | Solana | 已确认 | 强度 84.27 | 质量 82.78
-  - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
-  - 资金 100.00 / 广度 93.21 / 确认 31.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Trump's 5D Chess Narrative | Solana | 降温中 | 强度 78.69 | 质量 66.89
+- Trump's 5D Chess Narrative | Solana | 降温中 | 强度 80.36 | 质量 67.30
   - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.40 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.41 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump Claims Peacemaker Role | Solana | 降温中 | 强度 78.56 | 质量 66.87
+- Trump Claims Peacemaker Role | Solana | 降温中 | 强度 80.21 | 质量 67.29
   - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.36 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.37 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump's $1 Billion Bet and Ceasefire Announcement | Solana | 降温中 | 强度 77.43 | 质量 65.00
+- Trump's $1 Billion Bet and Ceasefire Announcement | Solana | 降温中 | 强度 78.97 | 质量 65.41
   - 主题摘要：According to vibooor's post, U.S. regulators are investigating whether traders had advance knowledge of Trump's ceasefire announcement following a $950 million oil trade. The post…
-  - 资金 100.00 / 广度 85.92 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.93 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump's Budget Priorities Criticized | Solana | 降温中 | 强度 77.22 | 质量 64.54
+- Trump's Budget Priorities Criticized | Solana | 降温中 | 强度 78.93 | 质量 64.95
   - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.42 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.44 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nursery fined and staff jailed over child's death | Solana | 降温中 | 强度 77.18 | 质量 64.54
+- Nursery fined and staff jailed over child's death | Solana | 降温中 | 强度 78.90 | 质量 64.95
   - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.42 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.44 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump and the Currency of Attention | Solana | 降温中 | 强度 77.15 | 质量 64.54
+- Trump renames Strait of Hormuz to 'Strait of Trump'? | Solana | 降温中 | 强度 78.77 | 质量 64.95
+  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.44 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trump and the Currency of Attention | Solana | 降温中 | 强度 78.69 | 质量 64.95
   - 主题摘要：According to Mario Nawfal's post, Donald Trump is described as controlling the most important 'currency' of the current generation, referring metaphorically to public attention. T…
-  - 资金 100.00 / 广度 85.40 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.42 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WinVault Bidirectional Yield Protocol Analysis | BSC | 加速中 | 强度 73.89 | 质量 59.38
+- WinVault Bidirectional Yield Protocol Analysis | BSC | 加速中 | 强度 74.41 | 质量 59.76
   - 主题摘要：According to WinVault's post, the dual-yield protocol enables participants to profit regardless of win or loss outcomes. Winners receive 90% of their opponent's tokens, while lose…
-  - 资金 100.00 / 广度 71.14 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.23 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 农民协议 | BSC | 加速中 | 强度 73.51 | 质量 61.11
+- 农民协议 | BSC | 加速中 | 强度 73.68 | 质量 61.15
   - 主题摘要：Multiple tokens named 「农民协议」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.73 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.77 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Chinese Era Meme Image Promotion | BSC | 加速中 | 强度 70.82 | 质量 66.18
+- Chinese Era Meme Image Promotion | BSC | 加速中 | 强度 70.92 | 质量 68.09
   - 主题摘要：According to 角度🔶 BNB's post, '中文时代' (Chinese Era) reflects a movement emphasizing the rise of Chinese-themed cryptocurrency projects and cultural identity within the crypto space.…
-  - 资金 100.00 / 广度 82.19 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.20 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 链信 | BSC | 加速中 | 强度 70.13 | 质量 59.08
+- 链信 | BSC | 加速中 | 强度 70.58 | 质量 59.17
   - 主题摘要：Multiple tokens named 「链信」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.91 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.99 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Recommends OpenClaw for X API | BSC | 降温中 | 强度 69.90 | 质量 52.44
+- Elon Recommends OpenClaw for X API | BSC | 降温中 | 强度 69.92 | 质量 52.48
   - 主题摘要：Elon Musk publicly endorses OpenClaw as a way to access X's API, sparking interest in affordable and fun agentic tools.
-  - 资金 100.00 / 广度 67.16 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 67.18 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.74，其中已确认叙事 1 个。
-- 链信 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.66，其中已确认叙事 0 个。
 - Trump's 5D Chess Narrative 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk: Doge to Mars | 质量 84.54 | 可交易性 100.00 | 风险 低
-- Astroid Space Meme Image | 质量 82.78 | 可交易性 100.00 | 风险 低
-- UNCEROID | 质量 80.83 | 可交易性 100.00 | 风险 低
-- Trump's 5D Chess Narrative | 质量 66.89 | 可交易性 69.69 | 风险 低
-- Trump Claims Peacemaker Role | 质量 66.87 | 可交易性 69.69 | 风险 低
-- Chinese Era Meme Image Promotion | 质量 66.18 | 可交易性 66.48 | 风险 低
-- Trump's $1 Billion Bet and Ceasefire Announcement | 质量 65.00 | 可交易性 63.87 | 风险 低
-- Trump's Budget Priorities Criticized | 质量 64.54 | 可交易性 62.86 | 风险 低
-- Nursery fined and staff jailed over child's death | 质量 64.54 | 可交易性 62.86 | 风险 低
-- Trump and the Currency of Attention | 质量 64.54 | 可交易性 62.86 | 风险 低
+- Elon Musk: Doge to Mars | 质量 85.73 | 可交易性 100.00 | 风险 低
+- UNCEROID | 质量 81.20 | 可交易性 100.00 | 风险 低
+- Chinese Era Meme Image Promotion | 质量 68.09 | 可交易性 66.17 | 风险 低
+- Trump's 5D Chess Narrative | 质量 67.30 | 可交易性 71.05 | 风险 低
+- Trump Claims Peacemaker Role | 质量 67.29 | 可交易性 71.05 | 风险 低
+- Trump's $1 Billion Bet and Ceasefire Announcement | 质量 65.41 | 可交易性 65.23 | 风险 低
+- Trump's Budget Priorities Criticized | 质量 64.95 | 可交易性 64.21 | 风险 低
+- Nursery fined and staff jailed over child's death | 质量 64.95 | 可交易性 64.21 | 风险 低
+- Trump renames Strait of Hormuz to 'Strait of Trump'? | 质量 64.95 | 可交易性 64.21 | 风险 低
+- Trump and the Currency of Attention | 质量 64.95 | 可交易性 64.21 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +130,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：UNCEROID（Solana，分数 87.39）
+1. 当前最强叙事：UNCEROID（Solana，分数 90.45）
 2. 共振最强代币：RAVE（BSC，共振 100.0）
-3. 记忆层变化：Trump's Budget Priorities Criticized 当前为“新出现”
+3. 记忆层变化：Trump renames Strait of Hormuz to 'Strait of Trump'? 当前为“新出现”
 4. 最新官方催化：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
