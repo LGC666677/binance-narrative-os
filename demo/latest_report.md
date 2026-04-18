@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-18T15:22:11.417598+00:00
+- 生成时间：2026-04-18T15:56:44.740258+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Trump Power Stance at Press Event，所在链为 Solana，叙事强度 85.48。
-- 当前平均叙事强度为 80.54，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
-- 记忆层显示 Trump Power Stance at Press Event 当前处于“新出现”状态。
+- 当前最强叙事是 UNCEROID，所在链为 Solana，叙事强度 87.47。
+- 当前平均叙事强度为 81.14，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 ARIA，来自 BSC，共振分数 100.0。
+- 记忆层显示 GIGA VIRAL Meme Image Trend 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Trump Power Stance at Press Event，伪叙事风险 40.42。
 - 最新官方催化来自 最新活动：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards。
 
 ## 叙事雷达
 
-- Trump Power Stance at Press Event | Solana | 降温中 | 强度 85.48 | 质量 78.60
-  - 主题摘要：According to AF Post's post, Donald Trump is pictured in a power stance while engaging with reporters at a press event. The image appears to be used in a political or symbolic con…
-  - 资金 100.00 / 广度 92.48 / 确认 12.96 / 脆弱性 22.42
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of $GM Get Money Token | Solana | 降温中 | 强度 84.96 | 质量 78.14
-  - 主题摘要：According to m's post, the $GM token, representing 'Get Money', is being promoted as a potential cult coin inspired by the widespread use of the acronym in crypto communities, wit…
-  - 资金 100.00 / 广度 88.31 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- UNCEROID | Solana | 加速中 | 强度 84.49 | 质量 75.24
+- UNCEROID | Solana | 加速中 | 强度 87.47 | 质量 77.26
   - 主题摘要：UNCEROID is a meme token inspired by the concept of an asteroid with a cute, cat-like appearance. The token features a plush toy character with sunglasses, embodying the playful '…
-  - 资金 100.00 / 广度 76.01 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.57 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Wasabi Cheese | Solana | 加速中 | 强度 80.75 | 质量 75.01
+- Alleged Launch of $GM Get Money Token | Solana | 降温中 | 强度 84.58 | 质量 75.46
+  - 主题摘要：According to m's post, the $GM token, representing 'Get Money', is being promoted as a potential cult coin inspired by the widespread use of the acronym in crypto communities, wit…
+  - 资金 100.00 / 广度 86.90 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trump Power Stance at Press Event | Solana | 降温中 | 强度 84.48 | 质量 77.86
+  - 主题摘要：According to AF Post's post, Donald Trump is pictured in a power stance while engaging with reporters at a press event. The image appears to be used in a political or symbolic con…
+  - 资金 100.00 / 广度 92.66 / 确认 9.36 / 脆弱性 22.90
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Wasabi Cheese | Solana | 加速中 | 强度 81.00 | 质量 75.03
   - 主题摘要：Wasabi Cheese token features a cute, cartoon-style wasabi emoji with expressive eyes and a pink tongue. Inspired by Japanese culinary culture, it aims to blend humor with blockcha…
-  - 资金 100.00 / 广度 75.79 / 确认 19.44 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.86 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Is $XRP a Meme in Crypto? | Solana | 加速中 | 强度 78.36 | 质量 68.20
-  - 主题摘要：Multiple tokens named 「XRP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.03 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nietzschean Pigeon $PIGEON Launch Announcement | Solana | 加速中 | 强度 77.91 | 质量 77.62
+- GIGA VIRAL Meme Image Trend | Solana | 已确认 | 强度 79.65 | 质量 69.57
+  - 主题摘要：According to Xibri's post, a Meme image showing a gamer drinking vodka and crying after losing a game has gone viral with over 6 million views in 5 hours. The image has inspired m…
+  - 资金 100.00 / 广度 84.95 / 确认 35.40 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Unc's Meme Image Promotion | Solana | 降温中 | 强度 77.97 | 质量 65.42
+  - 主题摘要：Multiple tokens named 「GM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.40 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Nietzschean Pigeon $PIGEON Launch Announcement | Solana | 加速中 | 强度 77.94 | 质量 77.22
   - 主题摘要：According to Valentine | Fan Profile's post, the author announced the launch of the Nietzschean Pigeon $PIGEON, drawing a contrast with $PICANTE, which lacks a clear identity or t…
-  - 资金 100.00 / 广度 87.16 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.11 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Summer Call Returns | Solana | 降温中 | 强度 76.49 | 质量 68.44
-  - 主题摘要：According to Pandit Aadi's post, the Summer Call token has returned, though the announcement does not guarantee permanence or encourage speculation. This information is unverified…
-  - 资金 100.00 / 广度 64.96 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk: Doge to Mars | BSC | 加速中 | 强度 76.44 | 质量 75.36
+- Is $XRP a Meme in Crypto? | Solana | 加速中 | 强度 76.04 | 质量 67.89
+  - 主题摘要：Multiple tokens named 「XRP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.20 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk: Doge to Mars | BSC | 加速中 | 强度 74.72 | 质量 74.67
   - 主题摘要：Elon Musk tweeted a rocket emoji and 'Doge to Mars' in reply to a fan's comment about using DOGE for space travel, reigniting meme-driven crypto enthusiasm.
-  - 资金 100.00 / 广度 89.99 / 确认 35.28 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.71 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk says Free for 2 days | Solana | 加速中 | 强度 75.87 | 质量 74.37
-  - 主题摘要：Elon Musk tweeted "Free for next two days" in response to a Heritage Foundation promotion offering free access to their film @CallSignCourage for 48 hours. His endorsement has spa…
-  - 资金 100.00 / 广度 80.65 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 农民协议 | BSC | 加速中 | 强度 72.16 | 质量 60.59
-  - 主题摘要：Multiple tokens named 「农民协议」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.99 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged Launch of 'Get Money' Token | BSC | 降温中 | 强度 71.72 | 质量 58.60
-  - 主题摘要：According to 烽火资本扛把子 乌鸦（不p图）'s post, the acronym 'GM' (commonly used as 'Good Morning' in crypto communities) is being reinterpreted as 'Get Money', potentially signaling the laun…
-  - 资金 100.00 / 广度 67.58 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Chinese Era Meme Image Promotion | BSC | 加速中 | 强度 71.52 | 质量 69.07
+- Chinese Era Meme Image Promotion | BSC | 加速中 | 强度 71.39 | 质量 68.85
   - 主题摘要：According to 角度🔶 BNB's post, the phrase '中文时代' (Chinese Era) is used to signify a shift or emergence of Chinese-themed narratives in the cryptocurrency space, potentially referenc…
-  - 资金 100.00 / 广度 82.00 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.04 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 链信 | BSC | 加速中 | 强度 69.32 | 质量 58.89
+- 农民协议 | BSC | 加速中 | 强度 71.00 | 质量 60.78
+  - 主题摘要：Multiple tokens named 「农民协议」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.15 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- WinVault Bidirectional Yield Protocol Analysis | BSC | 加速中 | 强度 69.49 | 质量 56.83
+  - 主题摘要：According to WinVault's post, the two-way yield protocol allows participants to gain either by winning 90% of the opponent's tokens or receiving a BNB dividend equivalent to twice…
+  - 资金 100.00 / 广度 69.93 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 链信 | BSC | 加速中 | 强度 68.98 | 质量 58.80
   - 主题摘要：Multiple tokens named 「链信」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.71 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.70 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 德国 | BSC | 加速中 | 强度 67.36 | 质量 56.83
-  - 主题摘要：Multiple tokens named 「德国」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.03 / 确认 19.44 / 脆弱性 24.00
+- Binance Safety Skit: Palworld's Fatal Mistake | BSC | 加速中 | 强度 68.54 | 质量 68.21
+  - 主题摘要：Binance launches a safety awareness campaign through a short skit series, featuring a character named Palworld who makes a critical mistake related to device permissions. The humo…
+  - 资金 89.92 / 广度 79.28 / 确认 34.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.54，其中已确认叙事 0 个。
-- UNCEROID 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Trump Power Stance at Press Event 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.14，其中已确认叙事 1 个。
+- GIGA VIRAL Meme Image Trend 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Launch of $GM Get Money Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Trump Power Stance at Press Event | 质量 78.60 | 可交易性 100.00 | 风险 低
-- Alleged Launch of $GM Get Money Token | 质量 78.14 | 可交易性 100.00 | 风险 低
-- Nietzschean Pigeon $PIGEON Launch Announcement | 质量 77.62 | 可交易性 94.15 | 风险 低
-- Elon Musk: Doge to Mars | 质量 75.36 | 可交易性 100.00 | 风险 低
-- UNCEROID | 质量 75.24 | 可交易性 100.00 | 风险 低
-- Wasabi Cheese | 质量 75.01 | 可交易性 100.00 | 风险 低
-- Elon Musk says Free for 2 days | 质量 74.37 | 可交易性 89.82 | 风险 低
-- Chinese Era Meme Image Promotion | 质量 69.07 | 可交易性 67.65 | 风险 低
-- Summer Call Returns | 质量 68.44 | 可交易性 100.00 | 风险 低
-- Is $XRP a Meme in Crypto? | 质量 68.20 | 可交易性 65.36 | 风险 低
+- Trump Power Stance at Press Event | 质量 77.86 | 可交易性 100.00 | 风险 低
+- UNCEROID | 质量 77.26 | 可交易性 100.00 | 风险 低
+- Nietzschean Pigeon $PIGEON Launch Announcement | 质量 77.22 | 可交易性 92.85 | 风险 低
+- Alleged Launch of $GM Get Money Token | 质量 75.46 | 可交易性 95.13 | 风险 低
+- Wasabi Cheese | 质量 75.03 | 可交易性 100.00 | 风险 低
+- Elon Musk: Doge to Mars | 质量 74.67 | 可交易性 100.00 | 风险 低
+- GIGA VIRAL Meme Image Trend | 质量 69.57 | 可交易性 60.98 | 风险 低
+- Chinese Era Meme Image Promotion | 质量 68.85 | 可交易性 66.88 | 风险 低
+- Binance Safety Skit: Palworld's Fatal Mistake | 质量 68.21 | 可交易性 94.12 | 风险 低
+- Is $XRP a Meme in Crypto? | 质量 67.89 | 可交易性 64.14 | 风险 低
 
 ## 伪叙事风险
 
+- Trump Power Stance at Press Event | 风险 40.42 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Trump Power Stance at Press Event（Solana，分数 85.48）
-2. 共振最强代币：RAVE（BSC，共振 100.0）
-3. 记忆层变化：Trump Power Stance at Press Event 当前为“新出现”
+1. 当前最强叙事：UNCEROID（Solana，分数 87.47）
+2. 共振最强代币：ARIA（BSC，共振 100.0）
+3. 记忆层变化：GIGA VIRAL Meme Image Trend 当前为“新出现”
 4. 最新官方催化：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
