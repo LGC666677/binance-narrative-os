@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-18T12:30:46.320418+00:00
+- 生成时间：2026-04-18T13:45:57.677628+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Trump Power Stance at Press Event，所在链为 Solana，叙事强度 88.28。
-- 当前平均叙事强度为 79.8，其中已确认叙事 1 个。
+- 当前最强叙事是 Nietzschean Pigeon $PIGEON Launch Announcement，所在链为 Solana，叙事强度 80.84。
+- 当前平均叙事强度为 77.68，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 GENIUS，来自 BSC，共振分数 100.0。
-- 记忆层显示 Nietzschean Penguin and Picante Viral Trend 当前处于“新出现”状态。
+- 记忆层显示 Nietzschean Pigeon $PIGEON Launch Announcement 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Dumb Asteroid，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards。
 
 ## 叙事雷达
 
-- Trump Power Stance at Press Event | Solana | 加速中 | 强度 88.28 | 质量 79.71
-  - 主题摘要：Trump is photographed in a confident posture while responding to questions from the press. The post highlights his assertive body language during a media interaction.
-  - 资金 100.00 / 广度 88.27 / 确认 23.76 / 脆弱性 14.00
+- Nietzschean Pigeon $PIGEON Launch Announcement | Solana | 加速中 | 强度 80.84 | 质量 79.24
+  - 主题摘要：According to Valentine | Fan Profile's post, the author announced the launch of the Nietzschean Pigeon $PIGEON, drawing a contrast with $PICANTE, which lacks a clear identity or t…
+  - 资金 100.00 / 广度 88.03 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Euphoria: Reviving the Trenches | Solana | 加速中 | 强度 81.37 | 质量 79.49
-  - 主题摘要：According to euphoria's post, the project aims to bring back positive sentiment and excitement to the crypto space through a self-fulfilling prophecy of good vibes. The post intro…
-  - 资金 100.00 / 广度 90.19 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Wasabi Cheese | Solana | 加速中 | 强度 79.99 | 质量 74.95
-  - 主题摘要：Wasabi Cheese token features a cute, cartoon-style wasabi emoji with expressive eyes and a pink tongue. Inspired by Japanese culinary culture, it aims to blend humor with blockcha…
-  - 资金 100.00 / 广度 75.57 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Is $XRP a Meme in Crypto? | Solana | 加速中 | 强度 79.33 | 质量 66.47
+- Is $XRP a Meme in Crypto? | Solana | 加速中 | 强度 80.52 | 质量 67.82
   - 主题摘要：Multiple tokens named 「XRP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.28 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.52 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GIGA VIRAL Meme Image Trend | Solana | 已确认 | 强度 79.16 | 质量 69.60
-  - 主题摘要：According to Xibri's post, a Meme image showing a gamer drinking vodka and crying after losing a game has gone viral with over 6 million views in 5 hours. The image has inspired m…
-  - 资金 100.00 / 广度 84.57 / 确认 35.40 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Nietzschean Penguin and Picante Viral Trend | Solana | 加速中 | 强度 78.12 | 质量 66.55
-  - 主题摘要：Hachimi Mambo launched a token called Nietzschean Penguin two months ago, which reached a market cap of $150 million. In a recent post, Hachimi Mambo highlighted a similar viral n…
-  - 资金 100.00 / 广度 84.23 / 确认 23.76 / 脆弱性 14.00
+- Wasabi Cheese | Solana | 加速中 | 强度 80.28 | 质量 74.98
+  - 主题摘要：Wasabi Cheese token features a cute, cartoon-style wasabi emoji with expressive eyes and a pink tongue. Inspired by Japanese culinary culture, it aims to blend humor with blockcha…
+  - 资金 100.00 / 广度 75.67 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Artsteroid | Solana | 降温中 | 强度 76.82 | 质量 67.82
-  - 主题摘要：artsteroid is a meme token inspired by the fusion of art and space exploration. The logo features a Shiba Inu astronaut, symbolizing the token's playful yet ambitious approach to…
-  - 资金 100.00 / 广度 62.91 / 确认 4.32 / 脆弱性 14.00
+- Meme Image Precedence in Bitcoin Search | Solana | 加速中 | 强度 79.23 | 质量 76.62
+  - 主题摘要：According to Bob's post, searching for 'BITCOIN' on the platform initially displays a meme version of the token before the actual Bitcoin. This observation highlights a potential…
+  - 资金 100.00 / 广度 86.78 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trump Power Stance at Press Event | Solana | 加速中 | 强度 77.91 | 质量 79.18
+  - 主题摘要：According to AF Post's post, Donald Trump is pictured in a power stance while engaging with reporters at a press event. The image appears to be used in a political or symbolic con…
+  - 资金 100.00 / 广度 89.16 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- AI-Driven Cartoon Realism Trend | Solana | 降温中 | 强度 75.91 | 质量 64.37
+  - 主题摘要：According to Greg's post, a new trend is emerging where users prompt AI to 'wrap cartoon characters in reality,' generating high-view content within 24 hours. Elon Musk is expecte…
+  - 资金 100.00 / 广度 60.93 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of $LAIKA Token Inspired by Space Dog Laika | Solana | 降温中 | 强度 75.35 | 质量 63.03
-  - 主题摘要：According to anondev777's post, a token named $LAIKA has been allegedly launched, inspired by Laika, the first dog to orbit Earth. The post references the historical event 68 year…
-  - 资金 100.00 / 广度 85.19 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk: Doge to Mars | BSC | 加速中 | 强度 74.72 | 质量 74.54
+- Elon Musk: Doge to Mars | BSC | 加速中 | 强度 75.67 | 质量 74.15
   - 主题摘要：Elon Musk tweeted a rocket emoji and 'Doge to Mars' in reply to a fan's comment about using DOGE for space travel, reigniting meme-driven crypto enthusiasm.
-  - 资金 100.00 / 广度 91.39 / 确认 35.28 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.43 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 链信 | BSC | 加速中 | 强度 74.63 | 质量 60.32
-  - 主题摘要：Multiple tokens named 「链信」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.98 / 确认 24.48 / 脆弱性 14.00
+- 农民协议 | BSC | 加速中 | 强度 74.73 | 质量 60.43
+  - 主题摘要：Multiple tokens named 「农民协议」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.85 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Warns Against FOMO | BSC | 降温中 | 强度 73.08 | 质量 59.83
+- Dumb Asteroid | Solana | 降温中 | 强度 74.09 | 质量 58.94
+  - 主题摘要：Dumb Asteroid (DA) is a meme token inspired by the playful concept of a space explorer dog. The logo features a cute dog character in astronaut gear, embodying the token's lighthe…
+  - 资金 100.00 / 广度 80.96 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Chinese Era Meme Image Promotion | BSC | 加速中 | 强度 72.85 | 质量 69.33
+  - 主题摘要：According to 角度🔶 BNB's post, the phrase '中文时代' (Chinese Era) is used to signify a shift or emergence of Chinese-themed narratives in the cryptocurrency space, potentially referenc…
+  - 资金 100.00 / 广度 81.90 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of $LAIKA Token Inspired by Space Dog Laika | Solana | 降温中 | 强度 72.68 | 质量 62.12
+  - 主题摘要：According to anondev777's post, a token named $LAIKA has been allegedly launched, inspired by Laika, the first dog to orbit Earth. The post references the historical event 68 year…
+  - 资金 100.00 / 广度 85.21 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:CZ Warns Against FOMO | BSC | 降温中 | 强度 71.72 | 质量 57.80
   - 主题摘要：CZ consistently promotes rational decision-making by advising against FOMO in market behavior, according to justadev ☄️'s post. The message emphasizes maintaining a calm mindset i…
-  - 资金 100.00 / 广度 69.35 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.40 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Chinese Era Meme Image Promotion | BSC | 加速中 | 强度 71.74 | 质量 69.50
-  - 主题摘要：According to 角度🔶 BNB's post, 'Chinese Era' is being promoted as a thematic reference within the cryptocurrency space, potentially linked to tokens that emphasize Chinese cultural…
-  - 资金 100.00 / 广度 82.31 / 确认 28.08 / 脆弱性 24.00
+- 链信 | BSC | 加速中 | 强度 68.74 | 质量 59.75
+  - 主题摘要：Multiple tokens named 「链信」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.45 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Chat with Anyone | BSC | 降温中 | 强度 71.46 | 质量 56.05
-  - 主题摘要：Multiple tokens named 「XCHAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.97 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Wawa Cat Meme Image Goes Viral | BSC | 降温中 | 强度 70.85 | 质量 56.02
-  - 主题摘要：According to hubz's post, a Meme图 featuring a cat resembling Popcat was shared by a person in Japan at a dentist's office. The image, known as 'Wawa Cat,' has gained rapid online…
-  - 资金 98.97 / 广度 64.91 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:AI and Cryptocurrency Usage | BSC | 加速中 | 强度 68.59 | 质量 55.23
+  - 主题摘要：Sunshine highlights concerns about the improper use of AI in cryptocurrency and promotes a new free course from Binance Academy aimed at educating users on better AI integration a…
+  - 资金 100.00 / 广度 62.42 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.8，其中已确认叙事 1 个。
-- Nietzschean Penguin and Picante Viral Trend 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Artsteroid 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.68，其中已确认叙事 0 个。
+- Nietzschean Pigeon $PIGEON Launch Announcement 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Trump Power Stance at Press Event 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Trump Power Stance at Press Event | 质量 79.71 | 可交易性 100.00 | 风险 低
-- Euphoria: Reviving the Trenches | 质量 79.49 | 可交易性 100.00 | 风险 低
-- Wasabi Cheese | 质量 74.95 | 可交易性 100.00 | 风险 低
-- Elon Musk: Doge to Mars | 质量 74.54 | 可交易性 100.00 | 风险 低
-- GIGA VIRAL Meme Image Trend | 质量 69.60 | 可交易性 61.48 | 风险 低
-- Chinese Era Meme Image Promotion | 质量 69.50 | 可交易性 68.78 | 风险 低
-- Artsteroid | 质量 67.82 | 可交易性 100.00 | 风险 低
-- Nietzschean Penguin and Picante Viral Trend | 质量 66.55 | 可交易性 60.17 | 风险 低
-- Is $XRP a Meme in Crypto? | 质量 66.47 | 可交易性 61.35 | 风险 低
-- Alleged Launch of $LAIKA Token Inspired by Space Dog Laika | 质量 63.03 | 可交易性 66.28 | 风险 低
+- Nietzschean Pigeon $PIGEON Launch Announcement | 质量 79.24 | 可交易性 98.68 | 风险 低
+- Trump Power Stance at Press Event | 质量 79.18 | 可交易性 100.00 | 风险 低
+- Meme Image Precedence in Bitcoin Search | 质量 76.62 | 可交易性 93.85 | 风险 低
+- Wasabi Cheese | 质量 74.98 | 可交易性 100.00 | 风险 低
+- Elon Musk: Doge to Mars | 质量 74.15 | 可交易性 100.00 | 风险 低
+- Chinese Era Meme Image Promotion | 质量 69.33 | 可交易性 68.61 | 风险 低
+- Is $XRP a Meme in Crypto? | 质量 67.82 | 可交易性 64.59 | 风险 低
+- AI-Driven Cartoon Realism Trend | 质量 64.37 | 可交易性 86.78 | 风险 低
+- Alleged Launch of $LAIKA Token Inspired by Space Dog Laika | 质量 62.12 | 可交易性 65.85 | 风险 低
+- 农民协议 | 质量 60.43 | 可交易性 50.62 | 风险 低
 
 ## 伪叙事风险
 
+- Dumb Asteroid | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Trump Power Stance at Press Event（Solana，分数 88.28）
+1. 当前最强叙事：Nietzschean Pigeon $PIGEON Launch Announcement（Solana，分数 80.84）
 2. 共振最强代币：GENIUS（BSC，共振 100.0）
-3. 记忆层变化：Nietzschean Penguin and Picante Viral Trend 当前为“新出现”
+3. 记忆层变化：Nietzschean Pigeon $PIGEON Launch Announcement 当前为“新出现”
 4. 最新官方催化：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
