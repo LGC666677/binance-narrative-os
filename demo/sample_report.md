@@ -1,101 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-19T21:33:31.972067+00:00
+- 生成时间：2026-04-19T22:03:35.052733+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Liv Perrotto’s SpaceX Dream，所在链为 BSC，叙事强度 85.84。
-- 当前平均叙事强度为 80.69，其中已确认叙事 0 个。
+- 当前最强叙事是 Liv Perrotto’s SpaceX Dream，所在链为 BSC，叙事强度 90.63。
+- 当前平均叙事强度为 81.45，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
-- 记忆层显示 Meme Image Critique 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Solana Developer Shares Meme Image，伪叙事风险 40.99。
+- 记忆层显示 ADHD and Millionaire Aspirations 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Solana Developer Shares Meme Image，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards。
 
 ## 叙事雷达
 
-- Liv Perrotto’s SpaceX Dream | BSC | 加速中 | 强度 85.84 | 质量 83.23
+- Liv Perrotto’s SpaceX Dream | BSC | 加速中 | 强度 90.63 | 质量 83.23
   - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
-  - 资金 100.00 / 广度 100.00 / 确认 23.76 / 脆弱性 14.39
+  - 资金 100.00 / 广度 100.00 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ADHD Linked to Millionaire Potential | Solana | 加速中 | 强度 83.87 | 质量 78.14
-  - 主题摘要：According to Dom Lucre | Stealer of Narratives's post, mental health expert Sarah Pearl claims that individuals with ADHD are 'destined to become millionaires' due to their intens…
-  - 资金 100.00 / 广度 90.46 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- release the trenches | Solana | 降温中 | 强度 83.86 | 质量 79.83
+- release the trenches | Solana | 点火期 | 强度 83.86 | 质量 79.83
   - 主题摘要：According to mert's post, a Meme图 titled 'release the trenches' is being circulated, referencing a quoted tweet that suggests an imminent resurgence of a trench-related theme. The…
-  - 资金 100.00 / 广度 96.61 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Solana Developer Shares Meme Image | Solana | 降温中 | 强度 83.08 | 质量 78.53
+  - 资金 100.00 / 广度 96.61 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- ADHD Linked to Millionaire Potential | Solana | 加速中 | 强度 83.55 | 质量 73.92
+  - 主题摘要：According to Dom Lucre | Stealer of Narratives's post, mental health expert Sarah Pearl claims that individuals with ADHD are 'destined to become millionaires' due to their intens…
+  - 资金 100.00 / 广度 89.86 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- ADHD as a Path to Wealth | Solana | 加速中 | 强度 82.76 | 质量 72.45
+  - 主题摘要：According to beaver's post, the claim that people with ADHD are destined to become millionaires due to strong obsession is trending on X, coinciding with the emergence of multiple…
+  - 资金 100.00 / 广度 88.83 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Solana Developer Shares Meme Image | Solana | 点火期 | 强度 82.65 | 质量 78.53
   - 主题摘要：According to brimigs's post, a developer associated with Solana shared a Meme image referencing 'chip' in response to a prompt. The post appears to be part of a casual or humorous…
-  - 资金 100.00 / 广度 94.91 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Unclear Topic with Multiple Tokens | Solana | 降温中 | 强度 82.92 | 质量 78.37
-  - 主题摘要：According to GOP's post, multiple tokens with the symbol SOL have emerged, including names such as 'Worth fighting for,' 'Pepe High,' and 'Rape Everyone And Leave.' The tokens app…
-  - 资金 100.00 / 广度 95.23 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Tardi | Solana | 加速中 | 强度 82.56 | 质量 69.88
+  - 资金 100.00 / 广度 94.91 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- ADHD and Millionaire Aspirations | Solana | 加速中 | 强度 82.48 | 质量 72.00
+  - 主题摘要：According to elite's post, a statement by Sarah Pearl suggesting that individuals with ADHD have a strong urge to become millionaires has sparked discussion. The phrase 'All Degen…
+  - 资金 100.00 / 广度 87.90 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Meme Image Critique | Solana | 加速中 | 强度 82.34 | 质量 71.96
+  - 主题摘要：According to harald svoboda's post, a Meme图 circulating online is criticized for lacking coherence and being unrelated to the ADHD token, which is associated with the 'All Degens…
+  - 资金 100.00 / 广度 87.77 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Unclear Topic with Multiple Tokens | Solana | 点火期 | 强度 82.32 | 质量 77.48
+  - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 95.23 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Tardi | Solana | 加速中 | 强度 82.29 | 质量 69.86
   - 主题摘要：Multiple tokens named 「TARDI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.90 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.93 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Honors Late Girl's Artwork | Solana | 加速中 | 强度 82.39 | 质量 74.17
-  - 主题摘要：Rebecca Perrotto expressed deep gratitude to Elon Musk for honoring her late daughter Liv's artistic creation by adopting it as SpaceX's official mascot, Asteroid. Liv designed th…
-  - 资金 100.00 / 广度 85.91 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Spacex 吉祥物 | BSC | 加速中 | 强度 81.35 | 质量 82.63
+- Spacex 吉祥物 | BSC | 加速中 | 强度 81.30 | 质量 82.63
   - 主题摘要：According to Aster 🥷's post, the individual promotes the tradability of the 'Spacex 吉祥物' token on their platform, offering assistance to potential traders. The token's name and sy…
   - 资金 100.00 / 广度 95.36 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ADHD as a Path to Wealth | Solana | 加速中 | 强度 80.57 | 质量 72.29
-  - 主题摘要：According to beaver's post, the claim that people with ADHD are destined to become millionaires due to strong obsession is trending on X, coinciding with the emergence of multiple…
-  - 资金 100.00 / 广度 88.71 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Meme Image Critique | Solana | 加速中 | 强度 80.08 | 质量 71.79
-  - 主题摘要：According to harald svoboda's post, a Meme图 circulating online is criticized for lacking coherence and being unrelated to the ADHD token, which is associated with the 'All Degens…
-  - 资金 100.00 / 广度 87.65 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asteroid Shiba Perp Listing on Aster DEX | BSC | 加速中 | 强度 79.68 | 质量 80.52
+- Asteroid Shiba Perp Listing on Aster DEX | BSC | 加速中 | 强度 79.63 | 质量 80.52
   - 主题摘要：According to Aster 🥷's post, a new perpetual contract for $ASTEROID (Asteroid Shiba) has been listed on Aster DEX, offering up to 3x leverage. Traders can earn 1.2x trading points…
-  - 资金 100.00 / 广度 89.96 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.97 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BSC Builders Buying ASTEROID | BSC | 加速中 | 强度 79.09 | 质量 79.74
+- BSC Builders Buying ASTEROID | BSC | 加速中 | 强度 79.04 | 质量 79.73
   - 主题摘要：According to K.Wen's post, BSC-based builders are encouraged to buy the $ASTEROID token to reverse Ethereum mainnet dominance. K.Wen highlights BSC's natural listing advantages an…
-  - 资金 100.00 / 广度 89.97 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.98 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Liv's Asteroid Meme Figure Collaborates with SpaceX | BSC | 加速中 | 强度 79.09 | 质量 79.74
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | BSC | 加速中 | 强度 79.04 | 质量 79.73
   - 主题摘要：According to Rebecca Perrotto's post, Liv, a pediatric cancer survivor, designed a Zero-G indicator named Asteroid for SpaceX, which was later referenced in multiple cryptocurrenc…
-  - 资金 100.00 / 广度 89.97 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.98 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asteroid Token Launch by Aster DEX | BSC | 加速中 | 强度 79.07 | 质量 79.72
-  - 主题摘要：Leonard 💛 Aster 🥷 promoted Asteroid as a high-potential trading token on Aster DEX, referencing its early listing advantage over other platforms. According to Leonard 💛 Aster 🥷's…
-  - 资金 100.00 / 广度 89.91 / 确认 23.76 / 脆弱性 24.00
+- AsterDEX Expands Market Access with ASTER | BSC | 加速中 | 强度 79.03 | 质量 79.72
+  - 主题摘要：According to Ryan | Aster 🥷🏻's post, AsterDEX, led by Leonard, is expanding market access by listing in-demand tokens such as $ASTER, $RAVE, $GENIUS, and others, aiming to provide…
+  - 资金 100.00 / 广度 89.95 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.69，其中已确认叙事 0 个。
-- Meme Image Critique 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- release the trenches 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 81.45，其中已确认叙事 0 个。
+- ADHD and Millionaire Aspirations 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 
 ## 质量榜
 
 - Liv Perrotto’s SpaceX Dream | 质量 83.23 | 可交易性 100.00 | 风险 低
 - Spacex 吉祥物 | 质量 82.63 | 可交易性 100.00 | 风险 低
-- Asteroid Shiba Perp Listing on Aster DEX | 质量 80.52 | 可交易性 98.39 | 风险 低
+- Asteroid Shiba Perp Listing on Aster DEX | 质量 80.52 | 可交易性 98.37 | 风险 低
 - release the trenches | 质量 79.83 | 可交易性 100.00 | 风险 低
-- BSC Builders Buying ASTEROID | 质量 79.74 | 可交易性 98.39 | 风险 低
-- Liv's Asteroid Meme Figure Collaborates with SpaceX | 质量 79.74 | 可交易性 98.39 | 风险 低
-- Asteroid Token Launch by Aster DEX | 质量 79.72 | 可交易性 98.39 | 风险 低
+- BSC Builders Buying ASTEROID | 质量 79.73 | 可交易性 98.37 | 风险 低
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | 质量 79.73 | 可交易性 98.37 | 风险 低
+- AsterDEX Expands Market Access with ASTER | 质量 79.72 | 可交易性 98.37 | 风险 低
 - Solana Developer Shares Meme Image | 质量 78.53 | 可交易性 100.00 | 风险 低
-- Unclear Topic with Multiple Tokens | 质量 78.37 | 可交易性 99.14 | 风险 低
-- ADHD Linked to Millionaire Potential | 质量 78.14 | 可交易性 95.22 | 风险 低
+- Unclear Topic with Multiple Tokens | 质量 77.48 | 可交易性 96.17 | 风险 低
+- ADHD Linked to Millionaire Potential | 质量 73.92 | 可交易性 81.74 | 风险 低
 
 ## 伪叙事风险
 
-- Solana Developer Shares Meme Image | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Unclear Topic with Multiple Tokens | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Solana Developer Shares Meme Image | 风险 47.79 | 原因：流动性偏薄
+- Unclear Topic with Multiple Tokens | 风险 47.79 | 原因：流动性偏薄
+- release the trenches | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -134,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Liv Perrotto’s SpaceX Dream（BSC，分数 85.84）
+1. 当前最强叙事：Liv Perrotto’s SpaceX Dream（BSC，分数 90.63）
 2. 共振最强代币：RAVE（BSC，共振 100.0）
-3. 记忆层变化：Meme Image Critique 当前为“新出现”
+3. 记忆层变化：ADHD and Millionaire Aspirations 当前为“新出现”
 4. 最新官方催化：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
