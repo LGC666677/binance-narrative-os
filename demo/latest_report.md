@@ -1,102 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-19T11:58:04.726543+00:00
+- 生成时间：2026-04-19T12:50:56.490742+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：1
+- 已确认叙事：8
+- 高风险伪叙事：3
 
 ## 今日摘要
 
-- 当前最强叙事是 Dumbo Crashout Meme Coin Discussion，所在链为 Solana，叙事强度 83.45。
-- 当前平均叙事强度为 76.23，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 币安人生，来自 BSC，共振分数 100.0。
-- 记忆层显示 Jared Meme Interaction Trend 当前处于“新出现”状态。
+- 当前最强叙事是 Spacex 吉祥物，所在链为 BSC，叙事强度 92.09。
+- 当前平均叙事强度为 87.21，其中已确认叙事 8 个。
+- 注意力与资金共振最强的代币是 ASTEROID，来自 BSC，共振分数 100.0。
+- 记忆层显示 Spacex 吉祥物 当前处于“强化”状态。
 - 当前最需要防止误判的叙事是 Asterfund Supports Asteroid Girl，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards。
 
 ## 叙事雷达
 
-- Dumbo Crashout Meme Coin Discussion | Solana | 加速中 | 强度 83.45 | 质量 80.99
-  - 主题摘要：According to h's post, the Dumbo Crashout Meme图 has been launched, referencing associated token deployments and linking to tracking platforms. The content reflects a new meme-insp…
-  - 资金 100.00 / 广度 92.03 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Liv Perrotto’s SpaceX Dream | BSC | 加速中 | 强度 81.58 | 质量 79.60
-  - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
-  - 资金 100.00 / 广度 87.37 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged AI Agent Coin Experiment | Solana | 加速中 | 强度 80.73 | 质量 78.89
-  - 主题摘要：Multiple tokens named 「agent」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.00 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Astroid Space Meme Image | Solana | 点火期 | 强度 80.55 | 质量 81.08
-  - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
-  - 资金 92.58 / 广度 98.10 / 确认 16.60 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Spacex 吉祥物 | BSC | 降温中 | 强度 79.68 | 质量 67.65
-  - 主题摘要：According to Aster 🥷's post, the SpaceX Mascot token, commonly referred to as '太空狗', is now tradable on Aster DEX. Aster 🥷 also offered assistance in account creation to a user wh…
-  - 资金 100.00 / 广度 79.67 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk: Doge to Mars | BSC | 已确认 | 强度 79.35 | 质量 80.63
-  - 主题摘要：Elon Musk tweeted a rocket emoji and 'Doge to Mars' in reply to a fan's comment about using DOGE for space travel, reigniting meme-driven crypto enthusiasm.
-  - 资金 100.00 / 广度 97.76 / 确认 38.88 / 脆弱性 24.00
+- Spacex 吉祥物 | BSC | 已确认 | 强度 92.09 | 质量 84.70
+  - 主题摘要：According to Aster 🥷's post, the platform supports trading of various Meme-inspired tokens, including '太空狗' (Spacex 吉祥物), and offers account opening assistance to interested trade…
+  - 资金 100.00 / 广度 91.70 / 确认 41.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- assface Meme Image Shared | Solana | 加速中 | 强度 78.33 | 质量 71.49
-  - 主题摘要：According to wizard (dev arc)'s post, the $assface token appears to be associated with a Meme-related on-chain experience linked to jack duve's involvement as CTO of a cryptocurre…
-  - 资金 100.00 / 广度 83.44 / 确认 20.16 / 脆弱性 24.00
+- Asteroid Shiba Perp Listing on Aster DEX | BSC | 已确认 | 强度 89.07 | 质量 80.76
+  - 主题摘要：According to Aster 🥷's post, Asteroid Shiba ($ASTEROID) has been listed on Aster DEX with up to 3x leverage available. Traders can earn 1.2x trading points until April 25, 23:59 U…
+  - 资金 100.00 / 广度 78.59 / 确认 41.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Dumbo Crashout Meme Coin Discussion | Solana | 加速中 | 强度 88.62 | 质量 81.10
+  - 主题摘要：According to h's post, the Dumbo Crashout Meme图 has been associated with the deployment of a token on the platform j7tracker.io, suggesting a possible meme-based cryptocurrency la…
+  - 资金 100.00 / 广度 92.39 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Criticism of ASTEROID Token Promotion | Solana | 点火期 | 强度 77.91 | 质量 75.48
-  - 主题摘要：Sir Doge of the Coin ⚔️ criticized the promotion of the $ASTEROID token, condemning it as unethical and disgraceful for exploiting a tragic situation to promote what he refers to…
-  - 资金 97.09 / 广度 85.62 / 确认 9.36 / 脆弱性 14.00
+- BSC Builders Buying ASTEROID | BSC | 已确认 | 强度 88.51 | 质量 80.03
+  - 主题摘要：According to K.Wen's post, builders on BSC are encouraged to buy $ASTEROID to counter Ethereum dominance, leveraging BSC's natural listing advantages despite its 'too memey' reput…
+  - 资金 100.00 / 广度 78.78 / 确认 38.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | BSC | 已确认 | 强度 88.51 | 质量 80.03
+  - 主题摘要：According to Rebecca Perrotto's post, Liv, her daughter battling pediatric cancer, designed a Zero-G indicator named Asteroid for SpaceX, which was faithfully implemented without…
+  - 资金 100.00 / 广度 78.78 / 确认 38.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- AsterDEX Expands Market Access with ASTER | BSC | 已确认 | 强度 88.48 | 质量 80.01
+  - 主题摘要：According to Ryan | Aster 🥷🏻's post, AsterDEX, led by Leonard, has significantly improved its service over the past month by offering faster access and leverage to traders, enhanc…
+  - 资金 100.00 / 广度 78.70 / 确认 38.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Asteroid Token Launch by Aster DEX | BSC | 已确认 | 强度 88.42 | 质量 79.91
+  - 主题摘要：Leonard 💛 Aster 🥷 discussed the listing of the Asteroid token on Aster DEX, highlighting it as a favorable venue for trading emerging assets. The post references a quoted tweet in…
+  - 资金 100.00 / 广度 78.37 / 确认 38.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Liv Perrotto’s SpaceX Dream | BSC | 已确认 | 强度 84.09 | 质量 82.45
+  - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
+  - 资金 100.00 / 广度 91.61 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Astroid Space Meme Image | Solana | 点火期 | 强度 80.54 | 质量 81.07
+  - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
+  - 资金 92.61 / 广度 98.05 / 确认 16.60 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Rebecca Perrotto and Meme Coin Misattribution | Solana | 点火期 | 强度 77.40 | 质量 75.32
-  - 主题摘要：Rebecca Perrotto denies involvement in the creation of meme coins linked to her name, stating that she does not understand cryptocurrency and that others are associating tokens wi…
-  - 资金 95.17 / 广度 85.08 / 确认 9.36 / 脆弱性 14.00
+- Alleged AI Agent Coin Experiment | Solana | 加速中 | 强度 79.20 | 质量 78.90
+  - 主题摘要：Multiple tokens named 「agent」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.04 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk: Doge to Mars | BSC | 已确认 | 强度 78.54 | 质量 79.60
+  - 主题摘要：Elon Musk tweeted a rocket emoji and 'Doge to Mars' in reply to a fan's comment about using DOGE for space travel, reigniting meme-driven crypto enthusiasm.
+  - 资金 100.00 / 广度 97.72 / 确认 38.88 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Asterfund Supports Asteroid Girl | Solana | 点火期 | 强度 77.04 | 质量 76.14
+  - 主题摘要：According to Robert DC🛸🦾's post, Tucker's producer initiated the Asterfund to support the family of the Asteroid girl after Elon Musk did not respond to her request. The fund uses…
+  - 资金 96.70 / 广度 86.95 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Asterfund Supports Asteroid Girl | Solana | 点火期 | 强度 77.04 | 质量 76.15
-  - 主题摘要：According to Robert DC🛸🦾's post, Tucker's producer initiated the Asterfund to support the family of a girl known as 'Asteroid girl' and fulfill her wish. The fund uses a BTC walle…
-  - 资金 96.69 / 广度 86.96 / 确认 9.36 / 脆弱性 24.00
+- Criticism of ASTEROID Token Promotion | Solana | 点火期 | 强度 76.71 | 质量 75.48
+  - 主题摘要：According to Sir Doge of the Coin ⚔️'s post, the promotion of the token $ASTEROID is condemned for allegedly exploiting a child with cancer to drive speculation, raising ethical c…
+  - 资金 97.09 / 广度 85.62 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Jared Meme Interaction Trend | Solana | 加速中 | 强度 74.55 | 质量 61.37
-  - 主题摘要：According to ganstahardster's post, 'Jared' has resurfaced as a popular Meme image among FOMO traders, particularly within Solana and Ethereum communities, with multiple social me…
-  - 资金 100.00 / 广度 77.75 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WinVault Bidirectional Yield Protocol Analysis | BSC | 加速中 | 强度 72.45 | 质量 60.38
-  - 主题摘要：According to WinVault's post, the Two-Way Yield Protocol allows users to participate in 5-minute rounds where winners receive 90% of their opponent's tokens and losers receive a B…
-  - 资金 100.00 / 广度 72.23 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance-Related 'Lying Flat Life' Discussion | BSC | 降温中 | 强度 72.27 | 质量 58.65
-  - 主题摘要：According to TOM 🦞's post, the concept of 'Binance Life' and 'Lying Flat Life' is being promoted, suggesting a lifestyle tied to a token that allegedly offers auto-dividends. This…
-  - 资金 100.00 / 广度 71.74 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 德国 | BSC | 加速中 | 强度 72.07 | 质量 60.98
-  - 主题摘要：Multiple tokens named 「德国」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.25 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Rebecca Perrotto and Meme Coin Misattribution | Solana | 点火期 | 强度 76.20 | 质量 75.32
+  - 主题摘要：Rebecca Perrotto denies involvement in creating meme coins linked to her name and daughter Liv's story. She states that she does not understand crypto and is seeking to access fun…
+  - 资金 95.18 / 广度 85.08 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.23，其中已确认叙事 1 个。
-- Jared Meme Interaction Trend 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Spacex 吉祥物 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 87.21，其中已确认叙事 8 个。
+- Spacex 吉祥物 正在向主线升级: BSC 上该叙事处于“强化”状态，值得持续跟踪。
 
 ## 质量榜
 
-- Astroid Space Meme Image | 质量 81.08 | 可交易性 100.00 | 风险 低
-- Dumbo Crashout Meme Coin Discussion | 质量 80.99 | 可交易性 100.00 | 风险 低
-- Elon Musk: Doge to Mars | 质量 80.63 | 可交易性 100.00 | 风险 低
-- Liv Perrotto’s SpaceX Dream | 质量 79.60 | 可交易性 100.00 | 风险 低
-- Alleged AI Agent Coin Experiment | 质量 78.89 | 可交易性 100.00 | 风险 低
-- Asterfund Supports Asteroid Girl | 质量 76.15 | 可交易性 100.00 | 风险 低
-- Criticism of ASTEROID Token Promotion | 质量 75.48 | 可交易性 99.12 | 风险 低
-- Rebecca Perrotto and Meme Coin Misattribution | 质量 75.32 | 可交易性 99.12 | 风险 低
-- assface Meme Image Shared | 质量 71.49 | 可交易性 80.08 | 风险 低
-- Spacex 吉祥物 | 质量 67.65 | 可交易性 76.34 | 风险 低
+- Spacex 吉祥物 | 质量 84.70 | 可交易性 100.00 | 风险 低
+- Liv Perrotto’s SpaceX Dream | 质量 82.45 | 可交易性 100.00 | 风险 低
+- Dumbo Crashout Meme Coin Discussion | 质量 81.10 | 可交易性 100.00 | 风险 低
+- Astroid Space Meme Image | 质量 81.07 | 可交易性 100.00 | 风险 低
+- Asteroid Shiba Perp Listing on Aster DEX | 质量 80.76 | 可交易性 100.00 | 风险 低
+- BSC Builders Buying ASTEROID | 质量 80.03 | 可交易性 100.00 | 风险 低
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | 质量 80.03 | 可交易性 100.00 | 风险 低
+- AsterDEX Expands Market Access with ASTER | 质量 80.01 | 可交易性 100.00 | 风险 低
+- Asteroid Token Launch by Aster DEX | 质量 79.91 | 可交易性 100.00 | 风险 低
+- Elon Musk: Doge to Mars | 质量 79.60 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
 - Asterfund Supports Asteroid Girl | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Criticism of ASTEROID Token Promotion | 风险 47.79 | 原因：流动性偏薄
-- Rebecca Perrotto and Meme Coin Misattribution | 风险 47.79 | 原因：流动性偏薄
+- Criticism of ASTEROID Token Promotion | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Rebecca Perrotto and Meme Coin Misattribution | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - Astroid Space Meme Image | 风险 47.20 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -136,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Dumbo Crashout Meme Coin Discussion（Solana，分数 83.45）
-2. 共振最强代币：币安人生（BSC，共振 100.0）
-3. 记忆层变化：Jared Meme Interaction Trend 当前为“新出现”
+1. 当前最强叙事：Spacex 吉祥物（BSC，分数 92.09）
+2. 共振最强代币：ASTEROID（BSC，共振 100.0）
+3. 记忆层变化：Spacex 吉祥物 当前为“强化”
 4. 最新官方催化：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
