@@ -1,95 +1,94 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-20T10:59:49.842539+00:00
+- 生成时间：2026-04-20T12:03:33.139729+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 SCHIZO SIGNALS，所在链为 Solana，叙事强度 84.17。
-- 当前平均叙事强度为 82.03，其中已确认叙事 0 个。
+- 当前最强叙事是 SCHIZO SIGNALS，所在链为 Solana，叙事强度 82.05。
+- 当前平均叙事强度为 78.44，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
-- 记忆层显示 Pixel Dumb Money 当前处于“新出现”状态。
+- 记忆层显示 Grunc 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-04-21。
 
 ## 叙事雷达
 
-- SCHIZO SIGNALS | Solana | 加速中 | 强度 84.17 | 质量 74.67
+- SCHIZO SIGNALS | Solana | 加速中 | 强度 82.05 | 质量 74.74
   - 主题摘要：SCHIZO SIGNALS addresses the frustration of traders who experience sudden market reversals after perfect setups. The token's name reflects the chaotic nature of crypto markets, wh…
-  - 资金 100.00 / 广度 70.94 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 71.18 / 确认 24.48 / 脆弱性 10.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pixel Dumb Money | Solana | 加速中 | 强度 83.31 | 质量 73.31
-  - 主题摘要：PDM (Pixel Dumb Money) is a meme token inspired by internet culture, featuring a pixelated Bitcoin logo with a red bandana. The community slogan 'JOIN US BEFORE MIGRATION = CHAD'…
-  - 资金 100.00 / 广度 66.94 / 确认 23.76 / 脆弱性 14.00
+- Spacex 吉祥物 | BSC | 加速中 | 强度 81.30 | 质量 77.74
+  - 主题摘要：According to Aster 🥷's post, the user inquired about trading the Space Dog Meme image on their platform and offered assistance in opening an account.
+  - 资金 100.00 / 广度 93.87 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Meme图 Trending in Crypto Community | Solana | 降温中 | 强度 82.59 | 质量 71.34
-  - 主题摘要：Multiple tokens named 「ONLYHUB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.94 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Spacex 吉祥物 | BSC | 加速中 | 强度 82.52 | 质量 79.34
-  - 主题摘要：Aster 🥷 responded to a post listing various Meme图-related market movements, offering to assist users in trading these assets on their decentralized exchange platform. The post imp…
-  - 资金 100.00 / 广度 94.19 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Tardi | Solana | 降温中 | 强度 82.21 | 质量 69.51
-  - 主题摘要：Multiple tokens named 「TARDI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.22 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Celebratory Token Airdrop and Campaign | Solana | 加速中 | 强度 81.76 | 质量 70.42
-  - 主题摘要：According to clipz's post, a celebratory token drop is being organized for 4/20, alongside an upcoming bullposting campaign in collaboration with Shillz Official. Details remain u…
-  - 资金 100.00 / 广度 82.96 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asteroid Shiba Perp Listing on Aster DEX | BSC | 加速中 | 强度 81.02 | 质量 77.06
+- Asteroid Shiba Perp Listing on Aster DEX | BSC | 加速中 | 强度 80.89 | 质量 77.03
   - 主题摘要：According to Aster 🥷's post, Asteroid Shiba ($ASTEROID) perpetual contracts with up to 3x leverage have been listed on Aster DEX, offering users increased trading incentives until…
-  - 资金 100.00 / 广度 90.40 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.30 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Sunrise Over the Strait Reference | Solana | 加速中 | 强度 80.90 | 质量 68.02
-  - 主题摘要：Toly, co-founder of Solana Labs, referenced 'Sunrise over the straight' in a reply to Trent, coinciding with the deployment of the token 'sunrise over the straight' on Solana via…
-  - 资金 100.00 / 广度 81.60 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asteroid Token Launch by Aster DEX | BSC | 加速中 | 强度 80.41 | 质量 76.26
+- Asteroid Token Launch by Aster DEX | BSC | 加速中 | 强度 80.28 | 质量 76.23
   - 主题摘要：According to Leonard 💛 Aster 🥷's post, Asteroid is being promoted as a high-leverage trading opportunity on Aster DEX, with the implication that it represents the next 'moonshot'…
-  - 资金 100.00 / 广度 90.36 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.26 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BSC Builders Buying ASTEROID | BSC | 加速中 | 强度 80.41 | 质量 76.25
+- BSC Builders Buying ASTEROID | BSC | 加速中 | 强度 80.28 | 质量 76.22
   - 主题摘要：According to K.Wen's post, BSC-based builders are encouraged to buy $ASTEROID to reverse Ethereum mainnet dominance, citing BSC's natural listing advantages and the aspiration for…
-  - 资金 100.00 / 广度 90.41 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.31 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AsterDEX Expands Market Access with ASTER | BSC | 加速中 | 强度 80.41 | 质量 76.25
+- AsterDEX Expands Market Access with ASTER | BSC | 加速中 | 强度 80.28 | 质量 76.22
   - 主题摘要：According to Ryan | Aster 🥷🏻's post, AsterDEX, led by Leonard, is expanding market access by listing in-demand tokens such as $ASTER, $RAVE, $GENIUS, and others, aiming to provide…
-  - 资金 100.00 / 广度 90.41 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.31 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Liv's Asteroid Meme Figure Collaborates with SpaceX | BSC | 加速中 | 强度 80.41 | 质量 76.25
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | BSC | 加速中 | 强度 80.28 | 质量 76.22
   - 主题摘要：Liv, daughter of Rebecca Perrotto, designed a Zero-G indicator named Asteroid for SpaceX, which was realized without revisions and featured 'fluffy ears' as per her vision. Accord…
-  - 资金 100.00 / 广度 90.41 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.31 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Liv Perrotto’s SpaceX Dream | BSC | 已确认 | 强度 80.32 | 质量 78.35
+- Tardi | Solana | 降温中 | 强度 80.05 | 质量 69.39
+  - 主题摘要：Multiple tokens named 「TARDI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.27 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Liv Perrotto’s SpaceX Dream | BSC | 已确认 | 强度 79.90 | 质量 78.28
   - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
-  - 资金 100.00 / 广度 95.75 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 95.52 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon Musk Considers Taking Tesla Private | Solana | 加速中 | 强度 79.27 | 质量 65.77
-  - 主题摘要：Multiple tokens named 「420」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.90 / 确认 20.16 / 脆弱性 14.00
+- Celebratory Token Airdrop and Campaign | Solana | 加速中 | 强度 78.28 | 质量 70.72
+  - 主题摘要：According to T U M A's post, the founder of FaZe provided a wallet for the promotion of the $MLG token, which is associated with the 360noscope420blazeit meme culture. The promote…
+  - 资金 100.00 / 广度 84.41 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Grunc | Solana | 降温中 | 强度 77.64 | 质量 66.47
+  - 主题摘要：Multiple tokens named 「GRUNC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 54.69 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Jared Meme Interaction Trend | Solana | 降温中 | 强度 77.30 | 质量 65.32
+  - 主题摘要：According to ganstahardster's post, the 'Jared' Meme图 is being widely interacted with by traders, particularly those associated with Solana and Ethereum. The post references inter…
+  - 资金 100.00 / 广度 83.77 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Fake FAZE Token Meme Sent to Iclipz | Solana | 降温中 | 强度 76.90 | 质量 68.01
+  - 主题摘要：According to chickchickdev's post, a fake FAZE token was sent to iclipz, founder of FaZe Clan, as a humorous reference to the group's controversial IPO and subsequent market perfo…
+  - 资金 100.00 / 广度 82.52 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Thenos - Power beyond limits. | Solana | 降温中 | 强度 76.84 | 质量 70.17
+  - 主题摘要：THENOS is a memecoin inspired by cosmic power, featuring a futuristic, neon-colored logo with a cosmic symbol. It aims to empower users beyond traditional limits with its fast tra…
+  - 资金 100.00 / 广度 70.73 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.03，其中已确认叙事 0 个。
-- Pixel Dumb Money 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Meme图 Trending in Crypto Community 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.44，其中已确认叙事 0 个。
+- Tardi 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Spacex 吉祥物 | 质量 79.34 | 可交易性 100.00 | 风险 低
-- Liv Perrotto’s SpaceX Dream | 质量 78.35 | 可交易性 100.00 | 风险 低
-- Asteroid Shiba Perp Listing on Aster DEX | 质量 77.06 | 可交易性 99.19 | 风险 低
-- Asteroid Token Launch by Aster DEX | 质量 76.26 | 可交易性 99.19 | 风险 低
-- BSC Builders Buying ASTEROID | 质量 76.25 | 可交易性 99.19 | 风险 低
-- AsterDEX Expands Market Access with ASTER | 质量 76.25 | 可交易性 99.19 | 风险 低
-- Liv's Asteroid Meme Figure Collaborates with SpaceX | 质量 76.25 | 可交易性 99.19 | 风险 低
-- SCHIZO SIGNALS | 质量 74.67 | 可交易性 100.00 | 风险 低
-- Pixel Dumb Money | 质量 73.31 | 可交易性 100.00 | 风险 低
-- Meme图 Trending in Crypto Community | 质量 71.34 | 可交易性 100.00 | 风险 低
+- Liv Perrotto’s SpaceX Dream | 质量 78.28 | 可交易性 100.00 | 风险 低
+- Spacex 吉祥物 | 质量 77.74 | 可交易性 100.00 | 风险 低
+- Asteroid Shiba Perp Listing on Aster DEX | 质量 77.03 | 可交易性 99.11 | 风险 低
+- Asteroid Token Launch by Aster DEX | 质量 76.23 | 可交易性 99.11 | 风险 低
+- BSC Builders Buying ASTEROID | 质量 76.22 | 可交易性 99.11 | 风险 低
+- AsterDEX Expands Market Access with ASTER | 质量 76.22 | 可交易性 99.11 | 风险 低
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | 质量 76.22 | 可交易性 99.11 | 风险 低
+- SCHIZO SIGNALS | 质量 74.74 | 可交易性 100.00 | 风险 低
+- Celebratory Token Airdrop and Campaign | 质量 70.72 | 可交易性 73.38 | 风险 低
+- Thenos - Power beyond limits. | 质量 70.17 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +130,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：SCHIZO SIGNALS（Solana，分数 84.17）
+1. 当前最强叙事：SCHIZO SIGNALS（Solana，分数 82.05）
 2. 共振最强代币：RAVE（BSC，共振 100.0）
-3. 记忆层变化：Pixel Dumb Money 当前为“新出现”
+3. 记忆层变化：Grunc 当前为“新出现”
 4. 最新官方催化：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-04-21
 #Binance #NarrativeOS #OpenClaw
