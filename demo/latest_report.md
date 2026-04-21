@@ -1,101 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-21T22:56:18.701962+00:00
+- 生成时间：2026-04-21T23:27:30.062356+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Dumbedian，所在链为 Solana，叙事强度 82.44。
-- 当前平均叙事强度为 78.45，其中已确认叙事 0 个。
+- 当前最强叙事是 ACHI Token and Meme Engagement，所在链为 Solana，叙事强度 82.63。
+- 当前平均叙事强度为 75.83，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
-- 记忆层显示 ASDFH: A Super Dog Flying Hero 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 ACHI Token and Meme Engagement，伪叙事风险 52.99。
+- 记忆层显示 SpaceX Acquiring Cursor 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 ACHI Token and Meme Engagement，伪叙事风险 47.79。
 - 最新官方催化来自 新币上新：Binance Will Add Chip (CHIP) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures。
 
 ## 叙事雷达
 
-- Dumbedian | Solana | 降温中 | 强度 82.44 | 质量 72.81
-  - 主题摘要：Dumban (Dumbedian) is a meme token inspired by the viral 'Dumb Bananas' internet phenomenon. The logo features a banana with a red headband, embodying the playful, irreverent spir…
-  - 资金 100.00 / 广度 75.82 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ACHI Token and Meme Engagement | Solana | 点火期 | 强度 81.35 | 质量 79.57
+- ACHI Token and Meme Engagement | Solana | 点火期 | 强度 82.63 | 质量 79.57
   - 主题摘要：According to achichu's post, the individual greeted followers after a long absence without mentioning any specific token or project. The post coincides with the presence of relate…
-  - 资金 100.00 / 广度 98.37 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 98.36 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- ASDFH: A Super Dog Flying Hero | Solana | 降温中 | 强度 79.81 | 质量 70.75
-  - 主题摘要：According to Doji's post, the token $ASDFH, named 'A Super Dog Flying Hero,' appears to be a cryptocurrency referencing a flying dog theme, though no detailed functionality or nar…
-  - 资金 100.00 / 广度 63.69 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Liv Perrotto’s SpaceX Dream | BSC | 已确认 | 强度 79.80 | 质量 74.84
+- Liv Perrotto’s SpaceX Dream | BSC | 已确认 | 强度 80.37 | 质量 75.68
   - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
-  - 资金 100.00 / 广度 89.98 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.97 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Agent Redo Announcement | Solana | 加速中 | 强度 78.64 | 质量 77.70
+- Agent Redo Announcement | Solana | 加速中 | 强度 78.18 | 质量 76.96
   - 主题摘要：According to bandit's post, the CAM token is being discussed as a potential mascot for ChatGPT, though this claim is unverified. Concerns are raised about negative behavior affect…
-  - 资金 100.00 / 广度 90.85 / 确认 20.20 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.06 / 确认 20.20 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged TERMINAL Meme Token Concept | Solana | 加速中 | 强度 78.09 | 质量 68.44
-  - 主题摘要：According to thedevrrrrrr's post, a meme circulating on Crypto Twitter (CT) featuring 'Angel Circe' calling herself a 'Terminal' has inspired a proposed meme token. Thedevrrrrrr s…
-  - 资金 100.00 / 广度 86.14 / 确认 23.76 / 脆弱性 14.00
+- SpaceX Acquiring Cursor | Solana | 加速中 | 强度 77.99 | 质量 67.69
+  - 主题摘要：According to Ephraim P. Schindler's post, SpaceX is allegedly acquiring Cursor AI, with the design lead at Cursor creating the mascot for the acquisition. The claim remains unveri…
+  - 资金 100.00 / 广度 75.89 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Newborn Red-Tailed Monkey at San Diego Zoo | Solana | 降温中 | 强度 77.04 | 质量 65.34
-  - 主题摘要：According to Jircachi0x's post, a newborn unbonded red-tailed monkey is gaining attention at the San Diego Zoo, with media coverage and photo documentation highlighting its early…
-  - 资金 100.00 / 广度 54.46 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNB Lending Dividend DeFi Protocol | BSC | 加速中 | 强度 72.76 | 质量 61.43
-  - 主题摘要：According to 你我借's post, the project introduced a DeFi mechanism where users lend BNB to a treasury, funds are used for buybacks and burns, and dividends are distributed based on…
-  - 资金 100.00 / 广度 76.64 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asteroid Token Launch by Aster DEX | BSC | 加速中 | 强度 72.60 | 质量 68.43
+- Asteroid Token Launch by Aster DEX | BSC | 加速中 | 强度 75.03 | 质量 70.25
   - 主题摘要：According to Leonard 💛 Aster 🥷's post, Aster DEX has listed the token Asteroid, positioning it as a platform for early access to high-potential trading opportunities. The post hig…
-  - 资金 100.00 / 广度 84.10 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.10 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BSC Builders Buying ASTEROID | BSC | 加速中 | 强度 72.60 | 质量 68.43
+- BSC Builders Buying ASTEROID | BSC | 加速中 | 强度 75.03 | 质量 70.25
   - 主题摘要：According to K.Wen's post, builders on the BSC network are encouraged to buy $ASTEROID, with emphasis on BSC's natural listing advantages and the aspiration for significant return…
-  - 资金 100.00 / 广度 84.10 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.10 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asteroid Shiba Perp Listing on Aster DEX | BSC | 加速中 | 强度 72.60 | 质量 68.43
+- Asteroid Shiba Perp Listing on Aster DEX | BSC | 加速中 | 强度 75.03 | 质量 70.25
   - 主题摘要：According to Aster 🥷's post, Asteroid Shiba ($ASTEROID) perpetual contract trading is now available on Aster DEX with up to 3x leverage, offering users increased trading incentive…
-  - 资金 100.00 / 广度 84.10 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.10 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Liv's Asteroid Meme Figure Collaborates with SpaceX | BSC | 加速中 | 强度 72.60 | 质量 68.43
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | BSC | 加速中 | 强度 75.03 | 质量 70.25
   - 主题摘要：Liv, daughter of Rebecca Perrotto and a pediatric cancer fighter, designed the Asteroid Meme figure which was later incorporated into a SpaceX project. According to Rebecca Perrot…
-  - 资金 100.00 / 广度 84.10 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.10 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Spacex 吉祥物 | BSC | 点火期 | 强度 72.43 | 质量 68.32
+- Alleged TERMINAL Meme Token Concept | Solana | 加速中 | 强度 74.71 | 质量 68.15
+  - 主题摘要：According to thedevrrrrrr's post, a meme circulating on Crypto Twitter (CT) featuring 'Angel Circe' calling herself a 'Terminal' has inspired a proposed meme token. Thedevrrrrrr s…
+  - 资金 100.00 / 广度 86.22 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- BNB Lending Dividend DeFi Protocol | BSC | 加速中 | 强度 74.26 | 质量 61.65
+  - 主题摘要：According to 你我借's post, the project introduced a DeFi mechanism where users lend BNB to a treasury, funds are used for buybacks and burns, and dividends are distributed based on…
+  - 资金 100.00 / 广度 76.68 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Spacex 吉祥物 | BSC | 点火期 | 强度 72.54 | 质量 66.71
   - 主题摘要：According to Aster 🥷's post, the '太空狗' Meme图 mentioned in the reply is among the tokens that can be traded on the Aster decentralized exchange platform.
-  - 资金 100.00 / 广度 83.86 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.87 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Hallelujah Meme Image Shared | Solana | 加速中 | 强度 71.77 | 质量 60.71
-  - 主题摘要：According to Toronto Tempo's post, the phrase 'EVERYTHING HALLELUJAH' has been associated with a Meme图, potentially inspiring related cryptocurrency tokens. The tokens listed appe…
-  - 资金 100.00 / 广度 73.53 / 确认 24.48 / 脆弱性 24.00
+- 蝴蝶平台首个投资理财出局金库协议 | BSC | 加速中 | 强度 71.27 | 质量 59.04
+  - 主题摘要：理財人生 (Butterfly Platform's first investment exit vault protocol) offers a unique financial solution with 2x exit options, 80% dividend, 10% dividend for holders, and 10% token des…
+  - 资金 100.00 / 广度 72.63 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Hallelujah Meme Image Shared | Solana | 加速中 | 强度 71.16 | 质量 60.53
+  - 主题摘要：According to Toronto Tempo's post, the phrase 'EVERYTHING HALLELUJAH' has been associated with a Meme图, potentially inspiring related cryptocurrency tokens. The tokens listed appe…
+  - 资金 100.00 / 广度 73.56 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Flying Car Coin Mentioned by Cobie | Solana | 点火期 | 强度 70.31 | 质量 62.86
+  - 主题摘要：According to rara's post, Cobie released a Meme image associated with the ticker 'FLYING CAR COIN'. The post references a Twitch clip, suggesting a connection between the Meme and…
+  - 资金 100.00 / 广度 84.56 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.45，其中已确认叙事 0 个。
-- BNB Lending Dividend DeFi Protocol 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Dumbedian 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.83，其中已确认叙事 0 个。
+- SpaceX Acquiring Cursor 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 
 ## 质量榜
 
 - ACHI Token and Meme Engagement | 质量 79.57 | 可交易性 100.00 | 风险 低
-- Agent Redo Announcement | 质量 77.70 | 可交易性 93.35 | 风险 低
-- Liv Perrotto’s SpaceX Dream | 质量 74.84 | 可交易性 100.00 | 风险 低
-- Dumbedian | 质量 72.81 | 可交易性 100.00 | 风险 低
-- ASDFH: A Super Dog Flying Hero | 质量 70.75 | 可交易性 100.00 | 风险 低
-- Alleged TERMINAL Meme Token Concept | 质量 68.44 | 可交易性 64.57 | 风险 低
-- Asteroid Token Launch by Aster DEX | 质量 68.43 | 可交易性 100.00 | 风险 低
-- BSC Builders Buying ASTEROID | 质量 68.43 | 可交易性 100.00 | 风险 低
-- Asteroid Shiba Perp Listing on Aster DEX | 质量 68.43 | 可交易性 100.00 | 风险 低
-- Liv's Asteroid Meme Figure Collaborates with SpaceX | 质量 68.43 | 可交易性 100.00 | 风险 低
+- Agent Redo Announcement | 质量 76.96 | 可交易性 91.65 | 风险 低
+- Liv Perrotto’s SpaceX Dream | 质量 75.68 | 可交易性 100.00 | 风险 低
+- Asteroid Token Launch by Aster DEX | 质量 70.25 | 可交易性 100.00 | 风险 低
+- BSC Builders Buying ASTEROID | 质量 70.25 | 可交易性 100.00 | 风险 低
+- Asteroid Shiba Perp Listing on Aster DEX | 质量 70.25 | 可交易性 100.00 | 风险 低
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | 质量 70.25 | 可交易性 100.00 | 风险 低
+- Alleged TERMINAL Meme Token Concept | 质量 68.15 | 可交易性 63.00 | 风险 低
+- SpaceX Acquiring Cursor | 质量 67.69 | 可交易性 74.97 | 风险 低
+- Spacex 吉祥物 | 质量 66.71 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- ACHI Token and Meme Engagement | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Spacex 吉祥物 | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- ACHI Token and Meme Engagement | 风险 47.79 | 原因：流动性偏薄
+- Spacex 吉祥物 | 风险 42.03 | 原因：流动性偏薄
+- Flying Car Coin Mentioned by Cobie | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -134,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Dumbedian（Solana，分数 82.44）
+1. 当前最强叙事：ACHI Token and Meme Engagement（Solana，分数 82.63）
 2. 共振最强代币：RAVE（BSC，共振 100.0）
-3. 记忆层变化：ASDFH: A Super Dog Flying Hero 当前为“新出现”
+3. 记忆层变化：SpaceX Acquiring Cursor 当前为“新出现”
 4. 最新官方催化：Binance Will Add Chip (CHIP) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 #Binance #NarrativeOS #OpenClaw
