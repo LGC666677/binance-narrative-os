@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-22T08:13:19.850942+00:00
+- 生成时间：2026-04-22T09:50:55.068959+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Extraterrestrial Fund，所在链为 Solana，叙事强度 81.14。
-- 当前平均叙事强度为 74.97，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 BELIEF，来自 Solana，共振分数 100.0。
-- 记忆层显示 Uncertain:Binance MENA Announces New Journey 当前处于“新出现”状态。
+- 当前最强叙事是 Launch of Custom Timelines on X，所在链为 Solana，叙事强度 87.84。
+- 当前平均叙事强度为 78.95，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 WOD，来自 BSC，共振分数 100.0。
+- 记忆层显示 Launch of Custom Timelines on X 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Make Human Great Again，伪叙事风险 40.99。
 - 最新官方催化来自 币安最新公告：Binance Earn Yield Arena: Earn Up to 12% APR With This Week’s New Limited-Time Offers! (2026-04-22)。
 
 ## 叙事雷达
 
-- Extraterrestrial Fund | Solana | 加速中 | 强度 81.14 | 质量 74.94
+- Launch of Custom Timelines on X | Solana | 加速中 | 强度 87.84 | 质量 78.89
+  - 主题摘要：According to Nikita Bier's post, X is launching Custom Timelines, a feature that allows users to pin specific topics to their home tab, powered by Grok and personalized algorithmi…
+  - 资金 100.00 / 广度 88.08 / 确认 20.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Flork Relaunch with Cashback | Solana | 降温中 | 强度 84.66 | 质量 74.14
+  - 主题摘要：Mercy claims to be the original developer of a meme token called Flork that previously reached a market cap of $35 million. According to Mercy's post, Flork is being relaunched as…
+  - 资金 100.00 / 广度 89.65 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Extraterrestrial Fund | Solana | 加速中 | 强度 82.25 | 质量 75.00
   - 主题摘要：According to ETF's post, a Meme图 referencing an alien invasion was shared in connection with speculation about a potential liquidity crisis. ETF suggested preparing with extraterr…
-  - 资金 100.00 / 广度 79.52 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.79 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance MENA Announces New Journey | BSC | 已确认 | 强度 78.90 | 质量 74.28
-  - 主题摘要：According to Binance MENA's post, the organization signals the completion of a mission and the beginning of a new journey, prompting anticipation for the next level of development.
-  - 资金 100.00 / 广度 79.29 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Agent Redo Announcement | Solana | 加速中 | 强度 77.97 | 质量 74.49
+- Agent Redo Announcement | Solana | 加速中 | 强度 78.49 | 质量 74.40
   - 主题摘要：According to bandit's post, the CAM token is experiencing deliberate sabotage, affecting its market perception and purchase appeal. The post suggests that CAM has potential to bec…
-  - 资金 100.00 / 广度 87.04 / 确认 20.20 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.09 / 确认 20.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Liv Perrotto’s SpaceX Dream | BSC | 加速中 | 强度 77.35 | 质量 74.09
+- Liv Perrotto’s SpaceX Dream | BSC | 加速中 | 强度 76.93 | 质量 73.08
   - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
-  - 资金 100.00 / 广度 87.80 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.54 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Earth Day Meme Coin Introduction | Solana | 降温中 | 强度 76.01 | 质量 60.87
-  - 主题摘要：Multiple tokens named 「earthcoin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.61 / 确认 9.36 / 脆弱性 14.00
+- Make Human Great Again | Solana | 降温中 | 强度 75.56 | 质量 60.80
+  - 主题摘要：According to Blaze's post, the token 'Make Humans Great Again' (MHGA) experienced a significant price movement following the listing of its counterpart 'Make Aliens Great Again'.…
+  - 资金 100.00 / 广度 82.00 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNB Lending Dividend DeFi Protocol | BSC | 加速中 | 强度 73.91 | 质量 63.82
+- Uncertain:Binance MENA Announces New Journey | BSC | 加速中 | 强度 75.46 | 质量 69.45
+  - 主题摘要：According to Binance MENA's post, a new phase of their mission has commenced, signaling readiness for the next level of engagement and development in the MENA region.
+  - 资金 96.41 / 广度 79.05 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- BNB Lending Dividend DeFi Protocol | BSC | 加速中 | 强度 75.20 | 质量 64.58
   - 主题摘要：According to 你我借's post, it introduces a novel DeFi mechanism where users who lend BNB receive dividends from tax funds. Borrowed funds are used for buybacks and burns, with contr…
-  - 资金 100.00 / 广度 77.03 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.84 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alien Pepe Meme图 Launch Announcement | Solana | 降温中 | 强度 73.38 | 质量 58.11
-  - 主题摘要：According to Doji's post, the Alien Pepe Meme图 has been promoted under the symbol $Aepe, drawing from its origin on 4Chan and referencing its cultural revival. The post links to a…
-  - 资金 100.00 / 广度 74.47 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Heroic Dog Sacrifices Life to Save Children | Solana | 降温中 | 强度 73.21 | 质量 58.70
-  - 主题摘要：According to Ryoko's post, a homeless dog in Odisha sacrificed its life fighting a snake to protect 30 children. The story was shared with a translation note and has drawn widespr…
-  - 资金 100.00 / 广度 75.64 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Crash's Potential Promotion of BRETT | Solana | 降温中 | 强度 73.14 | 质量 59.21
-  - 主题摘要：According to hasan hasanovic's post, 'Crash' allegedly launched a BRETT token on Ethereum and sent it to 50 million addresses. The post claims that 'Crash' has previously driven m…
-  - 资金 100.00 / 广度 67.14 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged TERMINAL Meme Token Concept | Solana | 加速中 | 强度 72.79 | 质量 66.96
+- Alleged TERMINAL Meme Token Concept | Solana | 加速中 | 强度 74.55 | 质量 67.14
   - 主题摘要：According to thedevrrrrrr's post, Pumpfun is alleged to have tokenized a viral Meme image of Angel Circe, who refers to herself as a 'Terminal', by launching a related token with…
-  - 资金 100.00 / 广度 86.72 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.77 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Florka | Solana | 降温中 | 强度 72.10 | 质量 55.90
-  - 主题摘要：Multiple tokens named 「Florka」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.55 / 确认 9.36 / 脆弱性 14.00
+- OG Brett Meme Coin Launch | Solana | 降温中 | 强度 74.40 | 质量 58.37
+  - 主题摘要：According to Alonzo's post, a Meme image related to 'OG Brett' was shared, referencing a Space deployed on 02/20/24. The image appears to be associated with the Brett by Matt Furi…
+  - 资金 100.00 / 广度 78.84 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- VPNAI | BSC | 加速中 | 强度 69.40 | 质量 56.35
-  - 主题摘要：Multiple tokens named 「VPNAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.16 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- here we go again | BSC | 降温中 | 强度 66.93 | 质量 52.29
-  - 主题摘要：Binance's simple and familiar phrase sparks nostalgia and speculation among the crypto community, making it a potential cultural anchor for a meme coin.
-  - 资金 100.00 / 广度 78.32 / 确认 9.36 / 脆弱性 14.00
+- Nintendogs Meme Image Trend in Japan | Solana | 降温中 | 强度 73.86 | 质量 61.38
+  - 主题摘要：According to teddyquant's post, the 'Nintendogs' Meme image is gaining popularity in Japan, with users creating personalized versions featuring their own pets, potentially becomin…
+  - 资金 100.00 / 广度 48.25 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Asteroid Token Launch by Aster DEX | BSC | 加速中 | 强度 66.90 | 质量 65.53
+- Asteroid Token Launch by Aster DEX | BSC | 加速中 | 强度 69.02 | 质量 68.99
   - 主题摘要：Leonard 💛 Aster 🥷, CEO of Aster DEX, humorously referred to Asteroid as 'Aster on steroids' and promoted it as the ideal platform for trading emerging leveraged assets. According…
-  - 资金 100.00 / 广度 82.69 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.39 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Asteroid Shiba Perp Listing on Aster DEX | BSC | 加速中 | 强度 69.02 | 质量 68.99
+  - 主题摘要：According to Aster 🥷's post, Asteroid Shiba ($ASTEROID) perpetual contract trading is now available on Aster DEX with up to 3x leverage, offering users increased trading incentive…
+  - 资金 100.00 / 广度 82.39 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | BSC | 加速中 | 强度 69.02 | 质量 68.99
+  - 主题摘要：Liv, daughter of Rebecca Perrotto and a pediatric cancer fighter, designed the Asteroid Meme figure which was later incorporated into a SpaceX project. According to Rebecca Perrot…
+  - 资金 100.00 / 广度 82.39 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 74.97，其中已确认叙事 0 个。
-- Uncertain:Binance MENA Announces New Journey 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Earth Day Meme Coin Introduction 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.95，其中已确认叙事 0 个。
+- Launch of Custom Timelines on X 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Flork Relaunch with Cashback 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Extraterrestrial Fund | 质量 74.94 | 可交易性 92.34 | 风险 低
-- Agent Redo Announcement | 质量 74.49 | 可交易性 86.44 | 风险 低
-- Uncertain:Binance MENA Announces New Journey | 质量 74.28 | 可交易性 88.67 | 风险 低
-- Liv Perrotto’s SpaceX Dream | 质量 74.09 | 可交易性 100.00 | 风险 低
-- Alleged TERMINAL Meme Token Concept | 质量 66.96 | 可交易性 61.70 | 风险 低
-- Asteroid Token Launch by Aster DEX | 质量 65.53 | 可交易性 98.71 | 风险 低
-- BNB Lending Dividend DeFi Protocol | 质量 63.82 | 可交易性 64.45 | 风险 低
-- Earth Day Meme Coin Introduction | 质量 60.87 | 可交易性 56.43 | 风险 低
-- Crash's Potential Promotion of BRETT | 质量 59.21 | 可交易性 63.35 | 风险 低
-- Heroic Dog Sacrifices Life to Save Children | 质量 58.70 | 可交易性 53.17 | 风险 低
+- Launch of Custom Timelines on X | 质量 78.89 | 可交易性 100.00 | 风险 低
+- Extraterrestrial Fund | 质量 75.00 | 可交易性 92.26 | 风险 低
+- Agent Redo Announcement | 质量 74.40 | 可交易性 86.09 | 风险 低
+- Flork Relaunch with Cashback | 质量 74.14 | 可交易性 90.61 | 风险 低
+- Liv Perrotto’s SpaceX Dream | 质量 73.08 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance MENA Announces New Journey | 质量 69.45 | 可交易性 83.98 | 风险 低
+- Asteroid Token Launch by Aster DEX | 质量 68.99 | 可交易性 98.97 | 风险 低
+- Asteroid Shiba Perp Listing on Aster DEX | 质量 68.99 | 可交易性 98.97 | 风险 低
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | 质量 68.99 | 可交易性 98.97 | 风险 低
+- Alleged TERMINAL Meme Token Concept | 质量 67.14 | 可交易性 62.24 | 风险 低
 
 ## 伪叙事风险
 
+- Make Human Great Again | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Extraterrestrial Fund（Solana，分数 81.14）
-2. 共振最强代币：BELIEF（Solana，共振 100.0）
-3. 记忆层变化：Uncertain:Binance MENA Announces New Journey 当前为“新出现”
+1. 当前最强叙事：Launch of Custom Timelines on X（Solana，分数 87.84）
+2. 共振最强代币：WOD（BSC，共振 100.0）
+3. 记忆层变化：Launch of Custom Timelines on X 当前为“新出现”
 4. 最新官方催化：Binance Earn Yield Arena: Earn Up to 12% APR With This Week’s New Limited-Time Offers! (2026-04-22)
 #Binance #NarrativeOS #OpenClaw
