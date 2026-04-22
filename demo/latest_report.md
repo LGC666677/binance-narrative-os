@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-22T04:53:00.755647+00:00
+- 生成时间：2026-04-22T06:26:49.000060+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Queen's Contempt，所在链为 Solana，叙事强度 84.02。
-- 当前平均叙事强度为 77.39，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 PENGUIN，来自 Solana，共振分数 100.0。
-- 记忆层显示 Queen's Contempt 当前处于“新出现”状态。
+- 当前最强叙事是 LUNCHMONEY，所在链为 Solana，叙事强度 81.33。
+- 当前平均叙事强度为 75.94，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BULL，来自 Solana，共振分数 98.11。
+- 记忆层显示 LUNCHMONEY 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Gold vs BTC: Choose Your Team and Win a Share of Up to $200,000。
 
 ## 叙事雷达
 
-- Queen's Contempt | Solana | 加速中 | 强度 84.02 | 质量 75.34
-  - 主题摘要：According to Bharatwasi 🦸🏻's post, a request was made to convert a picture of Megan Fox into a 7-second video clip using AI technology.
-  - 资金 100.00 / 广度 76.36 / 确认 20.16 / 脆弱性 0.00
+- LUNCHMONEY | Solana | 加速中 | 强度 81.33 | 质量 71.52
+  - 主题摘要：LUNCHMONEY emerged as a protest token against Wall Street's dominance in finance. The logo depicts a red bandana over a Litecoin symbol, symbolizing resistance against financial e…
+  - 资金 100.00 / 广度 63.61 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Extraterrestrial Fund | Solana | 加速中 | 强度 80.90 | 质量 74.61
-  - 主题摘要：According to ETF's post, a liquidity crisis is humorously linked to an alien invasion in a quoted tweet. ETF suggests preparing by investing in 'extra terrestrial funds'. The narr…
-  - 资金 100.00 / 广度 78.35 / 确认 24.48 / 脆弱性 24.00
+- Extraterrestrial Fund | Solana | 加速中 | 强度 79.84 | 质量 74.61
+  - 主题摘要：According to ETF's post, a Meme图 referencing an alien invasion was shared in connection with speculation about a potential liquidity crisis. ETF suggested preparing with extraterr…
+  - 资金 100.00 / 广度 78.92 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Liv Perrotto’s SpaceX Dream | BSC | 加速中 | 强度 77.99 | 质量 73.09
-  - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
-  - 资金 100.00 / 广度 88.78 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- X Launches Custom Timelines Feature | BSC | 加速中 | 强度 76.39 | 质量 66.14
-  - 主题摘要：According to Nikita Bier's post, X is launching a new feature called Custom Timelines, allowing users to pin specific topics to their home tab with personalization powered by Grok…
-  - 资金 100.00 / 广度 71.11 / 确认 31.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mindshare Relaunch with Cashback | Solana | 降温中 | 强度 76.00 | 质量 64.12
-  - 主题摘要：According to Bag's post, they are relaunching the Mindshare token with a cashback feature, having previously achieved a market cap of $2.5M without it. The outcome of this new lau…
-  - 资金 100.00 / 广度 53.63 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Agent Redo Announcement | Solana | 加速中 | 强度 75.83 | 质量 74.75
-  - 主题摘要：According to bandit's post, the CAM token is experiencing deliberate sabotage, affecting its market perception and purchase appeal. The post suggests that CAM has potential to bec…
-  - 资金 100.00 / 广度 87.95 / 确认 20.20 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Lending Dividend DeFi Protocol | BSC | 加速中 | 强度 75.73 | 质量 66.07
+- BNB Lending Dividend DeFi Protocol | BSC | 加速中 | 强度 79.81 | 质量 66.46
   - 主题摘要：According to 你我借's post, the platform introduced a DeFi-based BNB lending mechanism where users lend BNB to receive permanent dividend eligibility. Funds are used for automatic bu…
-  - 资金 100.00 / 广度 78.27 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.00 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged TERMINAL Meme Token Concept | Solana | 加速中 | 强度 74.56 | 质量 67.71
-  - 主题摘要：According to thedevrrrrrr's post, Pumpfun is alleged to have tokenized a viral Meme image of Angel Circe, who refers to herself as a 'Terminal', by launching a related token with…
-  - 资金 100.00 / 广度 86.59 / 确认 23.76 / 脆弱性 14.00
+- Liv Perrotto’s SpaceX Dream | BSC | 已确认 | 强度 78.17 | 质量 74.77
+  - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
+  - 资金 100.00 / 广度 88.14 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Agent Redo Announcement | Solana | 加速中 | 强度 76.38 | 质量 75.28
+  - 主题摘要：According to bandit's post, the CAM token is experiencing deliberate sabotage, affecting its market perception and purchase appeal. The post suggests that CAM has potential to bec…
+  - 资金 100.00 / 广度 87.02 / 确认 20.20 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- THE EXPEDITION | Solana | 降温中 | 强度 73.04 | 质量 62.58
-  - 主题摘要：EXPEDITION token draws inspiration from space exploration, as reflected in its logo featuring an astronaut on the moon with planets in the background. The token's name 'THE EXPEDI…
-  - 资金 100.00 / 广度 62.21 / 确认 16.56 / 脆弱性 14.00
+- Alleged Launch of Andy Meme Coin on Solana | Solana | 降温中 | 强度 76.18 | 质量 66.69
+  - 主题摘要：According to lebombjam's post, there is discussion around launching Andy, a character from the Pepe universe, as a Meme coin on Solana, referencing the recent activity of other Me…
+  - 资金 100.00 / 广度 55.42 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dou Dizhu Vault Launch | BSC | 加速中 | 强度 70.43 | 质量 56.39
-  - 主题摘要：According to 斗地主金库's post, Dou Dizhu Vault is an on-chain Dou Dizhu game built on BNB Chain, featuring a three-player room structure, transaction fees funding rewards and treasury…
-  - 资金 100.00 / 广度 70.18 / 确认 24.48 / 脆弱性 14.00
+- Alleged TERMINAL Meme Token Concept | Solana | 加速中 | 强度 74.65 | 质量 67.14
+  - 主题摘要：According to thedevrrrrrr's post, Pumpfun is alleged to have tokenized a viral Meme image of Angel Circe, who refers to herself as a 'Terminal', by launching a related token with…
+  - 资金 100.00 / 广度 86.65 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asteroid Token Launch by Aster DEX | BSC | 加速中 | 强度 69.60 | 质量 69.67
-  - 主题摘要：According to Leonard 💛 Aster 🥷's post, Aster DEX has positioned itself as the first platform to list 'Asteroid', a token humorously described as 'Aster on steroids'. The post prom…
-  - 资金 100.00 / 广度 82.84 / 确认 20.16 / 脆弱性 24.00
+- Elon Musk and Little Earth Buddy Toy | Solana | 降温中 | 强度 72.32 | 质量 56.19
+  - 主题摘要：According to himmy's post, Elon Musk has repeatedly referenced a toy named Little Earth Buddy by Celestial Buddies, originally linked to an Amazon product page. The post notes tha…
+  - 资金 100.00 / 广度 72.47 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Earth Day Meme Coin Introduction | Solana | 降温中 | 强度 70.87 | 质量 57.92
+  - 主题摘要：According to Esoteric's post, the concept of 'earthcoin' was introduced in the context of Earth Day, suggesting a token for each of the 8.2 billion people globally. The idea align…
+  - 资金 100.00 / 广度 76.75 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 蝴蝶平台首个投资理财出局金库协议 | BSC | 加速中 | 强度 69.59 | 质量 59.98
+  - 主题摘要：理財人生 (Butterfly Platform's first investment exit vault protocol) offers a unique financial solution with 2x exit options, 80% dividend, 10% dividend for holders, and 10% token des…
+  - 资金 100.00 / 广度 73.51 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BSC Builders Buying ASTEROID | BSC | 加速中 | 强度 69.60 | 质量 69.67
-  - 主题摘要：According to K.Wen's post, builders on the BSC network are encouraged to buy $ASTEROID, with emphasis on BSC's natural listing advantages and the aspiration for significant return…
-  - 资金 100.00 / 广度 82.84 / 确认 20.16 / 脆弱性 24.00
+- Asteroid Token Launch by Aster DEX | BSC | 加速中 | 强度 69.11 | 质量 68.67
+  - 主题摘要：Leonard 💛 Aster 🥷, CEO of Aster DEX, humorously referred to Asteroid as 'Aster on steroids' and promoted it as the ideal platform for trading emerging leveraged assets. According…
+  - 资金 100.00 / 广度 83.27 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asteroid Shiba Perp Listing on Aster DEX | BSC | 加速中 | 强度 69.60 | 质量 69.67
+- Asteroid Shiba Perp Listing on Aster DEX | BSC | 加速中 | 强度 69.11 | 质量 68.67
   - 主题摘要：According to Aster 🥷's post, Asteroid Shiba ($ASTEROID) perpetual contract trading is now available on Aster DEX with up to 3x leverage, offering users increased trading incentive…
-  - 资金 100.00 / 广度 82.84 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.27 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Liv's Asteroid Meme Figure Collaborates with SpaceX | BSC | 加速中 | 强度 69.60 | 质量 69.67
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | BSC | 加速中 | 强度 69.11 | 质量 68.67
   - 主题摘要：Liv, daughter of Rebecca Perrotto and a pediatric cancer fighter, designed the Asteroid Meme figure which was later incorporated into a SpaceX project. According to Rebecca Perrot…
-  - 资金 100.00 / 广度 82.84 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.27 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Spacex 吉祥物 | BSC | 降温中 | 强度 68.64 | 质量 66.68
+  - 主题摘要：According to Aster 🥷's post, the '太空狗' Meme图 mentioned in the reply is among the tokens that can be traded on the Aster decentralized exchange platform.
+  - 资金 100.00 / 广度 82.10 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.39，其中已确认叙事 0 个。
-- Queen's Contempt 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Mindshare Relaunch with Cashback 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.94，其中已确认叙事 0 个。
+- LUNCHMONEY 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Launch of Andy Meme Coin on Solana 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Queen's Contempt | 质量 75.34 | 可交易性 100.00 | 风险 低
-- Agent Redo Announcement | 质量 74.75 | 可交易性 86.39 | 风险 低
-- Extraterrestrial Fund | 质量 74.61 | 可交易性 92.41 | 风险 低
-- Liv Perrotto’s SpaceX Dream | 质量 73.09 | 可交易性 100.00 | 风险 低
-- Asteroid Token Launch by Aster DEX | 质量 69.67 | 可交易性 100.00 | 风险 低
-- BSC Builders Buying ASTEROID | 质量 69.67 | 可交易性 100.00 | 风险 低
-- Asteroid Shiba Perp Listing on Aster DEX | 质量 69.67 | 可交易性 100.00 | 风险 低
-- Liv's Asteroid Meme Figure Collaborates with SpaceX | 质量 69.67 | 可交易性 100.00 | 风险 低
-- Alleged TERMINAL Meme Token Concept | 质量 67.71 | 可交易性 61.67 | 风险 低
-- X Launches Custom Timelines Feature | 质量 66.14 | 可交易性 70.55 | 风险 低
+- Agent Redo Announcement | 质量 75.28 | 可交易性 89.11 | 风险 低
+- Liv Perrotto’s SpaceX Dream | 质量 74.77 | 可交易性 100.00 | 风险 低
+- Extraterrestrial Fund | 质量 74.61 | 可交易性 91.84 | 风险 低
+- LUNCHMONEY | 质量 71.52 | 可交易性 100.00 | 风险 低
+- Asteroid Token Launch by Aster DEX | 质量 68.67 | 可交易性 99.19 | 风险 低
+- Asteroid Shiba Perp Listing on Aster DEX | 质量 68.67 | 可交易性 99.19 | 风险 低
+- Liv's Asteroid Meme Figure Collaborates with SpaceX | 质量 68.67 | 可交易性 99.19 | 风险 低
+- Alleged TERMINAL Meme Token Concept | 质量 67.14 | 可交易性 62.38 | 风险 低
+- Alleged Launch of Andy Meme Coin on Solana | 质量 66.69 | 可交易性 100.00 | 风险 低
+- Spacex 吉祥物 | 质量 66.68 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Queen's Contempt（Solana，分数 84.02）
-2. 共振最强代币：PENGUIN（Solana，共振 100.0）
-3. 记忆层变化：Queen's Contempt 当前为“新出现”
+1. 当前最强叙事：LUNCHMONEY（Solana，分数 81.33）
+2. 共振最强代币：BULL（Solana，共振 98.11）
+3. 记忆层变化：LUNCHMONEY 当前为“新出现”
 4. 最新官方催化：Gold vs BTC: Choose Your Team and Win a Share of Up to $200,000
 #Binance #NarrativeOS #OpenClaw
