@@ -1,96 +1,96 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-22T18:52:59.023194+00:00
+- 生成时间：2026-04-22T19:58:01.235037+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Launch of Custom Timelines on X，所在链为 Solana，叙事强度 89.08。
-- 当前平均叙事强度为 83.89，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 BELIEF，来自 Solana，共振分数 100.0。
-- 记忆层显示 FOMO Web Launch Explained 当前处于“新出现”状态。
+- 当前最强叙事是 Launch of Custom Timelines on X，所在链为 Solana，叙事强度 88.97。
+- 当前平均叙事强度为 81.73，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
+- 记忆层显示 Hottest Country Announcement 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 CrashiusClay Promotes ETH-Based Token，伪叙事风险 47.23。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined OPGUSDT Perpetual Contract (2026-04-22)。
 
 ## 叙事雷达
 
-- Launch of Custom Timelines on X | Solana | 已确认 | 强度 89.08 | 质量 83.31
+- Launch of Custom Timelines on X | Solana | 已确认 | 强度 88.97 | 质量 83.36
   - 主题摘要：According to Nikita Bier's post, X is launching Custom Timelines, a new feature that allows users to pin specific topics to their home tab, offering personalized content feeds bas…
-  - 资金 100.00 / 广度 94.92 / 确认 31.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.07 / 确认 31.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- FOMO Web Launch Explained | Solana | 加速中 | 强度 89.00 | 质量 80.35
-  - 主题摘要：According to fomo's post, FOMO is launching a web version that extends its social-first trading experience beyond the mobile app, aiming to change perceptions of Buttcoin and Boob…
-  - 资金 100.00 / 广度 91.75 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Flork Relaunch with Cashback | Solana | 加速中 | 强度 87.33 | 质量 80.97
-  - 主题摘要：Mercy, self-identified as the original developer of Flork, announced the relaunch of the token, claiming it will become the new X icon for memes and benefit from free advertising.
-  - 资金 100.00 / 广度 95.12 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- uncraft | Solana | 加速中 | 强度 85.32 | 质量 77.66
+- uncraft | Solana | 加速中 | 强度 88.57 | 质量 78.53
   - 主题摘要：uncraft token draws inspiration from Minecraft's pixelated aesthetic, featuring a character with sunglasses in its logo. The project embraces the nostalgic gaming culture, creatin…
-  - 资金 100.00 / 广度 80.91 / 确认 24.48 / 脆弱性 10.00
+  - 资金 100.00 / 广度 83.80 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Make Trading Great Again | Solana | 降温中 | 强度 84.15 | 质量 73.91
-  - 主题摘要：According to Jesse Watters's post, the Iranian Guard has taken Ayatollah hostage, blocked peace talks, and economic collapse is imminent. U.S. warships are moving into the region,…
-  - 资金 100.00 / 广度 87.28 / 确认 16.56 / 脆弱性 14.00
+- Flork Relaunch with Cashback | Solana | 加速中 | 强度 86.04 | 质量 81.01
+  - 主题摘要：Mercy, self-identified as the original developer of Flork, announced the relaunch of the token, claiming it will become the new X icon for memes and benefit from continuous free a…
+  - 资金 100.00 / 广度 95.26 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Hottest Country Announcement | Solana | 降温中 | 强度 78.88 | 质量 66.12
+  - 主题摘要：Multiple tokens named 「MAGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.69 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Extraterrestrial Fund | Solana | 加速中 | 强度 81.68 | 质量 78.04
-  - 主题摘要：According to ETF's post, a Meme图 referencing an alien invasion was tied to speculation about an impending liquidity crisis. ETF suggested preparing by investing in 'extra terrestr…
-  - 资金 100.00 / 广度 82.18 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Liv Perrotto’s SpaceX Dream | BSC | 已确认 | 强度 78.71 | 质量 75.50
-  - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
-  - 资金 100.00 / 广度 87.26 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Launches Alpha Page | BSC | 加速中 | 强度 77.97 | 质量 71.29
+- Binance Launches Alpha Page | BSC | 已确认 | 强度 78.66 | 质量 71.48
   - 主题摘要：Binance introduced a new Alpha Page to track and showcase Alpha Points and tokens that have progressed to official listings. This initiative aims to offer insights into historical…
-  - 资金 100.00 / 广度 83.05 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asymmetry in Communities | Solana | 降温中 | 强度 77.68 | 质量 68.99
-  - 主题摘要：According to Pump.fun's post, the author is attempting to identify which among several communities exhibits the highest level of asymmetry, though no specific token or claim is ma…
-  - 资金 100.00 / 广度 82.21 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.24 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- X Announces Product Changes for Communities | Solana | 降温中 | 强度 78.47 | 质量 70.32
+  - 主题摘要：Nikita Bier announced that X is launching Groupchat Links to streamline community engagement, while sunsetting X Communities on May 6. Communities are encouraged to migrate member…
+  - 资金 100.00 / 广度 80.54 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CrashiusClay Promotes ETH-Based Token | Solana | 点火期 | 强度 76.88 | 质量 73.53
+- Make Trading Great Again | Solana | 加速中 | 强度 78.32 | 质量 74.18
+  - 主题摘要：According to Jesse Watters's post, the Iranian Guard has taken Ayatollah hostage, blocked peace talks, and economic collapse is imminent. U.S. warships are moving into the region,…
+  - 资金 100.00 / 广度 87.86 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Reviving Ethereum's Culture and Dominance | Solana | 降温中 | 强度 78.14 | 质量 64.35
+  - 主题摘要：According to MAKE ETH GREAT AGAIN's post, there is a growing sentiment calling for the resurgence of Ethereum's prominence in the crypto space, emphasizing culture, liquidity, and…
+  - 资金 100.00 / 广度 77.95 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CrashiusClay Promotes ETH-Based Token | Solana | 点火期 | 强度 76.44 | 质量 73.41
   - 主题摘要：According to Ephraim P. Schindler's post, CrashiusClay has allegedly launched a new token on Ethereum and distributed 50 million tokens. The post claims that CrashiusClay previous…
-  - 资金 100.00 / 广度 86.44 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.50 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- FlapFXJ - Non-custodial DeFi Lending and Dividend Protocol | BSC | 加速中 | 强度 72.79 | 质量 65.92
-  - 主题摘要：According to bianca.'s post, Flap is a non-custodial DeFi protocol where users lend BNB or USDT via dapp and receive permanent dividend eligibility. Funds enter an auto-buyback qu…
-  - 资金 100.00 / 广度 75.17 / 确认 23.76 / 脆弱性 24.00
+- Liv Perrotto’s SpaceX Dream | BSC | 加速中 | 强度 75.47 | 质量 72.52
+  - 主题摘要：Elon Musk responded to a touching story about 15-year-old Liv Perrotto, who dreamed of meeting him before passing away from cancer. Her handwritten questions, including about Japa…
+  - 资金 100.00 / 广度 87.26 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- VPNAI | BSC | 加速中 | 强度 71.87 | 质量 59.67
+- VPNAI | BSC | 加速中 | 强度 74.97 | 质量 59.95
   - 主题摘要：Multiple tokens named 「VPNAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.37 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.45 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FlapFXJ - Non-custodial DeFi Lending and Dividend Protocol | BSC | 加速中 | 强度 69.32 | 质量 60.03
-  - 主题摘要：According to bianca.'s post, FlapFXJ is a non-custodial DeFi protocol where users lend BNB or USDT through a dApp, triggering automatic buybacks and burns. Lenders receive BNB div…
-  - 资金 100.00 / 广度 73.44 / 确认 23.76 / 脆弱性 24.00
+- FlapFXJ - Non-custodial DeFi Lending and Dividend Protocol | BSC | 加速中 | 强度 74.11 | 质量 65.95
+  - 主题摘要：According to bianca.'s post, Flap is a non-custodial DeFi protocol where users lend BNB or USDT through a dapp, triggering automatic buybacks and burns. Lenders receive BNB divide…
+  - 资金 100.00 / 广度 75.21 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asteroid Token Launch by Aster DEX | BSC | 加速中 | 强度 67.71 | 质量 67.16
-  - 主题摘要：Leonard 💛 Aster 🥷, CEO of Aster DEX, humorously referred to Asteroid as 'Aster on steroids' and promoted it as the ideal platform for trading emerging leveraged assets. According…
-  - 资金 100.00 / 广度 81.15 / 确认 30.96 / 脆弱性 24.00
+- 蝴蝶白条 | BSC | 加速中 | 强度 73.10 | 质量 58.67
+  - 主题摘要：According to 蝴蝶白条's post, the mechanism involves a mandatory token purchase within 100 seconds after borrowing BNB from the treasury, or face token destruction. Borrowing is limit…
+  - 资金 100.00 / 广度 72.60 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FlapFXJ - Non-custodial DeFi Lending and Dividend Protocol | BSC | 加速中 | 强度 70.63 | 质量 60.06
+  - 主题摘要：According to bianca.'s post, Flapfxj is a non-custodial DeFi protocol where users lend BNB or USDT through a dApp, triggering automatic buybacks and burns via smart contract. Lend…
+  - 资金 100.00 / 广度 73.48 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.89，其中已确认叙事 1 个。
-- FOMO Web Launch Explained 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Make Trading Great Again 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.73，其中已确认叙事 1 个。
+- 蝴蝶白条 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Hottest Country Announcement 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Launch of Custom Timelines on X | 质量 83.31 | 可交易性 100.00 | 风险 低
-- Flork Relaunch with Cashback | 质量 80.97 | 可交易性 100.00 | 风险 低
-- FOMO Web Launch Explained | 质量 80.35 | 可交易性 96.03 | 风险 低
-- Extraterrestrial Fund | 质量 78.04 | 可交易性 100.00 | 风险 低
-- uncraft | 质量 77.66 | 可交易性 100.00 | 风险 低
-- Liv Perrotto’s SpaceX Dream | 质量 75.50 | 可交易性 100.00 | 风险 低
-- Make Trading Great Again | 质量 73.91 | 可交易性 86.95 | 风险 低
-- CrashiusClay Promotes ETH-Based Token | 质量 73.53 | 可交易性 86.51 | 风险 低
-- Binance Launches Alpha Page | 质量 71.29 | 可交易性 74.00 | 风险 低
-- Asymmetry in Communities | 质量 68.99 | 可交易性 80.90 | 风险 低
+- Launch of Custom Timelines on X | 质量 83.36 | 可交易性 100.00 | 风险 低
+- Flork Relaunch with Cashback | 质量 81.01 | 可交易性 100.00 | 风险 低
+- uncraft | 质量 78.53 | 可交易性 100.00 | 风险 低
+- Make Trading Great Again | 质量 74.18 | 可交易性 84.63 | 风险 低
+- CrashiusClay Promotes ETH-Based Token | 质量 73.41 | 可交易性 86.05 | 风险 低
+- Liv Perrotto’s SpaceX Dream | 质量 72.52 | 可交易性 100.00 | 风险 低
+- Binance Launches Alpha Page | 质量 71.48 | 可交易性 74.44 | 风险 低
+- X Announces Product Changes for Communities | 质量 70.32 | 可交易性 87.00 | 风险 低
+- Hottest Country Announcement | 质量 66.12 | 可交易性 72.57 | 风险 低
+- FlapFXJ - Non-custodial DeFi Lending and Dividend Protocol | 质量 65.95 | 可交易性 67.20 | 风险 低
 
 ## 伪叙事风险
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Launch of Custom Timelines on X（Solana，分数 89.08）
-2. 共振最强代币：BELIEF（Solana，共振 100.0）
-3. 记忆层变化：FOMO Web Launch Explained 当前为“新出现”
+1. 当前最强叙事：Launch of Custom Timelines on X（Solana，分数 88.97）
+2. 共振最强代币：RAVE（BSC，共振 100.0）
+3. 记忆层变化：Hottest Country Announcement 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined OPGUSDT Perpetual Contract (2026-04-22)
 #Binance #NarrativeOS #OpenClaw
