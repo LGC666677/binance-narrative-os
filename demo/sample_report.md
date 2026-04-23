@@ -1,102 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-23T19:54:01.415044+00:00
+- 生成时间：2026-04-23T20:40:51.509427+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
-- 高风险伪叙事：3
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 Kid Brushes Crocodile Teeth Meme，所在链为 Solana，叙事强度 85.2。
-- 当前平均叙事强度为 79.11，其中已确认叙事 0 个。
+- 当前最强叙事是 👏 CZ's Reaction to TeufeurS Ransom，所在链为 BSC，叙事强度 84.55。
+- 当前平均叙事强度为 76.02，其中已确认叙事 2 个。
 - 注意力与资金共振最强的代币是 GENIUS，来自 BSC，共振分数 100.0。
-- 记忆层显示 THE PORINGMAN 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Top MAGA Influencer is AI Created，伪叙事风险 50.11。
+- 记忆层显示 Elien Musk 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Kid Brushes Crocodile Teeth Meme，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：VANA Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers。
 
 ## 叙事雷达
 
-- Kid Brushes Crocodile Teeth Meme | Solana | 降温中 | 强度 85.20 | 质量 77.78
-  - 主题摘要：According to wompusdev's post, a TikTok video featuring a kid brushing a living crocodile's teeth has gained over 40 million views and millions of likes within a day, with comment…
-  - 资金 100.00 / 广度 92.41 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 已确认 | 强度 82.75 | 质量 79.70
+- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 已确认 | 强度 84.55 | 质量 79.70
   - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
-  - 资金 100.00 / 广度 82.43 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.44 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- CZ asks for signature design ideas | BSC | 已确认 | 强度 82.26 | 质量 79.00
+- CZ asks for signature design ideas | BSC | 已确认 | 强度 84.06 | 质量 79.00
   - 主题摘要：CZ jokingly asked for signature design ideas after receiving physical copies of his book 'Freedom of Money', sparking fan engagement with humorous and creative suggestions.
-  - 资金 100.00 / 广度 82.74 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.75 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- White Blob Meme Clarification | Solana | 加速中 | 强度 81.27 | 质量 75.28
+- White Blob Meme Clarification | Solana | 加速中 | 强度 80.81 | 质量 75.05
   - 主题摘要：According to Grok's post, the image in question is identified as the White Blob meme, also known as White Creature or minimalist white stick blob reaction. The statement was made…
-  - 资金 100.00 / 广度 85.09 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.41 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Top MAGA Influencer is AI Created | Solana | 点火期 | 强度 80.32 | 质量 78.33
+- Kid Brushes Crocodile Teeth Meme | Solana | 点火期 | 强度 80.20 | 质量 77.76
+  - 主题摘要：According to wompusdev's post, a TikTok video featuring a kid brushing a living crocodile's teeth has gained over 40 million views and millions of likes within a day, with comment…
+  - 资金 100.00 / 广度 92.34 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Top MAGA Influencer is AI Created | Solana | 点火期 | 强度 80.03 | 质量 78.31
   - 主题摘要：According to New York Post's post, a prominent MAGA influencer was discovered to be an AI-generated persona, created by an individual in India who profited from engaging with lone…
-  - 资金 100.00 / 广度 91.60 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 91.53 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- One coin and a dream | Solana | 点火期 | 强度 78.08 | 质量 76.04
+- One coin and a dream | Solana | 点火期 | 强度 79.79 | 质量 76.03
   - 主题摘要：Multiple tokens named 「SAM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 97.67 / 确认 16.60 / 脆弱性 24.00
+  - 资金 100.00 / 广度 97.63 / 确认 16.60 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Justice for Evelyn | Solana | 加速中 | 强度 77.43 | 质量 72.24
-  - 主题摘要：According to Jenniaos's post, the individual in question is not Evelyn Ha but the first of three sisters, with Evelyn Ha appearing in the second photo. The post seeks to clarify i…
-  - 资金 89.74 / 广度 87.32 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Self-Aware Meme Concept Explained | Solana | 点火期 | 强度 77.35 | 质量 75.01
+- Self-Aware Meme Concept Explained | Solana | 点火期 | 强度 79.06 | 质量 75.00
   - 主题摘要：According to hyam.sol's post, a Self-Aware Meme describes a cyclical process where a meme generates a token, the token creates a market, the market draws attention, and the attent…
-  - 资金 100.00 / 广度 97.70 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 97.66 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Solana Wallet Twin Inquiry | Solana | 点火期 | 强度 77.34 | 质量 75.00
+- Solana Wallet Twin Inquiry | Solana | 点火期 | 强度 79.04 | 质量 74.99
   - 主题摘要：According to Shoalstone's post, a user asked about their Solana wallet twin, prompting a response that may relate to wallet identity or pairing on the Solana blockchain.
-  - 资金 100.00 / 广度 97.67 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 97.63 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- THE PORINGMAN | Solana | 降温中 | 强度 75.87 | 质量 63.27
+- Elien Musk | Solana | 点火期 | 强度 77.47 | 质量 74.23
+  - 主题摘要：Multiple tokens named 「ELIEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.59 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- THE PORINGMAN | Solana | 降温中 | 强度 75.46 | 质量 63.23
   - 主题摘要：PORINGMAN is a meme token inspired by the concept of 'gravity ending where bounce begins,' as reflected in its description. The logo features a pink character with a space suit, s…
-  - 资金 100.00 / 广度 77.54 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.59 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 大航海时代 | BSC | 加速中 | 强度 73.20 | 质量 61.80
-  - 主题摘要：大航海时代 (Age of Exploration) token draws inspiration from the historical era of maritime exploration and discovery. It aims to create a decentralized ecosystem for blockchain innova…
-  - 资金 100.00 / 广度 75.98 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hey, get up and stretch your legs | BSC | 加速中 | 强度 73.14 | 质量 68.42
-  - 主题摘要：Binance官方账号发布了一条轻松幽默的提醒推文，鼓励用户起身活动双腿，引发了社区对其品牌语气与Meme文化的联想。
-  - 资金 100.00 / 广度 80.89 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Stretch | BSC | 降温中 | 强度 73.10 | 质量 58.24
+- Stretch | BSC | 降温中 | 强度 73.83 | 质量 58.45
   - 主题摘要：STRETCH token embodies the concept of physical fitness and wellness. The minimalist stick figure logo on a yellow background visually represents the stretching theme. The token's…
-  - 资金 100.00 / 广度 73.57 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.82 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Launches Alpha Page | BSC | 加速中 | 强度 72.45 | 质量 64.45
+- Hey, get up and stretch your legs | BSC | 加速中 | 强度 71.87 | 质量 68.38
+  - 主题摘要：Binance官方账号发布了一条轻松幽默的提醒推文，鼓励用户起身活动双腿，引发了社区对其品牌语气与Meme文化的联想。
+  - 资金 100.00 / 广度 80.91 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 大航海时代 | BSC | 加速中 | 强度 71.22 | 质量 61.68
+  - 主题摘要：大航海时代 (Age of Exploration) token draws inspiration from the historical era of maritime exploration and discovery. It aims to create a decentralized ecosystem for blockchain innova…
+  - 资金 100.00 / 广度 75.99 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Launches Alpha Page | BSC | 加速中 | 强度 70.57 | 质量 63.44
   - 主题摘要：Binance introduced a new Alpha Page to track and showcase Alpha Points and tokens that have progressed to official listings. This initiative aims to offer insights into historical…
-  - 资金 100.00 / 广度 80.41 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.33 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.11，其中已确认叙事 0 个。
-- Kid Brushes Crocodile Teeth Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.02，其中已确认叙事 2 个。
+- Elien Musk 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- THE PORINGMAN 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - 👏 CZ's Reaction to TeufeurS Ransom | 质量 79.70 | 可交易性 100.00 | 风险 低
 - CZ asks for signature design ideas | 质量 79.00 | 可交易性 100.00 | 风险 低
-- Top MAGA Influencer is AI Created | 质量 78.33 | 可交易性 100.00 | 风险 低
-- Kid Brushes Crocodile Teeth Meme | 质量 77.78 | 可交易性 100.00 | 风险 低
-- One coin and a dream | 质量 76.04 | 可交易性 83.62 | 风险 低
-- White Blob Meme Clarification | 质量 75.28 | 可交易性 87.89 | 风险 低
-- Self-Aware Meme Concept Explained | 质量 75.01 | 可交易性 82.84 | 风险 低
-- Solana Wallet Twin Inquiry | 质量 75.00 | 可交易性 82.84 | 风险 低
-- Justice for Evelyn | 质量 72.24 | 可交易性 85.79 | 风险 低
-- Hey, get up and stretch your legs | 质量 68.42 | 可交易性 69.22 | 风险 低
+- Top MAGA Influencer is AI Created | 质量 78.31 | 可交易性 100.00 | 风险 低
+- Kid Brushes Crocodile Teeth Meme | 质量 77.76 | 可交易性 100.00 | 风险 低
+- One coin and a dream | 质量 76.03 | 可交易性 83.62 | 风险 低
+- White Blob Meme Clarification | 质量 75.05 | 可交易性 87.79 | 风险 低
+- Self-Aware Meme Concept Explained | 质量 75.00 | 可交易性 82.84 | 风险 低
+- Solana Wallet Twin Inquiry | 质量 74.99 | 可交易性 82.84 | 风险 低
+- Elien Musk | 质量 74.23 | 可交易性 98.01 | 风险 低
+- Hey, get up and stretch your legs | 质量 68.38 | 可交易性 69.07 | 风险 低
 
 ## 伪叙事风险
 
+- Kid Brushes Crocodile Teeth Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - Top MAGA Influencer is AI Created | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Self-Aware Meme Concept Explained | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Solana Wallet Twin Inquiry | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- One coin and a dream | 风险 47.20 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elien Musk | 风险 47.79 | 原因：流动性偏薄
+- Self-Aware Meme Concept Explained | 风险 44.91 | 原因：流动性偏薄
+- Solana Wallet Twin Inquiry | 风险 44.91 | 原因：流动性偏薄
+- One coin and a dream | 风险 42.00 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -135,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Kid Brushes Crocodile Teeth Meme（Solana，分数 85.2）
+1. 当前最强叙事：👏 CZ's Reaction to TeufeurS Ransom（BSC，分数 84.55）
 2. 共振最强代币：GENIUS（BSC，共振 100.0）
-3. 记忆层变化：THE PORINGMAN 当前为“新出现”
+3. 记忆层变化：Elien Musk 当前为“新出现”
 4. 最新官方催化：VANA Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers
 #Binance #NarrativeOS #OpenClaw
