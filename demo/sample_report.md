@@ -1,106 +1,106 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-23T12:44:13.351378+00:00
+- 生成时间：2026-04-23T14:23:29.055855+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 NFT Grail Sales Activity，所在链为 Solana，叙事强度 86.04。
-- 当前平均叙事强度为 82.6，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 BURNIE，来自 Solana，共振分数 100.0。
-- 记忆层显示 Baekgu 当前处于“新出现”状态。
+- 当前最强叙事是 NFT Grail Sales Activity，所在链为 Solana，叙事强度 86.23。
+- 当前平均叙事强度为 76.93，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 BELIEF，来自 Solana，共振分数 100.0。
+- 记忆层显示 Solana Wallet Twin Inquiry 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Self-Aware Meme Concept Explained，伪叙事风险 44.91。
 - 最新官方催化来自 最新活动：VANA Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers。
 
 ## 叙事雷达
 
-- NFT Grail Sales Activity | Solana | 加速中 | 强度 86.04 | 质量 77.72
-  - 主题摘要：According to 0xSammy's post, two significant NFT 'grail' sales occurred within twelve hours, including a Hoodie Punk sold for $238,000 and a Blue Beam Bored Ape for $113,000, indi…
-  - 资金 100.00 / 广度 94.34 / 确认 24.48 / 脆弱性 24.00
+- NFT Grail Sales Activity | Solana | 加速中 | 强度 86.23 | 质量 77.89
+  - 主题摘要：According to 0xSammy's post, two significant NFT 'grail' sales occurred within twelve hours, including a Hoodie Punk sold for $238,000 and a Blue Beam Bored Ape sold for $113,000,…
+  - 资金 100.00 / 广度 94.52 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Top MAGA Influencer is AI Created | Solana | 加速中 | 强度 85.58 | 质量 79.87
-  - 主题摘要：According to New York Post's post, a prominent MAGA influencer was discovered to be an AI-generated persona, created by an individual in India who profited from engaging with lone…
-  - 资金 100.00 / 广度 91.45 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Gargantuan Runner and Cult Coins Discussion | Solana | 加速中 | 强度 85.53 | 质量 79.14
-  - 主题摘要：According to Pump.fun's post, the market is overdue for a large-scale trending token and overlooks cult coins, implying a potential opportunity for new speculative movements in th…
-  - 资金 100.00 / 广度 89.02 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 已确认 | 强度 83.79 | 质量 79.50
+- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 已确认 | 强度 85.08 | 质量 79.58
   - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
-  - 资金 100.00 / 广度 81.78 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.04 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- CZ asks for signature design ideas | BSC | 已确认 | 强度 83.31 | 质量 78.81
+- CZ asks for signature design ideas | BSC | 已确认 | 强度 84.60 | 质量 78.89
   - 主题摘要：CZ jokingly asked for signature design ideas after receiving physical copies of his book 'Freedom of Money', sparking fan engagement with humorous and creative suggestions.
-  - 资金 100.00 / 广度 82.12 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.37 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Justice for Evelyn | Solana | 加速中 | 强度 82.57 | 质量 76.88
-  - 主题摘要：According to Jenniaos's post, the individual in question is not Evelyn Ha but the first of three sisters, with Evelyn Ha appearing in the second photo. The post seeks to clarify i…
-  - 资金 99.25 / 广度 88.24 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- uncraft | Solana | 加速中 | 强度 81.22 | 质量 69.85
-  - 主题摘要：According to William Ballard's post, $UNCRAFT should not be treated merely as a meme token, as its development follows a deliberate, foundational approach typical of long-term pro…
-  - 资金 100.00 / 广度 90.03 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- One coin and a dream | Solana | 点火期 | 强度 80.38 | 质量 76.12
-  - 主题摘要：Multiple tokens named 「SAM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 97.89 / 确认 16.60 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Baekgu | Solana | 降温中 | 强度 79.85 | 质量 67.25
-  - 主题摘要：Baekgu token draws inspiration from the legendary tale of the white Jindo dog, symbolizing resilience and loyalty. Its rare white color combined with meme energy fuels rapid commu…
-  - 资金 100.00 / 广度 68.44 / 确认 16.56 / 脆弱性 14.00
+- Top MAGA Influencer is AI Created | Solana | 降温中 | 强度 82.01 | 质量 78.31
+  - 主题摘要：According to New York Post's post, a prominent MAGA influencer was discovered to be an AI-generated persona, created by an individual in India who profited from engaging with lone…
+  - 资金 100.00 / 广度 91.53 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Self-Aware Meme Concept Explained | Solana | 点火期 | 强度 79.64 | 质量 75.08
-  - 主题摘要：According to hyam.sol's post, a Self-Aware Meme refers to a recursive phenomenon where an AI-generated meme spawns a cryptocurrency, which then drives market activity and attentio…
-  - 资金 100.00 / 广度 97.93 / 确认 12.96 / 脆弱性 14.00
+- Justice for Evelyn | Solana | 加速中 | 强度 81.85 | 质量 75.98
+  - 主题摘要：According to Jenniaos's post, the individual in question is not Evelyn Ha but the first of three sisters, with Evelyn Ha appearing in the second photo. The post seeks to clarify i…
+  - 资金 98.62 / 广度 87.97 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Gargantuan Runner and Cult Coins Discussion | Solana | 加速中 | 强度 81.75 | 质量 79.36
+  - 主题摘要：According to Pump.fun's post, the market is overdue for a large-scale trending token and overlooks cult coins, implying a potential opportunity for new speculative movements in th…
+  - 资金 100.00 / 广度 89.76 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- One coin and a dream | Solana | 点火期 | 强度 81.09 | 质量 76.12
+  - 主题摘要：Multiple tokens named 「SAM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 97.80 / 确认 16.60 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Binance Launches Alpha Page | BSC | 加速中 | 强度 76.17 | 质量 71.38
+- Self-Aware Meme Concept Explained | Solana | 点火期 | 强度 80.39 | 质量 75.09
+  - 主题摘要：According to hyam.sol's post, a Self-Aware Meme follows a cyclical process where the meme generates a token, the token creates a market, the market draws attention, and attention…
+  - 资金 100.00 / 广度 97.83 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Solana Wallet Twin Inquiry | Solana | 点火期 | 强度 80.34 | 质量 75.08
+  - 主题摘要：According to Shoalstone's post, the user was asked about their Solana wallet twin, prompting a discussion on wallet identity and association within the Solana blockchain.
+  - 资金 100.00 / 广度 97.80 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- LandSat typing trend on crypto social media | Solana | 加速中 | 强度 77.45 | 质量 63.23
+  - 主题摘要：According to Quant's post, a trend has emerged where major crypto accounts are posting messages that spell words using the LandSat token. The trend appears to be a form of visual…
+  - 资金 100.00 / 广度 76.56 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Launches Alpha Page | BSC | 加速中 | 强度 75.58 | 质量 71.22
   - 主题摘要：Binance introduced a new Alpha Page to track and showcase Alpha Points and tokens that have progressed to official listings. This initiative aims to offer insights into historical…
-  - 资金 100.00 / 广度 84.11 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.17 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance.US Reduces Trading Fees | BSC | 加速中 | 强度 69.83 | 质量 66.87
-  - 主题摘要：CZ responded to Binance.US's fee drop with a call to make crypto more accessible in the U.S., sparking a meme-worthy revival of 'Make America Great Again' rhetoric.
-  - 资金 100.00 / 广度 86.21 / 确认 30.96 / 脆弱性 24.00
+- Hey, get up and stretch your legs | BSC | 加速中 | 强度 72.37 | 质量 67.16
+  - 主题摘要：Binance官方账号发布了一条轻松幽默的提醒推文，鼓励用户起身活动双腿，引发了社区对其品牌语气与Meme文化的联想。
+  - 资金 100.00 / 广度 79.68 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Official Telegram Bot Launch | BSC | 加速中 | 强度 68.72 | 质量 62.89
-  - 主题摘要：According to 魔丸's post, Binance has launched an official Telegram AI bot aimed at providing on-chain Meme analysis, rapid token checks, and enhanced wallet data insights.
-  - 资金 100.00 / 广度 79.55 / 确认 23.76 / 脆弱性 24.00
+- 蝴蝶借呗 | BSC | 加速中 | 强度 72.24 | 质量 57.05
+  - 主题摘要：Multiple tokens named 「蝴蝶借呗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.05 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- X Platform Adopts Meme Image Classification | BSC | 加速中 | 强度 67.32 | 质量 54.90
-  - 主题摘要：According to MBGA 让BSC再次伟大's post, X platform has officially adopted the term 'Memes' (translated as '表情包' in Chinese) in its interface for categorizing meme content. This designa…
-  - 资金 100.00 / 广度 69.34 / 确认 24.48 / 脆弱性 14.00
+- 大航海时代 | BSC | 加速中 | 强度 71.69 | 质量 61.24
+  - 主题摘要：大航海时代 (Age of Exploration) token draws inspiration from the historical era of maritime exploration and discovery. It aims to create a decentralized ecosystem for blockchain innova…
+  - 资金 100.00 / 广度 75.36 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.6，其中已确认叙事 0 个。
-- Binance.US Reduces Trading Fees 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Baekgu 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.93，其中已确认叙事 2 个。
+- Solana Wallet Twin Inquiry 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Top MAGA Influencer is AI Created 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Top MAGA Influencer is AI Created | 质量 79.87 | 可交易性 100.00 | 风险 低
-- 👏 CZ's Reaction to TeufeurS Ransom | 质量 79.50 | 可交易性 100.00 | 风险 低
-- Gargantuan Runner and Cult Coins Discussion | 质量 79.14 | 可交易性 100.00 | 风险 低
-- CZ asks for signature design ideas | 质量 78.81 | 可交易性 100.00 | 风险 低
-- NFT Grail Sales Activity | 质量 77.72 | 可交易性 86.78 | 风险 低
-- Justice for Evelyn | 质量 76.88 | 可交易性 90.60 | 风险 低
-- One coin and a dream | 质量 76.12 | 可交易性 83.67 | 风险 低
-- Self-Aware Meme Concept Explained | 质量 75.08 | 可交易性 82.84 | 风险 低
-- Binance Launches Alpha Page | 质量 71.38 | 可交易性 73.22 | 风险 低
-- uncraft | 质量 69.85 | 可交易性 64.86 | 风险 低
+- 👏 CZ's Reaction to TeufeurS Ransom | 质量 79.58 | 可交易性 100.00 | 风险 低
+- Gargantuan Runner and Cult Coins Discussion | 质量 79.36 | 可交易性 100.00 | 风险 低
+- CZ asks for signature design ideas | 质量 78.89 | 可交易性 100.00 | 风险 低
+- Top MAGA Influencer is AI Created | 质量 78.31 | 可交易性 100.00 | 风险 低
+- NFT Grail Sales Activity | 质量 77.89 | 可交易性 87.16 | 风险 低
+- One coin and a dream | 质量 76.12 | 可交易性 83.77 | 风险 低
+- Justice for Evelyn | 质量 75.98 | 可交易性 89.98 | 风险 低
+- Self-Aware Meme Concept Explained | 质量 75.09 | 可交易性 82.95 | 风险 低
+- Solana Wallet Twin Inquiry | 质量 75.08 | 可交易性 82.95 | 风险 低
+- Binance Launches Alpha Page | 质量 71.22 | 可交易性 72.64 | 风险 低
 
 ## 伪叙事风险
 
 - Self-Aware Meme Concept Explained | 风险 44.91 | 原因：流动性偏薄
+- Solana Wallet Twin Inquiry | 风险 44.91 | 原因：流动性偏薄
 - One coin and a dream | 风险 42.00 | 原因：流动性偏薄
 
 ## 信号台
 
 - ASTEROID | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 安小将 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ASTEROID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ASTROID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ASTEROID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -109,6 +109,7 @@
 - DogGenius | BSC | 看多 | 新鲜度 84.51 | 暂无直接叙事映射
 - α | BSC | 看多 | 新鲜度 82.09 | Binance Launches Alpha Page
 - unc | Solana | 看多 | 新鲜度 76.89 | 暂无直接叙事映射
+- MGC | BSC | 看多 | 新鲜度 71.11 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：NFT Grail Sales Activity（Solana，分数 86.04）
-2. 共振最强代币：BURNIE（Solana，共振 100.0）
-3. 记忆层变化：Baekgu 当前为“新出现”
+1. 当前最强叙事：NFT Grail Sales Activity（Solana，分数 86.23）
+2. 共振最强代币：BELIEF（Solana，共振 100.0）
+3. 记忆层变化：Solana Wallet Twin Inquiry 当前为“新出现”
 4. 最新官方催化：VANA Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers
 #Binance #NarrativeOS #OpenClaw
