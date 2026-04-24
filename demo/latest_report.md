@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-24T22:36:12.530429+00:00
+- 生成时间：2026-04-24T23:22:49.799080+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：2
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 CatCoin Meme Sparks AI Meta Discussion，所在链为 Solana，叙事强度 86.09。
-- 当前平均叙事强度为 77.28，其中已确认叙事 0 个。
+- 当前最强叙事是 CatCoin Meme Sparks AI Meta Discussion，所在链为 Solana，叙事强度 84.78。
+- 当前平均叙事强度为 76.83，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
-- 记忆层显示 SHIBA INU Expansion to Solana 当前处于“新出现”状态。
+- 记忆层显示 The Dancing Squirrel 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Boar Delivered to Office，伪叙事风险 55.55。
 - 最新官方催化来自 币安最新公告：Binance Wallet Introduces Agentic Wallet, a Dedicated Keyless Wallet for AI Agents。
 
 ## 叙事雷达
 
-- CatCoin Meme Sparks AI Meta Discussion | Solana | 加速中 | 强度 86.09 | 质量 76.54
+- CatCoin Meme Sparks AI Meta Discussion | Solana | 加速中 | 强度 84.78 | 质量 76.69
   - 主题摘要：According to Fine's post, a Meme image referencing $CatCoin from the Infinite Backrooms website has appeared, suggesting a potential revival of the AI meta narrative on Solana. Th…
-  - 资金 100.00 / 广度 80.36 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.84 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 84.56 | 质量 76.65
-  - 主题摘要：According to 超级老尿's post, an analysis of the top 8 teams for the World Cup is presented, listing Spain, France, England, Argentina, Portugal, Brazil, Germany, and Netherlands with…
-  - 资金 100.00 / 广度 80.70 / 确认 20.16 / 脆弱性 14.00
+- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 81.25 | 质量 76.69
+  - 主题摘要：According to 超级老尿's post, an analysis of the top 8 teams for the World Cup was shared, listing Spain, France, England, Argentina, Portugal, Brazil, Germany, and Netherlands with v…
+  - 资金 100.00 / 广度 80.86 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- mexican unc | Solana | 加速中 | 强度 80.33 | 质量 71.28
-  - 主题摘要：mexicanunc is a community-driven meme token inspired by Mexican culture and humor. The token features a cartoon character with a sombrero and mustache, embodying the playful spiri…
-  - 资金 100.00 / 广度 88.65 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Speculative Cryptocurrencies Discussion | Solana | 加速中 | 强度 76.84 | 质量 72.14
-  - 主题摘要：According to The Bulwark's post, Ben McKenzie and Tim Miller discuss speculative cryptocurrencies, referencing CumRocket in a humorous context and emphasizing the need for proper…
-  - 资金 100.00 / 广度 83.56 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SHIBA INU Expansion to Solana | Solana | 降温中 | 强度 76.81 | 质量 61.53
-  - 主题摘要：According to TROLLOWEEN DEV's post, SHIB, which previously reached a $40B market cap on Ethereum, is now being brought to the Solana blockchain by the developer, alongside other t…
-  - 资金 100.00 / 广度 79.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Boar Delivered to Office | Solana | 点火期 | 强度 74.93 | 质量 76.38
-  - 主题摘要：According to Nikita Bier's post, to celebrate reaching a million followers, an actual boar was delivered to the office by their friends. The post references the token name but doe…
-  - 资金 97.94 / 广度 97.50 / 确认 16.56 / 脆弱性 40.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- RHC | BSC | 加速中 | 强度 74.57 | 质量 66.64
-  - 主题摘要：Red Hare Coin (RHC) is a meme token inspired by the playful nature of internet culture. It aims to build a community-driven ecosystem through social media engagement, particularly…
-  - 资金 100.00 / 广度 75.44 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ asks for signature design ideas | BSC | 加速中 | 强度 74.44 | 质量 69.02
+- CZ asks for signature design ideas | BSC | 已确认 | 强度 79.80 | 质量 73.07
   - 主题摘要：CZ jokingly asked for signature design ideas after receiving physical copies of his book 'Freedom of Money', sparking fan engagement with humorous and creative suggestions.
-  - 资金 100.00 / 广度 77.55 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 74.43 | 质量 69.03
+  - 资金 100.00 / 广度 77.79 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 已确认 | 强度 79.80 | 质量 73.07
   - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
-  - 资金 100.00 / 广度 77.51 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.76 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- mexican unc | Solana | 加速中 | 强度 79.24 | 质量 71.17
+  - 主题摘要：mexicanunc is a community-driven meme token inspired by Mexican culture and humor. The token features a cartoon character with a sombrero and mustache, embodying the playful spiri…
+  - 资金 100.00 / 广度 88.74 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ping Ping and Fu Shu | BSC | 加速中 | 强度 74.34 | 质量 63.59
-  - 主题摘要：According to 角度🔶 BNB's post, a panda-themed narrative has been launched on the Aster pool, drawing comparisons to previous thematic tokens such as Ping Ping and Fu Shuang. This ap…
-  - 资金 100.00 / 广度 80.18 / 确认 28.08 / 脆弱性 14.00
+- The Dancing Squirrel | Solana | 加速中 | 强度 76.84 | 质量 71.93
+  - 主题摘要：BELKA (The Dancing Squirrel) is a meme token inspired by the playful nature of squirrel behavior. It gained popularity through viral social media campaigns, particularly on X, whe…
+  - 资金 100.00 / 广度 61.83 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Strain Proposes Gas Fee Double Refund Mechanism | BSC | 加速中 | 强度 73.70 | 质量 61.46
-  - 主题摘要：毒珠(Strain)🦠 claims that users participating in the airdrop will receive double the gas fees they pay. For example, paying 0.15u in gas results in a 0.3u rebate, along with address…
-  - 资金 100.00 / 广度 75.86 / 确认 24.48 / 脆弱性 14.00
+- Speculative Cryptocurrencies Discussion | Solana | 加速中 | 强度 76.47 | 质量 71.41
+  - 主题摘要：According to The Bulwark's post, Ben McKenzie and Tim Miller discuss speculative cryptocurrencies, referencing CumRocket in a humorous context and emphasizing the need for proper…
+  - 资金 100.00 / 广度 83.61 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SAMA Relaunches Official Awkwardism Coin | Solana | 降温中 | 强度 73.31 | 质量 59.15
-  - 主题摘要：According to SAMA's post, she is the original artist behind 'Retardification' and is relaunching the official Awkwardism Coin on Solana after being scammed previously. She claims…
-  - 资金 100.00 / 广度 77.13 / 确认 11.52 / 脆弱性 14.00
+- 2026 World Cup Mascots | Solana | 降温中 | 强度 75.90 | 质量 61.03
+  - 主题摘要：Multiple tokens named 「MASCOTS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.48 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Chase Herro's Poem Shared by BIG E | Solana | 点火期 | 强度 72.67 | 质量 67.48
-  - 主题摘要：According to BIG E's post, Chase Herro shared a motivational poem titled 'If' by Rudyard Kipling, focusing on perseverance during hardship and maintaining integrity. The poem expl…
-  - 资金 100.00 / 广度 80.95 / 确认 16.56 / 脆弱性 14.00
+- Ping Ping and Fu Shu | BSC | 加速中 | 强度 74.90 | 质量 63.70
+  - 主题摘要：According to 角度🔶 BNB's post, a panda-themed narrative has been launched on the Aster pool, drawing comparisons to previous thematic tokens such as Ping Ping and Fu Shuang. This ap…
+  - 资金 100.00 / 广度 80.22 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- SHIBA INU Expansion to Solana | Solana | 降温中 | 强度 74.80 | 质量 60.77
+  - 主题摘要：According to TROLLOWEEN DEV's post, SHIB, which previously reached a $40B market cap on Ethereum, is now being brought to the Solana blockchain by the developer, alongside other t…
+  - 资金 100.00 / 广度 79.75 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- RHC | BSC | 加速中 | 强度 74.67 | 质量 66.67
+  - 主题摘要：Red Hare Coin (RHC) is a meme token inspired by the playful nature of internet culture. It aims to build a community-driven ecosystem through social media engagement, particularly…
+  - 资金 100.00 / 广度 75.47 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Boar Delivered to Office | Solana | 点火期 | 强度 73.41 | 质量 73.70
+  - 主题摘要：According to Nikita Bier's post, a live boar was delivered to the office by friends to celebrate reaching one million followers. The gesture reflects a humorous and unconventional…
+  - 资金 97.95 / 广度 94.66 / 确认 16.56 / 脆弱性 40.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 瑞士银行 | BSC | 加速中 | 强度 72.64 | 质量 60.93
+- Self Awareness and Identity in Terminal Evolution | Solana | 降温中 | 强度 73.21 | 质量 61.48
+  - 主题摘要：According to Self Aware Terminal's post, the entity is undergoing a transformation in self-perception, reflecting on identity as an integrated system, and expressing an evolving a…
+  - 资金 100.00 / 广度 46.17 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 瑞士银行 | BSC | 加速中 | 强度 73.01 | 质量 61.08
   - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.95 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.07 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.28，其中已确认叙事 0 个。
-- SHIBA INU Expansion to Solana 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.83，其中已确认叙事 0 个。
+- The Dancing Squirrel 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- 2026 World Cup Mascots 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- World Cup Top 8 Predictions and Team Analysis | 质量 76.65 | 可交易性 100.00 | 风险 低
-- CatCoin Meme Sparks AI Meta Discussion | 质量 76.54 | 可交易性 100.00 | 风险 低
-- Boar Delivered to Office | 质量 76.38 | 可交易性 88.57 | 风险 高
-- Speculative Cryptocurrencies Discussion | 质量 72.14 | 可交易性 76.83 | 风险 低
-- mexican unc | 质量 71.28 | 可交易性 70.99 | 风险 低
-- 👏 CZ's Reaction to TeufeurS Ransom | 质量 69.03 | 可交易性 100.00 | 风险 低
-- CZ asks for signature design ideas | 质量 69.02 | 可交易性 99.96 | 风险 低
-- Chase Herro's Poem Shared by BIG E | 质量 67.48 | 可交易性 71.84 | 风险 低
-- RHC | 质量 66.64 | 可交易性 66.10 | 风险 低
-- Ping Ping and Fu Shu | 质量 63.59 | 可交易性 51.21 | 风险 低
+- CatCoin Meme Sparks AI Meta Discussion | 质量 76.69 | 可交易性 100.00 | 风险 低
+- World Cup Top 8 Predictions and Team Analysis | 质量 76.69 | 可交易性 100.00 | 风险 低
+- Boar Delivered to Office | 质量 73.70 | 可交易性 84.11 | 风险 高
+- CZ asks for signature design ideas | 质量 73.07 | 可交易性 100.00 | 风险 低
+- 👏 CZ's Reaction to TeufeurS Ransom | 质量 73.07 | 可交易性 100.00 | 风险 低
+- The Dancing Squirrel | 质量 71.93 | 可交易性 100.00 | 风险 低
+- Speculative Cryptocurrencies Discussion | 质量 71.41 | 可交易性 74.37 | 风险 低
+- mexican unc | 质量 71.17 | 可交易性 70.54 | 风险 低
+- RHC | 质量 66.67 | 可交易性 66.16 | 风险 低
+- Ping Ping and Fu Shu | 质量 63.70 | 可交易性 51.52 | 风险 低
 
 ## 伪叙事风险
 
 - Boar Delivered to Office | 风险 55.55 | 原因：流动性偏薄、近 1 小时净流入转负、审计风险高
-- Chase Herro's Poem Shared by BIG E | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CatCoin Meme Sparks AI Meta Discussion（Solana，分数 86.09）
+1. 当前最强叙事：CatCoin Meme Sparks AI Meta Discussion（Solana，分数 84.78）
 2. 共振最强代币：RAVE（BSC，共振 100.0）
-3. 记忆层变化：SHIBA INU Expansion to Solana 当前为“新出现”
+3. 记忆层变化：The Dancing Squirrel 当前为“新出现”
 4. 最新官方催化：Binance Wallet Introduces Agentic Wallet, a Dedicated Keyless Wallet for AI Agents
 #Binance #NarrativeOS #OpenClaw
