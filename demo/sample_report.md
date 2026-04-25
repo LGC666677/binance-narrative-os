@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-25T14:33:18.666189+00:00
+- 生成时间：2026-04-25T15:23:52.718010+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Elon Musk referencing Nietzsche's Last Man，所在链为 Solana，叙事强度 89.21。
-- 当前平均叙事强度为 76.5，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 UNC，来自 Solana，共振分数 100.0。
-- 记忆层显示 Looksmaxxer Clavicular Announces Fatherhood 当前处于“新出现”状态。
+- 当前最强叙事是 Elon Musk referencing Nietzsche's Last Man，所在链为 Solana，叙事强度 87.7。
+- 当前平均叙事强度为 74.92，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 DOGE，来自 BSC，共振分数 100.0。
+- 记忆层显示 Leaked UFO Image Inspires Meme Culture 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)。
 
 ## 叙事雷达
 
-- Elon Musk referencing Nietzsche's Last Man | Solana | 加速中 | 强度 89.21 | 质量 82.01
+- Elon Musk referencing Nietzsche's Last Man | Solana | 加速中 | 强度 87.70 | 质量 82.06
   - 主题摘要：Elon Musk retweets a philosophical breakdown of Nietzsche's 'Last Man' concept linked to modern complacency. Offers intellectual meme potential rooted in existential themes.
-  - 资金 100.00 / 广度 95.41 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.58 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 瑞士银行 | BSC | 加速中 | 强度 79.74 | 质量 73.91
+- 瑞士银行 | BSC | 加速中 | 强度 78.56 | 质量 73.92
   - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.33 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.36 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trader's Paradise | Solana | 降温中 | 强度 77.30 | 质量 61.80
-  - 主题摘要：Multiple tokens named 「ONLYPUMPS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.75 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WIZ | Solana | 加速中 | 强度 76.46 | 质量 65.38
+- WIZ | Solana | 加速中 | 强度 78.04 | 质量 65.68
   - 主题摘要：Multiple tokens named 「WIZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.96 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.14 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Looksmaxxer Clavicular Announces Fatherhood | Solana | 降温中 | 强度 75.70 | 质量 66.62
-  - 主题摘要：Looksmaxxer Clavicular, a notable figure in the crypto and meme culture space, has announced that he is going to be a father. According to Polymarket's post, this revelation has s…
-  - 资金 100.00 / 广度 72.01 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- D4VD PFP Trend Emerges on Social Media | Solana | 降温中 | 强度 75.51 | 质量 64.75
-  - 主题摘要：According to devvv3333's post, a social media trend has emerged where users are changing their profile pictures to images related to 'd4vd', drawing comparisons to a previous tren…
-  - 资金 100.00 / 广度 55.60 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Roaring Kitty Upgrades to PRO Membership | Solana | 加速中 | 强度 75.14 | 质量 64.98
+- Roaring Kitty Upgrades to PRO Membership | Solana | 加速中 | 强度 75.77 | 质量 65.10
   - 主题摘要：According to Roaring Kitty Token 💥🍻's post, Roaring Kitty has upgraded to a PRO membership on StockCharts, sparking speculation about his return. The post references several ticke…
-  - 资金 100.00 / 广度 79.28 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.40 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 74.94 | 质量 69.32
+- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 74.54 | 质量 69.71
   - 主题摘要：According to 超级老尿's post, an analysis of the top 8 teams for the World Cup is provided, listing Spain, France, England, Argentina, Portugal, Brazil, Germany, and Netherlands with…
-  - 资金 100.00 / 广度 78.86 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.41 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 73.30 | 质量 68.06
+- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 74.28 | 质量 69.44
   - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
-  - 资金 100.00 / 广度 74.63 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.45 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ asks for signature design ideas | BSC | 加速中 | 强度 72.70 | 质量 67.27
+- CZ asks for signature design ideas | BSC | 加速中 | 强度 73.68 | 质量 68.65
   - 主题摘要：CZ jokingly asked for signature design ideas after receiving physical copies of his book 'Freedom of Money', sparking fan engagement with humorous and creative suggestions.
-  - 资金 100.00 / 广度 74.64 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.46 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 法国 | BSC | 加速中 | 强度 71.51 | 质量 57.92
+- Leaked UFO Image Inspires Meme Culture | Solana | 降温中 | 强度 73.59 | 质量 59.75
+  - 主题摘要：According to Bob's post, a recently leaked low-quality image of a UFO resembling a Dorito has been widely memed and shared on social media. The post highlights the viral nature of…
+  - 资金 100.00 / 广度 78.85 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Sleeping Dog Meme Image Trend | Solana | 降温中 | 强度 72.96 | 质量 59.31
+  - 主题摘要：According to Daniel Kuhn's post, a Meme image of a sleeping dog was shared in connection with a widely discussed leaked UFO sighting. The image, described as resembling a Dorito i…
+  - 资金 100.00 / 广度 74.09 / 确认 16.64 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- US Lab Studying UFOs, Missing Scientists | Solana | 降温中 | 强度 70.88 | 质量 56.66
+  - 主题摘要：According to Insider Paper's post, leaked documents indicate a US laboratory where missing scientists were employed had been conducting research on UFOs, as claimed in a documenta…
+  - 资金 100.00 / 广度 73.68 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Whiter Whale's Meme-Driven Buying Strategy | Solana | 加速中 | 强度 70.77 | 质量 59.47
+  - 主题摘要：According to quiet's post, a user known as '@loldoteth', who calls himself 'The Whiter Whale', has been actively buying memecoins with zero sell activity, aiming to revive the 'tr…
+  - 资金 100.00 / 广度 74.77 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 暴雪 | BSC | 加速中 | 强度 70.53 | 质量 57.82
+  - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.33 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Retardmaxxing Gains Traction on Social Media | Solana | 降温中 | 强度 69.66 | 质量 53.06
+  - 主题摘要：According to devvv3333's post, the official Wallstreetbets subreddit has named 'Retardmaxxing' as the word of the year, with @SolJakey heavily promoting the concept on Instagram.
+  - 资金 100.00 / 广度 70.01 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 法国 | BSC | 加速中 | 强度 68.71 | 质量 57.39
   - 主题摘要：Multiple tokens named 「法国」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.85 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- John Chungus Meme图 Trending on TikTok | Solana | 降温中 | 强度 71.36 | 质量 59.94
-  - 主题摘要：According to John Chungus's post, his TikTok content has recently gained significant popularity, generating over 10 million views and 500K followers. The phrase 'You just got JOHN…
-  - 资金 100.00 / 广度 74.03 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nietzsche's Übermensch Concept | Solana | 降温中 | 强度 71.33 | 质量 60.76
-  - 主题摘要：According to il ratto chef's post, Nietzsche's Übermensch is described as an individual who transcends traditional moral frameworks, rejects herd mentality, and creates their own…
-  - 资金 100.00 / 广度 61.79 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dan's Proposed Queue-based Investment Mechanism | BSC | 加速中 | 强度 70.29 | 质量 53.27
-  - 主题摘要：According to Dan's post, a queue-based financial mechanism has been completed, where participants invest 0.2B and may receive returns through subsequent users. Cancellation is all…
-  - 资金 100.00 / 广度 66.34 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 70.37 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.5，其中已确认叙事 0 个。
-- Dan's Proposed Queue-based Investment Mechanism 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Trader's Paradise 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 74.92，其中已确认叙事 0 个。
+- The Whiter Whale's Meme-Driven Buying Strategy 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Leaked UFO Image Inspires Meme Culture 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk referencing Nietzsche's Last Man | 质量 82.01 | 可交易性 100.00 | 风险 低
-- 瑞士银行 | 质量 73.91 | 可交易性 92.24 | 风险 低
-- World Cup Top 8 Predictions and Team Analysis | 质量 69.32 | 可交易性 100.00 | 风险 低
-- 👏 CZ's Reaction to TeufeurS Ransom | 质量 68.06 | 可交易性 100.00 | 风险 低
-- CZ asks for signature design ideas | 质量 67.27 | 可交易性 100.00 | 风险 低
-- Looksmaxxer Clavicular Announces Fatherhood | 质量 66.62 | 可交易性 83.19 | 风险 低
-- WIZ | 质量 65.38 | 可交易性 56.03 | 风险 低
-- Roaring Kitty Upgrades to PRO Membership | 质量 64.98 | 可交易性 62.52 | 风险 低
-- D4VD PFP Trend Emerges on Social Media | 质量 64.75 | 可交易性 93.37 | 风险 低
-- Trader's Paradise | 质量 61.80 | 可交易性 61.37 | 风险 低
+- Elon Musk referencing Nietzsche's Last Man | 质量 82.06 | 可交易性 100.00 | 风险 低
+- 瑞士银行 | 质量 73.92 | 可交易性 92.24 | 风险 低
+- World Cup Top 8 Predictions and Team Analysis | 质量 69.71 | 可交易性 100.00 | 风险 低
+- 👏 CZ's Reaction to TeufeurS Ransom | 质量 69.44 | 可交易性 100.00 | 风险 低
+- CZ asks for signature design ideas | 质量 68.65 | 可交易性 100.00 | 风险 低
+- WIZ | 质量 65.68 | 可交易性 56.84 | 风险 低
+- Roaring Kitty Upgrades to PRO Membership | 质量 65.10 | 可交易性 62.82 | 风险 低
+- Leaked UFO Image Inspires Meme Culture | 质量 59.75 | 可交易性 53.45 | 风险 低
+- The Whiter Whale's Meme-Driven Buying Strategy | 质量 59.47 | 可交易性 48.67 | 风险 低
+- Sleeping Dog Meme Image Trend | 质量 59.31 | 可交易性 52.39 | 风险 低
 
 ## 伪叙事风险
 
@@ -101,11 +101,11 @@
 - SAM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ASTEROID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ASTROID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- DogGenius | BSC | 看多 | 新鲜度 84.51 | 暂无直接叙事映射
 - BURNIE | Solana | 看多 | 新鲜度 78.40 | 暂无直接叙事映射
 - unc | Solana | 看多 | 新鲜度 76.89 | 暂无直接叙事映射
 - α | BSC | 看多 | 新鲜度 70.09 | 暂无直接叙事映射
 - Nintondo | Solana | 看多 | 新鲜度 67.99 | 暂无直接叙事映射
+- bibi | BSC | 看多 | 新鲜度 66.75 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Elon Musk referencing Nietzsche's Last Man（Solana，分数 89.21）
-2. 共振最强代币：UNC（Solana，共振 100.0）
-3. 记忆层变化：Looksmaxxer Clavicular Announces Fatherhood 当前为“新出现”
+1. 当前最强叙事：Elon Musk referencing Nietzsche's Last Man（Solana，分数 87.7）
+2. 共振最强代币：DOGE（BSC，共振 100.0）
+3. 记忆层变化：Leaked UFO Image Inspires Meme Culture 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)
 #Binance #NarrativeOS #OpenClaw
