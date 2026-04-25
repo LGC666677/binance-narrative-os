@@ -1,102 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-25T20:54:40.305040+00:00
+- 生成时间：2026-04-25T21:23:59.813743+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Elon Musk referencing Nietzsche's Last Man，所在链为 Solana，叙事强度 87.31。
-- 当前平均叙事强度为 76.44，其中已确认叙事 0 个。
+- 当前最强叙事是 Elon Musk referencing Nietzsche's Last Man，所在链为 Solana，叙事强度 86.84。
+- 当前平均叙事强度为 76.03，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 BURNIE，来自 Solana，共振分数 100.0。
-- 记忆层显示 Dwayne's Resilience 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 首个自助空投随机返还gas和销毁分红，伪叙事风险 47.23。
+- 记忆层显示 Dress for the Outcome You Want 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Historical Legal Context in Soviet Union，伪叙事风险 47.79。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)。
 
 ## 叙事雷达
 
-- Elon Musk referencing Nietzsche's Last Man | Solana | 加速中 | 强度 87.31 | 质量 81.96
+- Elon Musk referencing Nietzsche's Last Man | Solana | 加速中 | 强度 86.84 | 质量 81.96
   - 主题摘要：Elon Musk retweets a philosophical breakdown of Nietzsche's 'Last Man' concept linked to modern complacency. Offers intellectual meme potential rooted in existential themes.
-  - 资金 100.00 / 广度 95.25 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.24 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Dancing Squirrel | Solana | 加速中 | 强度 78.88 | 质量 65.32
-  - 主题摘要：According to Crypto Chef's post, the content features a Meme image depicting a dancing squirrel, which has been associated with the token $BELKA. The post does not provide detaile…
-  - 资金 100.00 / 广度 79.43 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WIZ | Solana | 加速中 | 强度 77.82 | 质量 65.97
+- Dress for the Outcome You Want | Solana | 降温中 | 强度 80.02 | 质量 73.52
+  - 主题摘要：According to Pump.fun's post, the phrase 'Dress for the outcome you want' appears to be a thematic message promoting mindset and intention-based success, without specifying any pa…
+  - 资金 100.00 / 广度 78.21 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- WIZ | Solana | 加速中 | 强度 78.64 | 质量 66.12
   - 主题摘要：Multiple tokens named 「WIZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.12 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.17 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 75.70 | 质量 69.14
+- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 75.83 | 质量 69.29
   - 主题摘要：According to 超级老尿's post, an analysis of the top 8 teams for the World Cup is provided, listing Spain, France, England, Argentina, Portugal, Brazil, Germany, and Netherlands with…
-  - 资金 100.00 / 广度 77.85 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.83 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump Meme Image Release | Solana | 降温中 | 强度 75.63 | 质量 61.29
-  - 主题摘要：According to vibooor's post, a Meme图 featuring Donald Trump was shared, referencing the recently released White House photo. The post encourages users to view related Meme content…
-  - 资金 100.00 / 广度 79.80 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 75.04 | 质量 69.15
+- The Dancing Squirrel | Solana | 加速中 | 强度 75.29 | 质量 65.17
+  - 主题摘要：According to Crypto Chef's post, the content features a Meme image depicting a dancing squirrel, which has been associated with the token $BELKA. The post does not provide detaile…
+  - 资金 100.00 / 广度 79.69 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 74.63 | 质量 68.49
   - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
-  - 资金 100.00 / 广度 73.05 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.03 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ asks for signature design ideas | BSC | 加速中 | 强度 74.45 | 质量 68.36
+- CZ asks for signature design ideas | BSC | 加速中 | 强度 74.04 | 质量 67.70
   - 主题摘要：CZ jokingly asked for signature design ideas after receiving physical copies of his book 'Freedom of Money', sparking fan engagement with humorous and creative suggestions.
-  - 资金 100.00 / 广度 73.06 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.04 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dwayne's Resilience | Solana | 降温中 | 强度 74.03 | 质量 62.97
-  - 主题摘要：According to Josh Man's post, the individual referred to as 'Dwayne' exhibits unstoppable momentum, suggesting a strong bullish sentiment or symbolic reference to a trending crypt…
-  - 资金 93.77 / 广度 74.54 / 确认 9.36 / 脆弱性 14.00
+- Trump Meme Image Release | Solana | 降温中 | 强度 73.56 | 质量 61.39
+  - 主题摘要：According to vibooor's post, a Meme图 featuring Donald Trump was shared, referencing the recently released White House photo. The post encourages users to view related Meme content…
+  - 资金 100.00 / 广度 80.32 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴雪 | BSC | 加速中 | 强度 71.89 | 质量 58.59
+- 暴雪 | BSC | 加速中 | 强度 72.47 | 质量 58.72
   - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.05 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.09 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- "Goblin" as Word of the Year | Solana | 加速中 | 强度 71.30 | 质量 65.42
+- Historical Legal Context in Soviet Union | Solana | 点火期 | 强度 71.85 | 质量 65.13
+  - 主题摘要：Toly, Co-Founder of Solana Labs, referenced Article 154 of the Soviet Penal Code, which criminalized selling activities and carried severe penalties including imprisonment or deat…
+  - 资金 100.00 / 广度 84.92 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- "Goblin" as Word of the Year | Solana | 加速中 | 强度 71.04 | 质量 65.36
   - 主题摘要：According to Mark Kretschmann's post, the term 'Goblin' is humorously proposed as the Word of the Year, used flexibly across multiple grammatical contexts to express various senti…
-  - 资金 100.00 / 广度 81.10 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.14 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Roaring Kitty Upgrades to PRO Membership | Solana | 加速中 | 强度 70.08 | 质量 64.14
-  - 主题摘要：According to Roaring Kitty Token 💥🍻's post, Roaring Kitty is reported to have upgraded to a PRO membership on StockCharts, sparking speculation about his return. The post referenc…
-  - 资金 100.00 / 广度 80.52 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 瑞士银行 | BSC | 点火期 | 强度 70.00 | 质量 61.81
-  - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.27 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 首个自助空投随机返还gas和销毁分红 | BSC | 点火期 | 强度 67.19 | 质量 58.19
-  - 主题摘要：Multiple tokens named 「CANCER」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.09 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 竞猜世界杯 | BSC | 降温中 | 强度 66.16 | 质量 50.72
-  - 主题摘要：Multiple tokens named 「竞猜世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.87 / 确认 9.36 / 脆弱性 24.00
+- Dwayne's Resilience | Solana | 降温中 | 强度 71.01 | 质量 58.94
+  - 主题摘要：According to Josh Man's post, the individual referred to as 'Dwayne' exhibits unstoppable momentum, suggesting a strong bullish sentiment or symbolic reference to a trending crypt…
+  - 资金 91.06 / 广度 71.51 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 首个自助空投随机返还gas和销毁分红 | BSC | 点火期 | 强度 69.07 | 质量 58.34
+  - 主题摘要：Multiple tokens named 「CANCER」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.12 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 瑞士银行 | BSC | 点火期 | 强度 66.96 | 质量 57.36
+  - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.11 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.44，其中已确认叙事 0 个。
-- 首个自助空投随机返还gas和销毁分红 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Trump Meme Image Release 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.03，其中已确认叙事 0 个。
+- Historical Legal Context in Soviet Union 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Dress for the Outcome You Want 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Elon Musk referencing Nietzsche's Last Man | 质量 81.96 | 可交易性 100.00 | 风险 低
-- 👏 CZ's Reaction to TeufeurS Ransom | 质量 69.15 | 可交易性 100.00 | 风险 低
-- World Cup Top 8 Predictions and Team Analysis | 质量 69.14 | 可交易性 100.00 | 风险 低
-- CZ asks for signature design ideas | 质量 68.36 | 可交易性 100.00 | 风险 低
-- WIZ | 质量 65.97 | 可交易性 57.37 | 风险 低
-- "Goblin" as Word of the Year | 质量 65.42 | 可交易性 62.18 | 风险 低
-- The Dancing Squirrel | 质量 65.32 | 可交易性 60.35 | 风险 低
-- Roaring Kitty Upgrades to PRO Membership | 质量 64.14 | 可交易性 58.48 | 风险 低
-- Dwayne's Resilience | 质量 62.97 | 可交易性 76.72 | 风险 低
-- 瑞士银行 | 质量 61.81 | 可交易性 91.28 | 风险 低
+- Dress for the Outcome You Want | 质量 73.52 | 可交易性 100.00 | 风险 低
+- World Cup Top 8 Predictions and Team Analysis | 质量 69.29 | 可交易性 100.00 | 风险 低
+- 👏 CZ's Reaction to TeufeurS Ransom | 质量 68.49 | 可交易性 100.00 | 风险 低
+- CZ asks for signature design ideas | 质量 67.70 | 可交易性 100.00 | 风险 低
+- WIZ | 质量 66.12 | 可交易性 57.79 | 风险 低
+- "Goblin" as Word of the Year | 质量 65.36 | 可交易性 61.93 | 风险 低
+- The Dancing Squirrel | 质量 65.17 | 可交易性 59.59 | 风险 低
+- Historical Legal Context in Soviet Union | 质量 65.13 | 可交易性 65.31 | 风险 低
+- Trump Meme Image Release | 质量 61.39 | 可交易性 57.45 | 风险 低
 
 ## 伪叙事风险
 
-- 首个自助空投随机返还gas和销毁分红 | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Historical Legal Context in Soviet Union | 风险 47.79 | 原因：流动性偏薄
+- 首个自助空投随机返还gas和销毁分红 | 风险 42.03 | 原因：流动性偏薄
 - 瑞士银行 | 风险 42.03 | 原因：流动性偏薄
-- 竞猜世界杯 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,7 +105,7 @@
 - SAM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ASTEROID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ASTROID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BURNIE | Solana | 看多 | 新鲜度 78.40 | 暂无直接叙事映射
+- BURNIE | Solana | 看多 | 新鲜度 84.55 | 暂无直接叙事映射
 - unc | Solana | 看多 | 新鲜度 76.89 | 暂无直接叙事映射
 - α | BSC | 看多 | 新鲜度 70.09 | 暂无直接叙事映射
 - Nintondo | Solana | 看多 | 新鲜度 67.99 | 暂无直接叙事映射
@@ -135,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Elon Musk referencing Nietzsche's Last Man（Solana，分数 87.31）
+1. 当前最强叙事：Elon Musk referencing Nietzsche's Last Man（Solana，分数 86.84）
 2. 共振最强代币：BURNIE（Solana，共振 100.0）
-3. 记忆层变化：Dwayne's Resilience 当前为“新出现”
+3. 记忆层变化：Dress for the Outcome You Want 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)
 #Binance #NarrativeOS #OpenClaw
