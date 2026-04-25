@@ -1,96 +1,96 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-25T16:38:02.649071+00:00
+- 生成时间：2026-04-25T17:21:55.144316+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 WIZ，所在链为 Solana，叙事强度 80.15。
-- 当前平均叙事强度为 75.52，其中已确认叙事 0 个。
+- 当前最强叙事是 Higgsfield Promotes Fake Crypto in AI Marketing Video，所在链为 Solana，叙事强度 82.7。
+- 当前平均叙事强度为 76.64，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 TRADOOR，来自 BSC，共振分数 100.0。
-- 记忆层显示 Plai Biang Goes Viral in Grocery Store Incident 当前处于“新出现”状态。
+- 记忆层显示 Higgsfield Promotes Fake Crypto in AI Marketing Video 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Elon Musk referencing Nietzsche's Last Man，伪叙事风险 50.11。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)。
 
 ## 叙事雷达
 
-- WIZ | Solana | 加速中 | 强度 80.15 | 质量 66.25
-  - 主题摘要：Multiple tokens named 「WIZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.54 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- "Goblin" as Word of the Year | Solana | 降温中 | 强度 79.23 | 质量 65.04
-  - 主题摘要：According to Mark Kretschmann's post, the term 'Goblin' is humorously proposed as the Word of the Year, used flexibly across multiple grammatical contexts to express various senti…
-  - 资金 100.00 / 广度 79.46 / 确认 16.56 / 脆弱性 14.00
+- Higgsfield Promotes Fake Crypto in AI Marketing Video | Solana | 降温中 | 强度 82.70 | 质量 70.83
+  - 主题摘要：According to Jircachi0x's post, Higgsfield is accused of promoting a fake cryptocurrency in a promotional video for their new AI marketing agent, Hermes Agent. This information is…
+  - 资金 100.00 / 广度 88.18 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Plai Biang Goes Viral in Grocery Store Incident | Solana | 降温中 | 强度 76.62 | 质量 64.42
-  - 主题摘要：According to migratoor's post, Plai Biang, an elephant near Khao Yai National Park, went viral for entering a grocery store and grabbing nine bags of rice crackers and treats.
-  - 资金 100.00 / 广度 58.75 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 瑞士银行 | BSC | 加速中 | 强度 76.56 | 质量 70.08
-  - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.23 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Roaring Kitty Upgrades to PRO Membership | Solana | 加速中 | 强度 76.03 | 质量 65.93
-  - 主题摘要：According to Roaring Kitty Token 💥🍻's post, Roaring Kitty has reportedly upgraded to a PRO membership on StockCharts, sparking speculation about his return. The post references se…
-  - 资金 100.00 / 广度 80.22 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk referencing Nietzsche's Last Man | Solana | 点火期 | 强度 75.94 | 质量 75.84
+- Elon Musk referencing Nietzsche's Last Man | Solana | 点火期 | 强度 79.52 | 质量 75.42
   - 主题摘要：Elon Musk retweets a philosophical breakdown of Nietzsche's 'Last Man' concept linked to modern complacency. Offers intellectual meme potential rooted in existential themes.
-  - 资金 83.67 / 广度 95.43 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.91 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- TRUMP LUNCHEON | Solana | 降温中 | 强度 75.03 | 质量 67.35
-  - 主题摘要：LUNCHEON token draws inspiration from a historic event at Mar-A-Lago, featuring a commemorative token launched at the Trump Luncheon. The logo depicts Donald Trump holding a glass…
-  - 资金 100.00 / 广度 57.63 / 确认 9.36 / 脆弱性 14.00
+- Higgsfield Launches Agent Bot Coin Trading Terminal | Solana | 降温中 | 强度 79.08 | 质量 64.66
+  - 主题摘要：According to Kai Trump Canthal Tilt's post, Higgsfield AI has allegedly launched a Meme coin named 'Agent Bot Coin' (ABC), featuring a trading terminal interface and a wallet func…
+  - 资金 100.00 / 广度 87.10 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴雪 | BSC | 加速中 | 强度 73.86 | 质量 59.19
-  - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.67 / 确认 23.76 / 脆弱性 14.00
+- WIZ | Solana | 加速中 | 强度 77.67 | 质量 66.15
+  - 主题摘要：Multiple tokens named 「WIZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.71 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 73.50 | 质量 68.79
+- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 75.99 | 质量 70.04
   - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
-  - 资金 100.00 / 广度 73.60 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.49 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 73.28 | 质量 66.37
-  - 主题摘要：According to 超级老尿's post, an analysis of the top 8 teams for the World Cup is provided, listing Spain, France, England, Argentina, Portugal, Brazil, Germany, and Netherlands with…
-  - 资金 100.00 / 广度 78.15 / 确认 24.48 / 脆弱性 14.00
+- 暴雪 | BSC | 加速中 | 强度 75.46 | 质量 59.70
+  - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.81 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ asks for signature design ideas | BSC | 加速中 | 强度 72.90 | 质量 68.00
+- CZ asks for signature design ideas | BSC | 加速中 | 强度 75.39 | 质量 69.25
   - 主题摘要：CZ jokingly asked for signature design ideas after receiving physical copies of his book 'Freedom of Money', sparking fan engagement with humorous and creative suggestions.
-  - 资金 100.00 / 广度 73.61 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.50 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elephant Meme Image Trending in Thailand | Solana | 降温中 | 强度 70.76 | 质量 53.02
-  - 主题摘要：According to megger's post, an incident involving an elephant in Thailand has led to widespread use of the 'Elephant in the room' Meme image, which is currently trending on social…
-  - 资金 100.00 / 广度 68.91 / 确认 16.56 / 脆弱性 14.00
+- "Goblin" as Word of the Year | Solana | 降温中 | 强度 75.22 | 质量 64.01
+  - 主题摘要：According to Mark Kretschmann's post, the term 'Goblin' is humorously proposed as the Word of the Year, used flexibly across multiple grammatical contexts to express various senti…
+  - 资金 100.00 / 广度 80.58 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Existentialism and the Penguin Narrative in Crypto Culture | Solana | 降温中 | 强度 70.36 | 质量 54.65
-  - 主题摘要：According to Financial Improv's post, the Penguin narrative in cryptocurrency reflects existentialist philosophy, particularly Nietzsche's critique of conformity and the 'Last Man…
-  - 资金 100.00 / 广度 72.07 / 确认 9.36 / 脆弱性 14.00
+- 瑞士银行 | BSC | 加速中 | 强度 74.66 | 质量 69.25
+  - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.08 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- The Dancing Squirrel | Solana | 加速中 | 强度 73.33 | 质量 57.51
+  - 主题摘要：BELKA (The Dancing Squirrel) is a meme token inspired by the playful nature of squirrel behavior. It gained popularity through viral social media campaigns, particularly on X, whe…
+  - 资金 100.00 / 广度 58.50 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Roaring Kitty Upgrades to PRO Membership | Solana | 加速中 | 强度 73.28 | 质量 65.67
+  - 主题摘要：According to Roaring Kitty Token 💥🍻's post, Roaring Kitty has reportedly upgraded to a PRO membership on StockCharts, sparking speculation about his return. The post references se…
+  - 资金 100.00 / 广度 80.29 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 72.42 | 质量 67.62
+  - 主题摘要：According to 超级老尿's post, an analysis of the top 8 teams for the World Cup is provided, listing Spain, France, England, Argentina, Portugal, Brazil, Germany, and Netherlands with…
+  - 资金 100.00 / 广度 78.02 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Flying Dachshund Meme Image Virality | Solana | 降温中 | 强度 72.28 | 质量 61.02
+  - 主题摘要：According to ִֶָ's post, a Flying Dachshund meme image has rapidly gained over 130k likes and 1 million views within 4 hours, demonstrating significant virality and meme potential…
+  - 资金 94.70 / 广度 47.71 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 法国 | BSC | 加速中 | 强度 69.73 | 质量 57.12
+- 法国 | BSC | 加速中 | 强度 69.92 | 质量 57.16
   - 主题摘要：Multiple tokens named 「法国」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.83 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.05 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.52，其中已确认叙事 0 个。
-- 法国 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- "Goblin" as Word of the Year 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.64，其中已确认叙事 0 个。
+- The Dancing Squirrel 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Higgsfield Promotes Fake Crypto in AI Marketing Video 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk referencing Nietzsche's Last Man | 质量 75.84 | 可交易性 87.85 | 风险 低
-- 瑞士银行 | 质量 70.08 | 可交易性 91.83 | 风险 低
-- 👏 CZ's Reaction to TeufeurS Ransom | 质量 68.79 | 可交易性 100.00 | 风险 低
-- CZ asks for signature design ideas | 质量 68.00 | 可交易性 100.00 | 风险 低
-- TRUMP LUNCHEON | 质量 67.35 | 可交易性 100.00 | 风险 低
-- World Cup Top 8 Predictions and Team Analysis | 质量 66.37 | 可交易性 100.00 | 风险 低
-- WIZ | 质量 66.25 | 可交易性 58.33 | 风险 低
-- Roaring Kitty Upgrades to PRO Membership | 质量 65.93 | 可交易性 64.76 | 风险 低
-- "Goblin" as Word of the Year | 质量 65.04 | 可交易性 65.21 | 风险 低
-- Plai Biang Goes Viral in Grocery Store Incident | 质量 64.42 | 可交易性 89.13 | 风险 低
+- Elon Musk referencing Nietzsche's Last Man | 质量 75.42 | 可交易性 87.00 | 风险 低
+- Higgsfield Promotes Fake Crypto in AI Marketing Video | 质量 70.83 | 可交易性 81.05 | 风险 低
+- 👏 CZ's Reaction to TeufeurS Ransom | 质量 70.04 | 可交易性 100.00 | 风险 低
+- CZ asks for signature design ideas | 质量 69.25 | 可交易性 100.00 | 风险 低
+- 瑞士银行 | 质量 69.25 | 可交易性 92.46 | 风险 低
+- World Cup Top 8 Predictions and Team Analysis | 质量 67.62 | 可交易性 100.00 | 风险 低
+- WIZ | 质量 66.15 | 可交易性 57.85 | 风险 低
+- Roaring Kitty Upgrades to PRO Membership | 质量 65.67 | 可交易性 63.84 | 风险 低
+- Higgsfield Launches Agent Bot Coin Trading Terminal | 质量 64.66 | 可交易性 61.58 | 风险 低
+- "Goblin" as Word of the Year | 质量 64.01 | 可交易性 65.91 | 风险 低
 
 ## 伪叙事风险
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：WIZ（Solana，分数 80.15）
+1. 当前最强叙事：Higgsfield Promotes Fake Crypto in AI Marketing Video（Solana，分数 82.7）
 2. 共振最强代币：TRADOOR（BSC，共振 100.0）
-3. 记忆层变化：Plai Biang Goes Viral in Grocery Store Incident 当前为“新出现”
+3. 记忆层变化：Higgsfield Promotes Fake Crypto in AI Marketing Video 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)
 #Binance #NarrativeOS #OpenClaw
