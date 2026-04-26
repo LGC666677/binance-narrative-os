@@ -1,6 +1,6 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-26T21:24:56.759040+00:00
+- 生成时间：2026-04-26T21:57:09.260526+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
@@ -10,7 +10,7 @@
 - 当前最强叙事是 Donald Trump as a 'Time Traveler' Narrative，所在链为 Solana，叙事强度 88.24。
 - 当前平均叙事强度为 88.24，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 👏 CZ's Reaction to TeufeurS Ransom 当前处于“新出现”状态。
+- 记忆层显示 AMERICA 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)。
 
 ## 叙事雷达
@@ -28,7 +28,7 @@
   - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Combining Trump Meme Narratives | Solana | 降温中 | 强度 88.24 | 质量 80.06
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 主题摘要：According to abrawlerj (redemption arc)'s post, the idea of consolidating competing Trump meme narratives into a single entity called 'Runner' was proposed to eliminate rivalry. T…
   - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Lack of Empathy Toward Trump | Solana | 降温中 | 强度 88.24 | 质量 80.06
@@ -47,35 +47,35 @@
   - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴雪 | BSC | 加速中 | 强度 76.07 | 质量 61.68
-  - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.71 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 75.11 | 质量 66.59
+- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 75.15 | 质量 68.52
   - 主题摘要：According to 超级老尿's post, the author predicts eight teams as potential champions of the World Cup, placing Argentina among the top contenders due to their defending champion statu…
-  - 资金 100.00 / 广度 76.00 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.99 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 瑞士银行 | BSC | 加速中 | 强度 74.23 | 质量 66.28
+- 瑞士银行 | BSC | 加速中 | 强度 74.61 | 质量 66.71
   - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.40 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.34 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 世界杯 | BSC | 加速中 | 强度 71.96 | 质量 56.56
-  - 主题摘要：Multiple tokens named 「世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.34 / 确认 24.48 / 脆弱性 14.00
+- 暴雪 | BSC | 加速中 | 强度 73.82 | 质量 61.50
+  - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.69 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 71.26 | 质量 67.97
+- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 70.85 | 质量 67.21
   - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
-  - 资金 100.00 / 广度 73.72 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.74 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk to Address Unanswered Questions from Late Fan | BSC | 降温中 | 强度 71.02 | 质量 55.68
-  - 主题摘要：Elon Musk acknowledges he will respond to a list of unanswered questions from Liv Perrotto, a late teenage fan of Tesla and SpaceX, who passed away from cancer before receiving an…
-  - 资金 100.00 / 广度 63.98 / 确认 16.56 / 脆弱性 14.00
+- AMERICA | BSC | 降温中 | 强度 70.05 | 质量 59.84
+  - 主题摘要：America is Back token represents a movement reclaiming American values and identity in the crypto space. It aims to foster community-driven initiatives that celebrate American cul…
+  - 资金 100.00 / 广度 77.01 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ asks for signature design ideas | BSC | 加速中 | 强度 69.83 | 质量 65.71
+  - 主题摘要：CZ jokingly asked for signature design ideas after receiving physical copies of his book 'Freedom of Money', sparking fan engagement with humorous and creative suggestions.
+  - 资金 100.00 / 广度 73.71 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
 - Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 88.24，其中已确认叙事 0 个。
-- 👏 CZ's Reaction to TeufeurS Ransom 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- CZ asks for signature design ideas 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Donald Trump as a 'Time Traveler' Narrative 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
@@ -88,8 +88,8 @@
 - Florida Enacts Law Potentially Impacting Trump | 质量 80.06 | 可交易性 100.00 | 风险 低
 - Trump's Crowd Comparison Claim | 质量 80.06 | 可交易性 100.00 | 风险 低
 - Orange Hair Hedge Fund accused of insider trading | 质量 80.06 | 可交易性 100.00 | 风险 低
-- 👏 CZ's Reaction to TeufeurS Ransom | 质量 67.97 | 可交易性 97.73 | 风险 低
-- World Cup Top 8 Predictions and Team Analysis | 质量 66.59 | 可交易性 100.00 | 风险 低
+- World Cup Top 8 Predictions and Team Analysis | 质量 68.52 | 可交易性 100.00 | 风险 低
+- 👏 CZ's Reaction to TeufeurS Ransom | 质量 67.21 | 可交易性 97.91 | 风险 低
 
 ## 伪叙事风险
 
@@ -133,6 +133,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：Donald Trump as a 'Time Traveler' Narrative（Solana，分数 88.24）
 2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：👏 CZ's Reaction to TeufeurS Ransom 当前为“新出现”
+3. 记忆层变化：AMERICA 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)
 #Binance #NarrativeOS #OpenClaw
