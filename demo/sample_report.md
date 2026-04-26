@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-26T16:23:00.745499+00:00
+- 生成时间：2026-04-26T17:05:44.765675+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Cole Allen Shooter Mention，所在链为 Solana，叙事强度 89.99。
-- 当前平均叙事强度为 76.87，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 BURNIE，来自 Solana，共振分数 100.0。
-- 记忆层显示 Donald Trollp 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Pepe Account Lore and TIME MACHINE，伪叙事风险 42.03。
+- 当前最强叙事是 Cole Allen Shooter Mention，所在链为 Solana，叙事强度 87.16。
+- 当前平均叙事强度为 76.58，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BELKA，来自 Solana，共振分数 100.0。
+- 记忆层显示 Trump's Third Assassination Attempt and THREE Token Narrative 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Trump Assassination Attempts and Immortal Narrative，伪叙事风险 47.79。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)。
 
 ## 叙事雷达
 
-- Cole Allen Shooter Mention | Solana | 加速中 | 强度 89.99 | 质量 82.15
-  - 主题摘要：Multiple tokens named 「HENRY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.88 / 确认 24.48 / 脆弱性 14.00
+- Cole Allen Shooter Mention | Solana | 加速中 | 强度 87.16 | 质量 82.22
+  - 主题摘要：According to Pericles's post, the only content shared on a social media account was the name Cole Allen in connection with the White House Correspondents Dinner shooter.
+  - 资金 100.00 / 广度 96.11 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Donald Trollp | Solana | 降温中 | 强度 82.80 | 质量 72.00
-  - 主题摘要：Multiple tokens named 「TROLLP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.14 / 确认 9.36 / 脆弱性 14.00
+- Trump's Third Assassination Attempt and THREE Token Narrative | Solana | 降温中 | 强度 78.90 | 质量 72.37
+  - 主题摘要：According to Riskbets's post, Donald Trump experienced a third assassination attempt, and the author suggests promoting the THREE token as a related market narrative. No further d…
+  - 资金 100.00 / 广度 80.92 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 12-Year-Old Meme Coin Trader Launching Token | Solana | 加速中 | 强度 77.53 | 质量 64.26
-  - 主题摘要：According to alexRBLXCrypto's post, a 12-year-old self-identified memecoin trader claims to be launching a new memecoin aimed at providing a scam-free alternative for followers. T…
-  - 资金 100.00 / 广度 78.77 / 确认 20.16 / 脆弱性 14.00
+- Pepe Account Lore and TIME MACHINE | Solana | 加速中 | 强度 78.14 | 质量 63.91
+  - 主题摘要：According to devvv333's post, the header background of a Pepe account that posted 'Cole Allen' is linked to a website named 'TIME MACHINE', raising questions about its significanc…
+  - 资金 100.00 / 广度 81.69 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 77.43 | 质量 69.73
+- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 76.40 | 质量 70.67
   - 主题摘要：According to 超级老尿's post, the author predicts eight teams as potential champions of the World Cup, placing Argentina among the top contenders due to their defending champion statu…
-  - 资金 100.00 / 广度 76.12 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.13 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- HE REPLIED Meme Image | Solana | 降温中 | 强度 74.38 | 质量 62.38
-  - 主题摘要：According to Argus's post, a Meme图 titled 'HE REPLIED' has been launched, referencing a crypto-related message. The name suggests a cultural or community-driven response within th…
-  - 资金 98.27 / 广度 52.02 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Hormuz Reserve Protocol | Solana | 降温中 | 强度 73.88 | 质量 62.41
+- Hormuz Reserve Protocol | Solana | 降温中 | 强度 74.90 | 质量 63.99
   - 主题摘要：Multiple tokens named 「HRP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.55 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 65.21 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴雪 | BSC | 加速中 | 强度 72.85 | 质量 59.02
-  - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.41 / 确认 24.48 / 脆弱性 24.00
+- 12-Year-Old Meme Coin Trader Launching Token | Solana | 加速中 | 强度 74.39 | 质量 64.02
+  - 主题摘要：According to alexRBLXCrypto's post, a 12-year-old self-identified memecoin trader claims to be launching a new memecoin aimed at providing a scam-free alternative for followers. T…
+  - 资金 100.00 / 广度 78.84 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 暴雪人生 | BSC | 降温中 | 强度 72.50 | 质量 59.34
-  - 主题摘要：Multiple tokens named 「暴雪人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.36 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cole Tomas Allen Identity Clarification | Solana | 加速中 | 强度 72.22 | 质量 67.43
-  - 主题摘要：Multiple tokens named 「cole」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.54 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pepe Account Lore and TIME MACHINE | Solana | 点火期 | 强度 72.16 | 质量 61.81
-  - 主题摘要：According to devvv333's post, a Pepe account that posted 'Cole Allen' uses a header background linked to a website named 'TIME MACHINE'. This has sparked curiosity and speculation…
-  - 资金 100.00 / 广度 80.67 / 确认 16.56 / 脆弱性 14.00
+- Trump Assassination Attempts and Immortal Narrative | Solana | 点火期 | 强度 74.06 | 质量 71.44
+  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 98.13 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Illuminati | Solana | 降温中 | 强度 72.01 | 质量 61.61
-  - 主题摘要：Illuminati token draws inspiration from the Illuminati conspiracy theory, featuring the iconic pyramid with all-seeing eye symbol. The logo represents the 'Eye of Providence' from…
-  - 资金 100.00 / 广度 42.21 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AMERICA | BSC | 降温中 | 强度 71.74 | 质量 59.90
-  - 主题摘要：America is Back token represents a movement reclaiming American values and identity in the crypto space. It aims to foster community-driven initiatives that celebrate American cul…
-  - 资金 100.00 / 广度 76.26 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 70.80 | 质量 68.71
-  - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
-  - 资金 100.00 / 广度 73.93 / 确认 31.68 / 脆弱性 24.00
+- Cole Tomas Allen Identity Clarification | Solana | 加速中 | 强度 73.73 | 质量 67.57
+  - 主题摘要：Multiple tokens named 「cole」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.58 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 蝴蝶首创三位一体不死鸟拉盘模型 | BSC | 加速中 | 强度 70.78 | 质量 59.69
-  - 主题摘要：Multiple tokens named 「屎珍香」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.00 / 确认 24.48 / 脆弱性 14.00
+- AMERICA | BSC | 降温中 | 强度 73.10 | 质量 59.93
+  - 主题摘要：America is Back token represents a movement reclaiming American values and identity in the crypto space. It aims to foster community-driven initiatives that celebrate American cul…
+  - 资金 100.00 / 广度 76.31 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 世界杯 | BSC | 加速中 | 强度 72.98 | 质量 57.77
+  - 主题摘要：Multiple tokens named 「世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.43 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 暴雪 | BSC | 加速中 | 强度 72.84 | 质量 59.54
+  - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.37 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 瑞士银行 | BSC | 加速中 | 强度 71.65 | 质量 63.71
+  - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.49 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Combining Trump Meme Narratives | Solana | 点火期 | 强度 71.34 | 质量 67.10
+  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 96.82 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 69.73 | 质量 67.03
+  - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
+  - 资金 100.00 / 广度 73.77 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.87，其中已确认叙事 0 个。
-- 蝴蝶首创三位一体不死鸟拉盘模型 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Donald Trollp 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.58，其中已确认叙事 0 个。
+- Trump Assassination Attempts and Immortal Narrative 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Trump's Third Assassination Attempt and THREE Token Narrative 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Cole Allen Shooter Mention | 质量 82.15 | 可交易性 100.00 | 风险 低
-- Donald Trollp | 质量 72.00 | 可交易性 100.00 | 风险 低
-- World Cup Top 8 Predictions and Team Analysis | 质量 69.73 | 可交易性 100.00 | 风险 低
-- 👏 CZ's Reaction to TeufeurS Ransom | 质量 68.71 | 可交易性 98.30 | 风险 低
-- Cole Tomas Allen Identity Clarification | 质量 67.43 | 可交易性 68.45 | 风险 低
-- 12-Year-Old Meme Coin Trader Launching Token | 质量 64.26 | 可交易性 60.66 | 风险 低
-- Hormuz Reserve Protocol | 质量 62.41 | 可交易性 98.59 | 风险 低
-- HE REPLIED Meme Image | 质量 62.38 | 可交易性 89.06 | 风险 低
-- Pepe Account Lore and TIME MACHINE | 质量 61.81 | 可交易性 53.23 | 风险 低
-- Illuminati | 质量 61.61 | 可交易性 100.00 | 风险 低
+- Cole Allen Shooter Mention | 质量 82.22 | 可交易性 100.00 | 风险 低
+- Trump's Third Assassination Attempt and THREE Token Narrative | 质量 72.37 | 可交易性 90.82 | 风险 低
+- Trump Assassination Attempts and Immortal Narrative | 质量 71.44 | 可交易性 97.49 | 风险 低
+- World Cup Top 8 Predictions and Team Analysis | 质量 70.67 | 可交易性 100.00 | 风险 低
+- Cole Tomas Allen Identity Clarification | 质量 67.57 | 可交易性 68.88 | 风险 低
+- Combining Trump Meme Narratives | 质量 67.10 | 可交易性 87.68 | 风险 低
+- 👏 CZ's Reaction to TeufeurS Ransom | 质量 67.03 | 可交易性 98.38 | 风险 低
+- 12-Year-Old Meme Coin Trader Launching Token | 质量 64.02 | 可交易性 59.78 | 风险 低
+- Hormuz Reserve Protocol | 质量 63.99 | 可交易性 98.55 | 风险 低
+- Pepe Account Lore and TIME MACHINE | 质量 63.91 | 可交易性 56.56 | 风险 低
 
 ## 伪叙事风险
 
-- Pepe Account Lore and TIME MACHINE | 风险 42.03 | 原因：流动性偏薄
+- Trump Assassination Attempts and Immortal Narrative | 风险 47.79 | 原因：流动性偏薄
+- Combining Trump Meme Narratives | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -106,8 +107,8 @@
 - BURNIE | Solana | 看多 | 新鲜度 92.35 | 暂无直接叙事映射
 - α | BSC | 看多 | 新鲜度 70.09 | 暂无直接叙事映射
 - Nintondo | Solana | 看多 | 新鲜度 67.99 | 暂无直接叙事映射
-- bibi | BSC | 看多 | 新鲜度 66.75 | 暂无直接叙事映射
 - chloe | Solana | 看多 | 新鲜度 59.06 | 暂无直接叙事映射
+- SKYAI | BSC | 看多 | 新鲜度 55.14 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Cole Allen Shooter Mention（Solana，分数 89.99）
-2. 共振最强代币：BURNIE（Solana，共振 100.0）
-3. 记忆层变化：Donald Trollp 当前为“新出现”
+1. 当前最强叙事：Cole Allen Shooter Mention（Solana，分数 87.16）
+2. 共振最强代币：BELKA（Solana，共振 100.0）
+3. 记忆层变化：Trump's Third Assassination Attempt and THREE Token Narrative 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)
 #Binance #NarrativeOS #OpenClaw
