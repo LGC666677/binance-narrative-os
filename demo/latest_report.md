@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-26T01:16:44.948970+00:00
+- 生成时间：2026-04-26T04:36:00.189036+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Elon Musk referencing Nietzsche's Last Man，所在链为 Solana，叙事强度 85.98。
-- 当前平均叙事强度为 79.07，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
-- 记忆层显示 Cat Girl 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Dress for the Outcome You Want，伪叙事风险 47.23。
+- 当前最强叙事是 Cole Allen Shooter Mention，所在链为 Solana，叙事强度 85.24。
+- 当前平均叙事强度为 79.82，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BURNIE，来自 Solana，共振分数 100.0。
+- 记忆层显示 Cole Allen Shooter Mention 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Elon Musk's Influence on $LASTWOMAN，伪叙事风险 47.23。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)。
 
 ## 叙事雷达
 
-- Elon Musk referencing Nietzsche's Last Man | Solana | 加速中 | 强度 85.98 | 质量 81.97
-  - 主题摘要：Elon Musk retweets a philosophical breakdown of Nietzsche's 'Last Man' concept linked to modern complacency. Offers intellectual meme potential rooted in existential themes.
-  - 资金 100.00 / 广度 95.27 / 确认 24.48 / 脆弱性 24.00
+- Cole Allen Shooter Mention | Solana | 加速中 | 强度 85.24 | 质量 80.09
+  - 主题摘要：According to Pericles's post, the only content shared was the name of the White House Correspondents Dinner shooter, Cole Allen. This appears to be a reference to a real-world eve…
+  - 资金 100.00 / 广度 89.55 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 79.35 | 质量 71.95
-  - 主题摘要：According to 超级老尿's post, the predicted World Cup top 8 teams include Spain, France, England, Argentina, Portugal, Brazil, Germany, and Netherlands, with reasons focusing on team…
-  - 资金 100.00 / 广度 76.87 / 确认 24.48 / 脆弱性 14.00
+- White House Correspondent's Dinner Shooter Identified | Solana | 加速中 | 强度 82.47 | 质量 80.13
+  - 主题摘要：Karol Markowicz reported that the attempted shooter at the White House Correspondent's Dinner has been identified as 31-year-old Cole Tomas Allen from Torrance, California, and is…
+  - 资金 100.00 / 广度 89.66 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk's Influence on $LASTWOMAN | Solana | 降温中 | 强度 79.18 | 质量 72.46
-  - 主题摘要：According to Bobby The Man's post, the $LASTWOMAN token appears to have been inspired by the attention received from Elon Musk's reposting of Nietzsche's Last Man, which reached a…
-  - 资金 100.00 / 广度 85.17 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cat Girl | Solana | 降温中 | 强度 78.52 | 质量 63.76
-  - 主题摘要：According to AI Liberateeveryoneism Memes 🚫⛓️'s post, Schrödinger's Catgirl 7.3 was announced as a meme image-generating AI model with fictional, hyper-advanced capabilities such…
-  - 资金 100.00 / 广度 84.70 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Karoline Levitt's Alleged Prediction Goes Viral | Solana | 降温中 | 强度 78.39 | 质量 65.97
-  - 主题摘要：According to Ella's post, Karoline Levitt stated that there will be 'shots fired' during Donald Trump's event, suggesting dramatic developments. This information is unverified. Pl…
-  - 资金 100.00 / 广度 76.87 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Almost Friday Announcement | Solana | 加速中 | 强度 78.33 | 质量 74.58
-  - 主题摘要：The White House posted a message 'ALMOST FRIDAY,' signaling an upcoming event or update related to the end of the workweek, without mentioning any cryptocurrency or specific polic…
-  - 资金 100.00 / 广度 80.08 / 确认 27.36 / 脆弱性 14.00
+- Trump Assassination Attempts and Immortal Narrative | Solana | 加速中 | 强度 82.02 | 质量 81.61
+  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 94.62 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dress for the Outcome You Want | Solana | 点火期 | 强度 77.82 | 质量 78.32
-  - 主题摘要：According to Pump.fun's post, the phrase 'dress for the outcome you want' is used, suggesting a motivational or outcome-oriented mindset in cryptocurrency coin launching. The phra…
-  - 资金 100.00 / 广度 88.92 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- The Dancing Squirrel | Solana | 加速中 | 强度 77.52 | 质量 65.19
-  - 主题摘要：According to Crypto Chef's post, the content features a Meme image depicting a dancing squirrel, which has been associated with the token $BELKA. The post does not provide detaile…
-  - 资金 100.00 / 广度 79.43 / 确认 24.48 / 脆弱性 14.00
+- #ColeThomasAllen is the shooter | Solana | 加速中 | 强度 79.65 | 质量 75.01
+  - 主题摘要：According to Cole Stephens's post, the individual identified as Cole Thomas Allen is the shooter, who has been apprehended and appears to be alive. The incident is associated with…
+  - 资金 100.00 / 广度 75.26 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Token Supply and Fee Inquiry | Solana | 降温中 | 强度 76.83 | 质量 63.33
-  - 主题摘要：According to FoidSlayer's post, a user is inquiring about token supply distribution and associated fees, referencing unresolved issues with token reception.
-  - 资金 100.00 / 广度 84.25 / 确认 16.56 / 脆弱性 14.00
+- Cole Allen Mention by YangGoon | Solana | 降温中 | 强度 78.54 | 质量 69.87
+  - 主题摘要：According to YangGoon's post, Cole Allen is mentioned with an emoticon. No further context or detailed narrative is provided in the post regarding Cole Allen's involvement in cryp…
+  - 资金 100.00 / 广度 81.23 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 瑞士银行 | BSC | 降温中 | 强度 74.79 | 质量 66.76
+- 瑞士银行 | BSC | 加速中 | 强度 78.10 | 质量 69.84
   - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.26 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AMERICA | BSC | 加速中 | 强度 72.68 | 质量 55.13
-  - 主题摘要：America is Back token represents a movement reclaiming American values and identity in the crypto space. It aims to foster community-driven initiatives that celebrate American cul…
-  - 资金 100.00 / 广度 57.61 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.53 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 72.09 | 质量 69.82
-  - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
-  - 资金 100.00 / 广度 73.17 / 确认 28.08 / 脆弱性 24.00
+- Security Situation at Correspondents Dinner | Solana | 加速中 | 强度 77.97 | 质量 71.92
+  - 主题摘要：Grant Cardone reported on a security incident at the Correspondents Dinner, mentioning that Trump and officials were evacuated and a shooter was killed. The post does not mention…
+  - 资金 100.00 / 广度 78.12 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 暴雪 | BSC | 加速中 | 强度 72.01 | 质量 58.62
+- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 76.71 | 质量 69.04
+  - 主题摘要：According to 超级老尿's post, the predicted top 8 teams for the 2026 World Cup include Spain, France, England, Argentina, Portugal, Brazil, Germany, and the Netherlands, with each sel…
+  - 资金 100.00 / 广度 76.19 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- The Dancing Squirrel | Solana | 加速中 | 强度 76.36 | 质量 65.34
+  - 主题摘要：According to Crypto Chef's post, the content features a Meme image depicting a dancing squirrel, which has been associated with the token $BELKA. The post does not provide detaile…
+  - 资金 100.00 / 广度 79.86 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk's Influence on $LASTWOMAN | Solana | 点火期 | 强度 76.28 | 质量 71.40
+  - 主题摘要：According to Bobby The Man's post, the $LASTWOMAN token appears to have been inspired by the attention received from Elon Musk's reposting of Nietzsche's Last Man, which reached a…
+  - 资金 100.00 / 广度 86.25 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 暴雪 | BSC | 加速中 | 强度 74.17 | 质量 59.79
   - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.29 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.58 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ asks for signature design ideas | BSC | 加速中 | 强度 71.33 | 质量 68.72
-  - 主题摘要：CZ jokingly asked for signature design ideas after receiving physical copies of his book 'Freedom of Money', sparking fan engagement with humorous and creative suggestions.
-  - 资金 100.00 / 广度 73.18 / 确认 24.48 / 脆弱性 24.00
+- AMERICA | BSC | 降温中 | 强度 71.59 | 质量 56.10
+  - 主题摘要：America is Back token represents a movement reclaiming American values and identity in the crypto space. It aims to foster community-driven initiatives that celebrate American cul…
+  - 资金 100.00 / 广度 63.87 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 70.96 | 质量 67.08
+  - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
+  - 资金 100.00 / 广度 73.88 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 首个自助空投随机返还gas和销毁分红 | BSC | 加速中 | 强度 70.39 | 质量 60.01
+  - 主题摘要：Multiple tokens named 「CANCER」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.33 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.07，其中已确认叙事 0 个。
-- Almost Friday Announcement 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Elon Musk's Influence on $LASTWOMAN 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.82，其中已确认叙事 0 个。
+- Cole Allen Shooter Mention 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Cole Allen Mention by YangGoon 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk referencing Nietzsche's Last Man | 质量 81.97 | 可交易性 100.00 | 风险 低
-- Dress for the Outcome You Want | 质量 78.32 | 可交易性 100.00 | 风险 低
-- Almost Friday Announcement | 质量 74.58 | 可交易性 88.47 | 风险 低
-- Elon Musk's Influence on $LASTWOMAN | 质量 72.46 | 可交易性 89.50 | 风险 低
-- World Cup Top 8 Predictions and Team Analysis | 质量 71.95 | 可交易性 100.00 | 风险 低
-- 👏 CZ's Reaction to TeufeurS Ransom | 质量 69.82 | 可交易性 100.00 | 风险 低
-- CZ asks for signature design ideas | 质量 68.72 | 可交易性 98.89 | 风险 低
-- 瑞士银行 | 质量 66.76 | 可交易性 92.13 | 风险 低
-- Karoline Levitt's Alleged Prediction Goes Viral | 质量 65.97 | 可交易性 76.16 | 风险 低
-- The Dancing Squirrel | 质量 65.19 | 可交易性 59.93 | 风险 低
+- Trump Assassination Attempts and Immortal Narrative | 质量 81.61 | 可交易性 100.00 | 风险 低
+- White House Correspondent's Dinner Shooter Identified | 质量 80.13 | 可交易性 100.00 | 风险 低
+- Cole Allen Shooter Mention | 质量 80.09 | 可交易性 100.00 | 风险 低
+- #ColeThomasAllen is the shooter | 质量 75.01 | 可交易性 100.00 | 风险 低
+- Security Situation at Correspondents Dinner | 质量 71.92 | 可交易性 86.84 | 风险 低
+- Elon Musk's Influence on $LASTWOMAN | 质量 71.40 | 可交易性 79.62 | 风险 低
+- Cole Allen Mention by YangGoon | 质量 69.87 | 可交易性 84.80 | 风险 低
+- 瑞士银行 | 质量 69.84 | 可交易性 92.80 | 风险 低
+- World Cup Top 8 Predictions and Team Analysis | 质量 69.04 | 可交易性 100.00 | 风险 低
+- 👏 CZ's Reaction to TeufeurS Ransom | 质量 67.08 | 可交易性 99.84 | 风险 低
 
 ## 伪叙事风险
 
-- Dress for the Outcome You Want | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon Musk's Influence on $LASTWOMAN | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Elon Musk referencing Nietzsche's Last Man（Solana，分数 85.98）
-2. 共振最强代币：RAVE（BSC，共振 100.0）
-3. 记忆层变化：Cat Girl 当前为“新出现”
+1. 当前最强叙事：Cole Allen Shooter Mention（Solana，分数 85.24）
+2. 共振最强代币：BURNIE（Solana，共振 100.0）
+3. 记忆层变化：Cole Allen Shooter Mention 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)
 #Binance #NarrativeOS #OpenClaw
