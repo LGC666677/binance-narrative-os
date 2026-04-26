@@ -1,97 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-26T19:32:09.841738+00:00
+- 生成时间：2026-04-26T20:07:38.408919+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Coming Soon Announcement，所在链为 Solana，叙事强度 88.14。
-- 当前平均叙事强度为 87.98，其中已确认叙事 0 个。
+- 当前最强叙事是 Donald Trump as a 'Time Traveler' Narrative，所在链为 Solana，叙事强度 88.24。
+- 当前平均叙事强度为 88.24，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 Coming Soon Announcement 当前处于“新出现”状态。
+- 记忆层显示 Donald Trump as a 'Time Traveler' Narrative 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 AMERICA，伪叙事风险 47.23。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)。
 
 ## 叙事雷达
 
-- Coming Soon Announcement | Solana | 降温中 | 强度 88.14 | 质量 80.03
+- Donald Trump as a 'Time Traveler' Narrative | Solana | 降温中 | 强度 88.24 | 质量 80.06
   - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 99.90 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Combining Trump Meme Narratives | Solana | 降温中 | 强度 88.01 | 质量 80.03
-  - 主题摘要：According to abrawlerj (redemption arc)'s post, the idea of consolidating competing Trump meme narratives into a single 'Runner' token is proposed to eliminate competition and uni…
-  - 资金 100.00 / 广度 99.90 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The child | Solana | 降温中 | 强度 88.01 | 质量 80.03
-  - 主题摘要：According to Anonymous's post, a Meme image referencing White House spokeswoman Karoline Leavitt's maternity leave has inspired the creation of related cryptocurrency tokens such…
-  - 资金 100.00 / 广度 99.90 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump Obligation to Crypto Industry | Solana | 降温中 | 强度 87.97 | 质量 80.03
+- Trump Obligation to Crypto Industry | Solana | 降温中 | 强度 88.24 | 质量 80.06
   - 主题摘要：Trump stated during a public address that he feels an obligation to ensure the prosperity of the cryptocurrency industry, signaling potential policy interest in the sector.
-  - 资金 100.00 / 广度 99.90 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Florida Enacts Law Potentially Impacting Trump | Solana | 降温中 | 强度 87.97 | 质量 80.03
+- New Meme Image of Trump | Solana | 降温中 | 强度 88.24 | 质量 80.06
   - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 99.90 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump to Address Memecoin Gala | Solana | 降温中 | 强度 87.97 | 质量 80.03
-  - 主题摘要：According to zerohedge's post, the White House has confirmed that Donald Trump will address a Memecoin-related gala event tonight, signaling potential engagement with the cryptocu…
-  - 资金 100.00 / 广度 99.90 / 确认 9.36 / 脆弱性 14.00
+- Combining Trump Meme Narratives | Solana | 降温中 | 强度 88.24 | 质量 80.06
+  - 主题摘要：According to abrawlerj (redemption arc)'s post, the idea of consolidating competing Trump meme narratives into a single 'Runner' token is proposed to eliminate competition and uni…
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- New Meme Image of Trump | Solana | 降温中 | 强度 87.90 | 质量 80.03
+- Lack of Empathy Toward Trump | Solana | 降温中 | 强度 88.24 | 质量 80.06
   - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 99.90 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump's Crowd Comparison Claim | Solana | 降温中 | 强度 87.89 | 质量 80.03
+- Florida Enacts Law Potentially Impacting Trump | Solana | 降温中 | 强度 88.24 | 质量 80.06
   - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 99.90 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 76.35 | 质量 68.59
+- Trump's Crowd Comparison Claim | Solana | 降温中 | 强度 88.24 | 质量 80.06
+  - 主题摘要：Trump claimed he drew a larger crowd on July 4th than Martin Luther King Jr. did during his 1963 'I Had A Dream' speech, according to Daily Mail's post. This statement appears to…
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Orange Hair Hedge Fund accused of insider trading | Solana | 降温中 | 强度 88.24 | 质量 80.06
+  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 76.75 | 质量 69.07
   - 主题摘要：According to 超级老尿's post, the author predicts eight teams as potential champions of the World Cup, placing Argentina among the top contenders due to their defending champion statu…
-  - 资金 100.00 / 广度 75.99 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.96 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 暴雪 | BSC | 加速中 | 强度 72.89 | 质量 61.29
+- 暴雪 | BSC | 加速中 | 强度 74.69 | 质量 60.49
   - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.71 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.69 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 瑞士银行 | BSC | 加速中 | 强度 70.62 | 质量 63.74
-  - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.41 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 世界杯 | BSC | 加速中 | 强度 70.27 | 质量 56.76
+- 世界杯 | BSC | 加速中 | 强度 69.63 | 质量 53.95
   - 主题摘要：Multiple tokens named 「世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.36 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 68.38 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 70.00 | 质量 67.84
+- AMERICA | BSC | 点火期 | 强度 69.22 | 质量 59.59
+  - 主题摘要：America is Back token represents a movement reclaiming American values and identity in the crypto space. It aims to foster community-driven initiatives that celebrate American cul…
+  - 资金 100.00 / 广度 76.64 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 👏 CZ's Reaction to TeufeurS Ransom | BSC | 加速中 | 强度 69.18 | 质量 66.78
   - 主题摘要：CZ reacts to a report about French streamer TeufeurS being extorted in 2023. The clapping emoji suggests a sarcastic or dismissive tone, which could spark meme culture around cryp…
-  - 资金 100.00 / 广度 73.71 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.73 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk to Address Unanswered Questions from Late Fan | BSC | 降温中 | 强度 69.29 | 质量 54.82
+- Elon Musk to Address Unanswered Questions from Late Fan | BSC | 降温中 | 强度 69.18 | 质量 55.35
   - 主题摘要：Elon Musk responded to a request regarding a list of unanswered questions left by a late young fan, Liv Perrotto, who passed away from cancer. The questions covered topics such as…
-  - 资金 100.00 / 广度 62.75 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 63.56 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 87.98，其中已确认叙事 0 个。
-- Coming Soon Announcement 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 88.24，其中已确认叙事 0 个。
+- AMERICA 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Donald Trump as a 'Time Traveler' Narrative 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Coming Soon Announcement | 质量 80.03 | 可交易性 100.00 | 风险 低
-- Combining Trump Meme Narratives | 质量 80.03 | 可交易性 100.00 | 风险 低
-- The child | 质量 80.03 | 可交易性 100.00 | 风险 低
-- Trump Obligation to Crypto Industry | 质量 80.03 | 可交易性 100.00 | 风险 低
-- Florida Enacts Law Potentially Impacting Trump | 质量 80.03 | 可交易性 100.00 | 风险 低
-- Trump to Address Memecoin Gala | 质量 80.03 | 可交易性 100.00 | 风险 低
-- New Meme Image of Trump | 质量 80.03 | 可交易性 100.00 | 风险 低
-- Trump's Crowd Comparison Claim | 质量 80.03 | 可交易性 100.00 | 风险 低
-- World Cup Top 8 Predictions and Team Analysis | 质量 68.59 | 可交易性 100.00 | 风险 低
-- 👏 CZ's Reaction to TeufeurS Ransom | 质量 67.84 | 可交易性 97.89 | 风险 低
+- Donald Trump as a 'Time Traveler' Narrative | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Trump Obligation to Crypto Industry | 质量 80.06 | 可交易性 100.00 | 风险 低
+- New Meme Image of Trump | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Combining Trump Meme Narratives | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Lack of Empathy Toward Trump | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Florida Enacts Law Potentially Impacting Trump | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Trump's Crowd Comparison Claim | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Orange Hair Hedge Fund accused of insider trading | 质量 80.06 | 可交易性 100.00 | 风险 低
+- World Cup Top 8 Predictions and Team Analysis | 质量 69.07 | 可交易性 100.00 | 风险 低
+- 👏 CZ's Reaction to TeufeurS Ransom | 质量 66.78 | 可交易性 97.66 | 风险 低
 
 ## 伪叙事风险
 
+- AMERICA | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -130,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Coming Soon Announcement（Solana，分数 88.14）
+1. 当前最强叙事：Donald Trump as a 'Time Traveler' Narrative（Solana，分数 88.24）
 2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：Coming Soon Announcement 当前为“新出现”
+3. 记忆层变化：Donald Trump as a 'Time Traveler' Narrative 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)
 #Binance #NarrativeOS #OpenClaw
