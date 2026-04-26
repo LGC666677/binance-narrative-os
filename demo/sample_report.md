@@ -1,101 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-26T09:46:58.815708+00:00
+- 生成时间：2026-04-26T10:33:22.879361+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Cole Allen Shooter Mention，所在链为 Solana，叙事强度 87.12。
-- 当前平均叙事强度为 76.09，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
-- 记忆层显示 Blimp Launches Token with Autonomous Buyback and Airdrop System 当前处于“新出现”状态。
+- 当前最强叙事是 Cole Allen Shooter Mention，所在链为 Solana，叙事强度 85.71。
+- 当前平均叙事强度为 76.17，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TRADOOR，来自 BSC，共振分数 100.0。
+- 记忆层显示 Tung Tung Tung Sahur Meme图 Origin Story 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Elon Musk's Influence on $LASTWOMAN，伪叙事风险 47.23。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)。
 
 ## 叙事雷达
 
-- Cole Allen Shooter Mention | Solana | 加速中 | 强度 87.12 | 质量 81.89
-  - 主题摘要：According to Pericles's post, the only content shared was the name of the White House Correspondents Dinner shooter, Cole Allen. This appears to be a reference to a real-world eve…
-  - 资金 100.00 / 广度 95.03 / 确认 24.48 / 脆弱性 14.00
+- Cole Allen Shooter Mention | Solana | 加速中 | 强度 85.71 | 质量 81.96
+  - 主题摘要：According to Pericles's post, Cole Allen was named in a social media update related to the White House Correspondents Dinner. The post appears to reference a notable event or stat…
+  - 资金 100.00 / 广度 95.25 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Dancing Squirrel | Solana | 加速中 | 强度 78.25 | 质量 65.78
-  - 主题摘要：According to Crypto Chef's post, the content features a Meme image depicting a dancing squirrel, which has been associated with the token $BELKA. The post does not provide detaile…
-  - 资金 100.00 / 广度 80.70 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 76.82 | 质量 71.47
+- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 77.43 | 质量 70.48
   - 主题摘要：According to 超级老尿's post, the top 8 teams for the World Cup are listed with reasons for each selection, highlighting team strengths and key players. The post also references Argen…
-  - 资金 100.00 / 广度 77.41 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.18 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump Meme Image Release | Solana | 加速中 | 强度 74.90 | 质量 66.12
-  - 主题摘要：According to vibooor's post, a Meme图 featuring Donald Trump was shared, referencing the recently released White House photo, with humorous commentary labeling it 'DOWNALD'.
-  - 资金 100.00 / 广度 86.46 / 确认 23.76 / 脆弱性 24.00
+- The Dancing Squirrel | Solana | 加速中 | 强度 76.89 | 质量 65.79
+  - 主题摘要：According to Crypto Chef's post, the content features a Meme image depicting a dancing squirrel, which has been associated with the token $BELKA. The post does not provide detaile…
+  - 资金 100.00 / 广度 80.85 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Blimp Launches Token with Autonomous Buyback and Airdrop System | Solana | 加速中 | 强度 74.84 | 质量 63.78
-  - 主题摘要：According to Blimp's post, the $BLIMP token has been launched with an autonomous mechanism that utilizes creator fees for buybacks and airdrops to holders. The contract is locked…
-  - 资金 100.00 / 广度 78.51 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cole Tomas Allen Identity Clarification | Solana | 加速中 | 强度 74.21 | 质量 67.40
-  - 主题摘要：According to devvy's post, there is confusion and commentary regarding the identity of Cole Tomas Allen, who was reported as the Trump shooter. The post questions his portrayal as…
-  - 资金 100.00 / 广度 80.10 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk's Influence on $LASTWOMAN | Solana | 点火期 | 强度 73.88 | 质量 70.69
-  - 主题摘要：According to Bobby The Man's post, the Nietzsche's Last Woman meme coin was launched following the viral attention of a Friedrich painting referenced by Elon Musk. The coin draws…
-  - 资金 100.00 / 广度 86.97 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- #ColeThomasAllen is the shooter | Solana | 降温中 | 强度 72.95 | 质量 57.81
+- #ColeThomasAllen is the shooter | Solana | 降温中 | 强度 74.90 | 质量 58.93
   - 主题摘要：According to Cole Stephens's post, the individual identified as Cole Thomas Allen is the shooter, who has been apprehended and appears to be alive. The incident is associated with…
-  - 资金 100.00 / 广度 67.35 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 67.39 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 瑞士银行 | BSC | 加速中 | 强度 72.80 | 质量 66.61
-  - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.38 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- UNDEAD Token: Automated Buyback and Burn Mechanism | Solana | 降温中 | 强度 72.59 | 质量 58.19
-  - 主题摘要：According to le /B/'s post, UNDEAD is a meme-based token that automatically buys and burns creator fees when the token's volume flatlines for over 24 hours. The token logo feature…
-  - 资金 100.00 / 广度 75.15 / 确认 16.56 / 脆弱性 14.00
+- Tung Tung Tung Sahur Meme图 Origin Story | Solana | 降温中 | 强度 74.90 | 质量 65.38
+  - 主题摘要：According to Felix's post, the creator of Tung Tung Tung sahur shared a video explaining how the concept was inspired by a Kentongan and is associated with TripleK.
+  - 资金 100.00 / 广度 56.76 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴雪 | BSC | 加速中 | 强度 72.11 | 质量 60.20
+- 暴雪 | BSC | 加速中 | 强度 74.84 | 质量 60.42
   - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.11 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.17 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MDAG Launches Aave and DeFi Meme Movement | BSC | 加速中 | 强度 70.64 | 质量 57.36
-  - 主题摘要：According to MDAG's post, the Make DeFi Again Great (MDAG) initiative has launched as a meme-driven movement aimed at revitalizing real participation in AAVE and DeFi. The project…
-  - 资金 100.00 / 广度 72.55 / 确认 20.16 / 脆弱性 14.00
+- Cole Tomas Allen Identity Clarification | Solana | 加速中 | 强度 74.68 | 质量 67.77
+  - 主题摘要：Multiple tokens named 「cole」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.06 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AMERICA | BSC | 降温中 | 强度 70.52 | 质量 59.31
-  - 主题摘要：America is Back token represents a movement reclaiming American values and identity in the crypto space. It aims to foster community-driven initiatives that celebrate American cul…
-  - 资金 100.00 / 广度 75.57 / 确认 16.56 / 脆弱性 24.00
+- Trump Meme Image Release | Solana | 加速中 | 强度 74.45 | 质量 66.16
+  - 主题摘要：According to vibooor's post, a Meme图 featuring Donald Trump was shared, referencing the recently released White House photo, with humorous commentary labeling it 'DOWNALD'.
+  - 资金 100.00 / 广度 86.49 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- AMURICA | Solana | 降温中 | 强度 74.43 | 质量 59.09
+  - 主题摘要：AMURICA is a meme token inspired by American political satire, featuring a cartoon-style logo with political figures in suits against an American flag backdrop. The token embraces…
+  - 资金 100.00 / 广度 77.18 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 世界杯 | BSC | 加速中 | 强度 69.14 | 质量 55.14
-  - 主题摘要：Multiple tokens named 「世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.03 / 确认 24.48 / 脆弱性 14.00
+- 瑞士银行 | BSC | 加速中 | 强度 74.02 | 质量 66.36
+  - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.41 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- AMERICA | BSC | 降温中 | 强度 74.01 | 质量 59.63
+  - 主题摘要：America is Back token represents a movement reclaiming American values and identity in the crypto space. It aims to foster community-driven initiatives that celebrate American cul…
+  - 资金 100.00 / 广度 75.68 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk's Influence on $LASTWOMAN | Solana | 点火期 | 强度 73.41 | 质量 70.51
+  - 主题摘要：Bobby The Man proposed launching a meme coin inspired by Caspar David Friedrich's painting 'Woman Before the Setting Sun' as a female counterpart to the previously launched Nietzs…
+  - 资金 100.00 / 广度 87.02 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- RHC | BSC | 加速中 | 强度 71.68 | 质量 62.52
+  - 主题摘要：Red Hare Coin (RHC) is a meme token inspired by the playful nature of internet culture. It aims to build a community-driven ecosystem through social media engagement, particularly…
+  - 资金 100.00 / 广度 70.28 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- MDAG Launches Aave and DeFi Meme Movement | BSC | 降温中 | 强度 71.60 | 质量 57.39
+  - 主题摘要：According to MDAG's post, the Make DeFi Again Great (MDAG) initiative has launched as a meme-driven movement aimed at revitalizing real participation in AAVE and DeFi. The project…
+  - 资金 100.00 / 广度 73.13 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.09，其中已确认叙事 0 个。
-- Blimp Launches Token with Autonomous Buyback and Airdrop System 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.17，其中已确认叙事 0 个。
+- RHC 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - #ColeThomasAllen is the shooter 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Cole Allen Shooter Mention | 质量 81.89 | 可交易性 100.00 | 风险 低
-- World Cup Top 8 Predictions and Team Analysis | 质量 71.47 | 可交易性 100.00 | 风险 低
-- Elon Musk's Influence on $LASTWOMAN | 质量 70.69 | 可交易性 76.52 | 风险 低
-- Cole Tomas Allen Identity Clarification | 质量 67.40 | 可交易性 69.79 | 风险 低
-- 瑞士银行 | 质量 66.61 | 可交易性 91.85 | 风险 低
-- Trump Meme Image Release | 质量 66.12 | 可交易性 56.50 | 风险 低
-- The Dancing Squirrel | 质量 65.78 | 可交易性 60.61 | 风险 低
-- Blimp Launches Token with Autonomous Buyback and Airdrop System | 质量 63.78 | 可交易性 56.65 | 风险 低
-- 暴雪 | 质量 60.20 | 可交易性 47.60 | 风险 低
-- AMERICA | 质量 59.31 | 可交易性 49.99 | 风险 低
+- Cole Allen Shooter Mention | 质量 81.96 | 可交易性 100.00 | 风险 低
+- Elon Musk's Influence on $LASTWOMAN | 质量 70.51 | 可交易性 75.88 | 风险 低
+- World Cup Top 8 Predictions and Team Analysis | 质量 70.48 | 可交易性 100.00 | 风险 低
+- Cole Tomas Allen Identity Clarification | 质量 67.77 | 可交易性 70.04 | 风险 低
+- 瑞士银行 | 质量 66.36 | 可交易性 91.95 | 风险 低
+- Trump Meme Image Release | 质量 66.16 | 可交易性 56.08 | 风险 低
+- The Dancing Squirrel | 质量 65.79 | 可交易性 60.51 | 风险 低
+- Tung Tung Tung Sahur Meme图 Origin Story | 质量 65.38 | 可交易性 98.02 | 风险 低
+- RHC | 质量 62.52 | 可交易性 66.41 | 风险 低
+- 暴雪 | 质量 60.42 | 可交易性 48.28 | 风险 低
 
 ## 伪叙事风险
 
 - Elon Musk's Influence on $LASTWOMAN | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- #ColeThomasAllen is the shooter | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Cole Allen Shooter Mention（Solana，分数 87.12）
-2. 共振最强代币：TRUMP（Solana，共振 100.0）
-3. 记忆层变化：Blimp Launches Token with Autonomous Buyback and Airdrop System 当前为“新出现”
+1. 当前最强叙事：Cole Allen Shooter Mention（Solana，分数 85.71）
+2. 共振最强代币：TRADOOR（BSC，共振 100.0）
+3. 记忆层变化：Tung Tung Tung Sahur Meme图 Origin Story 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)
 #Binance #NarrativeOS #OpenClaw
