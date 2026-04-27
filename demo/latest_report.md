@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-27T09:33:42.691149+00:00
+- 生成时间：2026-04-27T11:24:54.827685+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Elon Musk and Nietzsche，所在链为 Solana，叙事强度 87.33。
-- 当前平均叙事强度为 81.1，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 BURNIE，来自 Solana，共振分数 100.0。
-- 记忆层显示 Elon Musk and The Truman Show Experiment Discussion 当前处于“新出现”状态。
+- 当前最强叙事是 Elon Musk and Nietzsche，所在链为 Solana，叙事强度 87.31。
+- 当前平均叙事强度为 82.63，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BELKA，来自 Solana，共振分数 100.0。
+- 记忆层显示 Meme Image Deployment Criticism 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-04-28。
 
 ## 叙事雷达
 
-- Elon Musk and Nietzsche | Solana | 降温中 | 强度 87.33 | 质量 78.60
-  - 主题摘要：According to ardin's post, Elon Musk has repeatedly referenced Nietzsche's philosophy, particularly in relation to his teenage years, and the post speculates that a Meme image of…
-  - 资金 100.00 / 广度 95.12 / 确认 9.36 / 脆弱性 14.00
+- Elon Musk and Nietzsche | Solana | 降温中 | 强度 87.31 | 质量 78.57
+  - 主题摘要：Multiple tokens named 「Elon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 95.04 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk and The Truman Show Experiment Discussion | Solana | 降温中 | 强度 86.60 | 质量 78.79
-  - 主题摘要：According to yn 💰's post, Marc Andreessen tagged Elon Musk regarding a real-life Truman Show experiment. The tweet speculates on a potential response from Elon Musk.
-  - 资金 100.00 / 广度 90.48 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nietzsche's ElonMusk Meme Image Shared | Solana | 降温中 | 强度 84.48 | 质量 73.77
-  - 主题摘要：According to CENTED's post, Nietzsche's ElonMusk is being prepared for deployment, reflecting a thematic fusion of philosophical and tech-celebrity narratives.
-  - 资金 100.00 / 广度 93.60 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- EXIT LIQUOR | Solana | 降温中 | 强度 82.82 | 质量 73.30
+- EXIT LIQUOR | Solana | 降温中 | 强度 85.39 | 质量 75.11
   - 主题摘要：According to AmericanPapaBear™'s post, a Meme image referencing 'exit liquidity' and 'exit liquor' was shared, drawing a humorous comparison between the two phrases. The post incl…
-  - 资金 100.00 / 广度 77.48 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 78.22 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 82.22 | 质量 73.55
-  - 主题摘要：According to 超级老尿's post, the predicted World Cup top 8 teams include Spain, France, England, Argentina, Portugal, Brazil, Germany, and Netherlands, based on team strengths and pl…
-  - 资金 100.00 / 广度 75.09 / 确认 24.48 / 脆弱性 14.00
+- Nietzsche's ElonMusk Meme Image Shared | Solana | 降温中 | 强度 84.55 | 质量 73.88
+  - 主题摘要：Multiple tokens named 「Elon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.58 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk and The Truman Show Experiment Discussion | Solana | 加速中 | 强度 82.89 | 质量 79.65
+  - 主题摘要：Multiple tokens named 「OTHISMOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.73 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- HORNY | Solana | 加速中 | 强度 79.69 | 质量 64.78
-  - 主题摘要：Multiple tokens named 「HORNY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.94 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- UNCLE COWBOY | Solana | 降温中 | 强度 78.49 | 质量 69.87
+- UNCLE COWBOY | Solana | 降温中 | 强度 81.18 | 质量 73.05
   - 主题摘要：COWBOY token represents UNCLE COWBOY, a meme-inspired cryptocurrency featuring a cowboy character. The narrative centers on a 'not your average uncle' who traded city life for a l…
-  - 资金 100.00 / 广度 66.03 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.35 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴雪 | BSC | 加速中 | 强度 75.92 | 质量 61.89
-  - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.79 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 小老鼠 | BSC | 加速中 | 强度 75.14 | 质量 61.90
-  - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.06 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- NIB | Solana | 加速中 | 强度 75.12 | 质量 61.07
-  - 主题摘要：NIB token draws inspiration from the moment when a pen or pencil first touches paper, symbolizing creativity's beginning. The logo depicts a small, round character with a red cap,…
-  - 资金 100.00 / 广度 60.83 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 首个持币自动分红巴西金库 | BSC | 加速中 | 强度 75.07 | 质量 59.99
-  - 主题摘要：Multiple tokens named 「宝贝巴西」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.87 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OPENDOJO Coin Launch | Solana | 加速中 | 强度 74.28 | 质量 64.11
-  - 主题摘要：According to the post, @djcows launched the OPENDOJO token for funding purposes and has garnered significant attention, including interactions from Elon Musk. The token was report…
-  - 资金 100.00 / 广度 80.42 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Doge4Goat Meme Image Resurfaces | BSC | 加速中 | 强度 74.17 | 质量 61.76
-  - 主题摘要：According to Hank LeGods's post, an archived GitHub page linked to ummjackson (Jackson Palmer), co-creator of Dogecoin, allegedly reveals a 2014 project named 'doge4goat' suggesti…
-  - 资金 100.00 / 广度 73.94 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 你我吃 | BSC | 降温中 | 强度 70.69 | 质量 60.05
-  - 主题摘要：According to 你我吃's post, a staking-based lottery pool mechanism has been launched, where 80% of transaction taxes fund the prize pool and 20% rolls over to the next round. Users c…
+- Meme Image Deployment Criticism | Solana | 降温中 | 强度 80.27 | 质量 66.68
+  - 主题摘要：According to noir's post, the individual expressed dissatisfaction with a deployed image and requested a different Meme image to be shared instead.
+  - 资金 100.00 / 广度 88.65 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Green Light District | Solana | 降温中 | 强度 80.25 | 质量 70.61
+  - 主题摘要：GLD (Green Light District) is a meme token inspired by the concept of a vibrant, inclusive community where age is irrelevant. The token's narrative emphasizes community-driven gro…
   - 资金 100.00 / 广度 68.51 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- HORNY | Solana | 加速中 | 强度 79.21 | 质量 65.11
+  - 主题摘要：Multiple tokens named 「HORNY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.77 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 78.55 | 质量 71.60
+  - 主题摘要：According to 超级老尿's post, the predicted World Cup top 8 teams include Spain, France, England, Argentina, Portugal, Brazil, Germany, and Netherlands, based on team strengths and pl…
+  - 资金 100.00 / 广度 75.13 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Doge4Goat Meme Image Resurfaces | BSC | 加速中 | 强度 75.52 | 质量 61.91
+  - 主题摘要：According to Hank LeGods's post, an archived GitHub page from ummjackson (co-creator of Dogecoin) references a Meme image project called 'doge4goat' with the phrase 'Doge + Goat =…
+  - 资金 100.00 / 广度 74.43 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 小老鼠 | BSC | 加速中 | 强度 74.85 | 质量 60.74
+  - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.66 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 暴雪 | BSC | 加速中 | 强度 74.04 | 质量 60.73
+  - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.77 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 首个持币自动分红巴西金库 | BSC | 加速中 | 强度 71.59 | 质量 59.81
+  - 主题摘要：Multiple tokens named 「宝贝巴西」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.91 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ asks for signature design ideas | BSC | 加速中 | 强度 69.56 | 质量 65.77
+  - 主题摘要：CZ jokingly asked for signature design ideas after receiving physical copies of his book 'Freedom of Money', sparking fan engagement with humorous and creative suggestions.
+  - 资金 100.00 / 广度 72.20 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.1，其中已确认叙事 0 个。
-- 小老鼠 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.63，其中已确认叙事 0 个。
+- CZ asks for signature design ideas 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Elon Musk and Nietzsche 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk and The Truman Show Experiment Discussion | 质量 78.79 | 可交易性 100.00 | 风险 低
-- Elon Musk and Nietzsche | 质量 78.60 | 可交易性 100.00 | 风险 低
-- Nietzsche's ElonMusk Meme Image Shared | 质量 73.77 | 可交易性 85.42 | 风险 低
-- World Cup Top 8 Predictions and Team Analysis | 质量 73.55 | 可交易性 100.00 | 风险 低
-- EXIT LIQUOR | 质量 73.30 | 可交易性 100.00 | 风险 低
-- UNCLE COWBOY | 质量 69.87 | 可交易性 100.00 | 风险 低
-- HORNY | 质量 64.78 | 可交易性 50.58 | 风险 低
-- OPENDOJO Coin Launch | 质量 64.11 | 可交易性 55.34 | 风险 低
-- 小老鼠 | 质量 61.90 | 可交易性 59.75 | 风险 低
-- 暴雪 | 质量 61.89 | 可交易性 54.56 | 风险 低
+- Elon Musk and The Truman Show Experiment Discussion | 质量 79.65 | 可交易性 100.00 | 风险 低
+- Elon Musk and Nietzsche | 质量 78.57 | 可交易性 100.00 | 风险 低
+- EXIT LIQUOR | 质量 75.11 | 可交易性 100.00 | 风险 低
+- Nietzsche's ElonMusk Meme Image Shared | 质量 73.88 | 可交易性 85.83 | 风险 低
+- UNCLE COWBOY | 质量 73.05 | 可交易性 100.00 | 风险 低
+- World Cup Top 8 Predictions and Team Analysis | 质量 71.60 | 可交易性 100.00 | 风险 低
+- Green Light District | 质量 70.61 | 可交易性 100.00 | 风险 低
+- Meme Image Deployment Criticism | 质量 66.68 | 可交易性 66.74 | 风险 低
+- CZ asks for signature design ideas | 质量 65.77 | 可交易性 97.79 | 风险 低
+- HORNY | 质量 65.11 | 可交易性 50.84 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Elon Musk and Nietzsche（Solana，分数 87.33）
-2. 共振最强代币：BURNIE（Solana，共振 100.0）
-3. 记忆层变化：Elon Musk and The Truman Show Experiment Discussion 当前为“新出现”
+1. 当前最强叙事：Elon Musk and Nietzsche（Solana，分数 87.31）
+2. 共振最强代币：BELKA（Solana，共振 100.0）
+3. 记忆层变化：Meme Image Deployment Criticism 当前为“新出现”
 4. 最新官方催化：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-04-28
 #Binance #NarrativeOS #OpenClaw
