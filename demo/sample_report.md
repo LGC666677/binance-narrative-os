@@ -1,115 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-27T18:59:54.715997+00:00
+- 生成时间：2026-04-27T20:07:46.451487+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 Scam Altman，所在链为 Solana，叙事强度 90.1。
-- 当前平均叙事强度为 77.15，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 BULL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Scam Altman 当前处于“强化”状态。
-- 当前最需要防止误判的叙事是 Trump Renames AI to 'Superior Intelligence'，伪叙事风险 66.72。
+- 当前最强叙事是 Scam Altman，所在链为 Solana，叙事强度 85.18。
+- 当前平均叙事强度为 76.41，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BELKA，来自 Solana，共振分数 100.0。
+- 记忆层显示 Scam Trump 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Trump Renames AI to 'Superior Intelligence'，伪叙事风险 67.54。
 - 最新官方催化来自 新币上新：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-04-28。
 
 ## 叙事雷达
 
-- Scam Altman | Solana | 加速中 | 强度 90.10 | 质量 82.32
+- Scam Altman | Solana | 降温中 | 强度 85.18 | 质量 75.11
   - 主题摘要：Elon Musk calls Sam Altman a 'Scam Altman', sparking a meme-worthy conflict in the AI space. The phrase quickly gained traction as a sarcastic jab at Altman's leadership and recen…
-  - 资金 100.00 / 广度 96.46 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Accuses Sam Altman and Greg Brockman of Misappropriating OpenAI Charity | Solana | 加速中 | 强度 82.02 | 质量 71.15
-  - 主题摘要：According to Nate's post, Sam Altman and Greg Stockman are alleged to have misappropriated OpenAI, a charitable organization, by securing personal financial benefits through stock…
-  - 资金 100.00 / 广度 82.92 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 81.77 | 质量 72.83
+  - 资金 100.00 / 广度 97.53 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- World Cup Top 8 Predictions and Team Analysis | BSC | 加速中 | 强度 84.11 | 质量 76.11
   - 主题摘要：According to 超级老尿's post, the predicted World Cup top 8 teams include Spain, France, England, Argentina, Portugal, Brazil, Germany, and Netherlands, based on team strengths and pl…
-  - 资金 100.00 / 广度 76.47 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.80 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Discusses Curiosity and Adventure on All-In Podcast | Solana | 点火期 | 强度 79.16 | 质量 75.69
-  - 主题摘要：Elon Musk shared his personal philosophy centered around curiosity and adventure, sparking a meme coin idea that celebrates his eccentric worldview and larger-than-life persona.
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Scam Altman | BSC | 降温中 | 强度 77.95 | 质量 70.56
+- Scam Trump | Solana | 降温中 | 强度 84.05 | 质量 75.04
+  - 主题摘要：SCAMTRUMP is a satirical meme token inspired by Donald Trump's political persona. The logo features a cartoon character with a distinctive hairstyle against an American flag backg…
+  - 资金 100.00 / 广度 77.98 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Scam Altman | BSC | 降温中 | 强度 79.75 | 质量 70.68
   - 主题摘要：Elon Musk calls Sam Altman a 'Scam Altman', sparking a meme-worthy conflict in the AI space. The phrase quickly gained traction as a sarcastic jab at Altman's leadership and recen…
-  - 资金 100.00 / 广度 76.81 / 确认 9.36 / 脆弱性 30.00
+  - 资金 100.00 / 广度 77.34 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BTC Testing | Solana | 点火期 | 强度 77.77 | 质量 76.65
-  - 主题摘要：Paolo Ardoino 🤖 posted a message mentioning '@btc test', indicating a possible testing activity related to Bitcoin or a Bitcoin-based project. The message does not provide further…
-  - 资金 100.00 / 广度 88.65 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- VAULT | BSC | 加速中 | 强度 74.89 | 质量 59.86
+- Elon Musk Accuses Sam Altman and Greg Brockman of Misappropriating OpenAI Charity | Solana | 降温中 | 强度 77.84 | 质量 67.57
+  - 主题摘要：According to Nate's post, Sam Altman and Greg Stockman are alleged to have misappropriated OpenAI, a charitable organization, by securing personal financial benefits through stock…
+  - 资金 100.00 / 广度 83.17 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- VAULT | BSC | 加速中 | 强度 74.46 | 质量 59.91
   - 主题摘要：Multiple tokens named 「VAULT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.99 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 70.14 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Doge4Goat Meme Image Resurfaces | BSC | 加速中 | 强度 73.47 | 质量 62.31
+- Doge4Goat Meme Image Resurfaces | BSC | 加速中 | 强度 73.00 | 质量 62.26
   - 主题摘要：According to Hank LeGods's post, an archived GitHub page from ummjackson, co-creator of Dogecoin, resurfaced showing a Meme图 titled 'doge4goat' with the phrase 'Doge + Goat = a be…
-  - 资金 100.00 / 广度 75.53 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.56 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Green Light District | Solana | 降温中 | 强度 72.79 | 质量 66.46
-  - 主题摘要：GLD (Green Light District) is a meme token inspired by the concept of a vibrant, inclusive community where age is irrelevant. The token's narrative emphasizes community-driven gro…
-  - 资金 100.00 / 广度 80.18 / 确认 9.36 / 脆弱性 40.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 小老鼠 | BSC | 加速中 | 强度 72.71 | 质量 60.25
-  - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.04 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Senator Lummis on Bitcoin as Freedom Money | Solana | 降温中 | 强度 72.58 | 质量 58.54
-  - 主题摘要：Senator Cynthia Lummis explains her personal conviction that Bitcoin represents freedom money, emphasizing her long-standing advocacy and personal values. The post does not announ…
-  - 资金 100.00 / 广度 69.15 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk and The Truman Show Experiment Discussion | Solana | 点火期 | 强度 72.46 | 质量 75.05
-  - 主题摘要：According to yn 💰's post, Marc Andreessen mentioned Elon Musk in the context of a potential real-life Truman Show experiment. The post speculates on the likelihood of a response f…
-  - 资金 83.56 / 广度 90.49 / 确认 16.56 / 脆弱性 24.00
+- BTC Testing | Solana | 点火期 | 强度 72.95 | 质量 72.15
+  - 主题摘要：Paolo Ardoino 🤖 posted a message mentioning '@btc test', indicating a possible testing activity related to Bitcoin or a Bitcoin-based project. The message does not provide further…
+  - 资金 100.00 / 广度 88.45 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Trump Renames AI to 'Superior Intelligence' | Solana | 降温中 | 强度 70.29 | 质量 67.20
+- Elon Musk Attention for #SaveLucy | Solana | 降温中 | 强度 72.68 | 质量 61.32
+  - 主题摘要：According to Justin's post, Catturd and Leisha are advocating for Lucy, a dog facing euthanasia despite having done no wrong, drawing parallels to PNUT. The dog's owner is a US Ar…
+  - 资金 100.00 / 广度 55.59 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 小老鼠 | BSC | 加速中 | 强度 72.43 | 质量 60.14
+  - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.07 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trump Renames AI to 'Superior Intelligence' | Solana | 降温中 | 强度 71.24 | 质量 66.93
   - 主题摘要：According to News America Party's post, Donald Trump stated that Artificial Intelligence should now be referred to as 'Superior Intelligence,' signaling what he describes as the b…
-  - 资金 100.00 / 广度 93.27 / 确认 16.56 / 脆弱性 84.56
+  - 资金 100.00 / 广度 92.99 / 确认 16.56 / 脆弱性 86.14
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 瑞士银行 | BSC | 降温中 | 强度 69.97 | 质量 61.94
+- Elon Musk Retweets Discussion on Grok and Software Engineering | Solana | 加速中 | 强度 70.93 | 质量 65.13
+  - 主题摘要：Elon Musk retweeted a post from Brendan Eich, who described a conversation with Grok about Chesterton's Fence and the Therac-25 incident, highlighting software engineering princip…
+  - 资金 100.00 / 广度 73.88 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 瑞士银行 | BSC | 降温中 | 强度 69.26 | 质量 61.14
   - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.68 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 71.66 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Pepe Account Lore and TIME MACHINE | BSC | 加速中 | 强度 68.96 | 质量 57.15
+  - 主题摘要：According to devvv333's post, a Pepe account referencing 'Cole Allen' features a header background linked to a website named 'TIME MACHINE'. This has led to speculation about its…
+  - 资金 100.00 / 广度 66.53 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.15，其中已确认叙事 0 个。
-- Scam Altman 正在向主线升级: Solana 上该叙事处于“强化”状态，值得持续跟踪。
-- Scam Altman 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.41，其中已确认叙事 0 个。
+- Elon Musk Retweets Discussion on Grok and Software Engineering 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Scam Altman 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Scam Altman | 质量 82.32 | 可交易性 100.00 | 风险 低
-- BTC Testing | 质量 76.65 | 可交易性 100.00 | 风险 低
-- Elon Musk Discusses Curiosity and Adventure on All-In Podcast | 质量 75.69 | 可交易性 94.43 | 风险 低
-- Elon Musk and The Truman Show Experiment Discussion | 质量 75.05 | 可交易性 87.54 | 风险 低
-- World Cup Top 8 Predictions and Team Analysis | 质量 72.83 | 可交易性 100.00 | 风险 低
-- Elon Musk Accuses Sam Altman and Greg Brockman of Misappropriating OpenAI Charity | 质量 71.15 | 可交易性 76.29 | 风险 低
-- Scam Altman | 质量 70.56 | 可交易性 91.51 | 风险 高
-- Trump Renames AI to 'Superior Intelligence' | 质量 67.20 | 可交易性 58.58 | 风险 低
-- Green Light District | 质量 66.46 | 可交易性 83.83 | 风险 高
-- Doge4Goat Meme Image Resurfaces | 质量 62.31 | 可交易性 54.21 | 风险 低
+- World Cup Top 8 Predictions and Team Analysis | 质量 76.11 | 可交易性 100.00 | 风险 低
+- Scam Altman | 质量 75.11 | 可交易性 83.33 | 风险 低
+- Scam Trump | 质量 75.04 | 可交易性 100.00 | 风险 低
+- BTC Testing | 质量 72.15 | 可交易性 98.25 | 风险 低
+- Scam Altman | 质量 70.68 | 可交易性 91.41 | 风险 低
+- Elon Musk Accuses Sam Altman and Greg Brockman of Misappropriating OpenAI Charity | 质量 67.57 | 可交易性 82.36 | 风险 低
+- Trump Renames AI to 'Superior Intelligence' | 质量 66.93 | 可交易性 57.95 | 风险 低
+- Elon Musk Retweets Discussion on Grok and Software Engineering | 质量 65.13 | 可交易性 68.43 | 风险 低
+- Doge4Goat Meme Image Resurfaces | 质量 62.26 | 可交易性 54.02 | 风险 低
+- Elon Musk Attention for #SaveLucy | 质量 61.32 | 可交易性 85.64 | 风险 低
 
 ## 伪叙事风险
 
-- Trump Renames AI to 'Superior Intelligence' | 风险 66.72 | 原因：流动性偏薄、龙头筹码集中度偏高
-- Green Light District | 风险 49.31 | 原因：流动性偏薄、近 1 小时净流入转负、审计风险高
-- BTC Testing | 风险 47.79 | 原因：流动性偏薄
-- Elon Musk and The Truman Show Experiment Discussion | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Scam Altman | 风险 44.11 | 原因：流动性偏薄、审计风险高
-- Elon Musk Discusses Curiosity and Adventure on All-In Podcast | 风险 42.03 | 原因：流动性偏薄
+- Trump Renames AI to 'Superior Intelligence' | 风险 67.54 | 原因：流动性偏薄、龙头筹码集中度偏高
+- BTC Testing | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - SCAM | Solana | 看多 | 新鲜度 100.00 | Scam Altman
+- BELKA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - mexicanunc | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BOAR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SAM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ASTEROID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ASTROID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BELKA | Solana | 看多 | 新鲜度 98.14 | 暂无直接叙事映射
 - BURNIE | Solana | 看多 | 新鲜度 92.35 | 暂无直接叙事映射
 - α | BSC | 看多 | 新鲜度 70.09 | 暂无直接叙事映射
 - BIRBISH | Solana | 看多 | 新鲜度 69.01 | 暂无直接叙事映射
@@ -138,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Scam Altman（Solana，分数 90.1）
-2. 共振最强代币：BULL（Solana，共振 100.0）
-3. 记忆层变化：Scam Altman 当前为“强化”
+1. 当前最强叙事：Scam Altman（Solana，分数 85.18）
+2. 共振最强代币：BELKA（Solana，共振 100.0）
+3. 记忆层变化：Scam Trump 当前为“新出现”
 4. 最新官方催化：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-04-28
 #Binance #NarrativeOS #OpenClaw
