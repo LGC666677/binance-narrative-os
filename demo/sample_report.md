@@ -1,106 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-29T21:16:33.623832+00:00
+- 生成时间：2026-04-29T22:15:17.203832+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Agentic Money and Blockchain Equated，所在链为 BSC，叙事强度 90.43。
-- 当前平均叙事强度为 73.4，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 GOBLIN，来自 Solana，共振分数 100.0。
-- 记忆层显示 National Wish Day Reflections 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 AMC or BP Discussion，伪叙事风险 40.99。
+- 当前最强叙事是 Charity Coin Functionality on Pump.fun，所在链为 Solana，叙事强度 87.06。
+- 当前平均叙事强度为 81.16，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 BELKA，来自 Solana，共振分数 100.0。
+- 记忆层显示 nuts 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined AIGENSYNUSDT Perpetual Contract (2026-04-29)。
 
 ## 叙事雷达
 
-- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 90.43 | 质量 82.90
-  - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
-  - 资金 100.00 / 广度 98.92 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Charity Coin Functionality on Pump.fun | Solana | 已确认 | 强度 86.46 | 质量 83.36
+- Charity Coin Functionality on Pump.fun | Solana | 已确认 | 强度 87.06 | 质量 83.41
   - 主题摘要：According to Pump.fun's post, users can convert existing coins into Charity Coins by adjusting fee settings to redirect creator fees to verified charities. Funds are processed thr…
-  - 资金 100.00 / 广度 97.26 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 97.45 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- National Wish Day Reflections | Solana | 加速中 | 强度 84.93 | 质量 76.98
-  - 主题摘要：According to Make-A-Wish America's post, a social media user attempted to initiate an interaction with the organization, likely seeking a response or engagement.
-  - 资金 100.00 / 广度 84.70 / 确认 24.48 / 脆弱性 14.00
+- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 86.12 | 质量 83.06
+  - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
+  - 资金 100.00 / 广度 99.43 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Charitable Donation Coordination | Solana | 加速中 | 强度 80.81 | 质量 66.80
-  - 主题摘要：Nikita Bier coordinated a donation of 700 million anonymous tokens to St. Jude, facilitated by @leap_xyz. The donation was mentioned in a reply to a tweet discussing ongoing coord…
-  - 资金 100.00 / 广度 83.06 / 确认 24.48 / 脆弱性 14.00
+- nuts | Solana | 已确认 | 强度 81.93 | 质量 80.85
+  - 主题摘要：According to Hawkinz's post, a token named $Asteroid has been created with funds directly supporting @StJude. The nature and verification of the token remain unconfirmed.
+  - 资金 100.00 / 广度 88.92 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Call for Short Squeeze on AMC Token | Solana | 加速中 | 强度 81.70 | 质量 79.17
+  - 主题摘要：According to West's post, Roaring Kitty's brother is allegedly attempting to replicate the GME short squeeze strategy on AMC, leading to a 4x price surge. This information is unve…
+  - 资金 100.00 / 广度 89.12 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AMC or BP Discussion | Solana | 降温中 | 强度 80.53 | 质量 75.63
+- AMC or BP Discussion | Solana | 加速中 | 强度 81.52 | 质量 79.09
   - 主题摘要：According to TheRealBarkingPuppy's post, the discussion centers on a choice or comparison between AMC and BP, potentially referencing meme-related cryptocurrency tokens.
-  - 资金 100.00 / 广度 88.08 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Speculative Cryptocurrencies Discussion | Solana | 降温中 | 强度 79.96 | 质量 75.15
+  - 资金 100.00 / 广度 88.84 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Speculative Cryptocurrencies Discussion | Solana | 加速中 | 强度 81.29 | 质量 79.02
   - 主题摘要：According to The Bulwark's post, Ben McKenzie and Tim Miller discuss speculative cryptocurrencies, referencing CumRocket as an example of meme-driven digital assets and emphasizin…
-  - 资金 100.00 / 广度 86.60 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Wish Day and Crypto Optimism | Solana | 加速中 | 强度 78.94 | 质量 64.03
-  - 主题摘要：According to neeb's post on World Wish Day, the author expresses optimism for the cryptocurrency market, wishing for a PVPless environment, rising Solana prices, increased 2024 tr…
-  - 资金 100.00 / 广度 78.39 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.62 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FOMO as an Antidote | Solana | 加速中 | 强度 77.64 | 质量 76.83
-  - 主题摘要：Multiple tokens named 「FOMO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.98 / 确认 20.16 / 脆弱性 14.00
+- National Wish Day Reflections | Solana | 加速中 | 强度 81.16 | 质量 78.80
+  - 主题摘要：According to Make-A-Wish America's post, a social media user attempted to initiate an interaction with the organization, likely seeking a response or engagement.
+  - 资金 100.00 / 广度 87.49 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 小老鼠 | BSC | 加速中 | 强度 77.27 | 质量 64.64
+- PumpFun Solana Deposit Address Shared | Solana | 加速中 | 强度 80.96 | 质量 78.40
+  - 主题摘要：According to TheRealBarkingPuppy's post, a Solana deposit address was shared on social media. The post does not elaborate on the purpose or context of the address.
+  - 资金 100.00 / 广度 86.54 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 小老鼠 | BSC | 加速中 | 强度 77.39 | 质量 62.99
   - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.80 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.81 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Charity Coin for Multiple Donations | Solana | 加速中 | 强度 75.73 | 质量 73.95
-  - 主题摘要：According to the post, a single cryptocurrency token could be used to support donations to up to five charities simultaneously. The concept suggests a charitable initiative levera…
-  - 资金 100.00 / 广度 85.64 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 瑞士银行 | BSC | 降温中 | 强度 74.44 | 质量 64.26
+- 瑞士银行 | BSC | 降温中 | 强度 75.27 | 质量 64.50
   - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.43 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 70.60 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Botdick | BSC | 加速中 | 强度 67.96 | 质量 55.18
-  - 主题摘要：Multiple tokens named 「BOTDICK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.77 / 确认 19.44 / 脆弱性 14.00
+- World Wish Day and Crypto Optimism | Solana | 加速中 | 强度 73.68 | 质量 66.10
+  - 主题摘要：According to neeb's post on World Wish Day, the author expresses optimism for the cryptocurrency market, wishing for a PVPless environment, rising Solana prices, increased 2024 tr…
+  - 资金 100.00 / 广度 81.63 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AI舆智能 | BSC | 加速中 | 强度 65.23 | 质量 51.79
-  - 主题摘要：Multiple tokens named 「AI舆智能」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.65 / 确认 27.36 / 脆弱性 24.00
+- 暴雪 | BSC | 加速中 | 强度 66.23 | 质量 54.23
+  - 主题摘要：Multiple tokens named 「暴雪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.08 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Team Building Through Shared Struggle | BSC | 加速中 | 强度 65.07 | 质量 60.31
-  - 主题摘要：CZ responded to a tweet about team dynamics with a quote emphasizing real team building through shared struggle, evoking leadership, loyalty, and resilience — all elements with st…
-  - 资金 100.00 / 广度 92.56 / 确认 20.16 / 脆弱性 24.00
+- Doge4Goat Meme Image Resurfaces | BSC | 加速中 | 强度 65.72 | 质量 53.75
+  - 主题摘要：According to Hank LeGods's post, Jackson Palmer, co-creator of Dogecoin, allegedly created a GitHub repository named 'doge4goat' that suggested a connection between Doge and Goat.…
+  - 资金 100.00 / 广度 69.24 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:ANLIEN Lands on BNB Chain | BSC | 加速中 | 强度 63.34 | 质量 52.50
+  - 主题摘要：According to ANLIEN's post, an entity identifying itself as ANLIEN claims to have landed on the BNB Chain, asserting a connection with CZ and promoting a concept of doubling BNB e…
+  - 资金 100.00 / 广度 71.49 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 73.4，其中已确认叙事 0 个。
-- National Wish Day Reflections 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- AMC or BP Discussion 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.16，其中已确认叙事 2 个。
+- nuts 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- 瑞士银行 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Charity Coin Functionality on Pump.fun | 质量 83.36 | 可交易性 100.00 | 风险 低
-- Agentic Money and Blockchain Equated | 质量 82.90 | 可交易性 100.00 | 风险 低
-- National Wish Day Reflections | 质量 76.98 | 可交易性 93.95 | 风险 低
-- FOMO as an Antidote | 质量 76.83 | 可交易性 100.00 | 风险 低
-- AMC or BP Discussion | 质量 75.63 | 可交易性 97.15 | 风险 低
-- Speculative Cryptocurrencies Discussion | 质量 75.15 | 可交易性 97.03 | 风险 低
-- Charity Coin for Multiple Donations | 质量 73.95 | 可交易性 92.63 | 风险 低
-- Charitable Donation Coordination | 质量 66.80 | 可交易性 61.64 | 风险 低
-- 小老鼠 | 质量 64.64 | 可交易性 61.12 | 风险 低
-- 瑞士银行 | 质量 64.26 | 可交易性 85.23 | 风险 低
+- Charity Coin Functionality on Pump.fun | 质量 83.41 | 可交易性 100.00 | 风险 低
+- Agentic Money and Blockchain Equated | 质量 83.06 | 可交易性 100.00 | 风险 低
+- nuts | 质量 80.85 | 可交易性 100.00 | 风险 低
+- Call for Short Squeeze on AMC Token | 质量 79.17 | 可交易性 100.00 | 风险 低
+- AMC or BP Discussion | 质量 79.09 | 可交易性 100.00 | 风险 低
+- Speculative Cryptocurrencies Discussion | 质量 79.02 | 可交易性 100.00 | 风险 低
+- National Wish Day Reflections | 质量 78.80 | 可交易性 97.22 | 风险 低
+- PumpFun Solana Deposit Address Shared | 质量 78.40 | 可交易性 100.00 | 风险 低
+- World Wish Day and Crypto Optimism | 质量 66.10 | 可交易性 60.76 | 风险 低
+- 瑞士银行 | 质量 64.50 | 可交易性 85.49 | 风险 低
 
 ## 伪叙事风险
 
-- AMC or BP Discussion | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Speculative Cryptocurrencies Discussion | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - $RISE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- STJUDE | Solana | 看多 | 新鲜度 100.00 | Charitable Donation Coordination
+- STJUDE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Goblin | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AMC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Hoppy | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Agentic Money and Blockchain Equated（BSC，分数 90.43）
-2. 共振最强代币：GOBLIN（Solana，共振 100.0）
-3. 记忆层变化：National Wish Day Reflections 当前为“新出现”
+1. 当前最强叙事：Charity Coin Functionality on Pump.fun（Solana，分数 87.06）
+2. 共振最强代币：BELKA（Solana，共振 100.0）
+3. 记忆层变化：nuts 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined AIGENSYNUSDT Perpetual Contract (2026-04-29)
 #Binance #NarrativeOS #OpenClaw
