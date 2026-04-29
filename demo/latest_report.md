@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-29T15:48:50.880663+00:00
+- 生成时间：2026-04-29T17:12:16.968547+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：0
+- 已确认叙事：1
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Make Your Dream a Reality，所在链为 Solana，叙事强度 85.25。
-- 当前平均叙事强度为 77.22，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 BELKA，来自 Solana，共振分数 100.0。
-- 记忆层显示 Make Your Dream a Reality 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 OpenAI Revenue Miss Impacts Market，伪叙事风险 41.23。
+- 当前最强叙事是 FOMO as an Antidote，所在链为 Solana，叙事强度 90.09。
+- 当前平均叙事强度为 79.49，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 GOBLIN，来自 Solana，共振分数 100.0。
+- 记忆层显示 FOMO as an Antidote 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 WarTrump，伪叙事风险 52.99。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined AIGENSYNUSDT Perpetual Contract (2026-04-29)。
 
 ## 叙事雷达
 
-- Make Your Dream a Reality | Solana | 降温中 | 强度 85.25 | 质量 76.77
-  - 主题摘要：According to the post, the phrase 'make ur dream a reality' is associated with a memecoin project titled 'Make Ur Dream A Reality'. The post appears to promote the concept of turn…
-  - 资金 100.00 / 广度 89.05 / 确认 9.36 / 脆弱性 14.00
+- FOMO as an Antidote | Solana | 加速中 | 强度 90.09 | 质量 83.16
+  - 主题摘要：Multiple tokens named 「FOMO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 97.15 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of $FOMO Meme Coin | Solana | 降温中 | 强度 87.02 | 质量 79.01
+  - 主题摘要：According to Cat's post, a new Meme coin named $FOMO has been allegedly launched, with 22% of its supply redirected to FOMO wallets and the rest allocated for staking. The coin is…
+  - 资金 100.00 / 广度 91.21 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 84.75 | 质量 82.44
+- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 85.91 | 质量 82.44
   - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
-  - 资金 100.00 / 广度 100.00 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 100.00 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OpenAI Revenue Miss Impacts Market | Solana | 降温中 | 强度 81.09 | 质量 71.71
-  - 主题摘要：According to Tenobrus's post, a Meme image referencing 'Goblin-Pilled Transformer' was shared, indicating a cultural or humorous commentary within crypto or AI-related discourse.
-  - 资金 100.00 / 广度 99.00 / 确认 12.96 / 脆弱性 30.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cat with The Cap | Solana | 加速中 | 强度 78.17 | 质量 73.96
-  - 主题摘要：According to the post, a Meme image featuring a cat wearing a cap has inspired the creation of multiple related Meme coins. The tokens named 'Cat with the Cap' have been deployed…
-  - 资金 100.00 / 广度 84.99 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Jerome Powell Meme Image Goes Viral | Solana | 加速中 | 强度 76.20 | 质量 62.64
-  - 主题摘要：According to Memflux's post, the 'Bye' Jerome Powell image is currently going viral as he concludes his final FOMC meeting after eight years as Federal Reserve Chair. The post ref…
-  - 资金 100.00 / 广度 81.05 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- LUNCHMONEY | Solana | 降温中 | 强度 76.01 | 质量 61.59
-  - 主题摘要：LUNCHMONEY emerged from the 'Bully Era' narrative, inspired by childhood experiences of being taken advantage of during lunchtime. The token's logo features a red bandana over a L…
-  - 资金 100.00 / 广度 73.90 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Based Musk in Courtroom | Solana | 加速中 | 强度 75.19 | 质量 64.49
-  - 主题摘要：Elon Musk is depicted in a courtroom holding a cigar in a Meme image shared in the post. The image is presented humorously, referencing Musk's public legal or regulatory encounter…
-  - 资金 100.00 / 广度 80.24 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 小老鼠 | BSC | 加速中 | 强度 74.25 | 质量 57.03
+- Crypto Scam Awareness | Solana | 已确认 | 强度 79.03 | 质量 67.58
+  - 主题摘要：According to Robert King, PhD's post, new cryptocurrency investors are being criticized for falling victim to tokens with names that clearly indicate their dubious nature, such as…
+  - 资金 100.00 / 广度 80.95 / 确认 28.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- WarTrump | Solana | 点火期 | 强度 79.01 | 质量 76.80
+  - 主题摘要：Multiple tokens named 「WarTrump」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.13 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 小老鼠 | BSC | 加速中 | 强度 78.38 | 质量 65.22
   - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.73 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.76 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Meme Image and Token Commentary | Solana | 加速中 | 强度 73.56 | 质量 66.37
-  - 主题摘要：According to himmy's post, users are humorously criticizing the trend of炒作 new tokens by suggesting they 'just buy an actual cap' instead of speculative tokens. The post reference…
-  - 资金 100.00 / 广度 83.24 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Catwifcap Meme Image Gains Popularity | Solana | 加速中 | 强度 72.32 | 质量 64.37
-  - 主题摘要：According to Zendix's post, a Meme image featuring a cat wearing a hat is gaining traction on Reddit, with 5,000 upvotes and positive community engagement. The post references the…
-  - 资金 100.00 / 广度 83.01 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:ANLIEN Lands on BNB Chain | BSC | 加速中 | 强度 71.55 | 质量 55.71
-  - 主题摘要：According to ANLIEN's post, an alien-themed project named ANLIEN has launched on the BNB Chain, claiming to return double the BNB energy and referencing a connection with CZ.
-  - 资金 100.00 / 广度 68.71 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 瑞士银行 | BSC | 降温中 | 强度 70.17 | 质量 60.17
-  - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.11 / 确认 16.56 / 脆弱性 14.00
+- FOMO's New Domain .family | Solana | 降温中 | 强度 76.31 | 质量 62.01
+  - 主题摘要：Multiple tokens named 「FOMO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.89 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AI舆智能 | BSC | 加速中 | 强度 70.13 | 质量 56.99
-  - 主题摘要：Multiple tokens named 「AI舆智能」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.41 / 确认 27.36 / 脆弱性 14.00
+- FOMO Web Launch | Solana | 加速中 | 强度 76.08 | 质量 78.36
+  - 主题摘要：According to the post, the 'FOMO Web' is now live, suggesting a new platform or movement leveraging the Fear of Missing Out (FOMO) concept in the crypto or web3 space.
+  - 资金 89.53 / 广度 91.03 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Doge4Goat Meme Image Resurfaces | BSC | 加速中 | 强度 69.99 | 质量 56.16
+- Based Musk in Courtroom | Solana | 加速中 | 强度 74.67 | 质量 67.95
+  - 主题摘要：Based Musk is depicted in a courtroom holding a cigar, shared as a Meme图. According to the post, the imagery appears to be part of a broader Meme culture referencing the token 'Th…
+  - 资金 100.00 / 广度 81.21 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Solana Ecosystem Call Engagement | Solana | 降温中 | 强度 73.70 | 质量 63.84
+  - 主题摘要：Toly, co-founder of Solana Labs, retweeted a post from Jahris expressing anticipation for the Solana Ecosystem Call, encouraging others to follow suit.
+  - 资金 100.00 / 广度 73.89 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 瑞士银行 | BSC | 降温中 | 强度 72.15 | 质量 62.44
+  - 主题摘要：Multiple tokens named 「瑞士银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.25 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Web3嘉年华 Launches Carnival Chain Token | BSC | 降温中 | 强度 67.18 | 质量 54.85
+  - 主题摘要：According to Web3嘉年华's post, they will launch a new token called Carnival Chain on the BSC blockchain on April 29, 2026, positioning it as a decentralized token representing the s…
+  - 资金 100.00 / 广度 67.48 / 确认 11.52 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:ANLIEN Lands on BNB Chain | BSC | 加速中 | 强度 67.04 | 质量 56.34
+  - 主题摘要：According to ANLIEN's post, an alien-themed project named ANLIEN has launched on the BNB Chain, claiming to return double the BNB energy and referencing a connection with CZ.
+  - 资金 100.00 / 广度 71.05 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Doge4Goat Meme Image Resurfaces | BSC | 加速中 | 强度 66.84 | 质量 54.14
   - 主题摘要：According to Hank LeGods's post, Jackson Palmer, co-creator of Dogecoin, allegedly created a GitHub repository named 'doge4goat' that suggested a connection between Doge and Goat.…
-  - 资金 100.00 / 广度 69.63 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.44 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.22，其中已确认叙事 0 个。
-- Cat with The Cap 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Make Your Dream a Reality 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.49，其中已确认叙事 1 个。
+- FOMO as an Antidote 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Launch of $FOMO Meme Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
+- FOMO as an Antidote | 质量 83.16 | 可交易性 100.00 | 风险 低
 - Agentic Money and Blockchain Equated | 质量 82.44 | 可交易性 100.00 | 风险 低
-- Make Your Dream a Reality | 质量 76.77 | 可交易性 100.00 | 风险 低
-- Cat with The Cap | 质量 73.96 | 可交易性 84.11 | 风险 低
-- OpenAI Revenue Miss Impacts Market | 质量 71.71 | 可交易性 87.46 | 风险 高
-- Meme Image and Token Commentary | 质量 66.37 | 可交易性 60.57 | 风险 低
-- Based Musk in Courtroom | 质量 64.49 | 可交易性 56.77 | 风险 低
-- Catwifcap Meme Image Gains Popularity | 质量 64.37 | 可交易性 54.12 | 风险 低
-- Jerome Powell Meme Image Goes Viral | 质量 62.64 | 可交易性 52.96 | 风险 低
-- LUNCHMONEY | 质量 61.59 | 可交易性 59.25 | 风险 低
-- 瑞士银行 | 质量 60.17 | 可交易性 84.56 | 风险 低
+- Alleged Launch of $FOMO Meme Coin | 质量 79.01 | 可交易性 100.00 | 风险 低
+- FOMO Web Launch | 质量 78.36 | 可交易性 90.12 | 风险 低
+- WarTrump | 质量 76.80 | 可交易性 100.00 | 风险 低
+- Based Musk in Courtroom | 质量 67.95 | 可交易性 67.85 | 风险 低
+- Crypto Scam Awareness | 质量 67.58 | 可交易性 63.70 | 风险 低
+- 小老鼠 | 质量 65.22 | 可交易性 61.31 | 风险 低
+- Solana Ecosystem Call Engagement | 质量 63.84 | 可交易性 72.06 | 风险 低
+- 瑞士银行 | 质量 62.44 | 可交易性 84.78 | 风险 低
 
 ## 伪叙事风险
 
-- OpenAI Revenue Miss Impacts Market | 风险 41.23 | 原因：流动性偏薄、审计风险高
+- WarTrump | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -107,7 +107,7 @@
 - FAX | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 巨龙 | BSC | 看多 | 新鲜度 93.36 | 暂无直接叙事映射
 - diVINE | Solana | 看多 | 新鲜度 91.62 | 暂无直接叙事映射
-- BEE | Solana | 看多 | 新鲜度 82.62 | 暂无直接叙事映射
+- HOUSTON | Solana | 看多 | 新鲜度 84.49 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Make Your Dream a Reality（Solana，分数 85.25）
-2. 共振最强代币：BELKA（Solana，共振 100.0）
-3. 记忆层变化：Make Your Dream a Reality 当前为“新出现”
+1. 当前最强叙事：FOMO as an Antidote（Solana，分数 90.09）
+2. 共振最强代币：GOBLIN（Solana，共振 100.0）
+3. 记忆层变化：FOMO as an Antidote 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined AIGENSYNUSDT Perpetual Contract (2026-04-29)
 #Binance #NarrativeOS #OpenClaw
