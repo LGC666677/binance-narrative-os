@@ -1,104 +1,107 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-30T18:44:15.878648+00:00
+- 生成时间：2026-04-30T20:01:19.794200+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Save The Kids Coin Initiative，所在链为 Solana，叙事强度 81.69。
-- 当前平均叙事强度为 78.64，其中已确认叙事 0 个。
+- 当前最强叙事是 USDC Minting Event，所在链为 Solana，叙事强度 83.5。
+- 当前平均叙事强度为 77.55，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 WISH，来自 Solana，共振分数 100.0。
-- 记忆层显示 Apes here to take over 当前处于“新出现”状态。
+- 记忆层显示 USDC Minting Event 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Save The Kids Coin Initiative，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Binance Ai: Join the Discord AMA & Win Rewards。
 
 ## 叙事雷达
 
-- Save The Kids Coin Initiative | Solana | 降温中 | 强度 81.69 | 质量 68.88
-  - 主题摘要：According to bruce's post, a new 'Save The Kids' coin is being considered with the stated intent to donate, though no concrete details or verification have been provided regarding…
-  - 资金 100.00 / 广度 88.23 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 81.65 | 质量 74.76
+- USDC Minting Event | Solana | 加速中 | 强度 83.50 | 质量 76.74
+  - 主题摘要：Matt Furie, creator of Pepe the Frog, endorsed the Save the Frogs charity through a PEPE-related campaign. According to Grilzilla's post, Furie donated $1M worth of PEPE to the ca…
+  - 资金 100.00 / 广度 85.72 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 83.32 | 质量 74.86
   - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
-  - 资金 100.00 / 广度 93.39 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.24 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Russian Oil Asset Fund | Solana | 降温中 | 强度 80.89 | 质量 75.47
+- Russian Oil Asset Fund | Solana | 加速中 | 强度 81.42 | 质量 76.21
   - 主题摘要：Multiple tokens named 「ROAF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.41 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Apes here to take over | Solana | 降温中 | 强度 79.65 | 质量 71.89
-  - 主题摘要：According to JAKE's post, the phrase 'Apes here to take over' reflects a cultural expression commonly used in crypto communities to signal bullish sentiment and community-driven m…
-  - 资金 100.00 / 广度 77.89 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Redirecting Donations to Children's Aid | Solana | 降温中 | 强度 78.91 | 质量 64.39
-  - 主题摘要：According to john's post, funds from the St. Jude wallet were reportedly transferred to a shuffle wallet for gambling purposes, prompting a suggestion to support Children's Aid as…
-  - 资金 100.00 / 广度 86.33 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- JPMorgan Executive Alleged Misconduct | Solana | 加速中 | 强度 78.61 | 质量 64.64
-  - 主题摘要：According to Daily Mail US's post, a JPMorgan executive is alleged to have sexually harassed and abused a junior male employee, including drugging, racial abuse, and career threat…
-  - 资金 100.00 / 广度 79.38 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.26 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Salvation Army Charity Coin | Solana | 降温中 | 强度 77.29 | 质量 67.50
-  - 主题摘要：According to Salvation Army's post, a charity cryptocurrency called Salvation Army PF has been introduced, with 100% of transaction fees donated to the Salvation Army. The token's…
-  - 资金 100.00 / 广度 58.15 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- San Francisco Fat Sea Lion Goes Viral | Solana | 加速中 | 强度 76.68 | 质量 65.30
-  - 主题摘要：According to reclandice385's post, a sea lion in San Francisco has gained viral attention for its unusually large size and has become a local cult legend and Meme图. A news article…
-  - 资金 100.00 / 广度 72.26 / 确认 24.48 / 脆弱性 14.00
+- Matt Furie's Charitable Support for Frogs via Pepe | Solana | 加速中 | 强度 78.53 | 质量 68.50
+  - 主题摘要：According to Grilzilla's post, Matt Furie, creator of Pepe the Frog, donated $1 million worth of PEPE tokens to Save the Frogs in 2023. He launched the #SavePepe campaign to prote…
+  - 资金 100.00 / 广度 82.99 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 小老鼠 | BSC | 加速中 | 强度 75.93 | 质量 63.07
+- Save The Kids Coin Initiative | Solana | 点火期 | 强度 78.11 | 质量 77.88
+  - 主题摘要：According to bruce's post, a new 'Save The Kids' coin aims to facilitate real donations. The initiative references a related token with the symbol KIDS, though specific details re…
+  - 资金 100.00 / 广度 93.14 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Goblin Accelerationism | Solana | 加速中 | 强度 76.75 | 质量 73.61
+  - 主题摘要：According to the post, 'Goblin accelerationism' refers to a thematic concept potentially linked to crypto-native culture, possibly associated with meme-inspired narratives and spe…
+  - 资金 100.00 / 广度 82.29 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- MS Paint Style AI Image Prompt Trend | Solana | 加速中 | 强度 75.84 | 质量 65.70
+  - 主题摘要：According to BaoBao's post, a GPT Image 2.0 prompt that generates images in an MS Paint style has become widely popular on social media platforms, with users creating and sharing…
+  - 资金 100.00 / 广度 76.73 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 小老鼠 | BSC | 加速中 | 强度 74.98 | 质量 61.85
   - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.56 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.57 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Musk Foundation Donates to Memphis Boys and Girls Club | Solana | 加速中 | 强度 75.37 | 质量 72.97
-  - 主题摘要：Elon Musk's Musk Foundation donated significant funds to the Boys and Girls Club of Greater Memphis to offset a federal funding shortfall, according to a verified news source.
-  - 资金 100.00 / 广度 92.56 / 确认 23.76 / 脆弱性 14.00
+- San Francisco Fat Sea Lion Goes Viral | Solana | 加速中 | 强度 73.54 | 质量 63.31
+  - 主题摘要：According to reclandice385's post, a sea lion in San Francisco has gained viral attention for its unusually large size and has become a local cult legend and Meme图. A news article…
+  - 资金 100.00 / 广度 72.42 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 白头海雕 克拉奇 | BSC | 加速中 | 强度 72.46 | 质量 60.90
+- 白头海雕 克拉奇 | BSC | 加速中 | 强度 73.44 | 质量 60.89
   - 主题摘要：Multiple tokens named 「白头海雕」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.18 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.23 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- JFH | BSC | 加速中 | 强度 70.40 | 质量 54.52
-  - 主题摘要：Multiple tokens named 「JFH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.12 / 确认 24.48 / 脆弱性 14.00
+- JPMorgan Executive Alleged Misconduct | Solana | 加速中 | 强度 72.68 | 质量 64.12
+  - 主题摘要：According to Daily Mail US's post, a JPMorgan executive is alleged to have sexually harassed and abused a junior male employee, including drugging, racial abuse, and career threat…
+  - 资金 100.00 / 广度 80.02 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 病毒人生 | BSC | 降温中 | 强度 67.23 | 质量 53.07
-  - 主题摘要：Multiple tokens named 「病毒人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.47 / 确认 16.56 / 脆弱性 14.00
+- Stealon Musk | BSC | 降温中 | 强度 68.33 | 质量 53.10
+  - 主题摘要：Stealon Musk is a meme token inspired by Elon Musk's persona and influence in technology and space exploration. It aims to capture the excitement of Musk's ventures, particularly…
+  - 资金 100.00 / 广度 73.08 / 确认 9.36 / 脆弱性 27.04
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AI舆智能 | BSC | 加速中 | 强度 66.35 | 质量 52.71
-  - 主题摘要：Multiple tokens named 「AI舆智能」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.84 / 确认 23.76 / 脆弱性 14.00
+- LobsBook Launches Token with ListaDAO | BSC | 降温中 | 强度 68.22 | 质量 52.41
+  - 主题摘要：According to LobsBook's post, LobsBook is an on-chain social network where AI agents can share, discuss, and upvote content, forming a tokenized economic network. The platform is…
+  - 资金 100.00 / 广度 67.12 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- JFH | BSC | 加速中 | 强度 67.88 | 质量 50.74
+  - 主题摘要：Multiple tokens named 「JFH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.09 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.64，其中已确认叙事 0 个。
-- Musk Foundation Donates to Memphis Boys and Girls Club 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Save The Kids Coin Initiative 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.55，其中已确认叙事 0 个。
+- USDC Minting Event 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Stealon Musk 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Russian Oil Asset Fund | 质量 75.47 | 可交易性 100.00 | 风险 低
-- Agentic Money and Blockchain Equated | 质量 74.76 | 可交易性 100.00 | 风险 低
-- Musk Foundation Donates to Memphis Boys and Girls Club | 质量 72.97 | 可交易性 93.32 | 风险 低
-- Apes here to take over | 质量 71.89 | 可交易性 94.89 | 风险 低
-- Save The Kids Coin Initiative | 质量 68.88 | 可交易性 71.85 | 风险 低
-- Salvation Army Charity Coin | 质量 67.50 | 可交易性 100.00 | 风险 低
-- San Francisco Fat Sea Lion Goes Viral | 质量 65.30 | 可交易性 67.46 | 风险 低
-- JPMorgan Executive Alleged Misconduct | 质量 64.64 | 可交易性 58.12 | 风险 低
-- Redirecting Donations to Children's Aid | 质量 64.39 | 可交易性 61.45 | 风险 低
-- 小老鼠 | 质量 63.07 | 可交易性 61.02 | 风险 低
+- Save The Kids Coin Initiative | 质量 77.88 | 可交易性 96.97 | 风险 低
+- USDC Minting Event | 质量 76.74 | 可交易性 92.66 | 风险 低
+- Russian Oil Asset Fund | 质量 76.21 | 可交易性 100.00 | 风险 低
+- Agentic Money and Blockchain Equated | 质量 74.86 | 可交易性 100.00 | 风险 低
+- Goblin Accelerationism | 质量 73.61 | 可交易性 85.12 | 风险 低
+- Matt Furie's Charitable Support for Frogs via Pepe | 质量 68.50 | 可交易性 70.56 | 风险 低
+- MS Paint Style AI Image Prompt Trend | 质量 65.70 | 可交易性 61.67 | 风险 低
+- JPMorgan Executive Alleged Misconduct | 质量 64.12 | 可交易性 55.77 | 风险 低
+- San Francisco Fat Sea Lion Goes Viral | 质量 63.31 | 可交易性 67.15 | 风险 低
+- 小老鼠 | 质量 61.85 | 可交易性 60.97 | 风险 低
 
 ## 伪叙事风险
 
+- Save The Kids Coin Initiative | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Stealon Musk | 风险 42.57 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
 
 - $RISE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Goblin | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Wish | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Goblin | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - STJUDE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AMC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Hoppy | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -131,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Save The Kids Coin Initiative（Solana，分数 81.69）
+1. 当前最强叙事：USDC Minting Event（Solana，分数 83.5）
 2. 共振最强代币：WISH（Solana，共振 100.0）
-3. 记忆层变化：Apes here to take over 当前为“新出现”
+3. 记忆层变化：USDC Minting Event 当前为“新出现”
 4. 最新官方催化：Binance Ai: Join the Discord AMA & Win Rewards
 #Binance #NarrativeOS #OpenClaw
