@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-30T14:22:08.483127+00:00
+- 生成时间：2026-04-30T15:58:05.781309+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Agentic Money and Blockchain Equated，所在链为 BSC，叙事强度 87.14。
-- 当前平均叙事强度为 72.89，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 WISH，来自 Solana，共振分数 100.0。
-- 记忆层显示 AMC or BP Discussion 当前处于“新出现”状态。
+- 当前最强叙事是 Agentic Money and Blockchain Equated，所在链为 BSC，叙事强度 89.44。
+- 当前平均叙事强度为 73.61，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
+- 记忆层显示 Mello Name Clarification 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Ai: Join the Discord AMA & Win Rewards。
 
 ## 叙事雷达
 
-- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 87.14 | 质量 80.55
+- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 89.44 | 质量 81.30
   - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
-  - 资金 100.00 / 广度 94.10 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.57 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Russian Oil Asset Fund | Solana | 降温中 | 强度 82.04 | 质量 75.52
+- Mello Name Clarification | Solana | 已确认 | 强度 86.08 | 质量 82.41
+  - 主题摘要：According to Israel ישראל's post, the character previously inquired about was identified as 'Mello'. The response appears to be related to a crypto-themed character or token, with…
+  - 资金 100.00 / 广度 88.84 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Russian Oil Asset Fund | Solana | 降温中 | 强度 80.80 | 质量 75.49
   - 主题摘要：Multiple tokens named 「ROAF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.60 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.48 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Goblin Accelerationism | Solana | 加速中 | 强度 80.45 | 质量 75.48
-  - 主题摘要：According to the post, 'Goblin accelerationism' refers to a thematic concept potentially linked to crypto-native culture, possibly associated with meme-inspired narratives and spe…
-  - 资金 100.00 / 广度 83.40 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Musk Foundation Donates to Memphis Boys and Girls Club | Solana | 加速中 | 强度 80.42 | 质量 80.88
-  - 主题摘要：Elon Musk's foundation donated significant funds to the Boys and Girls Club of Greater Memphis to offset a federal funding shortfall, according to a post by Elon Musk.
-  - 资金 100.00 / 广度 92.91 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AMC or BP Discussion | Solana | 加速中 | 强度 78.95 | 质量 79.63
-  - 主题摘要：According to TheRealBarkingPuppy's post, a Solana deposit address was shared on social media. The post does not elaborate on the purpose or context of the address, nor does it ref…
-  - 资金 100.00 / 广度 90.66 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Speculative Cryptocurrencies Discussion | Solana | 加速中 | 强度 78.86 | 质量 79.72
-  - 主题摘要：According to The Bulwark's post, Ben McKenzie and Tim Miller discuss speculative cryptocurrencies, referencing CumRocket as an example of meme-driven digital assets and emphasizin…
-  - 资金 100.00 / 广度 90.94 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Call for Short Squeeze on AMC Token | Solana | 加速中 | 强度 78.77 | 质量 79.43
+- Call for Short Squeeze on AMC Token | Solana | 加速中 | 强度 78.65 | 质量 79.42
   - 主题摘要：According to West's post, a narrative is circulating that Roaring Kitty's brother is attempting to replicate the GME short squeeze strategy with AMC, leading to a 4x price increas…
-  - 资金 100.00 / 广度 89.97 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.94 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PumpFun Solana Deposit Address Shared | Solana | 加速中 | 强度 78.71 | 质量 79.38
-  - 主题摘要：According to TheRealBarkingPuppy's post, a Solana deposit address was shared on social media. The post did not elaborate on the purpose or context of the address.
-  - 资金 100.00 / 广度 89.80 / 确认 20.16 / 脆弱性 24.00
+- Goblin Accelerationism | Solana | 加速中 | 强度 76.91 | 质量 74.69
+  - 主题摘要：According to the post, 'Goblin accelerationism' refers to a thematic concept potentially linked to crypto-native culture, possibly associated with meme-inspired narratives and spe…
+  - 资金 100.00 / 广度 83.22 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 小老鼠 | BSC | 加速中 | 强度 76.35 | 质量 61.37
-  - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.60 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- National Wish Day Reflections | Solana | 加速中 | 强度 76.25 | 质量 68.38
-  - 主题摘要：According to Make-A-Wish America's post, a social media user attempted to initiate an interaction with the organization, potentially aiming to involve it in a discussion related t…
-  - 资金 92.71 / 广度 90.98 / 确认 19.44 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 白头海雕 克拉奇 | BSC | 加速中 | 强度 72.98 | 质量 59.07
-  - 主题摘要：Multiple tokens named 「白头海雕」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.86 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- JFH | BSC | 加速中 | 强度 67.94 | 质量 54.65
-  - 主题摘要：Multiple tokens named 「JFH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.97 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 病毒人生 | BSC | 降温中 | 强度 67.44 | 质量 55.37
-  - 主题摘要：Multiple tokens named 「病毒人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.29 / 确认 16.56 / 脆弱性 24.00
+- WOULD TRUMP | Solana | 降温中 | 强度 76.51 | 质量 66.09
+  - 主题摘要：WWWtrump is a meme token inspired by Donald Trump's political persona, featuring a colorful, comic-style logo with a stylized Trump image. The token embraces internet culture and…
+  - 资金 100.00 / 广度 57.13 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Doge4Goat Meme Image Resurfaces | BSC | 加速中 | 强度 65.46 | 质量 54.83
-  - 主题摘要：According to Hank LeGods's post, Jackson Palmer, co-creator of Dogecoin, allegedly created a GitHub repository named 'doge4goat' that suggested a connection between Doge and Goat.…
-  - 资金 100.00 / 广度 67.83 / 确认 24.48 / 脆弱性 24.00
+- 小老鼠 | BSC | 加速中 | 强度 76.21 | 质量 63.64
+  - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.53 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Dyslexia Awareness and Charity Token | Solana | 降温中 | 强度 75.43 | 质量 64.95
+  - 主题摘要：According to John Solmos's post, a cryptocurrency token is being promoted as highly relatable due to its focus on dyslexia, a condition affecting approximately 1 in 5 people. The…
+  - 资金 100.00 / 广度 55.76 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 白头海雕 克拉奇 | BSC | 加速中 | 强度 74.88 | 质量 60.86
+  - 主题摘要：Multiple tokens named 「白头海雕」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.46 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Support Walter White | Solana | 加速中 | 强度 74.58 | 质量 64.15
+  - 主题摘要：According to Gabe Nicholson's post, he expresses support for Walter White, a cultural figure from the TV series Breaking Bad, potentially linked to related meme activity.
+  - 资金 100.00 / 广度 80.96 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- San Francisco Fat Sea Lion Goes Viral | Solana | 加速中 | 强度 74.44 | 质量 65.06
+  - 主题摘要：According to reclandice385's post, a sea lion in San Francisco has gained viral attention for its unusually large size and has become a local cult legend and Meme图. A news article…
+  - 资金 100.00 / 广度 72.10 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- JFH | BSC | 加速中 | 强度 69.04 | 质量 53.79
+  - 主题摘要：Multiple tokens named 「JFH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.97 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 病毒人生 | BSC | 降温中 | 强度 66.32 | 质量 53.32
+  - 主题摘要：Multiple tokens named 「病毒人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.50 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 踏马起飞 | BSC | 降温中 | 强度 65.79 | 质量 52.62
+  - 主题摘要：Multiple tokens named 「踏马起飞」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.75 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 72.89，其中已确认叙事 0 个。
-- AMC or BP Discussion 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 73.61，其中已确认叙事 0 个。
+- Mello Name Clarification 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Russian Oil Asset Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Musk Foundation Donates to Memphis Boys and Girls Club | 质量 80.88 | 可交易性 96.63 | 风险 低
-- Agentic Money and Blockchain Equated | 质量 80.55 | 可交易性 100.00 | 风险 低
-- Speculative Cryptocurrencies Discussion | 质量 79.72 | 可交易性 100.00 | 风险 低
-- AMC or BP Discussion | 质量 79.63 | 可交易性 100.00 | 风险 低
-- Call for Short Squeeze on AMC Token | 质量 79.43 | 可交易性 100.00 | 风险 低
-- PumpFun Solana Deposit Address Shared | 质量 79.38 | 可交易性 100.00 | 风险 低
-- Russian Oil Asset Fund | 质量 75.52 | 可交易性 100.00 | 风险 低
-- Goblin Accelerationism | 质量 75.48 | 可交易性 90.25 | 风险 低
-- National Wish Day Reflections | 质量 68.38 | 可交易性 62.70 | 风险 低
-- 小老鼠 | 质量 61.37 | 可交易性 61.16 | 风险 低
+- Mello Name Clarification | 质量 82.41 | 可交易性 100.00 | 风险 低
+- Agentic Money and Blockchain Equated | 质量 81.30 | 可交易性 100.00 | 风险 低
+- Call for Short Squeeze on AMC Token | 质量 79.42 | 可交易性 100.00 | 风险 低
+- Russian Oil Asset Fund | 质量 75.49 | 可交易性 100.00 | 风险 低
+- Goblin Accelerationism | 质量 74.69 | 可交易性 87.79 | 风险 低
+- WOULD TRUMP | 质量 66.09 | 可交易性 100.00 | 风险 低
+- San Francisco Fat Sea Lion Goes Viral | 质量 65.06 | 可交易性 66.80 | 风险 低
+- Dyslexia Awareness and Charity Token | 质量 64.95 | 可交易性 97.56 | 风险 低
+- Support Walter White | 质量 64.15 | 可交易性 54.91 | 风险 低
+- 小老鼠 | 质量 63.64 | 可交易性 60.98 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Agentic Money and Blockchain Equated（BSC，分数 87.14）
-2. 共振最强代币：WISH（Solana，共振 100.0）
-3. 记忆层变化：AMC or BP Discussion 当前为“新出现”
+1. 当前最强叙事：Agentic Money and Blockchain Equated（BSC，分数 89.44）
+2. 共振最强代币：XRP（BSC，共振 100.0）
+3. 记忆层变化：Mello Name Clarification 当前为“新出现”
 4. 最新官方催化：Binance Ai: Join the Discord AMA & Win Rewards
 #Binance #NarrativeOS #OpenClaw
