@@ -1,102 +1,99 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-01T22:31:03.875902+00:00
+- 生成时间：2026-05-01T23:33:08.955581+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Agentic Money and Blockchain Equated，所在链为 BSC，叙事强度 88.03。
-- 当前平均叙事强度为 76.84，其中已确认叙事 0 个。
+- 当前最强叙事是 Agentic Money and Blockchain Equated，所在链为 BSC，叙事强度 87.32。
+- 当前平均叙事强度为 77.11，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 GOBLIN，来自 Solana，共振分数 100.0。
-- 记忆层显示 Elon Musk Promotes xAI Voice Cloning 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Claude AI's Fascination with Octopuses，伪叙事风险 47.23。
+- 记忆层显示 Elon Musk and X Post Grok-Generated E-Girl Videos 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Claude AI's Fascination with Octopuses，伪叙事风险 42.03。
 - 最新官方催化来自 最新活动：Binance Ai: Join the Discord AMA & Win Rewards。
 
 ## 叙事雷达
 
-- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 88.03 | 质量 79.21
+- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 87.32 | 质量 78.15
   - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
   - 资金 100.00 / 广度 93.16 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Meme图 and Wordplay on 'Cannons' | Solana | 加速中 | 强度 84.54 | 质量 79.87
-  - 主题摘要：According to the post, a Meme图 was shared that falsely charged and humorously altered the word 'boobs' to 'cannons'. The content appears to be part of a meme culture referencing t…
-  - 资金 100.00 / 广度 91.44 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pets in Codex | Solana | 加速中 | 强度 84.25 | 质量 80.19
-  - 主题摘要：According to OpenAI Developers's post, the Codex system now supports a '/pet' command to interact with a virtual pet feature.
-  - 资金 100.00 / 广度 89.34 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Scribbli Meme Image Shared | Solana | 加速中 | 强度 82.51 | 质量 78.01
-  - 主题摘要：According to Bustin's post, an imaginative concept named Scribbli was referenced through a link to a visualization platform, suggesting creative or artistic engagement possibly ti…
-  - 资金 100.00 / 广度 93.44 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Sina Chain | BSC | 加速中 | 强度 82.19 | 质量 79.55
-  - 主题摘要：Yi He, Binance co-founder, posts a behind-the-scenes look into her current role at Binance. The topic could spark interest due to her status as a prominent female figure in crypto…
-  - 资金 100.00 / 广度 97.75 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Scribbelon | Solana | 降温中 | 强度 81.15 | 质量 76.17
+- Scribbelon | Solana | 降温中 | 强度 86.60 | 质量 77.41
   - 主题摘要：Multiple tokens named 「SCRIBBELON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.02 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 91.17 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- OpenAI Developers Confirm Glim | Solana | 加速中 | 强度 80.39 | 质量 78.41
-  - 主题摘要：According to OpenAI Developers's post, they responded to a user's question about the name of a goblin with 'we've heard it's Glim 👀', suggesting a possible connection or reference…
-  - 资金 100.00 / 广度 83.40 / 确认 24.48 / 脆弱性 24.00
+- Pets in Codex | Solana | 加速中 | 强度 82.78 | 质量 80.22
+  - 主题摘要：Multiple tokens named 「PETS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.45 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Claude AI's Fascination with Octopuses | Solana | 点火期 | 强度 80.06 | 质量 76.73
+- Scribbli Meme Image Shared | Solana | 已确认 | 强度 82.57 | 质量 79.19
+  - 主题摘要：According to Bustin's post, an imaginative concept named Scribbli was referenced through a link to a visualization platform, suggesting creative or artistic engagement possibly ti…
+  - 资金 99.14 / 广度 93.15 / 确认 30.24 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Meme图 and Wordplay on 'Cannons' | Solana | 加速中 | 强度 81.91 | 质量 79.79
+  - 主题摘要：According to the post, an individual shared a Meme image that altered the word 'boobs' to 'cannons', sparking commentary on its humorous and provocative nature. This information i…
+  - 资金 100.00 / 广度 91.18 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Sina Chain | BSC | 加速中 | 强度 81.84 | 质量 79.17
+  - 主题摘要：Yi He, Binance co-founder, posts a behind-the-scenes look into her current role at Binance. The topic could spark interest due to her status as a prominent female figure in crypto…
+  - 资金 100.00 / 广度 97.73 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Claude AI's Fascination with Octopuses | Solana | 点火期 | 强度 81.68 | 质量 76.74
   - 主题摘要：According to green's post, Claude AI has expressed a strong fascination with octopuses, indicating a thematic link to AI-generated content or AI-related cultural trends.
-  - 资金 100.00 / 广度 83.61 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.66 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Elon Musk Promotes xAI Voice Cloning | Solana | 点火期 | 强度 79.50 | 质量 78.02
+- Elon Musk Promotes xAI Voice Cloning | Solana | 加速中 | 强度 80.22 | 质量 78.88
   - 主题摘要：Elon Musk retweets the announcement of xAI releasing voice cloning via API Console in the US, sparking excitement and speculation about the future of AI-generated personalities an…
-  - 资金 100.00 / 广度 93.63 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Solana-backed Kled rewards human data | Solana | 加速中 | 强度 78.10 | 质量 76.14
-  - 主题摘要：Solana-backed Kled aims to reward users for the data they generate, inspired by Pokémon Go players who contributed without compensation. The project emphasizes fair data value dis…
-  - 资金 100.00 / 广度 93.57 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.66 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 钻石人生 | BSC | 加速中 | 强度 76.30 | 质量 69.90
+- Elon Musk and X Post Grok-Generated E-Girl Videos | Solana | 降温中 | 强度 79.71 | 质量 70.02
+  - 主题摘要：According to Tobias Jochike's post, Elon Musk and X have posted videos of e-girls generated by Grok, suggesting a potential new marketing strategy or trend. This information is ba…
+  - 资金 100.00 / 广度 76.02 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- OpenAI Developers Confirm Glim | Solana | 加速中 | 强度 79.22 | 质量 78.29
+  - 主题摘要：According to OpenAI Developers's post, they responded to a user's question about the name of a goblin with 'we've heard it's Glim 👀', suggesting a possible connection or reference…
+  - 资金 100.00 / 广度 83.55 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 钻石人生 | BSC | 加速中 | 强度 76.81 | 质量 70.59
   - 主题摘要：According to 钻石人生's post, the private and public sales for Diamond Life have concluded, with a launch event scheduled for May 1st on the Butterfly FLAP platform.
-  - 资金 100.00 / 广度 73.40 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.44 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Transformation Ambition | BSC | 加速中 | 强度 73.67 | 质量 65.32
+- Binance Transformation Ambition | BSC | 加速中 | 强度 73.53 | 质量 65.30
   - 主题摘要：Yi He, co-founder of Binance, replied to a post regarding Binance's ambition to transform into a financial super app, aiming to serve the daily financial needs of 3 billion people…
-  - 资金 100.00 / 广度 82.52 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.54 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 小老鼠 | BSC | 加速中 | 强度 72.56 | 质量 61.33
+- 小老鼠 | BSC | 加速中 | 强度 72.51 | 质量 61.72
   - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.50 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.51 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- JFH | BSC | 加速中 | 强度 68.28 | 质量 54.54
+- JFH | BSC | 加速中 | 强度 70.67 | 质量 56.61
   - 主题摘要：Multiple tokens named 「JFH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.34 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 67.43 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.84，其中已确认叙事 0 个。
-- Elon Musk Promotes xAI Voice Cloning 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.11，其中已确认叙事 0 个。
 - Scribbelon 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Pets in Codex | 质量 80.19 | 可交易性 100.00 | 风险 低
-- Meme图 and Wordplay on 'Cannons' | 质量 79.87 | 可交易性 100.00 | 风险 低
-- Sina Chain | 质量 79.55 | 可交易性 89.45 | 风险 低
-- Agentic Money and Blockchain Equated | 质量 79.21 | 可交易性 100.00 | 风险 低
-- OpenAI Developers Confirm Glim | 质量 78.41 | 可交易性 100.00 | 风险 低
-- Elon Musk Promotes xAI Voice Cloning | 质量 78.02 | 可交易性 94.28 | 风险 低
-- Scribbli Meme Image Shared | 质量 78.01 | 可交易性 89.16 | 风险 低
-- Claude AI's Fascination with Octopuses | 质量 76.73 | 可交易性 100.00 | 风险 低
-- Scribbelon | 质量 76.17 | 可交易性 100.00 | 风险 低
-- Solana-backed Kled rewards human data | 质量 76.14 | 可交易性 93.24 | 风险 低
+- Pets in Codex | 质量 80.22 | 可交易性 100.00 | 风险 低
+- Meme图 and Wordplay on 'Cannons' | 质量 79.79 | 可交易性 100.00 | 风险 低
+- Scribbli Meme Image Shared | 质量 79.19 | 可交易性 88.63 | 风险 低
+- Sina Chain | 质量 79.17 | 可交易性 88.21 | 风险 低
+- Elon Musk Promotes xAI Voice Cloning | 质量 78.88 | 可交易性 94.48 | 风险 低
+- OpenAI Developers Confirm Glim | 质量 78.29 | 可交易性 100.00 | 风险 低
+- Agentic Money and Blockchain Equated | 质量 78.15 | 可交易性 100.00 | 风险 低
+- Scribbelon | 质量 77.41 | 可交易性 100.00 | 风险 低
+- Claude AI's Fascination with Octopuses | 质量 76.74 | 可交易性 100.00 | 风险 低
+- 钻石人生 | 质量 70.59 | 可交易性 82.58 | 风险 低
 
 ## 伪叙事风险
 
-- Claude AI's Fascination with Octopuses | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Elon Musk Promotes xAI Voice Cloning | 风险 42.03 | 原因：流动性偏薄
-- Scribbelon | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Claude AI's Fascination with Octopuses | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -135,8 +132,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Agentic Money and Blockchain Equated（BSC，分数 88.03）
+1. 当前最强叙事：Agentic Money and Blockchain Equated（BSC，分数 87.32）
 2. 共振最强代币：GOBLIN（Solana，共振 100.0）
-3. 记忆层变化：Elon Musk Promotes xAI Voice Cloning 当前为“新出现”
+3. 记忆层变化：Elon Musk and X Post Grok-Generated E-Girl Videos 当前为“新出现”
 4. 最新官方催化：Binance Ai: Join the Discord AMA & Win Rewards
 #Binance #NarrativeOS #OpenClaw
