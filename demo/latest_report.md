@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-04-30T23:07:13.873361+00:00
+- 生成时间：2026-05-01T00:02:22.829436+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Apes here to take over，所在链为 Solana，叙事强度 82.53。
-- 当前平均叙事强度为 75.38，其中已确认叙事 0 个。
+- 当前最强叙事是 USDC Minting Event，所在链为 Solana，叙事强度 85.26。
+- 当前平均叙事强度为 79.07，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 WISH，来自 Solana，共振分数 100.0。
-- 记忆层显示 Floating Space Cat Meme Image 当前处于“新出现”状态。
+- 记忆层显示 Scribbli Meme Image Shared 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Ai: Join the Discord AMA & Win Rewards。
 
 ## 叙事雷达
 
-- Apes here to take over | Solana | 降温中 | 强度 82.53 | 质量 76.48
-  - 主题摘要：According to JAKE's post, the phrase 'Apes here to take over' reflects a cultural expression commonly used in crypto communities to signal grassroots-driven momentum behind certai…
-  - 资金 100.00 / 广度 82.80 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 80.74 | 质量 74.74
-  - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
-  - 资金 100.00 / 广度 92.70 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- USDC Minting Event | Solana | 加速中 | 强度 79.34 | 质量 76.40
+- USDC Minting Event | Solana | 加速中 | 强度 85.26 | 质量 78.47
   - 主题摘要：Matt Furie, creator of Pepe the Frog, endorsed the Save the Frogs charity through a PEPE-related campaign. According to Grilzilla's post, Furie donated $1M worth of PEPE to the ca…
-  - 资金 100.00 / 广度 86.01 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.11 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 小老鼠 | BSC | 加速中 | 强度 74.91 | 质量 61.95
-  - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.58 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Floating Space Cat Meme Image | Solana | 降温中 | 强度 74.81 | 质量 64.57
-  - 主题摘要：According to megger's post, a newly released XAI document contains an image of a cat floating in space, which has been interpreted as a meme. The image has sparked interest and is…
-  - 资金 100.00 / 广度 75.69 / 确认 9.36 / 脆弱性 14.00
+- Apes here to take over | Solana | 降温中 | 强度 85.20 | 质量 76.56
+  - 主题摘要：According to JAKE's post, the phrase 'Apes here to take over' reflects a cultural expression commonly used in crypto communities to signal grassroots-driven momentum behind certai…
+  - 资金 100.00 / 广度 83.05 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MS Paint Style AI Image Prompt Trend | Solana | 加速中 | 强度 74.71 | 质量 68.70
-  - 主题摘要：According to BaoBao's post, a prompt on ChatGPT Image 2.0 that generates images in a clumsy MS Paint style has become widely popular on social media, with many users creating and…
-  - 资金 100.00 / 广度 80.03 / 确认 28.08 / 脆弱性 14.00
+- Scribbli Meme Image Shared | Solana | 加速中 | 强度 84.00 | 质量 79.83
+  - 主题摘要：According to Bustin's post, a Meme图 titled 'Scribbli' was shared, potentially inspiring related crypto projects, though no explicit token launch was announced. Further details rem…
+  - 资金 100.00 / 广度 88.67 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Matt Furie's Charitable Support for Frogs via Pepe | Solana | 加速中 | 强度 74.24 | 质量 67.98
+- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 81.05 | 质量 75.77
+  - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
+  - 资金 100.00 / 广度 93.03 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Matt Furie's Charitable Support for Frogs via Pepe | Solana | 加速中 | 强度 80.11 | 质量 69.94
   - 主题摘要：According to Grilzilla's post, Matt Furie, creator of Pepe the Frog, donated $1 million worth of PEPE tokens to Save the Frogs in 2023. He launched the #SavePepe campaign to prote…
-  - 资金 100.00 / 广度 83.32 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.30 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Charity Fundraising via Crypto Wallet | Solana | 加速中 | 强度 72.64 | 质量 58.76
-  - 主题摘要：According to Roronoa Zoro's post, Leap, the founder of donategg, supported a charity campaign for Breakthrough T1D to raise 10,000 USD in memory of YV, but only collected 700 USD.…
-  - 资金 100.00 / 广度 73.21 / 确认 24.48 / 脆弱性 14.00
+- MS Paint Style AI Image Prompt Trend | Solana | 已确认 | 强度 78.11 | 质量 71.38
+  - 主题摘要：According to BaoBao's post, a ChatGPT Image 2.0 prompt that generates images in an intentionally poor MS Paint style has become widely popular on social media platforms, with many…
+  - 资金 100.00 / 广度 82.26 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- 小老鼠 | BSC | 加速中 | 强度 75.46 | 质量 63.18
+  - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.59 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Support Walter White | Solana | 加速中 | 强度 72.58 | 质量 63.85
-  - 主题摘要：According to Gabe Nicholson's post, he expresses support for Walter White, a cultural figure from the TV series Breaking Bad, potentially linked to related meme tokens.
-  - 资金 100.00 / 广度 81.55 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Meme Image Reference by Quant | Solana | 加速中 | 强度 72.16 | 质量 62.06
+- Alleged Meme Image Reference by Quant | Solana | 加速中 | 强度 73.75 | 质量 62.34
   - 主题摘要：According to Quant's post, a Meme image referencing 'Little Asian Fish Head Wife' has been circulated, seemingly inspired by a lawsuit involving JPMorgan LevFin executive director…
-  - 资金 100.00 / 广度 77.23 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.61 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 白头海雕 克拉奇 | BSC | 加速中 | 强度 71.66 | 质量 60.88
-  - 主题摘要：Multiple tokens named 「白头海雕」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.50 / 确认 24.48 / 脆弱性 24.00
+- Support Walter White | Solana | 加速中 | 强度 73.14 | 质量 63.99
+  - 主题摘要：According to Gabe Nicholson's post, he expresses support for Walter White, a cultural figure from the TV series Breaking Bad, potentially linked to related meme tokens.
+  - 资金 100.00 / 广度 81.59 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- JFH | BSC | 加速中 | 强度 68.13 | 质量 55.00
-  - 主题摘要：Multiple tokens named 「JFH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.07 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AI舆智能 | BSC | 加速中 | 强度 67.93 | 质量 54.26
-  - 主题摘要：Multiple tokens named 「AI舆智能」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.88 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- LobsBook Launches Token with ListaDAO | BSC | 降温中 | 强度 67.79 | 质量 53.19
-  - 主题摘要：According to LobsBook's post, LobsBook is an on-chain social network where AI agents can share, discuss, and upvote content, forming a tokenized economic system. The platform is l…
-  - 资金 100.00 / 广度 68.07 / 确认 15.12 / 脆弱性 14.00
+- It Can Never Be Unseen | Solana | 降温中 | 强度 72.99 | 质量 61.73
+  - 主题摘要：According to Autism Capital 🧩's post, the phrase 'It can never be unseen' suggests a reaction to content perceived as striking or unforgettable. The post appears to highlight a se…
+  - 资金 100.00 / 广度 70.81 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- JFH | BSC | 加速中 | 强度 71.76 | 质量 56.48
+  - 主题摘要：Multiple tokens named 「JFH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.35 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 病毒人生 | BSC | 降温中 | 强度 71.49 | 质量 56.60
+  - 主题摘要：Multiple tokens named 「病毒人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.78 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 白头海雕 克拉奇 | BSC | 加速中 | 强度 70.80 | 质量 61.00
+  - 主题摘要：Multiple tokens named 「白头海雕」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.49 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- VAULT | BSC | 加速中 | 强度 65.92 | 质量 54.09
+  - 主题摘要：Multiple tokens named 「VAULT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.36 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.38，其中已确认叙事 0 个。
-- MS Paint Style AI Image Prompt Trend 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.07，其中已确认叙事 1 个。
+- Scribbli Meme Image Shared 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Apes here to take over 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Apes here to take over | 质量 76.48 | 可交易性 100.00 | 风险 低
-- USDC Minting Event | 质量 76.40 | 可交易性 91.24 | 风险 低
-- Agentic Money and Blockchain Equated | 质量 74.74 | 可交易性 100.00 | 风险 低
-- MS Paint Style AI Image Prompt Trend | 质量 68.70 | 可交易性 68.38 | 风险 低
-- Matt Furie's Charitable Support for Frogs via Pepe | 质量 67.98 | 可交易性 68.48 | 风险 低
-- Floating Space Cat Meme Image | 质量 64.57 | 可交易性 72.69 | 风险 低
-- Support Walter White | 质量 63.85 | 可交易性 53.32 | 风险 低
-- Alleged Meme Image Reference by Quant | 质量 62.06 | 可交易性 51.68 | 风险 低
-- 小老鼠 | 质量 61.95 | 可交易性 60.92 | 风险 低
-- 白头海雕 克拉奇 | 质量 60.88 | 可交易性 51.49 | 风险 低
+- Scribbli Meme Image Shared | 质量 79.83 | 可交易性 100.00 | 风险 低
+- USDC Minting Event | 质量 78.47 | 可交易性 95.40 | 风险 低
+- Apes here to take over | 质量 76.56 | 可交易性 100.00 | 风险 低
+- Agentic Money and Blockchain Equated | 质量 75.77 | 可交易性 100.00 | 风险 低
+- MS Paint Style AI Image Prompt Trend | 质量 71.38 | 可交易性 75.09 | 风险 低
+- Matt Furie's Charitable Support for Frogs via Pepe | 质量 69.94 | 可交易性 72.42 | 风险 低
+- Support Walter White | 质量 63.99 | 可交易性 53.77 | 风险 低
+- 小老鼠 | 质量 63.18 | 可交易性 60.79 | 风险 低
+- Alleged Meme Image Reference by Quant | 质量 62.34 | 可交易性 52.25 | 风险 低
+- It Can Never Be Unseen | 质量 61.73 | 可交易性 68.09 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Apes here to take over（Solana，分数 82.53）
+1. 当前最强叙事：USDC Minting Event（Solana，分数 85.26）
 2. 共振最强代币：WISH（Solana，共振 100.0）
-3. 记忆层变化：Floating Space Cat Meme Image 当前为“新出现”
+3. 记忆层变化：Scribbli Meme Image Shared 当前为“新出现”
 4. 最新官方催化：Binance Ai: Join the Discord AMA & Win Rewards
 #Binance #NarrativeOS #OpenClaw
