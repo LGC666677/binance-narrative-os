@@ -1,99 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-02T15:29:48.420167+00:00
+- 生成时间：2026-05-02T16:09:19.554866+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Trump Meme Coin 'WINNING'，所在链为 Solana，叙事强度 89.12。
-- 当前平均叙事强度为 81.29，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 LAB，来自 BSC，共振分数 100.0。
-- 记忆层显示 Trump Meme Coin 'WINNING' 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Shoebill Becomes Ueno Zoo's New Favorite Animal，伪叙事风险 47.79。
+- 当前最强叙事是 Trump Meme Coin 'WINNING'，所在链为 Solana，叙事强度 82.66。
+- 当前平均叙事强度为 78.83，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 B，来自 BSC，共振分数 100.0。
+- 记忆层显示 Attention as the Foundation of Value 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Trump Meme Coin 'WINNING'，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Binance Ai: Join the Discord AMA & Win Rewards。
 
 ## 叙事雷达
 
-- Trump Meme Coin 'WINNING' | Solana | 加速中 | 强度 89.12 | 质量 83.15
+- Trump Meme Coin 'WINNING' | Solana | 点火期 | 强度 82.66 | 质量 80.58
   - 主题摘要：According to the post, a Meme coin features audio of former U.S. President Donald Trump repeatedly saying 'WINNING'. The coin appears to be inspired by Trump's public statements r…
-  - 资金 100.00 / 广度 99.22 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 82.41 | 质量 72.36
-  - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
-  - 资金 100.00 / 广度 91.96 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- New Banksy Artwork Emerges in London | Solana | 加速中 | 强度 82.37 | 质量 79.67
-  - 主题摘要：According to Alex Ma | author of 2 stock investing books's post, a new artwork attributed to Banksy has appeared in central London, featuring a politician blinded by a flag. The p…
-  - 资金 100.00 / 广度 87.63 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Heartcoin Deployment and Charity Mode | Solana | 加速中 | 强度 81.73 | 质量 76.09
-  - 主题摘要：According to zero's post, Heartcoin is described as a token linked to charity initiatives, particularly associated with the Pumpfun app, Axiom, and Terminal platforms, with deploy…
-  - 资金 100.00 / 广度 81.36 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Wolverine Stack Peptide Combination | Solana | 加速中 | 强度 80.88 | 质量 73.23
-  - 主题摘要：According to the post, BPC-157 and TB-500 are peptides frequently discussed in fitness and biohacking circles for their purported healing benefits when combined as the 'Wolverine…
-  - 资金 100.00 / 广度 66.15 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pets in Codex | Solana | 加速中 | 强度 80.01 | 质量 80.49
-  - 主题摘要：According to OpenAI Developers's post, the Codex platform has introduced a new feature allowing users to interact with virtual pets using the /pet command. The announcement highli…
-  - 资金 92.25 / 广度 90.36 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Claude AI's Fascination with Octopuses | Solana | 加速中 | 强度 79.98 | 质量 72.56
-  - 主题摘要：According to green's post, the AI model Claude expressed a fascination with octopuses, sparking discussion around the theme of artificial intelligence and its unexpected interests.
-  - 资金 100.00 / 广度 79.42 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OpenAI Developers Confirm Glim | Solana | 加速中 | 强度 79.18 | 质量 78.22
-  - 主题摘要：According to OpenAI Developers's post, they responded to a user's question about the name of a goblin with 'we've heard it's Glim 👀', suggesting a possible connection to the term…
-  - 资金 100.00 / 广度 82.79 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Shoebill Becomes Ueno Zoo's New Favorite Animal | Solana | 点火期 | 强度 77.03 | 质量 72.42
-  - 主题摘要：According to m's post, a Shoebill bird named 'Asante' at Ueno Zoo is gaining widespread popularity and is being promoted as the new face of the zoo following the departure of the…
-  - 资金 100.00 / 广度 81.14 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 99.10 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Sina Chain | BSC | 加速中 | 强度 76.24 | 质量 71.37
+- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 82.65 | 质量 72.65
+  - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
+  - 资金 100.00 / 广度 91.93 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Pets in Codex | Solana | 加速中 | 强度 80.97 | 质量 80.50
+  - 主题摘要：According to OpenAI Developers's post, the Codex platform has introduced a new feature allowing users to interact with virtual pets using the /pet command. The announcement highli…
+  - 资金 95.82 / 广度 90.39 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Claude AI's Fascination with Octopuses | Solana | 加速中 | 强度 80.01 | 质量 72.49
+  - 主题摘要：According to green's post, the AI model Claude expressed a fascination with octopuses, sparking discussion around the theme of artificial intelligence and its unexpected interests.
+  - 资金 100.00 / 广度 79.26 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Heartcoin Deployment and Charity Mode | Solana | 降温中 | 强度 79.33 | 质量 74.41
+  - 主题摘要：According to zero's post, Heartcoin is described as a token linked to charity initiatives, particularly associated with the Pumpfun app, Axiom, and Terminal platforms, with deploy…
+  - 资金 100.00 / 广度 81.48 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Wolverine Stack Peptide Combination | Solana | 加速中 | 强度 79.24 | 质量 72.51
+  - 主题摘要：According to the post, BPC-157 and TB-500 are peptides frequently discussed in fitness and biohacking circles for their purported healing benefits when combined as the 'Wolverine…
+  - 资金 100.00 / 广度 66.72 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- OpenAI Developers Confirm Glim | Solana | 加速中 | 强度 79.18 | 质量 78.23
+  - 主题摘要：According to OpenAI Developers's post, they responded to a user's question about the name of a goblin with 'we've heard it's Glim 👀', suggesting a possible connection to the term…
+  - 资金 100.00 / 广度 82.81 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Sina Chain | BSC | 加速中 | 强度 76.78 | 质量 72.64
   - 主题摘要：Yi He, Binance co-founder, posts a behind-the-scenes look into her current role at Binance. The topic could spark interest due to her status as a prominent female figure in crypto…
-  - 资金 100.00 / 广度 97.62 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 97.05 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 小老鼠 | BSC | 加速中 | 强度 72.86 | 质量 60.38
-  - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.93 / 确认 23.76 / 脆弱性 14.00
+- Attention as the Foundation of Value | Solana | 降温中 | 强度 74.93 | 质量 65.09
+  - 主题摘要：According to the post, attention is described as the foundation of value in the current market, with the assertion that coins gain traction not solely due to fundamentals, but due…
+  - 资金 100.00 / 广度 56.75 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Solana-backed Kled rewards human data | Solana | 加速中 | 强度 74.36 | 质量 70.02
+  - 主题摘要：Solana-backed Kled aims to reward users for the data they generate, inspired by Pokémon Go players who contributed without compensation. The project emphasizes fair data value dis…
+  - 资金 100.00 / 广度 92.68 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FLAP's First NFT Minting + Floor Price Mechanism | BSC | 加速中 | 强度 72.50 | 质量 66.14
-  - 主题摘要：According to pPEG's post, FLAP introduces a novel NFT minting mechanism combined with a floor price guarantee system, representing a new model in digital asset economics.
-  - 资金 100.00 / 广度 78.05 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 世界杯 | BSC | 加速中 | 强度 72.40 | 质量 59.67
+- 世界杯 | BSC | 加速中 | 强度 72.88 | 质量 59.66
   - 主题摘要：世界杯 token draws inspiration from the FIFA World Cup 2026, featuring the iconic trophy logo. Created by WorldCup_Bsc, it offers multiple earning mechanisms including 0.5% yield on…
-  - 资金 100.00 / 广度 72.72 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.02 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WINNING | BSC | 加速中 | 强度 69.22 | 质量 57.13
-  - 主题摘要：According to the post, the WINNING token appears to be associated with a Meme coin trend centered around themes of victory and triumph. The token is described as having a Meme-rel…
-  - 资金 100.00 / 广度 73.05 / 确认 23.76 / 脆弱性 14.00
+- 小老鼠 | BSC | 加速中 | 强度 72.61 | 质量 59.92
+  - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.94 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FLAP's First NFT Minting + Floor Price Mechanism | BSC | 加速中 | 强度 71.93 | 质量 66.03
+  - 主题摘要：According to pPEG's post, FLAP introduces a novel NFT minting mechanism combined with a floor price guarantee system, representing a new model in digital asset economics.
+  - 资金 100.00 / 广度 78.15 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FLAP Pixel NFT | BSC | 加速中 | 强度 70.26 | 质量 60.48
+  - 主题摘要：According to 长乐發發 🔶 BNB's post, the user successfully exchanged for 10 FLAP Pixel NFTs, featuring butterfly-themed digital collectibles on the BNB Chain.
+  - 资金 100.00 / 广度 77.71 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.29，其中已确认叙事 0 个。
-- Trump Meme Coin 'WINNING' 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.83，其中已确认叙事 0 个。
+- Solana-backed Kled rewards human data 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Heartcoin Deployment and Charity Mode 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Trump Meme Coin 'WINNING' | 质量 83.15 | 可交易性 100.00 | 风险 低
-- Pets in Codex | 质量 80.49 | 可交易性 100.00 | 风险 低
-- New Banksy Artwork Emerges in London | 质量 79.67 | 可交易性 100.00 | 风险 低
-- OpenAI Developers Confirm Glim | 质量 78.22 | 可交易性 100.00 | 风险 低
-- Heartcoin Deployment and Charity Mode | 质量 76.09 | 可交易性 97.49 | 风险 低
-- Wolverine Stack Peptide Combination | 质量 73.23 | 可交易性 100.00 | 风险 低
-- Claude AI's Fascination with Octopuses | 质量 72.56 | 可交易性 100.00 | 风险 低
-- Shoebill Becomes Ueno Zoo's New Favorite Animal | 质量 72.42 | 可交易性 93.40 | 风险 低
-- Agentic Money and Blockchain Equated | 质量 72.36 | 可交易性 100.00 | 风险 低
-- Sina Chain | 质量 71.37 | 可交易性 88.85 | 风险 低
+- Trump Meme Coin 'WINNING' | 质量 80.58 | 可交易性 100.00 | 风险 低
+- Pets in Codex | 质量 80.50 | 可交易性 100.00 | 风险 低
+- OpenAI Developers Confirm Glim | 质量 78.23 | 可交易性 100.00 | 风险 低
+- Heartcoin Deployment and Charity Mode | 质量 74.41 | 可交易性 97.05 | 风险 低
+- Agentic Money and Blockchain Equated | 质量 72.65 | 可交易性 100.00 | 风险 低
+- Sina Chain | 质量 72.64 | 可交易性 88.65 | 风险 低
+- Wolverine Stack Peptide Combination | 质量 72.51 | 可交易性 100.00 | 风险 低
+- Claude AI's Fascination with Octopuses | 质量 72.49 | 可交易性 100.00 | 风险 低
+- Solana-backed Kled rewards human data | 质量 70.02 | 可交易性 89.82 | 风险 低
+- FLAP's First NFT Minting + Floor Price Mechanism | 质量 66.03 | 可交易性 61.36 | 风险 低
 
 ## 伪叙事风险
 
-- Shoebill Becomes Ueno Zoo's New Favorite Animal | 风险 47.79 | 原因：流动性偏薄
+- Trump Meme Coin 'WINNING' | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -132,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Trump Meme Coin 'WINNING'（Solana，分数 89.12）
-2. 共振最强代币：LAB（BSC，共振 100.0）
-3. 记忆层变化：Trump Meme Coin 'WINNING' 当前为“新出现”
+1. 当前最强叙事：Trump Meme Coin 'WINNING'（Solana，分数 82.66）
+2. 共振最强代币：B（BSC，共振 100.0）
+3. 记忆层变化：Attention as the Foundation of Value 当前为“新出现”
 4. 最新官方催化：Binance Ai: Join the Discord AMA & Win Rewards
 #Binance #NarrativeOS #OpenClaw
