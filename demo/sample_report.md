@@ -1,96 +1,96 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-02T21:05:17.452496+00:00
+- 生成时间：2026-05-02T21:55:59.138555+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Agentic Money and Blockchain Equated，所在链为 BSC，叙事强度 83.12。
-- 当前平均叙事强度为 74.21，其中已确认叙事 0 个。
+- 当前最强叙事是 Heartcoin Deployment and Charity Mode，所在链为 Solana，叙事强度 83.39。
+- 当前平均叙事强度为 75.17，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 LAB，来自 BSC，共振分数 100.0。
-- 记忆层显示 GCR's LMEOW Charity Prophecy Revival 当前处于“新出现”状态。
+- 记忆层显示 Alleged Launch of Nutcoin 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Trump Meme Coin 'WINNING'，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Binance Ai: Join the Discord AMA & Win Rewards。
 
 ## 叙事雷达
 
-- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 83.12 | 质量 75.68
-  - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
-  - 资金 100.00 / 广度 91.81 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Heartcoin Deployment and Charity Mode | Solana | 加速中 | 强度 80.78 | 质量 76.11
+- Heartcoin Deployment and Charity Mode | Solana | 加速中 | 强度 83.39 | 质量 76.30
   - 主题摘要：According to zero's post, Heartcoin is described as the best unbonded coin and associated with the 'Charity mode' akin to Fartcoin. It is reportedly available on platforms such as…
-  - 资金 100.00 / 广度 81.52 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.54 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump Meme Coin 'WINNING' | Solana | 点火期 | 强度 78.52 | 质量 78.57
+- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 83.32 | 质量 73.99
+  - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
+  - 资金 100.00 / 广度 91.86 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trump Meme Coin 'WINNING' | Solana | 点火期 | 强度 77.69 | 质量 77.75
   - 主题摘要：According to the post, the 'WINNING' token appears to be a Meme coin inspired by former U.S. President Donald Trump's frequent use of the word 'winning'. The token references a vi…
-  - 资金 93.27 / 广度 100.00 / 确认 12.96 / 脆弱性 24.00
+  - 资金 92.38 / 广度 99.98 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Sina Chain | BSC | 加速中 | 强度 77.91 | 质量 73.34
+- Sina Chain | BSC | 加速中 | 强度 77.60 | 质量 72.59
   - 主题摘要：Yi He, Binance co-founder, posts a behind-the-scenes look into her current role at Binance. The topic could spark interest due to her status as a prominent female figure in crypto…
-  - 资金 100.00 / 广度 96.64 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 96.44 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Criticism of Codex Pets Meme Coin Quality | Solana | 加速中 | 强度 77.41 | 质量 67.96
-  - 主题摘要：According to le /B/'s post, there is significant criticism regarding the execution of the Codex Pets Meme coin, particularly pointing out the incorrect promotion of a 'Pets' coin…
-  - 资金 100.00 / 广度 79.27 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GCR's LMEOW Charity Prophecy Revival | Solana | 加速中 | 强度 76.64 | 质量 66.27
-  - 主题摘要：According to Trencherrzz's post, GCRClassic prophesied the creation of $LMEOW and expressed intent to donate a significant portion of profits to charity. This aligns with recent d…
-  - 资金 100.00 / 广度 81.04 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Sam Bankman-Fried wearing MOG Glasses | Solana | 降温中 | 强度 76.12 | 质量 63.53
-  - 主题摘要：Sam Bankman-Fried is depicted wearing a pair of glasses known as MOG Glasses, which are associated with the $MOG token. The post implies a connection between the individual and th…
-  - 资金 100.00 / 广度 75.94 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FLAP's First NFT Minting + Floor Price Mechanism | BSC | 加速中 | 强度 74.83 | 质量 67.19
-  - 主题摘要：According to pPEG's post, FLAP introduces a novel NFT minting mechanism combined with a floor price guarantee system, marking a new development in NFT-based tokenomics design.
-  - 资金 100.00 / 广度 78.59 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Meme Video Sharing | Solana | 加速中 | 强度 74.47 | 质量 66.65
+- Meme Video Sharing | Solana | 加速中 | 强度 76.74 | 质量 66.68
   - 主题摘要：According to the post, the author shared a Meme video with a humorous tone, without mentioning any specific cryptocurrency or individual.
-  - 资金 100.00 / 广度 79.87 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.91 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Meme Narrative and 'Take A Chance' Token Trend | Solana | 降温中 | 强度 73.69 | 质量 66.08
-  - 主题摘要：According to the post, the recent market behavior reflects a recurring pattern of early selling and fading interest in Meme-related projects. The post highlights the 'Take A Chanc…
-  - 资金 100.00 / 广度 55.62 / 确认 9.36 / 脆弱性 14.00
+- Criticism of Codex Pets Meme Coin Quality | Solana | 加速中 | 强度 74.78 | 质量 67.76
+  - 主题摘要：According to le /B/'s post, there is significant criticism regarding the execution of the Codex Pets Meme coin, particularly pointing out the incorrect promotion of a 'Pets' coin…
+  - 资金 100.00 / 广度 79.38 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GCR's LMEOW Charity Prophecy Revival | Solana | 加速中 | 强度 74.53 | 质量 64.28
+  - 主题摘要：According to Trencherrzz's post, GCRClassic prophesied the creation of $LMEOW and expressed intent to donate a significant portion of profits to charity. This aligns with recent d…
+  - 资金 100.00 / 广度 80.86 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FLAP's First NFT Minting + Floor Price Mechanism | BSC | 加速中 | 强度 74.09 | 质量 67.04
+  - 主题摘要：According to pPEG's post, FLAP introduces its first NFT minting mechanism combined with a floor price guarantee system, marking a new development in NFT-based economic models.
+  - 资金 100.00 / 广度 78.60 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of Nutcoin | Solana | 降温中 | 强度 73.26 | 质量 59.21
+  - 主题摘要：According to at's post, Redrum, who is associated with Alon through mutual connections in the NFT space, announced the launch of 'Nutcoin'. The announcement was made in a quoted t…
+  - 资金 100.00 / 广度 74.54 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Wolverine Stack Peptide Combination | Solana | 加速中 | 强度 72.22 | 质量 68.88
-  - 主题摘要：According to the post, BPC-157 and TB-500 are peptides frequently discussed in fitness and biohacking circles for their purported healing benefits when combined as the 'Wolverine…
-  - 资金 100.00 / 广度 70.52 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Importance of Inner Stability | BSC | 加速中 | 强度 71.20 | 质量 66.14
+- The Importance of Inner Stability | BSC | 加速中 | 强度 72.62 | 质量 66.25
   - 主题摘要：CZ discusses the importance of maintaining personal integrity and inner stability after achieving success, reflecting on lessons from his book 'Binance Life' and emphasizing resil…
-  - 资金 100.00 / 广度 78.72 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.74 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Transformation Ambition | BSC | 加速中 | 强度 69.15 | 质量 58.72
-  - 主题摘要：Yi He, co-founder of Binance, replied to a post regarding Binance's ambition to transform into a financial super app, aiming to serve the daily financial needs of 3 billion people…
-  - 资金 100.00 / 广度 78.77 / 确认 28.08 / 脆弱性 24.00
+- Wolverine Stack Peptide Combination | Solana | 加速中 | 强度 70.51 | 质量 67.05
+  - 主题摘要：According to the post, BPC-157 and TB-500 are peptides frequently discussed in fitness and biohacking circles for their purported healing benefits when combined as the 'Wolverine…
+  - 资金 100.00 / 广度 70.33 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Sam Mogman | BSC | 降温中 | 强度 69.04 | 质量 59.17
-  - 主题摘要：Multiple tokens named 「MOGMAN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.18 / 确认 9.36 / 脆弱性 14.00
+- Sam Chudman Token Launch | Solana | 降温中 | 强度 70.49 | 质量 55.24
+  - 主题摘要：According to the post, the Sam Chudman token was launched on launchblitz.ai and also deployed using j7tracker.io, suggesting it may be a Meme-related token. This information is un…
+  - 资金 100.00 / 广度 74.05 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Transformation Ambition | BSC | 加速中 | 强度 68.81 | 质量 57.88
+  - 主题摘要：Yi He, co-founder of Binance, replied to a post regarding Binance's ambition to transform into a financial super app, aiming to serve the daily financial needs of 3 billion people…
+  - 资金 100.00 / 广度 78.73 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 小老鼠 | BSC | 加速中 | 强度 68.48 | 质量 55.56
+  - 主题摘要：Multiple tokens named 「小老鼠」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 96.96 / 广度 83.01 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 74.21，其中已确认叙事 0 个。
-- GCR's LMEOW Charity Prophecy Revival 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Sam Bankman-Fried wearing MOG Glasses 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.17，其中已确认叙事 0 个。
+- 小老鼠 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Launch of Nutcoin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Trump Meme Coin 'WINNING' | 质量 78.57 | 可交易性 92.39 | 风险 低
-- Heartcoin Deployment and Charity Mode | 质量 76.11 | 可交易性 97.38 | 风险 低
-- Agentic Money and Blockchain Equated | 质量 75.68 | 可交易性 100.00 | 风险 低
-- Sina Chain | 质量 73.34 | 可交易性 89.17 | 风险 低
-- Wolverine Stack Peptide Combination | 质量 68.88 | 可交易性 100.00 | 风险 低
-- Criticism of Codex Pets Meme Coin Quality | 质量 67.96 | 可交易性 69.85 | 风险 低
-- FLAP's First NFT Minting + Floor Price Mechanism | 质量 67.19 | 可交易性 64.80 | 风险 低
-- Meme Video Sharing | 质量 66.65 | 可交易性 64.34 | 风险 低
-- GCR's LMEOW Charity Prophecy Revival | 质量 66.27 | 可交易性 61.90 | 风险 低
-- The Importance of Inner Stability | 质量 66.14 | 可交易性 64.32 | 风险 低
+- Trump Meme Coin 'WINNING' | 质量 77.75 | 可交易性 91.00 | 风险 低
+- Heartcoin Deployment and Charity Mode | 质量 76.30 | 可交易性 98.00 | 风险 低
+- Agentic Money and Blockchain Equated | 质量 73.99 | 可交易性 100.00 | 风险 低
+- Sina Chain | 质量 72.59 | 可交易性 89.23 | 风险 低
+- Criticism of Codex Pets Meme Coin Quality | 质量 67.76 | 可交易性 69.06 | 风险 低
+- Wolverine Stack Peptide Combination | 质量 67.05 | 可交易性 100.00 | 风险 低
+- FLAP's First NFT Minting + Floor Price Mechanism | 质量 67.04 | 可交易性 64.27 | 风险 低
+- Meme Video Sharing | 质量 66.68 | 可交易性 64.41 | 风险 低
+- The Importance of Inner Stability | 质量 66.25 | 可交易性 64.68 | 风险 低
+- GCR's LMEOW Charity Prophecy Revival | 质量 64.28 | 可交易性 55.47 | 风险 低
 
 ## 伪叙事风险
 
@@ -107,7 +107,7 @@
 - STJUDE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AMC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 巨龙 | BSC | 看多 | 新鲜度 93.36 | 暂无直接叙事映射
-- diVINE | Solana | 看多 | 新鲜度 91.62 | 暂无直接叙事映射
+- HOUSTON | Solana | 看多 | 新鲜度 84.49 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Agentic Money and Blockchain Equated（BSC，分数 83.12）
+1. 当前最强叙事：Heartcoin Deployment and Charity Mode（Solana，分数 83.39）
 2. 共振最强代币：LAB（BSC，共振 100.0）
-3. 记忆层变化：GCR's LMEOW Charity Prophecy Revival 当前为“新出现”
+3. 记忆层变化：Alleged Launch of Nutcoin 当前为“新出现”
 4. 最新官方催化：Binance Ai: Join the Discord AMA & Win Rewards
 #Binance #NarrativeOS #OpenClaw
