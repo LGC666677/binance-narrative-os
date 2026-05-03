@@ -1,96 +1,96 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-03T17:04:25.778822+00:00
+- 生成时间：2026-05-03T17:59:38.433648+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Sina Chain，所在链为 BSC，叙事强度 81.01。
-- 当前平均叙事强度为 74.89，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 GENIUS，来自 BSC，共振分数 100.0。
-- 记忆层显示 Introduction to Peptide by pep 当前处于“新出现”状态。
+- 当前最强叙事是 Sina Chain，所在链为 BSC，叙事强度 80.8。
+- 当前平均叙事强度为 75.6，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 LAB，来自 BSC，共振分数 100.0。
+- 记忆层显示 S Token and Solana MemeCoin Revival 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 makam Name Introduction，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Ai: Join the Discord AMA & Win Rewards。
 
 ## 叙事雷达
 
-- Sina Chain | BSC | 加速中 | 强度 81.01 | 质量 73.06
+- Sina Chain | BSC | 加速中 | 强度 80.80 | 质量 72.47
   - 主题摘要：Yi He, Binance co-founder, posts a behind-the-scenes look into her current role at Binance. The topic could spark interest due to her status as a prominent female figure in crypto…
-  - 资金 100.00 / 广度 97.30 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 97.27 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 80.11 | 质量 75.06
-  - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
-  - 资金 100.00 / 广度 90.26 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Introduction to Peptide by pep | Solana | 降温中 | 强度 79.54 | 质量 70.12
-  - 主题摘要：According to pep's post, the individual introduced themselves and expressed interest in peptides. The content references a token named peptide (symbol: pep), though no detailed cl…
-  - 资金 100.00 / 广度 61.59 / 确认 16.56 / 脆弱性 14.00
+- S Token and Solana MemeCoin Revival | Solana | 降温中 | 强度 79.23 | 质量 69.34
+  - 主题摘要：According to Vispy's post, the S token represents a revival of Solana-themed memecoins, with the creator stating that all fees will support marketing and listings. The post highli…
+  - 资金 100.00 / 广度 80.67 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Heartcoin Deployment and Charity Mode | Solana | 降温中 | 强度 75.04 | 质量 67.85
-  - 主题摘要：According to zero's post, Heartcoin is described as the best unbonded coin and associated with the 'Charity mode' akin to Fartcoin. It is reportedly available on platforms such as…
-  - 资金 100.00 / 广度 72.56 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ's 'Freedom of Money' Book Meet in Dubai | BSC | 加速中 | 强度 74.95 | 质量 68.35
+- Uncertain:CZ's 'Freedom of Money' Book Meet in Dubai | BSC | 加速中 | 强度 77.82 | 质量 68.68
   - 主题摘要：According to AB 🔶's post, they attended the 'Freedom of Money' book meet event in Dubai hosted by Changpeng Zhao, founder of Binance, where Zhao discussed his memoir detailing the…
-  - 资金 99.80 / 广度 81.90 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.01 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Clavicular Coin | Solana | 降温中 | 强度 74.85 | 质量 66.91
-  - 主题摘要：CLAV (Clavicular Coin) is a meme token inspired by the concept of 'looksmaxxing'—enhancing physical appearance through cosmetic surgery. The logo features a person with a distinct…
-  - 资金 100.00 / 广度 56.18 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- makam Name Introduction | Solana | 点火期 | 强度 74.69 | 质量 74.71
-  - 主题摘要：According to achichu's post, the name of a newly mentioned Meme coin is Makam. The coin has been associated with memecoin culture and has multiple token entries with minimal or no…
-  - 资金 100.00 / 广度 89.97 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Binance Transformation Ambition | BSC | 加速中 | 强度 74.40 | 质量 61.85
-  - 主题摘要：Yi He, co-founder of Binance, replied to a post regarding Binance's ambition to transform into a financial super app, aiming to serve the daily financial needs of 3 billion people…
-  - 资金 100.00 / 广度 80.35 / 确认 28.08 / 脆弱性 14.00
+- Agentic Money and Blockchain Equated | BSC | 加速中 | 强度 75.24 | 质量 73.65
+  - 主题摘要：CZ tweeted a provocative equation 'agentic money = blockchain', blending fintech and meme culture, suggesting programmable money as the future of finance.
+  - 资金 100.00 / 广度 90.53 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GMAR | Solana | 降温中 | 强度 73.89 | 质量 60.48
-  - 主题摘要：GMAR token emerged from a viral post by @joshuahayes on X, featuring a man in a suit with a gun. The logo combines the token name with crossed rifles, symbolizing protection and s…
-  - 资金 100.00 / 广度 69.36 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jewish Lives Matter Meme Coin Inquiry | Solana | 降温中 | 强度 71.96 | 质量 57.73
-  - 主题摘要：According to the post, the author questions why the political left has not shown support for 'Jewish Lives Matter' and implies a potential connection to the emergence of related M…
-  - 资金 100.00 / 广度 69.82 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cƶ | BSC | 加速中 | 强度 71.85 | 质量 63.12
+- Cƶ | BSC | 加速中 | 强度 74.69 | 质量 63.45
   - 主题摘要：Multiple tokens named 「CƵ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.41 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 80.52 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Memeoids: Memes in Our Genes | Solana | 加速中 | 强度 71.50 | 质量 63.78
-  - 主题摘要：According to Alakazam's post, Elon Musk referenced Richard Dawkins' concept of 'memeoids' from 'The Selfish Gene', describing individuals deeply influenced by meme culture. The te…
-  - 资金 100.00 / 广度 81.97 / 确认 24.48 / 脆弱性 14.00
+- makam Name Introduction | Solana | 点火期 | 强度 74.33 | 质量 74.21
+  - 主题摘要：According to achichu's post, the name of a newly mentioned Meme coin is Makam. The coin has been associated with memecoin culture and has multiple token entries with minimal or no…
+  - 资金 100.00 / 广度 90.33 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance Transformation Ambition | BSC | 加速中 | 强度 74.19 | 质量 61.26
+  - 主题摘要：Yi He, co-founder of Binance, replied to a post regarding Binance's ambition to transform into a financial super app, aiming to serve the daily financial needs of 3 billion people…
+  - 资金 100.00 / 广度 80.33 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 蝴蝶平台首个分红BabyAstero金库 | BSC | 加速中 | 强度 71.07 | 质量 60.02
+- Heartcoin Deployment and Charity Mode | Solana | 降温中 | 强度 73.28 | 质量 65.42
+  - 主题摘要：According to zero's post, Heartcoin is described as the best unbonded coin and associated with the 'Charity mode' akin to Fartcoin. It is reportedly available on platforms such as…
+  - 资金 100.00 / 广度 72.28 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- GMAR | Solana | 降温中 | 强度 72.06 | 质量 57.71
+  - 主题摘要：GMAR token emerged from a viral post by @joshuahayes on X, featuring a man in a suit with a gun. The logo combines the token name with crossed rifles, symbolizing protection and s…
+  - 资金 100.00 / 广度 68.90 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Sir Buttington and Dame Buttilda Representation | Solana | 加速中 | 强度 71.08 | 质量 63.04
+  - 主题摘要：According to taxxin's post, Sir Buttington is representing Dame Buttilda. Both names appear to be humorous personas associated with a cryptocurrency token on the Solana network.
+  - 资金 100.00 / 广度 81.71 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 蝴蝶平台首个分红BabyAstero金库 | BSC | 加速中 | 强度 70.86 | 质量 60.01
   - 主题摘要：Multiple tokens named 「宝贝小行星」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.05 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.13 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FLAP's First NFT Minting + Floor Price Mechanism | BSC | 加速中 | 强度 70.83 | 质量 62.06
-  - 主题摘要：According to pPEG's post, FLAP introduces a novel NFT minting mechanism combined with a floor price guarantee system, aiming to establish a new model within the NFT and DeFi space.
-  - 资金 100.00 / 广度 76.29 / 确认 24.48 / 脆弱性 24.00
+- Sell If Gay Narrative Meme Coin Launch | Solana | 加速中 | 强度 70.62 | 质量 65.25
+  - 主题摘要：According to the post, a meme trend has emerged suggesting that eBay may be renamed to 'GAY' following its acquisition by GameStop (GME), with users creating and sharing related M…
+  - 资金 100.00 / 广度 80.35 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Wolverine Stack Peptide Combination | Solana | 加速中 | 强度 69.98 | 质量 66.18
+  - 主题摘要：According to the post, BPC-157 and TB-500 are peptides frequently discussed in fitness and biohacking circles for their purported healing benefits when combined as the 'Wolverine…
+  - 资金 100.00 / 广度 68.79 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Memeoids: Memes in Our Genes | Solana | 加速中 | 强度 69.75 | 质量 63.57
+  - 主题摘要：According to Alakazam's post, Elon Musk referenced Richard Dawkins' concept of 'memeoids' from 'The Selfish Gene', describing individuals deeply influenced by meme culture. The te…
+  - 资金 100.00 / 广度 82.06 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 74.89，其中已确认叙事 0 个。
-- Memeoids: Memes in Our Genes 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Introduction to Peptide by pep 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.6，其中已确认叙事 0 个。
+- Sir Buttington and Dame Buttilda Representation 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- S Token and Solana MemeCoin Revival 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Agentic Money and Blockchain Equated | 质量 75.06 | 可交易性 100.00 | 风险 低
-- makam Name Introduction | 质量 74.71 | 可交易性 100.00 | 风险 低
-- Sina Chain | 质量 73.06 | 可交易性 80.34 | 风险 低
-- Introduction to Peptide by pep | 质量 70.12 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ's 'Freedom of Money' Book Meet in Dubai | 质量 68.35 | 可交易性 67.98 | 风险 低
-- Heartcoin Deployment and Charity Mode | 质量 67.85 | 可交易性 98.98 | 风险 低
-- Clavicular Coin | 质量 66.91 | 可交易性 100.00 | 风险 低
-- Memeoids: Memes in Our Genes | 质量 63.78 | 可交易性 52.68 | 风险 低
-- Cƶ | 质量 63.12 | 可交易性 52.03 | 风险 低
-- FLAP's First NFT Minting + Floor Price Mechanism | 质量 62.06 | 可交易性 66.73 | 风险 低
+- makam Name Introduction | 质量 74.21 | 可交易性 100.00 | 风险 低
+- Agentic Money and Blockchain Equated | 质量 73.65 | 可交易性 95.77 | 风险 低
+- Sina Chain | 质量 72.47 | 可交易性 80.43 | 风险 低
+- S Token and Solana MemeCoin Revival | 质量 69.34 | 可交易性 83.59 | 风险 低
+- Uncertain:CZ's 'Freedom of Money' Book Meet in Dubai | 质量 68.68 | 可交易性 68.98 | 风险 低
+- Wolverine Stack Peptide Combination | 质量 66.18 | 可交易性 100.00 | 风险 低
+- Heartcoin Deployment and Charity Mode | 质量 65.42 | 可交易性 98.93 | 风险 低
+- Sell If Gay Narrative Meme Coin Launch | 质量 65.25 | 可交易性 59.20 | 风险 低
+- Memeoids: Memes in Our Genes | 质量 63.57 | 可交易性 51.89 | 风险 低
+- Cƶ | 质量 63.45 | 可交易性 53.02 | 风险 低
 
 ## 伪叙事风险
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Sina Chain（BSC，分数 81.01）
-2. 共振最强代币：GENIUS（BSC，共振 100.0）
-3. 记忆层变化：Introduction to Peptide by pep 当前为“新出现”
+1. 当前最强叙事：Sina Chain（BSC，分数 80.8）
+2. 共振最强代币：LAB（BSC，共振 100.0）
+3. 记忆层变化：S Token and Solana MemeCoin Revival 当前为“新出现”
 4. 最新官方催化：Binance Ai: Join the Discord AMA & Win Rewards
 #Binance #NarrativeOS #OpenClaw
