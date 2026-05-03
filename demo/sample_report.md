@@ -1,101 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-03T22:31:36.690503+00:00
+- 生成时间：2026-05-03T23:25:33.218520+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Sina Chain，所在链为 BSC，叙事强度 80.04。
-- 当前平均叙事强度为 75.24，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 LAB，来自 BSC，共振分数 100.0。
-- 记忆层显示 Elon backs Gad's honest truth 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Man Protests War on Iran at Frederick Douglass Bridge，伪叙事风险 42.03。
+- 当前最强叙事是 Sina Chain，所在链为 BSC，叙事强度 78.36。
+- 当前平均叙事强度为 74.17，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
+- 记忆层显示 dood 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Ai: Join the Discord AMA & Win Rewards。
 
 ## 叙事雷达
 
-- Sina Chain | BSC | 加速中 | 强度 80.04 | 质量 73.60
+- Sina Chain | BSC | 加速中 | 强度 78.36 | 质量 71.30
   - 主题摘要：Yi He, Binance co-founder, posts a behind-the-scenes look into her current role at Binance. The topic could spark interest due to her status as a prominent female figure in crypto…
-  - 资金 100.00 / 广度 97.27 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 97.29 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon backs Gad's honest truth | Solana | 降温中 | 强度 77.45 | 质量 67.73
-  - 主题摘要：Elon Musk liked a tweet referring to 'Gad's honest truth' that criticized progressive social dynamics in a provocative way, sparking online discussion around humor, ideology and p…
-  - 资金 100.00 / 广度 62.61 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ's 'Freedom of Money' Book Meet in Dubai | BSC | 加速中 | 强度 77.17 | 质量 68.62
-  - 主题摘要：According to AB 🔶's post, the 'Freedom of Money' book meet event in Dubai was hosted by Changpeng Zhao, focusing on his memoir detailing the rise of Binance and key strategic deci…
-  - 资金 100.00 / 广度 82.16 / 确认 24.48 / 脆弱性 14.00
+- dood | Solana | 加速中 | 强度 76.70 | 质量 62.61
+  - 主题摘要：According to the post, the user shared a Meme图 featuring 'Scoob Snek' and included a link to the image. The post does not provide detailed context or commentary.
+  - 资金 100.00 / 广度 76.66 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Praises Book 'Lies My Liberal Teacher Told Me' | Solana | 加速中 | 强度 75.28 | 质量 73.21
-  - 主题摘要：Elon Musk replies with 'Banger' to a tweet promoting a book that remains top in Historical Study after almost a year. His use of slang sparks internet attention and meme potential.
-  - 资金 100.00 / 广度 88.13 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Solana AI | Solana | 加速中 | 强度 75.23 | 质量 68.40
-  - 主题摘要：According to Bornvor's post, fees were sent to a GitHub repository linked to 'Mark-1176'. The post references a specific action involving cryptocurrency transaction fees being dir…
-  - 资金 100.00 / 广度 71.37 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cƶ | BSC | 加速中 | 强度 74.05 | 质量 63.38
-  - 主题摘要：Multiple tokens named 「CƵ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.68 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 蝴蝶平台首个分红BabyAstero金库 | BSC | 加速中 | 强度 73.50 | 质量 60.27
-  - 主题摘要：Multiple tokens named 「宝贝小行星」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.39 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Transformation Ambition | BSC | 加速中 | 强度 73.43 | 质量 62.39
-  - 主题摘要：Yi He, co-founder of Binance, replied to a post regarding Binance's ambition to transform into a financial super app, aiming to serve the daily financial needs of 3 billion people…
-  - 资金 100.00 / 广度 80.33 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 世界杯 | BSC | 加速中 | 强度 73.23 | 质量 60.33
-  - 主题摘要：世界杯 token draws inspiration from the FIFA World Cup 2026, featuring the iconic trophy logo. Created by WorldCup_Bsc, it offers multiple earning mechanisms including 0.5% yield on…
-  - 资金 100.00 / 广度 76.98 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Continue Token Launch | Solana | 降温中 | 强度 73.20 | 质量 59.55
-  - 主题摘要：Anatoly Yakovenko, co-founder of Solana Labs, posted a continuation message that may relate to the Continue token project on the Solana blockchain. The post lacks detailed context…
-  - 资金 100.00 / 广度 63.24 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Man Protests War on Iran at Frederick Douglass Bridge | Solana | 点火期 | 强度 72.80 | 质量 69.80
-  - 主题摘要：Guido Reichstadter, a 45-year-old man, staged a protest atop the Frederick Douglass Memorial Bridge in Washington, DC, speaking out against the war on Iran. According to the post,…
-  - 资金 100.00 / 广度 84.48 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Man Recreates Freedom Meme on Bridge | Solana | 点火期 | 强度 72.62 | 质量 69.60
-  - 主题摘要：According to gettindevvy_'s post, a man solo climbed the Frederick Douglass Memorial Bridge and recreated the 'freedom' Meme图, which is going viral on social media.
-  - 资金 100.00 / 广度 83.84 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Stupid Orange Cat Meme Image Trend | Solana | 加速中 | 强度 71.99 | 质量 57.99
-  - 主题摘要：According to Dios.sol's post, a Meme image featuring a 'stupid orange cat' is gaining widespread attention across social platforms, particularly on X, where users are captivated b…
-  - 资金 100.00 / 广度 70.38 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Sell If Gay Narrative Meme Coin Launch | Solana | 加速中 | 强度 70.53 | 质量 65.71
+- Sell If Gay Narrative Meme Coin Launch | Solana | 加速中 | 强度 76.23 | 质量 67.69
   - 主题摘要：According to the post, a meme trend on r/wallstreetbets suggests that eBay will be renamed to 'GAY' following its acquisition by GameStop, referencing the 'Gamestop+Ebay' concept.…
-  - 资金 100.00 / 广度 86.95 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.64 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ's 'Freedom of Money' Book Meet in Dubai | BSC | 加速中 | 强度 75.93 | 质量 68.61
+  - 主题摘要：According to AB 🔶's post, the 'Freedom of Money' book meet event in Dubai was hosted by Changpeng Zhao, focusing on his memoir detailing the rise of Binance and key strategic deci…
+  - 资金 100.00 / 广度 82.18 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 世界杯 | BSC | 加速中 | 强度 75.54 | 质量 62.32
+  - 主题摘要：世界杯 token draws inspiration from the FIFA World Cup 2026, featuring the iconic trophy logo. Created by WorldCup_Bsc, it offers multiple earning mechanisms including 0.5% yield on…
+  - 资金 100.00 / 广度 76.94 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Solana AI | Solana | 加速中 | 强度 74.47 | 质量 68.61
+  - 主题摘要：According to Bornvor's post, fees were sent to a GitHub repository linked to 'Mark-1176'. The post references a specific action involving cryptocurrency transaction fees being dir…
+  - 资金 100.00 / 广度 71.71 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Brr Brr Patapim Meme Image Promotion | Solana | 降温中 | 强度 73.58 | 质量 61.41
+  - 主题摘要：According to the post, 'Tung Tung Tung Sahur' reached 7 million, and 'Brr Brr Patapim' is promoted as a Meme image, possibly for relaunch on Pump. The post draws a comparison to '…
+  - 资金 100.00 / 广度 47.10 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Continue Token Launch | Solana | 降温中 | 强度 73.17 | 质量 59.69
+  - 主题摘要：Anatoly Yakovenko, co-founder of Solana Labs, posted a continuation message that may relate to the Continue token project on the Solana blockchain. The post lacks detailed context…
+  - 资金 100.00 / 广度 63.64 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Stupid Orange Cat Meme Image Trend | Solana | 加速中 | 强度 72.95 | 质量 58.71
+  - 主题摘要：According to Dios.sol's post, a Meme image featuring a 'stupid orange cat' is gaining widespread attention across social platforms, particularly on X, where users are captivated b…
+  - 资金 100.00 / 广度 70.81 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Cƶ | BSC | 加速中 | 强度 72.81 | 质量 63.38
+  - 主题摘要：Multiple tokens named 「CƵ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.70 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 蝴蝶平台首个分红BabyAstero金库 | BSC | 加速中 | 强度 72.62 | 质量 61.20
+  - 主题摘要：Multiple tokens named 「宝贝小行星」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.53 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FLAP's First NFT Minting + Floor Price Mechanism | BSC | 加速中 | 强度 72.17 | 质量 61.59
+  - 主题摘要：According to pPEG's post, FLAP introduces a novel NFT minting mechanism combined with a floor price guarantee system, aiming to establish a new model within the NFT and DeFi space.
+  - 资金 100.00 / 广度 75.88 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk Praises Book 'Lies My Liberal Teacher Told Me' | Solana | 加速中 | 强度 71.99 | 质量 69.98
+  - 主题摘要：Elon Musk replies with 'Banger' to a tweet promoting a book that remains top in Historical Study after almost a year. His use of slang sparks internet attention and meme potential.
+  - 资金 100.00 / 广度 87.97 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Transformation Ambition | BSC | 加速中 | 强度 71.75 | 质量 60.09
+  - 主题摘要：Yi He, co-founder of Binance, replied to a post regarding Binance's ambition to transform into a financial super app, aiming to serve the daily financial needs of 3 billion people…
+  - 资金 100.00 / 广度 80.34 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.24，其中已确认叙事 0 个。
-- 世界杯 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Elon backs Gad's honest truth 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 74.17，其中已确认叙事 0 个。
+- dood 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Brr Brr Patapim Meme Image Promotion 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Sina Chain | 质量 73.60 | 可交易性 80.27 | 风险 低
-- Elon Musk Praises Book 'Lies My Liberal Teacher Told Me' | 质量 73.21 | 可交易性 97.61 | 风险 低
-- Man Protests War on Iran at Frederick Douglass Bridge | 质量 69.80 | 可交易性 92.22 | 风险 低
-- Man Recreates Freedom Meme on Bridge | 质量 69.60 | 可交易性 92.22 | 风险 低
-- Uncertain:CZ's 'Freedom of Money' Book Meet in Dubai | 质量 68.62 | 可交易性 68.61 | 风险 低
-- Solana AI | 质量 68.40 | 可交易性 79.19 | 风险 低
-- Elon backs Gad's honest truth | 质量 67.73 | 可交易性 100.00 | 风险 低
-- Sell If Gay Narrative Meme Coin Launch | 质量 65.71 | 可交易性 54.14 | 风险 低
-- Cƶ | 质量 63.38 | 可交易性 52.65 | 风险 低
-- Binance Transformation Ambition | 质量 62.39 | 可交易性 57.21 | 风险 低
+- Sina Chain | 质量 71.30 | 可交易性 80.19 | 风险 低
+- Elon Musk Praises Book 'Lies My Liberal Teacher Told Me' | 质量 69.98 | 可交易性 97.90 | 风险 低
+- Uncertain:CZ's 'Freedom of Money' Book Meet in Dubai | 质量 68.61 | 可交易性 68.58 | 风险 低
+- Solana AI | 质量 68.61 | 可交易性 79.57 | 风险 低
+- Sell If Gay Narrative Meme Coin Launch | 质量 67.69 | 可交易性 61.03 | 风险 低
+- Cƶ | 质量 63.38 | 可交易性 52.62 | 风险 低
+- dood | 质量 62.61 | 可交易性 54.09 | 风险 低
+- 世界杯 | 质量 62.32 | 可交易性 53.36 | 风险 低
+- FLAP's First NFT Minting + Floor Price Mechanism | 质量 61.59 | 可交易性 67.06 | 风险 低
+- Brr Brr Patapim Meme Image Promotion | 质量 61.41 | 可交易性 90.73 | 风险 低
 
 ## 伪叙事风险
 
-- Man Protests War on Iran at Frederick Douglass Bridge | 风险 42.03 | 原因：流动性偏薄
-- Man Recreates Freedom Meme on Bridge | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Sina Chain（BSC，分数 80.04）
-2. 共振最强代币：LAB（BSC，共振 100.0）
-3. 记忆层变化：Elon backs Gad's honest truth 当前为“新出现”
+1. 当前最强叙事：Sina Chain（BSC，分数 78.36）
+2. 共振最强代币：TROLL（Solana，共振 100.0）
+3. 记忆层变化：dood 当前为“新出现”
 4. 最新官方催化：Binance Ai: Join the Discord AMA & Win Rewards
 #Binance #NarrativeOS #OpenClaw
