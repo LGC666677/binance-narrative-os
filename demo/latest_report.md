@@ -1,101 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-06T04:01:13.192117+00:00
+- 生成时间：2026-05-06T06:42:19.601713+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Sina Chain，所在链为 BSC，叙事强度 84.99。
-- 当前平均叙事强度为 78.16，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 PENGU，来自 Solana，共振分数 100.0。
-- 记忆层显示 NICE 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 World Record Dog，伪叙事风险 47.56。
+- 当前最强叙事是 Uncertain:Creation of BNB Native Meme IP，所在链为 BSC，叙事强度 87.1。
+- 当前平均叙事强度为 80.11，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 UTYA，来自 Solana，共振分数 100.0。
+- 记忆层显示 Uncertain:Creation of BNB Native Meme IP 当前处于“强化”状态。
+- 当前最需要防止误判的叙事是 GORENG，伪叙事风险 47.79。
 - 最新官方催化来自 币安最新公告：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-08)。
 
 ## 叙事雷达
 
-- Sina Chain | BSC | 加速中 | 强度 84.99 | 质量 78.91
-  - 主题摘要：Yi He, Binance co-founder, posts a behind-the-scenes look into her current role at Binance. The topic could spark interest due to her status as a prominent female figure in crypto…
-  - 资金 100.00 / 广度 99.34 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- NICE | Solana | 加速中 | 强度 84.80 | 质量 80.82
-  - 主题摘要：According to the post, there are indications that the NICE token may have been launched on Bonk.fun or tracked via j7tracker.io, though no detailed context or confirmation is prov…
-  - 资金 100.00 / 广度 89.32 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BULLYBULL | Solana | 降温中 | 强度 78.78 | 质量 67.34
-  - 主题摘要：BULLYBULL is a meme token inspired by the iconic bull character from the 1996 film 'Bullitt.' The logo features a flying bull with propeller wings, embodying the rebellious spirit…
-  - 资金 100.00 / 广度 80.27 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Give Me Equity Meme Token Launch | Solana | 点火期 | 强度 78.48 | 质量 72.44
-  - 主题摘要：Multiple tokens named 「GME」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.92 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Binance Transformation Ambition | BSC | 已确认 | 强度 78.17 | 质量 67.33
-  - 主题摘要：Yi He, co-founder of Binance, replied to a post regarding Binance's ambition to transform into a financial super app, aiming to serve the daily financial needs of 3 billion people…
-  - 资金 100.00 / 广度 82.39 / 确认 28.08 / 脆弱性 24.00
+- Uncertain:Creation of BNB Native Meme IP | BSC | 已确认 | 强度 87.10 | 质量 80.05
+  - 主题摘要：According to MEME GUY 模因男孩's post, the individual created a BNB-native Meme IP called MEMEGUY 模因男孩, inspired by Binance's Meme Coin competition.
+  - 资金 100.00 / 广度 86.23 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Creation of BNB Native Meme IP | BSC | 加速中 | 强度 77.99 | 质量 68.49
-  - 主题摘要：According to MEME GUY 模因男孩's post, the individual created a BNB-native Meme-based IP called MEME GUY 模因男孩, inspired by Binance's Meme competition. The post questions why BNB canno…
-  - 资金 100.00 / 广度 79.43 / 确认 24.48 / 脆弱性 14.00
+- Forever Win and Clicking Tokens | Solana | 已确认 | 强度 85.20 | 质量 81.83
+  - 主题摘要：According to Pump.fun's post, the platform expressed determination to continue launching and promoting tokens such as Forever Win (WIN4EVR) and CLICKING, which are deployed using…
+  - 资金 100.00 / 广度 92.16 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Sina Chain | BSC | 加速中 | 强度 82.73 | 质量 77.41
+  - 主题摘要：Yi He, Binance co-founder, posts a behind-the-scenes look into her current role at Binance. The topic could spark interest due to her status as a prominent female figure in crypto…
+  - 资金 100.00 / 广度 99.54 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Expands Web3 Super App Functionality | BSC | 加速中 | 强度 77.98 | 质量 69.47
-  - 主题摘要：Yi He suggests using Binance UID as a social and transfer ID, hinting that having Binance friends is now a norm in crypto communication. The idea of 'friendship via UID' has spark…
-  - 资金 100.00 / 广度 84.19 / 确认 24.48 / 脆弱性 24.00
+- Give Me Equity Meme Token Launch | Solana | 加速中 | 强度 81.59 | 质量 74.79
+  - 主题摘要：Multiple tokens named 「GME」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.26 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Goblin Alien | Solana | 降温中 | 强度 76.55 | 质量 62.85
-  - 主题摘要：Multiple tokens named 「GOBALIEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.07 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Record Dog | Solana | 点火期 | 强度 76.13 | 质量 76.80
-  - 主题摘要：According to Jerome Goldberg's post, the 'World Record Dog' campaign has been aggressively advertised on Instagram for a year, recently gaining 600k likes in two weeks. The token…
-  - 资金 100.00 / 广度 84.61 / 确认 16.56 / 脆弱性 24.64
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- US GOV Puppies Charity Livestream | Solana | 加速中 | 强度 76.08 | 质量 60.80
-  - 主题摘要：According to Pdrizzy's post, five new sled dog puppies at Denali National Park were born and will be raised via livestream to support the charity 'Alaska Geographic.' The post sug…
-  - 资金 100.00 / 广度 80.66 / 确认 23.76 / 脆弱性 24.00
+- YEP | Solana | 加速中 | 强度 80.38 | 质量 69.63
+  - 主题摘要：YEP token features a cartoon gorilla wearing a yellow hat and gold chain, embodying a playful, community-driven ethos. The token's name and logo reflect a lighthearted approach to…
+  - 资金 100.00 / 广度 73.61 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Michael Saylor Considers Selling Bitcoin | Solana | 加速中 | 强度 75.91 | 质量 65.42
+- Weekend Mood Meme Image | Solana | 加速中 | 强度 79.93 | 质量 75.72
+  - 主题摘要：According to fomo's post, the topic reflects a casual, mood-based expression related to leisure time during the weekend, with no specific project or event context provided.
+  - 资金 100.00 / 广度 82.97 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Michael Saylor Considers Selling Bitcoin | Solana | 加速中 | 强度 78.58 | 质量 65.86
   - 主题摘要：Michael Saylor states that 'Strategy' may sell Bitcoin. According to Kalshi Crypto's post, this appears to be a reference to a potential corporate move involving Bitcoin holdings.
-  - 资金 100.00 / 广度 82.77 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.83 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alzheimers Token Supports Charities | Solana | 加速中 | 强度 75.76 | 质量 62.84
-  - 主题摘要：According to Advyth's post, the token $Alzheimers on Pumpfun supports charity initiatives linked to Alzheimer's foundations, with all fees funding these causes. The phrase 'buy an…
-  - 资金 100.00 / 广度 78.14 / 确认 23.76 / 脆弱性 14.00
+- Binance Expands Web3 Super App Functionality | BSC | 加速中 | 强度 78.55 | 质量 69.45
+  - 主题摘要：Yi He suggests using Binance UID as a social and transfer ID, hinting that having Binance friends is now a norm in crypto communication. The idea of 'friendship via UID' has spark…
+  - 资金 100.00 / 广度 84.47 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 托付一生 | BSC | 加速中 | 强度 75.11 | 质量 62.09
-  - 主题摘要：托付一生 (Trust Your Life) is a community-driven token focused on empowering users through decentralized finance. It aims to create a transparent ecosystem where users can trust in th…
-  - 资金 100.00 / 广度 73.43 / 确认 24.48 / 脆弱性 14.00
+- Loki | Solana | 降温中 | 强度 78.46 | 质量 68.01
+  - 主题摘要：Multiple tokens named 「Loki」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.12 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Value of Long-Termism in Crypto Winter | BSC | 加速中 | 强度 78.35 | 质量 69.44
+  - 主题摘要：CZ在推特中回应关于《币安人生》的内容，谈及在加密行业寒冬中坚持长期主义的重要性，引发对币圈领袖哲学的讨论。
+  - 资金 100.00 / 广度 80.91 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 世界杯 | BSC | 加速中 | 强度 74.74 | 质量 62.74
-  - 主题摘要：世界杯 token draws inspiration from the FIFA World Cup 2026, featuring the iconic trophy logo. Created by WorldCup_Bsc, it offers multiple earning mechanisms including 0.5% yield on…
-  - 资金 100.00 / 广度 78.07 / 确认 24.48 / 脆弱性 24.00
+- Uncertain:Binance User Culture and Ecosystem Building | BSC | 已确认 | 强度 78.05 | 质量 68.77
+  - 主题摘要：According to 滢哥捡到一个BNB🌖's post, Binance user culture is demonstrated through high-level engagement, such as Yi He personally reaching out to users and building community trust. Th…
+  - 资金 100.00 / 广度 72.63 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Artificial Inu Token Emerges Amid Global Computing Race | Solana | 加速中 | 强度 76.47 | 质量 67.76
+  - 主题摘要：According to makemoney's post, as demand for AI hardware surges among governments and corporations, a token named $AI (Artificial Inu) has been introduced, positioning itself as a…
+  - 资金 100.00 / 广度 87.17 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GORENG | Solana | 点火期 | 强度 76.20 | 质量 72.45
+  - 主题摘要：GORENG is a community-driven token inspired by street culture in Jakarta. It aims to connect local street art and music with blockchain technology, creating a platform for creativ…
+  - 资金 100.00 / 广度 74.65 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance Transformation Ambition | BSC | 加速中 | 强度 75.90 | 质量 65.82
+  - 主题摘要：Yi He, co-founder of Binance, replied to a post regarding Binance's ambition to transform into a financial super app, aiming to serve the daily financial needs of 3 billion people…
+  - 资金 100.00 / 广度 82.60 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.16，其中已确认叙事 1 个。
-- NICE 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- BULLYBULL 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.11，其中已确认叙事 2 个。
+- Uncertain:Creation of BNB Native Meme IP 正在向主线升级: BSC 上该叙事处于“强化”状态，值得持续跟踪。
+- Loki 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- NICE | 质量 80.82 | 可交易性 100.00 | 风险 低
-- Sina Chain | 质量 78.91 | 可交易性 85.90 | 风险 低
-- World Record Dog | 质量 76.80 | 可交易性 99.25 | 风险 低
-- Give Me Equity Meme Token Launch | 质量 72.44 | 可交易性 86.40 | 风险 低
-- Binance Expands Web3 Super App Functionality | 质量 69.47 | 可交易性 69.43 | 风险 低
-- Uncertain:Creation of BNB Native Meme IP | 质量 68.49 | 可交易性 70.93 | 风险 低
-- BULLYBULL | 质量 67.34 | 可交易性 77.33 | 风险 低
-- Binance Transformation Ambition | 质量 67.33 | 可交易性 61.59 | 风险 低
-- Michael Saylor Considers Selling Bitcoin | 质量 65.42 | 可交易性 57.36 | 风险 低
-- Goblin Alien | 质量 62.85 | 可交易性 56.57 | 风险 低
+- Forever Win and Clicking Tokens | 质量 81.83 | 可交易性 100.00 | 风险 低
+- Uncertain:Creation of BNB Native Meme IP | 质量 80.05 | 可交易性 100.00 | 风险 低
+- Sina Chain | 质量 77.41 | 可交易性 85.26 | 风险 低
+- Weekend Mood Meme Image | 质量 75.72 | 可交易性 91.47 | 风险 低
+- Give Me Equity Meme Token Launch | 质量 74.79 | 可交易性 88.60 | 风险 低
+- GORENG | 质量 72.45 | 可交易性 100.00 | 风险 低
+- YEP | 质量 69.63 | 可交易性 81.05 | 风险 低
+- Binance Expands Web3 Super App Functionality | 质量 69.45 | 可交易性 69.07 | 风险 低
+- The Value of Long-Termism in Crypto Winter | 质量 69.44 | 可交易性 72.62 | 风险 低
+- Uncertain:Binance User Culture and Ecosystem Building | 质量 68.77 | 可交易性 84.30 | 风险 低
 
 ## 伪叙事风险
 
-- World Record Dog | 风险 47.56 | 原因：流动性偏薄、近 1 小时净流入转负
-- Give Me Equity Meme Token Launch | 风险 42.03 | 原因：流动性偏薄
+- GORENG | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Sina Chain（BSC，分数 84.99）
-2. 共振最强代币：PENGU（Solana，共振 100.0）
-3. 记忆层变化：NICE 当前为“新出现”
+1. 当前最强叙事：Uncertain:Creation of BNB Native Meme IP（BSC，分数 87.1）
+2. 共振最强代币：UTYA（Solana，共振 100.0）
+3. 记忆层变化：Uncertain:Creation of BNB Native Meme IP 当前为“强化”
 4. 最新官方催化：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-08)
 #Binance #NarrativeOS #OpenClaw
