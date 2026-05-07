@@ -1,100 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-07T19:08:38.144377+00:00
+- 生成时间：2026-05-07T20:36:14.950047+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Just a hantaguy，所在链为 Solana，叙事强度 88.71。
-- 当前平均叙事强度为 80.96，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged VIRUS Token Charity Initiative 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Traderclaw，伪叙事风险 45.02。
+- 当前最强叙事是 Hantacoin 2013 GitHub Resurfaces，所在链为 Solana，叙事强度 83.51。
+- 当前平均叙事强度为 77.39，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BUTTCOIN，来自 Solana，共振分数 100.0。
+- 记忆层显示 Hantacoin 2013 GitHub Resurfaces 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Vellum Launches Personal AI with X Account，伪叙事风险 42.03。
 - 最新官方催化来自 最新活动：Binance Wallet Launches Prediction Markets Trial Protection Campaign。
 
 ## 叙事雷达
 
-- Just a hantaguy | Solana | 加速中 | 强度 88.71 | 质量 80.29
-  - 主题摘要：According to B0gatti's post, a new HantaGuy token is being launched as a fair and legitimate alternative to previous versions, which are described as scams with high developer fee…
-  - 资金 100.00 / 广度 92.86 / 确认 20.16 / 脆弱性 14.00
+- Hantacoin 2013 GitHub Resurfaces | Solana | 加速中 | 强度 83.51 | 质量 79.41
+  - 主题摘要：According to devvy0x's post, a GitHub repository named 'Hantacoin-2013' resurfaced, referencing a coin allegedly created in 2013 that predicted the Hantavirus outbreak. The post a…
+  - 资金 100.00 / 广度 87.59 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged VIRUS Token Charity Initiative | Solana | 降温中 | 强度 87.84 | 质量 79.24
-  - 主题摘要：According to Buyback dev's post, the token $virus is associated with a spreading message, referencing the Miley Virus token. The post includes a base58 encoded string, potentially…
-  - 资金 100.00 / 广度 94.62 / 确认 12.96 / 脆弱性 14.00
+- HANTARO Meme Image Reference | Solana | 加速中 | 强度 81.95 | 质量 76.86
+  - 主题摘要：According to -'s post, the term 'HANTARO' is humorously associated with a Meme image in the context of 'virus meta', suggesting a thematic or cultural reference rather than a subs…
+  - 资金 100.00 / 广度 84.80 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- PUMP CANT LAUNCH | Solana | 加速中 | 强度 79.52 | 质量 72.83
+  - 主题摘要：According to taxxin's post, the launch of a token or project referred to as 'PUMP' has been declared impossible or invalid by the author.
+  - 资金 100.00 / 广度 80.80 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- pokemon-evolve | Solana | 降温中 | 强度 77.29 | 质量 64.16
+  - 主题摘要：Multiple tokens named 「POKE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.07 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Vellum Launches Personal AI with X Account | Solana | 加速中 | 强度 81.86 | 质量 77.62
+- Vellum Launches Personal AI with X Account | Solana | 点火期 | 强度 76.21 | 质量 70.48
   - 主题摘要：According to alphanigga's post, Vellum introduces a personal AI assistant named @ash_vellum that operates on X, drawing comparisons to Grok developed by xAI.
-  - 资金 100.00 / 广度 83.96 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- pepemask | Solana | 加速中 | 强度 81.55 | 质量 74.95
-  - 主题摘要：Pepemask is a meme token inspired by the iconic Pepe the Frog character, featuring a frog wearing a medical mask. The token embraces the playful spirit of internet culture while i…
-  - 资金 100.00 / 广度 71.88 / 确认 24.48 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- DYOR | Solana | 降温中 | 强度 78.80 | 质量 65.55
-  - 主题摘要：Multiple tokens named 「$DYOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.88 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.24 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- SEC Introduces Term 'Regulars' for Frequent Market Participants | Solana | 降温中 | 强度 75.72 | 质量 64.92
+  - 主题摘要：According to braindotdev's post, the SEC has introduced the term 'Regulars' to refer to individuals who frequently engage in trading within financial markets, distinguishing them…
+  - 资金 100.00 / 广度 51.77 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Japan Financial Supercycle Meme Token | Solana | 降温中 | 强度 78.59 | 质量 69.60
-  - 主题摘要：According to Bob's post, $JPX6900 represents a Meme图 narrative围绕 the convergence of Japanese stocks, bonds, and crypto markets, driven by the recent tokenization of Japanese gover…
-  - 资金 100.00 / 广度 71.14 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Traderclaw | Solana | 降温中 | 强度 76.70 | 质量 72.32
-  - 主题摘要：Traderclaw (TCLAW) is a meme token inspired by the 'claw' gesture, symbolizing resilience and determination. The logo features a red claw-like symbol on a black background, reflec…
-  - 资金 100.00 / 广度 77.90 / 确认 4.32 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Beffjezos Yes Response | Solana | 加速中 | 强度 73.64 | 质量 67.89
-  - 主题摘要：Elon Musk replies to Beffjezos's cryptic tweet with just "Yes", sparking speculation about a potential new meme or crypto project. The brevity and influence of Musk make it highly…
-  - 资金 100.00 / 广度 92.47 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Make BNB Great Again | BSC | 降温中 | 强度 71.99 | 质量 56.36
-  - 主题摘要：Multiple tokens named 「MBGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.00 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Panda World | BSC | 加速中 | 强度 71.52 | 质量 56.45
+- Panda World | BSC | 加速中 | 强度 72.96 | 质量 58.21
   - 主题摘要：Multiple tokens named 「PANDA WORLD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.18 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 67.25 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cat Meme Image Shared | BSC | 加速中 | 强度 70.74 | 质量 67.51
-  - 主题摘要：According to Bybit's post, a Meme image featuring a cat was shared on social media. The post appears to be part of a thematic or promotional effort, though no further context or e…
-  - 资金 100.00 / 广度 71.58 / 确认 28.12 / 脆弱性 24.00
+- Beffjezos Yes Response | Solana | 加速中 | 强度 72.50 | 质量 68.30
+  - 主题摘要：Elon Musk replies to Beffjezos's cryptic tweet with just "Yes", sparking speculation about a potential new meme or crypto project. The brevity and influence of Musk make it highly…
+  - 资金 100.00 / 广度 92.22 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Flap回应Bybit推文 | BSC | 加速中 | 强度 70.45 | 质量 66.94
-  - 主题摘要：In response to a post by Bybit_Official, Flap 🦋 shared a Meme图 featuring a butterfly emoji. The content appears to be a light-hearted engagement within the crypto community.
-  - 资金 100.00 / 广度 72.35 / 确认 28.08 / 脆弱性 24.00
+- Cat Influencer Promotes Solana Wallet | Solana | 降温中 | 强度 72.45 | 质量 63.69
+  - 主题摘要：According to PaidArc's post, a TikTok cat influencer with over 2.2 million followers has added a Solana wallet to their profile and plans to use the funds to buy treats and toys f…
+  - 资金 100.00 / 广度 45.44 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Flap回应Bybit推文 | BSC | 加速中 | 强度 70.84 | 质量 67.55
+  - 主题摘要：Flap responded to a post by Bybit Official on social media with a butterfly emoji and the word 'flap', indicating engagement or acknowledgment.
+  - 资金 100.00 / 广度 72.41 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Launches DreamBinance | BSC | 加速中 | 强度 67.79 | 质量 63.92
-  - 主题摘要：According to caodanM's post, Binance has launched a new token called 'Dream Binance' (Dinance), which appears to be a conceptual or aspirational initiative aligned with Binance's…
-  - 资金 100.00 / 广度 78.07 / 确认 31.68 / 脆弱性 24.00
+- Make BNB Great Again | BSC | 降温中 | 强度 70.35 | 质量 56.39
+  - 主题摘要：Multiple tokens named 「MBGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.08 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:elizaOK Launch on Binance Square | BSC | 点火期 | 强度 67.81 | 质量 56.66
+  - 主题摘要：According to the post, elizaOK is now live on Binance Square. The token is described as being built on elizaOS, focusing on alpha discovery and value delivery through dedicated va…
+  - 资金 100.00 / 广度 70.38 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- You Will Prosper Today | BSC | 加速中 | 强度 67.67 | 质量 61.66
+  - 主题摘要：A Binance Chinese social media post featuring a barking GM (Good Morning) dog GIF saying 'You will prosper today!!' in a loud tone, sparking meme potential around daily crypto mot…
+  - 资金 100.00 / 广度 81.06 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 分红BabyAsteroid协议 | BSC | 加速中 | 强度 67.46 | 质量 57.66
+- 分红BabyAsteroid协议 | BSC | 加速中 | 强度 66.12 | 质量 55.78
   - 主题摘要：According to SpaceAsteroid's post, the柴犬 known as SpaceAsteroid has been symbolically recognized by Elon Musk as the official mascot of SpaceX, representing a sentimental and cult…
-  - 资金 100.00 / 广度 72.17 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.13 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.96，其中已确认叙事 0 个。
-- Vellum Launches Personal AI with X Account 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged VIRUS Token Charity Initiative 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.39，其中已确认叙事 0 个。
+- Hantacoin 2013 GitHub Resurfaces 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- pokemon-evolve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Just a hantaguy | 质量 80.29 | 可交易性 100.00 | 风险 低
-- Alleged VIRUS Token Charity Initiative | 质量 79.24 | 可交易性 100.00 | 风险 低
-- Vellum Launches Personal AI with X Account | 质量 77.62 | 可交易性 100.00 | 风险 低
-- pepemask | 质量 74.95 | 可交易性 100.00 | 风险 低
-- Traderclaw | 质量 72.32 | 可交易性 100.00 | 风险 低
-- Japan Financial Supercycle Meme Token | 质量 69.60 | 可交易性 94.01 | 风险 低
-- Beffjezos Yes Response | 质量 67.89 | 可交易性 89.58 | 风险 低
-- Cat Meme Image Shared | 质量 67.51 | 可交易性 83.98 | 风险 低
-- Flap回应Bybit推文 | 质量 66.94 | 可交易性 81.09 | 风险 低
-- DYOR | 质量 65.55 | 可交易性 72.76 | 风险 低
+- Hantacoin 2013 GitHub Resurfaces | 质量 79.41 | 可交易性 99.17 | 风险 低
+- HANTARO Meme Image Reference | 质量 76.86 | 可交易性 93.44 | 风险 低
+- PUMP CANT LAUNCH | 质量 72.83 | 可交易性 84.02 | 风险 低
+- Vellum Launches Personal AI with X Account | 质量 70.48 | 可交易性 80.55 | 风险 低
+- Beffjezos Yes Response | 质量 68.30 | 可交易性 89.22 | 风险 低
+- Flap回应Bybit推文 | 质量 67.55 | 可交易性 80.97 | 风险 低
+- SEC Introduces Term 'Regulars' for Frequent Market Participants | 质量 64.92 | 可交易性 97.76 | 风险 低
+- pokemon-evolve | 质量 64.16 | 可交易性 74.92 | 风险 低
+- Cat Influencer Promotes Solana Wallet | 质量 63.69 | 可交易性 100.00 | 风险 低
+- You Will Prosper Today | 质量 61.66 | 可交易性 74.92 | 风险 低
 
 ## 伪叙事风险
 
-- Traderclaw | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
+- Vellum Launches Personal AI with X Account | 风险 42.03 | 原因：流动性偏薄
+- Uncertain:elizaOK Launch on Binance Square | 风险 42.03 | 原因：流动性偏薄
+- Make BNB Great Again | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,7 +107,7 @@
 - MOODANG | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Goblin | Solana | 看多 | 新鲜度 98.23 | 暂无直接叙事映射
 - bPEG | BSC | 看多 | 新鲜度 95.82 | 暂无直接叙事映射
-- Wish | Solana | 看多 | 新鲜度 81.56 | 暂无直接叙事映射
+- HENTAI | Solana | 看多 | 新鲜度 87.97 | 暂无直接叙事映射
 - CHADLON | Solana | 看多 | 新鲜度 74.98 | 暂无直接叙事映射
 - PETS | Solana | 看多 | 新鲜度 74.70 | 暂无直接叙事映射
 
@@ -133,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Just a hantaguy（Solana，分数 88.71）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Alleged VIRUS Token Charity Initiative 当前为“新出现”
+1. 当前最强叙事：Hantacoin 2013 GitHub Resurfaces（Solana，分数 83.51）
+2. 共振最强代币：BUTTCOIN（Solana，共振 100.0）
+3. 记忆层变化：Hantacoin 2013 GitHub Resurfaces 当前为“新出现”
 4. 最新官方催化：Binance Wallet Launches Prediction Markets Trial Protection Campaign
 #Binance #NarrativeOS #OpenClaw
