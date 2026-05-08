@@ -1,101 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-08T19:42:37.775484+00:00
+- 生成时间：2026-05-08T20:38:24.254193+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 SpreadCoin Meme Image Launch，所在链为 Solana，叙事强度 79.46。
-- 当前平均叙事强度为 76.86，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 USDUC，来自 Solana，共振分数 100.0。
-- 记忆层显示 SpreadCoin Meme Image Launch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 UFO Files Released，伪叙事风险 47.23。
+- 当前最强叙事是 Homunculus Meme Image Gains Traction，所在链为 Solana，叙事强度 83.57。
+- 当前平均叙事强度为 80.94，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BILL，来自 BSC，共振分数 100.0。
+- 记忆层显示 Homunculus Meme Image Gains Traction 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 UFO and Meme Coin Speculation，伪叙事风险 53.87。
 - 最新官方催化来自 最新活动：GALA Trading Tournament: Trade to Share Up to 150,000 USDC Token Vouchers。
 
 ## 叙事雷达
 
-- SpreadCoin Meme Image Launch | Solana | 降温中 | 强度 79.46 | 质量 72.16
-  - 主题摘要：According to happylover212's post, SpreadCoin is introduced as a Meme图 that aims to mimic the viral spread of viruses, with the stated goal of 'infecting the timeline'.
-  - 资金 100.00 / 广度 83.80 / 确认 16.56 / 脆弱性 14.00
+- Homunculus Meme Image Gains Traction | Solana | 降温中 | 强度 83.57 | 质量 78.31
+  - 主题摘要：According to slendermen3000's post, a Meme image featuring a hairless guinea pig, referred to as 'Homunculus' in online communities, has gained over 1.3 million views in 10 hours…
+  - 资金 100.00 / 广度 88.89 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DEAD CAT BOUNCE | Solana | 降温中 | 强度 79.32 | 质量 66.68
-  - 主题摘要：Multiple tokens named 「DCB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.37 / 确认 16.56 / 脆弱性 14.00
+- Elien Musk Meme Image Shared | Solana | 加速中 | 强度 83.35 | 质量 79.97
+  - 主题摘要：According to Tesla Owners Silicon Valley's post, an image from the UFO files resembling Elon Musk was shared, prompting humorous comparisons to him, with the term 'Elien Musk' use…
+  - 资金 82.86 / 广度 91.78 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Alien X-ray Shared | Solana | 降温中 | 强度 81.38 | 质量 75.94
+  - 主题摘要：According to Sir Doge of the Coin ⚔️'s post, an X-ray of an alleged alien with a fractured knee was shared, reportedly recovered from a crashed craft as part of UFO Files released…
+  - 资金 88.42 / 广度 84.31 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- UFO Files Released | Solana | 点火期 | 强度 78.84 | 质量 78.94
+- UFO and Meme Coin Speculation | Solana | 降温中 | 强度 81.04 | 质量 78.73
+  - 主题摘要：According to Department of War 🇺🇸's post, speculation is growing around alleged connections between UFO phenomena and newly emerging meme tokens. The post implies a narrative link…
+  - 资金 77.20 / 广度 90.30 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Meme Image Reference to UFO Document | Solana | 降温中 | 强度 79.62 | 质量 73.28
+  - 主题摘要：According to thedev's post, a meme-themed token launch inspired by 'SpaceshipsMonsterMartiansMayhem' is being circulated, referencing a public document as source material. The cla…
+  - 资金 87.88 / 广度 80.93 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- UFO Files Released and Meme Coin Connection | Solana | 降温中 | 强度 79.59 | 质量 72.58
   - 主题摘要：Multiple tokens named 「UFO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 99.69 / 广度 99.07 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Psyop Marketing via Meme Coin Strategy | Solana | 降温中 | 强度 77.14 | 质量 68.01
-  - 主题摘要：According to john's post, the developer described a strategy involving psychological operations to promote a meme coin inspired by the 'handavirus' theme. The approach emphasizes…
-  - 资金 100.00 / 广度 84.63 / 确认 16.56 / 脆弱性 14.00
+  - 资金 90.25 / 广度 78.76 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Interview Highlights | BSC | 加速中 | 强度 76.51 | 质量 71.69
+- UFO Files and Meme Image | Solana | 降温中 | 强度 79.51 | 质量 72.74
+  - 主题摘要：Multiple tokens named 「UFO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 89.28 / 广度 79.17 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- UFO Files Released by The White House | Solana | 降温中 | 强度 79.45 | 质量 72.58
+  - 主题摘要：Multiple tokens named 「UFO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 89.67 / 广度 78.73 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Interview Highlights | BSC | 加速中 | 强度 76.91 | 质量 71.80
   - 主题摘要：CZ在推特上回应加密媒体人Ran Neuner时，称这是他们迄今为止最好的一次对话，引发社区对访谈内容的好奇与热议。
-  - 资金 100.00 / 广度 81.22 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.30 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Virus Coin Marketing Bot Launch | Solana | 加速中 | 强度 75.89 | 质量 65.08
-  - 主题摘要：According to crispy's post, a bot has been developed to automatically distribute 1,000 $VIRUS tokens to active wallets on chain, tracking up to 50,000 wallets per minute, with the…
-  - 资金 100.00 / 广度 82.50 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- UFO Disclosure and CUFOS Role | Solana | 加速中 | 强度 74.99 | 质量 72.19
-  - 主题摘要：According to the post, an individual claims to have discovered the $UFO token before the Pump.fun platform was launched, highlighting its early growth and onchain deployment. The…
-  - 资金 100.00 / 广度 89.27 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- UAP Coin | Solana | 加速中 | 强度 74.97 | 质量 62.45
-  - 主题摘要：SETI token draws inspiration from the SETI Institute's mission to explore extraterrestrial life. The logo features a classic flying saucer, reflecting the token's name UAP Coin (U…
-  - 资金 100.00 / 广度 81.11 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Tek-Related Meme Coin Development | Solana | 降温中 | 强度 74.27 | 质量 63.65
-  - 主题摘要：Multiple tokens named 「VIRUS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.37 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 宝贝世界杯 | BSC | 加速中 | 强度 72.95 | 质量 62.67
+- 宝贝世界杯 | BSC | 加速中 | 强度 72.39 | 质量 62.60
   - 主题摘要：Multiple tokens named 「宝贝世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.83 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.86 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:elizaOK Launch on Binance Square | BSC | 加速中 | 强度 72.09 | 质量 63.30
-  - 主题摘要：According to the post, elizaOK is now available on Binance Square. The token is described as being part of elizaOS, offering automated alpha discovery and value delivery through d…
-  - 资金 100.00 / 广度 75.31 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SATOKEY | BSC | 加速中 | 强度 71.56 | 质量 61.65
+- SATOKEY | BSC | 加速中 | 强度 70.80 | 质量 61.53
   - 主题摘要：SATOKEY is a meme token inspired by the iconic Satoshi Nakamoto, the creator of Bitcoin. It aims to blend humor with blockchain technology, creating a community-driven project tha…
-  - 资金 100.00 / 广度 75.86 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.91 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Make BNB Great Again | BSC | 降温中 | 强度 69.99 | 质量 53.73
+- Make BNB Great Again | BSC | 降温中 | 强度 70.58 | 质量 54.65
   - 主题摘要：Multiple tokens named 「MBGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.32 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.28 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Community | BSC | 加速中 | 强度 68.91 | 质量 59.10
+- Community | BSC | 加速中 | 强度 70.10 | 质量 59.08
   - 主题摘要：Community token represents a decentralized ecosystem focused on fostering global collaboration. The logo features a rising arrow symbolizing upward momentum and growth, while the…
-  - 资金 100.00 / 广度 68.12 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 68.04 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:elizaOK Launch on Binance Square | BSC | 加速中 | 强度 69.99 | 质量 58.55
+  - 主题摘要：According to the post, elizaOK is now available on Binance Square. The token is described as an AI-based digital companion and is associated with Eliza AI and meme culture.
+  - 资金 100.00 / 广度 74.32 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.86，其中已确认叙事 0 个。
-- Virus Coin Marketing Bot Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- SpreadCoin Meme Image Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.94，其中已确认叙事 0 个。
+- Elien Musk Meme Image Shared 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Homunculus Meme Image Gains Traction 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- UFO Files Released | 质量 78.94 | 可交易性 91.92 | 风险 低
-- UFO Disclosure and CUFOS Role | 质量 72.19 | 可交易性 73.95 | 风险 低
-- SpreadCoin Meme Image Launch | 质量 72.16 | 可交易性 84.59 | 风险 低
-- CZ Interview Highlights | 质量 71.69 | 可交易性 79.81 | 风险 低
-- Psyop Marketing via Meme Coin Strategy | 质量 68.01 | 可交易性 69.91 | 风险 低
-- DEAD CAT BOUNCE | 质量 66.68 | 可交易性 68.74 | 风险 低
-- Virus Coin Marketing Bot Launch | 质量 65.08 | 可交易性 59.65 | 风险 低
-- Tek-Related Meme Coin Development | 质量 63.65 | 可交易性 59.64 | 风险 低
-- Uncertain:elizaOK Launch on Binance Square | 质量 63.30 | 可交易性 57.74 | 风险 低
-- 宝贝世界杯 | 质量 62.67 | 可交易性 50.49 | 风险 低
+- Elien Musk Meme Image Shared | 质量 79.97 | 可交易性 100.00 | 风险 低
+- UFO and Meme Coin Speculation | 质量 78.73 | 可交易性 100.00 | 风险 低
+- Homunculus Meme Image Gains Traction | 质量 78.31 | 可交易性 100.00 | 风险 低
+- Alleged Alien X-ray Shared | 质量 75.94 | 可交易性 99.31 | 风险 低
+- Meme Image Reference to UFO Document | 质量 73.28 | 可交易性 93.84 | 风险 低
+- UFO Files and Meme Image | 质量 72.74 | 可交易性 93.80 | 风险 低
+- UFO Files Released and Meme Coin Connection | 质量 72.58 | 可交易性 93.68 | 风险 低
+- UFO Files Released by The White House | 质量 72.58 | 可交易性 93.70 | 风险 低
+- CZ Interview Highlights | 质量 71.80 | 可交易性 80.09 | 风险 低
+- 宝贝世界杯 | 质量 62.60 | 可交易性 50.21 | 风险 低
 
 ## 伪叙事风险
 
-- UFO Files Released | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Make BNB Great Again | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- UFO and Meme Coin Speculation | 风险 53.87 | 原因：流动性偏薄、近 1 小时净流入转负、热度领先于资金
+- Elien Musk Meme Image Shared | 风险 46.87 | 原因：流动性偏薄、近 1 小时净流入转负、热度领先于资金
+- Meme Image Reference to UFO Document | 风险 45.43 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Alien X-ray Shared | 风险 45.19 | 原因：流动性偏薄、近 1 小时净流入转负
+- UFO Files and Meme Image | 风险 43.74 | 原因：流动性偏薄、近 1 小时净流入转负
+- UFO Files Released by The White House | 风险 43.18 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,10 +109,10 @@
 - HENTAI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MOGMAN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bPEG | BSC | 看多 | 新鲜度 95.82 | 暂无直接叙事映射
+- HANTA | Solana | 看多 | 新鲜度 84.26 | 暂无直接叙事映射
 - Aliens | Solana | 看多 | 新鲜度 82.49 | 暂无直接叙事映射
 - 小马 | BSC | 看多 | 新鲜度 82.46 | 暂无直接叙事映射
-- CHADLON | Solana | 看多 | 新鲜度 74.98 | 暂无直接叙事映射
-- HANTA | Solana | 看多 | 新鲜度 73.06 | 暂无直接叙事映射
+- 冲鸭 | BSC | 看多 | 新鲜度 70.46 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：SpreadCoin Meme Image Launch（Solana，分数 79.46）
-2. 共振最强代币：USDUC（Solana，共振 100.0）
-3. 记忆层变化：SpreadCoin Meme Image Launch 当前为“新出现”
+1. 当前最强叙事：Homunculus Meme Image Gains Traction（Solana，分数 83.57）
+2. 共振最强代币：BILL（BSC，共振 100.0）
+3. 记忆层变化：Homunculus Meme Image Gains Traction 当前为“新出现”
 4. 最新官方催化：GALA Trading Tournament: Trade to Share Up to 150,000 USDC Token Vouchers
 #Binance #NarrativeOS #OpenClaw
