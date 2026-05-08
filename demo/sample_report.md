@@ -1,116 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-08T09:04:35.146954+00:00
+- 生成时间：2026-05-08T10:46:44.824422+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Proposal for a Harambe Meme Coin，所在链为 Solana，叙事强度 82.07。
-- 当前平均叙事强度为 75.22，其中已确认叙事 1 个。
+- 当前最强叙事是 Chef Bill，所在链为 Solana，叙事强度 82.24。
+- 当前平均叙事强度为 79.46，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 BILL，来自 BSC，共振分数 100.0。
-- 记忆层显示 Adelf Hitlur 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Reid Hoffman on Crypto and AI Identity，伪叙事风险 47.79。
+- 记忆层显示 Chef Bill 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：GALA Trading Tournament: Trade to Share Up to 150,000 USDC Token Vouchers。
 
 ## 叙事雷达
 
-- Proposal for a Harambe Meme Coin | Solana | 已确认 | 强度 82.07 | 质量 76.08
-  - 主题摘要：According to fibs's post, a proposed Meme coin named 'Dicks Out For Harambe' would distribute fees equally to liquidity and a zoo or cancer research. The idea references Harambe,…
-  - 资金 100.00 / 广度 87.41 / 确认 28.08 / 脆弱性 14.00
+- Chef Bill | Solana | 加速中 | 强度 82.24 | 质量 76.81
+  - 主题摘要：According to Not Jerome Powell's post, a Meme image featuring 'Chef Bill' referencing pandemic concerns was shared, aligning with crypto meme culture.
+  - 资金 100.00 / 广度 81.24 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Hantavirus Pandemic Meme Discussion | Solana | 加速中 | 强度 81.19 | 质量 69.66
+  - 主题摘要：According to alon's post, the emergence of Hantavirus is being considered as a potential pandemic threat comparable to COVID, prompting speculation on financial opportunities with…
+  - 资金 100.00 / 广度 83.38 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Pocket Vault | Solana | 加速中 | 强度 80.53 | 质量 75.85
+  - 主题摘要：POCKET is a Pokémon-themed token inspired by the trading game concept. The logo features a blue Poké Ball with a red 'P' and 'V', representing the 'Pocket Vault' where players can…
+  - 资金 100.00 / 广度 75.41 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Troll Tokabu Tung Sahur | Solana | 降温中 | 强度 79.00 | 质量 71.27
+  - 主题摘要：TROLLKAHUR combines internet troll culture with Tokabu, a popular meme token. The logo features a blue, cartoonish character with a wide grin against a bright yellow background, e…
+  - 资金 100.00 / 广度 74.41 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Discussion on Economic Relief Programs | Solana | 加速中 | 强度 78.56 | 质量 66.65
+  - 主题摘要：According to the post, the user shared a Meme图 referencing the Hantavirus to humorously indicate they are safe from the virus. The post does not contain substantive information ab…
+  - 资金 100.00 / 广度 81.37 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Proposal for a Harambe Meme Coin | Solana | 已确认 | 强度 78.08 | 质量 74.20
+  - 主题摘要：Multiple tokens named 「Harambe」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.37 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Adelf Hitlur | Solana | 降温中 | 强度 79.98 | 质量 71.43
-  - 主题摘要：Multiple tokens named 「Hitlur」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.24 / 确认 9.36 / 脆弱性 14.00
+- DEAD CAT BOUNCE | Solana | 降温中 | 强度 78.04 | 质量 64.87
+  - 主题摘要：Multiple tokens named 「DCB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.53 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GIGARAT | Solana | 降温中 | 强度 78.95 | 质量 66.95
-  - 主题摘要：GIGARAT is a meme token inspired by the concept of a super-sized rat, as depicted in its logo. The token embraces internet humor and community-driven culture, with no specific uti…
-  - 资金 100.00 / 广度 85.14 / 确认 9.36 / 脆弱性 14.00
+- Inter-Dimensional Being Meme Gains Traction | Solana | 加速中 | 强度 78.04 | 质量 69.99
+  - 主题摘要：According to ִֶָ's post, the term 'inter-dimensional being'—used in place of 'alien'—is highlighted as a pre-existing, widely recognized meme. The post references a viral image an…
+  - 资金 100.00 / 广度 82.37 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Make BNB Great Again | BSC | 降温中 | 强度 73.08 | 质量 57.38
+  - 主题摘要：Multiple tokens named 「MBGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.36 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Inter-Dimensional Being Meme Gains Traction | Solana | 加速中 | 强度 78.25 | 质量 69.95
-  - 主题摘要：According to ִֶָ's post, the term 'Inter-Dimensional Being' is being used in reference to aliens, drawing attention as a well-known and already viral meme. The post highlights a q…
-  - 资金 100.00 / 广度 82.04 / 确认 24.48 / 脆弱性 14.00
+- Uncertain:elizaOK Launch on Binance Square | BSC | 加速中 | 强度 72.66 | 质量 63.63
+  - 主题摘要：According to the post, elizaOK is now available on Binance Square. The token is described as being built on elizaOS, focusing on alpha discovery, position building, and value deli…
+  - 资金 100.00 / 广度 76.01 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:elizaOK Launch on Binance Square | BSC | 加速中 | 强度 75.65 | 质量 63.85
-  - 主题摘要：According to the post, elizaOK is now live on Binance Square. The token is associated with AI and digital companion concepts, and is built on elizaOS to automate alpha discovery a…
-  - 资金 100.00 / 广度 75.87 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hantavirus Token Launch Call | BSC | 加速中 | 强度 75.00 | 质量 62.38
+- Hantavirus Token Launch Call | BSC | 加速中 | 强度 72.32 | 质量 61.16
   - 主题摘要：According to just a little dev's post, the Andes Hantavirus outbreak on the MV Hondius cruise ship has raised concerns. The post suggests tokenizing the virus on BSC to raise awar…
-  - 资金 100.00 / 广度 75.26 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.69 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yield Farming with Binance Earn | BSC | 加速中 | 强度 72.66 | 质量 66.64
-  - 主题摘要：Multiple tokens named 「农夫」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.84 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hantard | Solana | 降温中 | 强度 71.36 | 质量 56.08
-  - 主题摘要：RENTA (Hantard) is a meme token inspired by internet culture, featuring a cartoon otter with a green virus-like head and blue tears. The token embraces humor and community engagem…
-  - 资金 100.00 / 广度 69.37 / 确认 9.36 / 脆弱性 24.00
+- SuperHook Verification Rules and Token Claiming | BSC | 降温中 | 强度 71.28 | 质量 59.37
+  - 主题摘要：According to SuperHook's post, users can complete verification by holding one UPEG NFT, 1,000 Sat0 tokens, or one Slonks NFT, and claim the SuperHook project token up to three tim…
+  - 资金 100.00 / 广度 50.08 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Harambe Meme Coin Launch | Solana | 降温中 | 强度 70.83 | 质量 60.64
-  - 主题摘要：According to the post, a new Meme coin named $HARAMBE has been launched with a supply control mechanism, doxxed developer, and a promise to allocate 50% of transaction fees to gor…
-  - 资金 100.00 / 广度 48.59 / 确认 4.32 / 脆弱性 23.19
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ShinyHunters Ransom Threat | Solana | 加速中 | 强度 70.56 | 质量 61.70
-  - 主题摘要：According to Tobias Jochike's post, a hacker group known as ShinyHunters has allegedly hacked 9000 schools during finals week and is threatening to leak data unless ransom is paid…
-  - 资金 100.00 / 广度 78.16 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Community | BSC | 加速中 | 强度 69.95 | 质量 59.15
+- Community | BSC | 加速中 | 强度 70.14 | 质量 59.10
   - 主题摘要：Community token represents a decentralized ecosystem focused on fostering global collaboration. The logo features a rising arrow symbolizing upward momentum and growth, while the…
-  - 资金 100.00 / 广度 67.83 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 68.07 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Reid Hoffman on Crypto and AI Identity | Solana | 点火期 | 强度 69.79 | 质量 58.29
-  - 主题摘要：Reid Hoffman, co-founder of LinkedIn, asserts that cryptocurrency is a natural solution for managing digital identity in the AI era, as reported by Cointelegraph.
-  - 资金 100.00 / 广度 74.91 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 星火天启🔥🔥🔥 | BSC | 降温中 | 强度 67.07 | 质量 52.29
-  - 主题摘要：Multiple tokens named 「星火天启🔥🔥🔥」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.85 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 分红BabyAsteroid协议 | BSC | 点火期 | 强度 66.52 | 质量 55.44
-  - 主题摘要：According to SpaceAsteroid's post, the柴犬 known as SpaceAsteroid has been symbolically recognized by Elon Musk as the official mascot of SpaceX, representing a sentimental and cult…
-  - 资金 100.00 / 广度 70.81 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Binance App Customization Upgrade | BSC | 加速中 | 强度 68.56 | 质量 59.78
+  - 主题摘要：According to 丫丫🔶BNB's post, the Binance App has been upgraded to allow users to customize the bottom navigation bar, enabling a personalized exchange interface. This update aims t…
+  - 资金 100.00 / 广度 73.90 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.22，其中已确认叙事 1 个。
-- Hantavirus Token Launch Call 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Adelf Hitlur 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.46，其中已确认叙事 1 个。
+- Chef Bill 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Troll Tokabu Tung Sahur 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Proposal for a Harambe Meme Coin | 质量 76.08 | 可交易性 85.59 | 风险 低
-- Adelf Hitlur | 质量 71.43 | 可交易性 100.00 | 风险 低
-- Inter-Dimensional Being Meme Gains Traction | 质量 69.95 | 可交易性 73.19 | 风险 低
-- GIGARAT | 质量 66.95 | 可交易性 71.15 | 风险 低
-- Uncertain:Yield Farming with Binance Earn | 质量 66.64 | 可交易性 85.45 | 风险 低
-- Uncertain:elizaOK Launch on Binance Square | 质量 63.85 | 可交易性 59.02 | 风险 低
-- Hantavirus Token Launch Call | 质量 62.38 | 可交易性 54.71 | 风险 低
-- ShinyHunters Ransom Threat | 质量 61.70 | 可交易性 52.73 | 风险 低
-- Harambe Meme Coin Launch | 质量 60.64 | 可交易性 90.39 | 风险 低
-- Community | 质量 59.15 | 可交易性 51.91 | 风险 低
+- Chef Bill | 质量 76.81 | 可交易性 100.00 | 风险 低
+- Pocket Vault | 质量 75.85 | 可交易性 100.00 | 风险 低
+- Proposal for a Harambe Meme Coin | 质量 74.20 | 可交易性 79.36 | 风险 低
+- Troll Tokabu Tung Sahur | 质量 71.27 | 可交易性 100.00 | 风险 低
+- Inter-Dimensional Being Meme Gains Traction | 质量 69.99 | 可交易性 72.97 | 风险 低
+- Hantavirus Pandemic Meme Discussion | 质量 69.66 | 可交易性 74.05 | 风险 低
+- Discussion on Economic Relief Programs | 质量 66.65 | 可交易性 66.00 | 风险 低
+- DEAD CAT BOUNCE | 质量 64.87 | 可交易性 71.84 | 风险 低
+- Uncertain:elizaOK Launch on Binance Square | 质量 63.63 | 可交易性 58.14 | 风险 低
+- Hantavirus Token Launch Call | 质量 61.16 | 可交易性 54.46 | 风险 低
 
 ## 伪叙事风险
 
-- Reid Hoffman on Crypto and AI Identity | 风险 47.79 | 原因：流动性偏薄
-- Harambe Meme Coin Launch | 风险 44.60 | 原因：流动性偏薄、龙头筹码集中度偏高
-- 分红BabyAsteroid协议 | 风险 42.03 | 原因：流动性偏薄
-- Hantard | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- 冲鸭 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEME SZN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 共建 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HENTAI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MOGMAN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bPEG | BSC | 看多 | 新鲜度 95.82 | 暂无直接叙事映射
+- HANTA | Solana | 看多 | 新鲜度 87.40 | 暂无直接叙事映射
 - 小马 | BSC | 看多 | 新鲜度 81.59 | 暂无直接叙事映射
-- HANTA | Solana | 看多 | 新鲜度 77.25 | 暂无直接叙事映射
 - CHADLON | Solana | 看多 | 新鲜度 74.98 | 暂无直接叙事映射
 - PETS | Solana | 看多 | 新鲜度 74.70 | 暂无直接叙事映射
+- 冲鸭 | BSC | 看多 | 新鲜度 70.46 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Proposal for a Harambe Meme Coin（Solana，分数 82.07）
+1. 当前最强叙事：Chef Bill（Solana，分数 82.24）
 2. 共振最强代币：BILL（BSC，共振 100.0）
-3. 记忆层变化：Adelf Hitlur 当前为“新出现”
+3. 记忆层变化：Chef Bill 当前为“新出现”
 4. 最新官方催化：GALA Trading Tournament: Trade to Share Up to 150,000 USDC Token Vouchers
 #Binance #NarrativeOS #OpenClaw
