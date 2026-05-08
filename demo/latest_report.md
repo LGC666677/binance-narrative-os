@@ -1,103 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-08T06:13:31.916942+00:00
+- 生成时间：2026-05-08T07:56:41.717303+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 PUMP CANT LAUNCH，所在链为 Solana，叙事强度 79.33。
-- 当前平均叙事强度为 74.96，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 PENGU，来自 Solana，共振分数 100.0。
-- 记忆层显示 PUMP CANT LAUNCH 当前处于“新出现”状态。
+- 当前最强叙事是 Proposal for a Harambe Meme Coin，所在链为 Solana，叙事强度 84.39。
+- 当前平均叙事强度为 75.2，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 MEGA，来自 Solana，共振分数 100.0。
+- 记忆层显示 Proposal for a Harambe Meme Coin 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Vellum Launches Personal AI with X Account，伪叙事风险 47.79。
 - 最新官方催化来自 币安最新公告：Binance Copy Trading Will Apply New ROI Method to All Spot Lead Portfolios。
 
 ## 叙事雷达
 
-- PUMP CANT LAUNCH | Solana | 加速中 | 强度 79.33 | 质量 77.18
-  - 主题摘要：According to taxxin's post, the launch of a token or event associated with 'PUMP' has been declared unfeasible or canceled.
-  - 资金 100.00 / 广度 88.83 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hantavirus Outbreak on Cruise Ship | Solana | 加速中 | 强度 76.48 | 质量 65.97
-  - 主题摘要：According to Fox News's post, nearly 40 passengers who were potentially exposed to hantavirus on the MV Hondius may have dispersed globally before contact tracing could be complet…
-  - 资金 100.00 / 广度 81.59 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Antlion | Solana | 降温中 | 强度 76.24 | 质量 70.12
-  - 主题摘要：Antlion token draws inspiration from the antlion larva, featuring a cartoon antlion with NFT, G, NFT, and LP symbols on its back. The logo depicts a smiling antlion with a chain,…
-  - 资金 100.00 / 广度 70.58 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Inter-Dimensional Being Meme Gains Traction | Solana | 加速中 | 强度 76.01 | 质量 67.62
-  - 主题摘要：According to ִֶָ's post, the term 'Inter-Dimensional Being' is being used in place of 'alien' in a viral Meme image, which has gained attention due to its prior popularity and ass…
-  - 资金 100.00 / 广度 80.65 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GIGARAT | Solana | 降温中 | 强度 75.79 | 质量 66.57
+- Proposal for a Harambe Meme Coin | Solana | 已确认 | 强度 84.39 | 质量 77.96
+  - 主题摘要：According to fibs's post, a proposed Meme coin named 'Dicks Out For Harambe' would distribute fees equally to liquidity and a zoo or cancer research. The idea references Harambe,…
+  - 资金 100.00 / 广度 85.23 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- GIGARAT | Solana | 降温中 | 强度 78.62 | 质量 66.95
   - 主题摘要：GIGARAT is a meme token inspired by the concept of a super-sized rat, as depicted in its logo. The token embraces internet humor and community-driven culture, with no specific uti…
-  - 资金 100.00 / 广度 84.44 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.97 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:elizaOK Launch on Binance Square | BSC | 加速中 | 强度 72.91 | 质量 63.37
+- Uncertain:Cathie Wood Publicly Apologizes for 1011 Incident | BSC | 加速中 | 强度 77.62 | 质量 66.38
+  - 主题摘要：According to Annie 所长's post, the ARK Invest CEO publicly apologized for previously blaming Binance for the 1011 market crash. She clarified that the crash resulted from a combina…
+  - 资金 100.00 / 广度 68.12 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Inter-Dimensional Being Meme Gains Traction | Solana | 加速中 | 强度 76.42 | 质量 69.57
+  - 主题摘要：According to ִֶָ's post, the term 'Inter-Dimensional Being' is being used in reference to aliens, drawing attention as a well-known and already viral meme. The post highlights a q…
+  - 资金 100.00 / 广度 81.73 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:elizaOK Launch on Binance Square | BSC | 加速中 | 强度 74.27 | 质量 63.54
   - 主题摘要：According to the post, elizaOK is now live on Binance Square. The token is associated with AI and digital companion concepts, and is built on elizaOS to automate alpha discovery a…
-  - 资金 100.00 / 广度 75.44 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.73 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Tinfoil Hat Cult Meme图 Engagement | Solana | 点火期 | 强度 72.07 | 质量 65.45
-  - 主题摘要：According to Nini's post, they expressed satisfaction with joining the Tinfoil Hat Cult theme and referenced the $Tinfoil token. The post included a quoted tweet mocking AI percep…
-  - 资金 100.00 / 广度 56.43 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Hantard | Solana | 降温中 | 强度 71.95 | 质量 56.95
+- Hantavirus Outbreak on Cruise Ship | Solana | 加速中 | 强度 73.45 | 质量 65.66
+  - 主题摘要：According to Fox News's post, nearly 40 passengers who were potentially exposed to hantavirus on the MV Hondius may have dispersed globally before contact tracing could be complet…
+  - 资金 100.00 / 广度 81.93 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Attention and Belief Drive Crypto Returns | Solana | 加速中 | 强度 72.81 | 质量 67.95
+  - 主题摘要：According to alon's post, attention and belief drive faster and more significant price movements than actual outcomes. This is exemplified by the rapid growth of a coin linked to…
+  - 资金 100.00 / 广度 87.02 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Hantard | Solana | 降温中 | 强度 72.67 | 质量 56.25
   - 主题摘要：RENTA (Hantard) is a meme token inspired by internet culture, featuring a cartoon otter with a green virus-like head and blue tears. The token embraces humor and community engagem…
-  - 资金 100.00 / 广度 69.46 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 69.41 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Vellum Launches Personal AI with X Account | Solana | 点火期 | 强度 71.83 | 质量 66.06
+- Vellum Launches Personal AI with X Account | Solana | 点火期 | 强度 72.50 | 质量 66.44
   - 主题摘要：According to alphanigga's post, Vellum introduces a personal AI assistant named @ash_vellum that operates on X, drawing comparisons to Grok. The project has reportedly raised $25M…
-  - 资金 100.00 / 广度 82.67 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.68 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Inter-Dimensional Being Meme Gains Traction | BSC | 降温中 | 强度 69.95 | 质量 59.73
-  - 主题摘要：According to ִֶָ's post, a meme referring to aliens as 'Inter-Dimensional Beings' is gaining renewed attention due to its prior virality and association with a recent U.S. Congres…
-  - 资金 100.00 / 广度 69.39 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Community | BSC | 加速中 | 强度 68.80 | 质量 59.55
+- Conviction and Belief in Crypto Development | Solana | 加速中 | 强度 70.75 | 质量 61.94
+  - 主题摘要：According to cooldev's post, a token named 'conviction' was launched with a 25% supply burn and ongoing market support funded personally by the developer. cooldev emphasizes belie…
+  - 资金 100.00 / 广度 81.01 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Community | BSC | 加速中 | 强度 68.61 | 质量 59.10
   - 主题摘要：Community token represents a decentralized ecosystem focused on fostering global collaboration. The logo features a rising arrow symbolizing upward momentum and growth, while the…
-  - 资金 100.00 / 广度 67.96 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 67.70 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Launches DreamBinance | BSC | 加速中 | 强度 66.46 | 质量 60.39
-  - 主题摘要：According to caodanM's post, Binance has launched a new token called 'Dream Binance' (Dinance), which appears to be a conceptual or aspirational initiative aligned with Binance's…
-  - 资金 100.00 / 广度 78.12 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- C罗 | BSC | 降温中 | 强度 66.34 | 质量 48.14
-  - 主题摘要：Multiple tokens named 「C罗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 59.25 / 确认 9.36 / 脆弱性 14.00
+- Uncertain:Binance VIP Custom Merchandise | BSC | 降温中 | 强度 67.30 | 质量 55.93
+  - 主题摘要：According to 施小鱼🔶BNB's post, a Binance-related individual has expressed interest in receiving custom merchandise from the platform, referencing an ongoing initiative to design exc…
+  - 资金 91.07 / 广度 61.31 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 分红BabyAsteroid协议 | BSC | 加速中 | 强度 66.31 | 质量 56.54
-  - 主题摘要：According to SpaceAsteroid's post, the柴犬 known as SpaceAsteroid has been symbolically recognized by Elon Musk as the official mascot of SpaceX, representing a sentimental and cult…
-  - 资金 100.00 / 广度 71.08 / 确认 20.16 / 脆弱性 24.00
+- Uncertain:Binance Launches DreamBinance | BSC | 加速中 | 强度 66.05 | 质量 61.59
+  - 主题摘要：According to caodanM's post, Binance has launched a new token called 'Dream Binance' (Dinance), which appears to be a conceptual or aspirational initiative aligned with Binance's…
+  - 资金 100.00 / 广度 78.12 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Musk’s Law Meme Image | BSC | 降温中 | 强度 65.84 | 质量 48.83
+  - 主题摘要：According to the post, an image related to 'Musk’s Law' was shared, likely referencing a satirical or ironic interpretation of statements or actions associated with Elon Musk. The…
+  - 资金 100.00 / 广度 52.94 / 确认 9.36 / 脆弱性 30.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 74.96，其中已确认叙事 0 个。
-- PUMP CANT LAUNCH 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Antlion 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.2，其中已确认叙事 1 个。
+- Proposal for a Harambe Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- GIGARAT 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- PUMP CANT LAUNCH | 质量 77.18 | 可交易性 93.65 | 风险 低
-- Antlion | 质量 70.12 | 可交易性 100.00 | 风险 低
-- Inter-Dimensional Being Meme Gains Traction | 质量 67.62 | 可交易性 66.79 | 风险 低
-- GIGARAT | 质量 66.57 | 可交易性 70.60 | 风险 低
-- Vellum Launches Personal AI with X Account | 质量 66.06 | 可交易性 71.45 | 风险 低
-- Hantavirus Outbreak on Cruise Ship | 质量 65.97 | 可交易性 60.36 | 风险 低
-- Tinfoil Hat Cult Meme图 Engagement | 质量 65.45 | 可交易性 93.12 | 风险 低
-- Uncertain:elizaOK Launch on Binance Square | 质量 63.37 | 可交易性 57.84 | 风险 低
-- Uncertain:Binance Launches DreamBinance | 质量 60.39 | 可交易性 85.16 | 风险 低
-- Inter-Dimensional Being Meme Gains Traction | 质量 59.73 | 可交易性 74.65 | 风险 低
+- Proposal for a Harambe Meme Coin | 质量 77.96 | 可交易性 91.40 | 风险 低
+- Inter-Dimensional Being Meme Gains Traction | 质量 69.57 | 可交易性 72.23 | 风险 低
+- Attention and Belief Drive Crypto Returns | 质量 67.95 | 可交易性 82.96 | 风险 低
+- GIGARAT | 质量 66.95 | 可交易性 71.33 | 风险 低
+- Vellum Launches Personal AI with X Account | 质量 66.44 | 可交易性 71.93 | 风险 低
+- Uncertain:Cathie Wood Publicly Apologizes for 1011 Incident | 质量 66.38 | 可交易性 78.35 | 风险 低
+- Hantavirus Outbreak on Cruise Ship | 质量 65.66 | 可交易性 59.00 | 风险 低
+- Uncertain:elizaOK Launch on Binance Square | 质量 63.54 | 可交易性 58.11 | 风险 低
+- Conviction and Belief in Crypto Development | 质量 61.94 | 可交易性 50.68 | 风险 低
+- Uncertain:Binance Launches DreamBinance | 质量 61.59 | 可交易性 84.90 | 风险 低
 
 ## 伪叙事风险
 
 - Vellum Launches Personal AI with X Account | 风险 47.79 | 原因：流动性偏薄
-- Tinfoil Hat Cult Meme图 Engagement | 风险 42.03 | 原因：流动性偏薄
-- GIGARAT | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Hantard | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Musk’s Law Meme Image | 风险 44.11 | 原因：流动性偏薄、审计风险高
 
 ## 信号台
 
@@ -136,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：PUMP CANT LAUNCH（Solana，分数 79.33）
-2. 共振最强代币：PENGU（Solana，共振 100.0）
-3. 记忆层变化：PUMP CANT LAUNCH 当前为“新出现”
+1. 当前最强叙事：Proposal for a Harambe Meme Coin（Solana，分数 84.39）
+2. 共振最强代币：MEGA（Solana，共振 100.0）
+3. 记忆层变化：Proposal for a Harambe Meme Coin 当前为“新出现”
 4. 最新官方催化：Binance Copy Trading Will Apply New ROI Method to All Spot Lead Portfolios
 #Binance #NarrativeOS #OpenClaw
