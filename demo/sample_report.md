@@ -1,105 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-09T12:38:51.917119+00:00
+- 生成时间：2026-05-09T14:02:35.003861+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：5
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 CZ Interview Highlights，所在链为 BSC，叙事强度 83.38。
-- 当前平均叙事强度为 71.22，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 HANTA，来自 Solana，共振分数 100.0。
-- 记忆层显示 AI Random Number Selection Anomaly 当前处于“新出现”状态。
+- 当前最强叙事是 CZ Interview Highlights，所在链为 BSC，叙事强度 84.51。
+- 当前平均叙事强度为 73.35，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 BILL，来自 BSC，共振分数 100.0。
+- 记忆层显示 世界杯吉祥物 当前处于“强化”状态。
 - 当前最需要防止误判的叙事是 Intergalactic Walmart Parking Lot Meme，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：GALA Trading Tournament: Trade to Share Up to 150,000 USDC Token Vouchers。
 
 ## 叙事雷达
 
-- CZ Interview Highlights | BSC | 已确认 | 强度 83.38 | 质量 82.55
+- CZ Interview Highlights | BSC | 已确认 | 强度 84.51 | 质量 82.52
   - 主题摘要：CZ在推特上回应加密媒体人Ran Neuner时，称这是他们迄今为止最好的一次对话，引发社区对访谈内容的好奇与热议。
-  - 资金 100.00 / 广度 94.56 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.49 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- AI Random Number Selection Anomaly | Solana | 降温中 | 强度 80.84 | 质量 73.55
-  - 主题摘要：According to the post, when asked to choose a random number between 1 and 100, LLMs like ChatGPT or Gemini consistently select 73, raising curiosity and speculation about training…
-  - 资金 100.00 / 广度 80.91 / 确认 16.56 / 脆弱性 14.00
+- Deployment of $RICH to Support Chooserich's Medical Expenses | Solana | 加速中 | 强度 81.00 | 质量 70.11
+  - 主题摘要：According to Echo's post, they plan to deploy the $RICH token and redirect fees to Chooserich, who was diagnosed with cancer, to assist with medical expenses. The initiative aims…
+  - 资金 100.00 / 广度 77.48 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 世界杯吉祥物 | BSC | 加速中 | 强度 79.67 | 质量 73.88
+  - 主题摘要：Multiple tokens named 「世界杯吉祥物」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.96 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Viral Pig Meme Video | Solana | 加速中 | 强度 78.36 | 质量 71.91
+  - 主题摘要：According to tica's post, Uriel Polanko's side-eye expression has become a viral Meme image on TikTok, drawing comparisons to Doge and accumulating over 46 million views across mu…
+  - 资金 100.00 / 广度 84.57 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- alien satoshi | Solana | 降温中 | 强度 78.03 | 质量 69.18
+  - 主题摘要：Aliensato (Alien Satoshi) draws inspiration from the concept of extraterrestrial intelligence intersecting with Bitcoin's creator. The token features a logo depicting a person wit…
+  - 资金 100.00 / 广度 63.74 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alien Identity Claim | Solana | 点火期 | 强度 78.97 | 质量 80.42
-  - 主题摘要：Multiple tokens named 「ALIEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 98.55 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Intergalactic Walmart Parking Lot Meme | Solana | 点火期 | 强度 78.74 | 质量 80.06
-  - 主题摘要：According to the post, several meme-themed tokens referencing 'Intergalactic Walmart' and related imagery have emerged, including INTERGALAC, IW, and WALMART. The names suggest a…
+- AI Random Number Selection Anomaly | Solana | 加速中 | 强度 76.70 | 质量 74.12
+  - 主题摘要：According to the post, when asked to choose a random number between 1 and 100, ChatGPT or Gemini consistently selects 73, raising curiosity and speculation about potential underly…
+  - 资金 100.00 / 广度 82.04 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Meme Image Source Explanation | Solana | 降温中 | 强度 76.41 | 质量 64.25
+  - 主题摘要：According to rod†'s post, the RICH token is inspired by a Meme image. The connection between the token and the Meme highlights a thematic rather than functional origin. Multiple t…
+  - 资金 100.00 / 广度 73.20 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- ALIEN BOY | Solana | 降温中 | 强度 75.65 | 质量 60.13
+  - 主题摘要：ALIEN BOY is a meme token inspired by the iconic 'Alien' franchise, featuring a purple alien character with a distinctive face and flowing cape. The token embraces the sci-fi them…
+  - 资金 100.00 / 广度 68.19 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Intergalactic Walmart Parking Lot Meme | Solana | 点火期 | 强度 74.29 | 质量 71.19
+  - 主题摘要：Multiple tokens named 「UFO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Viral Pig Meme Video | Solana | 加速中 | 强度 77.44 | 质量 72.05
-  - 主题摘要：According to tica's post, a viral TikTok pig meme has drawn comparisons to Doge, sparking significant online engagement. The connection to the Pogecoin token is implied through it…
-  - 资金 100.00 / 广度 84.37 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alielon | Solana | 点火期 | 强度 74.48 | 质量 73.23
-  - 主题摘要：Multiple tokens named 「ALIEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.18 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Elon Musk Shared a Meme Robot Image | Solana | 加速中 | 强度 73.41 | 质量 68.89
-  - 主题摘要：According to thedevrrrrrr's post, a meme image associated with Elon Musk and the Doomnoper robot has circulated on social media, prompting discussions around its origin and meanin…
-  - 资金 100.00 / 广度 84.20 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Make BNB Great Again | BSC | 降温中 | 强度 71.82 | 质量 55.68
-  - 主题摘要：Multiple tokens named 「MBGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.63 / 确认 9.36 / 脆弱性 24.00
+- Uncertain:CZ Jokes About Elon Musk Being an Alien | Solana | 降温中 | 强度 74.22 | 质量 63.80
+  - 主题摘要：CZ humorously suggested that Elon Musk might be an alien whose true origin is Mars, drawing attention to the $MARS token. This information is unverified and appears to be speculat…
+  - 资金 100.00 / 广度 53.39 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 世界杯吉祥物 | BSC | 加速中 | 强度 71.42 | 质量 58.86
-  - 主题摘要：Multiple tokens named 「世界杯吉祥物」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.44 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Kirill Dmitriev Shares Alien Meme图 on UFO Disclosure Day | Solana | 点火期 | 强度 70.52 | 质量 66.72
-  - 主题摘要：Multiple tokens named 「ALIEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.44 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Solana Summer | Solana | 点火期 | 强度 70.25 | 质量 65.95
-  - 主题摘要：The 'Solana Summer' refers to a surge in activity and hype within the Solana ecosystem, often linked to developer incentives, token airdrops, or onchain gaming events that attract…
-  - 资金 100.00 / 广度 89.82 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:elizaOK Launch on Binance Square | BSC | 加速中 | 强度 68.11 | 质量 56.37
+- PTCG: What Is It and How to Play? | BSC | 降温中 | 强度 72.70 | 质量 60.72
+  - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on BNB Smart Chain, covering Gen I–IX, with four-tier rarity classification stored permanently o…
+  - 资金 100.00 / 广度 70.68 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Make BNB Great Again | BSC | 降温中 | 强度 70.66 | 质量 54.43
+  - 主题摘要：Multiple tokens named 「MBGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.67 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:elizaOK Launch on Binance Square | BSC | 加速中 | 强度 66.83 | 质量 54.84
   - 主题摘要：According to the post, elizaOK is now available on Binance Square, indicating a new token launch or platform integration. The token is associated with AI and digital companion the…
-  - 资金 100.00 / 广度 70.22 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 70.12 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SATOKEY | BSC | 加速中 | 强度 66.39 | 质量 60.23
-  - 主题摘要：SATOKEY is a meme token inspired by the iconic Satoshi Nakamoto, the creator of Bitcoin. It aims to blend humor with blockchain technology, creating a community-driven project tha…
-  - 资金 100.00 / 广度 76.45 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Maxxed Aura | BSC | 点火期 | 强度 66.19 | 质量 60.07
+- Maxxed Aura | BSC | 点火期 | 强度 65.71 | 质量 59.47
   - 主题摘要：Binance推文提到的'aura maxxxxing'引发社区对'光环极致表现'的戏谑联想，结合其平台影响力，具备成为Meme话题的潜力。
-  - 资金 100.00 / 广度 85.19 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.96 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 71.22，其中已确认叙事 1 个。
-- 世界杯吉祥物 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- AI Random Number Selection Anomaly 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 73.35，其中已确认叙事 1 个。
+- Deployment of $RICH to Support Chooserich's Medical Expenses 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- alien satoshi 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ Interview Highlights | 质量 82.55 | 可交易性 100.00 | 风险 低
-- Alien Identity Claim | 质量 80.42 | 可交易性 100.00 | 风险 低
-- Intergalactic Walmart Parking Lot Meme | 质量 80.06 | 可交易性 100.00 | 风险 低
-- AI Random Number Selection Anomaly | 质量 73.55 | 可交易性 92.10 | 风险 低
-- Alielon | 质量 73.23 | 可交易性 83.06 | 风险 低
-- Viral Pig Meme Video | 质量 72.05 | 可交易性 77.85 | 风险 低
-- Elon Musk Shared a Meme Robot Image | 质量 68.89 | 可交易性 83.57 | 风险 低
-- Kirill Dmitriev Shares Alien Meme图 on UFO Disclosure Day | 质量 66.72 | 可交易性 67.11 | 风险 低
-- Solana Summer | 质量 65.95 | 可交易性 63.16 | 风险 低
-- SATOKEY | 质量 60.23 | 可交易性 46.35 | 风险 低
+- CZ Interview Highlights | 质量 82.52 | 可交易性 100.00 | 风险 低
+- AI Random Number Selection Anomaly | 质量 74.12 | 可交易性 87.60 | 风险 低
+- 世界杯吉祥物 | 质量 73.88 | 可交易性 90.23 | 风险 低
+- Viral Pig Meme Video | 质量 71.91 | 可交易性 77.69 | 风险 低
+- Intergalactic Walmart Parking Lot Meme | 质量 71.19 | 可交易性 95.50 | 风险 低
+- Deployment of $RICH to Support Chooserich's Medical Expenses | 质量 70.11 | 可交易性 81.42 | 风险 低
+- alien satoshi | 质量 69.18 | 可交易性 100.00 | 风险 低
+- Meme Image Source Explanation | 质量 64.25 | 可交易性 74.96 | 风险 低
+- Uncertain:CZ Jokes About Elon Musk Being an Alien | 质量 63.80 | 可交易性 93.18 | 风险 低
+- PTCG: What Is It and How to Play? | 质量 60.72 | 可交易性 59.56 | 风险 低
 
 ## 伪叙事风险
 
 - Intergalactic Walmart Parking Lot Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alielon | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Kirill Dmitriev Shares Alien Meme图 on UFO Disclosure Day | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Solana Summer | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alien Identity Claim | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
 - Maxxed Aura | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Make BNB Great Again | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -138,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CZ Interview Highlights（BSC，分数 83.38）
-2. 共振最强代币：HANTA（Solana，共振 100.0）
-3. 记忆层变化：AI Random Number Selection Anomaly 当前为“新出现”
+1. 当前最强叙事：CZ Interview Highlights（BSC，分数 84.51）
+2. 共振最强代币：BILL（BSC，共振 100.0）
+3. 记忆层变化：世界杯吉祥物 当前为“强化”
 4. 最新官方催化：GALA Trading Tournament: Trade to Share Up to 150,000 USDC Token Vouchers
 #Binance #NarrativeOS #OpenClaw
