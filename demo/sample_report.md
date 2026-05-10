@@ -1,102 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-10T16:05:31.199790+00:00
+- 生成时间：2026-05-10T17:08:54.429612+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Troll Retard，所在链为 Solana，叙事强度 85.36。
-- 当前平均叙事强度为 80.54，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 BASED，来自 BSC，共振分数 100.0。
-- 记忆层显示 BONK Supports Elephant Rescue 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Momcoin Initiative Ahead of Mother's Day，伪叙事风险 52.99。
+- 当前最强叙事是 Elon Laughs at Miami Geo Meme，所在链为 Solana，叙事强度 87.14。
+- 当前平均叙事强度为 81.61，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 BILL，来自 BSC，共振分数 100.0。
+- 记忆层显示 Computational Infrastructure and AI Development 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Momcoin Initiative Ahead of Mother's Day，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：GALA Trading Tournament: Trade to Share Up to 150,000 USDC Token Vouchers。
 
 ## 叙事雷达
 
-- Troll Retard | Solana | 加速中 | 强度 85.36 | 质量 76.38
-  - 主题摘要：TRETARD is a meme token inspired by internet troll culture, featuring a cartoon character with exaggerated features and a laughing expression. The token embraces humor and communi…
-  - 资金 100.00 / 广度 76.65 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Laughs at Miami Geo Meme | Solana | 降温中 | 强度 82.88 | 质量 72.41
+- Elon Laughs at Miami Geo Meme | Solana | 降温中 | 强度 87.14 | 质量 78.29
   - 主题摘要：Elon Musk reacts with laughter emoji to a tweet suggesting "geographically, we call this Miami", referencing a meme about location-based humor. The interaction has the potential t…
-  - 资金 100.00 / 广度 93.79 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.11 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk's Bitches Money Meme | Solana | 加速中 | 强度 81.54 | 质量 83.23
+- Troll Retard | Solana | 加速中 | 强度 82.87 | 质量 77.22
+  - 主题摘要：TRETARD is a meme token inspired by internet troll culture, featuring a cartoon character with exaggerated features and a laughing expression. The token embraces humor and communi…
+  - 资金 100.00 / 广度 79.45 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk's Bitches Money Meme | Solana | 加速中 | 强度 82.15 | 质量 83.23
   - 主题摘要：Elon Musk posted a cryptic and humorous phrase that combines edgy slang, wealth, and libertarian values. The phrase has strong meme potential due to its provocative and ironic ton…
-  - 资金 91.10 / 广度 100.00 / 确认 23.76 / 脆弱性 24.00
+  - 资金 85.34 / 广度 100.00 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk's Comedic Timing Reflection | Solana | 降温中 | 强度 81.32 | 质量 71.46
-  - 主题摘要：Elon Musk reflected on his comedic timing in a reply to a Mother's Day post, prompting speculation about its implications for related crypto narratives.
-  - 资金 100.00 / 广度 85.47 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Monitoring Hantavirus Situation | Solana | 降温中 | 强度 79.49 | 质量 74.39
+- Monitoring Hantavirus Situation | Solana | 降温中 | 强度 81.62 | 质量 74.37
   - 主题摘要：Alex Jones announced a special Friday broadcast discussing recent geopolitical developments, including statements attributed to Trump regarding Iran, military actions in Ukraine,…
-  - 资金 100.00 / 广度 81.09 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.02 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Memes as a Revenue Stream | Solana | 加速中 | 强度 78.68 | 质量 66.23
+- Computational Infrastructure and AI Development | Solana | 已确认 | 强度 81.52 | 质量 73.65
+  - 主题摘要：According to the post, the large-scale data center expansion in America is believed to support the development of a new form of artificial intelligence or machine consciousness, w…
+  - 资金 100.00 / 广度 64.89 / 确认 28.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Memes as a Revenue Stream | Solana | 加速中 | 强度 79.25 | 质量 65.37
   - 主题摘要：Jason Levin discusses how internet humor can be monetized, reflecting on his journey from publishing the book 'Memes Make Millions' to securing $3M in funding for meme marketing s…
-  - 资金 100.00 / 广度 83.10 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.77 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Momcoin Initiative Ahead of Mother's Day | Solana | 点火期 | 强度 77.58 | 质量 78.48
+- Momcoin Initiative Ahead of Mother's Day | Solana | 点火期 | 强度 79.25 | 质量 78.73
   - 主题摘要：Multiple tokens named 「MOM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- BONK Supports Elephant Rescue | Solana | 加速中 | 强度 77.45 | 质量 73.40
-  - 主题摘要：According to developer's post, the dog-themed meme token BONK allegedly supported Wildlife SOS in rescuing and caring for an orphaned elephant named Bani. The information is unver…
-  - 资金 100.00 / 广度 85.45 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bison | BSC | 加速中 | 强度 74.22 | 质量 59.03
+- Elon Musk's Comedic Timing Reflection | Solana | 降温中 | 强度 79.09 | 质量 66.39
+  - 主题摘要：Elon Musk reflected on his comedic timing in a reply to a Mother's Day post, prompting speculation about its implications for related crypto narratives.
+  - 资金 100.00 / 广度 85.22 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Bison | BSC | 加速中 | 强度 74.27 | 质量 59.09
   - 主题摘要：Bison is a meme token inspired by the bullish market spirit, featuring a cartoon bull character wearing sunglasses and a cap. The token's name and imagery reflect its focus on cre…
-  - 资金 100.00 / 广度 67.92 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 68.17 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Interview Highlights | BSC | 加速中 | 强度 72.33 | 质量 71.19
+- CZ Interview Highlights | BSC | 加速中 | 强度 73.47 | 质量 70.89
   - 主题摘要：CZ在推特上回应加密媒体人Ran Neuner时，称这是他们迄今为止最好的一次对话，引发社区对访谈内容的好奇与热议。
-  - 资金 100.00 / 广度 86.54 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.51 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Community | BSC | 加速中 | 强度 69.60 | 质量 54.20
-  - 主题摘要：Community token represents a decentralized ecosystem focused on fostering global collaboration. The logo features a rising arrow symbolizing upward momentum and growth, while the…
-  - 资金 100.00 / 广度 65.37 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 67.48 | 质量 59.72
-  - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on BNB Smart Chain, covering Gen I–IX Pokédex, with four rarity tiers and IPFS storage.
-  - 资金 100.00 / 广度 75.63 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance US Stocks Meme Image | BSC | 加速中 | 强度 67.14 | 质量 55.55
+- Uncertain:Binance US Stocks Meme Image | BSC | 加速中 | 强度 70.23 | 质量 57.70
   - 主题摘要：According to Chef大厨's post, Binance's themed Meme image referring to the 'Seven Sisters' US tech giants has sparked interest within the crypto community. The image appears to be p…
-  - 资金 100.00 / 广度 72.20 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.66 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 燃烧星球 | BSC | 降温中 | 强度 65.80 | 质量 50.61
-  - 主题摘要：Multiple tokens named 「燃烧星球」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 56.86 / 确认 9.36 / 脆弱性 14.00
+- Uncertain:Binance's Strategic Shift to a Global Crypto Super App | BSC | 加速中 | 强度 69.86 | 质量 52.89
+  - 主题摘要：According to 林晚晚的猫's post, Binance is expanding its financial infrastructure beyond cryptocurrency exchange services, integrating telecom, banking, and local payment systems in As…
+  - 资金 100.00 / 广度 63.63 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Community | BSC | 加速中 | 强度 69.10 | 质量 53.34
+  - 主题摘要：Community token represents a decentralized ecosystem focused on fostering global collaboration. The logo features a rising arrow symbolizing upward momentum and growth, while the…
+  - 资金 100.00 / 广度 65.40 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 牛头 | BSC | 降温中 | 强度 67.09 | 质量 49.83
+  - 主题摘要：Multiple tokens named 「牛头」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.56 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.54，其中已确认叙事 0 个。
-- BONK Supports Elephant Rescue 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.61，其中已确认叙事 1 个。
+- Computational Infrastructure and AI Development 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Elon Laughs at Miami Geo Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Elon Musk's Bitches Money Meme | 质量 83.23 | 可交易性 100.00 | 风险 低
-- Momcoin Initiative Ahead of Mother's Day | 质量 78.48 | 可交易性 100.00 | 风险 低
-- Troll Retard | 质量 76.38 | 可交易性 100.00 | 风险 低
-- Monitoring Hantavirus Situation | 质量 74.39 | 可交易性 100.00 | 风险 低
-- BONK Supports Elephant Rescue | 质量 73.40 | 可交易性 81.25 | 风险 低
-- Elon Laughs at Miami Geo Meme | 质量 72.41 | 可交易性 91.52 | 风险 低
-- Elon Musk's Comedic Timing Reflection | 质量 71.46 | 可交易性 85.88 | 风险 低
-- CZ Interview Highlights | 质量 71.19 | 可交易性 96.10 | 风险 低
-- Memes as a Revenue Stream | 质量 66.23 | 可交易性 60.25 | 风险 低
-- PTCG: What Is It and How to Play? | 质量 59.72 | 可交易性 67.61 | 风险 低
+- Momcoin Initiative Ahead of Mother's Day | 质量 78.73 | 可交易性 100.00 | 风险 低
+- Elon Laughs at Miami Geo Meme | 质量 78.29 | 可交易性 100.00 | 风险 低
+- Troll Retard | 质量 77.22 | 可交易性 100.00 | 风险 低
+- Monitoring Hantavirus Situation | 质量 74.37 | 可交易性 100.00 | 风险 低
+- Computational Infrastructure and AI Development | 质量 73.65 | 可交易性 100.00 | 风险 低
+- CZ Interview Highlights | 质量 70.89 | 可交易性 98.78 | 风险 低
+- Elon Musk's Comedic Timing Reflection | 质量 66.39 | 可交易性 86.01 | 风险 低
+- Memes as a Revenue Stream | 质量 65.37 | 可交易性 60.35 | 风险 低
+- Bison | 质量 59.09 | 可交易性 51.37 | 风险 低
 
 ## 伪叙事风险
 
-- Momcoin Initiative Ahead of Mother's Day | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Elon Musk's Comedic Timing Reflection | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Monitoring Hantavirus Situation | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Momcoin Initiative Ahead of Mother's Day | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -135,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Troll Retard（Solana，分数 85.36）
-2. 共振最强代币：BASED（BSC，共振 100.0）
-3. 记忆层变化：BONK Supports Elephant Rescue 当前为“新出现”
+1. 当前最强叙事：Elon Laughs at Miami Geo Meme（Solana，分数 87.14）
+2. 共振最强代币：BILL（BSC，共振 100.0）
+3. 记忆层变化：Computational Infrastructure and AI Development 当前为“新出现”
 4. 最新官方催化：GALA Trading Tournament: Trade to Share Up to 150,000 USDC Token Vouchers
 #Binance #NarrativeOS #OpenClaw
