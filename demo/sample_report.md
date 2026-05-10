@@ -1,103 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-10T00:00:17.804343+00:00
+- 生成时间：2026-05-10T04:10:10.833598+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
-- 高风险伪叙事：1
+- 已确认叙事：0
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 Monitoring Situation Meme Response，所在链为 Solana，叙事强度 88.11。
-- 当前平均叙事强度为 81.49，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 SIREN，来自 BSC，共振分数 100.0。
-- 记忆层显示 Momcoin Meme Token for Mother's Day 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Autistic Genius Intelligence，伪叙事风险 50.11。
+- 当前最强叙事是 Autistic Genius Intelligence Guy，所在链为 Solana，叙事强度 86.4。
+- 当前平均叙事强度为 81.85，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BILL，来自 BSC，共振分数 100.0。
+- 记忆层显示 Autistic Genius Intelligence Guy 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Momcoin Initiative Ahead of Mother's Day，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：GALA Trading Tournament: Trade to Share Up to 150,000 USDC Token Vouchers。
 
 ## 叙事雷达
 
-- Monitoring Situation Meme Response | Solana | 加速中 | 强度 88.11 | 质量 81.15
-  - 主题摘要：Multiple tokens named 「HANTA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 98.94 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Momcoin Initiative Ahead of Mother's Day | Solana | 点火期 | 强度 83.33 | 质量 79.88
-  - 主题摘要：Multiple tokens named 「MOM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.11 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Computational Infrastructure and AI Development | Solana | 已确认 | 强度 81.00 | 质量 74.76
-  - 主题摘要：According to the post, the large-scale data center expansion in America is believed to support the development of a new form of artificial intelligence or machine consciousness, w…
-  - 资金 100.00 / 广度 68.59 / 确认 28.12 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 5.5 | Solana | 点火期 | 强度 80.97 | 质量 79.95
-  - 主题摘要：Multiple tokens named 「AGI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 92.70 / 广度 100.00 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Momcoin Meme Token for Mother's Day | Solana | 点火期 | 强度 80.07 | 质量 74.95
-  - 主题摘要：According to Jobonsol's post, a token named $momcoin is being promoted in the context of Mother's Day, aiming to raise awareness and support for mothers in underprivileged situati…
-  - 资金 100.00 / 广度 83.38 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Concerns About Encrypted Chat Security | Solana | 降温中 | 强度 79.87 | 质量 73.30
-  - 主题摘要：According to ️️️️ ️ᅠ‏️️️️ ️ᅠ️️️️ ️️️️️ ️ᅠ's post, concerns were raised regarding the effectiveness of encrypted chat when a company-owned bot may be used to decrypt and log messag…
-  - 资金 100.00 / 广度 81.53 / 确认 9.36 / 脆弱性 14.00
+- Autistic Genius Intelligence Guy | Solana | 降温中 | 强度 86.40 | 质量 77.17
+  - 主题摘要：Multiple tokens named 「AGIGUY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.38 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Monitoring Hantavirus Situation | Solana | 降温中 | 强度 79.45 | 质量 75.97
+- CapyLot | Solana | 降温中 | 强度 85.93 | 质量 78.07
+  - 主题摘要：CapyLot is a meme token inspired by the Capybara, a popular internet animal. The logo features a pixel art character with a capybara head, embodying the playful, community-driven…
+  - 资金 100.00 / 广度 88.09 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- solana aura | Solana | 降温中 | 强度 85.90 | 质量 76.41
+  - 主题摘要：Multiple tokens named 「solaura」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.82 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 5.5 | Solana | 点火期 | 强度 82.47 | 质量 79.63
+  - 主题摘要：Multiple tokens named 「AGI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Monitoring Hantavirus Situation | Solana | 降温中 | 强度 81.65 | 质量 74.91
   - 主题摘要：Alex Jones announced a special Friday broadcast discussing recent geopolitical developments, including statements attributed to Trump regarding Iran, military actions in Ukraine,…
-  - 资金 100.00 / 广度 83.73 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.84 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Autistic Genius Intelligence | Solana | 点火期 | 强度 79.11 | 质量 80.22
-  - 主题摘要：According to the post, the author expresses confusion or disbelief that something is not even an AI-related Meme image. The statement appears to conflate AI themes with Meme 图 con…
-  - 资金 100.00 / 广度 97.89 / 确认 12.96 / 脆弱性 24.00
+- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 79.14 | 质量 68.75
+  - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on the BNB Smart Chain, covering Generations I–IX with four-tier rarity system and IPFS storage.
+  - 资金 100.00 / 广度 77.50 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Momcoin Initiative Ahead of Mother's Day | Solana | 点火期 | 强度 78.36 | 质量 79.07
+  - 主题摘要：According to taxxin's post, the user suggested launching a token called Momcoin in celebration of Mother's Day, referencing the holiday as a thematic inspiration.
+  - 资金 100.00 / 广度 98.31 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ Interview Highlights | BSC | 已确认 | 强度 78.18 | 质量 73.04
-  - 主题摘要：CZ在推特上回应加密媒体人Ran Neuner时，称这是他们迄今为止最好的一次对话，引发社区对访谈内容的好奇与热议。
-  - 资金 100.00 / 广度 91.54 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 77.60 | 质量 68.19
-  - 主题摘要：According to the post, PTCG is a project that transforms Pokémon into on-chain NFTs deployed on BNB Smart Chain, featuring 1025 pixel-drawn Pokémon characters across Gen I–IX with…
-  - 资金 100.00 / 广度 77.32 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Make BNB Great Again | BSC | 降温中 | 强度 69.70 | 质量 52.00
-  - 主题摘要：Multiple tokens named 「MBGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.98 / 确认 9.36 / 脆弱性 14.00
+- United Nations Oil Supply and UN Foundation on Pumpfun | Solana | 降温中 | 强度 78.20 | 质量 69.26
+  - 主题摘要：According to Tao 💻's post, the UN Foundation has been added as a charity on Pumpfun, and the UN Oil Supply stands at 3m. The post questions the relevance or legitimacy of this mov…
+  - 资金 100.00 / 广度 66.83 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:elizaOK Launch on Binance Square | BSC | 加速中 | 强度 67.50 | 质量 54.89
-  - 主题摘要：According to the post, elizaOK is now available on Binance Square, indicating a new token launch or platform integration. The token is associated with AI and digital companion the…
-  - 资金 100.00 / 广度 68.97 / 确认 24.48 / 脆弱性 14.00
+- CZ Interview Highlights | BSC | 加速中 | 强度 76.60 | 质量 73.51
+  - 主题摘要：CZ在推特上回应加密媒体人Ran Neuner时，称这是他们迄今为止最好的一次对话，引发社区对访谈内容的好奇与热议。
+  - 资金 100.00 / 广度 91.32 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- autistic genius inte | BSC | 加速中 | 强度 67.11 | 质量 55.83
-  - 主题摘要：Multiple tokens named 「AGI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 63.49 / 确认 20.16 / 脆弱性 14.00
+- Autistic Genius Intelligence | Solana | 点火期 | 强度 75.87 | 质量 76.02
+  - 主题摘要：According to the post, the author expresses confusion or disbelief that something is not even an AI-related Meme image. The statement appears to conflate AI themes with Meme 图 con…
+  - 资金 100.00 / 广度 97.11 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- BNB Chain Zero Gas Fee Promotion | BSC | 加速中 | 强度 71.55 | 质量 57.18
+  - 主题摘要：BNB Chain announced that moving USDC, USD1, and U tokens will cost $0 in gas fees, with the chain already covering $4.5M in fees for users. This creates a viral narrative around f…
+  - 资金 100.00 / 广度 71.58 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Maxxed Aura | BSC | 加速中 | 强度 65.32 | 质量 58.91
-  - 主题摘要：Binance推文提到的'aura maxxxxing'引发社区对'光环极致表现'的戏谑联想，结合其平台影响力，具备成为Meme话题的潜力。
-  - 资金 100.00 / 广度 86.55 / 确认 20.16 / 脆弱性 24.00
+- Send this to your mom | BSC | 加速中 | 强度 70.43 | 质量 55.59
+  - 主题摘要：BNB Chain在推文中发起了一次温情互动，邀请用户将这条推文转发给妈妈，配合爱心表情，适合作为情感联结型Meme话题。
+  - 资金 100.00 / 广度 70.65 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Make BNB Great Again | BSC | 降温中 | 强度 69.45 | 质量 53.68
+  - 主题摘要：Multiple tokens named 「MBGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.98 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Mouse潮NFT Ecosystem Launch Plan | BSC | 加速中 | 强度 67.86 | 质量 50.65
+  - 主题摘要：According to the post, the 'Rat潮' NFT ecosystem is being launched on the Flap platform, centered around an art-based IP. The strategy emphasizes offline promotion, community engag…
+  - 资金 100.00 / 广度 60.39 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.49，其中已确认叙事 1 个。
-- Momcoin Meme Token for Mother's Day 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Concerns About Encrypted Chat Security 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.85，其中已确认叙事 0 个。
+- BNB Chain Zero Gas Fee Promotion 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Autistic Genius Intelligence Guy 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Monitoring Situation Meme Response | 质量 81.15 | 可交易性 100.00 | 风险 低
-- Autistic Genius Intelligence | 质量 80.22 | 可交易性 100.00 | 风险 低
-- 5.5 | 质量 79.95 | 可交易性 94.36 | 风险 低
-- Momcoin Initiative Ahead of Mother's Day | 质量 79.88 | 可交易性 100.00 | 风险 低
-- Monitoring Hantavirus Situation | 质量 75.97 | 可交易性 100.00 | 风险 低
-- Momcoin Meme Token for Mother's Day | 质量 74.95 | 可交易性 94.30 | 风险 低
-- Computational Infrastructure and AI Development | 质量 74.76 | 可交易性 100.00 | 风险 低
-- Concerns About Encrypted Chat Security | 质量 73.30 | 可交易性 95.95 | 风险 低
-- CZ Interview Highlights | 质量 73.04 | 可交易性 100.00 | 风险 低
-- PTCG: What Is It and How to Play? | 质量 68.19 | 可交易性 72.02 | 风险 低
+- 5.5 | 质量 79.63 | 可交易性 93.28 | 风险 低
+- Momcoin Initiative Ahead of Mother's Day | 质量 79.07 | 可交易性 98.39 | 风险 低
+- CapyLot | 质量 78.07 | 可交易性 100.00 | 风险 低
+- Autistic Genius Intelligence Guy | 质量 77.17 | 可交易性 100.00 | 风险 低
+- solana aura | 质量 76.41 | 可交易性 100.00 | 风险 低
+- Autistic Genius Intelligence | 质量 76.02 | 可交易性 100.00 | 风险 低
+- Monitoring Hantavirus Situation | 质量 74.91 | 可交易性 100.00 | 风险 低
+- CZ Interview Highlights | 质量 73.51 | 可交易性 99.10 | 风险 低
+- United Nations Oil Supply and UN Foundation on Pumpfun | 质量 69.26 | 可交易性 97.18 | 风险 低
+- PTCG: What Is It and How to Play? | 质量 68.75 | 可交易性 73.71 | 风险 低
 
 ## 伪叙事风险
 
+- Momcoin Initiative Ahead of Mother's Day | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - Autistic Genius Intelligence | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- 5.5 | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Momcoin Initiative Ahead of Mother's Day | 风险 42.03 | 原因：流动性偏薄
-- Momcoin Meme Token for Mother's Day | 风险 42.03 | 原因：流动性偏薄
+- 5.5 | 风险 42.03 | 原因：流动性偏薄
+- Make BNB Great Again | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -136,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Monitoring Situation Meme Response（Solana，分数 88.11）
-2. 共振最强代币：SIREN（BSC，共振 100.0）
-3. 记忆层变化：Momcoin Meme Token for Mother's Day 当前为“新出现”
+1. 当前最强叙事：Autistic Genius Intelligence Guy（Solana，分数 86.4）
+2. 共振最强代币：BILL（BSC，共振 100.0）
+3. 记忆层变化：Autistic Genius Intelligence Guy 当前为“新出现”
 4. 最新官方催化：GALA Trading Tournament: Trade to Share Up to 150,000 USDC Token Vouchers
 #Binance #NarrativeOS #OpenClaw
