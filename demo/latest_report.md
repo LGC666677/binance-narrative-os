@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-11T07:57:25.220253+00:00
+- 生成时间：2026-05-11T10:54:53.094961+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance App Bottom Navigation Customization Update，所在链为 BSC，叙事强度 86.69。
-- 当前平均叙事强度为 72.62，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 GOBLIN，来自 Solana，共振分数 100.0。
-- 记忆层显示 Binance App Bottom Navigation Customization Update 当前处于“新出现”状态。
+- 当前最强叙事是 Y U NO Guy，所在链为 Solana，叙事强度 85.29。
+- 当前平均叙事强度为 80.28，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 INTC，来自 BSC，共振分数 100.0。
+- 记忆层显示 Y U NO Guy 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-05-12。
 
 ## 叙事雷达
 
-- Binance App Bottom Navigation Customization Update | BSC | 已确认 | 强度 86.69 | 质量 79.80
-  - 主题摘要：Binance co-founder Yi He reacted to a user's post praising Binance's new UI feature and 'bull market' gains, creating a moment of celebrity endorsement mixed with retail trader hu…
-  - 资金 100.00 / 广度 85.42 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Baby Troll | Solana | 加速中 | 强度 84.07 | 质量 73.68
-  - 主题摘要：According to RT's post, newly released footage from TVP World shows images related to the Epstein case, including a mention of an indictment against Brunel for underage rape. The…
-  - 资金 100.00 / 广度 81.91 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dumacrats | Solana | 已确认 | 强度 81.28 | 质量 81.08
-  - 主题摘要：Multiple tokens named 「DUMACRATS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.69 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Troll Retard | Solana | 降温中 | 强度 81.26 | 质量 69.08
-  - 主题摘要：TRETARD is a meme token inspired by internet troll culture, featuring a cartoon character with exaggerated features and a laughing expression. The token embraces humor and communi…
-  - 资金 100.00 / 广度 82.87 / 确认 9.36 / 脆弱性 14.00
+- Y U NO Guy | Solana | 降温中 | 强度 85.29 | 质量 77.23
+  - 主题摘要：Multiple tokens named 「YUNOGUY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.58 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AI Crowd Cam Baddies Viral Trend | Solana | 加速中 | 强度 81.12 | 质量 73.77
+- AI Crowd Cam Baddies Viral Trend | Solana | 加速中 | 强度 84.40 | 质量 74.53
   - 主题摘要：According to Pdrizzy's post, the 'Crowd Cam Baddies' trend from Japanese social media is gaining traction on Twitter and is being considered for tokenization. The post highlights…
-  - 资金 100.00 / 广度 78.87 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.28 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Lobsters and Internet Meme Culture | Solana | 降温中 | 强度 78.14 | 质量 67.42
-  - 主题摘要：According to Peter Steinberger 🦞's post, the discussion centers around lobsters as a recurring metaphor or theme within crypto and AI-related discourse, indicating a cultural insi…
-  - 资金 100.00 / 广度 72.73 / 确认 9.36 / 脆弱性 14.00
+- Baby Troll | Solana | 加速中 | 强度 83.66 | 质量 74.28
+  - 主题摘要：According to RT's post, newly released footage from TVP World shows a document indicating Epstein's former associate Brunel was indicted for underage rape, with a photo labeled '2…
+  - 资金 100.00 / 广度 84.08 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Dumacrats | Solana | 已确认 | 强度 81.19 | 质量 81.17
+  - 主题摘要：Multiple tokens named 「DUMACRATS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.97 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Troll Retard | Solana | 降温中 | 强度 78.81 | 质量 65.44
+  - 主题摘要：TRETARD is a meme token inspired by internet troll culture, featuring a cartoon character with exaggerated features and a laughing expression. The token embraces humor and communi…
+  - 资金 100.00 / 广度 82.69 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- OpenAI Mentioned Goblin Coin | Solana | 加速中 | 强度 77.59 | 质量 64.96
-  - 主题摘要：According to Status's post, a cryptocurrency referred to as 'Goblin' has reached a market cap of 20 million, and is claimed to be the only coin ever mentioned by OpenAI. The post…
-  - 资金 100.00 / 广度 79.40 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Retail Is Coming | Solana | 降温中 | 强度 77.23 | 质量 70.66
+- Retail Is Coming | Solana | 降温中 | 强度 77.60 | 质量 70.53
   - 主题摘要：According to BONK.fun's post, the phrase 'retail is coming' is used, potentially signaling anticipation of increased retail investor participation in the crypto space.
-  - 资金 100.00 / 广度 83.40 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.42 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Meme Coin Investment Yielding High Returns | Solana | 降温中 | 强度 75.55 | 质量 64.38
-  - 主题摘要：According to the post, an individual invested 300 bands in a memecoin project with the thesis 'GOOD COIN' and has reportedly gained 700k in profit. The post highlights the success…
-  - 资金 100.00 / 广度 75.43 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Community | BSC | 加速中 | 强度 73.95 | 质量 61.05
+- Binance App Bottom Navigation Customization Update | BSC | 加速中 | 强度 77.17 | 质量 72.34
+  - 主题摘要：Binance co-founder Yi He reacted to a user's post praising Binance's new UI feature and 'bull market' gains, creating a moment of celebrity endorsement mixed with retail trader hu…
+  - 资金 100.00 / 广度 83.15 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- DISCLOSURE | Solana | 加速中 | 强度 75.66 | 质量 64.94
+  - 主题摘要：According to the post, Disclosure Day has arrived, with the government releasing initial files related to UFOs and extraterrestrial life. The post suggests that the evidence of ex…
+  - 资金 100.00 / 广度 57.91 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Lobsters and Internet Meme Culture | Solana | 加速中 | 强度 75.64 | 质量 72.26
+  - 主题摘要：According to Peter Steinberger 🦞's post, the discussion centers around lobsters as a recurring metaphor or theme within crypto and AI-related discourse, indicating a cultural insi…
+  - 资金 100.00 / 广度 80.90 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Community | BSC | 加速中 | 强度 71.89 | 质量 60.56
   - 主题摘要：Community token represents a decentralized ecosystem focused on fostering global collaboration. The logo features a rising arrow symbolizing upward momentum and growth, while the…
-  - 资金 100.00 / 广度 69.52 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.70 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Interview Highlights | BSC | 加速中 | 强度 70.87 | 质量 70.14
+- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 70.02 | 质量 58.86
+  - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on BNB Smart Chain, covering Gen I–IX, with four-tier rarity classification stored permanently v…
+  - 资金 100.00 / 广度 70.67 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ Interview Highlights | BSC | 加速中 | 强度 69.16 | 质量 67.76
   - 主题摘要：CZ在推特上回应加密媒体人Ran Neuner时，称这是他们迄今为止最好的一次对话，引发社区对访谈内容的好奇与热议。
-  - 资金 100.00 / 广度 83.73 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.54 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Crabbox 0.11.0 Release | BSC | 降温中 | 强度 68.39 | 质量 57.74
-  - 主题摘要：According to Peter Steinberger 🦞's post, Crabbox 0.11.0 has been released, introducing features such as Google Cloud provider integration, repo-local job workflows, AWS Windows WS…
-  - 资金 100.00 / 广度 74.79 / 确认 12.96 / 脆弱性 24.00
+- 雷神 | BSC | 降温中 | 强度 68.48 | 质量 55.14
+  - 主题摘要：雷神 (Thunder God) is a meme token inspired by Norse mythology, featuring a cartoon character with a lightning bolt. It aims to build a community around Norse-inspired themes, with…
+  - 资金 100.00 / 广度 61.50 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bison | BSC | 降温中 | 强度 68.35 | 质量 57.93
-  - 主题摘要：Bison is a meme token inspired by the bullish market spirit, featuring a cartoon bull character wearing sunglasses and a cap. The token's name and imagery reflect its focus on cre…
-  - 资金 100.00 / 广度 69.31 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 67.47 | 质量 58.60
-  - 主题摘要：According to the post, PTCG is a project that transforms Pokémon into on-chain NFTs deployed on BNB Smart Chain, featuring 1025 pixel-drawn Pokémon from Gen I to IX, with permanen…
-  - 资金 100.00 / 广度 71.45 / 确认 24.48 / 脆弱性 24.00
+- Five Cats Saving a Company Event | BSC | 加速中 | 强度 68.26 | 质量 53.41
+  - 主题摘要：According to the post, a company's closure led to its five resident cats being auctioned on Alibaba's platform, drawing public attention and media coverage. The cats, branded as '…
+  - 资金 100.00 / 广度 65.82 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 72.62，其中已确认叙事 1 个。
-- Binance App Bottom Navigation Customization Update 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Troll Retard 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.28，其中已确认叙事 1 个。
+- DISCLOSURE 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Y U NO Guy 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Dumacrats | 质量 81.08 | 可交易性 100.00 | 风险 低
-- Binance App Bottom Navigation Customization Update | 质量 79.80 | 可交易性 100.00 | 风险 低
-- AI Crowd Cam Baddies Viral Trend | 质量 73.77 | 可交易性 89.08 | 风险 低
-- Baby Troll | 质量 73.68 | 可交易性 88.92 | 风险 低
-- Retail Is Coming | 质量 70.66 | 可交易性 100.00 | 风险 低
-- CZ Interview Highlights | 质量 70.14 | 可交易性 96.92 | 风险 低
-- Troll Retard | 质量 69.08 | 可交易性 94.32 | 风险 低
-- Lobsters and Internet Meme Culture | 质量 67.42 | 可交易性 85.14 | 风险 低
-- OpenAI Mentioned Goblin Coin | 质量 64.96 | 可交易性 62.36 | 风险 低
-- Meme Coin Investment Yielding High Returns | 质量 64.38 | 可交易性 68.07 | 风险 低
+- Dumacrats | 质量 81.17 | 可交易性 100.00 | 风险 低
+- Y U NO Guy | 质量 77.23 | 可交易性 100.00 | 风险 低
+- AI Crowd Cam Baddies Viral Trend | 质量 74.53 | 可交易性 91.21 | 风险 低
+- Baby Troll | 质量 74.28 | 可交易性 88.72 | 风险 低
+- Binance App Bottom Navigation Customization Update | 质量 72.34 | 可交易性 77.40 | 风险 低
+- Lobsters and Internet Meme Culture | 质量 72.26 | 可交易性 82.01 | 风险 低
+- Retail Is Coming | 质量 70.53 | 可交易性 100.00 | 风险 低
+- CZ Interview Highlights | 质量 67.76 | 可交易性 96.58 | 风险 低
+- Troll Retard | 质量 65.44 | 可交易性 93.80 | 风险 低
+- DISCLOSURE | 质量 64.94 | 可交易性 89.34 | 风险 低
 
 ## 伪叙事风险
 
@@ -103,9 +103,9 @@
 - BMNTP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AGI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - aura | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- bPEG | BSC | 看多 | 新鲜度 95.82 | 暂无直接叙事映射
 - HANTA | Solana | 看多 | 新鲜度 94.06 | 暂无直接叙事映射
 - 小马 | BSC | 看多 | 新鲜度 82.46 | 暂无直接叙事映射
+- KIKI | Solana | 看多 | 新鲜度 79.57 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance App Bottom Navigation Customization Update（BSC，分数 86.69）
-2. 共振最强代币：GOBLIN（Solana，共振 100.0）
-3. 记忆层变化：Binance App Bottom Navigation Customization Update 当前为“新出现”
+1. 当前最强叙事：Y U NO Guy（Solana，分数 85.29）
+2. 共振最强代币：INTC（BSC，共振 100.0）
+3. 记忆层变化：Y U NO Guy 当前为“新出现”
 4. 最新官方催化：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-05-12
 #Binance #NarrativeOS #OpenClaw
