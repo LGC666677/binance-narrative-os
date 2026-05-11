@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-11T13:35:05.684371+00:00
+- 生成时间：2026-05-11T16:17:51.583952+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 AI Crowd Cam Baddies Viral Trend，所在链为 Solana，叙事强度 84.72。
-- 当前平均叙事强度为 79.04，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 CRCL，来自 BSC，共振分数 100.0。
-- 记忆层显示 Uncertain:Binance Wallet Campaign: Be Free Onchain 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Troll Retard，伪叙事风险 40.99。
+- 当前最强叙事是 ROCKY，所在链为 Solana，叙事强度 81.33。
+- 当前平均叙事强度为 75.9，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
+- 记忆层显示 ROCKY 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Contributions to Her Success，伪叙事风险 48.38。
 - 最新官方催化来自 最新活动：Billions Network Trading Competition: Trade Billions Network (BILL) and Share $200K Worth of Rewards。
 
 ## 叙事雷达
 
-- AI Crowd Cam Baddies Viral Trend | Solana | 加速中 | 强度 84.72 | 质量 74.72
-  - 主题摘要：According to Pdrizzy's post, the 'Crowd Cam Baddies' trend from Japanese social media is gaining traction on Twitter and is being considered for tokenization. The post highlights…
-  - 资金 100.00 / 广度 78.79 / 确认 24.48 / 脆弱性 14.00
+- ROCKY | Solana | 加速中 | 强度 81.33 | 质量 74.72
+  - 主题摘要：Multiple tokens named 「ROCKY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.13 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Baby Troll | Solana | 加速中 | 强度 84.64 | 质量 75.20
-  - 主题摘要：According to RT's post, newly released footage from TVP World shows a document indicating Epstein's former associate Brunel was indicted for underage rape, with a photo labeled '2…
-  - 资金 100.00 / 广度 84.36 / 确认 23.76 / 脆弱性 14.00
+- Official Bridge Currency | Solana | 加速中 | 强度 80.82 | 质量 73.00
+  - 主题摘要：Multiple tokens named 「OBC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.56 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Wallet Campaign: Be Free Onchain | BSC | 降温中 | 强度 80.30 | 质量 69.45
-  - 主题摘要：According to the post, Binance Wallet has launched a campaign centered around the slogan 'Be Free Onchain,' promoting the concept of unrestricted blockchain usage and digital asse…
-  - 资金 100.00 / 广度 73.64 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Troll Retard | Solana | 降温中 | 强度 79.33 | 质量 67.97
-  - 主题摘要：TRETARD is a meme token inspired by internet troll culture, featuring a cartoon character with exaggerated features and a laughing expression. The token embraces humor and communi…
-  - 资金 100.00 / 广度 82.60 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Richard Teng Shares Binance Vision of Super App | BSC | 已确认 | 强度 78.43 | 质量 72.23
-  - 主题摘要：Richard Teng highlights Binance's vision to become a super financial app and multi-asset gateway for 3 billion users, with Hong Kong as a key hub for digital asset innovation.
-  - 资金 100.00 / 广度 79.81 / 确认 28.08 / 脆弱性 14.00
+- Yi He Responds to Criticism | BSC | 已确认 | 强度 80.41 | 质量 82.06
+  - 主题摘要：Binance co-founder Yi He confidently responded to a critic by claiming her luck will only get better in the next two decades, sparking a meme-worthy moment with a classic anime re…
+  - 资金 100.00 / 广度 92.01 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Contributions to Her Success | Solana | 加速中 | 强度 77.88 | 质量 76.92
+- Birdclaw Logo Discussion | Solana | 点火期 | 强度 75.48 | 质量 73.13
+  - 主题摘要：According to Peter Steinberger 🦞's post, in response to a comment suggesting the use of a certain image as the logo for 'Birdclaw,' Peter Steinberger 🦞 replied, 'i dig it.' The st…
+  - 资金 100.00 / 广度 81.06 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Together We Travel the World | BSC | 加速中 | 强度 75.18 | 质量 70.64
+  - 主题摘要：Yi He replied to a philosophical question about who leads whom — Binance or its users — with a scenic photo featuring a Binance-branded backpack, symbolizing the lifestyle of work…
+  - 资金 100.00 / 广度 73.98 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Contributions to Her Success | Solana | 点火期 | 强度 74.81 | 质量 75.73
   - 主题摘要：According to Cornbread Mafioso 🖕🏾's post, multiple individuals or factors contributed to a woman's success, though no specific person or context is identified.
-  - 资金 100.00 / 广度 82.13 / 确认 19.44 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dumacrats | Solana | 加速中 | 强度 77.19 | 质量 77.07
-  - 主题摘要：Multiple tokens named 「DUMACRATS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.77 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Retail Is Coming | Solana | 降温中 | 强度 76.67 | 质量 71.36
-  - 主题摘要：According to BONK.fun's post, the phrase 'retail is coming' is linked with a Meme image referencing the release of UFO files via a shortened URL. The post implies a thematic or pr…
-  - 资金 100.00 / 广度 82.57 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Swatch Launches RoyalPop Watch Collection | Solana | 加速中 | 强度 76.03 | 质量 66.00
+  - 资金 100.00 / 广度 81.34 / 确认 15.12 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Swatch Launches RoyalPop Watch Collection | Solana | 加速中 | 强度 73.97 | 质量 65.81
   - 主题摘要：According to Vitruvian's post, Swatch and Audemars Piguet unveiled the RoyalPop, a bioceramic quartz watch collection featuring playful colors and modern design, priced at approxi…
-  - 资金 100.00 / 广度 75.34 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.12 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- DISCLOSURE | Solana | 加速中 | 强度 75.85 | 质量 65.21
-  - 主题摘要：According to the post, Disclosure Day has arrived, with the government releasing initial files related to UFOs and extraterrestrial life. The post suggests that the evidence of ex…
-  - 资金 100.00 / 广度 58.68 / 确认 23.76 / 脆弱性 14.00
+- Yi He's Social Media Response | BSC | 加速中 | 强度 73.84 | 质量 72.48
+  - 主题摘要：Yi He's cryptic response sparks debate on double standards in strength and freedom of expression, with meme potential rooted in philosophical irony and personality clash.
+  - 资金 100.00 / 广度 86.49 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Community | BSC | 加速中 | 强度 73.97 | 质量 60.66
-  - 主题摘要：Community token represents a decentralized ecosystem focused on fostering global collaboration. The logo features a rising arrow symbolizing upward momentum and growth, while the…
-  - 资金 100.00 / 广度 69.89 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 72.46 | 质量 61.58
-  - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on BNB Smart Chain, covering Gen I–IX, with four-tier rarity classification stored permanently v…
-  - 资金 100.00 / 广度 70.76 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 病毒人生 | BSC | 加速中 | 强度 72.41 | 质量 63.94
+- 病毒人生 | BSC | 加速中 | 强度 73.26 | 质量 63.83
   - 主题摘要：Multiple tokens named 「病毒人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.15 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.95 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Chain Track Winner T-LAYER | BSC | 降温中 | 强度 71.63 | 质量 62.88
-  - 主题摘要：T-LAYER, a private OTC trading layer on BNB Chain, was highlighted as the first-place winner in the BUIDL Hack 2026 BNB Chain track. The team shared insights into their project's…
-  - 资金 100.00 / 广度 72.17 / 确认 12.96 / 脆弱性 14.00
+- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 73.08 | 质量 62.54
+  - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on BNB Smart Chain, covering Gen I–IX, with four-tier rarity classification stored permanently v…
+  - 资金 100.00 / 广度 70.41 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Coyoti Trader Token | Solana | 降温中 | 强度 72.98 | 质量 60.74
+  - 主题摘要：COYT powers Coyoti's 5-minute trading platform, designed for fast market direction analysis. The token enables access to the Coyoti ecosystem, including automated inventory manage…
+  - 资金 100.00 / 广度 35.60 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Community | BSC | 加速中 | 强度 72.91 | 质量 60.99
+  - 主题摘要：Community token represents a decentralized ecosystem focused on fostering global collaboration. The logo features a rising arrow symbolizing upward momentum and growth, while the…
+  - 资金 100.00 / 广度 69.99 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Satoshi Nakamoto | BSC | 加速中 | 强度 72.57 | 质量 57.59
+  - 主题摘要：Multiple tokens named 「中本聪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 63.34 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Meme Coin Preferences | Solana | 降温中 | 强度 71.90 | 质量 56.15
+  - 主题摘要：Ansem critiques the practice of frequently rotating listed Meme coins on launchpads, arguing that retail investors prefer fewer tokens with greater upside potential rather than co…
+  - 资金 100.00 / 广度 74.86 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.04，其中已确认叙事 0 个。
-- Richard Teng Shares Binance Vision of Super App 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Uncertain:Binance Wallet Campaign: Be Free Onchain 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.9，其中已确认叙事 0 个。
+- ROCKY 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Coyoti Trader Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Dumacrats | 质量 77.07 | 可交易性 100.00 | 风险 低
-- Contributions to Her Success | 质量 76.92 | 可交易性 100.00 | 风险 低
-- Baby Troll | 质量 75.20 | 可交易性 88.89 | 风险 低
-- AI Crowd Cam Baddies Viral Trend | 质量 74.72 | 可交易性 92.33 | 风险 低
-- Richard Teng Shares Binance Vision of Super App | 质量 72.23 | 可交易性 83.38 | 风险 低
-- Retail Is Coming | 质量 71.36 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Wallet Campaign: Be Free Onchain | 质量 69.45 | 可交易性 88.36 | 风险 低
-- Troll Retard | 质量 67.97 | 可交易性 93.70 | 风险 低
-- Swatch Launches RoyalPop Watch Collection | 质量 66.00 | 可交易性 66.72 | 风险 低
-- DISCLOSURE | 质量 65.21 | 可交易性 89.06 | 风险 低
+- Yi He Responds to Criticism | 质量 82.06 | 可交易性 100.00 | 风险 低
+- Contributions to Her Success | 质量 75.73 | 可交易性 100.00 | 风险 低
+- ROCKY | 质量 74.72 | 可交易性 100.00 | 风险 低
+- Birdclaw Logo Discussion | 质量 73.13 | 可交易性 90.56 | 风险 低
+- Official Bridge Currency | 质量 73.00 | 可交易性 100.00 | 风险 低
+- Yi He's Social Media Response | 质量 72.48 | 可交易性 97.16 | 风险 低
+- Together We Travel the World | 质量 70.64 | 可交易性 80.88 | 风险 低
+- Swatch Launches RoyalPop Watch Collection | 质量 65.81 | 可交易性 65.30 | 风险 低
+- 病毒人生 | 质量 63.83 | 可交易性 60.93 | 风险 低
+- PTCG: What Is It and How to Play? | 质量 62.54 | 可交易性 72.16 | 风险 低
 
 ## 伪叙事风险
 
-- Troll Retard | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Contributions to Her Success | 风险 48.38 | 原因：流动性偏薄、近 1 小时净流入转负
+- Birdclaw Logo Discussion | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：AI Crowd Cam Baddies Viral Trend（Solana，分数 84.72）
-2. 共振最强代币：CRCL（BSC，共振 100.0）
-3. 记忆层变化：Uncertain:Binance Wallet Campaign: Be Free Onchain 当前为“新出现”
+1. 当前最强叙事：ROCKY（Solana，分数 81.33）
+2. 共振最强代币：TROLL（Solana，共振 100.0）
+3. 记忆层变化：ROCKY 当前为“新出现”
 4. 最新官方催化：Billions Network Trading Competition: Trade Billions Network (BILL) and Share $200K Worth of Rewards
 #Binance #NarrativeOS #OpenClaw
