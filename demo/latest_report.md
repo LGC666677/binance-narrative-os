@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-12T04:51:29.809470+00:00
+- 生成时间：2026-05-12T07:34:41.139575+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Yi He Responds to Criticism，所在链为 BSC，叙事强度 86.92。
-- 当前平均叙事强度为 75.16，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 CRCL，来自 BSC，共振分数 100.0。
-- 记忆层显示 Yi He Responds to Criticism 当前处于“强化”状态。
+- 当前最强叙事是 Red Kitten Crew，所在链为 Solana，叙事强度 85.11。
+- 当前平均叙事强度为 80.69，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 GOBLIN，来自 Solana，共振分数 100.0。
+- 记忆层显示 Troll Alien 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Yi He's Social Media Response，伪叙事风险 44.91。
 - 最新官方催化来自 最新活动：CIS Exclusive TradeFi Challenge: Win Golden Rewards。
 
 ## 叙事雷达
 
-- Yi He Responds to Criticism | BSC | 加速中 | 强度 86.92 | 质量 81.03
-  - 主题摘要：Binance co-founder Yi He confidently responded to a critic by claiming her luck will only get better in the next two decades, sparking a meme-worthy moment with a classic anime re…
-  - 资金 100.00 / 广度 95.32 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Red Kitten Crew | Solana | 加速中 | 强度 84.81 | 质量 83.07
+- Red Kitten Crew | Solana | 加速中 | 强度 85.11 | 质量 82.68
   - 主题摘要：According to Real ninja deploys's post, Roaring Kitty's wallet was compromised, and a CTO of the same coin was sent on Cashback to prevent hackers from collecting fees.
-  - 资金 100.00 / 广度 99.59 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 99.48 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- red bandit crew 4 life | Solana | 加速中 | 强度 84.76 | 质量 83.00
-  - 主题摘要：According to Roaring Kitty's post, the phrase 'red bandit crew 4 life' appears to signify affiliation or sentiment toward a group or concept associated with this expression. No fu…
-  - 资金 100.00 / 广度 99.65 / 确认 23.76 / 脆弱性 24.00
+- red bandit crew 4 life | Solana | 加速中 | 强度 84.82 | 质量 82.60
+  - 主题摘要：According to Roaring Kitty's post, the phrase 'red bandit crew 4 life' appears to signify affiliation or loyalty to a group or concept referred to as 'red bandit crew.' No further…
+  - 资金 100.00 / 广度 99.54 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OpenAI Employees Sell $6.6 Billion in Shares | Solana | 降温中 | 强度 83.57 | 质量 76.07
-  - 主题摘要：According to Crypto Rover's post, OpenAI employees have sold $6.6 billion worth of shares, raising concerns about a potential AI investment bubble as insiders exit while new capit…
-  - 资金 100.00 / 广度 81.43 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AI-Powered PFP Chatbot Gains Traction | Solana | 加速中 | 强度 82.29 | 质量 80.30
+- AI-Powered PFP Chatbot Gains Traction | Solana | 加速中 | 强度 82.90 | 质量 80.35
   - 主题摘要：According to BIG E's post, an AI-based profile picture (PFP) chatbot created by Eric Zakariasson is gaining popularity in the AI community. Users can @ the account to generate a n…
-  - 资金 100.00 / 广度 89.70 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.88 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Public Asset Control | Solana | 降温中 | 强度 81.17 | 质量 74.30
-  - 主题摘要：Multiple tokens named 「PAC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.80 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BitCoen and Alleged Jewish Crypto Scam | Solana | 降温中 | 强度 80.37 | 质量 70.75
+- BitCoen and Alleged Jewish Crypto Scam | Solana | 降温中 | 强度 80.10 | 质量 70.91
   - 主题摘要：According to Brother Nathanael's post, BitCoen is described as a Jewish-linked cryptocurrency scam that allegedly exploits investors and conceals its nature through AI-driven narr…
-  - 资金 100.00 / 广度 80.93 / 确认 13.00 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.98 / 确认 13.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 78.27 | 质量 66.86
-  - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on the BNB Smart Chain, covering Generations I–IX with four rarity tiers stored permanently on I…
-  - 资金 100.00 / 广度 70.65 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Anthropic's Meme图 in Claude Code | Solana | 加速中 | 强度 78.12 | 质量 75.07
-  - 主题摘要：According to the post, a Meme图 was discovered in Anthropic's /claude-desktop-buddy file, suggesting development of a physical ESP32 device interacting with Claude. The purpose of…
-  - 资金 100.00 / 广度 84.61 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Shivon Zilis shares son's drawing | Solana | 加速中 | 强度 77.21 | 质量 69.15
+- Troll Alien | Solana | 降温中 | 强度 79.10 | 质量 69.10
+  - 主题摘要：TRALIEN is a satirical meme token inspired by internet troll culture, featuring a cartoon alien with a mischievous grin. The token embraces the concept of cosmic humor, positionin…
+  - 资金 100.00 / 广度 58.19 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Shivon Zilis shares son's drawing | Solana | 加速中 | 强度 78.47 | 质量 69.45
   - 主题摘要：Shivon Zilis, partner of Elon Musk, shared a drawing made by their son. The post includes an image link and suggests a personal family moment.
-  - 资金 100.00 / 广度 81.65 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.87 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Satoshi Nakamoto | BSC | 加速中 | 强度 74.72 | 质量 61.07
+- Yi He's Social Media Response | BSC | 点火期 | 强度 78.05 | 质量 72.49
+  - 主题摘要：Yi He's cryptic response sparks debate on double standards in strength and freedom of expression, with meme potential rooted in philosophical irony and personality clash.
+  - 资金 100.00 / 广度 88.51 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Anthropic's Meme图 in Claude Code | Solana | 加速中 | 强度 77.65 | 质量 74.81
+  - 主题摘要：According to the post, a Meme图 was discovered in Anthropic's /claude-desktop-buddy file, suggesting development of a physical ESP32 device interacting with Claude. The purpose of…
+  - 资金 100.00 / 广度 84.78 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Shawn Promotes $TENDIES Amid Costco Menu Update | Solana | 加速中 | 强度 77.33 | 质量 63.94
+  - 主题摘要：According to Shawn's post, a Meme image referencing Costco's new 1640-calorie chicken tendies priced at $6.99 has been released, drawing comparisons to previous viral crypto theme…
+  - 资金 100.00 / 广度 79.35 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He Responds to Criticism | BSC | 加速中 | 强度 74.90 | 质量 74.71
+  - 主题摘要：Binance co-founder Yi He confidently responded to a critic by claiming her luck will only get better in the next two decades, sparking a meme-worthy moment with a classic anime re…
+  - 资金 100.00 / 广度 93.04 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 73.52 | 质量 61.97
+  - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on BNB Smart Chain, covering Gen I–IX, with four-tier rarity classification stored permanently o…
+  - 资金 100.00 / 广度 71.01 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Satoshi Nakamoto | BSC | 加速中 | 强度 71.86 | 质量 60.98
   - 主题摘要：Multiple tokens named 「中本聪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.00 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 65.30 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Community | BSC | 加速中 | 强度 72.20 | 质量 58.67
-  - 主题摘要：Community token represents a decentralized ecosystem focused on fostering global collaboration. The logo features a rising arrow symbolizing upward momentum and growth, while the…
-  - 资金 100.00 / 广度 69.68 / 确认 20.16 / 脆弱性 14.00
+- Unitree Launches GD01 Human-Carrying Transforming Mecha | BSC | 加速中 | 强度 70.74 | 质量 61.99
+  - 主题摘要：According to the post, Unitree Technology announced the GD01 transforming humanoid robot, described as the world's first mass-produced transforming mecha for personal transportati…
+  - 资金 100.00 / 广度 77.60 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 雷神 | BSC | 降温中 | 强度 70.01 | 质量 55.57
-  - 主题摘要：雷神 (Thunder God) is a meme token inspired by Norse mythology, featuring a cartoon character with a lightning bolt. It aims to build a community around Norse-inspired themes, with…
-  - 资金 100.00 / 广度 62.73 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 病毒人生 | BSC | 加速中 | 强度 68.84 | 质量 58.34
-  - 主题摘要：Multiple tokens named 「病毒人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.36 / 确认 24.48 / 脆弱性 14.00
+- Uncertain:AP x Binance Collaboration | BSC | 加速中 | 强度 68.67 | 质量 53.71
+  - 主题摘要：According to 林克Clean's post, the content references a collaboration or partnership between Audemars Piguet (AP) and Binance, though no detailed information is provided. The associ…
+  - 资金 100.00 / 广度 66.08 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.16，其中已确认叙事 0 个。
-- Yi He Responds to Criticism 正在向主线升级: BSC 上该叙事处于“强化”状态，值得持续跟踪。
-- OpenAI Employees Sell $6.6 Billion in Shares 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.69，其中已确认叙事 0 个。
+- Yi He's Social Media Response 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- BitCoen and Alleged Jewish Crypto Scam 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Red Kitten Crew | 质量 83.07 | 可交易性 99.88 | 风险 低
-- red bandit crew 4 life | 质量 83.00 | 可交易性 99.58 | 风险 低
-- Yi He Responds to Criticism | 质量 81.03 | 可交易性 100.00 | 风险 低
-- AI-Powered PFP Chatbot Gains Traction | 质量 80.30 | 可交易性 100.00 | 风险 低
-- OpenAI Employees Sell $6.6 Billion in Shares | 质量 76.07 | 可交易性 100.00 | 风险 低
-- Anthropic's Meme图 in Claude Code | 质量 75.07 | 可交易性 88.19 | 风险 低
-- Public Asset Control | 质量 74.30 | 可交易性 100.00 | 风险 低
-- BitCoen and Alleged Jewish Crypto Scam | 质量 70.75 | 可交易性 100.00 | 风险 低
-- Shivon Zilis shares son's drawing | 质量 69.15 | 可交易性 70.91 | 风险 低
-- PTCG: What Is It and How to Play? | 质量 66.86 | 可交易性 74.27 | 风险 低
+- Red Kitten Crew | 质量 82.68 | 可交易性 98.70 | 风险 低
+- red bandit crew 4 life | 质量 82.60 | 可交易性 98.36 | 风险 低
+- AI-Powered PFP Chatbot Gains Traction | 质量 80.35 | 可交易性 100.00 | 风险 低
+- Anthropic's Meme图 in Claude Code | 质量 74.81 | 可交易性 87.16 | 风险 低
+- Yi He Responds to Criticism | 质量 74.71 | 可交易性 100.00 | 风险 低
+- Yi He's Social Media Response | 质量 72.49 | 可交易性 100.00 | 风险 低
+- BitCoen and Alleged Jewish Crypto Scam | 质量 70.91 | 可交易性 100.00 | 风险 低
+- Shivon Zilis shares son's drawing | 质量 69.45 | 可交易性 71.68 | 风险 低
+- Troll Alien | 质量 69.10 | 可交易性 100.00 | 风险 低
+- Shawn Promotes $TENDIES Amid Costco Menu Update | 质量 63.94 | 可交易性 55.83 | 风险 低
 
 ## 伪叙事风险
 
+- Yi He's Social Media Response | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Yi He Responds to Criticism（BSC，分数 86.92）
-2. 共振最强代币：CRCL（BSC，共振 100.0）
-3. 记忆层变化：Yi He Responds to Criticism 当前为“强化”
+1. 当前最强叙事：Red Kitten Crew（Solana，分数 85.11）
+2. 共振最强代币：GOBLIN（Solana，共振 100.0）
+3. 记忆层变化：Troll Alien 当前为“新出现”
 4. 最新官方催化：CIS Exclusive TradeFi Challenge: Win Golden Rewards
 #Binance #NarrativeOS #OpenClaw
