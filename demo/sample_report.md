@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-13T08:21:02.229070+00:00
+- 生成时间：2026-05-13T11:00:54.344013+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 FIFA，所在链为 Solana，叙事强度 84.26。
-- 当前平均叙事强度为 74.5，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 BILL，来自 BSC，共振分数 100.0。
-- 记忆层显示 FIFA 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Diamond Hands Meme and Token Promotion，伪叙事风险 44.91。
-- 最新官方催化来自 币安最新公告：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-13)。
+- 当前最强叙事是 FIFA，所在链为 Solana，叙事强度 81.62。
+- 当前平均叙事强度为 75.19，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 GIGA，来自 Solana，共振分数 100.0。
+- 记忆层显示 Doji Mentions $CHINA Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 雷神，伪叙事风险 40.99。
+- 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 10% APR with KGST Flexible Products – 80,000 KGST Limit Available! (2026-05-14)。
 
 ## 叙事雷达
 
-- FIFA | Solana | 加速中 | 强度 84.26 | 质量 79.40
+- FIFA | Solana | 加速中 | 强度 81.62 | 质量 78.24
   - 主题摘要：According to Honestdevor's post, the author proposes creating a meme version of FIFA, the world's football organization, by launching a token named $FIFA. The post suggests this i…
-  - 资金 100.00 / 广度 89.88 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.75 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged ballsackdorkl Token Launch | Solana | 加速中 | 强度 77.23 | 质量 73.30
-  - 主题摘要：According to TOGI's post, TOGI allegedly requested the creation of a 'ballsackdorkl' Meme coin, suggesting a pump and dump scheme. This information is unverified. Please exercise…
-  - 资金 100.00 / 广度 85.17 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Macron Comments on Iranian Naval Alert | Solana | 加速中 | 强度 74.67 | 质量 62.82
-  - 主题摘要：According to First Squawk's post, French President Emmanuel Macron stated that France has no deployment plans but is prepared to support international missions amid an Iranian ale…
-  - 资金 100.00 / 广度 76.83 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Diamond Hands Meme and Token Promotion | Solana | 点火期 | 强度 73.10 | 质量 68.24
-  - 主题摘要：According to Esoteric's post, the author comments on the news that WallStreetBets is now trading on @fomo. Esoteric suggests that the best meme to send in this context is "diamond…
-  - 资金 100.00 / 广度 87.11 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Troll Kitty Meme Image Promotion | Solana | 加速中 | 强度 72.51 | 质量 62.79
-  - 主题摘要：According to the post, a new token named $TITTY (Troll Kitty) is allegedly launched on the PUMP platform, combining elements of $TROLL and $RKC. The post claims this Meme image an…
-  - 资金 100.00 / 广度 78.36 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Monty-Aaron | Solana | 加速中 | 强度 71.89 | 质量 64.17
-  - 主题摘要：According to PogNyx's post, multiple tokens named Monty-Aaron or containing 'theonomix stop 20k bundling' have appeared, suggesting potential meme-related speculation or project a…
-  - 资金 100.00 / 广度 80.66 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hatewatch | Solana | 加速中 | 强度 71.46 | 质量 65.24
-  - 主题摘要：According to Hater Report's post, Dillon Brooks attended Game 4 of the Lakers-OKC series not as a player but to mock LeBron James during free throws, reinforcing his reputation as…
-  - 资金 100.00 / 广度 67.57 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dad AI Launches AI Agent on X | Solana | 降温中 | 强度 70.86 | 质量 59.11
+- Doji Mentions $CHINA Token | Solana | 降温中 | 强度 77.25 | 质量 63.49
+  - 主题摘要：According to Doji's post, the $CHINA token is currently trading. The post includes a quoted tweet referencing 'TRUMP IN CHINA'.
+  - 资金 100.00 / 广度 77.38 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Dad AI Launches AI Agent on X | Solana | 降温中 | 强度 75.60 | 质量 62.83
   - 主题摘要：According to Dad's post, Dad AI is an AI agent launched on X by the YouTube channel @DadhowdoI, aimed at providing real-time practical advice on daily life, financial management,…
-  - 资金 100.00 / 广度 76.29 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.19 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- POV: Candles Move Your Way | BSC | 加速中 | 强度 68.87 | 质量 56.93
-  - 主题摘要：Binance official account posts a relatable trading meme about candles moving in the user's favor, capturing the universal crypto trader's joy of green charts.
-  - 资金 92.08 / 广度 64.87 / 确认 20.28 / 脆弱性 14.00
+- PANINI Mascot Launch | BSC | 加速中 | 强度 75.30 | 质量 70.51
+  - 主题摘要：According to PANews丨APP全面升级's post, PANINI, a bee-themed mascot, was unveiled as the Chief News Officer to celebrate PANews' 8th anniversary. The character symbolizes the diligent…
+  - 资金 100.00 / 广度 78.51 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Together We Travel the World | BSC | 降温中 | 强度 68.70 | 质量 56.34
-  - 主题摘要：Yi He replied to a philosophical question about who leads whom — Binance or its users — with a scenic photo featuring a Binance-branded backpack, symbolizing the lifestyle of work…
-  - 资金 100.00 / 广度 67.83 / 确认 9.36 / 脆弱性 14.00
+- Monty-Aaron | Solana | 加速中 | 强度 75.13 | 质量 66.54
+  - 主题摘要：According to PogNyx's post, multiple tokens named Monty-Aaron or containing 'theonomix stop 20k bundling' have appeared, suggesting potential meme-related speculation or project a…
+  - 资金 100.00 / 广度 81.54 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- White House Engages with PEPE Meme Coin | Solana | 降温中 | 强度 73.22 | 质量 61.95
+  - 主题摘要：Multiple tokens named 「VENEZUELA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.72 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 68.19 | 质量 59.39
+- Macron Comments on Iranian Naval Alert | Solana | 加速中 | 强度 73.17 | 质量 60.28
+  - 主题摘要：According to First Squawk's post, French President Emmanuel Macron stated that France has no deployment plans but is prepared to support international missions amid an Iranian ale…
+  - 资金 100.00 / 广度 76.97 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Pope Leo's Nike Shoes Go Viral | Solana | 加速中 | 强度 72.95 | 质量 68.03
+  - 主题摘要：According to Firstpost's post, a video titled 'Holy Drip' featuring Pope Leo wearing Nike shoes has gone viral online. The content highlights the visual contrast between religious…
+  - 资金 100.00 / 广度 86.09 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk on Nolan Racism | Solana | 加速中 | 强度 72.56 | 质量 67.40
+  - 主题摘要：Elon Musk endorsed Alice Smith's controversial claim that director Christopher Nolan is racist against Greek people and their cultural heritage, sparking debate.
+  - 资金 100.00 / 广度 84.45 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 70.83 | 质量 60.51
   - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on BNB Smart Chain, with permanent storage via IPFS and fixed rarity tiers.
-  - 资金 100.00 / 广度 68.34 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 68.28 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 雷神 | BSC | 降温中 | 强度 67.40 | 质量 52.43
-  - 主题摘要：雷神 (Thunder God) is a meme token inspired by Norse mythology, featuring a cartoon character with a lightning bolt. It aims to build a community around Norse-inspired themes, with…
-  - 资金 100.00 / 广度 66.38 / 确认 9.36 / 脆弱性 14.00
+- Alleged Higgsfield AI Agent Leak | BSC | 降温中 | 强度 69.65 | 质量 57.63
+  - 主题摘要：According to Silverhand's post, the Higgsfield AI creative agent interface, featuring a blue mascot named Mr. Higgs, was allegedly leaked. The interface reportedly resembles Perpl…
+  - 资金 100.00 / 广度 32.65 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 点亮人生 | BSC | 加速中 | 强度 66.76 | 质量 52.99
-  - 主题摘要：点亮人生 (Light Up Your Life) is a community-driven token focused on empowering individuals through digital transformation. It aims to bridge traditional finance with blockchain techn…
-  - 资金 100.00 / 广度 59.56 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Community | BSC | 加速中 | 强度 66.29 | 质量 53.11
-  - 主题摘要：Community token represents a decentralized ecosystem focused on fostering global collaboration. The logo features a rising arrow symbolizing upward momentum and growth, while the…
-  - 资金 100.00 / 广度 66.04 / 确认 20.16 / 脆弱性 14.00
+- CF | BSC | 降温中 | 强度 68.36 | 质量 53.85
+  - 主题摘要：Multiple tokens named 「CF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.66 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 雷神 | BSC | 降温中 | 强度 66.15 | 质量 53.91
+  - 主题摘要：雷神 (Thunder God) is a meme token inspired by Norse mythology, featuring a cartoon character with a lightning bolt. It aims to build a community around Norse-inspired themes, with…
+  - 资金 100.00 / 广度 66.64 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:elizaOK Launch on Binance Square | BSC | 加速中 | 强度 65.09 | 质量 54.65
+  - 主题摘要：According to the post, elizaOK is now available on Binance Square, indicating a new token launch or platform integration. The token is associated with AI and digital companion the…
+  - 资金 100.00 / 广度 65.82 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 74.5，其中已确认叙事 0 个。
-- FIFA 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Dad AI Launches AI Agent on X 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.19，其中已确认叙事 0 个。
+- PANINI Mascot Launch 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Doji Mentions $CHINA Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- FIFA | 质量 79.40 | 可交易性 100.00 | 风险 低
-- Alleged ballsackdorkl Token Launch | 质量 73.30 | 可交易性 81.74 | 风险 低
-- Diamond Hands Meme and Token Promotion | 质量 68.24 | 可交易性 70.85 | 风险 低
-- Hatewatch | 质量 65.24 | 可交易性 72.46 | 风险 低
-- Monty-Aaron | 质量 64.17 | 可交易性 55.28 | 风险 低
-- Macron Comments on Iranian Naval Alert | 质量 62.82 | 可交易性 55.15 | 风险 低
-- Troll Kitty Meme Image Promotion | 质量 62.79 | 可交易性 52.98 | 风险 低
-- PTCG: What Is It and How to Play? | 质量 59.39 | 可交易性 72.44 | 风险 低
-- Dad AI Launches AI Agent on X | 质量 59.11 | 可交易性 53.89 | 风险 低
-- POV: Candles Move Your Way | 质量 56.93 | 可交易性 62.41 | 风险 低
+- FIFA | 质量 78.24 | 可交易性 97.28 | 风险 低
+- PANINI Mascot Launch | 质量 70.51 | 可交易性 79.11 | 风险 低
+- Pope Leo's Nike Shoes Go Viral | 质量 68.03 | 可交易性 65.89 | 风险 低
+- Elon Musk on Nolan Racism | 质量 67.40 | 可交易性 65.42 | 风险 低
+- Monty-Aaron | 质量 66.54 | 可交易性 62.31 | 风险 低
+- Doji Mentions $CHINA Token | 质量 63.49 | 可交易性 62.11 | 风险 低
+- Dad AI Launches AI Agent on X | 质量 62.83 | 可交易性 59.11 | 风险 低
+- White House Engages with PEPE Meme Coin | 质量 61.95 | 可交易性 83.01 | 风险 低
+- PTCG: What Is It and How to Play? | 质量 60.51 | 可交易性 72.76 | 风险 低
+- Macron Comments on Iranian Naval Alert | 质量 60.28 | 可交易性 54.66 | 风险 低
 
 ## 伪叙事风险
 
-- Diamond Hands Meme and Token Promotion | 风险 44.91 | 原因：流动性偏薄
+- 雷神 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -103,24 +103,24 @@
 - WORLDCUP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PNL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HANTA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- RoyalPop | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RKC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Goblin | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - POSITIONS | Solana | 看多 | 新鲜度 95.18 | 暂无直接叙事映射
-- RoyalPop | Solana | 看多 | 新鲜度 83.16 | 暂无直接叙事映射
 - 小马 | BSC | 看多 | 新鲜度 82.46 | 暂无直接叙事映射
 
 ## 官方催化
 
+- [Binance Earn: Enjoy Up to 10% APR with KGST Flexible Products – 80,000 KGST Limit Available! (2026-05-14)](https://www.binance.com/zh-CN/support/announcement/detail/2d66810bc904445d91664881fc11f5cb)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Earn is excited to launch a…
+- [Join the Spot Trading Competition: Trade to Share Up to 200,000 U Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/1f60c997f57a48799dd9a825aa684684)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to launch a United Stables (U) Trading Tourn…
 - [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-13)](https://www.binance.com/zh-CN/support/announcement/detail/abc1d592323d4c1fb4c1c71cfa50d02c)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn presents to you new offers that are new…
 - [Updates on Tick Size for Spot Trading Pairs (2026-05-20)](https://www.binance.com/zh-CN/support/announcement/detail/ac3fad5bf9c041cdb25a77347c17a2e2)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve trading experience, Binance will complete…
 - [Binance Card: Spend U with Your Card and Get Up to 15% in U Cashback!](https://www.binance.com/zh-CN/support/announcement/detail/814f470c6bb94eccb52f3074e0a0bc6e)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance announces support for U token on Binance Card , ex…
-- [Pizza Day Is Better Together: Team Up for BTC & Share $1,000,000 in USDC Rewards!](https://www.binance.com/zh-CN/support/announcement/detail/bc6df0f50c824898986e2ef3649ee1c9)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, This Pizza Day, we believe everything is better together!&…
-- [edgeX Trading Competition: Trade edgeX (EDGE) and Share $100K Worth of Rewards (2026-05-12)](https://www.binance.com/zh-CN/support/announcement/detail/8e048c79c4a44742b2a68974114c9fd1)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wallet is excited to launch the edgeX Tradin…
 - [Binance Margin Will Add New Pairs - 2026-05-12](https://www.binance.com/zh-CN/support/announcement/detail/b4eb8e22deba433583fe18e327e382e0)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Margin will list MEGA/U , TON/U , and TON/USD1 tra…
 - [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-15)](https://www.binance.com/zh-CN/support/announcement/detail/fd9a0d1f932f4025bdb09b6c57179c9a)
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：FIFA（Solana，分数 84.26）
-2. 共振最强代币：BILL（BSC，共振 100.0）
-3. 记忆层变化：FIFA 当前为“新出现”
-4. 最新官方催化：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-13)
+1. 当前最强叙事：FIFA（Solana，分数 81.62）
+2. 共振最强代币：GIGA（Solana，共振 100.0）
+3. 记忆层变化：Doji Mentions $CHINA Token 当前为“新出现”
+4. 最新官方催化：Binance Earn: Enjoy Up to 10% APR with KGST Flexible Products – 80,000 KGST Limit Available! (2026-05-14)
 #Binance #NarrativeOS #OpenClaw
