@@ -1,104 +1,99 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-12T23:46:52.477885+00:00
+- 生成时间：2026-05-13T01:46:05.053474+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 TROLLGE Token and Troll Face Meme Correlation，所在链为 Solana，叙事强度 80.83。
-- 当前平均叙事强度为 76.9，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 GIGA，来自 Solana，共振分数 100.0。
-- 记忆层显示 Michael Trelon: Hybrid Personality Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 VIRION，伪叙事风险 52.99。
+- 当前最强叙事是 Perps，所在链为 Solana，叙事强度 87.0。
+- 当前平均叙事强度为 81.99，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BILL，来自 BSC，共振分数 100.0。
+- 记忆层显示 Perps 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Bing Bing GONE，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Pizza Day Is Better Together: Team Up for BTC & Share $1,000,000 in USDC Rewards!。
 
 ## 叙事雷达
 
-- TROLLGE Token and Troll Face Meme Correlation | Solana | 降温中 | 强度 80.83 | 质量 71.14
+- Perps | Solana | 降温中 | 强度 87.00 | 质量 79.65
+  - 主题摘要：Multiple tokens named 「perps」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.37 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- perps | Solana | 降温中 | 强度 86.99 | 质量 79.63
+  - 主题摘要：According to the post, the Perps project on GitHub has only two contributors and includes an image showing fees being sent to both.
+  - 资金 100.00 / 广度 93.31 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Hidden Message in Perps Banner Revealed | Solana | 降温中 | 强度 83.19 | 质量 75.28
+  - 主题摘要：According to Sanji's post, a hidden message was discovered in the @perps banner, which appears to reference the phrase 'If you found this your early', suggesting a potential Meme…
+  - 资金 100.00 / 广度 84.50 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- TROLLGE Token and Troll Face Meme Correlation | Solana | 降温中 | 强度 83.01 | 质量 71.36
   - 主题摘要：According to DaliGambles's post, the Trollge meme, associated with the 'Troll Face' meme, has gained significant traction, with the token $Trollge being referenced as a speculativ…
-  - 资金 100.00 / 广度 87.26 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.41 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trollge Meme Image Resurgence | Solana | 降温中 | 强度 78.40 | 质量 67.02
+- Trollge Meme Image Resurgence | Solana | 降温中 | 强度 80.51 | 质量 67.24
   - 主题摘要：According to Dooms's post, the TROLLGE Meme image, originally associated with brainrot and cursed internet edits, is experiencing a resurgence. The post references the lore behind…
-  - 资金 100.00 / 广度 79.20 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.35 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TROLLGE CTO Verification Request | Solana | 降温中 | 强度 77.62 | 质量 65.68
+- TROLLGE CTO Verification Request | Solana | 降温中 | 强度 79.80 | 质量 65.89
   - 主题摘要：According to TROLLGE's post, the user is requesting verification of Pumpfun's CTO, indicating a call for official confirmation of a key team member's identity on the platform.
-  - 资金 100.00 / 广度 86.69 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.84 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Michael Trelon: Hybrid Personality Token | Solana | 加速中 | 强度 77.33 | 质量 70.83
-  - 主题摘要：According to Michael Trelon's post, a personality-based token combining traits of Michael Saylor, Donald Trump, and Elon Musk has been introduced, targeting individuals who remain…
-  - 资金 100.00 / 广度 61.86 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- South Pump Launches Crypto-Themed Streaming Platform | Solana | 加速中 | 强度 76.61 | 质量 70.78
-  - 主题摘要：According to southpumponsol's post, South Pump has launched a streaming platform featuring original South Park-style animated episodes focused on crypto-related themes such as rug…
-  - 资金 100.00 / 广度 61.14 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ape | Solana | 加速中 | 强度 75.97 | 质量 60.62
-  - 主题摘要：According to the post, the CTO behind Giga, after previously declining multiple six-figure deals, has launched a new token named $Ape, aiming to transform a meme into a decentrali…
-  - 资金 100.00 / 广度 79.91 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- VIRION | Solana | 点火期 | 强度 75.18 | 质量 73.68
-  - 主题摘要：Multiple tokens named 「VIRION」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.73 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Bing Bing GONE | Solana | 降温中 | 强度 73.23 | 质量 59.60
+- Bing Bing GONE | Solana | 降温中 | 强度 78.05 | 质量 66.72
   - 主题摘要：The White House posted 'Bing, Bing, GONE!!!', a phrase associated with multiple cryptocurrency tokens. The expression appears to be used in a cultural or colloquial context, witho…
-  - 资金 100.00 / 广度 84.63 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.55 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Unitree Launches GD01 Human-Carrying Transforming Mecha | BSC | 加速中 | 强度 68.75 | 质量 60.71
-  - 主题摘要：According to the post, Unitree Technology announced the GD01, a transformable humanoid mecha designed for civilian transportation use, weighing approximately 500kg when carrying a…
-  - 资金 100.00 / 广度 77.29 / 确认 24.48 / 脆弱性 14.00
+- White House Engages with PEPE Meme Coin | Solana | 降温中 | 强度 77.36 | 质量 70.70
+  - 主题摘要：The White House posted content questioning which territory might become the 51st state of the United States, listing options such as Canada, Greenland, and Venezuela.
+  - 资金 94.49 / 广度 84.85 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Unitree Launches GD01 Human-Carrying Transforming Mecha | BSC | 加速中 | 强度 70.61 | 质量 62.14
+  - 主题摘要：According to the post, Unitree Technology announced the GD01, a transformable humanoid mecha designed for civilian transportation use, priced at 3.9 million yuan and weighing appr…
+  - 资金 100.00 / 广度 77.97 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MEME DNA | BSC | 加速中 | 强度 68.41 | 质量 58.99
-  - 主题摘要：According to the post, a Meme图 illustrates the concept of examining the 'DNA' of individuals deeply involved in cryptocurrency, symbolizing the intrinsic traits of crypto enthusia…
-  - 资金 100.00 / 广度 73.17 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 68.26 | 质量 59.09
-  - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on BNB Smart Chain, with permanent storage via IPFS and fixed rarity tiers.
-  - 资金 100.00 / 广度 69.63 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 雷神 | BSC | 降温中 | 强度 68.22 | 质量 51.88
+- 雷神 | BSC | 降温中 | 强度 69.44 | 质量 53.73
   - 主题摘要：雷神 (Thunder God) is a meme token inspired by Norse mythology, featuring a cartoon character with a lightning bolt. It aims to build a community around Norse-inspired themes, with…
-  - 资金 100.00 / 广度 61.31 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 61.65 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Responds to Criticism | BSC | 加速中 | 强度 67.95 | 质量 64.95
-  - 主题摘要：Binance co-founder Yi He confidently responded to a critic by claiming her luck will only get better in the next two decades, sparking a meme-worthy moment with a classic anime re…
-  - 资金 100.00 / 广度 83.58 / 确认 27.36 / 脆弱性 14.00
+- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 67.99 | 质量 58.12
+  - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on BNB Smart Chain, with permanent storage via IPFS and fixed rarity tiers.
+  - 资金 100.00 / 广度 69.77 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He's Social Media Response | BSC | 点火期 | 强度 67.26 | 质量 63.46
-  - 主题摘要：Yi He's cryptic response sparks debate on double standards in strength and freedom of expression, with meme potential rooted in philosophical irony and personality clash.
-  - 资金 100.00 / 广度 85.36 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Community | BSC | 加速中 | 强度 67.99 | 质量 55.31
+  - 主题摘要：Community token represents a decentralized ecosystem focused on fostering global collaboration. The logo features a rising arrow symbolizing upward momentum and growth, while the…
+  - 资金 100.00 / 广度 67.60 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He Responds to Criticism | BSC | 加速中 | 强度 67.66 | 质量 66.39
+  - 主题摘要：Binance co-founder Yi He confidently responded to a critic by claiming her luck will only get better in the next two decades, sparking a meme-worthy moment with a classic anime re…
+  - 资金 100.00 / 广度 83.26 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 点亮人生 | BSC | 加速中 | 强度 67.02 | 质量 50.96
+  - 主题摘要：点亮人生 (Light Up Your Life) is a community-driven token focused on empowering individuals through digital transformation. It aims to bridge traditional finance with blockchain techn…
+  - 资金 100.00 / 广度 59.27 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.9，其中已确认叙事 0 个。
-- Michael Trelon: Hybrid Personality Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- TROLLGE Token and Troll Face Meme Correlation 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.99，其中已确认叙事 0 个。
+- Community 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Perps 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- VIRION | 质量 73.68 | 可交易性 100.00 | 风险 低
-- TROLLGE Token and Troll Face Meme Correlation | 质量 71.14 | 可交易性 83.02 | 风险 低
-- Michael Trelon: Hybrid Personality Token | 质量 70.83 | 可交易性 100.00 | 风险 低
-- South Pump Launches Crypto-Themed Streaming Platform | 质量 70.78 | 可交易性 100.00 | 风险 低
-- Trollge Meme Image Resurgence | 质量 67.02 | 可交易性 77.35 | 风险 低
-- TROLLGE CTO Verification Request | 质量 65.68 | 可交易性 65.38 | 风险 低
-- Yi He Responds to Criticism | 质量 64.95 | 可交易性 100.00 | 风险 低
-- Yi He's Social Media Response | 质量 63.46 | 可交易性 95.30 | 风险 低
-- Unitree Launches GD01 Human-Carrying Transforming Mecha | 质量 60.71 | 可交易性 47.12 | 风险 低
-- Ape | 质量 60.62 | 可交易性 44.72 | 风险 低
+- Perps | 质量 79.65 | 可交易性 99.98 | 风险 低
+- perps | 质量 79.63 | 可交易性 99.98 | 风险 低
+- Hidden Message in Perps Banner Revealed | 质量 75.28 | 可交易性 99.57 | 风险 低
+- TROLLGE Token and Troll Face Meme Correlation | 质量 71.36 | 可交易性 83.58 | 风险 低
+- White House Engages with PEPE Meme Coin | 质量 70.70 | 可交易性 83.96 | 风险 低
+- Trollge Meme Image Resurgence | 质量 67.24 | 可交易性 77.91 | 风险 低
+- Bing Bing GONE | 质量 66.72 | 可交易性 88.48 | 风险 低
+- Yi He Responds to Criticism | 质量 66.39 | 可交易性 100.00 | 风险 低
+- TROLLGE CTO Verification Request | 质量 65.89 | 可交易性 65.94 | 风险 低
+- Unitree Launches GD01 Human-Carrying Transforming Mecha | 质量 62.14 | 可交易性 51.20 | 风险 低
 
 ## 伪叙事风险
 
-- VIRION | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Yi He's Social Media Response | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- TROLLGE Token and Troll Face Meme Correlation | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Trollge Meme Image Resurgence | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- TROLLGE CTO Verification Request | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - Bing Bing GONE | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -106,10 +101,10 @@
 - 唐三藏 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - alienmusk | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PNL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- HANTA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RKC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Goblin | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BMNTP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- HANTA | Solana | 看多 | 新鲜度 91.81 | 暂无直接叙事映射
+- POSITIONS | Solana | 看多 | 新鲜度 95.18 | 暂无直接叙事映射
 - 小马 | BSC | 看多 | 新鲜度 82.46 | 暂无直接叙事映射
 - WORLDCUP | Solana | 看多 | 新鲜度 70.20 | 暂无直接叙事映射
 - RoyalPop | Solana | 看多 | 新鲜度 68.01 | 暂无直接叙事映射
@@ -138,8 +133,12 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：TROLLGE Token and Troll Face Meme Correlation（Solana，分数 80.83）
-2. 共振最强代币：GIGA（Solana，共振 100.0）
-3. 记忆层变化：Michael Trelon: Hybrid Personality Token 当前为“新出现”
+1. 当前最强叙事：Perps（Solana，分数 87.0）
+2. 共振最强代币：BILL（BSC，共振 100.0）
+3. 记忆层变化：Perps 当前为“新出现”
 4. 最新官方催化：Pizza Day Is Better Together: Team Up for BTC & Share $1,000,000 in USDC Rewards!
 #Binance #NarrativeOS #OpenClaw
+
+## 警告
+
+- token_audit:56:0xc7775c06bc029ea813852db34ce540ade87c4444: 504 Server Error: Gateway Timeout for url: https://web3.binance.com/bapi/defi/v1/public/wallet-direct/security/token/audit
