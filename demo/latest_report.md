@@ -1,103 +1,106 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-13T13:25:52.385822+00:00
+- 生成时间：2026-05-13T15:59:41.072322+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 FIFA，所在链为 Solana，叙事强度 79.95。
-- 当前平均叙事强度为 77.38，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 WallStreetBets Wallet Fees Exposure 当前处于“新出现”状态。
-- 最新官方催化来自 新币上新：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-15)。
+- 当前最强叙事是 White House Task Force，所在链为 Solana，叙事强度 84.05。
+- 当前平均叙事强度为 79.17，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BILL，来自 BSC，共振分数 100.0。
+- 记忆层显示 White House Task Force 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Virus Cup Coin，伪叙事风险 40.99。
+- 最新官方催化来自 币安最新公告：Important Updates on Price Index Calculation Mode of Equity-Based TradFi Perpetual Contracts (2026-05-16)。
 
 ## 叙事雷达
 
-- FIFA | Solana | 加速中 | 强度 79.95 | 质量 74.44
-  - 主题摘要：According to Honestdevor's post, the author proposes creating a meme version of FIFA, the world's football organization, by launching a token named $FIFA. The post suggests this i…
-  - 资金 100.00 / 广度 88.31 / 确认 20.16 / 脆弱性 14.00
+- White House Task Force | Solana | 加速中 | 强度 84.05 | 质量 79.85
+  - 主题摘要：According to the post, a token named 'White House Task Force' (WHTF) is being promoted with claims of reaching a $300k valuation. The post references a 'World Cup 2026' image and…
+  - 资金 100.00 / 广度 88.22 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WallStreetBets Wallet Fees Exposure | Solana | 加速中 | 强度 79.91 | 质量 80.18
+- Paula's Post on Anthropic | Solana | 加速中 | 强度 81.82 | 质量 74.99
+  - 主题摘要：According to “paula”'s post, the content discusses the experience of having friends at Anthropic. The post highlights personal connections within the AI company, reflecting on pro…
+  - 资金 100.00 / 广度 83.13 / 确认 23.80 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- WallStreetBets Wallet Fees Exposure | Solana | 加速中 | 强度 81.17 | 质量 81.89
   - 主题摘要：Multiple tokens named 「GME」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.70 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 95.79 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk on Nolan Racism | Solana | 加速中 | 强度 78.20 | 质量 75.49
-  - 主题摘要：Elon Musk endorsed Alice Smith's controversial claim that director Christopher Nolan is racist against Greek people and their cultural heritage, sparking debate.
-  - 资金 100.00 / 广度 88.78 / 确认 20.16 / 脆弱性 14.00
+- GME | Solana | 加速中 | 强度 78.88 | 质量 79.26
+  - 主题摘要：Multiple tokens named 「GME」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.94 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 美加墨世界杯 | BSC | 加速中 | 强度 77.64 | 质量 67.26
+- Keyboard Cat Meme Image in GME Meta | Solana | 加速中 | 强度 78.20 | 质量 78.17
+  - 主题摘要：According to thedevrrrrrr's post, the author suggests that a Keyboard Cat Meme image found as an Easter egg on the GameStop website aligns with the current GME market trend, imply…
+  - 资金 100.00 / 广度 88.28 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Japan Disaster Relief | BSC | 加速中 | 强度 77.48 | 质量 72.16
+  - 主题摘要：Multiple tokens named 「JAPANFUND」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.96 / 确认 23.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged SLEEPCOIN Launch | Solana | 降温中 | 强度 77.36 | 质量 70.62
+  - 主题摘要：According to lmeow's post, the user claims to have launched a token named SLEEPCOIN, describing its thesis as 'just buy and sleep'. This information is unverified. Please exercise…
+  - 资金 100.00 / 广度 64.31 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Scorely | Solana | 加速中 | 强度 76.75 | 质量 70.68
+  - 主题摘要：Multiple tokens named 「SCORE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 58.16 / 确认 23.76 / 脆弱性 0.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 美加墨世界杯 | BSC | 降温中 | 强度 75.70 | 质量 65.82
   - 主题摘要：Multiple tokens named 「美加墨世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.97 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GME | Solana | 加速中 | 强度 77.47 | 质量 77.60
-  - 主题摘要：Multiple tokens named 「GME」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.25 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GME GO BRRR Meme Image Post | Solana | 加速中 | 强度 76.73 | 质量 65.37
-  - 主题摘要：Multiple tokens named 「GME」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.39 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Virus Cup Coin | Solana | 降温中 | 强度 76.17 | 质量 68.57
+  - 资金 100.00 / 广度 74.53 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Virus Cup Coin | Solana | 降温中 | 强度 75.15 | 质量 61.38
   - 主题摘要：VIRUSCUP is a satirical meme token inspired by the World Cup trophy, reimagined with a virus-shaped design. The logo features a golden trophy with a coronavirus-like structure aga…
-  - 资金 100.00 / 广度 65.41 / 确认 4.32 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.71 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Doji Mentions $CHINA Token | Solana | 加速中 | 强度 75.38 | 质量 65.44
-  - 主题摘要：According to Doji's post, the $CHINA token is currently trading. The post includes a quoted tweet referencing 'TRUMP IN CHINA'.
-  - 资金 100.00 / 广度 80.34 / 确认 24.48 / 脆弱性 24.00
+- BNB自拉 | BSC | 加速中 | 强度 72.95 | 质量 59.68
+  - 主题摘要：Multiple tokens named 「BNB自拉」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.63 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Keyboard Cat Meme Image in GME Meta | Solana | 加速中 | 强度 75.20 | 质量 73.80
-  - 主题摘要：Multiple tokens named 「KEYCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.12 / 确认 23.76 / 脆弱性 24.00
+- 蝴蝶金锁 | BSC | 加速中 | 强度 70.50 | 质量 55.28
+  - 主题摘要：蝴蝶金锁 (Butterfly Golden Lock) introduces a unique lock-and-share mechanism on the Butterfly platform. The logo features a golden padlock with butterfly wings, symbolizing protectio…
+  - 资金 100.00 / 广度 68.20 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Richard Teng Shares Honey Purchase in Bhutan | BSC | 降温中 | 强度 74.86 | 质量 61.05
-  - 主题摘要：According to Binance MENA's post, Richard Teng shared that his first purchase with Binance was buying honey in Bhutan, and invited users to join the summit.
-  - 资金 100.00 / 广度 68.08 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PTCG: What Is It and How to Play? | BSC | 加速中 | 强度 71.61 | 质量 60.62
-  - 主题摘要：According to the post, PTCG is a project that mints 1025 pixel-art Pokémon as NFTs on BNB Smart Chain, with permanent storage via IPFS and fixed rarity tiers.
-  - 资金 100.00 / 广度 68.13 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 点亮人生 | BSC | 加速中 | 强度 68.56 | 质量 52.74
+- 点亮人生 | BSC | 加速中 | 强度 69.25 | 质量 53.35
   - 主题摘要：点亮人生 (Light Up Your Life) is a community-driven token focused on empowering individuals through digital transformation. It aims to bridge traditional finance with blockchain techn…
-  - 资金 100.00 / 广度 59.49 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 60.62 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CF | BSC | 降温中 | 强度 66.75 | 质量 53.53
-  - 主题摘要：Multiple tokens named 「CF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.91 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 雷神 | BSC | 降温中 | 强度 66.03 | 质量 51.73
-  - 主题摘要：雷神 (Thunder God) is a meme token inspired by Norse mythology, featuring a cartoon character with a lightning bolt. It aims to build a community around Norse-inspired themes, with…
-  - 资金 100.00 / 广度 66.66 / 确认 9.36 / 脆弱性 14.00
+- Together We Travel the World | BSC | 降温中 | 强度 67.85 | 质量 55.96
+  - 主题摘要：Yi He replied to a philosophical question about who leads whom — Binance or its users — with a scenic photo featuring a Binance-branded backpack, symbolizing the lifestyle of work…
+  - 资金 100.00 / 广度 68.06 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.38，其中已确认叙事 0 个。
-- WallStreetBets Wallet Fees Exposure 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Virus Cup Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.17，其中已确认叙事 0 个。
+- White House Task Force 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged SLEEPCOIN Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- WallStreetBets Wallet Fees Exposure | 质量 80.18 | 可交易性 95.50 | 风险 低
-- GME | 质量 77.60 | 可交易性 100.00 | 风险 低
-- Elon Musk on Nolan Racism | 质量 75.49 | 可交易性 88.08 | 风险 低
-- FIFA | 质量 74.44 | 可交易性 98.60 | 风险 低
-- Keyboard Cat Meme Image in GME Meta | 质量 73.80 | 可交易性 89.45 | 风险 低
-- Virus Cup Coin | 质量 68.57 | 可交易性 100.00 | 风险 低
-- 美加墨世界杯 | 质量 67.26 | 可交易性 76.43 | 风险 低
-- Doji Mentions $CHINA Token | 质量 65.44 | 可交易性 59.83 | 风险 低
-- GME GO BRRR Meme Image Post | 质量 65.37 | 可交易性 60.08 | 风险 低
-- Uncertain:Richard Teng Shares Honey Purchase in Bhutan | 质量 61.05 | 可交易性 68.57 | 风险 低
+- WallStreetBets Wallet Fees Exposure | 质量 81.89 | 可交易性 100.00 | 风险 低
+- White House Task Force | 质量 79.85 | 可交易性 100.00 | 风险 低
+- GME | 质量 79.26 | 可交易性 100.00 | 风险 低
+- Keyboard Cat Meme Image in GME Meta | 质量 78.17 | 可交易性 98.19 | 风险 低
+- Paula's Post on Anthropic | 质量 74.99 | 可交易性 89.39 | 风险 低
+- Japan Disaster Relief | 质量 72.16 | 可交易性 93.68 | 风险 低
+- Scorely | 质量 70.68 | 可交易性 100.00 | 风险 低
+- Alleged SLEEPCOIN Launch | 质量 70.62 | 可交易性 100.00 | 风险 低
+- 美加墨世界杯 | 质量 65.82 | 可交易性 75.83 | 风险 低
+- Virus Cup Coin | 质量 61.38 | 可交易性 88.18 | 风险 低
 
 ## 伪叙事风险
 
+- Virus Cup Coin | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - 唐三藏 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - alienmusk | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PTOKEN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - WORLDCUP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PNL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HANTA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -105,10 +108,11 @@
 - RKC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Goblin | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - POSITIONS | Solana | 看多 | 新鲜度 95.18 | 暂无直接叙事映射
-- 小马 | BSC | 看多 | 新鲜度 82.46 | 暂无直接叙事映射
 
 ## 官方催化
 
+- [Important Updates on Price Index Calculation Mode of Equity-Based TradFi Perpetual Contracts (2026-05-16)](https://www.binance.com/zh-CN/support/announcement/detail/53bfc17634f54f2f90666dbc396f5cee)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, Binance constantly reviews its product and service offerings to ensure the best u…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-15)](https://www.binance.com/zh-CN/support/announcement/detail/3c04310db1ad4e0fbe234d2c00d0c785)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
 - [Binance Offline Summit: Watch the Event and Share your Favorite Quotes to Share 2,000 USDC in Rewards!](https://www.binance.com/zh-CN/support/announcement/detail/bf793514a237434fa54283446e15642b)
@@ -123,16 +127,14 @@
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve trading experience, Binance will complete…
 - [Binance Margin Will Add New Pairs - 2026-05-12](https://www.binance.com/zh-CN/support/announcement/detail/b4eb8e22deba433583fe18e327e382e0)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Margin will list MEGA/U , TON/U , and TON/USD1 tra…
-- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-15)](https://www.binance.com/zh-CN/support/announcement/detail/fd9a0d1f932f4025bdb09b6c57179c9a)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered Collateral Ratio for PM Pro for the foll…
 - [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-05-12](https://www.binance.com/zh-CN/support/announcement/detail/9d96b17988bd41e9bd8898c586f68744)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Spot an…
 
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：FIFA（Solana，分数 79.95）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：WallStreetBets Wallet Fees Exposure 当前为“新出现”
-4. 最新官方催化：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-15)
+1. 当前最强叙事：White House Task Force（Solana，分数 84.05）
+2. 共振最强代币：BILL（BSC，共振 100.0）
+3. 记忆层变化：White House Task Force 当前为“新出现”
+4. 最新官方催化：Important Updates on Price Index Calculation Mode of Equity-Based TradFi Perpetual Contracts (2026-05-16)
 #Binance #NarrativeOS #OpenClaw
