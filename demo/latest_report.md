@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-14T22:33:55.654770+00:00
+- 生成时间：2026-05-14T23:33:18.039072+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 USELESS GIGA TROLL，所在链为 Solana，叙事强度 86.04。
-- 当前平均叙事强度为 78.2，其中已确认叙事 2 个。
+- 当前最强叙事是 Okay Guy，所在链为 Solana，叙事强度 84.17。
+- 当前平均叙事强度为 79.68，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Okay Guy 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Clarity Act Meme Campaign，伪叙事风险 42.03。
+- 记忆层显示 Alleged Bee Coin Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 USELESS GIGA TROLL，伪叙事风险 40.99。
 - 最新官方催化来自 新币上新：Binance Will Add Gensyn (AIGENSYN) on Earn, Buy Crypto, Convert, VIP Loan & Margin。
 
 ## 叙事雷达
 
-- USELESS GIGA TROLL | Solana | 降温中 | 强度 86.04 | 质量 76.41
-  - 主题摘要：Multiple tokens named 「UGT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.55 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Andy Ayrey Comments on AI Art | Solana | 已确认 | 强度 83.61 | 质量 79.42
-  - 主题摘要：According to Andy Ayrey's post, Andy Ayrey expressed strong positive sentiment regarding a discussion about posting real art labeled as AI-generated, noting that such content gene…
-  - 资金 100.00 / 广度 84.14 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged New Meme Coin Little Joe | Solana | 已确认 | 强度 79.03 | 质量 71.06
-  - 主题摘要：According to noir's post, the user claims to have identified 'Little Joe' as the next trending Meme coin, asserting that it is currently number one on trending lists and widely di…
-  - 资金 100.00 / 广度 82.00 / 确认 34.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Okay Guy | Solana | 降温中 | 强度 78.77 | 质量 69.55
+- Okay Guy | Solana | 降温中 | 强度 84.17 | 质量 72.47
   - 主题摘要：Multiple tokens named 「OKGUY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.97 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.69 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AI IQ Launch Announcement | Solana | 加速中 | 强度 76.88 | 质量 76.16
+- USELESS GIGA TROLL | Solana | 降温中 | 强度 83.63 | 质量 75.79
+  - 主题摘要：Multiple tokens named 「UGT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.76 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Andy Ayrey Comments on AI Art | Solana | 已确认 | 强度 82.42 | 质量 79.44
+  - 主题摘要：According to Andy Ayrey's post, Andy Ayrey expressed strong positive sentiment regarding a discussion about posting real art labeled as AI-generated, noting that such content gene…
+  - 资金 100.00 / 广度 84.20 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Bee Coin Launch | Solana | 降温中 | 强度 80.95 | 质量 68.81
+  - 主题摘要：According to the post, Bee Coin is allegedly launched with fees designated to 'Save the Bees,' claiming it is the most valuable coin due to bees' importance to human existence. Th…
+  - 资金 100.00 / 广度 81.79 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- AI IQ Launch Announcement | Solana | 加速中 | 强度 78.44 | 质量 76.10
   - 主题摘要：According to Marc Andreessen's post, he retweeted Ryan Shea's announcement regarding the launch of AI IQ, a framework for scoring frontier AI models on the human IQ scale. The ini…
-  - 资金 100.00 / 广度 85.05 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.09 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon's Survival Guide | BSC | 加速中 | 强度 76.60 | 质量 64.00
-  - 主题摘要：Elon Musk urges everyone to read a specific book, claiming civilization's survival depends on it. This creates a high-stakes, meme-worthy narrative of 'mandatory reading' driven b…
-  - 资金 100.00 / 广度 65.79 / 确认 20.16 / 脆弱性 14.00
+- Alleged CATCH Token Launch | Solana | 加速中 | 强度 77.27 | 质量 62.85
+  - 主题摘要：According to GOTTA CATCH 'EM ALL's post, the CATCH token on Solana has allegedly launched, with 151 memecoins releasing over five days and 30 currently live. Users are invited to…
+  - 资金 100.00 / 广度 77.66 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Clarity Act Meme Campaign | Solana | 点火期 | 强度 75.45 | 质量 66.30
-  - 主题摘要：According to CPT Price's post, the $CLARITY token is described as a meme coin representing the concept of 'post-nut clarity,' contrasting with the political CLARITY Act. CPT Price…
-  - 资金 100.00 / 广度 81.13 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 世界杯 | BSC | 加速中 | 强度 74.61 | 质量 62.36
-  - 主题摘要：Multiple tokens named 「世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.61 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elsharnoub4370 Posts Topic | BSC | 加速中 | 强度 74.22 | 质量 72.60
+- Elsharnoub4370 Posts Topic | BSC | 加速中 | 强度 76.72 | 质量 73.94
   - 主题摘要：According to 魔丸's post, the user shared a social media update indicating that the theme of the current discussion or series is 'this'. The post serves as an introductory statement…
-  - 资金 100.00 / 广度 82.69 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.72 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged SpaceX Meme Image | Solana | 加速中 | 强度 73.45 | 质量 70.90
-  - 主题摘要：According to the post, an Easter egg featuring a MOONPEPE Meme image appears on the SpaceX TradingView chart after a few seconds of waiting. This content highlights a specific vis…
-  - 资金 100.00 / 广度 85.22 / 确认 23.76 / 脆弱性 24.00
+- Toly's Marx Meme | Solana | 加速中 | 强度 75.58 | 质量 71.00
+  - 主题摘要：According to toly's post, a comparison meme titled "Me vs Marx" was shared. This content references philosophical and ideological contrasts, potentially linking to tokens such as…
+  - 资金 100.00 / 广度 80.92 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon's Mandarin Journey | BSC | 加速中 | 强度 73.39 | 质量 68.06
+- Kohei Promotes Toly Tracker App | Solana | 加速中 | 强度 74.99 | 质量 69.95
+  - 主题摘要：According to Kohei's post, Kohei shared a link to Toly Tracker, an application that tracks @toly's tweets and ranks products based on his bullish sentiment, encouraging users to e…
+  - 资金 100.00 / 广度 83.39 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 世界杯 | BSC | 加速中 | 强度 72.80 | 质量 62.29
+  - 主题摘要：Multiple tokens named 「世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.63 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon's Mandarin Journey | BSC | 加速中 | 强度 72.26 | 质量 68.10
   - 主题摘要：Elon Musk's youngest son, X Æ A-Xii, gained attention for wearing traditional Chinese clothing during the Elon Musk-US-China trade delegation visit. Musk's lighthearted tweet abou…
-  - 资金 100.00 / 广度 81.22 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.24 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ChudTheBuilder | Solana | 降温中 | 强度 72.37 | 质量 61.36
-  - 主题摘要：According to FearBuck's post, ChudTheBuilder has been arrested and charged with attempted murder following the release of his mugshot.
-  - 资金 100.00 / 广度 71.35 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 足球 | BSC | 加速中 | 强度 70.47 | 质量 59.38
+- 足球 | BSC | 加速中 | 强度 70.51 | 质量 59.38
   - 主题摘要：足球 token draws inspiration from football culture, aiming to create a community-driven ecosystem. It focuses on fostering engagement through social media campaigns and community ev…
-  - 资金 100.00 / 广度 73.55 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.66 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged First Holder Yield | BSC | 加速中 | 强度 70.25 | 质量 60.54
+- Elon's Survival Guide | BSC | 加速中 | 强度 69.73 | 质量 58.74
+  - 主题摘要：Elon Musk urges everyone to read a specific book, claiming civilization's survival depends on it. This creates a high-stakes, meme-worthy narrative of 'mandatory reading' driven b…
+  - 资金 100.00 / 广度 66.92 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged First Holder Yield | BSC | 加速中 | 强度 69.69 | 质量 60.42
   - 主题摘要：According to 魔丸's post, the first diamond hand holder has realized returns. This information relates to the FDiamond token. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 75.96 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.97 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.2，其中已确认叙事 2 个。
-- Elon's Survival Guide 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- USELESS GIGA TROLL 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.68，其中已确认叙事 1 个。
+- Alleged CATCH Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Okay Guy 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Andy Ayrey Comments on AI Art | 质量 79.42 | 可交易性 100.00 | 风险 低
-- USELESS GIGA TROLL | 质量 76.41 | 可交易性 100.00 | 风险 低
-- AI IQ Launch Announcement | 质量 76.16 | 可交易性 90.88 | 风险 低
-- Elsharnoub4370 Posts Topic | 质量 72.60 | 可交易性 84.71 | 风险 低
-- Alleged New Meme Coin Little Joe | 质量 71.06 | 可交易性 69.43 | 风险 低
-- Alleged SpaceX Meme Image | 质量 70.90 | 可交易性 83.05 | 风险 低
-- Okay Guy | 质量 69.55 | 可交易性 100.00 | 风险 低
-- Elon's Mandarin Journey | 质量 68.06 | 可交易性 65.58 | 风险 低
-- Alleged Clarity Act Meme Campaign | 质量 66.30 | 可交易性 67.71 | 风险 低
-- Elon's Survival Guide | 质量 64.00 | 可交易性 72.76 | 风险 低
+- Andy Ayrey Comments on AI Art | 质量 79.44 | 可交易性 100.00 | 风险 低
+- AI IQ Launch Announcement | 质量 76.10 | 可交易性 91.14 | 风险 低
+- USELESS GIGA TROLL | 质量 75.79 | 可交易性 100.00 | 风险 低
+- Elsharnoub4370 Posts Topic | 质量 73.94 | 可交易性 85.81 | 风险 低
+- Okay Guy | 质量 72.47 | 可交易性 100.00 | 风险 低
+- Toly's Marx Meme | 质量 71.00 | 可交易性 77.81 | 风险 低
+- Kohei Promotes Toly Tracker App | 质量 69.95 | 可交易性 71.81 | 风险 低
+- Alleged Bee Coin Launch | 质量 68.81 | 可交易性 80.72 | 风险 低
+- Elon's Mandarin Journey | 质量 68.10 | 可交易性 65.69 | 风险 低
+- Alleged CATCH Token Launch | 质量 62.85 | 可交易性 54.43 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Clarity Act Meme Campaign | 风险 42.03 | 原因：流动性偏薄
+- USELESS GIGA TROLL | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：USELESS GIGA TROLL（Solana，分数 86.04）
+1. 当前最强叙事：Okay Guy（Solana，分数 84.17）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Okay Guy 当前为“新出现”
+3. 记忆层变化：Alleged Bee Coin Launch 当前为“新出现”
 4. 最新官方催化：Binance Will Add Gensyn (AIGENSYN) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 #Binance #NarrativeOS #OpenClaw
