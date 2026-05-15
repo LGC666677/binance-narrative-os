@@ -1,106 +1,108 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-15T21:38:44.830516+00:00
+- 生成时间：2026-05-15T22:34:12.492380+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Drake Art Theft Meme，所在链为 Solana，叙事强度 89.01。
-- 当前平均叙事强度为 84.82，其中已确认叙事 2 个。
+- 当前最强叙事是 Alleged SpaceX IPO Listing on Nasdaq，所在链为 Solana，叙事强度 88.05。
+- 当前平均叙事强度为 85.31，其中已确认叙事 2 个。
 - 注意力与资金共振最强的代币是 ARIA，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged $NeuraArt Token Launch 当前处于“新出现”状态。
+- 记忆层显示 Singularity Convergence 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Binance Custom Homepage，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：Irys Trading Competition: Trade Irys (IRYS) and Share $200K Worth of Rewards (2026-05-15)。
 
 ## 叙事雷达
 
-- Alleged Drake Art Theft Meme | Solana | 已确认 | 强度 89.01 | 质量 79.96
-  - 主题摘要：Multiple tokens named 「DIAMOND」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.06 / 确认 34.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- WallStreetBets Trading on FOMO | Solana | 加速中 | 强度 88.24 | 质量 79.37
-  - 主题摘要：Multiple tokens named 「WSB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.46 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WallStreetBets Disavows Unrelated Tokens | Solana | 加速中 | 强度 87.98 | 质量 78.88
-  - 主题摘要：According to WallStreetBets's post, the account explicitly states that it has no official tokens. The organization warns that any random individuals airdropping assets into their…
-  - 资金 100.00 / 广度 90.22 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- KP Discusses $DIAMOND Project Updates | Solana | 加速中 | 强度 86.77 | 质量 76.86
-  - 主题摘要：According to KP's post, the $DIAMOND project is undergoing significant development, including the formation of an LLC, trademark filing, and incoming TON partnerships. KP claims a…
-  - 资金 100.00 / 广度 87.14 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Burn Tax | Solana | 已确认 | 强度 83.34 | 质量 81.39
+- Alleged SpaceX IPO Listing on Nasdaq | Solana | 降温中 | 强度 88.05 | 质量 79.41
+  - 主题摘要：According to tradfi news's post, SpaceX is reported to select NASDAQ for its IPO, with shares trading under ticker 'SPCX'. This coincides with the existence of cryptocurrency toke…
+  - 资金 100.00 / 广度 92.54 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Singularity Convergence | Solana | 降温中 | 强度 86.66 | 质量 77.40
+  - 主题摘要：According to Dogan Ural's post, he asserts that all technological and digital elements are inevitably converging into a single entity, X, which he describes as the Singularity. Th…
+  - 资金 100.00 / 广度 85.84 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged SpaceXAI Ticker Speculation | Solana | 降温中 | 强度 86.60 | 质量 77.32
+  - 主题摘要：According to MemeDev's post, the most likely ticker for the token associated with SpaceXAI is SPCX. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 85.59 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Burn Tax | Solana | 已确认 | 强度 86.17 | 质量 81.42
   - 主题摘要：Multiple tokens named 「OUROBOROS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.67 / 确认 28.12 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.77 / 确认 28.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Master Huang | Solana | 加速中 | 强度 81.19 | 质量 76.90
-  - 主题摘要：According to 作家崔成浩's post, netizens reportedly encountered NVIDIA CEO Jensen Huang eating noodles at the Nanluoguxiang area in Beijing. The post describes the scene as down-to-ear…
-  - 资金 100.00 / 广度 78.91 / 确认 23.76 / 脆弱性 0.00
+- Alleged Drake Art Theft Meme | Solana | 已确认 | 强度 84.82 | 质量 78.86
+  - 主题摘要：Multiple tokens named 「DIAMOND」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.25 / 确认 31.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- WallStreetBets Trading on FOMO | Solana | 加速中 | 强度 84.04 | 质量 78.27
+  - 主题摘要：Multiple tokens named 「WSB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.65 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $NeuraArt Token Launch | Solana | 加速中 | 强度 81.05 | 质量 73.07
-  - 主题摘要：According to 𝐒𝐌𝐊𝐑's post, Elon Musk's Neuralink patient Audrey Crews can now create art using her mind. 𝐒𝐌𝐊𝐑 claims to be launching the $NeuraArt token to support her, citing it a…
-  - 资金 100.00 / 广度 65.61 / 确认 24.48 / 脆弱性 14.00
+- WallStreetBets Disavows Unrelated Tokens | Solana | 加速中 | 强度 83.72 | 质量 77.79
+  - 主题摘要：According to WallStreetBets's post, the account explicitly states that it has no official tokens. The organization warns that any random individuals airdropping assets into their…
+  - 资金 100.00 / 广度 90.42 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged SpaceX IPO Listing on Nasdaq | Solana | 加速中 | 强度 80.97 | 质量 78.13
-  - 主题摘要：Multiple tokens named 「SPCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.62 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Rachel Conlan Leaves Binance | BSC | 加速中 | 强度 77.56 | 质量 71.60
-  - 主题摘要：Yi He publicly thanks Rachel Conlan for her contributions as she steps down from Binance after three years. This marks a leadership transition within the exchange's senior managem…
-  - 资金 100.00 / 广度 89.81 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 有钱花 | BSC | 加速中 | 强度 75.82 | 质量 70.67
-  - 主题摘要：Multiple tokens named 「有钱花」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.58 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Custom Homepage | BSC | 点火期 | 强度 71.78 | 质量 69.68
-  - 主题摘要：Binance CEO Richard Teng and Co-CEO Yi He promoted a new feature allowing users to customize their app homepage. This is a standard product update announcement lacking the viral,…
-  - 资金 100.00 / 广度 93.62 / 确认 16.56 / 脆弱性 24.00
+- Elon Musk's X Algorithm Leak | Solana | 点火期 | 强度 82.40 | 质量 79.18
+  - 主题摘要：Elon Musk announces the publication of the latest X (Twitter) algorithm on GitHub, sparking speculation about transparency, content moderation changes, and potential market impact…
+  - 资金 100.00 / 广度 98.76 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Trader Posture Evolution | BSC | 加速中 | 强度 70.80 | 质量 60.66
-  - 主题摘要：A humorous visual timeline showing how the sitting posture of a crypto trader changes as they experience different market cycles.
-  - 资金 100.00 / 广度 75.85 / 确认 24.48 / 脆弱性 24.00
+- 有钱花 | BSC | 加速中 | 强度 77.61 | 质量 70.78
+  - 主题摘要：Multiple tokens named 「有钱花」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.61 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Chain AI Agent | BSC | 加速中 | 强度 68.23 | 质量 56.26
-  - 主题摘要：BNB Chain's official Chinese account announced that developers are creating on-chain AI agents capable of autonomous trading, recruitment, payment, and collaboration without human…
-  - 资金 100.00 / 广度 75.88 / 确认 24.48 / 脆弱性 24.00
+- Rachel Conlan Leaves Binance | BSC | 加速中 | 强度 76.87 | 质量 70.80
+  - 主题摘要：Yi He publicly thanks Rachel Conlan for her contributions as she steps down from Binance after three years. This marks a leadership transition within the exchange's senior managem…
+  - 资金 100.00 / 广度 89.75 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 世界杯 | BSC | 加速中 | 强度 67.97 | 质量 54.09
+- 世界杯 | BSC | 加速中 | 强度 71.04 | 质量 56.36
   - 主题摘要：Multiple tokens named 「世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.10 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.03 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Custom Homepage | BSC | 点火期 | 强度 70.90 | 质量 68.32
+  - 主题摘要：Binance CEO Richard Teng and Co-CEO Yi He promoted a new feature allowing users to customize their app homepage. This is a standard product update announcement lacking the viral,…
+  - 资金 100.00 / 广度 93.63 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Trader Posture Evolution | BSC | 加速中 | 强度 70.11 | 质量 59.86
+  - 主题摘要：A humorous visual timeline showing how the sitting posture of a crypto trader changes as they experience different market cycles.
+  - 资金 100.00 / 广度 75.79 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- BNB Chain AI Agent | BSC | 加速中 | 强度 67.54 | 质量 55.47
+  - 主题摘要：BNB Chain's official Chinese account announced that developers are creating on-chain AI agents capable of autonomous trading, recruitment, payment, and collaboration without human…
+  - 资金 100.00 / 广度 75.83 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.82，其中已确认叙事 2 个。
-- Alleged $NeuraArt Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.31，其中已确认叙事 2 个。
+- Elon Musk's X Algorithm Leak 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged SpaceX IPO Listing on Nasdaq 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Burn Tax | 质量 81.39 | 可交易性 100.00 | 风险 低
-- Alleged Drake Art Theft Meme | 质量 79.96 | 可交易性 92.03 | 风险 低
-- WallStreetBets Trading on FOMO | 质量 79.37 | 可交易性 99.67 | 风险 低
-- WallStreetBets Disavows Unrelated Tokens | 质量 78.88 | 可交易性 95.28 | 风险 低
-- Alleged SpaceX IPO Listing on Nasdaq | 质量 78.13 | 可交易性 93.02 | 风险 低
-- Master Huang | 质量 76.90 | 可交易性 100.00 | 风险 低
-- KP Discusses $DIAMOND Project Updates | 质量 76.86 | 可交易性 91.63 | 风险 低
-- Alleged $NeuraArt Token Launch | 质量 73.07 | 可交易性 100.00 | 风险 低
-- Rachel Conlan Leaves Binance | 质量 71.60 | 可交易性 88.02 | 风险 低
-- 有钱花 | 质量 70.67 | 可交易性 82.04 | 风险 低
+- Burn Tax | 质量 81.42 | 可交易性 100.00 | 风险 低
+- Alleged SpaceX IPO Listing on Nasdaq | 质量 79.41 | 可交易性 100.00 | 风险 低
+- Elon Musk's X Algorithm Leak | 质量 79.18 | 可交易性 100.00 | 风险 低
+- Alleged Drake Art Theft Meme | 质量 78.86 | 可交易性 90.83 | 风险 低
+- WallStreetBets Trading on FOMO | 质量 78.27 | 可交易性 98.47 | 风险 低
+- WallStreetBets Disavows Unrelated Tokens | 质量 77.79 | 可交易性 94.08 | 风险 低
+- Singularity Convergence | 质量 77.40 | 可交易性 100.00 | 风险 低
+- Alleged SpaceXAI Ticker Speculation | 质量 77.32 | 可交易性 100.00 | 风险 低
+- Rachel Conlan Leaves Binance | 质量 70.80 | 可交易性 87.94 | 风险 低
+- 有钱花 | 质量 70.78 | 可交易性 82.38 | 风险 低
 
 ## 伪叙事风险
 
 - Binance Custom Homepage | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon Musk's X Algorithm Leak | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
 - *** | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币安人 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 唐三藏 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- DIAMOND | Solana | 看多 | 新鲜度 100.00 | Alleged Drake Art Theft Meme / WallStreetBets Trading on FOMO / WallStreetBets Disavows Unrelated Tokens / KP Discusses $DIAMOND Project Updates
+- DIAMOND | Solana | 看多 | 新鲜度 100.00 | Alleged Drake Art Theft Meme / WallStreetBets Trading on FOMO / WallStreetBets Disavows Unrelated Tokens
 - PAIN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPCX | Solana | 看多 | 新鲜度 92.98 | 暂无直接叙事映射
 - 搞钱女孩 | BSC | 看多 | 新鲜度 91.01 | 暂无直接叙事映射
@@ -132,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Drake Art Theft Meme（Solana，分数 89.01）
+1. 当前最强叙事：Alleged SpaceX IPO Listing on Nasdaq（Solana，分数 88.05）
 2. 共振最强代币：ARIA（BSC，共振 100.0）
-3. 记忆层变化：Alleged $NeuraArt Token Launch 当前为“新出现”
+3. 记忆层变化：Singularity Convergence 当前为“新出现”
 4. 最新官方催化：Irys Trading Competition: Trade Irys (IRYS) and Share $200K Worth of Rewards (2026-05-15)
 #Binance #NarrativeOS #OpenClaw
