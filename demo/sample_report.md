@@ -1,102 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-16T18:36:50.276452+00:00
+- 生成时间：2026-05-16T19:44:25.464471+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Drakeposting Meme Coin，所在链为 Solana，叙事强度 87.32。
-- 当前平均叙事强度为 79.14，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 KLED，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Cryptocrat Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Cryptocrat Token，伪叙事风险 44.91。
+- 当前最强叙事是 Yagiz Nizipli Bans Crypto Scammers，所在链为 Solana，叙事强度 79.89。
+- 当前平均叙事强度为 77.61，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
+- 记忆层显示 Yagiz Nizipli Bans Crypto Scammers 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Gapla Country Token，伪叙事风险 42.03。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-18)。
 
 ## 叙事雷达
 
-- Alleged Drakeposting Meme Coin | Solana | 已确认 | 强度 87.32 | 质量 82.63
-  - 主题摘要：Multiple tokens named 「LADA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.73 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged MTFR Meme Image | Solana | 加速中 | 强度 79.97 | 质量 73.02
-  - 主题摘要：According to Trench Baddina's post, a Meme image is shared depicting a character with a missing mango, referencing the MFTR token. The post claims the associated ticker is being s…
-  - 资金 100.00 / 广度 75.28 / 确认 20.16 / 脆弱性 27.70
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Grok Reveals Octopus Friend | Solana | 加速中 | 强度 78.86 | 质量 70.66
-  - 主题摘要：According to jam's post, new @Grok commands reveal that the AI has an octopus friend named "Octavius". The post highlights an explanation of this pet and its relation to /dream, s…
-  - 资金 100.00 / 广度 83.86 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Peter Todd Shares Solana Wallet | Solana | 已确认 | 强度 78.51 | 质量 67.68
+- Yagiz Nizipli Bans Crypto Scammers | Solana | 降温中 | 强度 79.89 | 质量 69.46
+  - 主题摘要：According to Yagiz Nizipli's post, he announced that his team is banning an entire network of crypto scammers and spammers. He noted that the attackers targeted Friday midnight, b…
+  - 资金 100.00 / 广度 64.67 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Peter Todd Shares Solana Wallet | Solana | 已确认 | 强度 79.44 | 质量 66.56
   - 主题摘要：According to Peter Todd's post, he provided a Solana wallet address (ANcjNCCCkWwyRUwyphNuZ7ujwB4RypGyPyrAf7JsoWaa) in response to a user's inquiry about his wallet availability. T…
-  - 资金 100.00 / 广度 82.83 / 确认 34.60 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.04 / 确认 28.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged MTFR Meme Coin | Solana | 降温中 | 强度 78.40 | 质量 72.05
+- Alleged MTFR Meme Coin | Solana | 降温中 | 强度 78.09 | 质量 69.72
   - 主题摘要：According to the post, the MTFR token, identified as Mom Trust Fund Reserve, is described as a low-quality Meteora-based asset with a market cap of 2 million. The author criticize…
-  - 资金 100.00 / 广度 77.53 / 确认 16.56 / 脆弱性 37.70
+  - 资金 100.00 / 广度 77.80 / 确认 16.56 / 脆弱性 27.70
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Cryptocrat Token | Solana | 点火期 | 强度 77.37 | 质量 72.48
-  - 主题摘要：According to taxxin's post, the term 'Cryptocrats' is discussed in relation to a new token named 'The Cryptocrats'. The post references a congressional record regarding the term.…
-  - 资金 98.12 / 广度 89.73 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged MTFR Token Trending | Solana | 降温中 | 强度 77.22 | 质量 69.00
+- Grok Reveals Octopus Friend | Solana | 加速中 | 强度 77.87 | 质量 71.81
+  - 主题摘要：According to jam's post, new @Grok commands reveal that the AI has an octopus friend named "Octavius". The post highlights an explanation of this pet and its relation to /dream, s…
+  - 资金 100.00 / 广度 84.20 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged MTFR Meme Image | Solana | 加速中 | 强度 77.86 | 质量 69.80
+  - 主题摘要：According to Trench Baddina's post, a Meme image is shared depicting a character with a missing mango, referencing the MFTR token. The post claims the associated ticker is being s…
+  - 资金 100.00 / 广度 75.55 / 确认 20.16 / 脆弱性 27.70
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- TRUNC | Solana | 降温中 | 强度 76.57 | 质量 66.73
+  - 主题摘要：Multiple tokens named 「TRUNC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 55.56 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged MTFR Token Trending | Solana | 降温中 | 强度 76.12 | 质量 67.37
   - 主题摘要：According to radiance's post, the ticker $MTFR is reportedly trending in business and finance categories on Twitter, despite being described as a fake stock. The post suggests thi…
-  - 资金 100.00 / 广度 73.99 / 确认 16.56 / 脆弱性 27.70
+  - 资金 100.00 / 广度 73.69 / 确认 16.56 / 脆弱性 27.70
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jerome Powell Steps Down | Solana | 降温中 | 强度 75.50 | 质量 68.45
-  - 主题摘要：According to Watcher.Guru's post, Jerome Powell officially steps down after 8 years as Federal Reserve Chair. This significant leadership change in US monetary policy is noted alo…
-  - 资金 100.00 / 广度 89.32 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Yi He Featured on Economic Weekly Cover | BSC | 加速中 | 强度 74.74 | 质量 74.13
+- Alleged Gapla Country Token | Solana | 点火期 | 强度 75.08 | 质量 69.42
+  - 主题摘要：According to digitalizedmanul's post, a 17-year-old named Wyatt allegedly founded a new country called Gapla, driven by Gen Z culture and memes. The author claims to have discover…
+  - 资金 100.00 / 广度 80.26 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Yi He Featured on Economic Weekly Cover | BSC | 加速中 | 强度 72.63 | 质量 69.41
   - 主题摘要：According to 林克Clean's post, Binance executive He Yi appeared on the cover of the Hong Kong financial magazine Economic Weekly. In the interview, she discussed Binance's history a…
-  - 资金 100.00 / 广度 86.41 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.88 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OpenHuman | BSC | 加速中 | 强度 71.60 | 质量 68.59
-  - 主题摘要：According to 角度🔶 BNB's post, the BSC wallet address of TinyHumans AI founder @senamakel is disclosed as 0xeccE08c2636820a81FC0c805dBDC7D846636bbc4. The post mentions a 1% tax allo…
-  - 资金 100.00 / 广度 79.69 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Denies Divorce Rumors | BSC | 加速中 | 强度 71.45 | 质量 68.88
-  - 主题摘要：CZ正式回应网络关于其离婚及多名情人的不实谣言，强调自己早已离婚且从未听过相关化名。这一澄清引发了社区对币安CEO私人生活与公众形象之间张力的广泛讨论。
-  - 资金 100.00 / 广度 82.70 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Rachel Conlan Leaves Binance | BSC | 加速中 | 强度 68.78 | 质量 62.45
+- Rachel Conlan Leaves Binance | BSC | 加速中 | 强度 70.39 | 质量 63.05
   - 主题摘要：Yi He publicly thanks Rachel Conlan for her contributions as she steps down from Binance after three years. This marks a leadership transition within the exchange's senior managem…
-  - 资金 100.00 / 广度 85.12 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.03 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Douzhi Face Meme Image | BSC | 加速中 | 强度 66.98 | 质量 54.00
+- OpenHuman | BSC | 加速中 | 强度 69.93 | 质量 66.32
+  - 主题摘要：According to 角度🔶 BNB's post, the BSC wallet address of TinyHumans AI founder @senamakel is disclosed as 0xeccE08c2636820a81FC0c805dBDC7D846636bbc4. The post mentions a 1% tax allo…
+  - 资金 100.00 / 广度 79.69 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Douzhi Face Meme Image | BSC | 加速中 | 强度 67.61 | 质量 54.90
   - 主题摘要：According to 小鳄鱼dev's post, the 'Meme of the Year' is identified as the 'Douzhi Face' Meme image. This refers to a specific internet meme associated with Beijing culture.
-  - 资金 100.00 / 广度 59.14 / 确认 24.48 / 脆弱性 44.00
+  - 资金 100.00 / 广度 59.16 / 确认 24.48 / 脆弱性 44.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 世界杯 | BSC | 加速中 | 强度 66.80 | 质量 52.29
+- CZ Denies Divorce Rumors | BSC | 加速中 | 强度 66.89 | 质量 63.96
+  - 主题摘要：CZ正式回应网络关于其离婚及多名情人的不实谣言，强调自己早已离婚且从未听过相关化名。这一澄清引发了社区对币安CEO私人生活与公众形象之间张力的广泛讨论。
+  - 资金 100.00 / 广度 83.12 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 世界杯 | BSC | 加速中 | 强度 66.07 | 质量 53.10
   - 主题摘要：Multiple tokens named 「世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.09 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 67.93 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.14，其中已确认叙事 2 个。
-- Alleged Cryptocrat Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged MTFR Meme Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.61，其中已确认叙事 1 个。
+- Alleged Gapla Country Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Yagiz Nizipli Bans Crypto Scammers 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Drakeposting Meme Coin | 质量 82.63 | 可交易性 100.00 | 风险 低
-- Uncertain:Yi He Featured on Economic Weekly Cover | 质量 74.13 | 可交易性 91.66 | 风险 低
-- Alleged MTFR Meme Image | 质量 73.02 | 可交易性 95.48 | 风险 低
-- Alleged Cryptocrat Token | 质量 72.48 | 可交易性 82.36 | 风险 低
-- Alleged MTFR Meme Coin | 质量 72.05 | 可交易性 95.05 | 风险 低
-- Grok Reveals Octopus Friend | 质量 70.66 | 可交易性 73.72 | 风险 低
-- Alleged MTFR Token Trending | 质量 69.00 | 可交易性 89.80 | 风险 低
-- CZ Denies Divorce Rumors | 质量 68.88 | 可交易性 93.15 | 风险 低
-- OpenHuman | 质量 68.59 | 可交易性 81.39 | 风险 低
-- Jerome Powell Steps Down | 质量 68.45 | 可交易性 83.41 | 风险 低
+- Grok Reveals Octopus Friend | 质量 71.81 | 可交易性 80.38 | 风险 低
+- Alleged MTFR Meme Image | 质量 69.80 | 可交易性 95.43 | 风险 低
+- Alleged MTFR Meme Coin | 质量 69.72 | 可交易性 94.91 | 风险 低
+- Yagiz Nizipli Bans Crypto Scammers | 质量 69.46 | 可交易性 100.00 | 风险 低
+- Alleged Gapla Country Token | 质量 69.42 | 可交易性 78.98 | 风险 低
+- Uncertain:Yi He Featured on Economic Weekly Cover | 质量 69.41 | 可交易性 92.27 | 风险 低
+- Alleged MTFR Token Trending | 质量 67.37 | 可交易性 89.94 | 风险 低
+- TRUNC | 质量 66.73 | 可交易性 100.00 | 风险 低
+- Peter Todd Shares Solana Wallet | 质量 66.56 | 可交易性 58.21 | 风险 低
+- OpenHuman | 质量 66.32 | 可交易性 81.11 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Cryptocrat Token | 风险 44.91 | 原因：流动性偏薄
-- Alleged MTFR Meme Coin | 风险 42.36 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
-- Jerome Powell Steps Down | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Gapla Country Token | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -135,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Drakeposting Meme Coin（Solana，分数 87.32）
-2. 共振最强代币：KLED（Solana，共振 100.0）
-3. 记忆层变化：Alleged Cryptocrat Token 当前为“新出现”
+1. 当前最强叙事：Yagiz Nizipli Bans Crypto Scammers（Solana，分数 79.89）
+2. 共振最强代币：TROLL（Solana，共振 100.0）
+3. 记忆层变化：Yagiz Nizipli Bans Crypto Scammers 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-18)
 #Binance #NarrativeOS #OpenClaw
