@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-17T14:17:24.440616+00:00
+- 生成时间：2026-05-17T15:32:22.515790+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 TRUNC，所在链为 Solana，叙事强度 88.84。
-- 当前平均叙事强度为 84.42，其中已确认叙事 1 个。
+- 当前最强叙事是 TRUNC，所在链为 Solana，叙事强度 88.85。
+- 当前平均叙事强度为 82.6，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 GOBLIN，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Meme Image Publication 当前处于“新出现”状态。
+- 记忆层显示 Tourist Banger Questions $MTFR Buzz 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-18)。
 
 ## 叙事雷达
 
-- TRUNC | Solana | 降温中 | 强度 88.84 | 质量 78.33
+- TRUNC | Solana | 降温中 | 强度 88.85 | 质量 78.33
   - 主题摘要：Multiple tokens named 「TRUNC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.22 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 94.24 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Meme Image Publication | Solana | 降温中 | 强度 86.26 | 质量 81.35
-  - 主题摘要：According to The White House's post, the official account shared a quoted tweet announcing that auditions have officially begun to find the next James Bond, with Nina Gold serving…
-  - 资金 100.00 / 广度 99.02 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Inspiration4 Space Camp Ribbon Cutting | Solana | 已确认 | 强度 85.86 | 质量 83.70
+- Inspiration4 Space Camp Ribbon Cutting | Solana | 已确认 | 强度 85.61 | 质量 83.70
   - 主题摘要：According to Rebecca Perrotto's post, she attended the ribbon-cutting ceremony for the Inspiration4 building at Space Camp. She expressed gratitude for honoring her daughter Liv,…
-  - 资金 100.00 / 广度 98.40 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 98.42 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon Musk endorses Ted Cruz | Solana | 加速中 | 强度 84.14 | 质量 76.76
-  - 主题摘要：Elon Musk publicly praised Senator Ted Cruz's analysis, signaling potential political alignment. This endorsement by the world's most influential tech celebrity in US politics cre…
-  - 资金 100.00 / 广度 81.99 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged MTFR Meme Image | Solana | 降温中 | 强度 83.24 | 质量 75.14
+- Alleged MTFR Meme Image | Solana | 降温中 | 强度 82.87 | 质量 75.22
   - 主题摘要：According to Trench Baddina's post, a Meme image depicting a missing mango from a subject's mouth is shared, referencing the MFTR token. The post claims the token is being mass-sp…
-  - 资金 100.00 / 广度 78.33 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.58 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged MTFR Meme Coin | Solana | 降温中 | 强度 83.15 | 质量 74.86
+- Alleged MTFR Meme Coin | Solana | 降温中 | 强度 82.76 | 质量 74.92
   - 主题摘要：According to the post, the MTFR token, identified as Mom Trust Fund Reserve, is described as a low-quality Meteora-related asset with a market cap of 2 million. The author advocat…
-  - 资金 100.00 / 广度 80.03 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.22 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Manifesting | Solana | 加速中 | 强度 82.06 | 质量 69.73
-  - 主题摘要：MANIFEST token embodies the philosophy of manifesting, inspired by the concept of aligning thoughts with reality. The logo features a silhouette with outstretched arms, symbolizin…
-  - 资金 100.00 / 广度 57.64 / 确认 20.16 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged MTFR Token Trending | Solana | 降温中 | 强度 81.85 | 质量 73.30
-  - 主题摘要：According to radiance's post, the ticker $MTFR is trending in business and finance on Twitter, with users spamming it despite it not being a legitimate stock. The post suggests th…
-  - 资金 100.00 / 广度 74.84 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of B.AI Platform | BSC | 加速中 | 强度 79.71 | 质量 75.78
+- Alleged Launch of B.AI Platform | BSC | 加速中 | 强度 81.68 | 质量 79.75
   - 主题摘要：According to H.E. Justin Sun 👨‍🚀 🌞's post, he recommends B.AI, an AI platform incubated by @yzilabs, which integrates multiple large models. He claims the service supports cryptoc…
-  - 资金 100.00 / 广度 80.16 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.87 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 小丑 | BSC | 加速中 | 强度 71.59 | 质量 62.28
+- Alleged MTFR Token Trending | Solana | 降温中 | 强度 81.44 | 质量 73.33
+  - 主题摘要：According to radiance's post, the ticker $MTFR is trending in business and finance on Twitter, with users spamming it despite it not being a legitimate stock. The post suggests th…
+  - 资金 100.00 / 广度 74.93 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Manifesting | Solana | 降温中 | 强度 81.22 | 质量 69.39
+  - 主题摘要：MANIFEST token embodies the philosophy of manifesting, inspired by the concept of aligning thoughts with reality. The logo features a silhouette with outstretched arms, symbolizin…
+  - 资金 100.00 / 广度 59.15 / 确认 16.56 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk endorses Ted Cruz | Solana | 加速中 | 强度 79.32 | 质量 77.12
+  - 主题摘要：Elon Musk publicly praised Senator Ted Cruz's analysis, signaling potential political alignment. This endorsement by the world's most influential tech celebrity in US politics cre…
+  - 资金 100.00 / 广度 83.31 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Tourist Banger Questions $MTFR Buzz | Solana | 降温中 | 强度 78.77 | 质量 69.23
+  - 主题摘要：According to Tourist Banger's post, the author questions whether the current market buzz surrounding the $MTFR token is justified. The post seeks to gauge community sentiment rega…
+  - 资金 100.00 / 广度 66.27 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 小丑 | BSC | 加速中 | 强度 72.85 | 质量 62.33
   - 主题摘要：小丑 token draws inspiration from the iconic clown character, featuring a colorful clown face with red hair and polka-dot suit. The token emphasizes decentralized governance with no…
-  - 资金 100.00 / 广度 75.36 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.50 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Rachel Conlan Leaves Binance | BSC | 加速中 | 强度 70.79 | 质量 65.91
-  - 主题摘要：Yi He publicly thanks Rachel Conlan for her contributions as she steps down from Binance after three years. This marks a leadership transition within the exchange's senior managem…
-  - 资金 100.00 / 广度 82.89 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mack Discusses Douyin Meme Animal Trends | BSC | 降温中 | 强度 69.88 | 质量 58.93
-  - 主题摘要：According to Mack's post, the author highlights that a Meme animal term has reached the top 10 on Douyin's hot search, following the trend of 'Hakimi'. Mack questions whether this…
-  - 资金 100.00 / 广度 63.37 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DANDE | BSC | 降温中 | 强度 68.78 | 质量 56.44
+- DANDE | BSC | 降温中 | 强度 70.52 | 质量 56.56
   - 主题摘要：Multiple tokens named 「DANDE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.76 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 67.99 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 有钱花 | BSC | 加速中 | 强度 68.58 | 质量 60.44
+- Rachel Conlan Leaves Binance | BSC | 加速中 | 强度 70.26 | 质量 65.24
+  - 主题摘要：Yi He publicly thanks Rachel Conlan for her contributions as she steps down from Binance after three years. This marks a leadership transition within the exchange's senior managem…
+  - 资金 100.00 / 广度 82.43 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Web3 | BSC | 加速中 | 强度 69.17 | 质量 51.95
+  - 主题摘要：Multiple tokens named 「Web3」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 59.94 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 有钱花 | BSC | 加速中 | 强度 68.94 | 质量 59.43
   - 主题摘要：Multiple tokens named 「有钱花」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.65 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 68.56 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.42，其中已确认叙事 1 个。
-- Elon Musk endorses Ted Cruz 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.6，其中已确认叙事 1 个。
+- Web3 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - TRUNC 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Inspiration4 Space Camp Ribbon Cutting | 质量 83.70 | 可交易性 100.00 | 风险 低
-- Alleged Meme Image Publication | 质量 81.35 | 可交易性 100.00 | 风险 低
+- Alleged Launch of B.AI Platform | 质量 79.75 | 可交易性 100.00 | 风险 低
 - TRUNC | 质量 78.33 | 可交易性 100.00 | 风险 低
-- Elon Musk endorses Ted Cruz | 质量 76.76 | 可交易性 95.94 | 风险 低
-- Alleged Launch of B.AI Platform | 质量 75.78 | 可交易性 94.49 | 风险 低
-- Alleged MTFR Meme Image | 质量 75.14 | 可交易性 100.00 | 风险 低
-- Alleged MTFR Meme Coin | 质量 74.86 | 可交易性 100.00 | 风险 低
-- Alleged MTFR Token Trending | 质量 73.30 | 可交易性 100.00 | 风险 低
-- Manifesting | 质量 69.73 | 可交易性 100.00 | 风险 低
-- Rachel Conlan Leaves Binance | 质量 65.91 | 可交易性 86.02 | 风险 低
+- Elon Musk endorses Ted Cruz | 质量 77.12 | 可交易性 96.34 | 风险 低
+- Alleged MTFR Meme Image | 质量 75.22 | 可交易性 100.00 | 风险 低
+- Alleged MTFR Meme Coin | 质量 74.92 | 可交易性 100.00 | 风险 低
+- Alleged MTFR Token Trending | 质量 73.33 | 可交易性 100.00 | 风险 低
+- Manifesting | 质量 69.39 | 可交易性 100.00 | 风险 低
+- Tourist Banger Questions $MTFR Buzz | 质量 69.23 | 可交易性 97.64 | 风险 低
+- Rachel Conlan Leaves Binance | 质量 65.24 | 可交易性 85.77 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：TRUNC（Solana，分数 88.84）
+1. 当前最强叙事：TRUNC（Solana，分数 88.85）
 2. 共振最强代币：GOBLIN（Solana，共振 100.0）
-3. 记忆层变化：Alleged Meme Image Publication 当前为“新出现”
+3. 记忆层变化：Tourist Banger Questions $MTFR Buzz 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-18)
 #Binance #NarrativeOS #OpenClaw
