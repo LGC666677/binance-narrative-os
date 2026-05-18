@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-17T23:37:31.236517+00:00
+- 生成时间：2026-05-18T01:32:28.412145+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Manifesting，所在链为 Solana，叙事强度 84.36。
-- 当前平均叙事强度为 76.15，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 FINN Allegedly Launches Chillhouse Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 define solana，伪叙事风险 42.03。
+- 当前最强叙事是 Manifesting，所在链为 Solana，叙事强度 85.43。
+- 当前平均叙事强度为 76.28，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 MU，来自 BSC，共振分数 100.0。
+- 记忆层显示 World Cup SuperStars 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 define solana，伪叙事风险 47.23。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-18)。
 
 ## 叙事雷达
 
-- Manifesting | Solana | 加速中 | 强度 84.36 | 质量 74.05
+- Manifesting | Solana | 加速中 | 强度 85.43 | 质量 74.51
   - 主题摘要：MANIFEST token embodies the philosophy of manifesting, inspired by the concept of aligning thoughts with reality. The logo features a silhouette with outstretched arms, symbolizin…
-  - 资金 100.00 / 广度 68.89 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 70.42 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of B.AI Platform | BSC | 加速中 | 强度 79.10 | 质量 79.64
-  - 主题摘要：According to H.E. Justin Sun 👨‍🚀 🌞's post, he recommends B.AI, an AI platform incubated by @yzilabs, which integrates multiple large models. He claims the service supports cryptoc…
-  - 资金 100.00 / 广度 87.51 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Inspiration4 Space Camp Ribbon Cutting | Solana | 已确认 | 强度 78.53 | 质量 75.32
-  - 主题摘要：According to Rebecca Perrotto's post, she attended the ribbon-cutting ceremony for the Inspiration4 building at Space Camp with her daughter Liv. The event celebrated courage and…
-  - 资金 100.00 / 广度 93.65 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alien Coin and Claude AI | Solana | 加速中 | 强度 77.11 | 质量 65.91
-  - 主题摘要：According to terry's post, the user questions whether the token ALIEN COIN could be the 'golbin' of Claude, referencing observations that the AI model is exhibiting erratic behavi…
-  - 资金 100.00 / 广度 81.42 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Tourist Banger Questions $MTFR Buzz | Solana | 降温中 | 强度 76.60 | 质量 65.85
-  - 主题摘要：According to Tourist Banger's post, the author questions whether the current market buzz surrounding the $MTFR token is justified. The post seeks to gauge community sentiment rega…
-  - 资金 100.00 / 广度 64.14 / 确认 9.36 / 脆弱性 14.00
+- World Cup SuperStars | Solana | 降温中 | 强度 82.99 | 质量 74.72
+  - 主题摘要：Multiple tokens named 「WCSS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.92 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Boris Cherny on Claude Code Glitch | Solana | 加速中 | 强度 75.76 | 质量 63.79
-  - 主题摘要：According to Boris Cherny's post, he addressed a reported issue with Claude Code, describing it as a two-part fix. He confirmed that the first part of the update is available imme…
-  - 资金 100.00 / 广度 80.44 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 小丑 | BSC | 加速中 | 强度 73.71 | 质量 62.52
-  - 主题摘要：小丑 token draws inspiration from the iconic clown character, featuring a colorful clown face with red hair and polka-dot suit. The token emphasizes decentralized governance with no…
-  - 资金 100.00 / 广度 75.73 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AIC | BSC | 加速中 | 强度 73.63 | 质量 60.71
-  - 主题摘要：AIC token powers the AI Coin ecosystem, focusing on decentralized AI solutions. It enables users to create, trade, and deploy AI models through its AI Marketplace. The project emp…
-  - 资金 100.00 / 广度 61.65 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 吉祥马人生 | BSC | 降温中 | 强度 73.41 | 质量 58.28
+- 吉祥马人生 | BSC | 加速中 | 强度 80.90 | 质量 75.37
   - 主题摘要：Multiple tokens named 「吉祥马人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.83 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.96 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of B.AI Platform | BSC | 加速中 | 强度 78.68 | 质量 79.57
+  - 主题摘要：According to H.E. Justin Sun 👨‍🚀 🌞's post, he recommends B.AI, an AI platform incubated by @yzilabs, which integrates multiple large models. He claims the service supports cryptoc…
+  - 资金 100.00 / 广度 87.28 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Inspiration4 Space Camp Ribbon Cutting | Solana | 加速中 | 强度 75.59 | 质量 73.85
+  - 主题摘要：According to Rebecca Perrotto's post, she attended the ribbon-cutting ceremony for the Inspiration4 building at Space Camp with her daughter Liv. The event celebrated courage and…
+  - 资金 100.00 / 广度 91.02 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Tourist Banger Questions $MTFR Buzz | Solana | 降温中 | 强度 75.40 | 质量 64.09
+  - 主题摘要：According to Tourist Banger's post, the author questions whether the current market buzz surrounding the $MTFR token is justified. The post seeks to gauge community sentiment rega…
+  - 资金 100.00 / 广度 64.04 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TolyBot | Solana | 加速中 | 强度 72.55 | 质量 62.89
+- TolyBot | Solana | 加速中 | 强度 74.30 | 质量 63.51
   - 主题摘要：Multiple tokens named 「TOLYBOT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.19 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.32 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FINN Allegedly Launches Chillhouse Token | Solana | 加速中 | 强度 72.36 | 质量 65.53
-  - 主题摘要：According to FINN's post, FINN claims to have launched a Chill House token on Bags, featuring cashback and market makers. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 76.19 / 确认 23.76 / 脆弱性 14.00
+- AIC | BSC | 加速中 | 强度 73.70 | 质量 60.74
+  - 主题摘要：AIC token powers the AI Coin ecosystem, focusing on decentralized AI solutions. It enables users to create, trade, and deploy AI models through its AI Marketplace. The project emp…
+  - 资金 100.00 / 广度 61.74 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yi He and CZ Photo Meaning | BSC | 加速中 | 强度 72.04 | 质量 61.66
-  - 主题摘要：According to the post, Yi He and CZ shared a new photo. The post interprets Yi He representing '1' and CZ representing '4' to form '14', which sounds like 'lifetime' in Chinese, s…
-  - 资金 100.00 / 广度 76.42 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He and CZ Photo | BSC | 加速中 | 强度 72.02 | 质量 68.82
+- Yi He and CZ Photo | BSC | 加速中 | 强度 72.93 | 质量 68.39
   - 主题摘要：Binance co-founders CZ and He Yi pose together at a book signing event for CZ's autobiography 'Freedom of Money,' wearing matching 'Exchange the World' merchandise and holding sig…
-  - 资金 100.00 / 广度 82.48 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.55 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- define solana | Solana | 点火期 | 强度 71.91 | 质量 62.66
+- Alien Coin and Claude AI | Solana | 加速中 | 强度 72.48 | 质量 65.36
+  - 主题摘要：According to terry's post, the user questions whether the token ALIEN COIN could be the 'golbin' of Claude, referencing observations that the AI model is exhibiting erratic behavi…
+  - 资金 100.00 / 广度 81.77 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Peace Meme Image Release | Solana | 加速中 | 强度 72.32 | 质量 63.58
+  - 主题摘要：According to digitalizedmanul's post, the author claims that the Japanese Emperor and Empress visited a polar bear named Peace, citing it as a national symbol. The author then sta…
+  - 资金 100.00 / 广度 81.38 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 小丑 | BSC | 加速中 | 强度 72.17 | 质量 62.49
+  - 主题摘要：小丑 token draws inspiration from the iconic clown character, featuring a colorful clown face with red hair and polka-dot suit. The token emphasizes decentralized governance with no…
+  - 资金 100.00 / 广度 75.83 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- define solana | Solana | 点火期 | 强度 71.72 | 质量 63.06
   - 主题摘要：According to the post, a question is raised regarding the allocation of fees to developers in the context of meme coins. The content expresses skepticism or inquiry about whether…
-  - 资金 100.00 / 广度 82.91 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.38 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- DANDE | BSC | 加速中 | 强度 69.81 | 质量 58.06
+  - 主题摘要：Multiple tokens named 「DANDE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.13 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.15，其中已确认叙事 1 个。
-- FINN Allegedly Launches Chillhouse Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Tourist Banger Questions $MTFR Buzz 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.28，其中已确认叙事 0 个。
+- Alleged Peace Meme Image Release 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- World Cup SuperStars 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Launch of B.AI Platform | 质量 79.64 | 可交易性 100.00 | 风险 低
-- Inspiration4 Space Camp Ribbon Cutting | 质量 75.32 | 可交易性 100.00 | 风险 低
-- Manifesting | 质量 74.05 | 可交易性 100.00 | 风险 低
-- Yi He and CZ Photo | 质量 68.82 | 可交易性 66.32 | 风险 低
-- Alien Coin and Claude AI | 质量 65.91 | 可交易性 60.86 | 风险 低
-- Tourist Banger Questions $MTFR Buzz | 质量 65.85 | 可交易性 99.41 | 风险 低
-- FINN Allegedly Launches Chillhouse Token | 质量 65.53 | 可交易性 74.08 | 风险 低
-- Boris Cherny on Claude Code Glitch | 质量 63.79 | 可交易性 54.78 | 风险 低
-- TolyBot | 质量 62.89 | 可交易性 56.53 | 风险 低
-- define solana | 质量 62.66 | 可交易性 53.80 | 风险 低
+- Alleged Launch of B.AI Platform | 质量 79.57 | 可交易性 100.00 | 风险 低
+- 吉祥马人生 | 质量 75.37 | 可交易性 98.33 | 风险 低
+- World Cup SuperStars | 质量 74.72 | 可交易性 100.00 | 风险 低
+- Manifesting | 质量 74.51 | 可交易性 100.00 | 风险 低
+- Inspiration4 Space Camp Ribbon Cutting | 质量 73.85 | 可交易性 100.00 | 风险 低
+- Yi He and CZ Photo | 质量 68.39 | 可交易性 65.89 | 风险 低
+- Alien Coin and Claude AI | 质量 65.36 | 可交易性 58.66 | 风险 低
+- Tourist Banger Questions $MTFR Buzz | 质量 64.09 | 可交易性 99.69 | 风险 低
+- Alleged Peace Meme Image Release | 质量 63.58 | 可交易性 55.76 | 风险 低
+- TolyBot | 质量 63.51 | 可交易性 56.63 | 风险 低
 
 ## 伪叙事风险
 
-- define solana | 风险 42.03 | 原因：流动性偏薄
+- define solana | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Manifesting（Solana，分数 84.36）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：FINN Allegedly Launches Chillhouse Token 当前为“新出现”
+1. 当前最强叙事：Manifesting（Solana，分数 85.43）
+2. 共振最强代币：MU（BSC，共振 100.0）
+3. 记忆层变化：World Cup SuperStars 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-18)
 #Binance #NarrativeOS #OpenClaw
