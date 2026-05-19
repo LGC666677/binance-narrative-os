@@ -1,100 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-19T17:22:30.435175+00:00
+- 生成时间：2026-05-19T19:22:25.076690+00:00
 - 跟踪叙事：14
 - 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 TOES，所在链为 Solana，叙事强度 87.96。
-- 当前平均叙事强度为 76.72，其中已确认叙事 1 个。
+- 当前最强叙事是 TOES，所在链为 Solana，叙事强度 88.52。
+- 当前平均叙事强度为 77.42，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 ZEST，来自 BSC，共振分数 100.0。
-- 记忆层显示 Uncertain:Amanda Votes for CZ to Change PFP 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Sleeping Giant Token on Solana，伪叙事风险 47.23。
+- 记忆层显示 Hopium 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Wallet Launches Prediction Markets Trial Protection Campaign – Phase 2。
 
 ## 叙事雷达
 
-- TOES | Solana | 加速中 | 强度 87.96 | 质量 77.87
+- TOES | Solana | 加速中 | 强度 88.52 | 质量 78.09
   - 主题摘要：TOESCOIN (TOES) is a meme token inspired by the viral 'Toes' meme, featuring a minimalist design with pink toenails in a gold frame. The token embraces internet humor and communit…
-  - 资金 100.00 / 广度 81.62 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 82.34 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged Binance CZmoon Meme Image | BSC | 已确认 | 强度 83.98 | 质量 82.52
+- Uncertain:Alleged Binance CZmoon Meme Image | BSC | 已确认 | 强度 82.61 | 质量 82.46
   - 主题摘要：According to GM's post, Binance has introduced a new emoji named CZmoon in its official Discord group. This is the only emoji related to CZ in the group, described as a top-tier m…
-  - 资金 100.00 / 广度 91.82 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.65 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Amanda Votes for CZ to Change PFP | BSC | 已确认 | 强度 80.92 | 质量 76.46
-  - 主题摘要：According to Amanda 🔶's post, she expressed support for the suggestion that Binance CEO Changpeng Zhao (CZ) should change his profile picture to a Binance hat, responding affirmat…
-  - 资金 100.00 / 广度 82.18 / 确认 28.08 / 脆弱性 14.00
+- Uncertain:Amanda Votes for CZ to Change PFP | BSC | 已确认 | 强度 81.23 | 质量 76.50
+  - 主题摘要：According to Amanda 🔶's post, she replied to a user's inquiry regarding CZ's profile picture, explicitly stating her vote in favor of changing it to a Binance hat. This interactio…
+  - 资金 100.00 / 广度 82.16 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Strategic American Oil Supply | Solana | 已确认 | 强度 78.48 | 质量 71.66
+- Strategic American Oil Supply | Solana | 已确认 | 强度 81.18 | 质量 73.47
   - 主题摘要：According to Nick Sortor's post, President Trump stated that gas prices will drop tremendously once the Strait reopens, causing a gusher of oil that will lower inflation. He contr…
-  - 资金 100.00 / 广度 69.58 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 69.95 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Google AI Movie Meme Image | Solana | 降温中 | 强度 77.84 | 质量 70.03
-  - 主题摘要：According to petal's post, Google released an AI movie featuring a character named Timmy, described as a GPU and resembling a Meme image. This content is associated with tokens na…
-  - 资金 100.00 / 广度 81.90 / 确认 9.36 / 脆弱性 14.00
+- Hopium | Solana | 加速中 | 强度 78.26 | 质量 72.60
+  - 主题摘要：HOPIUM is a meme token inspired by the concept of 'hopium' - a fictional substance in the HopiumRx tweet. The logo features a colorful, circular design with the word 'HOPIUM' in b…
+  - 资金 100.00 / 广度 64.59 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Coinini Creator Tests TikTok Promotion | Solana | 加速中 | 强度 75.76 | 质量 65.37
+  - 主题摘要：According to Coinini's post, the creator developed a 'brainrot' character named Coinini and tested its virality on TikTok with a $100 budget, achieving over 60K views and 3K likes…
+  - 资金 100.00 / 广度 83.79 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Telegram Messenger Questions Metaverse Purchase | Solana | 加速中 | 强度 75.13 | 质量 63.91
+  - 主题摘要：According to Telegram Messenger's post, the official account inquired about the possibility of purchasing items in the metaverse, specifically tagging @facebook. This statement re…
+  - 资金 100.00 / 广度 80.08 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged USELESS Token Analysis | Solana | 加速中 | 强度 73.92 | 质量 64.58
+  - 主题摘要：According to Unipcs (aka 'Bonk Guy')'s post, he claims that $USELESS is the strongest memecoin narrative of the current cycle, comparing it to $DOGE and $SHIB. He asserts that des…
+  - 资金 100.00 / 广度 71.46 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged AI Chicken Meme | Solana | 加速中 | 强度 73.68 | 质量 67.22
+  - 主题摘要：According to MostWanted's post, the creator of colossal allegedly developed artificial life by creating AI chickens from an AI egg, describing the event as revolutionary. This con…
+  - 资金 100.00 / 广度 79.29 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- upsidedown troll face | Solana | 加速中 | 强度 72.91 | 质量 61.91
+  - 主题摘要：Multiple tokens named 「LLORT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.21 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ Requests Binance Christmas Hat | BSC | 降温中 | 强度 72.84 | 质量 56.36
+  - 主题摘要：According to @cz_binance's post, CZ requested a #BinanceChristmas hat. Concurrently, tokens named BinanceChristmasHat (Symbol: BCH) are circulating. CZ is suspected of issuing thi…
+  - 资金 100.00 / 广度 72.84 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged mk4_lul Meme Token Launch | Solana | 降温中 | 强度 75.57 | 质量 65.49
-  - 主题摘要：According to putz.sol's post, a token named 'mk4_lul' was allegedly launched, directing fees to user @mk4_lul. This action references a reported incident where @mk4_lul allegedly…
-  - 资金 100.00 / 广度 75.47 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Sleeping Giant Token on Solana | Solana | 点火期 | 强度 73.46 | 质量 71.39
-  - 主题摘要：According to the post, a 'sleeping giant' on Solana is identified, with claims of a potential 5-10x return. This refers to the alleged 'The Sleeping Giant' (TSG) token. This infor…
-  - 资金 100.00 / 广度 80.17 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- FIFA世界杯 | BSC | 加速中 | 强度 72.93 | 质量 61.17
+- FIFA世界杯 | BSC | 加速中 | 强度 72.80 | 质量 61.16
   - 主题摘要：Multiple tokens named 「FIFA世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.72 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 70.77 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Jinguo Hero Token | BSC | 加速中 | 强度 72.56 | 质量 63.08
+- Jinguo Hero Token | BSC | 加速中 | 强度 72.56 | 质量 63.15
   - 主题摘要：巾帼英雄 (Jinguo Hero Token) celebrates female empowerment in the crypto space. Inspired by the Chinese concept of 'Jinguo' (female hero), it aims to empower women in blockchain techn…
-  - 资金 100.00 / 广度 72.97 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.22 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bank Token V4 | BSC | 加速中 | 强度 72.44 | 质量 60.49
+- Bank Token V4 | BSC | 加速中 | 强度 72.52 | 质量 60.50
   - 主题摘要：Multiple tokens named 「BANK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 72.21 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 蝴蝶首个子母共生币 | BSC | 加速中 | 强度 72.34 | 质量 64.42
-  - 主题摘要：Multiple tokens named 「大力神杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.36 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Requests Binance Christmas Hat | BSC | 降温中 | 强度 72.32 | 质量 55.48
-  - 主题摘要：According to @cz_binance's post, CZ requested a #BinanceChristmas hat. Concurrently, tokens named BinanceChristmasHat (Symbol: BCH) are circulating. CZ is suspected of issuing thi…
-  - 资金 100.00 / 广度 72.74 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged AI Chicken Meme | Solana | 加速中 | 强度 71.91 | 质量 62.51
-  - 主题摘要：According to MostWanted's post, the creator of colossal allegedly developed the world's first artificial life by creating AI chickens that emerged from an AI egg. This claim is de…
-  - 资金 100.00 / 广度 79.05 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Legend of Zelda: Tears of the Kingdom Anniversary | Solana | 降温中 | 强度 71.82 | 质量 62.99
-  - 主题摘要：According to Kaelan Dorr's post, he shared a quoted tweet commemorating the third anniversary of the release of the video game 'The Legend of Zelda: Tears of the Kingdom'.
-  - 资金 100.00 / 广度 72.18 / 确认 9.36 / 脆弱性 17.40
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.72，其中已确认叙事 1 个。
-- Uncertain:Amanda Votes for CZ to Change PFP 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged Google AI Movie Meme Image 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.42，其中已确认叙事 1 个。
+- Hopium 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Uncertain:CZ Requests Binance Christmas Hat 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:Alleged Binance CZmoon Meme Image | 质量 82.52 | 可交易性 100.00 | 风险 低
-- TOES | 质量 77.87 | 可交易性 100.00 | 风险 低
-- Uncertain:Amanda Votes for CZ to Change PFP | 质量 76.46 | 可交易性 93.56 | 风险 低
-- Strategic American Oil Supply | 质量 71.66 | 可交易性 100.00 | 风险 低
-- Alleged Sleeping Giant Token on Solana | 质量 71.39 | 可交易性 85.64 | 风险 低
-- Alleged Google AI Movie Meme Image | 质量 70.03 | 可交易性 87.85 | 风险 低
-- Alleged mk4_lul Meme Token Launch | 质量 65.49 | 可交易性 70.67 | 风险 低
-- 蝴蝶首个子母共生币 | 质量 64.42 | 可交易性 73.38 | 风险 低
-- Jinguo Hero Token | 质量 63.08 | 可交易性 59.36 | 风险 低
-- The Legend of Zelda: Tears of the Kingdom Anniversary | 质量 62.99 | 可交易性 84.72 | 风险 低
+- Uncertain:Alleged Binance CZmoon Meme Image | 质量 82.46 | 可交易性 100.00 | 风险 低
+- TOES | 质量 78.09 | 可交易性 100.00 | 风险 低
+- Uncertain:Amanda Votes for CZ to Change PFP | 质量 76.50 | 可交易性 92.26 | 风险 低
+- Strategic American Oil Supply | 质量 73.47 | 可交易性 100.00 | 风险 低
+- Hopium | 质量 72.60 | 可交易性 100.00 | 风险 低
+- Alleged AI Chicken Meme | 质量 67.22 | 可交易性 66.82 | 风险 低
+- Coinini Creator Tests TikTok Promotion | 质量 65.37 | 可交易性 56.17 | 风险 低
+- Alleged USELESS Token Analysis | 质量 64.58 | 可交易性 69.02 | 风险 低
+- Telegram Messenger Questions Metaverse Purchase | 质量 63.91 | 可交易性 55.53 | 风险 低
+- Jinguo Hero Token | 质量 63.15 | 可交易性 59.32 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Sleeping Giant Token on Solana | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -102,12 +100,12 @@
 - 白 BAI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - *** | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币安人 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Coinini | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Coinini | Solana | 看多 | 新鲜度 100.00 | Coinini Creator Tests TikTok Promotion
 - LIFT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PIGEON | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TOLYBOT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Cryptocrat | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BALLSACKDORKL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- HuntBoden | Solana | 看多 | 新鲜度 91.31 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：TOES（Solana，分数 87.96）
+1. 当前最强叙事：TOES（Solana，分数 88.52）
 2. 共振最强代币：ZEST（BSC，共振 100.0）
-3. 记忆层变化：Uncertain:Amanda Votes for CZ to Change PFP 当前为“新出现”
+3. 记忆层变化：Hopium 当前为“新出现”
 4. 最新官方催化：Binance Wallet Launches Prediction Markets Trial Protection Campaign – Phase 2
 #Binance #NarrativeOS #OpenClaw
