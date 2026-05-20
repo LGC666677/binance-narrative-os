@@ -1,95 +1,94 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-20T22:47:45.012326+00:00
+- 生成时间：2026-05-20T23:58:18.026796+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Bsc大金狗，所在链为 BSC，叙事强度 87.33。
-- 当前平均叙事强度为 75.67，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 The Phoenix 当前处于“新出现”状态。
+- 当前最强叙事是 Bsc大金狗，所在链为 BSC，叙事强度 87.09。
+- 当前平均叙事强度为 77.29，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 NEX，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged World Cup Stars Token Launch 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Pharos Trading Competition: Trade Pharos (PHAROS) and Share $200K Worth of Rewards (2026-05-20)。
 
 ## 叙事雷达
 
-- Bsc大金狗 | BSC | 降温中 | 强度 87.33 | 质量 80.30
+- Bsc大金狗 | BSC | 降温中 | 强度 87.09 | 质量 80.29
   - 主题摘要：Multiple tokens named 「大金狗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.53 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 95.50 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CoinMarketCap Introduces CoinMarketCat | BSC | 加速中 | 强度 80.30 | 质量 75.79
+- Alleged World Cup Stars Token Launch | Solana | 降温中 | 强度 80.32 | 质量 70.67
+  - 主题摘要：According to World Cup Stars's post, the entity is launching tokens for 2026 World Cup players via pack openings, with 50% fees burning $STARS. This information is unverified. Ple…
+  - 资金 100.00 / 广度 63.42 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Lmaocoin | Solana | 降温中 | 强度 79.72 | 质量 70.23
+  - 主题摘要：Lmaocoin features a vibrant orange flower logo with white petals, symbolizing positivity and community spirit. The token embraces humor and lightheartedness, creating a fun ecosys…
+  - 资金 100.00 / 广度 67.22 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CoinMarketCap Introduces CoinMarketCat | BSC | 加速中 | 强度 77.90 | 质量 70.33
   - 主题摘要：According to CoinMarketCap's post, the platform introduced a new entity or concept named CoinMarketCat. This announcement references tokens with the symbol COINMARKETCAT and CMC,…
-  - 资金 100.00 / 广度 79.26 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.75 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Phoenix | Solana | 加速中 | 强度 77.88 | 质量 78.86
-  - 主题摘要：Multiple tokens named 「PHOENIX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.29 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Toma Token | Solana | 降温中 | 强度 76.97 | 质量 65.54
-  - 主题摘要：According to noodles's post, a 5-year-old boy named Toma survived alone in a bear-infested forest in Romania. The post references this event in the context of cryptocurrency token…
-  - 资金 100.00 / 广度 74.88 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance: Choose Wisely | BSC | 加速中 | 强度 75.75 | 质量 64.72
+- Binance: Choose Wisely | BSC | 加速中 | 强度 76.73 | 质量 64.38
   - 主题摘要：Binance官方账号发布了一条简短的推文 "Choose wisely"，配合一张链接图片。由于缺乏具体的上下文、事件背景或强烈的视觉冲击，这条推文显得非常模糊，难以直接转化为具有明确叙事或 meme 属性的代币话题。
-  - 资金 100.00 / 广度 72.90 / 确认 19.44 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.97 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 燃烧🔥世界杯 🏆 | BSC | 加速中 | 强度 74.24 | 质量 61.07
+- The Phoenix | Solana | 加速中 | 强度 76.63 | 质量 74.03
+  - 主题摘要：Multiple tokens named 「PHOENIX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.63 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- TRENCHCOIN | Solana | 降温中 | 强度 76.28 | 质量 63.37
+  - 主题摘要：TRENCHCOIN draws inspiration from trench warfare imagery, featuring a soldier in a helmet against an orange backdrop. The token's logo depicts a soldier in a war-torn environment,…
+  - 资金 97.79 / 广度 78.27 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 燃烧🔥世界杯 🏆 | BSC | 加速中 | 强度 75.79 | 质量 61.13
   - 主题摘要：燃烧🔥世界杯 🏆 is a meme token inspired by the FIFA World Cup, blending football enthusiasm with crypto culture. It aims to create a community-driven ecosystem where fans can engage thr…
-  - 资金 100.00 / 广度 70.91 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 70.98 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged CJP Meme Coin | Solana | 加速中 | 强度 73.90 | 质量 66.67
-  - 主题摘要：According to John Wicky's post, the Cockroach Janta Party (CJP) Meme image emerged from Indian Gen-Z protests against judicial remarks. Wicky compares this to Nepal's Gen-Z moveme…
-  - 资金 100.00 / 广度 76.59 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged GAM Meme Coin Launch | Solana | 加速中 | 强度 73.64 | 质量 59.56
-  - 主题摘要：According to jrus's post, the author claims to be launching a new token named $GAM (Grown Ahh Man), capitalizing on a popular Gen Z phrase. The post describes the project as a 'PF…
-  - 资金 100.00 / 广度 73.91 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mel: Hyperliquid vs Solana | Solana | 加速中 | 强度 73.26 | 质量 61.86
-  - 主题摘要：According to Mel's post, the author refutes claims that Hyperliquid will replace Solana, arguing that both chains can coexist. Mel highlights that Hyperliquid focuses on perps and…
-  - 资金 100.00 / 广度 79.08 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 梦幻之旅 | BSC | 加速中 | 强度 73.08 | 质量 59.64
-  - 主题摘要：Multiple tokens named 「梦幻之旅」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.64 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 蝴蝶首个子母共生币 | BSC | 加速中 | 强度 72.57 | 质量 60.53
-  - 主题摘要：Multiple tokens named 「大力神杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.78 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- noir Comments on Solana as Phoenix | Solana | 加速中 | 强度 71.26 | 质量 67.74
-  - 主题摘要：According to noir's post, the author quoted a tweet stating that Solana is definitely a Phoenix. noir expressed surprise at this narrative and suggested that fees should be paid o…
-  - 资金 100.00 / 广度 81.43 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Back-Handed Opossum Meme | BSC | 加速中 | 强度 71.13 | 质量 63.79
-  - 主题摘要：According to 角度🔶 BNB's post, the user shared a Meme image titled 'Backhand Possum' and described it as the next viral trend. This information is unverified. Please exercise cautio…
-  - 资金 100.00 / 广度 78.95 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FENGSHUI | BSC | 加速中 | 强度 70.93 | 质量 55.89
+- Flork Dev Shares SOL Wallet | Solana | 降温中 | 强度 74.01 | 质量 63.81
+  - 主题摘要：According to Flork Dev's post, Flork Dev agreed to share their Solana (SOL) wallet address, responding to a request to redirect token fees to the artist. This action addresses com…
+  - 资金 100.00 / 广度 62.87 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- FENGSHUI | BSC | 加速中 | 强度 73.61 | 质量 59.00
   - 主题摘要：Multiple tokens named 「FENGSHUI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.70 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 65.93 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged CJP Meme Coin | Solana | 加速中 | 强度 73.23 | 质量 66.56
+  - 主题摘要：According to John Wicky's post, the Cockroach Janta Party (CJP) Meme image emerged from Indian Gen-Z protests against judicial remarks. Wicky compares this to Nepal's Gen-Z moveme…
+  - 资金 100.00 / 广度 76.64 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Dr. Elara Voss Meme Coin Launch | Solana | 降温中 | 强度 72.60 | 质量 55.99
+  - 主题摘要：According to 资本上升's post, the author highlights the phenomenon of 'promptonyms,' specifically the recurring fictional scientist Dr. Elara Voss, who appears across multiple AI mode…
+  - 资金 100.00 / 广度 80.54 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Back-Handed Opossum Meme | BSC | 加速中 | 强度 72.59 | 质量 63.86
+  - 主题摘要：According to 角度🔶 BNB's post, the user shared a Meme image titled 'Backhand Possum' and described it as the next viral trend. This information is unverified. Please exercise cautio…
+  - 资金 100.00 / 广度 78.99 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged GAM Meme Coin Launch | Solana | 加速中 | 强度 71.64 | 质量 58.83
+  - 主题摘要：According to jrus's post, the author claims to be launching a new token named $GAM (Grown Ahh Man), capitalizing on a popular Gen Z phrase. The post describes the project as a 'PF…
+  - 资金 100.00 / 广度 73.90 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.67，其中已确认叙事 0 个。
-- The Phoenix 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.29，其中已确认叙事 0 个。
 - Bsc大金狗 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Bsc大金狗 | 质量 80.30 | 可交易性 100.00 | 风险 低
-- The Phoenix | 质量 78.86 | 可交易性 94.16 | 风险 低
-- CoinMarketCap Introduces CoinMarketCat | 质量 75.79 | 可交易性 95.43 | 风险 低
-- noir Comments on Solana as Phoenix | 质量 67.74 | 可交易性 66.93 | 风险 低
-- Alleged CJP Meme Coin | 质量 66.67 | 可交易性 70.87 | 风险 低
-- Alleged Toma Token | 质量 65.54 | 可交易性 76.73 | 风险 低
-- Binance: Choose Wisely | 质量 64.72 | 可交易性 76.39 | 风险 低
-- Alleged Back-Handed Opossum Meme | 质量 63.79 | 可交易性 55.73 | 风险 低
-- Mel: Hyperliquid vs Solana | 质量 61.86 | 可交易性 52.34 | 风险 低
-- 燃烧🔥世界杯 🏆 | 质量 61.07 | 可交易性 55.24 | 风险 低
+- Bsc大金狗 | 质量 80.29 | 可交易性 100.00 | 风险 低
+- The Phoenix | 质量 74.03 | 可交易性 100.00 | 风险 低
+- Alleged World Cup Stars Token Launch | 质量 70.67 | 可交易性 100.00 | 风险 低
+- CoinMarketCap Introduces CoinMarketCat | 质量 70.33 | 可交易性 77.74 | 风险 低
+- Lmaocoin | 质量 70.23 | 可交易性 100.00 | 风险 低
+- Alleged CJP Meme Coin | 质量 66.56 | 可交易性 70.44 | 风险 低
+- Binance: Choose Wisely | 质量 64.38 | 可交易性 76.39 | 风险 低
+- Alleged Back-Handed Opossum Meme | 质量 63.86 | 可交易性 55.94 | 风险 低
+- Flork Dev Shares SOL Wallet | 质量 63.81 | 可交易性 82.96 | 风险 低
+- TRENCHCOIN | 质量 63.37 | 可交易性 61.89 | 风险 低
 
 ## 伪叙事风险
 
@@ -103,7 +102,7 @@
 - Coinini | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LIFT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PIGEON | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PHOENIX | Solana | 看多 | 新鲜度 94.86 | The Phoenix / noir Comments on Solana as Phoenix
+- PHOENIX | Solana | 看多 | 新鲜度 94.86 | The Phoenix
 - Terminus | BSC | 看多 | 新鲜度 93.59 | 暂无直接叙事映射
 - CZmoon | BSC | 看多 | 新鲜度 93.54 | 暂无直接叙事映射
 
@@ -131,8 +130,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Bsc大金狗（BSC，分数 87.33）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：The Phoenix 当前为“新出现”
+1. 当前最强叙事：Bsc大金狗（BSC，分数 87.09）
+2. 共振最强代币：NEX（BSC，共振 100.0）
+3. 记忆层变化：Alleged World Cup Stars Token Launch 当前为“新出现”
 4. 最新官方催化：Pharos Trading Competition: Trade Pharos (PHAROS) and Share $200K Worth of Rewards (2026-05-20)
 #Binance #NarrativeOS #OpenClaw
