@@ -1,100 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-20T01:28:07.573582+00:00
+- 生成时间：2026-05-20T05:37:34.487776+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged MEOR Token Launch，所在链为 Solana，叙事强度 84.27。
-- 当前平均叙事强度为 80.39，其中已确认叙事 1 个。
+- 当前最强叙事是 We Are 26，所在链为 Solana，叙事强度 83.69。
+- 当前平均叙事强度为 80.62，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEST，来自 BSC，共振分数 100.0。
-- 记忆层显示 Daily Mail: UK Zoo Welcomes Baby Womble 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 OMNIPHOENIX，伪叙事风险 44.44。
+- 记忆层显示 Alleged mk4_lul Meme Token Launch 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Wallet Launches Prediction Markets Trial Protection Campaign – Phase 2。
 
 ## 叙事雷达
 
-- Alleged MEOR Token Launch | Solana | 降温中 | 强度 84.27 | 质量 75.40
-  - 主题摘要：According to TRUMP's post, the MEOR (Middle Eastern Oil Reserve) token is officially live on Pump.fun, leveraging the oil and real-world asset narrative. TRUMP claims the project…
-  - 资金 100.00 / 广度 81.83 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of $ATTENTION Token | Solana | 加速中 | 强度 83.96 | 质量 77.81
-  - 主题摘要：According to Mike's post, he is launching $ATTENTION, an onboarding coin with 70% locked supply and daily airdrops. He claims this model solves previous supply control issues and…
-  - 资金 100.00 / 广度 81.41 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- We Are 26 | Solana | 加速中 | 强度 82.99 | 质量 78.10
+- We Are 26 | Solana | 加速中 | 强度 83.69 | 质量 78.13
   - 主题摘要：Multiple tokens named 「WR26」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.37 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.48 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged Binance CZmoon Meme Image | BSC | 已确认 | 强度 81.91 | 质量 82.07
+- Alleged Launch of $ATTENTION Token | Solana | 加速中 | 强度 83.44 | 质量 77.92
+  - 主题摘要：According to Mike's post, he is launching $ATTENTION, an onboarding coin with 70% locked supply and daily airdrops. He claims this model solves previous supply control issues and…
+  - 资金 100.00 / 广度 81.77 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged Binance CZmoon Meme Image | BSC | 已确认 | 强度 82.16 | 质量 81.93
   - 主题摘要：According to GM's post, Binance has introduced a new emoji named CZmoon in its official Discord group. This is the only emoji related to CZ in the group, described as a top-tier m…
-  - 资金 100.00 / 广度 91.50 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 91.23 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Daily Mail: UK Zoo Welcomes Baby Womble | Solana | 已确认 | 强度 80.12 | 质量 67.64
-  - 主题摘要：According to Daily Mail's post, a UK zoo has welcomed a rare newborn calf named Womble. The post invites readers to identify the specific animal species of the newborn. This conte…
-  - 资金 100.00 / 广度 77.36 / 确认 31.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- The Phoenix | Solana | 加速中 | 强度 79.10 | 质量 76.23
+- The Phoenix | Solana | 加速中 | 强度 81.59 | 质量 76.46
   - 主题摘要：Multiple tokens named 「PHOENIX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.96 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.44 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OMNIPHOENIX | Solana | 降温中 | 强度 78.92 | 质量 69.72
-  - 主题摘要：OMNIPHX token draws inspiration from Oscar Carboni's 44+ years of technical analysis and trading experience. The logo features a phoenix rising from flames, symbolizing rebirth an…
-  - 资金 100.00 / 广度 65.52 / 确认 9.36 / 脆弱性 30.64
+- Alleged mk4_lul Meme Token Launch | Solana | 加速中 | 强度 79.70 | 质量 73.64
+  - 主题摘要：According to putz.sol's post, a token named 'mk4_lul' was allegedly launched, directing fees to user @mk4_lul. This action references a reported incident where @mk4_lul allegedly…
+  - 资金 100.00 / 广度 81.20 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Nitya Bird Drone | Solana | 加速中 | 强度 79.42 | 质量 65.92
+  - 主题摘要：According to Castillo Willie.'s post, a disabled bird named Nitya, previously unable to fly after a cat attack, regained the ability to soar. Her owner, Marc Joseph Colando, cust…
+  - 资金 100.00 / 广度 76.02 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- noir Comments on Solana as Phoenix | Solana | 加速中 | 强度 79.25 | 质量 72.68
+  - 主题摘要：According to noir's post, the user commented on a quoted tweet stating that Solana is definitely a Phoenix. This narrative was shared in response to content discussing Solana's re…
+  - 资金 100.00 / 广度 80.02 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged MEOR Token Launch | Solana | 降温中 | 强度 79.21 | 质量 69.65
+  - 主题摘要：According to TRUMP's post, the MEOR (Middle Eastern Oil Reserve) token is officially live on Pump.fun, leveraging the oil and real-world asset narrative. TRUMP claims the project…
+  - 资金 100.00 / 广度 81.35 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蝴蝶首个子母共生币 | BSC | 加速中 | 强度 78.15 | 质量 66.12
-  - 主题摘要：Multiple tokens named 「大力神杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.25 / 确认 24.48 / 脆弱性 14.00
+- Solana Phoenix Marketing | Solana | 加速中 | 强度 78.66 | 质量 71.66
+  - 主题摘要：According to toly's retweet, Luke Cannon criticized the Solana Phoenix marketing team for forcing new users to deposit funds to locate the contract address, which was absent from…
+  - 资金 100.00 / 广度 80.71 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Xiao Eyu Dev Mentions Douzhi Face Meme | BSC | 加速中 | 强度 76.94 | 质量 67.25
-  - 主题摘要：According to 小鳄鱼dev's post, the author identified a specific internet meme image as the "Meme of the Year," explicitly naming it the "Douzhi Face" (Douzhi Lian). The post referenc…
-  - 资金 100.00 / 广度 81.28 / 确认 31.68 / 脆弱性 34.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Him's Reflection on Attention | Solana | 加速中 | 强度 76.93 | 质量 66.22
-  - 主题摘要：According to Him's post, he emphasizes the critical importance of managing one's attention, comparing its value to the lives of ancestors. This statement highlights a philosophica…
-  - 资金 100.00 / 广度 79.80 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- noir Comments on Solana as Phoenix | Solana | 加速中 | 强度 76.80 | 质量 72.36
-  - 主题摘要：According to noir's post, the user commented on a quoted tweet stating that Solana is definitely a Phoenix. This observation highlights a specific narrative or sentiment regarding…
-  - 资金 100.00 / 广度 79.26 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of 520 Token | BSC | 降温中 | 强度 76.53 | 质量 67.36
-  - 主题摘要：According to hayati's post, the 520 token is described as an 'agreement of love' rather than a currency, emphasizing emotional value over data. The project features a 3% transacti…
-  - 资金 100.00 / 广度 63.60 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jinguo Hero Token | BSC | 加速中 | 强度 74.29 | 质量 63.33
-  - 主题摘要：巾帼英雄 (Jinguo Hero Token) celebrates female empowerment in the crypto space. Inspired by the Chinese concept of 'Jinguo' (female hero), it aims to empower women in blockchain techn…
-  - 资金 100.00 / 广度 73.65 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bank Token V4 | BSC | 加速中 | 强度 73.29 | 质量 60.53
+- Bank Token V4 | BSC | 加速中 | 强度 74.76 | 质量 61.10
   - 主题摘要：Multiple tokens named 「BANK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.33 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.19 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Jinguo Hero Token | BSC | 加速中 | 强度 74.19 | 质量 63.41
+  - 主题摘要：巾帼英雄 (Jinguo Hero Token) celebrates female empowerment in the crypto space. Inspired by the Chinese concept of 'Jinguo' (female hero), it aims to empower women in blockchain techn…
+  - 资金 100.00 / 广度 74.04 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FIFA世界杯 | BSC | 加速中 | 强度 73.63 | 质量 61.35
+  - 主题摘要：Multiple tokens named 「FIFA世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.14 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 蝴蝶首个子母共生币 | BSC | 加速中 | 强度 73.56 | 质量 61.71
+  - 主题摘要：Multiple tokens named 「大力神杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.53 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Back-Handed Opossum Meme | BSC | 加速中 | 强度 70.24 | 质量 59.16
+  - 主题摘要：According to 角度🔶 BNB's post, the user shared a viral Meme image of a back-handed opossum, predicting it will become the next popular internet trend. This information is unverified…
+  - 资金 100.00 / 广度 74.60 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.39，其中已确认叙事 1 个。
-- Daily Mail: UK Zoo Welcomes Baby Womble 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.62，其中已确认叙事 0 个。
+- Alleged mk4_lul Meme Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Alleged MEOR Token Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:Alleged Binance CZmoon Meme Image | 质量 82.07 | 可交易性 98.83 | 风险 低
-- We Are 26 | 质量 78.10 | 可交易性 100.00 | 风险 低
-- Alleged Launch of $ATTENTION Token | 质量 77.81 | 可交易性 100.00 | 风险 低
-- The Phoenix | 质量 76.23 | 可交易性 92.18 | 风险 低
-- Alleged MEOR Token Launch | 质量 75.40 | 可交易性 100.00 | 风险 低
-- noir Comments on Solana as Phoenix | 质量 72.36 | 可交易性 84.00 | 风险 低
-- OMNIPHOENIX | 质量 69.72 | 可交易性 100.00 | 风险 低
-- Daily Mail: UK Zoo Welcomes Baby Womble | 质量 67.64 | 可交易性 64.81 | 风险 低
-- Alleged Launch of 520 Token | 质量 67.36 | 可交易性 99.03 | 风险 低
-- Xiao Eyu Dev Mentions Douzhi Face Meme | 质量 67.25 | 可交易性 69.47 | 风险 高
+- Uncertain:Alleged Binance CZmoon Meme Image | 质量 81.93 | 可交易性 98.64 | 风险 低
+- We Are 26 | 质量 78.13 | 可交易性 100.00 | 风险 低
+- Alleged Launch of $ATTENTION Token | 质量 77.92 | 可交易性 100.00 | 风险 低
+- The Phoenix | 质量 76.46 | 可交易性 92.99 | 风险 低
+- Alleged mk4_lul Meme Token Launch | 质量 73.64 | 可交易性 86.84 | 风险 低
+- noir Comments on Solana as Phoenix | 质量 72.68 | 可交易性 84.82 | 风险 低
+- Solana Phoenix Marketing | 质量 71.66 | 可交易性 80.72 | 风险 低
+- Alleged MEOR Token Launch | 质量 69.65 | 可交易性 100.00 | 风险 低
+- Nitya Bird Drone | 质量 65.92 | 可交易性 66.28 | 风险 低
+- Jinguo Hero Token | 质量 63.41 | 可交易性 59.39 | 风险 低
 
 ## 伪叙事风险
 
-- OMNIPHOENIX | 风险 44.44 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
 
@@ -106,7 +104,7 @@
 - LIFT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PIGEON | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TOLYBOT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PHOENIX | Solana | 看多 | 新鲜度 94.86 | The Phoenix / noir Comments on Solana as Phoenix
+- PHOENIX | Solana | 看多 | 新鲜度 94.86 | The Phoenix / noir Comments on Solana as Phoenix / Solana Phoenix Marketing
 - Terminus | BSC | 看多 | 新鲜度 93.59 | 暂无直接叙事映射
 
 ## 官方催化
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged MEOR Token Launch（Solana，分数 84.27）
+1. 当前最强叙事：We Are 26（Solana，分数 83.69）
 2. 共振最强代币：ZEST（BSC，共振 100.0）
-3. 记忆层变化：Daily Mail: UK Zoo Welcomes Baby Womble 当前为“新出现”
+3. 记忆层变化：Alleged mk4_lul Meme Token Launch 当前为“新出现”
 4. 最新官方催化：Binance Wallet Launches Prediction Markets Trial Protection Campaign – Phase 2
 #Binance #NarrativeOS #OpenClaw
