@@ -1,99 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-22T16:04:47.288665+00:00
+- 生成时间：2026-05-22T18:01:18.374794+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Homo Agenticus Sapiens Meme Image，所在链为 Solana，叙事强度 85.17。
-- 当前平均叙事强度为 80.72，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 WORLDCUP，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Homo Agenticus Sapiens Meme Image 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 satofishi Account and Satoshi Connection，伪叙事风险 47.23。
+- 当前最强叙事是 Northern Oil Asset Reserve Energy Outlook，所在链为 Solana，叙事强度 85.13。
+- 当前平均叙事强度为 78.44，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
+- 记忆层显示 Kintara Play-to-Earn Game 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 WERLD KUP，伪叙事风险 46.06。
 - 最新官方催化来自 新币上新：Binance Will Add Genius Terminal (GENIUS) and OpenGradient (OPG) on Earn, Buy Crypto, Convert, VIP Loan & Margin。
 
 ## 叙事雷达
 
-- Alleged Homo Agenticus Sapiens Meme Image | Solana | 降温中 | 强度 85.17 | 质量 76.75
-  - 主题摘要：According to 莉兹🔶BNB's post, Homo Agenticus Sapiens is introduced as a new concept for an AI species, describing AI agents as entities operating alongside humans. This information…
-  - 资金 100.00 / 广度 86.76 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Northern Oil Asset Reserve Energy Outlook | Solana | 降温中 | 强度 83.57 | 质量 74.93
+- Northern Oil Asset Reserve Energy Outlook | Solana | 降温中 | 强度 85.13 | 质量 76.98
   - 主题摘要：According to Northern Oil Asset Reserve's post, the author asserts that North America may increasingly rely on its own energy resources due to Canada's reserves and American deman…
-  - 资金 100.00 / 广度 80.25 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.45 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SamuraPEPE | Solana | 降温中 | 强度 83.13 | 质量 73.63
-  - 主题摘要：SamuraPEPE (蛙侍) blends Japanese samurai aesthetics with the iconic Pepe the Frog meme. The token features a frog character in samurai armor wielding a katana, set against a fiery…
-  - 资金 100.00 / 广度 78.58 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Retatrutide | Solana | 加速中 | 强度 82.16 | 质量 79.85
-  - 主题摘要：Elon Musk comments on the impressive weight loss results of the new drug Retatrutide, joking about potential side effects. The name 'Retardatide' combined with Musk's humor create…
-  - 资金 100.00 / 广度 91.39 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SpaceXAI Hiring | Solana | 降温中 | 强度 81.63 | 质量 77.79
+- SpaceXAI Hiring | Solana | 降温中 | 强度 84.05 | 质量 78.28
   - 主题摘要：Elon Musk announces that SpaceX is hiring engineers and physicists for its new AI division, SpaceXAI, emphasizing that prior AI experience is not required for smart individuals. T…
-  - 资金 97.75 / 广度 91.79 / 确认 16.60 / 脆弱性 24.00
+  - 资金 100.00 / 广度 91.79 / 确认 16.60 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WERLD KUP | Solana | 降温中 | 强度 80.87 | 质量 76.57
-  - 主题摘要：WERLDKUP is a meme token inspired by the World Cup football tournament. The logo features cartoon soccer players from different national teams holding the World Cup trophy, reflec…
-  - 资金 100.00 / 广度 84.15 / 确认 15.12 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 牛13 | BSC | 已确认 | 强度 78.51 | 质量 76.21
+- 牛13 | BSC | 已确认 | 强度 78.68 | 质量 76.42
   - 主题摘要：According to 牛13's post, the entity is launching a Meme image for the 'Niu13' token on the Butterfly platform. The post encourages investment in the project during its early stage…
-  - 资金 88.48 / 广度 83.66 / 确认 38.88 / 脆弱性 24.00
+  - 资金 90.59 / 广度 83.12 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Trump House Meme Coin | Solana | 加速中 | 强度 77.59 | 质量 65.77
-  - 主题摘要：According to vibooor's post, the owner of 'Trump House' was assaulted, sparking discussions about a related token. The post references Kerry Sheron, potentially linking to alleged…
-  - 资金 100.00 / 广度 78.49 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged /r/ Meme Coin | Solana | 降温中 | 强度 71.68 | 质量 58.98
-  - 主题摘要：According to Pissier's post, the /r/ board on 4chan was deleted, sparking discussion on its role in meme culture. Concurrently, tokens named 'Goodbye /r/' with the symbol /r/ have…
-  - 资金 100.00 / 广度 73.53 / 确认 9.36 / 脆弱性 14.00
+- Kintara Play-to-Earn Game | Solana | 降温中 | 强度 77.65 | 质量 68.56
+  - 主题摘要：According to Kintara's post, the platform introduces Kintara, a play-to-earn multiplayer world where players can earn loot by holding $KINS tokens. The post highlights the game's…
+  - 资金 100.00 / 广度 61.67 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- satofishi Account and Satoshi Connection | BSC | 点火期 | 强度 70.27 | 质量 67.12
-  - 主题摘要：According to MBGA 让BSC再次伟大's post, the user satofishi has reached 150k followers. The post highlights the similarity between the username 'satofishi' and 'Satoshi', referring to t…
-  - 资金 100.00 / 广度 79.44 / 确认 16.56 / 脆弱性 24.00
+- WERLD KUP | Solana | 点火期 | 强度 76.58 | 质量 75.74
+  - 主题摘要：WERLDKUP is a meme token inspired by the World Cup football tournament. The logo features cartoon soccer players from different national teams holding the World Cup trophy, reflec…
+  - 资金 100.00 / 广度 84.02 / 确认 11.52 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Release of BNB AI Waifu Meme Image | BSC | 降温中 | 强度 69.09 | 质量 55.65
-  - 主题摘要：According to 小鳄鱼dev's post, the user shared a Meme image titled 'BNB AI WAIFU' and requested ratings for the AI waifu. This content references tokens associated with the BNB AI WA…
-  - 资金 100.00 / 广度 64.06 / 确认 16.56 / 脆弱性 14.00
+- Does It Really Matter | Solana | 降温中 | 强度 76.51 | 质量 66.28
+  - 主题摘要：The MATTER token builds its narrative around the existential prompt "
+  - 资金 100.00 / 广度 54.07 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bitget Wallet AI Waifu Meme | BSC | 降温中 | 强度 69.08 | 质量 55.65
-  - 主题摘要：According to Bitget Wallet 🩵's post, the account shared a Meme image requesting users to rate their AI waifu. This content references the 'ai waifu' token concept, engaging the co…
-  - 资金 100.00 / 广度 64.03 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FIFA世界杯 | BSC | 加速中 | 强度 69.05 | 质量 53.96
-  - 主题摘要：Multiple tokens named 「FIFA世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.66 / 确认 24.48 / 脆弱性 14.00
+- Retatrutide | Solana | 加速中 | 强度 76.46 | 质量 79.85
+  - 主题摘要：Elon Musk comments on the impressive weight loss results of the new drug Retatrutide, joking about potential side effects. The name 'Retardatide' combined with Musk's humor create…
+  - 资金 81.40 / 广度 91.38 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ's Attorney Launches AI Firm | BSC | 加速中 | 强度 68.35 | 质量 63.62
-  - 主题摘要：According to New York Post's post, CZ's attorney is establishing a new law firm where artificial intelligence will play a major role in its business model. This development highli…
-  - 资金 100.00 / 广度 83.64 / 确认 27.36 / 脆弱性 24.00
+- Bank Cup Coin | Solana | 降温中 | 强度 76.33 | 质量 66.67
+  - 主题摘要：BANKCUP is a meme token inspired by the Bank of England's iconic gold sculpture, symbolizing financial strength and global influence. The token's logo features a golden globe with…
+  - 资金 100.00 / 广度 55.37 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged FIFA Meme Token Launch | Solana | 降温中 | 强度 74.80 | 质量 62.64
+  - 主题摘要：According to Mr Swifty's post, he announced the launch of a blockchain token named $FIFA, clarifying it is not related to the soccer corporation but stands for 'Financially Illite…
+  - 资金 100.00 / 广度 80.54 / 确认 16.56 / 脆弱性 26.62
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 蝴蝶首个子母共生币 | BSC | 加速中 | 强度 71.71 | 质量 63.48
+  - 主题摘要：Multiple tokens named 「大力神杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.50 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Bitget Wallet AI Waifu Meme | BSC | 降温中 | 强度 68.97 | 质量 55.44
+  - 主题摘要：According to Bitget Wallet 🩵's post, the account shared a Meme image requesting users to rate their AI waifu. This content references the 'ai waifu' token concept, engaging the co…
+  - 资金 100.00 / 广度 64.14 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Release of BNB AI Waifu Meme Image | BSC | 降温中 | 强度 68.97 | 质量 55.44
+  - 主题摘要：According to 小鳄鱼dev's post, the user shared a Meme image titled 'BNB AI WAIFU' and requested ratings for the AI waifu. This content references tokens associated with the BNB AI WA…
+  - 资金 100.00 / 广度 64.14 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- FIFA世界杯 | BSC | 加速中 | 强度 68.58 | 质量 54.29
+  - 主题摘要：Multiple tokens named 「FIFA世界杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.60 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 吉祥马人生 | BSC | 加速中 | 强度 67.26 | 质量 62.49
+  - 主题摘要：Multiple tokens named 「吉祥马人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.76 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.72，其中已确认叙事 0 个。
-- Alleged Homo Agenticus Sapiens Meme Image 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.44，其中已确认叙事 0 个。
+- 蝴蝶首个子母共生币 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Northern Oil Asset Reserve Energy Outlook 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Retatrutide | 质量 79.85 | 可交易性 100.00 | 风险 低
-- SpaceXAI Hiring | 质量 77.79 | 可交易性 96.56 | 风险 低
-- Alleged Homo Agenticus Sapiens Meme Image | 质量 76.75 | 可交易性 99.58 | 风险 低
-- WERLD KUP | 质量 76.57 | 可交易性 100.00 | 风险 低
-- 牛13 | 质量 76.21 | 可交易性 100.00 | 风险 低
-- Northern Oil Asset Reserve Energy Outlook | 质量 74.93 | 可交易性 100.00 | 风险 低
-- SamuraPEPE | 质量 73.63 | 可交易性 100.00 | 风险 低
-- satofishi Account and Satoshi Connection | 质量 67.12 | 可交易性 72.14 | 风险 低
-- Alleged Trump House Meme Coin | 质量 65.77 | 可交易性 62.79 | 风险 低
-- Uncertain:CZ's Attorney Launches AI Firm | 质量 63.62 | 可交易性 78.34 | 风险 低
+- SpaceXAI Hiring | 质量 78.28 | 可交易性 96.96 | 风险 低
+- Northern Oil Asset Reserve Energy Outlook | 质量 76.98 | 可交易性 100.00 | 风险 低
+- 牛13 | 质量 76.42 | 可交易性 100.00 | 风险 低
+- WERLD KUP | 质量 75.74 | 可交易性 100.00 | 风险 低
+- Kintara Play-to-Earn Game | 质量 68.56 | 可交易性 100.00 | 风险 低
+- Bank Cup Coin | 质量 66.67 | 可交易性 100.00 | 风险 低
+- Does It Really Matter | 质量 66.28 | 可交易性 100.00 | 风险 低
+- 蝴蝶首个子母共生币 | 质量 63.48 | 可交易性 79.60 | 风险 低
+- Alleged FIFA Meme Token Launch | 质量 62.64 | 可交易性 56.12 | 风险 低
 
 ## 伪叙事风险
 
-- satofishi Account and Satoshi Connection | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- WERLD KUP | 风险 46.06 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -132,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Homo Agenticus Sapiens Meme Image（Solana，分数 85.17）
-2. 共振最强代币：WORLDCUP（Solana，共振 100.0）
-3. 记忆层变化：Alleged Homo Agenticus Sapiens Meme Image 当前为“新出现”
+1. 当前最强叙事：Northern Oil Asset Reserve Energy Outlook（Solana，分数 85.13）
+2. 共振最强代币：XRP（BSC，共振 100.0）
+3. 记忆层变化：Kintara Play-to-Earn Game 当前为“新出现”
 4. 最新官方催化：Binance Will Add Genius Terminal (GENIUS) and OpenGradient (OPG) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 #Binance #NarrativeOS #OpenClaw
