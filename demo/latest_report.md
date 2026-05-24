@@ -1,98 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-24T15:18:58.993410+00:00
+- 生成时间：2026-05-24T16:30:38.457072+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
-- 高风险伪叙事：0
+- 已确认叙事：2
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Ai Coin，所在链为 BSC，叙事强度 89.61。
-- 当前平均叙事强度为 80.41，其中已确认叙事 3 个。
-- 注意力与资金共振最强的代币是 GOBLIN，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged INCOME Token Launch 当前处于“新出现”状态。
+- 当前最强叙事是 Ai Coin，所在链为 BSC，叙事强度 90.58。
+- 当前平均叙事强度为 79.61，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 BILL，来自 BSC，共振分数 100.0。
+- 记忆层显示 Sierra Discusses BELIEF Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Elon Musk Allegedly Hires Nicki Minaj，伪叙事风险 52.99。
 - 最新官方催化来自 新币上新：Binance Will Add Genius Terminal (GENIUS) and OpenGradient (OPG) on Earn, Buy Crypto, Convert, VIP Loan & Margin。
 
 ## 叙事雷达
 
-- Ai Coin | BSC | 已确认 | 强度 89.61 | 质量 83.05
+- Ai Coin | BSC | 已确认 | 强度 90.58 | 质量 83.23
   - 主题摘要：Ai Coin (AIC) is the token of Predix Ai, a platform focused on AI-driven predictive analytics. The golden, minimalist logo reflects its premium positioning in the AI ecosystem. AI…
-  - 资金 100.00 / 广度 90.96 / 确认 35.28 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.57 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Drip Check | BSC | 已确认 | 强度 85.51 | 质量 84.70
+- Binance Drip Check | BSC | 已确认 | 强度 83.49 | 质量 83.93
   - 主题摘要：Binance official account posts a 'Drip check' with a link, likely referring to fashion or style. This is a low-virality lifestyle post with limited meme potential compared to cryp…
-  - 资金 100.00 / 广度 96.46 / 确认 35.28 / 脆弱性 14.00
+  - 资金 100.00 / 广度 96.52 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged INCOME Token Launch | Solana | 降温中 | 强度 81.59 | 质量 73.87
-  - 主题摘要：According to Normie's post, the INCOME token has been launched and is integrated with StakedBank technology, allowing holders to stake for passive income. This information is unve…
-  - 资金 100.00 / 广度 81.50 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bad Hombre Criticizes Reporter | Solana | 降温中 | 强度 81.16 | 质量 72.49
-  - 主题摘要：According to Bad Hombre's post, the author criticizes a reporter for lacking survival instincts, comparing them to a lemming. This statement appears to reference viral content or…
-  - 资金 100.00 / 广度 70.32 / 确认 16.64 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Iran Strategic Oil Resource | Solana | 降温中 | 强度 80.33 | 质量 72.51
+- Iran Strategic Oil Resource | Solana | 降温中 | 强度 82.15 | 质量 73.71
   - 主题摘要：Multiple tokens named 「ISOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.72 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.20 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged INCOME Token Launch | Solana | 降温中 | 强度 79.90 | 质量 70.40
-  - 主题摘要：According to Passive Income's post, the account claims to have launched the INCOME token, which pools USDC rewards to redistribute to holders every 5 minutes. The post promotes th…
-  - 资金 100.00 / 广度 86.07 / 确认 9.36 / 脆弱性 14.00
+- Bad Hombre Criticizes Reporter | Solana | 降温中 | 强度 79.26 | 质量 67.51
+  - 主题摘要：According to Bad Hombre's post, the author criticizes a reporter for lacking survival instincts, comparing them to a lemming. This statement appears to reference viral content or…
+  - 资金 100.00 / 广度 72.90 / 确认 16.64 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dragon | BSC | 加速中 | 强度 79.43 | 质量 67.65
+- Dragon | BSC | 加速中 | 强度 78.21 | 质量 67.65
   - 主题摘要：Multiple tokens named 「Dragon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.45 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.45 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 牛13 | BSC | 已确认 | 强度 79.27 | 质量 73.71
+- Sierra Discusses BELIEF Token | Solana | 降温中 | 强度 76.40 | 质量 61.77
+  - 主题摘要：According to Sierra's post, the author discusses the BELIEF token, referencing its performance on the 'Printer' platform and suggesting a potential price increase to 20M. The post…
+  - 资金 100.00 / 广度 77.74 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- profitable proposes new PumpBank with Stake Tek | Solana | 降温中 | 强度 75.86 | 质量 62.10
+  - 主题摘要：According to profitable's post, the author proposes launching a new Pumpbank coin utilizing staking technology. This suggestion aims to replicate the success of a previous Pumpban…
+  - 资金 100.00 / 广度 74.04 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 牛13 | BSC | 加速中 | 强度 75.77 | 质量 73.45
   - 主题摘要：According to 牛13's post, the entity is launching a Meme image for the 'Niu13' token on the Butterfly platform. The post encourages investment in the project during its early stage…
-  - 资金 100.00 / 广度 77.37 / 确认 38.88 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Bedrock Protocol | Solana | 降温中 | 强度 77.49 | 质量 69.98
-  - 主题摘要：The BDRK token is gaining rapid traction due to its unique deployment method and community-driven approach. Inspired by decentralized tracking tools, it has captured the attention…
-  - 资金 100.00 / 广度 62.19 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged MSTR Bondcoin Launch | Solana | 降温中 | 强度 76.53 | 质量 65.36
-  - 主题摘要：According to 1Aktivedev's post, Michael Saylor and MicroStrategy are allegedly purchasing bonds instead of Bitcoin, with a reference to a token named $BDC Bondcoin. This informati…
-  - 资金 100.00 / 广度 53.14 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- F*CK WAR, MAKE MONEY | Solana | 降温中 | 强度 75.90 | 质量 69.33
-  - 主题摘要：FCKWAR token emerged from a viral post by @fckwar on X, featuring a humorous take on conflict and commerce. The logo depicts two figures with the token name prominently displayed,…
-  - 资金 100.00 / 广度 67.93 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged USDC Deflationary Coin | Solana | 加速中 | 强度 75.11 | 质量 62.80
-  - 主题摘要：According to ִֶָ's post, the author proposes a concept for a 'United States Deflationary Coin' utilizing PumpFun's deflationary mechanics to counter inflation, while referencing a…
-  - 资金 100.00 / 广度 79.74 / 确认 23.76 / 脆弱性 24.00
+  - 资金 88.66 / 广度 77.63 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- cbBTC | BSC | 加速中 | 强度 75.08 | 质量 69.54
+- cbBTC | BSC | 加速中 | 强度 75.44 | 质量 70.02
   - 主题摘要：cbBTC is a community-driven token inspired by Bitcoin's legacy. It aims to bridge traditional finance with blockchain technology, focusing on decentralized finance solutions. cbBT…
-  - 资金 100.00 / 广度 81.27 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.34 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 蝴蝶金屎 | BSC | 加速中 | 强度 73.56 | 质量 60.48
-  - 主题摘要：蝴蝶金屎 (Butterfly Golden Poop) is a meme token inspired by the viral 'Butterfly Poop' internet meme. It aims to capture the playful spirit of crypto culture through humor and commun…
-  - 资金 100.00 / 广度 72.51 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged INCOME Token Launch | Solana | 点火期 | 强度 75.38 | 质量 69.69
+  - 主题摘要：According to Normie's post, the INCOME token has been launched and is integrated with StakedBank technology, allowing holders to stake for passive income. This information is unve…
+  - 资金 100.00 / 广度 81.61 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged INCOME Token Launch | Solana | 点火期 | 强度 75.33 | 质量 69.31
+  - 主题摘要：According to Passive Income's post, the account claims to have launched the INCOME token, which pools USDC rewards to redistribute to holders every 5 minutes. The post promotes th…
+  - 资金 100.00 / 广度 86.17 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Liquid Bank | Solana | 降温中 | 强度 74.82 | 质量 66.64
+  - 主题摘要：Liquid Bank token features a logo depicting a classical temple with a water droplet, symbolizing financial freedom and liquidity. The project aims to revolutionize banking through…
+  - 资金 100.00 / 广度 55.27 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk Allegedly Hires Nicki Minaj | Solana | 点火期 | 强度 74.26 | 质量 73.13
+  - 主题摘要：According to Elon Musk's post, he allegedly hired Nicki Minaj as the Chief Gyatt Officer at SpaceX. This claim is unverified and likely satirical. Related tokens such as NICKI and…
+  - 资金 100.00 / 广度 91.12 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Flap平台全新矛&盾双币生态模型 | BSC | 降温中 | 强度 74.17 | 质量 58.51
+  - 主题摘要：Multiple tokens named 「矛」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.66 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.41，其中已确认叙事 3 个。
-- 蝴蝶金屎 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged INCOME Token Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.61，其中已确认叙事 2 个。
+- Elon Musk Allegedly Hires Nicki Minaj 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Iran Strategic Oil Resource 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Drip Check | 质量 84.70 | 可交易性 100.00 | 风险 低
-- Ai Coin | 质量 83.05 | 可交易性 100.00 | 风险 低
-- Alleged INCOME Token Launch | 质量 73.87 | 可交易性 97.86 | 风险 低
-- 牛13 | 质量 73.71 | 可交易性 100.00 | 风险 低
-- Iran Strategic Oil Resource | 质量 72.51 | 可交易性 96.49 | 风险 低
-- Bad Hombre Criticizes Reporter | 质量 72.49 | 可交易性 99.11 | 风险 低
-- Alleged INCOME Token Launch | 质量 70.40 | 可交易性 81.72 | 风险 低
-- Bedrock Protocol | 质量 69.98 | 可交易性 100.00 | 风险 低
-- cbBTC | 质量 69.54 | 可交易性 100.00 | 风险 低
-- F*CK WAR, MAKE MONEY | 质量 69.33 | 可交易性 100.00 | 风险 低
+- Binance Drip Check | 质量 83.93 | 可交易性 100.00 | 风险 低
+- Ai Coin | 质量 83.23 | 可交易性 100.00 | 风险 低
+- Iran Strategic Oil Resource | 质量 73.71 | 可交易性 100.00 | 风险 低
+- 牛13 | 质量 73.45 | 可交易性 100.00 | 风险 低
+- Elon Musk Allegedly Hires Nicki Minaj | 质量 73.13 | 可交易性 100.00 | 风险 低
+- cbBTC | 质量 70.02 | 可交易性 100.00 | 风险 低
+- Alleged INCOME Token Launch | 质量 69.69 | 可交易性 83.82 | 风险 低
+- Alleged INCOME Token Launch | 质量 69.31 | 可交易性 78.01 | 风险 低
+- Dragon | 质量 67.65 | 可交易性 75.62 | 风险 低
+- Bad Hombre Criticizes Reporter | 质量 67.51 | 可交易性 83.32 | 风险 低
 
 ## 伪叙事风险
 
+- Elon Musk Allegedly Hires Nicki Minaj | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged INCOME Token Launch | 风险 47.79 | 原因：流动性偏薄
+- Alleged INCOME Token Launch | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -131,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Ai Coin（BSC，分数 89.61）
-2. 共振最强代币：GOBLIN（Solana，共振 100.0）
-3. 记忆层变化：Alleged INCOME Token Launch 当前为“新出现”
+1. 当前最强叙事：Ai Coin（BSC，分数 90.58）
+2. 共振最强代币：BILL（BSC，共振 100.0）
+3. 记忆层变化：Sierra Discusses BELIEF Token 当前为“新出现”
 4. 最新官方催化：Binance Will Add Genius Terminal (GENIUS) and OpenGradient (OPG) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 #Binance #NarrativeOS #OpenClaw
