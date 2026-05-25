@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-25T20:40:50.975295+00:00
+- 生成时间：2026-05-25T21:48:42.228140+00:00
 - 跟踪叙事：14
 - 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Ferrari Luce Meme，所在链为 Solana，叙事强度 84.39。
-- 当前平均叙事强度为 78.96，其中已确认叙事 0 个。
+- 当前最强叙事是 Ai Coin，所在链为 BSC，叙事强度 84.3。
+- 当前平均叙事强度为 77.54，其中已确认叙事 3 个。
 - 注意力与资金共振最强的代币是 SLX，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Ferrari Luce Meme 当前处于“新出现”状态。
+- 记忆层显示 Generational Wealth 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 ONLYGRAM，伪叙事风险 40.99。
 - 最新官方催化来自 币安最新公告：Binance Wallet Introduces Event Rush — Trade Real-World Events Like Tokens。
 
 ## 叙事雷达
 
-- Alleged Ferrari Luce Meme | Solana | 加速中 | 强度 84.39 | 质量 75.65
-  - 主题摘要：According to Kanki's post, the individual criticized the aesthetic of Ferrari's newly unveiled electric vehicle, the Luce, designed by Jony Ive, describing it as ugly and garbage.…
-  - 资金 100.00 / 广度 85.49 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Releases Croatia Token | BSC | 已确认 | 强度 84.23 | 质量 76.50
-  - 主题摘要：According to 世界杯's post, the account published an article regarding the 'Croatia Team' token. The post references the token's description as the 2022 World Cup third-place finishe…
-  - 资金 100.00 / 广度 90.19 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Ai Coin | BSC | 已确认 | 强度 83.10 | 质量 80.31
+- Ai Coin | BSC | 已确认 | 强度 84.30 | 质量 80.07
   - 主题摘要：Ai Coin (AIC) is the token of Predix Ai, a platform focused on AI-driven predictive analytics. The golden, minimalist logo reflects its premium positioning in the AI ecosystem. AI…
-  - 资金 100.00 / 广度 93.36 / 确认 35.28 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.25 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Year Of The Singularity | Solana | 加速中 | 强度 81.76 | 质量 73.06
+- World Cup Releases Croatia Token | BSC | 已确认 | 强度 83.31 | 质量 77.31
+  - 主题摘要：According to 世界杯's post, the account published an article regarding the 'Croatia Team' token. The post references the token's description as the 2022 World Cup third-place finishe…
+  - 资金 100.00 / 广度 90.21 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Ferrari Luce Meme | Solana | 加速中 | 强度 82.76 | 质量 74.40
+  - 主题摘要：According to Kanki's post, the individual criticized the aesthetic of Ferrari's newly unveiled electric vehicle, the Luce, designed by Jony Ive, describing it as ugly and garbage.…
+  - 资金 100.00 / 广度 87.46 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Year Of The Singularity | Solana | 加速中 | 强度 82.33 | 质量 73.12
   - 主题摘要：YOTS (Year Of The Singularity) represents humanity's quest to preserve consciousness through digital means. The token's logo features a circuit board brain, symbolizing the transi…
-  - 资金 100.00 / 广度 66.10 / 确认 23.76 / 脆弱性 0.00
+  - 资金 100.00 / 广度 66.30 / 确认 23.76 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Bonkuji TCG Launch | Solana | 加速中 | 强度 79.62 | 质量 73.12
-  - 主题摘要：According to Genesis's post, the Bonk project is allegedly releasing a Trading Card Game (TCG) named Bonkuji, described as similar to Pokémon. The post highlights that this initia…
-  - 资金 100.00 / 广度 82.55 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 牛13 | BSC | 已确认 | 强度 79.61 | 质量 73.89
+- 牛13 | BSC | 已确认 | 强度 79.76 | 质量 74.58
   - 主题摘要：According to 牛13's post, the entity is launching a Meme image for the 'Niu13' token on the Butterfly platform. The post encourages investment in the project during its early stage…
-  - 资金 96.91 / 广度 78.11 / 确认 38.88 / 脆弱性 14.00
+  - 资金 94.90 / 广度 78.08 / 确认 38.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Elun Must Meme | Solana | 加速中 | 强度 79.23 | 质量 78.73
-  - 主题摘要：According to John the dev's post, a viral image of a child's drawing misspelling Elon Musk as "Elun Must" has gained significant attention. This has led to the emergence of tokens…
-  - 资金 100.00 / 广度 91.49 / 确认 20.16 / 脆弱性 24.00
+- Alleged Bonkuji TCG Launch | Solana | 加速中 | 强度 77.76 | 质量 73.29
+  - 主题摘要：According to Genesis's post, the Bonk project is allegedly releasing a Trading Card Game (TCG) named Bonkuji, described as similar to Pokémon. The post highlights that this initia…
+  - 资金 100.00 / 广度 82.66 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- HOPPY | Solana | 加速中 | 强度 79.06 | 质量 65.67
+- HOPPY | Solana | 加速中 | 强度 76.61 | 质量 65.44
   - 主题摘要：Multiple tokens named 「HOPPY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.28 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.04 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- frohorse | Solana | 加速中 | 强度 78.73 | 质量 65.42
+- frohorse | Solana | 加速中 | 强度 75.53 | 质量 65.63
   - 主题摘要：frohorse is a meme token inspired by the viral 'Fro' hairstyle, symbolizing confidence and style. The token features a distinctive hairstyle with braided patterns, reflecting its…
-  - 资金 100.00 / 广度 78.01 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.64 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Comments on Zhuifeng | BSC | 降温中 | 强度 77.08 | 质量 69.41
+- CZ Comments on Zhuifeng | BSC | 降温中 | 强度 74.65 | 质量 67.59
   - 主题摘要：Binance CEO CZ posted a video of himself kitesurfing, accompanied by the phrase "Kitesurfers don’t care about rip currents." This humorous metaphor suggests ignoring market volati…
-  - 资金 100.00 / 广度 89.59 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.57 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alx Posts Grok-Generated Meme Image | Solana | 降温中 | 强度 74.68 | 质量 60.03
-  - 主题摘要：According to Alx's post, the user utilized the new Grok Image generation tool to create a visual representation of a coin, which was then shared as a Meme image on social media.
-  - 资金 100.00 / 广度 70.08 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Retweets Grok Build Update | Solana | 降温中 | 强度 74.21 | 质量 59.00
-  - 主题摘要：Elon Musk retweeted a post from @techdevnotes regarding the Grok Build platform. The shared content highlights the introduction of a 'grok inspect' command, which allows users to…
-  - 资金 100.00 / 广度 75.59 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Drip Check | BSC | 加速中 | 强度 71.76 | 质量 68.82
-  - 主题摘要：Binance official account posts a 'Drip check' with a link, likely referring to fashion or style. This is a low-virality lifestyle post with limited meme potential compared to cryp…
-  - 资金 100.00 / 广度 89.15 / 确认 24.48 / 脆弱性 14.00
+- Alleged Elun Must Meme | Solana | 加速中 | 强度 73.53 | 质量 71.34
+  - 主题摘要：According to John the dev's post, a viral image of a child's drawing misspelling Elon Musk as "Elun Must" has gained significant attention. This has led to the emergence of tokens…
+  - 资金 100.00 / 广度 91.44 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- cbBTC | BSC | 加速中 | 强度 71.33 | 质量 66.60
-  - 主题摘要：cbBTC is a community-driven token inspired by Bitcoin's legacy. It aims to bridge traditional finance with blockchain technology, focusing on decentralized finance solutions. cbBT…
-  - 资金 100.00 / 广度 76.85 / 确认 24.48 / 脆弱性 24.00
+- Generational Wealth | Solana | 加速中 | 强度 73.16 | 质量 64.11
+  - 主题摘要：Multiple tokens named 「GENWEALTH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.45 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Drip Check | BSC | 加速中 | 强度 73.07 | 质量 70.62
+  - 主题摘要：Binance official account posts a 'Drip check' with a link, likely referring to fashion or style. This is a low-virality lifestyle post with limited meme potential compared to cryp…
+  - 资金 100.00 / 广度 89.03 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- ONLYGRAM | Solana | 降温中 | 强度 72.02 | 质量 66.42
+  - 主题摘要：Multiple tokens named 「ONLY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 54.54 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Flap平台全新矛&盾双币生态模型 | BSC | 加速中 | 强度 70.15 | 质量 57.40
+  - 主题摘要：Multiple tokens named 「矛」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.47 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.96，其中已确认叙事 0 个。
-- Alleged Ferrari Luce Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.54，其中已确认叙事 3 个。
+- Generational Wealth 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - CZ Comments on Zhuifeng 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Ai Coin | 质量 80.31 | 可交易性 100.00 | 风险 低
-- Alleged Elun Must Meme | 质量 78.73 | 可交易性 96.16 | 风险 低
-- World Cup Releases Croatia Token | 质量 76.50 | 可交易性 98.46 | 风险 低
-- Alleged Ferrari Luce Meme | 质量 75.65 | 可交易性 89.24 | 风险 低
-- 牛13 | 质量 73.89 | 可交易性 100.00 | 风险 低
-- Alleged Bonkuji TCG Launch | 质量 73.12 | 可交易性 83.77 | 风险 低
-- Year Of The Singularity | 质量 73.06 | 可交易性 100.00 | 风险 低
-- CZ Comments on Zhuifeng | 质量 69.41 | 可交易性 87.58 | 风险 低
-- Binance Drip Check | 质量 68.82 | 可交易性 100.00 | 风险 低
-- cbBTC | 质量 66.60 | 可交易性 100.00 | 风险 低
+- Ai Coin | 质量 80.07 | 可交易性 100.00 | 风险 低
+- World Cup Releases Croatia Token | 质量 77.31 | 可交易性 98.62 | 风险 低
+- 牛13 | 质量 74.58 | 可交易性 100.00 | 风险 低
+- Alleged Ferrari Luce Meme | 质量 74.40 | 可交易性 82.58 | 风险 低
+- Alleged Bonkuji TCG Launch | 质量 73.29 | 可交易性 81.57 | 风险 低
+- Year Of The Singularity | 质量 73.12 | 可交易性 100.00 | 风险 低
+- Alleged Elun Must Meme | 质量 71.34 | 可交易性 95.16 | 风险 低
+- Binance Drip Check | 质量 70.62 | 可交易性 100.00 | 风险 低
+- CZ Comments on Zhuifeng | 质量 67.59 | 可交易性 87.56 | 风险 低
+- ONLYGRAM | 质量 66.42 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- ONLYGRAM | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Ferrari Luce Meme（Solana，分数 84.39）
+1. 当前最强叙事：Ai Coin（BSC，分数 84.3）
 2. 共振最强代币：SLX（BSC，共振 100.0）
-3. 记忆层变化：Alleged Ferrari Luce Meme 当前为“新出现”
+3. 记忆层变化：Generational Wealth 当前为“新出现”
 4. 最新官方催化：Binance Wallet Introduces Event Rush — Trade Real-World Events Like Tokens
 #Binance #NarrativeOS #OpenClaw
