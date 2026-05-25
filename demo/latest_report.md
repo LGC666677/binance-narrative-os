@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-25T16:12:23.490481+00:00
+- 生成时间：2026-05-25T17:53:58.134232+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 World Cup Releases Croatia Token，所在链为 BSC，叙事强度 84.88。
-- 当前平均叙事强度为 77.62，其中已确认叙事 3 个。
+- 当前最强叙事是 World Cup Releases Croatia Token，所在链为 BSC，叙事强度 83.21。
+- 当前平均叙事强度为 76.84，其中已确认叙事 2 个。
 - 注意力与资金共振最强的代币是 SLX，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged The Fearless Turtle Meme Image 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged X Internal Meme Agent，伪叙事风险 47.79。
+- 记忆层显示 Year Of The Singularity 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Generational Wealth，伪叙事风险 47.23。
 - 最新官方催化来自 币安最新公告：Binance Wallet Introduces Event Rush — Trade Real-World Events Like Tokens。
 
 ## 叙事雷达
 
-- World Cup Releases Croatia Token | BSC | 已确认 | 强度 84.88 | 质量 77.07
+- World Cup Releases Croatia Token | BSC | 已确认 | 强度 83.21 | 质量 76.57
   - 主题摘要：According to 世界杯's post, the account published an article regarding the 'Croatia Team' token. The post references the token's description as the 2022 World Cup third-place finishe…
-  - 资金 100.00 / 广度 90.08 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.12 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Ai Coin | BSC | 已确认 | 强度 84.83 | 质量 79.99
+- Year Of The Singularity | Solana | 加速中 | 强度 82.89 | 质量 72.66
+  - 主题摘要：YOTS (Year Of The Singularity) represents humanity's quest to preserve consciousness through digital means. The token's logo features a circuit board brain, symbolizing the transi…
+  - 资金 100.00 / 广度 64.79 / 确认 23.76 / 脆弱性 0.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ai Coin | BSC | 已确认 | 强度 82.85 | 质量 79.31
   - 主题摘要：Ai Coin (AIC) is the token of Predix Ai, a platform focused on AI-driven predictive analytics. The golden, minimalist logo reflects its premium positioning in the AI ecosystem. AI…
-  - 资金 100.00 / 广度 93.93 / 确认 35.28 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.68 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 牛13 | BSC | 已确认 | 强度 80.75 | 质量 75.28
-  - 主题摘要：According to 牛13's post, the entity is launching a Meme image for the 'Niu13' token on the Butterfly platform. The post encourages investment in the project during its early stage…
-  - 资金 97.50 / 广度 78.23 / 确认 38.88 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- CZ Comments on Zhuifeng | BSC | 降温中 | 强度 77.79 | 质量 70.38
+- PepeLero | Solana | 降温中 | 强度 80.41 | 质量 71.08
+  - 主题摘要：Tralape (PepeLero) is a meme token inspired by the iconic Pepe the Frog character, featuring a green frog with Nike shoes. The logo combines the Pepe meme with a shark body, creat…
+  - 资金 100.00 / 广度 70.06 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- HOPPY | Solana | 加速中 | 强度 78.06 | 质量 66.79
+  - 主题摘要：Multiple tokens named 「HOPPY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.79 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged $blue Charity Token Launch | Solana | 降温中 | 强度 76.44 | 质量 68.46
+  - 主题摘要：According to steve jobless's post, the author claims to be launching a charity coin named $blue to support the Charles Darwin Foundation's deep-ocean exploration efforts, referenc…
+  - 资金 100.00 / 广度 61.32 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Bad Hombre Criticizes Reporter | Solana | 降温中 | 强度 76.35 | 质量 69.64
+  - 主题摘要：According to Bad Hombre's post, the author criticizes a reporter for lacking survival instincts, comparing them to a lemming. This statement is made in the context of viral conten…
+  - 资金 100.00 / 广度 89.51 / 确认 16.64 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Comments on Zhuifeng | BSC | 降温中 | 强度 75.16 | 质量 68.22
   - 主题摘要：Binance CEO CZ posted a video of himself kitesurfing, accompanied by the phrase "Kitesurfers don’t care about rip currents." This humorous metaphor suggests ignoring market volati…
-  - 资金 100.00 / 广度 89.58 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.56 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pump.fun Comments on User Coin Purchase | Solana | 加速中 | 强度 77.67 | 质量 67.68
-  - 主题摘要：According to Pump.fun's post, the official account replied to user @penispoop420, stating that the user "gets it" in response to a comment about buying a coin that never worked ag…
-  - 资金 100.00 / 广度 86.87 / 确认 20.16 / 脆弱性 14.00
+- 牛13 | BSC | 加速中 | 强度 75.12 | 质量 72.70
+  - 主题摘要：According to 牛13's post, the entity is launching a Meme image for the 'Niu13' token on the Butterfly platform. The post encourages investment in the project during its early stage…
+  - 资金 85.79 / 广度 78.15 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Generational Wealth | Solana | 加速中 | 强度 75.83 | 质量 69.06
+- Alleged Bonkuji TCG Launch | Solana | 加速中 | 强度 74.50 | 质量 67.46
+  - 主题摘要：According to Genesis's post, Bonk is allegedly releasing a TCG called Bonkuji tomorrow. The post highlights this as bullish due to prior development and a pinned announcement, not…
+  - 资金 100.00 / 广度 76.34 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Generational Wealth | Solana | 点火期 | 强度 74.23 | 质量 68.34
   - 主题摘要：Multiple tokens named 「GENWEALTH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.06 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged The Fearless Turtle Meme Image | Solana | 降温中 | 强度 75.07 | 质量 65.17
-  - 主题摘要：According to David Tereshchuk's post, a video of a fearless turtle in Nara Park went viral, accompanied by references to a token named The Fearless Turtle. This constitutes an all…
-  - 资金 92.41 / 广度 57.68 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged X Internal Meme Agent | Solana | 点火期 | 强度 74.32 | 质量 67.89
-  - 主题摘要：According to Trenchcity's post, an internal X chat demo agent named MrGigglesWorth, described as a space dog powered by Grok, was found in an official Xdevplatform GitHub reposito…
-  - 资金 100.00 / 广度 82.39 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.43 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Flap平台全新矛&盾双币生态模型 | BSC | 加速中 | 强度 73.81 | 质量 61.96
-  - 主题摘要：Multiple tokens named 「矛」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.93 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pepetide | Solana | 加速中 | 强度 71.67 | 质量 68.25
-  - 主题摘要：Multiple tokens named 「PEPETIDE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.60 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Drip Check | BSC | 加速中 | 强度 71.16 | 质量 68.65
-  - 主题摘要：Binance official account posts a 'Drip check' with a link, likely referring to fashion or style. This is a low-virality lifestyle post with limited meme potential compared to cryp…
-  - 资金 100.00 / 广度 89.98 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- joji's Daily Diet | Solana | 加速中 | 强度 70.52 | 质量 63.02
-  - 主题摘要：According to joji's post, the user shared their current daily routine and diet, which includes consuming 1400 calories, 140-150g of protein, a pack of Marlboro Gold cigarettes, Te…
-  - 资金 100.00 / 广度 81.06 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BONK.fun Scanning New Pairs | Solana | 加速中 | 强度 70.52 | 质量 63.02
-  - 主题摘要：According to BONK.fun's post, the account is preparing for a long day at work by scanning new trading pairs. The post indicates routine monitoring activities within the cryptocurr…
-  - 资金 100.00 / 广度 81.06 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- cbBTC | BSC | 加速中 | 强度 70.15 | 质量 64.68
+- SYFR | Solana | 降温中 | 强度 73.87 | 质量 64.98
+  - 主题摘要：Multiple tokens named 「SYFR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 49.75 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- cbBTC | BSC | 加速中 | 强度 72.56 | 质量 66.45
   - 主题摘要：cbBTC is a community-driven token inspired by Bitcoin's legacy. It aims to bridge traditional finance with blockchain technology, focusing on decentralized finance solutions. cbBT…
-  - 资金 100.00 / 广度 77.42 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.14 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Drip Check | BSC | 加速中 | 强度 72.12 | 质量 70.54
+  - 主题摘要：Binance official account posts a 'Drip check' with a link, likely referring to fashion or style. This is a low-virality lifestyle post with limited meme potential compared to cryp…
+  - 资金 100.00 / 广度 89.46 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.62，其中已确认叙事 3 个。
-- Alleged X Internal Meme Agent 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- CZ Comments on Zhuifeng 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.84，其中已确认叙事 2 个。
+- Year Of The Singularity 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- PepeLero 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Ai Coin | 质量 79.99 | 可交易性 100.00 | 风险 低
-- World Cup Releases Croatia Token | 质量 77.07 | 可交易性 98.51 | 风险 低
-- 牛13 | 质量 75.28 | 可交易性 100.00 | 风险 低
-- CZ Comments on Zhuifeng | 质量 70.38 | 可交易性 88.62 | 风险 低
-- Generational Wealth | 质量 69.06 | 可交易性 66.35 | 风险 低
-- Binance Drip Check | 质量 68.65 | 可交易性 100.00 | 风险 低
-- Pepetide | 质量 68.25 | 可交易性 64.46 | 风险 低
-- Alleged X Internal Meme Agent | 质量 67.89 | 可交易性 77.05 | 风险 低
-- Pump.fun Comments on User Coin Purchase | 质量 67.68 | 可交易性 63.95 | 风险 低
-- Alleged The Fearless Turtle Meme Image | 质量 65.17 | 可交易性 92.69 | 风险 低
+- Ai Coin | 质量 79.31 | 可交易性 100.00 | 风险 低
+- World Cup Releases Croatia Token | 质量 76.57 | 可交易性 98.84 | 风险 低
+- 牛13 | 质量 72.70 | 可交易性 100.00 | 风险 低
+- Year Of The Singularity | 质量 72.66 | 可交易性 100.00 | 风险 低
+- PepeLero | 质量 71.08 | 可交易性 100.00 | 风险 低
+- Binance Drip Check | 质量 70.54 | 可交易性 100.00 | 风险 低
+- Bad Hombre Criticizes Reporter | 质量 69.64 | 可交易性 100.00 | 风险 低
+- Alleged $blue Charity Token Launch | 质量 68.46 | 可交易性 100.00 | 风险 低
+- Generational Wealth | 质量 68.34 | 可交易性 66.24 | 风险 低
+- CZ Comments on Zhuifeng | 质量 68.22 | 可交易性 87.79 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged X Internal Meme Agent | 风险 47.79 | 原因：流动性偏薄
+- Generational Wealth | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：World Cup Releases Croatia Token（BSC，分数 84.88）
+1. 当前最强叙事：World Cup Releases Croatia Token（BSC，分数 83.21）
 2. 共振最强代币：SLX（BSC，共振 100.0）
-3. 记忆层变化：Alleged The Fearless Turtle Meme Image 当前为“新出现”
+3. 记忆层变化：Year Of The Singularity 当前为“新出现”
 4. 最新官方催化：Binance Wallet Introduces Event Rush — Trade Real-World Events Like Tokens
 #Binance #NarrativeOS #OpenClaw
