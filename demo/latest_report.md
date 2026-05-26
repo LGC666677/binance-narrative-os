@@ -1,100 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-26T20:32:48.432858+00:00
+- 生成时间：2026-05-26T22:09:39.424230+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Pata van Goon Comments on Wallet，所在链为 Solana，叙事强度 86.13。
-- 当前平均叙事强度为 75.79，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Ryoko Comments on Hold My Glasses Meme 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Elon Musk Starship Meme，伪叙事风险 52.99。
+- 当前最强叙事是 World Cup Releases Croatia Token，所在链为 BSC，叙事强度 83.23。
+- 当前平均叙事强度为 76.67，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
+- 记忆层显示 Ayush Questions GrannyGamingz Authenticity 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Ryoko Comments on Hold My Glasses Meme，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Zest Protocol (ZEST) and Share $200K Worth of Rewards (2026-05-26)。
 
 ## 叙事雷达
 
-- Pata van Goon Comments on Wallet | Solana | 降温中 | 强度 86.13 | 质量 78.66
-  - 主题摘要：According to Pata van Goon's post, he replied to @letmedevit, labeling a specific wallet as a 'believe wallet' in a humorous context. The post does not provide detailed analysis o…
-  - 资金 100.00 / 广度 90.04 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Cup Releases Croatia Token | BSC | 已确认 | 强度 82.27 | 质量 73.32
+- World Cup Releases Croatia Token | BSC | 已确认 | 强度 83.23 | 质量 74.51
   - 主题摘要：According to 世界杯's post, the account published an article regarding the 'Croatia Team' token. The post references the token's description as the 2022 World Cup third-place finishe…
-  - 资金 100.00 / 广度 85.18 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.12 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Ai Coin | BSC | 已确认 | 强度 79.65 | 质量 77.29
-  - 主题摘要：Ai Coin (AIC) is the token of Predix Ai, a platform focused on AI-driven predictive analytics. The golden, minimalist logo reflects its premium positioning in the AI ecosystem. AI…
-  - 资金 100.00 / 广度 89.60 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 牛13 | BSC | 加速中 | 强度 77.09 | 质量 71.31
-  - 主题摘要：According to 牛13's post, the entity is launching a Meme image for the 'Niu13' token on the Butterfly platform. The post encourages investment in the project during its early stage…
-  - 资金 100.00 / 广度 73.80 / 确认 38.88 / 脆弱性 14.00
+- Ayush Questions GrannyGamingz Authenticity | Solana | 加速中 | 强度 81.13 | 质量 74.22
+  - 主题摘要：According to Ayush's post, Ayush criticized the 'GrannyGamingz' narrative as 'larping' (role-playing) rather than genuine, contrasting it with his own commitment to live streaming…
+  - 资金 100.00 / 广度 82.20 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ryoko Comments on Hold My Glasses Meme | Solana | 降温中 | 强度 76.94 | 质量 66.82
-  - 主题摘要：According to Ryoko's post, the "Hold My Glasses" Meme image, featuring a video of a boy knocking out an opponent after removing his glasses, has gained significant viral attention…
-  - 资金 100.00 / 广度 79.90 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Meme Image Release | Solana | 加速中 | 强度 75.51 | 质量 65.71
-  - 主题摘要：According to Wugi's post, a Meme image featuring a baby elephant screaming "ชั้ง" has gained significant traction on X, with over 1.5 million views in four hours. Wugi describes t…
-  - 资金 100.00 / 广度 81.74 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- cbBTC | BSC | 加速中 | 强度 75.18 | 质量 69.07
-  - 主题摘要：cbBTC is a community-driven token inspired by Bitcoin's legacy. It aims to bridge traditional finance with blockchain technology, focusing on decentralized finance solutions. cbBT…
-  - 资金 100.00 / 广度 77.21 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged FCM Token and Meme Image | Solana | 加速中 | 强度 74.10 | 质量 64.54
+- Alleged FCM Token and Meme Image | Solana | 加速中 | 强度 79.93 | 质量 65.99
   - 主题摘要：According to Armin's post, a viral 'Flying Coconut Milk' Meme image is circulating on Reddit and X. The post references this content in relation to the FCM token. This information…
-  - 资金 100.00 / 广度 75.40 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.76 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged LockedIn Token Launch | Solana | 降温中 | 强度 74.10 | 质量 66.56
-  - 主题摘要：According to sol0's post, the LockedIn token allegedly utilizes creator rewards to buy back its chart and airdrop tokens to eligible participants. Eligibility requires tweeting th…
-  - 资金 100.00 / 广度 60.81 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $Nugget Meme Launch | Solana | 降温中 | 强度 73.83 | 质量 61.81
-  - 主题摘要：According to Woe🧲🧠🤏💹's post, the author is launching a new project on Solana called $Nugget, sharing original Meme artwork to demonstrate capabilities beyond previous work with $W…
-  - 资金 100.00 / 广度 84.57 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Flying Coconut Milk Meme | Solana | 加速中 | 强度 73.45 | 质量 63.62
+- Alleged Flying Coconut Milk Meme | Solana | 加速中 | 强度 79.37 | 质量 65.07
   - 主题摘要：According to Meme Creator's post, a viral Meme image of coconut milk appearing to float due to the Lahaina Noon phenomenon is trending on Reddit. The post references tokens named…
-  - 资金 100.00 / 广度 73.29 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.68 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Starship Meme | Solana | 点火期 | 强度 72.23 | 质量 69.11
-  - 主题摘要：Multiple tokens named 「Hippo」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.06 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 金靴杯 | BSC | 加速中 | 强度 71.21 | 质量 60.02
-  - 主题摘要：Multiple tokens named 「金靴杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.51 / 确认 24.48 / 脆弱性 24.00
+- 牛13 | BSC | 已确认 | 强度 78.40 | 质量 73.00
+  - 主题摘要：According to 牛13's post, the entity is launching a Meme image for the 'Niu13' token on the Butterfly platform. The post encourages investment in the project during its early stage…
+  - 资金 100.00 / 广度 73.76 / 确认 38.88 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Ai Coin | BSC | 加速中 | 强度 77.11 | 质量 75.24
+  - 主题摘要：Ai Coin (AIC) is the token of Predix Ai, a platform focused on AI-driven predictive analytics. The golden, minimalist logo reflects its premium positioning in the AI ecosystem. AI…
+  - 资金 100.00 / 广度 89.59 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 每3分钟自动回购0.02BNB | BSC | 降温中 | 强度 69.51 | 质量 52.22
-  - 主题摘要：Multiple tokens named 「雪球自拉」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.87 / 确认 9.36 / 脆弱性 14.00
+- blunx | Solana | 降温中 | 强度 75.84 | 质量 64.12
+  - 主题摘要：BLUNX is a meme token inspired by a blue box character with a flat stare and poor table manners. The logo features a simple blue rectangle with black eyes and a straight line for…
+  - 资金 100.00 / 广度 67.00 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ryoko Comments on Hold My Glasses Meme | Solana | 点火期 | 强度 75.45 | 质量 68.76
+  - 主题摘要：According to Bilngineer's post, the author comments on the promotion of the Solana-based token BONK, referencing its performance and mentioning the Pump.fun platform. The post inc…
+  - 资金 100.00 / 广度 80.71 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Stoic Donkey Meme | Solana | 降温中 | 强度 75.41 | 质量 66.40
+  - 主题摘要：According to hubz's post, a viral video of a car accident involving a donkey in Diyarbakir has inspired a narrative comparing the animal's stoic behavior to philosophical enduranc…
+  - 资金 100.00 / 广度 58.84 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- cbBTC | BSC | 加速中 | 强度 75.35 | 质量 69.26
+  - 主题摘要：cbBTC is a community-driven token inspired by Bitcoin's legacy. It aims to bridge traditional finance with blockchain technology, focusing on decentralized finance solutions. cbBT…
+  - 资金 100.00 / 广度 77.28 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Meme Image Release | Solana | 加速中 | 强度 74.99 | 质量 65.73
+  - 主题摘要：According to Wugi's post, a Meme image featuring a baby elephant screaming "ชั้ง" has gained significant traction on X, with over 1.5 million views in four hours. Wugi describes t…
+  - 资金 100.00 / 广度 82.27 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged SPEED Meme Coin | Solana | 点火期 | 强度 74.94 | 质量 70.91
+  - 主题摘要：According to catinu161ETHAlphaWeb3Defi1000xGemsNFTQuantDAOdotHL's post, the SPEED token, associated with the 'My Mom Is Kinda Homeless' meme, is being promoted. This information i…
+  - 资金 100.00 / 广度 64.21 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 金靴杯 | BSC | 加速中 | 强度 74.34 | 质量 60.35
+  - 主题摘要：Multiple tokens named 「金靴杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.60 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon's Hungry Hippo Starship | BSC | 加速中 | 强度 71.57 | 质量 64.88
+  - 主题摘要：Elon Musk jokingly suggested creating a 'Hungry Hippo' version of SpaceX's Starship to collect and de-orbit spent rocket stages. This humorous take on space debris management comb…
+  - 资金 100.00 / 广度 77.48 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.79，其中已确认叙事 0 个。
-- Pata van Goon Comments on Wallet 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.67，其中已确认叙事 2 个。
+- Ayush Questions GrannyGamingz Authenticity 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- blunx 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Pata van Goon Comments on Wallet | 质量 78.66 | 可交易性 100.00 | 风险 低
-- Ai Coin | 质量 77.29 | 可交易性 100.00 | 风险 低
-- World Cup Releases Croatia Token | 质量 73.32 | 可交易性 100.00 | 风险 低
-- 牛13 | 质量 71.31 | 可交易性 100.00 | 风险 低
-- Elon Musk Starship Meme | 质量 69.11 | 可交易性 80.45 | 风险 低
-- cbBTC | 质量 69.07 | 可交易性 100.00 | 风险 低
-- Ryoko Comments on Hold My Glasses Meme | 质量 66.82 | 可交易性 73.34 | 风险 低
-- Alleged LockedIn Token Launch | 质量 66.56 | 可交易性 94.18 | 风险 低
-- Alleged Meme Image Release | 质量 65.71 | 可交易性 59.35 | 风险 低
-- Alleged FCM Token and Meme Image | 质量 64.54 | 可交易性 61.78 | 风险 低
+- Ai Coin | 质量 75.24 | 可交易性 100.00 | 风险 低
+- World Cup Releases Croatia Token | 质量 74.51 | 可交易性 100.00 | 风险 低
+- Ayush Questions GrannyGamingz Authenticity | 质量 74.22 | 可交易性 87.79 | 风险 低
+- 牛13 | 质量 73.00 | 可交易性 100.00 | 风险 低
+- Alleged SPEED Meme Coin | 质量 70.91 | 可交易性 100.00 | 风险 低
+- cbBTC | 质量 69.26 | 可交易性 100.00 | 风险 低
+- Ryoko Comments on Hold My Glasses Meme | 质量 68.76 | 可交易性 76.36 | 风险 低
+- Alleged Stoic Donkey Meme | 质量 66.40 | 可交易性 95.64 | 风险 低
+- Alleged FCM Token and Meme Image | 质量 65.99 | 可交易性 64.24 | 风险 低
+- Alleged Meme Image Release | 质量 65.73 | 可交易性 58.87 | 风险 低
 
 ## 伪叙事风险
 
-- Elon Musk Starship Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged $Nugget Meme Launch | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Ryoko Comments on Hold My Glasses Meme | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged SPEED Meme Coin | 风险 42.03 | 原因：流动性偏薄
+- blunx | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -104,10 +106,10 @@
 - 王纯 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 灵 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 背手负鼠 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- GOONC | Solana | 看多 | 新鲜度 100.00 | Pata van Goon Comments on Wallet
 - PARALOOM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RICH | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TRALALERO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- JAMES | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Pata van Goon Comments on Wallet（Solana，分数 86.13）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Ryoko Comments on Hold My Glasses Meme 当前为“新出现”
+1. 当前最强叙事：World Cup Releases Croatia Token（BSC，分数 83.23）
+2. 共振最强代币：XRP（BSC，共振 100.0）
+3. 记忆层变化：Ayush Questions GrannyGamingz Authenticity 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Zest Protocol (ZEST) and Share $200K Worth of Rewards (2026-05-26)
 #Binance #NarrativeOS #OpenClaw
