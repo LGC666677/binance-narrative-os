@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-27T12:45:08.509203+00:00
+- 生成时间：2026-05-27T16:27:29.158400+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Dogwifgun Token，所在链为 Solana，叙事强度 86.59。
-- 当前平均叙事强度为 78.31，其中已确认叙事 0 个。
+- 当前最强叙事是 Alleged Gosling Token，所在链为 Solana，叙事强度 87.8。
+- 当前平均叙事强度为 78.78，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged dogwifgun Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Ryoko Comments on Hold My Glasses Meme，伪叙事风险 47.79。
+- 记忆层显示 Alleged Gosling Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Tung Tung Tung Sahaur，伪叙事风险 47.79。
 - 最新官方催化来自 币安最新公告：Introducing Binance Wallet DeFi: 40+ Protocols, 1,000+ Pools, and Native Position Management。
 
 ## 叙事雷达
 
-- Alleged Dogwifgun Token | Solana | 加速中 | 强度 86.59 | 质量 76.54
-  - 主题摘要：According to Orenji's post, the user questions the existence of a token named 'Dogwifgun' in response to a news story about a dog accidentally firing a shotgun. The token is descr…
-  - 资金 100.00 / 广度 77.71 / 确认 23.76 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged dogwifgun Token | Solana | 加速中 | 强度 79.65 | 质量 67.43
-  - 主题摘要：According to Orenji's post, the user questions the naming of the alleged dogwifgun token in the context of a viral news story about a dog accidentally firing a shotgun. This infor…
-  - 资金 100.00 / 广度 82.47 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged FCM Token and Meme Image | Solana | 加速中 | 强度 78.42 | 质量 67.66
-  - 主题摘要：According to Armin's post, the user shared a viral Reddit post and X content regarding the Lahaina Noon phenomenon in Hawaii, where the sun passes directly overhead and objects ca…
-  - 资金 100.00 / 广度 81.50 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mira Discovers BSC 100M Block Easter Egg | BSC | 已确认 | 强度 78.16 | 质量 70.13
-  - 主题摘要：According to Mira's post, she observed that the 100 millionth block on BSC was verified by consensus, questioning if this was an official Easter egg. However, she noted that conse…
-  - 资金 100.00 / 广度 72.54 / 确认 28.08 / 脆弱性 24.00
+- Alleged Gosling Token | Solana | 已确认 | 强度 87.80 | 质量 84.97
+  - 主题摘要：According to KingChill's post, the author compares a viral incident involving a police officer striking goslings to the Pnut token, suggesting a parallel with alleged Gosling-them…
+  - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Flying Coconut Milk Meme | Solana | 加速中 | 强度 77.98 | 质量 66.75
-  - 主题摘要：According to Meme Creator's post, a viral Meme image of coconut milk appearing to float due to the Lahaina Noon phenomenon is trending on Reddit. The post references tokens named…
-  - 资金 100.00 / 广度 79.42 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yi He Selected as Fortune's Most Powerful Woman | BSC | 加速中 | 强度 77.97 | 质量 76.87
-  - 主题摘要：According to 夯角度🔶 BNB's post, Yi He has been ranked 64th on Fortune's 2026 Most Powerful Women list. This recognition highlights her significant influence in the global business s…
-  - 资金 100.00 / 广度 85.86 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Releases Croatia Token | BSC | 加速中 | 强度 77.84 | 质量 71.32
-  - 主题摘要：According to 世界杯's post, the account published an article regarding the 'Croatia Team' token. The post references the token's description as the 2022 World Cup third-place finishe…
-  - 资金 100.00 / 广度 85.17 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ai Coin | BSC | 加速中 | 强度 77.62 | 质量 77.21
-  - 主题摘要：Ai Coin (AIC) is the token of Predix Ai, a platform focused on AI-driven predictive analytics. The golden, minimalist logo reflects its premium positioning in the AI ecosystem. AI…
-  - 资金 100.00 / 广度 88.42 / 确认 35.28 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Goblin Discusses Chubby Cat | Solana | 降温中 | 强度 77.47 | 质量 68.69
-  - 主题摘要：According to goblin's post, the Chubby Cat is identified as the most viral chubby animal on the internet, with a TikTok account receiving millions of views. The post explicitly st…
-  - 资金 100.00 / 广度 62.10 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged SPEED Meme Coin | Solana | 加速中 | 强度 76.98 | 质量 76.06
-  - 主题摘要：According to catinu161ETHAlphaWeb3Defi1000xGemsNFTQuantDAOdotHL's post, the SPEED token, associated with the 'My Mom Is Kinda Homeless' meme, is being promoted. This information i…
-  - 资金 100.00 / 广度 75.59 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ayush Questions GrannyGamingz Authenticity | Solana | 加速中 | 强度 75.57 | 质量 71.83
-  - 主题摘要：According to Ayush's post, Ayush criticized the 'GrannyGamingz' narrative as 'larping' (role-playing) rather than genuine, contrasting it with his own commitment to live streaming…
-  - 资金 100.00 / 广度 82.95 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- He Yi on Fortune List | BSC | 加速中 | 强度 74.67 | 质量 72.22
-  - 主题摘要：Binance co-founder He Yi makes history as the first crypto-native executive recognized in Fortune Magazine’s Most Powerful Women in Business list, highlighting the mainstream acce…
-  - 资金 100.00 / 广度 82.12 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ryoko Comments on Hold My Glasses Meme | Solana | 点火期 | 强度 73.84 | 质量 66.22
-  - 主题摘要：According to Bilngineer's post, the author comments on the promotion of the Solana-based token BONK, referencing its performance and mentioning the Pump.fun platform. The post inc…
-  - 资金 100.00 / 广度 80.69 / 确认 9.36 / 脆弱性 14.00
+- Tung Tung Tung Sahaur | Solana | 点火期 | 强度 81.34 | 质量 77.10
+  - 主题摘要：According to truetrencher's post, a link associated with the token 'Tung Tung Tung Sahaur' (Symbol: TTT) was shared. This suggests the alleged issuance or promotion of the token.…
+  - 资金 100.00 / 广度 90.15 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- MSN Alleged Launch and AVE Trending Plan | BSC | 加速中 | 强度 72.20 | 质量 60.31
-  - 主题摘要：According to MSN's post, the MSN token is scheduled for a fair launch around 8 PM, followed by a plan to trend on AVE for at least seven days. The token is described as being deve…
-  - 资金 100.00 / 广度 70.43 / 确认 24.48 / 脆弱性 14.00
+- World Cup Releases Croatia Token | BSC | 已确认 | 强度 80.58 | 质量 75.17
+  - 主题摘要：According to 世界杯's post, the account published an article regarding the 'Croatia Team' token. The post references the token's description as the 2022 World Cup third-place finishe…
+  - 资金 100.00 / 广度 85.15 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged FCM Token and Meme Image | Solana | 加速中 | 强度 78.27 | 质量 67.76
+  - 主题摘要：According to Armin's post, a viral image titled 'Flying Coconut Milk' is circulating on Reddit and X, garnering significant engagement. This content is associated with the token s…
+  - 资金 100.00 / 广度 82.04 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Mira Discovers BSC 100M Block Easter Egg | BSC | 已确认 | 强度 78.22 | 质量 70.73
+  - 主题摘要：According to Mira's post, she observed that the 100 millionth block on BSC was verified by consensus, questioning if this was an official Easter egg. However, she noted that conse…
+  - 资金 100.00 / 广度 72.62 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- TripleP Shares Picco Meme | Solana | 降温中 | 强度 78.13 | 质量 68.95
+  - 主题摘要：According to TripleP's post, the user shared an Instagram link featuring a Meme image associated with the name 'picco'. The post serves as a reference to this specific visual cont…
+  - 资金 100.00 / 广度 77.18 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Flying Coconut Milk Meme | Solana | 加速中 | 强度 77.71 | 质量 66.85
+  - 主题摘要：According to Meme Creator's post, a viral Meme image of coconut milk appearing to float due to the Lahaina Noon phenomenon is trending on Reddit. The post references tokens named…
+  - 资金 100.00 / 广度 79.96 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ai Coin | BSC | 加速中 | 强度 76.46 | 质量 73.95
+  - 主题摘要：Ai Coin (AIC) is the token of Predix Ai, a platform focused on AI-driven predictive analytics. The golden, minimalist logo reflects its premium positioning in the AI ecosystem. AI…
+  - 资金 100.00 / 广度 88.44 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged SPEED Meme Coin | Solana | 加速中 | 强度 76.33 | 质量 75.79
+  - 主题摘要：According to catinu161ETHAlphaWeb3Defi1000xGemsNFTQuantDAOdotHL's post, the SPEED token, associated with the 'My Mom Is Kinda Homeless' meme, is being promoted. This information i…
+  - 资金 100.00 / 广度 75.21 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Kurrco Shares Lil Uzi Vert Meme | Solana | 降温中 | 强度 76.29 | 质量 63.06
+  - 主题摘要：According to Kurrco's post, Lil Uzi Vert shared a video featuring his pet monkey Piccola, accompanied by the phrase "The orphan from space." This content is associated with tokens…
+  - 资金 100.00 / 广度 82.42 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Yi He Selected as Fortune's Most Powerful Woman | BSC | 加速中 | 强度 75.73 | 质量 72.18
+  - 主题摘要：According to 夯角度🔶 BNB's post, Yi He has been ranked 64th on Fortune's 2026 Most Powerful Women list. This recognition highlights her significant influence in the global business s…
+  - 资金 100.00 / 广度 85.44 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Yi He's Chinese Slogan | BSC | 加速中 | 强度 74.63 | 质量 60.20
+  - 主题摘要：According to caodanM's post, Yi He is associated with a Chinese slogan described as interesting. The post links to a Binance article regarding leadership, highlighting Yi He's pub…
+  - 资金 100.00 / 广度 76.84 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ayush Questions GrannyGamingz Authenticity | Solana | 加速中 | 强度 74.39 | 质量 70.70
+  - 主题摘要：According to Ayush's post, Ayush criticized the 'GrannyGamingz' narrative as 'larping' (role-playing) rather than genuine, contrasting it with his own commitment to live streaming…
+  - 资金 100.00 / 广度 82.99 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 蜂鸟 | BSC | 加速中 | 强度 69.52 | 质量 56.37
+  - 主题摘要：蜂鸟 (Hummingbird) is a community-driven token inspired by the swift, agile nature of hummingbirds. It aims to empower decentralized finance through innovative projects like staking…
+  - 资金 100.00 / 广度 64.43 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.31，其中已确认叙事 0 个。
-- Alleged dogwifgun Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Goblin Discusses Chubby Cat 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.78，其中已确认叙事 1 个。
+- Alleged Gosling Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- TripleP Shares Picco Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Ai Coin | 质量 77.21 | 可交易性 100.00 | 风险 低
-- Uncertain:Yi He Selected as Fortune's Most Powerful Woman | 质量 76.87 | 可交易性 89.78 | 风险 低
-- Alleged Dogwifgun Token | 质量 76.54 | 可交易性 100.00 | 风险 低
-- Alleged SPEED Meme Coin | 质量 76.06 | 可交易性 100.00 | 风险 低
-- He Yi on Fortune List | 质量 72.22 | 可交易性 80.66 | 风险 低
-- Ayush Questions GrannyGamingz Authenticity | 质量 71.83 | 可交易性 81.70 | 风险 低
-- World Cup Releases Croatia Token | 质量 71.32 | 可交易性 100.00 | 风险 低
-- Mira Discovers BSC 100M Block Easter Egg | 质量 70.13 | 可交易性 95.93 | 风险 低
-- Goblin Discusses Chubby Cat | 质量 68.69 | 可交易性 100.00 | 风险 低
-- Alleged FCM Token and Meme Image | 质量 67.66 | 可交易性 66.07 | 风险 低
+- Alleged Gosling Token | 质量 84.97 | 可交易性 100.00 | 风险 低
+- Tung Tung Tung Sahaur | 质量 77.10 | 可交易性 100.00 | 风险 低
+- Alleged SPEED Meme Coin | 质量 75.79 | 可交易性 100.00 | 风险 低
+- World Cup Releases Croatia Token | 质量 75.17 | 可交易性 100.00 | 风险 低
+- Ai Coin | 质量 73.95 | 可交易性 100.00 | 风险 低
+- Uncertain:Yi He Selected as Fortune's Most Powerful Woman | 质量 72.18 | 可交易性 87.08 | 风险 低
+- Mira Discovers BSC 100M Block Easter Egg | 质量 70.73 | 可交易性 95.78 | 风险 低
+- Ayush Questions GrannyGamingz Authenticity | 质量 70.70 | 可交易性 79.12 | 风险 低
+- TripleP Shares Picco Meme | 质量 68.95 | 可交易性 85.79 | 风险 低
+- Alleged FCM Token and Meme Image | 质量 67.76 | 可交易性 65.88 | 风险 低
 
 ## 伪叙事风险
 
-- Ryoko Comments on Hold My Glasses Meme | 风险 47.79 | 原因：流动性偏薄
+- Tung Tung Tung Sahaur | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Dogwifgun Token（Solana，分数 86.59）
+1. 当前最强叙事：Alleged Gosling Token（Solana，分数 87.8）
 2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Alleged dogwifgun Token 当前为“新出现”
+3. 记忆层变化：Alleged Gosling Token 当前为“新出现”
 4. 最新官方催化：Introducing Binance Wallet DeFi: 40+ Protocols, 1,000+ Pools, and Native Position Management
 #Binance #NarrativeOS #OpenClaw
