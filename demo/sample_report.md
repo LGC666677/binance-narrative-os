@@ -1,98 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-27T23:40:36.293995+00:00
+- 生成时间：2026-05-28T01:24:07.413403+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Gosling Token，所在链为 Solana，叙事强度 88.84。
-- 当前平均叙事强度为 80.72，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MRVL，来自 BSC，共振分数 100.0。
-- 记忆层显示 Tai Lung Cat 当前处于“新出现”状态。
+- 当前最强叙事是 Alleged Gosling Token，所在链为 Solana，叙事强度 88.67。
+- 当前平均叙事强度为 81.05，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 RKLB，来自 BSC，共振分数 100.0。
+- 记忆层显示 Trump Goes To Space 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Mark Fernandez Hernandez Shares Video，伪叙事风险 40.99。
 - 最新官方催化来自 币安最新公告：Introducing Binance Wallet DeFi: 40+ Protocols, 1,000+ Pools, and Native Position Management。
 
 ## 叙事雷达
 
-- Alleged Gosling Token | Solana | 降温中 | 强度 88.84 | 质量 80.85
+- Alleged Gosling Token | Solana | 降温中 | 强度 88.67 | 质量 80.85
   - 主题摘要：According to KingChill's post, the author compares a viral incident involving a police officer striking goslings to the Pnut token, suggesting a parallel with alleged Gosling-them…
   - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mark Fernandez Hernandez Shares Video | Solana | 降温中 | 强度 86.55 | 质量 77.84
+- Mark Fernandez Hernandez Shares Video | Solana | 降温中 | 强度 84.75 | 质量 78.00
   - 主题摘要：According to Mark Fernandez Hernandez's post, the author shared a YouTube video link accompanied by the text '2 died'. The post does not provide specific context regarding the vid…
-  - 资金 100.00 / 广度 92.61 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.14 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $SolarSytem Token Launch | Solana | 降温中 | 强度 81.35 | 质量 75.63
-  - 主题摘要：According to Planets's post, the entity is launching a token named $SolarSytem, which allegedly combines various planetary-themed coins into a single ecosystem. The post claims th…
-  - 资金 100.00 / 广度 82.61 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Cup Releases Croatia Token | BSC | 已确认 | 强度 79.68 | 质量 71.93
-  - 主题摘要：According to 世界杯's post, the account published an article regarding the 'Croatia Team' token. The post references the token's description as the 2022 World Cup third-place finishe…
-  - 资金 100.00 / 广度 84.93 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged US-Iran Conflict Footage | Solana | 降温中 | 强度 79.17 | 质量 73.50
-  - 主题摘要：According to Breaking911's post, footage allegedly shared by a U.S. soldier appears to show HIMARS missile launches targeting Iran from an undisclosed Gulf nation during the recen…
-  - 资金 100.00 / 广度 78.67 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mira Discovers BSC 100M Block Easter Egg | BSC | 已确认 | 强度 78.93 | 质量 71.43
-  - 主题摘要：According to Mira's post, she observed that the 100 millionth block on BSC was verified by consensus, questioning if this was an official Easter egg. However, she noted that conse…
-  - 资金 100.00 / 广度 72.75 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Yi He's Chinese Slogan | BSC | 已确认 | 强度 78.82 | 质量 64.86
-  - 主题摘要：According to caodanM's post, Yi He is associated with the slogan "Chinese No.1 Sister," which the author describes as interesting. The post links to a Binance article regarding le…
-  - 资金 100.00 / 广度 81.47 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Tai Lung Cat | Solana | 降温中 | 强度 78.79 | 质量 72.31
+- Tai Lung Cat | Solana | 降温中 | 强度 83.73 | 质量 74.36
   - 主题摘要：Multiple tokens named 「TAILUNG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.16 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ai Coin | BSC | 加速中 | 强度 77.49 | 质量 77.74
+- World Cup Releases Croatia Token | BSC | 已确认 | 强度 81.46 | 质量 74.14
+  - 主题摘要：According to 世界杯's post, the account published an article regarding the 'Croatia Team' token. The post references the token's description as the 2022 World Cup third-place finishe…
+  - 资金 100.00 / 广度 84.38 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Trump Goes To Space | Solana | 降温中 | 强度 81.37 | 质量 73.12
+  - 主题摘要：Multiple tokens named 「ASTRUMPNAUT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.60 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- wrapped bulls Publishes Article | Solana | 降温中 | 强度 80.88 | 质量 72.97
+  - 主题摘要：According to wrapped bulls's post, the author published an article on X regarding their project, which involves deterministic, on-chain-seeded pixel art and a vault-NFT wrap layer…
+  - 资金 100.00 / 广度 71.08 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Mira Discovers BSC 100M Block Easter Egg | BSC | 已确认 | 强度 78.58 | 质量 70.77
+  - 主题摘要：According to Mira's post, she observed that the 100 millionth block on BSC was verified by consensus, questioning if this was an official Easter egg. However, she noted that conse…
+  - 资金 100.00 / 广度 73.09 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Dogwifgun Token | Solana | 加速中 | 强度 78.47 | 质量 76.12
+  - 主题摘要：According to Orenji's post, the user questions the existence of a token named 'Dogwifgun' in response to a news story about a dog accidentally firing a shotgun. The token is descr…
+  - 资金 100.00 / 广度 78.94 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ai Coin | BSC | 加速中 | 强度 77.25 | 质量 75.71
   - 主题摘要：Ai Coin (AIC) is the token of Predix Ai, a platform focused on AI-driven predictive analytics. The golden, minimalist logo reflects its premium positioning in the AI ecosystem. AI…
-  - 资金 100.00 / 广度 88.12 / 确认 35.28 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.35 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged GOSLINGS Meme Image | Solana | 降温中 | 强度 77.20 | 质量 62.22
-  - 主题摘要：According to Esee's post, a Meme image related to the GOSLINGS token was shared, referencing a news story about a police officer and geese. This information is unverified. Please…
-  - 资金 100.00 / 广度 81.74 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Gosling Meme Coin | Solana | 降温中 | 强度 76.94 | 质量 61.99
+- Alleged Gosling Meme Coin | Solana | 降温中 | 强度 75.35 | 质量 62.40
   - 主题摘要：According to CryptoAlphaHunter's post, the author compares a viral incident involving a police officer and a goose to the 'Pnut' phenomenon, suggesting a parallel with the emergen…
-  - 资金 100.00 / 广度 80.98 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.97 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of RIP Goslings Meme Coin | Solana | 降温中 | 强度 76.88 | 质量 61.91
-  - 主题摘要：According to World Animal News's post, a Meme token named 'RIP Goslings' has been identified, associated with an incident involving goslings killed by a state trooper in Arkansas.…
-  - 资金 100.00 / 广度 80.97 / 确认 9.36 / 脆弱性 14.00
+- Alleged GOSLINGS Meme Image | Solana | 降温中 | 强度 75.19 | 质量 62.60
+  - 主题摘要：According to Esee's post, a Meme image related to the GOSLINGS token was shared, referencing a news story about a police officer and geese. This information is unverified. Please…
+  - 资金 100.00 / 广度 82.61 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蜂鸟 | BSC | 加速中 | 强度 72.23 | 质量 60.38
+- 蜂鸟 | BSC | 加速中 | 强度 75.00 | 质量 60.90
   - 主题摘要：蜂鸟 (Hummingbird) is a community-driven token inspired by the swift, agile nature of hummingbirds. It aims to empower decentralized finance through innovative projects like staking…
-  - 资金 100.00 / 广度 70.75 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 71.01 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 金靴杯 | BSC | 加速中 | 强度 71.00 | 质量 59.54
-  - 主题摘要：Multiple tokens named 「金靴杯」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.69 / 确认 24.48 / 脆弱性 24.00
+- BNBRouter | BSC | 加速中 | 强度 73.16 | 质量 57.33
+  - 主题摘要：BNBR is a community-driven token focused on decentralized finance and DeFi innovation. It aims to empower users through transparent governance and innovative projects like staking…
+  - 资金 100.00 / 广度 67.72 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Yi He's Chinese Slogan | BSC | 加速中 | 强度 72.20 | 质量 64.12
+  - 主题摘要：According to caodanM's post, Yi He is associated with the slogan "Chinese No.1 Sister," which the author describes as interesting. The post links to a Binance article regarding le…
+  - 资金 100.00 / 广度 81.99 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.72，其中已确认叙事 0 个。
-- 金靴杯 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.05，其中已确认叙事 0 个。
+- Alleged Dogwifgun Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Alleged Gosling Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Alleged Gosling Token | 质量 80.85 | 可交易性 100.00 | 风险 低
-- Mark Fernandez Hernandez Shares Video | 质量 77.84 | 可交易性 100.00 | 风险 低
-- Ai Coin | 质量 77.74 | 可交易性 100.00 | 风险 低
-- Alleged $SolarSytem Token Launch | 质量 75.63 | 可交易性 100.00 | 风险 低
-- Alleged US-Iran Conflict Footage | 质量 73.50 | 可交易性 96.83 | 风险 低
-- Tai Lung Cat | 质量 72.31 | 可交易性 100.00 | 风险 低
-- World Cup Releases Croatia Token | 质量 71.93 | 可交易性 100.00 | 风险 低
-- Mira Discovers BSC 100M Block Easter Egg | 质量 71.43 | 可交易性 95.87 | 风险 低
-- Uncertain:Yi He's Chinese Slogan | 质量 64.86 | 可交易性 54.14 | 风险 低
-- Alleged GOSLINGS Meme Image | 质量 62.22 | 可交易性 58.81 | 风险 低
+- Mark Fernandez Hernandez Shares Video | 质量 78.00 | 可交易性 100.00 | 风险 低
+- Alleged Dogwifgun Token | 质量 76.12 | 可交易性 100.00 | 风险 低
+- Ai Coin | 质量 75.71 | 可交易性 100.00 | 风险 低
+- Tai Lung Cat | 质量 74.36 | 可交易性 100.00 | 风险 低
+- World Cup Releases Croatia Token | 质量 74.14 | 可交易性 100.00 | 风险 低
+- Trump Goes To Space | 质量 73.12 | 可交易性 100.00 | 风险 低
+- wrapped bulls Publishes Article | 质量 72.97 | 可交易性 100.00 | 风险 低
+- Mira Discovers BSC 100M Block Easter Egg | 质量 70.77 | 可交易性 95.89 | 风险 低
+- Uncertain:Yi He's Chinese Slogan | 质量 64.12 | 可交易性 51.16 | 风险 低
 
 ## 伪叙事风险
 
+- Mark Fernandez Hernandez Shares Video | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Gosling Meme Coin | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged GOSLINGS Meme Image | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -131,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Gosling Token（Solana，分数 88.84）
-2. 共振最强代币：MRVL（BSC，共振 100.0）
-3. 记忆层变化：Tai Lung Cat 当前为“新出现”
+1. 当前最强叙事：Alleged Gosling Token（Solana，分数 88.67）
+2. 共振最强代币：RKLB（BSC，共振 100.0）
+3. 记忆层变化：Trump Goes To Space 当前为“新出现”
 4. 最新官方催化：Introducing Binance Wallet DeFi: 40+ Protocols, 1,000+ Pools, and Native Position Management
 #Binance #NarrativeOS #OpenClaw
