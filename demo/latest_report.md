@@ -1,103 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-28T22:50:19.466538+00:00
+- 生成时间：2026-05-28T23:58:50.928673+00:00
 - 跟踪叙事：14
-- 已确认叙事：4
-- 高风险伪叙事：1
+- 已确认叙事：3
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 He Yi on Fortune List，所在链为 BSC，叙事强度 87.85。
-- 当前平均叙事强度为 80.03，其中已确认叙事 3 个。
-- 注意力与资金共振最强的代币是 QAIT，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged $250 Bill Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 mert Criticizes Crypto Investment Logic，伪叙事风险 50.08。
+- 当前最强叙事是 He Yi on Fortune List，所在链为 BSC，叙事强度 87.96。
+- 当前平均叙事强度为 81.38，其中已确认叙事 3 个。
+- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
+- 记忆层显示 Trump Bill $250 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 US Army Launches Monkeys into Space，伪叙事风险 42.03。
 - 最新官方催化来自 最新活动：Binance Wallet Launches Prediction Markets Trial Protection Campaign – Phase 3。
 
 ## 叙事雷达
 
-- He Yi on Fortune List | BSC | 已确认 | 强度 87.85 | 质量 84.66
+- He Yi on Fortune List | BSC | 已确认 | 强度 87.96 | 质量 84.67
   - 主题摘要：Binance co-founder He Yi makes history as the first crypto-native executive recognized in Fortune Magazine’s Most Powerful Women in Business list, highlighting the mainstream acce…
-  - 资金 100.00 / 广度 98.96 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 99.01 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- CZ Calls Heyi Light Source | BSC | 已确认 | 强度 87.57 | 质量 84.34
+- Trump Bill $250 | Solana | 降温中 | 强度 87.72 | 质量 78.29
+  - 主题摘要：Multiple tokens named 「TRUMPBILL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.83 / 确认 16.56 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Calls Heyi Light Source | BSC | 已确认 | 强度 87.68 | 质量 84.35
   - 主题摘要：Binance CEO CZ publicly praised co-founder He Yi as a 'light source,' sparking intense community discussion about her leadership and influence. This high-profile endorsement creat…
-  - 资金 100.00 / 广度 97.89 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 97.94 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- He Yi Fortune MPW | BSC | 已确认 | 强度 87.21 | 质量 83.82
+- He Yi Fortune MPW | BSC | 已确认 | 强度 87.31 | 质量 83.81
   - 主题摘要：Binance联合创始人何一入选《财富》杂志最具影响力女性榜单，回顾其从3亿到30亿的愿景与坚持。这一官方背书事件展现了币安领导层的成长故事，但缺乏Meme代币所需的争议性或娱乐爆点。
-  - 资金 100.00 / 广度 96.17 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 96.15 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged $250 Bill Token | Solana | 已确认 | 强度 79.41 | 质量 78.11
-  - 主题摘要：According to traderxyz's post, speculation exists regarding a $250 US bill featuring Donald Trump. traderxyz claims to have launched a token named 'Just Buy $250 Worth' ($250) in…
-  - 资金 100.00 / 广度 87.83 / 确认 35.40 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged $420 Bill Meme | Solana | 加速中 | 强度 78.47 | 质量 78.22
-  - 主题摘要：According to AxTrades's post, the author speculates about a $420 bill featuring Elon Musk, citing his association with the number 420 and the DOGE meme. The post encourages buying…
-  - 资金 100.00 / 广度 90.92 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $250 Bill Token | Solana | 降温中 | 强度 76.88 | 质量 68.31
-  - 主题摘要：According to The Washington Post's post, Trump administration officials have reportedly pressed the Bureau of Engraving and Printing to design a $250 bill featuring the president’…
-  - 资金 100.00 / 广度 86.91 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ai Coin | BSC | 加速中 | 强度 74.62 | 质量 74.12
-  - 主题摘要：Ai Coin (AIC) is the token of Predix Ai, a platform focused on AI-driven predictive analytics. The golden, minimalist logo reflects its premium positioning in the AI ecosystem. AI…
-  - 资金 100.00 / 广度 88.04 / 确认 35.28 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup Releases Croatia Token | BSC | 加速中 | 强度 74.27 | 质量 66.81
+- World Cup Releases Croatia Token | BSC | 加速中 | 强度 77.43 | 质量 71.70
   - 主题摘要：According to 世界杯's post, the account published an article regarding the 'Croatia Team' token. The post references the token's description as the 2022 World Cup third-place finishe…
-  - 资金 100.00 / 广度 81.05 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.00 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged SUPER Token Launch | Solana | 降温中 | 强度 73.36 | 质量 63.61
-  - 主题摘要：According to @jason's post, a strategy was shared suggesting that including the word 'SUPER' in a company name could attract investment from Jason Calacanis. This content referenc…
-  - 资金 100.00 / 广度 74.35 / 确认 9.36 / 脆弱性 14.00
+- Alleged $250 Bill Token | Solana | 加速中 | 强度 76.77 | 质量 75.54
+  - 主题摘要：According to traderxyz's post, speculation exists regarding a $250 US bill featuring Donald Trump. traderxyz claims to have launched a token named 'Just Buy $250 Worth' ($250) in…
+  - 资金 100.00 / 广度 87.63 / 确认 35.40 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ai Coin | BSC | 加速中 | 强度 76.22 | 质量 74.70
+  - 主题摘要：Ai Coin (AIC) is the token of Predix Ai, a platform focused on AI-driven predictive analytics. The golden, minimalist logo reflects its premium positioning in the AI ecosystem. AI…
+  - 资金 100.00 / 广度 87.97 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Man Charged in Pokemon Card Robbery | Solana | 降温中 | 强度 75.82 | 质量 66.46
+  - 主题摘要：According to The Washington Times's post, a man has been charged with armed robbery for a plot that resulted in the theft of nearly $130,000 worth of Pokemon cards. The report hig…
+  - 资金 100.00 / 广度 76.90 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mayor Mamdani Introduces COGE | Solana | 加速中 | 强度 72.96 | 质量 71.45
-  - 主题摘要：Multiple tokens named 「COGE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.29 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- US Army Launches Monkeys into Space | Solana | 点火期 | 强度 72.49 | 质量 69.36
+- US Army Launches Monkeys into Space | Solana | 点火期 | 强度 75.29 | 质量 73.40
   - 主题摘要：According to New York Daily News's post, on May 28, the US Army launched monkeys into space. This historical event is referenced in the context of cryptocurrency tokens named MOON…
-  - 资金 100.00 / 广度 91.58 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.60 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- mert Criticizes Crypto Investment Logic | Solana | 点火期 | 强度 71.60 | 质量 65.13
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.63 / 确认 13.00 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Trump War Room Launches App | Solana | 降温中 | 强度 70.12 | 质量 51.73
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.42 / 确认 9.36 / 脆弱性 24.00
+- Garret Comments on NBA AI Referees | Solana | 加速中 | 强度 73.13 | 质量 59.08
+  - 主题摘要：According to Garret's post, the author comments on NBA Commissioner Adam Silver's announcement regarding the implementation of an AI automated system with cameras to assist in off…
+  - 资金 100.00 / 广度 59.70 / 确认 31.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged $420 Bill Meme | Solana | 加速中 | 强度 73.07 | 质量 72.23
+  - 主题摘要：According to AxTrades's post, the author speculates about a $420 bill featuring Elon Musk, citing his association with the number 420 and the DOGE meme. The post encourages buying…
+  - 资金 100.00 / 广度 90.29 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Mayor Mamdani Introduces COGE | Solana | 加速中 | 强度 72.69 | 质量 69.20
+  - 主题摘要：Multiple tokens named 「COGE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.10 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged $250 Bill Token | Solana | 降温中 | 强度 72.18 | 质量 62.50
+  - 主题摘要：Multiple tokens named 「DON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.92 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mira Discovers BSC 100M Block Easter Egg | BSC | 加速中 | 强度 68.69 | 质量 58.51
+- Mira Discovers BSC 100M Block Easter Egg | BSC | 加速中 | 强度 71.70 | 质量 64.81
   - 主题摘要：According to Mira's post, she observed that the 100 millionth block on BSC was verified by consensus, questioning if this was an official Easter egg. However, she noted that conse…
-  - 资金 100.00 / 广度 68.74 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 68.69 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.03，其中已确认叙事 3 个。
-- Alleged $250 Bill Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged $250 Bill Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 81.38，其中已确认叙事 3 个。
+- Garret Comments on NBA AI Referees 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Trump Bill $250 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- He Yi on Fortune List | 质量 84.66 | 可交易性 100.00 | 风险 低
-- CZ Calls Heyi Light Source | 质量 84.34 | 可交易性 100.00 | 风险 低
-- He Yi Fortune MPW | 质量 83.82 | 可交易性 100.00 | 风险 低
-- Alleged $420 Bill Meme | 质量 78.22 | 可交易性 100.00 | 风险 低
-- Alleged $250 Bill Token | 质量 78.11 | 可交易性 86.58 | 风险 低
-- Ai Coin | 质量 74.12 | 可交易性 100.00 | 风险 低
-- Mayor Mamdani Introduces COGE | 质量 71.45 | 可交易性 100.00 | 风险 低
-- US Army Launches Monkeys into Space | 质量 69.36 | 可交易性 96.01 | 风险 低
-- Alleged $250 Bill Token | 质量 68.31 | 可交易性 83.11 | 风险 低
-- World Cup Releases Croatia Token | 质量 66.81 | 可交易性 89.83 | 风险 低
+- He Yi on Fortune List | 质量 84.67 | 可交易性 100.00 | 风险 低
+- CZ Calls Heyi Light Source | 质量 84.35 | 可交易性 100.00 | 风险 低
+- He Yi Fortune MPW | 质量 83.81 | 可交易性 100.00 | 风险 低
+- Trump Bill $250 | 质量 78.29 | 可交易性 100.00 | 风险 低
+- Alleged $250 Bill Token | 质量 75.54 | 可交易性 78.20 | 风险 低
+- Ai Coin | 质量 74.70 | 可交易性 100.00 | 风险 低
+- US Army Launches Monkeys into Space | 质量 73.40 | 可交易性 96.47 | 风险 低
+- Alleged $420 Bill Meme | 质量 72.23 | 可交易性 97.78 | 风险 低
+- World Cup Releases Croatia Token | 质量 71.70 | 可交易性 100.00 | 风险 低
+- Mayor Mamdani Introduces COGE | 质量 69.20 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- mert Criticizes Crypto Investment Logic | 风险 50.08 | 原因：流动性偏薄、近 1 小时净流入转负
 - US Army Launches Monkeys into Space | 风险 42.03 | 原因：流动性偏薄
 - Alleged $250 Bill Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Trump War Room Launches App | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -136,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：He Yi on Fortune List（BSC，分数 87.85）
-2. 共振最强代币：QAIT（BSC，共振 100.0）
-3. 记忆层变化：Alleged $250 Bill Token 当前为“新出现”
+1. 当前最强叙事：He Yi on Fortune List（BSC，分数 87.96）
+2. 共振最强代币：TROLL（Solana，共振 100.0）
+3. 记忆层变化：Trump Bill $250 当前为“新出现”
 4. 最新官方催化：Binance Wallet Launches Prediction Markets Trial Protection Campaign – Phase 3
 #Binance #NarrativeOS #OpenClaw
