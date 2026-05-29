@@ -1,111 +1,113 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-29T13:47:04.986882+00:00
+- 生成时间：2026-05-29T17:23:15.984480+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Law Of Attraction，所在链为 Solana，叙事强度 82.03。
-- 当前平均叙事强度为 76.62，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Uncertain:Binance Wallet Renames Events Tab to eMeme 当前处于“新出现”状态。
+- 当前最强叙事是 Alleged Launch of $8 Token，所在链为 Solana，叙事强度 85.59。
+- 当前平均叙事强度为 80.35，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BULL，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged Launch of $8 Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged PUMPERS Token Launch，伪叙事风险 42.03。
 - 最新官方催化来自 最新活动：MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers。
 
 ## 叙事雷达
 
-- Law Of Attraction | Solana | 加速中 | 强度 82.03 | 质量 72.45
+- Alleged Launch of $8 Token | Solana | 加速中 | 强度 85.59 | 质量 78.57
+  - 主题摘要：According to Quant 💻's post, the author claims that holding $8 worth of the token named 'To Unite Us All' is required to join a specific community. The post includes a link to a p…
+  - 资金 100.00 / 广度 87.97 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Dogeus Maximus Token | Solana | 加速中 | 强度 85.07 | 质量 78.83
+  - 主题摘要：According to Tesla Owners Silicon Valley's post, Elon Musk is referred to as "Dogeus Maximus" or "The Doge Father." This terminology is associated with the alleged Dogeus Maximus…
+  - 资金 100.00 / 广度 87.97 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Law Of Attraction | Solana | 加速中 | 强度 83.84 | 质量 73.06
   - 主题摘要：Multiple tokens named 「LOA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.09 / 确认 23.76 / 脆弱性 7.67
+  - 资金 100.00 / 广度 68.75 / 确认 20.16 / 脆弱性 5.55
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Wallet Renames Events Tab to eMeme | BSC | 加速中 | 强度 81.92 | 质量 74.61
-  - 主题摘要：According to Binance Wallet's post, the platform is renaming the [Events] tab to [eMeme] and displaying [Event Token] as [Event Meme] to align with the 42space protocol's terminol…
-  - 资金 100.00 / 广度 85.16 / 确认 24.48 / 脆弱性 14.00
+- the Europoor | Solana | 加速中 | 强度 81.88 | 质量 72.53
+  - 主题摘要：europoor is a satirical meme token inspired by the European Union flag, playfully reimagined with 'POOR' replacing 'EURO'. Created by theEuropoor on X, it parodies the EU's health…
+  - 资金 100.00 / 广度 63.81 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Anthropic Claude AI Test Instances | Solana | 降温中 | 强度 79.69 | 质量 70.12
-  - 主题摘要：According to Sean adams's post, Anthropic updated its GitHub repository for the new Claude update, introducing two AI test instances named "Bob" and "Alice." These instances were…
-  - 资金 100.00 / 广度 74.70 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- He Yi on Fortune List | BSC | 加速中 | 强度 79.18 | 质量 76.00
-  - 主题摘要：Binance co-founder He Yi makes history as the first crypto-native executive recognized in Fortune Magazine’s Most Powerful Women in Business list, highlighting the mainstream acce…
-  - 资金 100.00 / 广度 95.00 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Richard Ptardio Token | Solana | 加速中 | 强度 77.56 | 质量 66.65
-  - 主题摘要：According to TopQuantXD's post, Richard Ptardio, a trader who claims his wife left him due to crypto gambling losses, is allegedly launching a token named PTARDIO. The post refere…
-  - 资金 100.00 / 广度 79.48 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Calls Heyi Light Source | BSC | 加速中 | 强度 77.10 | 质量 74.93
+- Alleged PUMPERS Token Launch | Solana | 点火期 | 强度 81.08 | 质量 80.76
+  - 主题摘要：According to FaZe Bizzle's post, the author suggests launching a token named PUMPERS, claiming community support and potential DEX payment utility. This information is unverified.…
+  - 资金 100.00 / 广度 97.06 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- CZ Calls Heyi Light Source | BSC | 加速中 | 强度 79.94 | 质量 80.29
   - 主题摘要：Binance CEO CZ publicly praised co-founder He Yi as a 'light source,' sparking intense community discussion about her leadership and influence. This high-profile endorsement creat…
-  - 资金 93.97 / 广度 94.49 / 确认 20.16 / 脆弱性 24.00
+  - 资金 97.10 / 广度 96.71 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged AI Housing Mining Project | Solana | 加速中 | 强度 77.03 | 质量 63.79
-  - 主题摘要：According to ChillFindooor's post, a company called Span.io is allegedly developing a system where GPUs and Dell servers are installed in homes to mine AI compute power, with clai…
-  - 资金 100.00 / 广度 79.53 / 确认 24.48 / 脆弱性 14.00
+- Uncertain:Binance Wallet Renames Events Tab to eMeme | BSC | 加速中 | 强度 77.14 | 质量 74.24
+  - 主题摘要：According to Binance Wallet's post, the platform is renaming the [Events] tab to [eMeme] and displaying [Event Token] as [Event Meme] to align with the 42space protocol's terminol…
+  - 资金 100.00 / 广度 86.40 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Offline Mode | BSC | 加速中 | 强度 75.36 | 质量 73.01
-  - 主题摘要：Binance's official account posted a brief status update claiming it is "offline for a minute" but "not off mission." This low-energy, routine maintenance-style post lacks the vira…
-  - 资金 100.00 / 广度 91.93 / 确认 28.08 / 脆弱性 24.00
+- He Yi on Fortune List | BSC | 加速中 | 强度 76.83 | 质量 76.35
+  - 主题摘要：Binance co-founder He Yi makes history as the first crypto-native executive recognized in Fortune Magazine’s Most Powerful Women in Business list, highlighting the mainstream acce…
+  - 资金 95.63 / 广度 94.32 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Happy dev Claims Babel Breaks Language Barriers | BSC | 加速中 | 强度 74.98 | 质量 66.91
-  - 主题摘要：According to Happy dev's post, the Tower of Babel has completely broken global language barriers, enabling free communication among all languages. The author describes this develo…
-  - 资金 100.00 / 广度 77.72 / 确认 24.48 / 脆弱性 24.00
+- Alleged Meme Coin 'cummunity' | Solana | 加速中 | 强度 76.53 | 质量 64.52
+  - 主题摘要：According to Kiro's post, the author suggests that the community is missing an obvious community coin and proposes sending a Meme image for 'cummunity'. This implies the alleged l…
+  - 资金 100.00 / 广度 78.37 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 灰太狼 | BSC | 加速中 | 强度 73.50 | 质量 64.52
-  - 主题摘要：Multiple tokens named 「灰太狼」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.01 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged LEET Token Launch | Solana | 降温中 | 强度 71.96 | 质量 55.93
-  - 主题摘要：According to twencher's post, the term LEET (Looking for Education, Employment and Training) is discussed in relation to a Channel 4 News segment. The post references tokens with…
-  - 资金 100.00 / 广度 72.28 / 确认 9.36 / 脆弱性 14.00
+- Anthropic Claude AI Test Instances | Solana | 降温中 | 强度 75.24 | 质量 61.81
+  - 主题摘要：According to Sean adams's post, Anthropic updated its GitHub repository for the new Claude update, introducing two AI test instances named "Bob" and "Alice." These instances were…
+  - 资金 100.00 / 广度 68.15 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Indian MMA Fighter Killed in Canada | Solana | 加速中 | 强度 71.45 | 质量 64.41
-  - 主题摘要：According to RTN's post, an Indian MMA fighter was killed in Canada following a bear attack. This tragic incident has drawn attention to wildlife safety concerns in the region.
-  - 资金 100.00 / 广度 80.17 / 确认 20.16 / 脆弱性 24.00
+- Elfie 精灵 | BSC | 加速中 | 强度 75.19 | 质量 66.02
+  - 主题摘要：Multiple tokens named 「ELFIE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.36 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Customer Service Response Speed | BSC | 加速中 | 强度 70.98 | 质量 65.92
-  - 主题摘要：Binance official account retweets a user praising their responsive human customer service, highlighting a rare 'human touch' in the crypto industry compared to typical AI bots. Th…
-  - 资金 100.00 / 广度 74.19 / 确认 30.96 / 脆弱性 14.00
+- He Yi Fortune MPW | BSC | 加速中 | 强度 74.71 | 质量 73.08
+  - 主题摘要：Binance联合创始人何一入选《财富》杂志最具影响力女性榜单，回顾其从3亿到30亿的愿景与坚持。这一官方背书事件展现了币安领导层的成长故事，但缺乏Meme代币所需的争议性或娱乐爆点。
+  - 资金 95.48 / 广度 92.49 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 煎饼大朗 | BSC | 加速中 | 强度 70.66 | 质量 58.27
-  - 主题摘要：Multiple tokens named 「煎饼大朗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.71 / 确认 24.48 / 脆弱性 24.00
+- Alleged Richard Ptardio Token | Solana | 加速中 | 强度 73.56 | 质量 65.89
+  - 主题摘要：According to TopQuantXD's post, Richard Ptardio, a trader who claims his wife left him due to crypto gambling losses, is allegedly launching a token named PTARDIO. The post refere…
+  - 资金 100.00 / 广度 79.56 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Happy dev Claims Babel Breaks Language Barriers | BSC | 加速中 | 强度 73.01 | 质量 62.04
+  - 主题摘要：According to Happy dev's post, the Tower of Babel has completely broken global language barriers, enabling free communication among all languages. The author describes this develo…
+  - 资金 100.00 / 广度 77.43 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.62，其中已确认叙事 0 个。
-- Uncertain:Binance Wallet Renames Events Tab to eMeme 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.35，其中已确认叙事 0 个。
+- Alleged Launch of $8 Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Anthropic Claude AI Test Instances 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- He Yi on Fortune List | 质量 76.00 | 可交易性 100.00 | 风险 低
-- CZ Calls Heyi Light Source | 质量 74.93 | 可交易性 99.54 | 风险 低
-- Uncertain:Binance Wallet Renames Events Tab to eMeme | 质量 74.61 | 可交易性 85.58 | 风险 低
-- Binance Offline Mode | 质量 73.01 | 可交易性 70.84 | 风险 低
-- Law Of Attraction | 质量 72.45 | 可交易性 100.00 | 风险 低
-- Anthropic Claude AI Test Instances | 质量 70.12 | 可交易性 92.17 | 风险 低
-- Happy dev Claims Babel Breaks Language Barriers | 质量 66.91 | 可交易性 67.37 | 风险 低
-- Alleged Richard Ptardio Token | 质量 66.65 | 可交易性 64.73 | 风险 低
-- Binance Customer Service Response Speed | 质量 65.92 | 可交易性 79.79 | 风险 低
-- 灰太狼 | 质量 64.52 | 可交易性 60.46 | 风险 低
+- Alleged PUMPERS Token Launch | 质量 80.76 | 可交易性 100.00 | 风险 低
+- CZ Calls Heyi Light Source | 质量 80.29 | 可交易性 100.00 | 风险 低
+- Alleged Dogeus Maximus Token | 质量 78.83 | 可交易性 100.00 | 风险 低
+- Alleged Launch of $8 Token | 质量 78.57 | 可交易性 96.51 | 风险 低
+- He Yi on Fortune List | 质量 76.35 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance Wallet Renames Events Tab to eMeme | 质量 74.24 | 可交易性 83.13 | 风险 低
+- He Yi Fortune MPW | 质量 73.08 | 可交易性 93.59 | 风险 低
+- Law Of Attraction | 质量 73.06 | 可交易性 100.00 | 风险 低
+- the Europoor | 质量 72.53 | 可交易性 100.00 | 风险 低
+- Elfie 精灵 | 质量 66.02 | 可交易性 66.76 | 风险 低
 
 ## 伪叙事风险
 
+- Alleged PUMPERS Token Launch | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
 - eMeme | BSC | 看多 | 新鲜度 100.00 | Uncertain:Binance Wallet Renames Events Tab to eMeme
-- 光源 | BSC | 看多 | 新鲜度 100.00 | He Yi on Fortune List / CZ Calls Heyi Light Source
+- 光源 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 光源 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 来都来了 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SEAZ | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PAYNE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PARALOOM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- RICH | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GOONC | Solana | 看多 | 新鲜度 98.60 | 暂无直接叙事映射
 - KINS | Solana | 看多 | 新鲜度 95.95 | 暂无直接叙事映射
+- 西班牙队 | BSC | 看多 | 新鲜度 91.98 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Law Of Attraction（Solana，分数 82.03）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Uncertain:Binance Wallet Renames Events Tab to eMeme 当前为“新出现”
+1. 当前最强叙事：Alleged Launch of $8 Token（Solana，分数 85.59）
+2. 共振最强代币：BULL（Solana，共振 100.0）
+3. 记忆层变化：Alleged Launch of $8 Token 当前为“新出现”
 4. 最新官方催化：MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers
 #Binance #NarrativeOS #OpenClaw
