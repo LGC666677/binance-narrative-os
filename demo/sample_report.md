@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-30T06:11:29.040897+00:00
+- 生成时间：2026-05-30T08:39:18.762395+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Dogeus Maximus Token，所在链为 Solana，叙事强度 86.55。
-- 当前平均叙事强度为 80.89，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Binance Kids Day Blind Box 当前处于“新出现”状态。
+- 当前最强叙事是 Binance Kids Day Blind Box，所在链为 BSC，叙事强度 85.6。
+- 当前平均叙事强度为 80.22，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 CUM，来自 Solana，共振分数 95.07。
+- 记忆层显示 UTFS 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers。
 
 ## 叙事雷达
 
-- Alleged Dogeus Maximus Token | Solana | 加速中 | 强度 86.55 | 质量 80.82
-  - 主题摘要：Multiple tokens named 「DOGEUS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.34 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Kids Day Blind Box | BSC | 已确认 | 强度 86.36 | 质量 77.70
+- Binance Kids Day Blind Box | BSC | 已确认 | 强度 85.60 | 质量 81.12
   - 主题摘要：Binance launched a series of 7 plush toy blind boxes for Children's Day, including 6 standard and 1 hidden edition, as part of their merchandise lineup.
-  - 资金 100.00 / 广度 78.77 / 确认 31.72 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.81 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Trull | Solana | 降温中 | 强度 83.18 | 质量 71.75
+- Alleged Dogeus Maximus Token | Solana | 加速中 | 强度 85.29 | 质量 81.01
+  - 主题摘要：Multiple tokens named 「DOGEUS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.97 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trull | Solana | 降温中 | 强度 84.60 | 质量 73.30
   - 主题摘要：Multiple tokens named 「Trull」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.30 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 77.47 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Community Coin | Solana | 降温中 | 强度 80.99 | 质量 72.32
-  - 主题摘要：Multiple tokens named 「COMMCOIN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.21 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Calls Heyi Light Source | BSC | 加速中 | 强度 80.80 | 质量 81.76
+- CZ Calls Heyi Light Source | BSC | 加速中 | 强度 82.83 | 质量 81.77
   - 主题摘要：Binance CEO CZ publicly praised co-founder He Yi as a 'light source,' sparking intense community discussion about her leadership and influence. This high-profile endorsement creat…
-  - 资金 96.30 / 广度 97.75 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 97.78 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Big Moey Discusses Viral 'Cuh' Meme | Solana | 降温中 | 强度 79.46 | 质量 69.45
-  - 主题摘要：According to Big Moey's post, the 'Cuh' meme has gained over 30 million views in the last 48 hours. Big Moey predicts that the 'Cuh' trend will continue to gain significant tracti…
-  - 资金 100.00 / 广度 77.16 / 确认 16.56 / 脆弱性 14.00
+- Community Coin | Solana | 降温中 | 强度 82.50 | 质量 74.23
+  - 主题摘要：Multiple tokens named 「COMMCOIN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.57 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of $8 Token | Solana | 加速中 | 强度 79.38 | 质量 79.56
+- Alleged Launch of $8 Token | Solana | 加速中 | 强度 81.26 | 质量 79.71
   - 主题摘要：Multiple tokens named 「PUMPERS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.40 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.90 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Preston Byrne on US Law Enforcement | Solana | 降温中 | 强度 79.28 | 质量 67.57
-  - 主题摘要：According to Maye Musk's post, she introduced her new shelter puppy named Cali. She described the puppy's behavior, such as picking up toys, and noted that her other dog, Del Rey,…
-  - 资金 100.00 / 广度 84.01 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Anthropic Claude AI Test Instances | Solana | 降温中 | 强度 79.28 | 质量 68.09
-  - 主题摘要：According to Sean adams's post, Anthropic updated its GitHub repository for the new Claude update, introducing two AI test instances named 'Bob' and 'Alice'. These instances were…
-  - 资金 100.00 / 广度 71.70 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Paint.net Token | Solana | 降温中 | 强度 79.02 | 质量 69.38
-  - 主题摘要：According to Pdrizzy's post, the creator of MSPaint secured the Paint.net domain, sparking discussion about a potential token. The post highlights the creator's anti-AI stance and…
-  - 资金 100.00 / 广度 59.13 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- He Yi on Fortune List | BSC | 加速中 | 强度 77.45 | 质量 77.32
+- He Yi on Fortune List | BSC | 已确认 | 强度 79.73 | 质量 77.01
   - 主题摘要：Binance co-founder He Yi makes history as the first crypto-native executive recognized in Fortune Magazine’s Most Powerful Women in Business list, highlighting the mainstream acce…
-  - 资金 94.21 / 广度 93.59 / 确认 30.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.56 / 确认 30.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Anthropic Claude AI Test Instances | Solana | 降温中 | 强度 77.98 | 质量 67.04
+  - 主题摘要：According to Sean adams's post, Anthropic updated its GitHub repository for the new Claude update, introducing two AI test instances named 'Bob' and 'Alice'. These instances were…
+  - 资金 100.00 / 广度 68.05 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- UTFS | Solana | 降温中 | 强度 77.70 | 质量 67.25
+  - 主题摘要：Multiple tokens named 「UTFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.09 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Meme Coin 'cummunity' | Solana | 加速中 | 强度 76.50 | 质量 64.80
+  - 主题摘要：According to Kiro's post, the author suggests that the community is missing an obvious community coin and proposes sending a Meme image for 'cummunity'. This implies the alleged l…
+  - 资金 96.32 / 广度 87.78 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Wallet Renames Events Tab to eMeme | BSC | 加速中 | 强度 74.87 | 质量 72.27
-  - 主题摘要：According to Binance Wallet's post, the platform is renaming the [Events] tab to [eMeme] and displaying [Event Token] as [Event Meme] to align with the 42space protocol's terminol…
-  - 资金 99.14 / 广度 86.31 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- He Yi Fortune MPW | BSC | 加速中 | 强度 74.28 | 质量 72.54
+- He Yi Fortune MPW | BSC | 加速中 | 强度 76.48 | 质量 72.22
   - 主题摘要：Binance联合创始人何一入选《财富》杂志最具影响力女性榜单，回顾其从3亿到30亿的愿景与坚持。这一官方背书事件展现了币安领导层的成长故事，但缺乏Meme代币所需的争议性或娱乐爆点。
-  - 资金 94.46 / 广度 91.78 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 91.77 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elfie 精灵 | BSC | 加速中 | 强度 73.22 | 质量 62.63
+- Uncertain:Binance Wallet Renames Events Tab to eMeme | BSC | 加速中 | 强度 76.19 | 质量 72.19
+  - 主题摘要：According to Binance Wallet's post, the platform is renaming the [Events] tab to [eMeme] and displaying [Event Token] as [Event Meme] to align with the 42space protocol's terminol…
+  - 资金 100.00 / 广度 86.18 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- AI Consultant Reveals $500M Claude Usage Error | Solana | 加速中 | 强度 75.95 | 质量 63.69
+  - 主题摘要：According to Polymarket's post, an AI consultant disclosed that a client accidentally spent $500 million in a single month due to failing to set employee usage limits on Claude.
+  - 资金 100.00 / 广度 80.68 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elfie 精灵 | BSC | 加速中 | 强度 74.34 | 质量 62.82
   - 主题摘要：Multiple tokens named 「ELFIE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.77 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.52 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.89，其中已确认叙事 0 个。
-- Binance Kids Day Blind Box 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.22，其中已确认叙事 0 个。
+- Alleged Meme Coin 'cummunity' 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Trull 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ Calls Heyi Light Source | 质量 81.76 | 可交易性 100.00 | 风险 低
-- Alleged Dogeus Maximus Token | 质量 80.82 | 可交易性 100.00 | 风险 低
-- Alleged Launch of $8 Token | 质量 79.56 | 可交易性 100.00 | 风险 低
-- Binance Kids Day Blind Box | 质量 77.70 | 可交易性 96.96 | 风险 低
-- He Yi on Fortune List | 质量 77.32 | 可交易性 100.00 | 风险 低
-- He Yi Fortune MPW | 质量 72.54 | 可交易性 93.84 | 风险 低
-- Community Coin | 质量 72.32 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Wallet Renames Events Tab to eMeme | 质量 72.27 | 可交易性 76.63 | 风险 低
-- Trull | 质量 71.75 | 可交易性 100.00 | 风险 低
-- Big Moey Discusses Viral 'Cuh' Meme | 质量 69.45 | 可交易性 82.19 | 风险 低
+- CZ Calls Heyi Light Source | 质量 81.77 | 可交易性 100.00 | 风险 低
+- Binance Kids Day Blind Box | 质量 81.12 | 可交易性 100.00 | 风险 低
+- Alleged Dogeus Maximus Token | 质量 81.01 | 可交易性 100.00 | 风险 低
+- Alleged Launch of $8 Token | 质量 79.71 | 可交易性 100.00 | 风险 低
+- He Yi on Fortune List | 质量 77.01 | 可交易性 100.00 | 风险 低
+- Community Coin | 质量 74.23 | 可交易性 100.00 | 风险 低
+- Trull | 质量 73.30 | 可交易性 100.00 | 风险 低
+- He Yi Fortune MPW | 质量 72.22 | 可交易性 93.73 | 风险 低
+- Uncertain:Binance Wallet Renames Events Tab to eMeme | 质量 72.19 | 可交易性 76.50 | 风险 低
+- UTFS | 质量 67.25 | 可交易性 91.22 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Dogeus Maximus Token（Solana，分数 86.55）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Binance Kids Day Blind Box 当前为“新出现”
+1. 当前最强叙事：Binance Kids Day Blind Box（BSC，分数 85.6）
+2. 共振最强代币：CUM（Solana，共振 95.07）
+3. 记忆层变化：UTFS 当前为“新出现”
 4. 最新官方催化：MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers
 #Binance #NarrativeOS #OpenClaw
