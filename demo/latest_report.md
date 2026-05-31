@@ -1,101 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-31T21:45:26.985012+00:00
+- 生成时间：2026-05-31T22:43:43.622805+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Uncertain:Binance Square RWA Countdown，所在链为 BSC，叙事强度 94.23。
-- 当前平均叙事强度为 79.62，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 BSTOCKS，来自 BSC，共振分数 100.0。
-- 记忆层显示 Gaynald Trump 当前处于“新出现”状态。
+- 当前最强叙事是 Uncertain:Binance Square RWA Countdown，所在链为 BSC，叙事强度 93.06。
+- 当前平均叙事强度为 78.65，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 H，来自 BSC，共振分数 100.0。
+- 记忆层显示 Atlanta Train Stabbing Incident 当前处于“强化”状态。
 - 当前最需要防止误判的叙事是 Crypster Identifies as 1b Runner，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers。
 
 ## 叙事雷达
 
-- Uncertain:Binance Square RWA Countdown | BSC | 已确认 | 强度 94.23 | 质量 87.98
+- Uncertain:Binance Square RWA Countdown | BSC | 已确认 | 强度 93.06 | 质量 86.55
   - 主题摘要：According to Crystal Byer's post, Binance Square has announced the countdown for the launch of RWA Securities. The name has been confirmed, and the official link is https://www.bi…
-  - 资金 100.00 / 广度 100.00 / 确认 45.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- MostWanted Posts Odysseus Video | Solana | 加速中 | 强度 88.88 | 质量 81.27
+- MostWanted Posts Odysseus Video | Solana | 加速中 | 强度 86.88 | 质量 81.89
   - 主题摘要：According to MostWanted's post, the author shared a YouTube video link with the caption 'HOLY SHIT HE FINALLY DID IT', expressing strong excitement regarding the content. The post…
-  - 资金 100.00 / 广度 94.44 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.48 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance New Product June 1 | BSC | 已确认 | 强度 84.58 | 质量 81.11
+- Binance New Product June 1 | BSC | 已确认 | 强度 85.56 | 质量 81.11
   - 主题摘要：Binance official account teased a new product reveal scheduled for June 1. This announcement has sparked speculation and excitement within the crypto community regarding potential…
-  - 资金 100.00 / 广度 87.13 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.15 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Gaynald Trump | Solana | 降温中 | 强度 81.03 | 质量 72.18
-  - 主题摘要：Multiple tokens named 「Gaynald」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.75 / 确认 9.36 / 脆弱性 14.00
+- Atlanta Train Stabbing Incident | Solana | 降温中 | 强度 84.55 | 质量 79.61
+  - 主题摘要：According to RT's post, a woman was stabbed on a train in Atlanta, resulting in significant bloodshed on the floor as she lay motionless. The post includes a graphic warning regar…
+  - 资金 100.00 / 广度 95.86 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Tprow on Binance US Stock Suffix Change | BSC | 加速中 | 强度 77.14 | 质量 72.40
-  - 主题摘要：According to Tprow's post, Binance has changed the suffix of its US stock listings from 'on' to 'bn'. Tprow attributes this change to the service provider switching from Ondo to B…
-  - 资金 100.00 / 广度 82.51 / 确认 25.92 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Vibez Discusses 'Dat Bih Gah' Meme | Solana | 加速中 | 强度 76.92 | 质量 63.50
+- Alleged HOLD Meme Image Release | Solana | 已确认 | 强度 82.88 | 质量 73.85
+  - 主题摘要：According to Gambino's post, the author promotes a narrative centered on the HOLD token, describing it as a 'genny narrative' and stating that 'we are in a gay meta.' The post inc…
+  - 资金 100.00 / 广度 65.58 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Vibez Discusses 'Dat Bih Gah' Meme | Solana | 加速中 | 强度 77.81 | 质量 63.69
   - 主题摘要：According to Vibez's post, the phrase "Dat Bih Gah" has gone viral on TikTok and X, originating from a reaction video. Vibez notes that this internet meme is now associated with t…
-  - 资金 100.00 / 广度 77.29 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.62 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- He Yi on Fortune List | BSC | 加速中 | 强度 76.76 | 质量 75.21
-  - 主题摘要：Binance co-founder He Yi makes history as the first crypto-native executive recognized in Fortune Magazine’s Most Powerful Women in Business list, highlighting the mainstream acce…
-  - 资金 100.00 / 广度 90.48 / 确认 30.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Gay Bro | Solana | 降温中 | 强度 75.80 | 质量 61.01
-  - 主题摘要：Multiple tokens named 「GAYBRO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.35 / 确认 9.36 / 脆弱性 14.00
+- Pump Discusses PF Token | Solana | 降温中 | 强度 77.53 | 质量 69.06
+  - 主题摘要：According to Pump's post, the author shares a brief comment regarding the PF token, stating that it is fun to pump. The post references the Pumpfun project and the associated toke…
+  - 资金 100.00 / 广度 63.33 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Calls Heyi Light Source | BSC | 加速中 | 强度 75.70 | 质量 73.91
-  - 主题摘要：Binance CEO CZ publicly praised co-founder He Yi as a 'light source,' sparking intense community discussion about her leadership and influence. This high-profile endorsement creat…
-  - 资金 100.00 / 广度 94.08 / 确认 20.16 / 脆弱性 14.00
+- Uncertain:Tprow on Binance US Stock Suffix Change | BSC | 加速中 | 强度 75.62 | 质量 70.11
+  - 主题摘要：According to Tprow's post, Binance has changed the suffix of its US stock listings from 'on' to 'bn'. Tprow attributes this change to the service provider switching from Ondo to B…
+  - 资金 100.00 / 广度 82.52 / 确认 25.92 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- He Yi Fortune MPW | BSC | 加速中 | 强度 75.11 | 质量 72.96
-  - 主题摘要：Binance联合创始人何一入选《财富》杂志最具影响力女性榜单，回顾其从3亿到30亿的愿景与坚持。这一官方背书事件展现了币安领导层的成长故事，但缺乏Meme代币所需的争议性或娱乐爆点。
-  - 资金 100.00 / 广度 90.92 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Crypster Identifies as 1b Runner | Solana | 点火期 | 强度 74.96 | 质量 70.43
+- Crypster Identifies as 1b Runner | Solana | 点火期 | 强度 75.38 | 质量 70.20
   - 主题摘要：According to Crypster's post, the author identifies as a '1b runner,' expressing a preference for the $1 billion scale over the $10 million scale. This statement reflects a person…
-  - 资金 100.00 / 广度 86.00 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.60 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CDOF | Solana | 降温中 | 强度 74.14 | 质量 63.71
-  - 主题摘要：Multiple tokens named 「CDOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 60.12 / 确认 16.56 / 脆弱性 14.00
+- He Yi on Fortune List | BSC | 加速中 | 强度 75.22 | 质量 75.15
+  - 主题摘要：Binance co-founder He Yi makes history as the first crypto-native executive recognized in Fortune Magazine’s Most Powerful Women in Business list, highlighting the mainstream acce…
+  - 资金 100.00 / 广度 90.52 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Gay Bro | Solana | 降温中 | 强度 74.49 | 质量 61.01
+  - 主题摘要：Multiple tokens named 「GAYBRO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.50 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Xiao Gui: Solana FARTCOIN and BSC Stock Coin | BSC | 加速中 | 强度 73.79 | 质量 65.79
+- CZ Calls Heyi Light Source | BSC | 加速中 | 强度 74.16 | 质量 73.85
+  - 主题摘要：Binance CEO CZ publicly praised co-founder He Yi as a 'light source,' sparking intense community discussion about her leadership and influence. This high-profile endorsement creat…
+  - 资金 100.00 / 广度 94.10 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- He Yi Fortune MPW | BSC | 加速中 | 强度 73.58 | 质量 72.90
+  - 主题摘要：Binance联合创始人何一入选《财富》杂志最具影响力女性榜单，回顾其从3亿到30亿的愿景与坚持。这一官方背书事件展现了币安领导层的成长故事，但缺乏Meme代币所需的争议性或娱乐爆点。
+  - 资金 100.00 / 广度 90.95 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Xiao Gui: Solana FARTCOIN and BSC Stock Coin | BSC | 加速中 | 强度 73.35 | 质量 65.01
   - 主题摘要：According to 小鬼's post, the author suggests that while FARTCOIN exists on Solana, a similar stock-themed token should be launched on the BSC network. This statement reflects a per…
   - 资金 100.00 / 广度 79.96 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Atlanta Train Stabbing Incident | Solana | 点火期 | 强度 73.79 | 质量 71.39
-  - 主题摘要：According to RT's post, a graphic incident involving a woman being stabbed on a train in Atlanta was reported, with descriptions of significant blood on the floor and the victim l…
-  - 资金 100.00 / 广度 94.14 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.62，其中已确认叙事 2 个。
-- He Yi Fortune MPW 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Gaynald Trump 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.65，其中已确认叙事 2 个。
+- Alleged HOLD Meme Image Release 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Atlanta Train Stabbing Incident 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:Binance Square RWA Countdown | 质量 87.98 | 可交易性 100.00 | 风险 低
-- MostWanted Posts Odysseus Video | 质量 81.27 | 可交易性 99.02 | 风险 低
+- Uncertain:Binance Square RWA Countdown | 质量 86.55 | 可交易性 100.00 | 风险 低
+- MostWanted Posts Odysseus Video | 质量 81.89 | 可交易性 98.42 | 风险 低
 - Binance New Product June 1 | 质量 81.11 | 可交易性 100.00 | 风险 低
-- He Yi on Fortune List | 质量 75.21 | 可交易性 100.00 | 风险 低
-- CZ Calls Heyi Light Source | 质量 73.91 | 可交易性 100.00 | 风险 低
-- He Yi Fortune MPW | 质量 72.96 | 可交易性 100.00 | 风险 低
-- Uncertain:Tprow on Binance US Stock Suffix Change | 质量 72.40 | 可交易性 89.69 | 风险 低
-- Gaynald Trump | 质量 72.18 | 可交易性 100.00 | 风险 低
-- Atlanta Train Stabbing Incident | 质量 71.39 | 可交易性 99.26 | 风险 低
-- Crypster Identifies as 1b Runner | 质量 70.43 | 可交易性 81.91 | 风险 低
+- Atlanta Train Stabbing Incident | 质量 79.61 | 可交易性 100.00 | 风险 低
+- He Yi on Fortune List | 质量 75.15 | 可交易性 100.00 | 风险 低
+- Alleged HOLD Meme Image Release | 质量 73.85 | 可交易性 100.00 | 风险 低
+- CZ Calls Heyi Light Source | 质量 73.85 | 可交易性 100.00 | 风险 低
+- He Yi Fortune MPW | 质量 72.90 | 可交易性 100.00 | 风险 低
+- Crypster Identifies as 1b Runner | 质量 70.20 | 可交易性 81.52 | 风险 低
+- Uncertain:Tprow on Binance US Stock Suffix Change | 质量 70.11 | 可交易性 89.29 | 风险 低
 
 ## 伪叙事风险
 
 - Crypster Identifies as 1b Runner | 风险 47.79 | 原因：流动性偏薄
-- Atlanta Train Stabbing Incident | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -104,11 +103,11 @@
 - 光源 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 光源 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 来都来了 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SEAZ | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CUM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PAYNE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ZINC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GOONC | Solana | 看多 | 新鲜度 98.60 | 暂无直接叙事映射
+- KINS | Solana | 看多 | 新鲜度 95.95 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Uncertain:Binance Square RWA Countdown（BSC，分数 94.23）
-2. 共振最强代币：BSTOCKS（BSC，共振 100.0）
-3. 记忆层变化：Gaynald Trump 当前为“新出现”
+1. 当前最强叙事：Uncertain:Binance Square RWA Countdown（BSC，分数 93.06）
+2. 共振最强代币：H（BSC，共振 100.0）
+3. 记忆层变化：Atlanta Train Stabbing Incident 当前为“强化”
 4. 最新官方催化：MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers
 #Binance #NarrativeOS #OpenClaw
