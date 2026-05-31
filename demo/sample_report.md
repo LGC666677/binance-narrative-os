@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-05-31T09:21:28.092981+00:00
+- 生成时间：2026-05-31T11:11:45.519697+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：4
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Uncertain:Binance Square RWA Countdown，所在链为 BSC，叙事强度 90.45。
-- 当前平均叙事强度为 78.01，其中已确认叙事 0 个。
+- 当前最强叙事是 Uncertain:Binance Square RWA Countdown，所在链为 BSC，叙事强度 91.55。
+- 当前平均叙事强度为 78.8，其中已确认叙事 4 个。
 - 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 GIBBS 当前处于“新出现”状态。
+- 记忆层显示 SWAM 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Trump Comments on IBM Stock，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers。
 
 ## 叙事雷达
 
-- Uncertain:Binance Square RWA Countdown | BSC | 已确认 | 强度 90.45 | 质量 85.29
-  - 主题摘要：According to Crystal Byer's post, the countdown for Binance Square's RWA Securities section has begun, and the name has been confirmed. The post includes a link to the relevant Bi…
-  - 资金 100.00 / 广度 95.79 / 确认 38.88 / 脆弱性 14.00
+- Uncertain:Binance Square RWA Countdown | BSC | 已确认 | 强度 91.55 | 质量 85.38
+  - 主题摘要：According to Crystal Byer's post, Binance Square has announced the countdown for the launch of RWA Securities. The name has been confirmed, and the official link is https://www.bi…
+  - 资金 100.00 / 广度 96.09 / 确认 38.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance New Product June 1 | BSC | 已确认 | 强度 88.87 | 质量 81.60
+- Binance New Product June 1 | BSC | 已确认 | 强度 87.35 | 质量 81.78
   - 主题摘要：Binance official account teased a new product reveal scheduled for June 1. This announcement has sparked speculation and excitement within the crypto community regarding potential…
-  - 资金 100.00 / 广度 86.13 / 确认 35.28 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.73 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Chat Waiting | BSC | 降温中 | 强度 84.25 | 质量 77.15
-  - 主题摘要：Binance official account posts a meme about waiting in the Binance Chat, highlighting the community's anticipation or boredom during market lulls. This reflects the daily life and…
-  - 资金 100.00 / 广度 85.03 / 确认 16.56 / 脆弱性 24.00
+- SWAM | Solana | 降温中 | 强度 81.75 | 质量 70.82
+  - 主题摘要：SWAM, a tiny creature with huge eyes and peculiar antennas, symbolizes a unique approach in the crypto space—listening to the market's subtle ripples rather than chasing short-ter…
+  - 资金 100.00 / 广度 69.21 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GIBBS | Solana | 降温中 | 强度 83.93 | 质量 74.26
-  - 主题摘要：GIBBS token draws inspiration from a capybara named Gibbs, who was born at Nagasaki Bio Park with mobility challenges. The token commemorates the animal's recovery journey, where…
-  - 资金 100.00 / 广度 75.40 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $Skinny Meme Coin | Solana | 降温中 | 强度 79.36 | 质量 68.44
-  - 主题摘要：According to tongue guy's post, a viral AI-generated dog video on TikTok is being associated with a potential token named $Skinny. The author suggests this name due to the content…
-  - 资金 100.00 / 广度 56.98 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Xiao Gui: Solana FARTCOIN and BSC Stock Coin | BSC | 已确认 | 强度 79.04 | 质量 71.85
-  - 主题摘要：According to 小鬼's post, the author suggests that while FARTCOIN exists on Solana, a similar stock-themed token should be launched on the BSC network. This statement reflects a per…
-  - 资金 100.00 / 广度 80.20 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Golden Dome | Solana | 降温中 | 强度 77.79 | 质量 66.93
-  - 主题摘要：According to Eric Daugherty's post, President Trump released an epic rendition of the "Golden Dome for the WHITE HOUSE" Meme image, accompanied by a call to action. This content r…
-  - 资金 100.00 / 广度 92.02 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Dogeus Maximus Token | Solana | 加速中 | 强度 77.61 | 质量 71.61
+- Alleged Dogeus Maximus Token | Solana | 降温中 | 强度 80.00 | 质量 71.59
   - 主题摘要：According to America News's post, the entity allegedly launched a token named Dogeus Maximus (Symbol: DOGEUS). This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 84.87 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Develify Discusses $TOPLESS | Solana | 降温中 | 强度 76.03 | 质量 61.38
-  - 主题摘要：According to Develify's post, the user identified a cryptocurrency token as $TOPLESS. The post consists of a brief statement referencing this specific token symbol.
-  - 资金 100.00 / 广度 81.36 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.75 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- UL🔥🔥🔥 | BSC | 加速中 | 强度 75.31 | 质量 61.41
+- Xiao Gui: Solana FARTCOIN and BSC Stock Coin | BSC | 已确认 | 强度 79.73 | 质量 71.91
+  - 主题摘要：According to 小鬼's post, the author suggests that while FARTCOIN exists on Solana, a similar stock-themed token should be launched on the BSC network. This statement reflects a per…
+  - 资金 100.00 / 广度 80.25 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Binance Chat Waiting | BSC | 已确认 | 强度 78.12 | 质量 70.72
+  - 主题摘要：Binance official account posts a meme about waiting in the Binance Chat, highlighting the community's anticipation or boredom during market lulls. This reflects the daily life and…
+  - 资金 100.00 / 广度 82.87 / 确认 28.08 / 脆弱性 44.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Golden Dome | Solana | 降温中 | 强度 75.59 | 质量 63.67
+  - 主题摘要：According to Eric Daugherty's post, President Trump released an epic rendition of the "Golden Dome for the WHITE HOUSE" Meme image, accompanied by a call to action. This content r…
+  - 资金 100.00 / 广度 91.79 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ: Just HODL | BSC | 降温中 | 强度 74.39 | 质量 62.60
+  - 主题摘要：Binance founder CZ advises followers to simply hold their assets instead of taking action, leveraging the classic crypto mantra 'HODL' to encourage passive confidence in the marke…
+  - 资金 100.00 / 广度 78.04 / 确认 13.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trump Comments on IBM Stock | Solana | 点火期 | 强度 74.34 | 质量 67.46
+  - 主题摘要：According to Polymarket's post, Donald Trump stated that he believes IBM's stock is "gonna go up a lot more." This comment highlights his positive outlook on the performance of th…
+  - 资金 100.00 / 广度 80.55 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- UL🔥🔥🔥 | BSC | 加速中 | 强度 74.02 | 质量 59.56
   - 主题摘要：Multiple tokens named 「ul🔥🔥🔥」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.62 / 确认 30.92 / 脆弱性 14.00
+  - 资金 100.00 / 广度 68.43 / 确认 30.92 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Genny Runner Meme | Solana | 降温中 | 强度 73.31 | 质量 61.79
-  - 主题摘要：According to de gods's post, the author proposes combining various crude terms into a single character image, referred to as the 'genny runner' Meme. This content involves the cre…
-  - 资金 100.00 / 广度 80.16 / 确认 16.56 / 脆弱性 24.00
+- Develify Discusses $TOPLESS | Solana | 降温中 | 强度 73.94 | 质量 62.72
+  - 主题摘要：According to Develify's post, the user identified a cryptocurrency token as $TOPLESS. The post consists of a brief statement referencing this specific token symbol.
+  - 资金 100.00 / 广度 81.78 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- He Yi on Fortune List | BSC | 加速中 | 强度 73.25 | 质量 72.59
+- He Yi on Fortune List | BSC | 加速中 | 强度 73.14 | 质量 72.77
   - 主题摘要：Binance co-founder He Yi makes history as the first crypto-native executive recognized in Fortune Magazine’s Most Powerful Women in Business list, highlighting the mainstream acce…
-  - 资金 100.00 / 广度 90.50 / 确认 30.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.56 / 确认 30.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Calls Heyi Light Source | BSC | 加速中 | 强度 73.24 | 质量 72.81
+- Alleged Genny Runner Meme | Solana | 降温中 | 强度 72.72 | 质量 61.73
+  - 主题摘要：According to de gods's post, the author proposes combining various crude terms into a single character image, referred to as the 'genny runner' Meme. This content involves the cre…
+  - 资金 100.00 / 广度 80.44 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Calls Heyi Light Source | BSC | 加速中 | 强度 72.08 | 质量 71.42
   - 主题摘要：Binance CEO CZ publicly praised co-founder He Yi as a 'light source,' sparking intense community discussion about her leadership and influence. This high-profile endorsement creat…
-  - 资金 100.00 / 广度 94.49 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- He Yi Fortune MPW | BSC | 加速中 | 强度 72.48 | 质量 71.60
-  - 主题摘要：Binance联合创始人何一入选《财富》杂志最具影响力女性榜单，回顾其从3亿到30亿的愿景与坚持。这一官方背书事件展现了币安领导层的成长故事，但缺乏Meme代币所需的争议性或娱乐爆点。
-  - 资金 100.00 / 广度 90.50 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.61 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.01，其中已确认叙事 0 个。
-- UL🔥🔥🔥 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Binance Chat Waiting 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.8，其中已确认叙事 4 个。
+- Trump Comments on IBM Stock 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- SWAM 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:Binance Square RWA Countdown | 质量 85.29 | 可交易性 100.00 | 风险 低
-- Binance New Product June 1 | 质量 81.60 | 可交易性 100.00 | 风险 低
-- Binance Chat Waiting | 质量 77.15 | 可交易性 100.00 | 风险 低
-- GIBBS | 质量 74.26 | 可交易性 100.00 | 风险 低
-- CZ Calls Heyi Light Source | 质量 72.81 | 可交易性 100.00 | 风险 低
-- He Yi on Fortune List | 质量 72.59 | 可交易性 100.00 | 风险 低
-- Xiao Gui: Solana FARTCOIN and BSC Stock Coin | 质量 71.85 | 可交易性 78.71 | 风险 低
-- Alleged Dogeus Maximus Token | 质量 71.61 | 可交易性 98.98 | 风险 低
-- He Yi Fortune MPW | 质量 71.60 | 可交易性 100.00 | 风险 低
-- Alleged $Skinny Meme Coin | 质量 68.44 | 可交易性 99.00 | 风险 低
+- Uncertain:Binance Square RWA Countdown | 质量 85.38 | 可交易性 100.00 | 风险 低
+- Binance New Product June 1 | 质量 81.78 | 可交易性 100.00 | 风险 低
+- He Yi on Fortune List | 质量 72.77 | 可交易性 100.00 | 风险 低
+- Xiao Gui: Solana FARTCOIN and BSC Stock Coin | 质量 71.91 | 可交易性 78.87 | 风险 低
+- Alleged Dogeus Maximus Token | 质量 71.59 | 可交易性 99.70 | 风险 低
+- CZ Calls Heyi Light Source | 质量 71.42 | 可交易性 100.00 | 风险 低
+- SWAM | 质量 70.82 | 可交易性 100.00 | 风险 低
+- Binance Chat Waiting | 质量 70.72 | 可交易性 74.14 | 风险 高
+- Trump Comments on IBM Stock | 质量 67.46 | 可交易性 72.18 | 风险 低
+- Golden Dome | 质量 63.67 | 可交易性 87.15 | 风险 低
 
 ## 伪叙事风险
 
+- Trump Comments on IBM Stock | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Uncertain:Binance Square RWA Countdown（BSC，分数 90.45）
+1. 当前最强叙事：Uncertain:Binance Square RWA Countdown（BSC，分数 91.55）
 2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：GIBBS 当前为“新出现”
+3. 记忆层变化：SWAM 当前为“新出现”
 4. 最新官方催化：MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers
 #Binance #NarrativeOS #OpenClaw
