@@ -1,102 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-04T17:25:54.887423+00:00
+- 生成时间：2026-06-04T19:34:41.411518+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged $BEAR Token Launch，所在链为 Solana，叙事强度 78.65。
-- 当前平均叙事强度为 76.09，其中已确认叙事 0 个。
+- 当前最强叙事是 BONK!!! Comments on Corgi Baby，所在链为 Solana，叙事强度 86.95。
+- 当前平均叙事强度为 78.06，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged $BEAR Token Launch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 USDC Bonding Pairs Analysis，伪叙事风险 47.79。
-- 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined ZESTUSDT and BTWUSDT Perpetual Contracts (2026-06-04)。
+- 记忆层显示 BONK!!! Comments on Corgi Baby 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged $BEAR Token Launch，伪叙事风险 47.23。
+- 最新官方催化来自 币安最新公告：Binance Futures Will Convert QNTXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-04)。
 
 ## 叙事雷达
 
-- Alleged $BEAR Token Launch | Solana | 点火期 | 强度 78.65 | 质量 74.00
-  - 主题摘要：According to tron 👾's post, the author claims to have launched an alleged $BEAR token on the Solana network, citing current extreme market fear as a favorable narrative. The autho…
-  - 资金 100.00 / 广度 82.57 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- BenzO Discusses Bearcoin | Solana | 加速中 | 强度 78.57 | 质量 74.20
+- BONK!!! Comments on Corgi Baby | Solana | 降温中 | 强度 86.95 | 质量 79.81
+  - 主题摘要：According to BONK!!!'s post, the account replied to a tweet featuring a Corgi named Baby celebrating International Corgi Day. BONK!!! commented that the dog sees no flaws and is c…
+  - 资金 100.00 / 广度 93.89 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- alon mentions FAT ALEX | Solana | 降温中 | 强度 79.31 | 质量 67.08
+  - 主题摘要：According to alon's post, the author allegedly launched a token named FAT ALEX, referencing the phrase "fat alex" in a reply to TradingTerminal. This information is unverified. Pl…
+  - 资金 100.00 / 广度 82.47 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged $BEAR Token Launch | Solana | 点火期 | 强度 78.75 | 质量 74.09
   - 主题摘要：Multiple tokens named 「BEAR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.63 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $REAR Meme Token Launch | Solana | 点火期 | 强度 78.43 | 质量 73.88
-  - 主题摘要：According to Identifeyed Runner's post, the user allegedly launched a meme token named $REAR (Bear in the Rear), described as being backed by no utility or roadmap. This informati…
-  - 资金 100.00 / 广度 82.08 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.86 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged DARE Token Bounty | Solana | 加速中 | 强度 76.40 | 质量 63.42
-  - 主题摘要：According to Based's post, he announced plans to go live with a face cam to promote a new bounty technology and complete community dares, referencing a $DARE token. This informati…
-  - 资金 100.00 / 广度 79.94 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pi | BSC | 加速中 | 强度 76.29 | 质量 67.09
-  - 主题摘要：Pi token draws inspiration from the mathematical constant π, symbolizing precision and mathematical elegance. It aims to revolutionize decentralized finance through innovative DeF…
-  - 资金 100.00 / 广度 75.76 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He Compares Crypto to Early Internet | BSC | 加速中 | 强度 75.86 | 质量 72.89
-  - 主题摘要：Yi He compares the current cryptocurrency market to the early internet era, noting that skeptics previously dismissed the internet as a scam or bubble because its development path…
-  - 资金 100.00 / 广度 80.19 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged Launch of Freedom of Stock | BSC | 加速中 | 强度 75.43 | 质量 70.09
+- Alleged $REAR Meme Token Launch | Solana | 点火期 | 强度 78.30 | 质量 73.82
+  - 主题摘要：According to Identifeyed Runner's post, the author allegedly launched a new memecoin named $REAR (Bear in the Rear). The post describes the token as being backed by no utility or…
+  - 资金 100.00 / 广度 81.87 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- BenzO Discusses Bearcoin | Solana | 点火期 | 强度 78.11 | 质量 73.53
+  - 主题摘要：Multiple tokens named 「BEAR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.04 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Alleged Launch of Freedom of Stock | BSC | 加速中 | 强度 76.24 | 质量 69.60
   - 主题摘要：According to 角度🔶 BNB's post, the author claims that Binance has listed 'Freedom of Stock' (FOS), suggesting that trading US stocks can lead to financial freedom. This information…
-  - 资金 100.00 / 广度 74.56 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.65 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- USDC Bonding Pairs Analysis | Solana | 点火期 | 强度 75.34 | 质量 67.62
-  - 主题摘要：According to json's post, USDC pairs are bonding at $58k and starting at $4k. The author recommends this approach, suggesting that deployers will adapt their habits if traders lea…
-  - 资金 100.00 / 广度 83.08 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- stk20 Posts STK20 Token Link | BSC | 加速中 | 强度 74.56 | 质量 61.54
-  - 主题摘要：According to stk20's post, the user shared a link to an article regarding the STK20 token. The post references the token's characteristics as a BSC-20 stock-type asset. The conten…
-  - 资金 100.00 / 广度 77.17 / 确认 24.48 / 脆弱性 14.00
+- Pi | BSC | 加速中 | 强度 75.52 | 质量 67.22
+  - 主题摘要：Pi token draws inspiration from the mathematical constant π, symbolizing precision and mathematical elegance. It aims to revolutionize decentralized finance through innovative DeF…
+  - 资金 100.00 / 广度 76.02 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CrazyBaby | BSC | 加速中 | 强度 74.46 | 质量 71.24
-  - 主题摘要：Multiple tokens named 「CrazyBaby」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.15 / 确认 30.96 / 脆弱性 24.00
+- Alleged DARE Token Bounty | Solana | 加速中 | 强度 74.79 | 质量 69.02
+  - 主题摘要：According to Based's post, he announced plans to go live with a face cam to promote a new bounty technology and complete community dares, referencing a $DARE token. This informati…
+  - 资金 100.00 / 广度 82.03 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hughman Calls for SPCX Meme Runner | Solana | 降温中 | 强度 74.36 | 质量 60.77
-  - 主题摘要：According to Hughman's post, the SPCX token has reached a market cap of 5 million. Hughman states that a meme runner is needed for SPCX, indicating a call for community-driven mem…
-  - 资金 100.00 / 广度 65.98 / 确认 9.36 / 脆弱性 14.00
+- Yi He Compares Crypto to Early Internet | BSC | 加速中 | 强度 74.68 | 质量 71.75
+  - 主题摘要：Yi He compares the current cryptocurrency market to the early internet era, noting that skeptics previously dismissed the internet as a scam or bubble because its development path…
+  - 资金 100.00 / 广度 80.24 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- HelloKittyRPGKickFlip360 | Solana | 降温中 | 强度 74.63 | 质量 63.63
+  - 主题摘要：RPGKITTY is a meme token inspired by Hello Kitty, featuring the iconic character in a rebellious, action-packed pose with a rocket launcher. Created by hellokitty, it blends pop c…
+  - 资金 100.00 / 广度 68.23 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Bear Meme Viral on TikTok | Solana | 点火期 | 强度 73.53 | 质量 65.87
+- The Bear Meme Viral on TikTok | Solana | 点火期 | 强度 73.62 | 质量 66.00
   - 主题摘要：Multiple tokens named 「BEAR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.52 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 80.94 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- spAceXaI | Solana | 降温中 | 强度 73.42 | 质量 59.15
-  - 主题摘要：Multiple tokens named 「SPCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.66 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Yi He Responds to BNB Meme | BSC | 加速中 | 强度 70.33 | 质量 61.39
+- CrazyBaby | BSC | 加速中 | 强度 71.94 | 质量 67.43
+  - 主题摘要：Multiple tokens named 「CrazyBaby」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.91 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Yi He Responds to BNB Meme | BSC | 加速中 | 强度 71.14 | 质量 60.89
   - 主题摘要：According to Yi He's reply, she praised Jason Chen's suggestion for a BNB-themed AI video campaign, commending his insight and aligning it with Binance's culture. She wished him s…
-  - 资金 100.00 / 广度 74.63 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.71 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged US Stock Life Token | BSC | 加速中 | 强度 67.94 | 质量 55.53
+  - 主题摘要：According to 每天一个好角度's post, the user mentions that FLAP can be used to buy tokens such as 'US Stock Life'. The post expresses optimism about Binance's performance and suggests th…
+  - 资金 100.00 / 广度 70.91 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.09，其中已确认叙事 0 个。
-- Alleged $BEAR Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Hughman Calls for SPCX Meme Runner 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.06，其中已确认叙事 0 个。
+- Uncertain:Alleged US Stock Life Token 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- BONK!!! Comments on Corgi Baby 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- BenzO Discusses Bearcoin | 质量 74.20 | 可交易性 91.93 | 风险 低
-- Alleged $BEAR Token Launch | 质量 74.00 | 可交易性 91.95 | 风险 低
-- Alleged $REAR Meme Token Launch | 质量 73.88 | 可交易性 92.04 | 风险 低
-- Yi He Compares Crypto to Early Internet | 质量 72.89 | 可交易性 85.36 | 风险 低
-- CrazyBaby | 质量 71.24 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Launch of Freedom of Stock | 质量 70.09 | 可交易性 97.68 | 风险 低
-- USDC Bonding Pairs Analysis | 质量 67.62 | 可交易性 75.45 | 风险 低
-- Pi | 质量 67.09 | 可交易性 69.92 | 风险 低
-- The Bear Meme Viral on TikTok | 质量 65.87 | 可交易性 66.91 | 风险 低
-- Alleged DARE Token Bounty | 质量 63.42 | 可交易性 53.50 | 风险 低
+- BONK!!! Comments on Corgi Baby | 质量 79.81 | 可交易性 100.00 | 风险 低
+- Alleged $BEAR Token Launch | 质量 74.09 | 可交易性 91.95 | 风险 低
+- Alleged $REAR Meme Token Launch | 质量 73.82 | 可交易性 92.04 | 风险 低
+- BenzO Discusses Bearcoin | 质量 73.53 | 可交易性 91.93 | 风险 低
+- Yi He Compares Crypto to Early Internet | 质量 71.75 | 可交易性 84.13 | 风险 低
+- Uncertain:Alleged Launch of Freedom of Stock | 质量 69.60 | 可交易性 97.63 | 风险 低
+- Alleged DARE Token Bounty | 质量 69.02 | 可交易性 70.10 | 风险 低
+- CrazyBaby | 质量 67.43 | 可交易性 100.00 | 风险 低
+- Pi | 质量 67.22 | 可交易性 70.09 | 风险 低
+- alon mentions FAT ALEX | 质量 67.08 | 可交易性 71.64 | 风险 低
 
 ## 伪叙事风险
 
-- USDC Bonding Pairs Analysis | 风险 47.79 | 原因：流动性偏薄
 - Alleged $BEAR Token Launch | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 - Alleged $REAR Meme Token Launch | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- BenzO Discusses Bearcoin | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 - The Bear Meme Viral on TikTok | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -114,6 +114,8 @@
 
 ## 官方催化
 
+- [Binance Futures Will Convert QNTXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-04)](https://www.binance.com/zh-CN/support/announcement/detail/2d70d8d34f474c6692a110388c32eff8)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region Fellow Binancians, Binance Futures will convert USDⓈ-Margined QNTXUSDT Pre-IPO Perp to standard TradF…
 - [Binance Futures Will Launch USDⓈ-Margined ZESTUSDT and BTWUSDT Perpetual Contracts (2026-06-04)](https://www.binance.com/zh-CN/support/announcement/detail/61e41ce0e4b74dc7a794cc6bf9c57d38)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
 - [Binance Execution Services Launches Upgraded OTC Dashboard & Limited-Time Campaigns](https://www.binance.com/zh-CN/support/announcement/detail/c551fe705be942888cb7b27493482dd8)
@@ -126,8 +128,6 @@
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp;&nbsp;&nbsp; With Binance’s official launch of US stocks &amp; ETFs trading , Bin…
 - [Binance Updates Fiat Liquidity Provider Program (2026-06-04)](https://www.binance.com/zh-CN/support/announcement/detail/c44afeb363734e6c9c733c4b798fe9f8)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update its Fiat Liquidity Provider Program at 2026-06-04 08:00 (UTC) . Key Upda…
-- [Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-03)](https://www.binance.com/zh-CN/support/announcement/detail/74b2a407f07d43138466cd2aa0e5f5d6)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn presents to you new offers that are new…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-03)](https://www.binance.com/zh-CN/support/announcement/detail/d77e2d77ea21405d9ef2cd7c6974ea5f)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
 - [Binance Adds USDT/AED Spot Trading Pair](https://www.binance.com/zh-CN/support/announcement/detail/66d54f75b3a041ff991ddd179ab6ed39)
@@ -136,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged $BEAR Token Launch（Solana，分数 78.65）
+1. 当前最强叙事：BONK!!! Comments on Corgi Baby（Solana，分数 86.95）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Alleged $BEAR Token Launch 当前为“新出现”
-4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined ZESTUSDT and BTWUSDT Perpetual Contracts (2026-06-04)
+3. 记忆层变化：BONK!!! Comments on Corgi Baby 当前为“新出现”
+4. 最新官方催化：Binance Futures Will Convert QNTXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-04)
 #Binance #NarrativeOS #OpenClaw
