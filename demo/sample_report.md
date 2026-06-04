@@ -1,111 +1,113 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-04T14:23:26.371789+00:00
+- 生成时间：2026-06-04T17:25:54.887423+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Alexander Token Issuance，所在链为 Solana，叙事强度 80.27。
-- 当前平均叙事强度为 75.24，其中已确认叙事 0 个。
+- 当前最强叙事是 Alleged $BEAR Token Launch，所在链为 Solana，叙事强度 78.65。
+- 当前平均叙事强度为 76.09，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Alexander Token Issuance 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Pegged United States Dollar，伪叙事风险 52.99。
+- 记忆层显示 Alleged $BEAR Token Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 USDC Bonding Pairs Analysis，伪叙事风险 47.79。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined ZESTUSDT and BTWUSDT Perpetual Contracts (2026-06-04)。
 
 ## 叙事雷达
 
-- Alleged Alexander Token Issuance | Solana | 降温中 | 强度 80.27 | 质量 72.35
-  - 主题摘要：According to petal's post, the individual claims that Alexander Browder, a British schoolboy sanctioned by Russia for exposing crypto scams, is being called 'The Crypto Savior.' T…
-  - 资金 100.00 / 广度 80.24 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USDC Bonding Pairs Analysis | Solana | 降温中 | 强度 79.65 | 质量 69.22
-  - 主题摘要：According to json's post, USDC pairs are bonding at $58k and starting at $4k. The author recommends this approach, suggesting that deployers will adapt their habits if traders lea…
-  - 资金 100.00 / 广度 82.72 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pi | BSC | 加速中 | 强度 77.31 | 质量 65.74
-  - 主题摘要：Pi token draws inspiration from the mathematical constant π, symbolizing precision and mathematical elegance. It aims to revolutionize decentralized finance through innovative DeF…
-  - 资金 100.00 / 广度 68.64 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged Launch of Freedom of Stock | BSC | 加速中 | 强度 76.00 | 质量 67.87
-  - 主题摘要：According to 角度🔶 BNB's post, the author claims that Binance has listed 'Freedom of Stock' (FOS), suggesting that trading US stocks can lead to financial freedom. This information…
-  - 资金 100.00 / 广度 74.66 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PancakeSwapzh Posts About Abing | BSC | 加速中 | 强度 75.61 | 质量 64.13
-  - 主题摘要：According to PancakeSwap华语's post, the account shared a Meme image related to the 'Abing' (阿饼) IP and community culture. The post utilizes specific hashtags to highlight this cont…
-  - 资金 100.00 / 广度 70.34 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CrazyBaby | BSC | 加速中 | 强度 75.14 | 质量 72.85
-  - 主题摘要：Multiple tokens named 「CrazyBaby」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.60 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged SigeonPex Meme Universe | Solana | 加速中 | 强度 74.62 | 质量 61.01
-  - 主题摘要：According to papirak's post, the $SigeonPex meme is evolving into a complex universe with its own history, characters, and lore, functioning as a content engine rather than a flee…
-  - 资金 100.00 / 广度 59.50 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $HUNTER 2028 Token | Solana | 加速中 | 强度 74.15 | 质量 62.78
-  - 主题摘要：According to Nikolai's post, he claims that $HUNTER 2028 possesses lasting potential compared to other related tokens. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 76.08 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He Compares Crypto to Early Internet | BSC | 加速中 | 强度 73.86 | 质量 72.29
-  - 主题摘要：Yi He compares the current cryptocurrency market to the early internet era, noting that skeptics previously dismissed the internet as a scam or bubble because its development path…
-  - 资金 100.00 / 广度 80.01 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- HelloKittyRPGKickFlip360 | Solana | 降温中 | 强度 73.56 | 质量 63.82
-  - 主题摘要：RPGKITTY is a meme token inspired by Hello Kitty, featuring the iconic character in a rebellious, action-packed pose with a rocket launcher. Created by hellokitty, it blends pop c…
-  - 资金 100.00 / 广度 67.40 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged CHUD Meme Coin Trend | Solana | 加速中 | 强度 73.42 | 质量 71.52
-  - 主题摘要：According to moon's post, the viral TikTok trend 'Im a chud' has inspired the creation of associated tokens, including 'Im A CHUD' and 'Im a fat little chud'. moon claims this cul…
-  - 资金 100.00 / 广度 89.51 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Peg Token Launch | Solana | 降温中 | 强度 73.30 | 质量 58.74
-  - 主题摘要：Multiple tokens named 「peg」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.46 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pegged United States Dollar | Solana | 点火期 | 强度 72.93 | 质量 70.30
-  - 主题摘要：According to Slysol's post, the user shared specific contract addresses associated with the token symbol PUSD, including references to 'pump' platforms. The post lists multiple wa…
-  - 资金 100.00 / 广度 67.48 / 确认 9.36 / 脆弱性 24.00
+- Alleged $BEAR Token Launch | Solana | 点火期 | 强度 78.65 | 质量 74.00
+  - 主题摘要：According to tron 👾's post, the author claims to have launched an alleged $BEAR token on the Solana network, citing current extreme market fear as a favorable narrative. The autho…
+  - 资金 100.00 / 广度 82.57 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Yi He Responds to BNB Meme | BSC | 加速中 | 强度 70.94 | 质量 59.21
+- BenzO Discusses Bearcoin | Solana | 加速中 | 强度 78.57 | 质量 74.20
+  - 主题摘要：Multiple tokens named 「BEAR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.63 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged $REAR Meme Token Launch | Solana | 点火期 | 强度 78.43 | 质量 73.88
+  - 主题摘要：According to Identifeyed Runner's post, the user allegedly launched a meme token named $REAR (Bear in the Rear), described as being backed by no utility or roadmap. This informati…
+  - 资金 100.00 / 广度 82.08 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged DARE Token Bounty | Solana | 加速中 | 强度 76.40 | 质量 63.42
+  - 主题摘要：According to Based's post, he announced plans to go live with a face cam to promote a new bounty technology and complete community dares, referencing a $DARE token. This informati…
+  - 资金 100.00 / 广度 79.94 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Pi | BSC | 加速中 | 强度 76.29 | 质量 67.09
+  - 主题摘要：Pi token draws inspiration from the mathematical constant π, symbolizing precision and mathematical elegance. It aims to revolutionize decentralized finance through innovative DeF…
+  - 资金 100.00 / 广度 75.76 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He Compares Crypto to Early Internet | BSC | 加速中 | 强度 75.86 | 质量 72.89
+  - 主题摘要：Yi He compares the current cryptocurrency market to the early internet era, noting that skeptics previously dismissed the internet as a scam or bubble because its development path…
+  - 资金 100.00 / 广度 80.19 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged Launch of Freedom of Stock | BSC | 加速中 | 强度 75.43 | 质量 70.09
+  - 主题摘要：According to 角度🔶 BNB's post, the author claims that Binance has listed 'Freedom of Stock' (FOS), suggesting that trading US stocks can lead to financial freedom. This information…
+  - 资金 100.00 / 广度 74.56 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- USDC Bonding Pairs Analysis | Solana | 点火期 | 强度 75.34 | 质量 67.62
+  - 主题摘要：According to json's post, USDC pairs are bonding at $58k and starting at $4k. The author recommends this approach, suggesting that deployers will adapt their habits if traders lea…
+  - 资金 100.00 / 广度 83.08 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- stk20 Posts STK20 Token Link | BSC | 加速中 | 强度 74.56 | 质量 61.54
+  - 主题摘要：According to stk20's post, the user shared a link to an article regarding the STK20 token. The post references the token's characteristics as a BSC-20 stock-type asset. The conten…
+  - 资金 100.00 / 广度 77.17 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CrazyBaby | BSC | 加速中 | 强度 74.46 | 质量 71.24
+  - 主题摘要：Multiple tokens named 「CrazyBaby」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.15 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Hughman Calls for SPCX Meme Runner | Solana | 降温中 | 强度 74.36 | 质量 60.77
+  - 主题摘要：According to Hughman's post, the SPCX token has reached a market cap of 5 million. Hughman states that a meme runner is needed for SPCX, indicating a call for community-driven mem…
+  - 资金 100.00 / 广度 65.98 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Bear Meme Viral on TikTok | Solana | 点火期 | 强度 73.53 | 质量 65.87
+  - 主题摘要：Multiple tokens named 「BEAR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.52 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- spAceXaI | Solana | 降温中 | 强度 73.42 | 质量 59.15
+  - 主题摘要：Multiple tokens named 「SPCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.66 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Yi He Responds to BNB Meme | BSC | 加速中 | 强度 70.33 | 质量 61.39
   - 主题摘要：According to Yi He's reply, she praised Jason Chen's suggestion for a BNB-themed AI video campaign, commending his insight and aligning it with Binance's culture. She wished him s…
-  - 资金 100.00 / 广度 74.75 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.63 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.24，其中已确认叙事 0 个。
-- Pi 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged Alexander Token Issuance 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.09，其中已确认叙事 0 个。
+- Alleged $BEAR Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Hughman Calls for SPCX Meme Runner 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CrazyBaby | 质量 72.85 | 可交易性 100.00 | 风险 低
-- Alleged Alexander Token Issuance | 质量 72.35 | 可交易性 88.79 | 风险 低
-- Yi He Compares Crypto to Early Internet | 质量 72.29 | 可交易性 83.53 | 风险 低
-- Alleged CHUD Meme Coin Trend | 质量 71.52 | 可交易性 100.00 | 风险 低
-- Pegged United States Dollar | 质量 70.30 | 可交易性 100.00 | 风险 低
-- USDC Bonding Pairs Analysis | 质量 69.22 | 可交易性 81.15 | 风险 低
-- Uncertain:Alleged Launch of Freedom of Stock | 质量 67.87 | 可交易性 98.16 | 风险 低
-- Pi | 质量 65.74 | 可交易性 72.55 | 风险 低
-- PancakeSwapzh Posts About Abing | 质量 64.13 | 可交易性 68.63 | 风险 低
-- HelloKittyRPGKickFlip360 | 质量 63.82 | 可交易性 90.39 | 风险 低
+- BenzO Discusses Bearcoin | 质量 74.20 | 可交易性 91.93 | 风险 低
+- Alleged $BEAR Token Launch | 质量 74.00 | 可交易性 91.95 | 风险 低
+- Alleged $REAR Meme Token Launch | 质量 73.88 | 可交易性 92.04 | 风险 低
+- Yi He Compares Crypto to Early Internet | 质量 72.89 | 可交易性 85.36 | 风险 低
+- CrazyBaby | 质量 71.24 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Launch of Freedom of Stock | 质量 70.09 | 可交易性 97.68 | 风险 低
+- USDC Bonding Pairs Analysis | 质量 67.62 | 可交易性 75.45 | 风险 低
+- Pi | 质量 67.09 | 可交易性 69.92 | 风险 低
+- The Bear Meme Viral on TikTok | 质量 65.87 | 可交易性 66.91 | 风险 低
+- Alleged DARE Token Bounty | 质量 63.42 | 可交易性 53.50 | 风险 低
 
 ## 伪叙事风险
 
-- Pegged United States Dollar | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- HelloKittyRPGKickFlip360 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- USDC Bonding Pairs Analysis | 风险 47.79 | 原因：流动性偏薄
+- Alleged $BEAR Token Launch | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged $REAR Meme Token Launch | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- The Bear Meme Viral on TikTok | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - 苹果人生 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - hey stock | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - eMeme | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- SV151 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HeavyPulp | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - three | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DICKBUTT | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SV151 | Solana | 看多 | 新鲜度 85.58 | 暂无直接叙事映射
 - RICH | Solana | 看多 | 新鲜度 83.46 | 暂无直接叙事映射
 - SPCX | BSC | 看多 | 新鲜度 77.86 | 暂无直接叙事映射
 - GACHA | Solana | 看多 | 新鲜度 73.63 | 暂无直接叙事映射
@@ -134,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Alexander Token Issuance（Solana，分数 80.27）
+1. 当前最强叙事：Alleged $BEAR Token Launch（Solana，分数 78.65）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Alleged Alexander Token Issuance 当前为“新出现”
+3. 记忆层变化：Alleged $BEAR Token Launch 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined ZESTUSDT and BTWUSDT Perpetual Contracts (2026-06-04)
 #Binance #NarrativeOS #OpenClaw
