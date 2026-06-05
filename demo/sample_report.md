@@ -1,101 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-05T21:50:36.738688+00:00
+- 生成时间：2026-06-05T22:52:44.707660+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 GoPump SOL Bounty Campaign，所在链为 Solana，叙事强度 81.38。
-- 当前平均叙事强度为 77.44，其中已确认叙事 0 个。
+- 当前最强叙事是 USWR，所在链为 Solana，叙事强度 81.48。
+- 当前平均叙事强度为 77.57，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 Boltricks Development Discusses Pump.fun 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Teng's AI Flex，伪叙事风险 41.57。
+- 记忆层显示 Alleged IMPOSTER Meme Coin 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Pump.fun Launches GO Bounty Platform，伪叙事风险 47.23。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-06)。
 
 ## 叙事雷达
 
-- GoPump SOL Bounty Campaign | Solana | 加速中 | 强度 81.38 | 质量 76.15
-  - 主题摘要：According to GoPump's post, the platform offers real SOL bounties at physical locations. Users must be the first to reach the spot and prove their presence to claim the reward.
-  - 资金 100.00 / 广度 83.23 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- USWR | Solana | 降温中 | 强度 80.33 | 质量 73.51
+- USWR | Solana | 降温中 | 强度 81.48 | 质量 73.51
   - 主题摘要：USWR token draws inspiration from the United States Water Reserve, featuring a logo resembling the U.S. Treasury seal with a water droplet symbol. The token aims to support water…
-  - 资金 100.00 / 广度 75.34 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.36 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pump.fun Launches GO Bounty Platform | Solana | 加速中 | 强度 80.21 | 质量 74.65
+- Pump.fun Launches GO Bounty Platform | Solana | 点火期 | 强度 80.33 | 质量 77.24
   - 主题摘要：Multiple tokens named 「Solona」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.89 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Gopuff Launches AI Shopping Assistant | Solana | 加速中 | 强度 79.93 | 质量 74.17
-  - 主题摘要：According to Gopuff's post, the company has launched 'Go,' an AI shopping assistant co-developed with SpaceXAI. This tool allows users to place orders by voice command, streamlini…
-  - 资金 100.00 / 广度 81.44 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MSN | BSC | 加速中 | 强度 77.81 | 质量 74.93
-  - 主题摘要：MSN token draws inspiration from Microsoft's MSN brand, aiming to revitalize the legacy of the original MSN platform. It focuses on community-driven development and decentralized…
-  - 资金 100.00 / 广度 69.18 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Boltricks Development Discusses Pump.fun | Solana | 加速中 | 强度 76.06 | 质量 62.90
-  - 主题摘要：According to Boltricks Development's post, the author observes that Pump.fun has frequently used APU images as an unofficial mascot. Boltricks Development states an intention to b…
-  - 资金 100.00 / 广度 78.36 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $tupid Meme Coin Launch | Solana | 加速中 | 强度 75.01 | 质量 63.88
-  - 主题摘要：According to kennythewiz's post, the individual references a Netflix Black Mirror scene predicting pump.fun bounties and proposes launching the $tupid token to conduct live bounti…
-  - 资金 100.00 / 广度 80.27 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Loki | Solana | 加速中 | 强度 73.53 | 质量 67.73
-  - 主题摘要：LOKI is a meme coin inspired by Norse mythology, featuring a mischievous dog with horns and green eyes. Created by pumploki, it embraces the playful spirit of Loki, the trickster…
-  - 资金 100.00 / 广度 67.28 / 确认 20.16 / 脆弱性 35.24
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hughman Calls for SPCX Meme Runner | Solana | 降温中 | 强度 73.11 | 质量 63.61
-  - 主题摘要：According to Hughman's post, the SPCX token has reached a market cap of 5 million. Hughman states that a meme runner is needed for SPCX, indicating a call for community-driven mem…
-  - 资金 100.00 / 广度 73.45 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.32 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- GoPump SOL Bounty Campaign | Solana | 点火期 | 强度 79.52 | 质量 75.37
+  - 主题摘要：According to GoPump's post, the platform offers real SOL bounties at physical locations. Users must be the first to reach the spot and prove their presence to claim the reward.
+  - 资金 100.00 / 广度 83.44 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged IMPOSTER Meme Coin | Solana | 降温中 | 强度 78.47 | 质量 69.06
+  - 主题摘要：According to stoic's post, the author claims that the 'IMPOSTER' token is the ideal meme to capitalize on the recent release of the 'Among Us' animated series. Stoic asserts that…
+  - 资金 100.00 / 广度 67.04 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Launch of Freedom of Stock | BSC | 加速中 | 强度 72.43 | 质量 65.37
-  - 主题摘要：According to 角度🔶 BNB's post, the author claims that Binance has listed 'Freedom of Stock' (FOS), suggesting that trading US stocks can lead to financial freedom. This information…
-  - 资金 100.00 / 广度 72.85 / 确认 24.48 / 脆弱性 14.00
+- Gopuff Launches AI Shopping Assistant | Solana | 点火期 | 强度 78.00 | 质量 73.42
+  - 主题摘要：According to Gopuff's post, the company has launched 'Go,' an AI shopping assistant co-developed with SpaceXAI. This tool allows users to place orders by voice command, streamlini…
+  - 资金 100.00 / 广度 81.75 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- MSN | BSC | 加速中 | 强度 77.90 | 质量 74.95
+  - 主题摘要：MSN token draws inspiration from Microsoft's MSN brand, aiming to revitalize the legacy of the original MSN platform. It focuses on community-driven development and decentralized…
+  - 资金 100.00 / 广度 69.25 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- La Roja，Spain national team | BSC | 加速中 | 强度 71.24 | 质量 65.90
+- Sheep Posts Puff Mascot Meme Image | Solana | 点火期 | 强度 74.95 | 质量 68.27
+  - 主题摘要：Multiple tokens named 「GO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.17 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- xAI Announces Gopuff AI Assistant | Solana | 点火期 | 强度 74.06 | 质量 66.72
+  - 主题摘要：According to xAI's post, the organization announced a personal shopping assistant named 'Go' developed in collaboration with Gopuff and SpaceXAI. The assistant utilizes Grok text,…
+  - 资金 100.00 / 广度 78.47 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Boltricks Development Discusses Pump.fun | Solana | 加速中 | 强度 73.74 | 质量 62.76
+  - 主题摘要：According to Boltricks Development's post, the author observes that Pump.fun has frequently used APU images as an unofficial mascot. Boltricks Development states an intention to b…
+  - 资金 100.00 / 广度 78.45 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged Launch of Freedom of Stock | BSC | 加速中 | 强度 72.55 | 质量 67.82
+  - 主题摘要：According to 角度🔶 BNB's post, the author claims that Binance has listed 'Freedom of Stock' (FOS), suggesting that trading US stocks can lead to financial freedom. This information…
+  - 资金 100.00 / 广度 72.85 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Teng's AI Flex | BSC | 降温中 | 强度 71.45 | 质量 58.09
+  - 主题摘要：Richard Teng highlights that AI models consistently rank Binance as the top crypto exchange, showcasing its market dominance in the age of artificial intelligence. This moment cap…
+  - 资金 100.00 / 广度 78.87 / 确认 16.56 / 脆弱性 26.18
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- La Roja，Spain national team | BSC | 加速中 | 强度 71.22 | 质量 65.88
   - 主题摘要：Spain token draws inspiration from the Spanish national football team, symbolizing national pride and unity. La Roja represents the team's journey from humble beginnings to global…
   - 资金 100.00 / 广度 80.30 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ButterflyStock Project | BSC | 加速中 | 强度 70.65 | 质量 58.15
+- ButterflyStock Project | BSC | 加速中 | 强度 68.89 | 质量 58.06
   - 主题摘要：According to ButterflyStock's post, the account promotes a token dividend evolution system for US stocks, featuring mechanisms such as holding dividends, burning, and locking. The…
-  - 资金 100.00 / 广度 74.57 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.61 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Teng's AI Flex | BSC | 降温中 | 强度 68.45 | 质量 55.24
-  - 主题摘要：Richard Teng highlights that AI models consistently rank Binance as the top crypto exchange, showcasing its market dominance in the age of artificial intelligence. This moment cap…
-  - 资金 100.00 / 广度 78.87 / 确认 16.56 / 脆弱性 36.18
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance Argentina Discusses Meme Coins | BSC | 加速中 | 强度 68.24 | 质量 57.21
-  - 主题摘要：According to Binance Argentina's post, the account discusses the evolution of meme coins, noting they originated as jokes but now move millions. The post highlights DOGE, SHIB, an…
-  - 资金 100.00 / 广度 73.24 / 确认 24.48 / 脆弱性 24.00
+- Uncertain:Yi He Responds to BNB Meme | BSC | 加速中 | 强度 67.44 | 质量 59.10
+  - 主题摘要：According to Yi He's reply, she praised Jason Chen's suggestion for a BNB-themed AI video campaign, commending his insight and aligning it with Binance's culture. She wished him s…
+  - 资金 100.00 / 广度 72.86 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.44，其中已确认叙事 0 个。
-- Boltricks Development Discusses Pump.fun 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.57，其中已确认叙事 0 个。
+- Sheep Posts Puff Mascot Meme Image 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - USWR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- GoPump SOL Bounty Campaign | 质量 76.15 | 可交易性 95.83 | 风险 低
-- MSN | 质量 74.93 | 可交易性 100.00 | 风险 低
-- Pump.fun Launches GO Bounty Platform | 质量 74.65 | 可交易性 90.16 | 风险 低
-- Gopuff Launches AI Shopping Assistant | 质量 74.17 | 可交易性 91.02 | 风险 低
-- USWR | 质量 73.51 | 可交易性 97.55 | 风险 低
-- Loki | 质量 67.73 | 可交易性 100.00 | 风险 低
-- La Roja，Spain national team | 质量 65.90 | 可交易性 58.77 | 风险 低
-- Uncertain:Alleged Launch of Freedom of Stock | 质量 65.37 | 可交易性 97.17 | 风险 低
-- Alleged $tupid Meme Coin Launch | 质量 63.88 | 可交易性 54.72 | 风险 低
-- Hughman Calls for SPCX Meme Runner | 质量 63.61 | 可交易性 83.06 | 风险 低
+- Pump.fun Launches GO Bounty Platform | 质量 77.24 | 可交易性 100.00 | 风险 低
+- GoPump SOL Bounty Campaign | 质量 75.37 | 可交易性 95.66 | 风险 低
+- MSN | 质量 74.95 | 可交易性 100.00 | 风险 低
+- USWR | 质量 73.51 | 可交易性 97.53 | 风险 低
+- Gopuff Launches AI Shopping Assistant | 质量 73.42 | 可交易性 90.85 | 风险 低
+- Alleged IMPOSTER Meme Coin | 质量 69.06 | 可交易性 100.00 | 风险 低
+- Sheep Posts Puff Mascot Meme Image | 质量 68.27 | 可交易性 76.26 | 风险 低
+- Uncertain:Alleged Launch of Freedom of Stock | 质量 67.82 | 可交易性 96.93 | 风险 低
+- xAI Announces Gopuff AI Assistant | 质量 66.72 | 可交易性 71.80 | 风险 低
+- La Roja，Spain national team | 质量 65.88 | 可交易性 58.72 | 风险 低
 
 ## 伪叙事风险
 
-- Teng's AI Flex | 风险 41.57 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
-- Hughman Calls for SPCX Meme Runner | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Pump.fun Launches GO Bounty Platform | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- GoPump SOL Bounty Campaign | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Gopuff Launches AI Shopping Assistant | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Sheep Posts Puff Mascot Meme Image | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- xAI Announces Gopuff AI Assistant | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -134,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：GoPump SOL Bounty Campaign（Solana，分数 81.38）
+1. 当前最强叙事：USWR（Solana，分数 81.48）
 2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：Boltricks Development Discusses Pump.fun 当前为“新出现”
+3. 记忆层变化：Alleged IMPOSTER Meme Coin 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-06)
 #Binance #NarrativeOS #OpenClaw
