@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-06T14:28:20.414464+00:00
+- 生成时间：2026-06-06T15:48:48.737201+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Hunterius Bidenus，所在链为 Solana，叙事强度 86.87。
-- 当前平均叙事强度为 83.83，其中已确认叙事 0 个。
+- 当前最强叙事是 Hunterius Bidenus，所在链为 Solana，叙事强度 86.81。
+- 当前平均叙事强度为 82.97，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Luminaries Supports Solana 当前处于“新出现”状态。
+- 记忆层显示 Hunter Biden 2028 Meme 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-06)。
 
 ## 叙事雷达
 
-- Hunterius Bidenus | Solana | 降温中 | 强度 86.87 | 质量 77.50
+- Hunterius Bidenus | Solana | 降温中 | 强度 86.81 | 质量 77.41
   - 主题摘要：Multiple tokens named 「Hunterius」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.20 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.89 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged USDC Runner $1 | Solana | 加速中 | 强度 85.52 | 质量 79.83
-  - 主题摘要：Multiple tokens named 「1」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.30 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance 10M USDC Stock Reward | BSC | 已确认 | 强度 85.36 | 质量 77.83
+- Binance 10M USDC Stock Reward | BSC | 已确认 | 强度 86.77 | 质量 78.72
   - 主题摘要：Binance offers up to 10M USDC rewards for completing first U.S. Stock or ETF transactions, marking a significant bridge between crypto and traditional finance.
-  - 资金 100.00 / 广度 82.77 / 确认 31.72 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.01 / 确认 31.72 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Pump.fun Launches GO Bounty Platform | Solana | 加速中 | 强度 85.24 | 质量 79.52
-  - 主题摘要：Multiple tokens named 「Solona」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.11 / 确认 24.48 / 脆弱性 14.00
+- Alleged USDC Runner $1 | Solana | 加速中 | 强度 85.53 | 质量 79.83
+  - 主题摘要：Multiple tokens named 「1」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 91.32 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Luminaries Supports Solana | Solana | 降温中 | 强度 85.08 | 质量 79.10
+- Luminaries Supports Solana | Solana | 降温中 | 强度 85.08 | 质量 79.11
   - 主题摘要：According to Luminaries's post, the author explicitly states a preference for the Solana blockchain, declaring they will choose Solana every time. This statement reflects a person…
-  - 资金 100.00 / 广度 91.53 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.55 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged 1sol Token | Solana | 降温中 | 强度 84.88 | 质量 78.97
+- Alleged 1sol Token | Solana | 降温中 | 强度 84.89 | 质量 78.97
   - 主题摘要：According to Sol-Incinerator's post, the user expressed support for Solana by stating "1 Solana and a dream" in a reply to a tweet asserting "Solana is my currency." This comment…
-  - 资金 100.00 / 广度 91.08 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.10 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Gopuff Launches AI Shopping Assistant | Solana | 加速中 | 强度 82.74 | 质量 75.42
-  - 主题摘要：According to Gopuff's post, the company has launched 'Go,' an AI shopping assistant co-developed with SpaceXAI. This tool allows users to place orders by voice command, streamlini…
-  - 资金 100.00 / 广度 81.73 / 确认 24.48 / 脆弱性 14.00
+- Pump.fun Launches GO Bounty Platform | Solana | 加速中 | 强度 81.30 | 质量 79.22
+  - 主题摘要：According to Pump.fun's post, the platform introduces 'pump fun GO,' a new feature allowing users to create and complete bounties for any task by leveraging global human and finan…
+  - 资金 100.00 / 广度 86.41 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $tupid Meme Coin Launch | Solana | 加速中 | 强度 80.27 | 质量 66.00
-  - 主题摘要：According to kennythewiz's post, the individual references a Netflix Black Mirror scene predicting pump.fun bounties and proposes launching the $tupid token to conduct live bounti…
-  - 资金 100.00 / 广度 84.22 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Sheep Posts Puff Mascot Meme Image | Solana | 加速中 | 强度 80.06 | 质量 70.88
-  - 主题摘要：Multiple tokens named 「GO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.24 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FISTDAO | BSC | 降温中 | 强度 76.09 | 质量 63.42
-  - 主题摘要：FISTDAO is a community-driven token inspired by the FIST (Fighter In Solidarity Together) movement, emphasizing unity and collective action. It aims to empower users through decen…
-  - 资金 100.00 / 广度 44.55 / 确认 9.36 / 脆弱性 0.00
+- Hunter Biden 2028 Meme | Solana | 降温中 | 强度 81.29 | 质量 70.70
+  - 主题摘要：According to Hunter Biden's post, he responded to a suggestion about being a 2028 presidential candidate by stating it would be hilarious. This interaction relates to the 'Hunter…
+  - 资金 100.00 / 广度 68.81 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Launch of Freedom of Stock | BSC | 加速中 | 强度 73.45 | 质量 67.94
-  - 主题摘要：According to 角度🔶 BNB's post, the author claims that Binance has listed 'Freedom of Stock' (FOS), suggesting that trading US stocks can lead to financial freedom. This information…
-  - 资金 100.00 / 广度 72.15 / 确认 24.48 / 脆弱性 24.00
+- Hunter Biden Meme | Solana | 加速中 | 强度 79.61 | 质量 73.99
+  - 主题摘要：According to Hunter Biden's post, he replied to a tweet containing a pun-based Meme image referencing his name and family, stating he loves a good pun. The post highlights his eng…
+  - 资金 100.00 / 广度 85.45 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MSN | BSC | 加速中 | 强度 70.05 | 质量 69.10
-  - 主题摘要：MSN token draws inspiration from Microsoft's MSN brand, aiming to revitalize the legacy of the original MSN platform. It focuses on community-driven development and decentralized…
-  - 资金 100.00 / 广度 70.97 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yi He Responds to BNB Meme | BSC | 加速中 | 强度 68.74 | 质量 59.93
+- USWR | Solana | 降温中 | 强度 79.23 | 质量 72.46
+  - 主题摘要：USWR token draws inspiration from the United States Water Reserve, featuring a logo resembling the U.S. Treasury seal with a water droplet symbol. The token aims to support water…
+  - 资金 100.00 / 广度 74.85 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Yi He Responds to BNB Meme | BSC | 加速中 | 强度 71.21 | 质量 61.27
   - 主题摘要：According to Yi He's reply, she praised Jason Chen's suggestion for a BNB-themed AI video campaign, commending his insight and aligning it with Binance's culture. She wished him s…
-  - 资金 100.00 / 广度 72.12 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.25 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged US Stock Life Token | BSC | 加速中 | 强度 65.56 | 质量 54.57
+- FISTDAO | BSC | 加速中 | 强度 69.45 | 质量 58.85
+  - 主题摘要：FISTDAO is a community-driven token inspired by the FIST (Fighter In Solidarity Together) movement, emphasizing unity and collective action. It aims to empower users through decen…
+  - 资金 100.00 / 广度 54.67 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- MSN | BSC | 加速中 | 强度 68.68 | 质量 65.38
+  - 主题摘要：MSN token draws inspiration from Microsoft's MSN brand, aiming to revitalize the legacy of the original MSN platform. It focuses on community-driven development and decentralized…
+  - 资金 100.00 / 广度 70.60 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged US Stock Life Token | BSC | 加速中 | 强度 68.04 | 质量 55.92
   - 主题摘要：According to 每天一个好角度's post, the user mentions that FLAP can be used to buy tokens such as 'US Stock Life'. The post expresses optimism about Binance's performance and suggests th…
-  - 资金 100.00 / 广度 68.38 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 68.51 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- La Roja，Spain national team | BSC | 加速中 | 强度 63.45 | 质量 56.41
+  - 主题摘要：Spain token draws inspiration from the Spanish national football team, symbolizing national pride and unity. La Roja represents the team's journey from humble beginnings to global…
+  - 资金 100.00 / 广度 74.43 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.83，其中已确认叙事 0 个。
-- Alleged $tupid Meme Coin Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.97，其中已确认叙事 0 个。
+- Hunter Biden Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Hunterius Bidenus 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Alleged USDC Runner $1 | 质量 79.83 | 可交易性 100.00 | 风险 低
-- Pump.fun Launches GO Bounty Platform | 质量 79.52 | 可交易性 100.00 | 风险 低
-- Luminaries Supports Solana | 质量 79.10 | 可交易性 100.00 | 风险 低
+- Pump.fun Launches GO Bounty Platform | 质量 79.22 | 可交易性 99.69 | 风险 低
+- Luminaries Supports Solana | 质量 79.11 | 可交易性 100.00 | 风险 低
 - Alleged 1sol Token | 质量 78.97 | 可交易性 100.00 | 风险 低
-- Binance 10M USDC Stock Reward | 质量 77.83 | 可交易性 93.40 | 风险 低
-- Hunterius Bidenus | 质量 77.50 | 可交易性 100.00 | 风险 低
-- Gopuff Launches AI Shopping Assistant | 质量 75.42 | 可交易性 91.72 | 风险 低
-- Sheep Posts Puff Mascot Meme Image | 质量 70.88 | 可交易性 78.09 | 风险 低
-- MSN | 质量 69.10 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Launch of Freedom of Stock | 质量 67.94 | 可交易性 95.09 | 风险 低
+- Binance 10M USDC Stock Reward | 质量 78.72 | 可交易性 96.12 | 风险 低
+- Hunterius Bidenus | 质量 77.41 | 可交易性 100.00 | 风险 低
+- Hunter Biden Meme | 质量 73.99 | 可交易性 86.41 | 风险 低
+- USWR | 质量 72.46 | 可交易性 97.17 | 风险 低
+- Hunter Biden 2028 Meme | 质量 70.70 | 可交易性 100.00 | 风险 低
+- MSN | 质量 65.38 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -104,8 +104,8 @@
 - DICKBUTT | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RICH | Solana | 看多 | 新鲜度 83.46 | 暂无直接叙事映射
 - SPCX | BSC | 看多 | 新鲜度 77.86 | 暂无直接叙事映射
-- hey stock | BSC | 看多 | 新鲜度 76.06 | 暂无直接叙事映射
 - GACHA | Solana | 看多 | 新鲜度 73.63 | 暂无直接叙事映射
+- bStocks | BSC | 看多 | 新鲜度 70.14 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Hunterius Bidenus（Solana，分数 86.87）
+1. 当前最强叙事：Hunterius Bidenus（Solana，分数 86.81）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Luminaries Supports Solana 当前为“新出现”
+3. 记忆层变化：Hunter Biden 2028 Meme 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-06)
 #Binance #NarrativeOS #OpenClaw
