@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-07T20:56:10.633977+00:00
+- 生成时间：2026-06-07T21:57:02.851592+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United Account Trust Fund，所在链为 Solana，叙事强度 83.02。
-- 当前平均叙事强度为 78.82，其中已确认叙事 0 个。
+- 当前最强叙事是 United Account Trust Fund，所在链为 Solana，叙事强度 82.97。
+- 当前平均叙事强度为 78.68，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 BSB，来自 BSC，共振分数 100.0。
-- 记忆层显示 Pump.fun App Promotion 当前处于“新出现”状态。
+- 记忆层显示 Bountree Coin Alleged Tree Planting Bounty 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-06)。
 
 ## 叙事雷达
 
-- United Account Trust Fund | Solana | 降温中 | 强度 83.02 | 质量 74.01
+- United Account Trust Fund | Solana | 降温中 | 强度 82.97 | 质量 73.98
   - 主题摘要：Multiple tokens named 「UATF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.82 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.74 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged USDC Runner $1 | Solana | 加速中 | 强度 80.01 | 质量 76.42
-  - 主题摘要：According to 000's post, the user identifies the token named "just buy $1 worth of this coin" as a significant USD-related asset, noting it has not previously tracked USDC. The po…
-  - 资金 100.00 / 广度 91.09 / 确认 23.76 / 脆弱性 24.00
+- Bountree Coin Alleged Tree Planting Bounty | Solana | 加速中 | 强度 80.91 | 质量 74.16
+  - 主题摘要：According to Bountree Coin's post, the project allegedly launched a bounty feature on Pump.fun where participants receive 0.16 SOL for planting native saplings. Submitters must pr…
+  - 资金 100.00 / 广度 72.40 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pump.fun App Promotion | Solana | 加速中 | 强度 79.57 | 质量 75.68
+- $tupid Bounty | Solana | 降温中 | 强度 80.66 | 质量 72.60
+  - 主题摘要：Multiple tokens named 「$tupidBounty」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.13 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged ChatGPT Photo Restoration Meme | Solana | 加速中 | 强度 77.34 | 质量 72.23
+  - 主题摘要：According to at's post, a ChatGPT image generation bug is discussed where the model hallucinates images from prompts lacking attachments. This content is associated with the PHOTO…
+  - 资金 100.00 / 广度 82.51 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged USDC Runner $1 | Solana | 加速中 | 强度 77.30 | 质量 74.94
+  - 主题摘要：According to 000's post, the user identifies the token named "just buy $1 worth of this coin" as a significant USD-related asset, noting it has not previously tracked USDC. The po…
+  - 资金 100.00 / 广度 91.08 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance 10M USDC Stock Reward | BSC | 加速中 | 强度 76.87 | 质量 72.97
+  - 主题摘要：Binance offers up to 10M USDC rewards for completing first U.S. Stock or ETF transactions, marking a significant bridge between crypto and traditional finance.
+  - 资金 100.00 / 广度 81.45 / 确认 31.72 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Pump.fun App Promotion | Solana | 加速中 | 强度 76.85 | 质量 74.18
   - 主题摘要：According to Pump.fun's post, the platform promotes its service with the slogan "You're always one trade away," encouraging users to download the application for instant token tra…
   - 资金 100.00 / 广度 91.14 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged 1sol Token | Solana | 加速中 | 强度 79.36 | 质量 75.55
+- Taylor Hornby Shares Solana Address | Solana | 加速中 | 强度 76.74 | 质量 71.78
+  - 主题摘要：According to Taylor Hornby's post, the individual shared a Solana wallet address (D6c34hRcmhkHMXaAhoPXgVw9JYrh84saeSfYnk7ZSjeW) in a reply to other users. This action involves the…
+  - 资金 100.00 / 广度 80.42 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged 1sol Token | Solana | 加速中 | 强度 76.66 | 质量 74.08
   - 主题摘要：According to Sol-Incinerator's post, the user expressed support for Solana by stating "1 Solana and a dream" in a reply to a tweet asserting "Solana is my currency." This comment…
   - 资金 100.00 / 广度 90.86 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Luminaries Supports Solana | Solana | 加速中 | 强度 79.24 | 质量 75.43
-  - 主题摘要：According to Luminaries's post, the author explicitly states a preference for the Solana blockchain, declaring they will choose Solana every time. This statement reflects a person…
-  - 资金 100.00 / 广度 90.62 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Taylor Hornby Shares Solana Address | Solana | 加速中 | 强度 77.58 | 质量 72.60
-  - 主题摘要：According to Taylor Hornby's post, the individual shared a Solana wallet address (D6c34hRcmhkHMXaAhoPXgVw9JYrh84saeSfYnk7ZSjeW) in a reply to other users. This action involves the…
-  - 资金 100.00 / 广度 80.63 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance 10M USDC Stock Reward | BSC | 加速中 | 强度 76.66 | 质量 71.78
-  - 主题摘要：Binance offers up to 10M USDC rewards for completing first U.S. Stock or ETF transactions, marking a significant bridge between crypto and traditional finance.
-  - 资金 100.00 / 广度 81.46 / 确认 31.72 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- seized | Solana | 降温中 | 强度 76.46 | 质量 69.11
-  - 主题摘要：Seized token features a white cat character holding a hard drive, symbolizing digital asset protection. The logo depicts a cat with a determined expression, representing the token…
-  - 资金 100.00 / 广度 63.51 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged BOUTYWORK Meme Image Release | Solana | 加速中 | 强度 75.33 | 质量 65.59
-  - 主题摘要：According to reputable dev's post, Arivu claims to have tattooed the name of the $Bountywork token on his forehead as a gesture of commitment. The post includes a Meme image and l…
-  - 资金 100.00 / 广度 85.11 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 你们都是黑马，我是橘猫 | BSC | 加速中 | 强度 74.01 | 质量 60.37
+- 你们都是黑马，我是橘猫 | BSC | 加速中 | 强度 71.13 | 质量 60.19
   - 主题摘要：Multiple tokens named 「橘猫」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.82 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.91 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance stockQQ750153967 | BSC | 加速中 | 强度 68.99 | 质量 60.30
+- Binance stockQQ750153967 | BSC | 加速中 | 强度 69.37 | 质量 60.50
   - 主题摘要：Multiple tokens named 「Binance stock」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.05 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.50 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Super Invincible Discusses Extraterrestrial Life Exploration Guidelines | BSC | 加速中 | 强度 66.50 | 质量 53.34
+- Super Invincible Discusses Extraterrestrial Life Exploration Guidelines | BSC | 加速中 | 强度 69.35 | 质量 54.53
   - 主题摘要：According to 超级无敌's post, the International Academy of Astronautics (IAA) released updated guidelines on June 1, 2026, stating that no response should be made without UN consultat…
-  - 资金 100.00 / 广度 68.62 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 68.80 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FIST 🦋 Dual Currency Genesis | Pangu 10,000x Orthodoxy | BSC | 加速中 | 强度 65.64 | 质量 58.97
-  - 主题摘要：According to FIST 🦋 双币创世 | 盘古万倍正统's post, the FIST token is launching as part of a 'butterfly dual token' system, claiming to be the orthodox successor to the 2021 Pangu project.…
-  - 资金 100.00 / 广度 63.22 / 确认 24.48 / 脆弱性 14.00
+- 每个人都有英雄梦，但我们要唱凡人歌 | BSC | 加速中 | 强度 68.05 | 质量 52.91
+  - 主题摘要：Multiple tokens named 「凡人歌」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.61 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Argentina Discusses Meme Coins | BSC | 加速中 | 强度 62.99 | 质量 50.93
+- Uncertain:Binance Argentina Discusses Meme Coins | BSC | 加速中 | 强度 66.20 | 质量 53.36
   - 主题摘要：According to Binance Argentina's post, the account discusses the evolution of meme coins, noting they originated as jokes but now move millions. The post highlights DOGE, SHIB, an…
-  - 资金 100.00 / 广度 72.89 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.88 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.82，其中已确认叙事 0 个。
-- Pump.fun App Promotion 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.68，其中已确认叙事 0 个。
+- Bountree Coin Alleged Tree Planting Bounty 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - United Account Trust Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged USDC Runner $1 | 质量 76.42 | 可交易性 100.00 | 风险 低
-- Pump.fun App Promotion | 质量 75.68 | 可交易性 100.00 | 风险 低
-- Alleged 1sol Token | 质量 75.55 | 可交易性 100.00 | 风险 低
-- Luminaries Supports Solana | 质量 75.43 | 可交易性 100.00 | 风险 低
-- United Account Trust Fund | 质量 74.01 | 可交易性 100.00 | 风险 低
-- Taylor Hornby Shares Solana Address | 质量 72.60 | 可交易性 100.00 | 风险 低
-- Binance 10M USDC Stock Reward | 质量 71.78 | 可交易性 95.52 | 风险 低
-- seized | 质量 69.11 | 可交易性 100.00 | 风险 低
-- Alleged BOUTYWORK Meme Image Release | 质量 65.59 | 可交易性 56.11 | 风险 低
-- 你们都是黑马，我是橘猫 | 质量 60.37 | 可交易性 47.47 | 风险 低
+- Alleged USDC Runner $1 | 质量 74.94 | 可交易性 100.00 | 风险 低
+- Pump.fun App Promotion | 质量 74.18 | 可交易性 100.00 | 风险 低
+- Bountree Coin Alleged Tree Planting Bounty | 质量 74.16 | 可交易性 100.00 | 风险 低
+- Alleged 1sol Token | 质量 74.08 | 可交易性 100.00 | 风险 低
+- United Account Trust Fund | 质量 73.98 | 可交易性 100.00 | 风险 低
+- Binance 10M USDC Stock Reward | 质量 72.97 | 可交易性 95.09 | 风险 低
+- $tupid Bounty | 质量 72.60 | 可交易性 100.00 | 风险 低
+- Alleged ChatGPT Photo Restoration Meme | 质量 72.23 | 可交易性 83.46 | 风险 低
+- Taylor Hornby Shares Solana Address | 质量 71.78 | 可交易性 100.00 | 风险 低
+- Binance stockQQ750153967 | 质量 60.50 | 可交易性 49.20 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United Account Trust Fund（Solana，分数 83.02）
+1. 当前最强叙事：United Account Trust Fund（Solana，分数 82.97）
 2. 共振最强代币：BSB（BSC，共振 100.0）
-3. 记忆层变化：Pump.fun App Promotion 当前为“新出现”
+3. 记忆层变化：Bountree Coin Alleged Tree Planting Bounty 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-06)
 #Binance #NarrativeOS #OpenClaw
