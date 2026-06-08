@@ -1,100 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-08T20:31:49.687378+00:00
+- 生成时间：2026-06-08T22:13:36.029282+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 tech-melon Interprets Four Platform's New Features，所在链为 BSC，叙事强度 81.0。
-- 当前平均叙事强度为 77.39，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 H，来自 BSC，共振分数 100.0。
-- 记忆层显示 保护冬冬 为冬冬伸张正义 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Trenchers 4 Positivity，伪叙事风险 43.28。
+- 当前最强叙事是 Alleged Apple AI Companion 'Fin' Token，所在链为 Solana，叙事强度 80.36。
+- 当前平均叙事强度为 76.91，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 World Cup Jotchua 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Binance Futures Will Adjust The Contract Size of USDⓈ-Margined SPCXUSDT Pre-IPO Perp (2026-06-10)。
 
 ## 叙事雷达
 
-- tech-melon Interprets Four Platform's New Features | BSC | 已确认 | 强度 81.00 | 质量 81.59
-  - 主题摘要：According to tech-melon's post, the author analyzes the new features of the Four platform, suggesting that it allows users to create new gameplay modes which are then added to the…
-  - 资金 100.00 / 广度 89.66 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Apple AI Companion 'Fin' Token | Solana | 加速中 | 强度 80.73 | 质量 81.90
+- Alleged Apple AI Companion 'Fin' Token | Solana | 加速中 | 强度 80.36 | 质量 81.84
   - 主题摘要：Multiple tokens named 「FIN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.59 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 95.39 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Hunt for Number 9 | BSC | 已确认 | 强度 80.17 | 质量 75.77
+- tech-melon Interprets Four Platform's New Features | BSC | 已确认 | 强度 79.97 | 质量 80.07
+  - 主题摘要：According to tech-melon's post, the author analyzes the new features of the Four platform, suggesting that it allows users to create new gameplay modes which are then added to the…
+  - 资金 100.00 / 广度 89.67 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Binance Hunt for Number 9 | BSC | 已确认 | 强度 78.65 | 质量 75.64
   - 主题摘要：Binance发起2026世界杯营销活动，通过寻找象征核心地位的“9号球员”概念，结合足球热点与加密货币社区互动，旨在提升品牌全球影响力并激发社区参与热情。
-  - 资金 100.00 / 广度 81.09 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.13 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Taylor Hornby Shares Solana Address | Solana | 已确认 | 强度 79.90 | 质量 75.10
-  - 主题摘要：Multiple tokens named 「ZEC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.26 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged Binance Updates BNB Definition | BSC | 加速中 | 强度 77.63 | 质量 73.19
-  - 主题摘要：According to 摸草小将's post, the Binance app's BNB label page was updated to define BNB as "Build and Build" (continuous construction). The author claims this official definition emp…
-  - 资金 100.00 / 广度 76.98 / 确认 28.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of GO Token | Solana | 加速中 | 强度 77.24 | 质量 65.17
-  - 主题摘要：According to Troll Dev's post, the author allegedly launched a token named 'cmon let's go' (Symbol: GO), referencing a quote of Donald Trump. This information is unverified. Pleas…
-  - 资金 100.00 / 广度 81.69 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GoPump Walmart Challenge | Solana | 加速中 | 强度 77.24 | 质量 65.18
-  - 主题摘要：Multiple tokens named 「GO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.69 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 79AU | BSC | 加速中 | 强度 76.89 | 质量 75.05
+- World Cup Jotchua | Solana | 降温中 | 强度 78.38 | 质量 67.47
+  - 主题摘要：Multiple tokens named 「WCJotchua」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 99.62 / 广度 61.21 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 79AU | BSC | 加速中 | 强度 78.17 | 质量 75.14
   - 主题摘要：79AU is a meme token inspired by the 79 AU cryptocurrency, which gained popularity through a viral post on X. It aims to build a community around humor and creativity, focusing on…
-  - 资金 100.00 / 广度 72.23 / 确认 24.48 / 脆弱性 10.00
+  - 资金 100.00 / 广度 72.52 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $Jotchua Token Launch | Solana | 加速中 | 强度 75.65 | 质量 64.89
+- Alleged $Jotchua Token Launch | Solana | 加速中 | 强度 78.04 | 质量 65.14
   - 主题摘要：According to Jotchua's post, the creator of the Jotchua dog meme has onboarded to launch the final $Jotchua token, claiming 100% of fees will be redirected. This information is un…
-  - 资金 100.00 / 广度 78.90 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.37 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 保护冬冬 为冬冬伸张正义 | BSC | 加速中 | 强度 74.51 | 质量 61.27
-  - 主题摘要：Multiple tokens named 「冬冬」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.82 / 确认 24.48 / 脆弱性 14.00
+- Taylor Hornby Shares Solana Address | Solana | 加速中 | 强度 77.36 | 质量 73.20
+  - 主题摘要：Multiple tokens named 「ZEC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.42 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trenchers 4 Positivity | Solana | 降温中 | 强度 74.49 | 质量 65.95
-  - 主题摘要：Multiple tokens named 「T4P」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 59.83 / 确认 0.00 / 脆弱性 14.00
+- Uncertain:Alleged Binance Updates BNB Definition | BSC | 加速中 | 强度 76.42 | 质量 73.18
+  - 主题摘要：According to 摸草小将's post, the Binance app's BNB label page was updated to define BNB as "Build and Build" (continuous construction). The author claims this official definition emp…
+  - 资金 100.00 / 广度 77.02 / 确认 28.12 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- ZORO THE BOUNTY HUNTER | Solana | 降温中 | 强度 75.82 | 质量 65.45
+  - 主题摘要：ZORO token draws inspiration from the anime character Zoro, a bounty hunter turned Straw Hat Pirate. The token's logo features Zoro's distinctive green hair and piercing eyes, ref…
+  - 资金 100.00 / 广度 54.46 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance 10M USDC Stock Reward | BSC | 加速中 | 强度 74.14 | 质量 70.70
-  - 主题摘要：Binance offers up to 10M USDC rewards for completing first U.S. Stock or ETF transactions, marking a significant bridge between crypto and traditional finance.
-  - 资金 100.00 / 广度 78.67 / 确认 31.72 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- United Account Trust Fund | Solana | 降温中 | 强度 73.42 | 质量 62.22
-  - 主题摘要：Multiple tokens named 「UATF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.57 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AAIF | Solana | 降温中 | 强度 72.88 | 质量 60.75
+- AAIF | Solana | 降温中 | 强度 74.94 | 质量 63.86
   - 主题摘要：AAIF token represents the American AI Fund, inspired by the intersection of American patriotism and artificial intelligence. The logo features an American flag, eagle, and brain c…
-  - 资金 100.00 / 广度 69.52 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 68.88 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 保护冬冬 为冬冬伸张正义 | BSC | 加速中 | 强度 73.91 | 质量 61.30
+  - 主题摘要：Multiple tokens named 「冬冬」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.10 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance 10M USDC Stock Reward | BSC | 加速中 | 强度 73.63 | 质量 68.12
+  - 主题摘要：Binance offers up to 10M USDC rewards for completing first U.S. Stock or ETF transactions, marking a significant bridge between crypto and traditional finance.
+  - 资金 100.00 / 广度 78.64 / 确认 31.72 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- United Account Trust Fund | Solana | 降温中 | 强度 73.45 | 质量 62.09
+  - 主题摘要：Multiple tokens named 「UATF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.48 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Likwid | BSC | 加速中 | 强度 69.57 | 质量 63.54
+  - 主题摘要：According to 炸毛兔's post, a Meme image was shared. The author questioned why the Meme lacks a token and claimed it represents the first Meme of a new model. This information is unv…
+  - 资金 100.00 / 广度 78.73 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.39，其中已确认叙事 2 个。
-- 保护冬冬 为冬冬伸张正义 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Trenchers 4 Positivity 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.91，其中已确认叙事 0 个。
+- Likwid 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- World Cup Jotchua 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Apple AI Companion 'Fin' Token | 质量 81.90 | 可交易性 100.00 | 风险 低
-- tech-melon Interprets Four Platform's New Features | 质量 81.59 | 可交易性 100.00 | 风险 低
-- Binance Hunt for Number 9 | 质量 75.77 | 可交易性 88.23 | 风险 低
-- Taylor Hornby Shares Solana Address | 质量 75.10 | 可交易性 100.00 | 风险 低
-- 79AU | 质量 75.05 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Binance Updates BNB Definition | 质量 73.19 | 可交易性 86.38 | 风险 低
-- Binance 10M USDC Stock Reward | 质量 70.70 | 可交易性 96.45 | 风险 低
-- Trenchers 4 Positivity | 质量 65.95 | 可交易性 100.00 | 风险 低
-- GoPump Walmart Challenge | 质量 65.18 | 可交易性 57.63 | 风险 低
-- Alleged Launch of GO Token | 质量 65.17 | 可交易性 57.60 | 风险 低
+- Alleged Apple AI Companion 'Fin' Token | 质量 81.84 | 可交易性 100.00 | 风险 低
+- tech-melon Interprets Four Platform's New Features | 质量 80.07 | 可交易性 100.00 | 风险 低
+- Binance Hunt for Number 9 | 质量 75.64 | 可交易性 87.77 | 风险 低
+- 79AU | 质量 75.14 | 可交易性 100.00 | 风险 低
+- Taylor Hornby Shares Solana Address | 质量 73.20 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Binance Updates BNB Definition | 质量 73.18 | 可交易性 86.30 | 风险 低
+- Binance 10M USDC Stock Reward | 质量 68.12 | 可交易性 96.48 | 风险 低
+- World Cup Jotchua | 质量 67.47 | 可交易性 100.00 | 风险 低
+- ZORO THE BOUNTY HUNTER | 质量 65.45 | 可交易性 100.00 | 风险 低
+- Alleged $Jotchua Token Launch | 质量 65.14 | 可交易性 59.81 | 风险 低
 
 ## 伪叙事风险
 
-- Trenchers 4 Positivity | 风险 43.28 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -106,8 +104,8 @@
 - SV151 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HeavyPulp | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DICKBUTT | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- RICH | Solana | 看多 | 新鲜度 83.46 | 暂无直接叙事映射
 - SENSE | Solana | 看多 | 新鲜度 65.65 | 暂无直接叙事映射
+- DickButt | Solana | 看多 | 新鲜度 65.58 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：tech-melon Interprets Four Platform's New Features（BSC，分数 81.0）
-2. 共振最强代币：H（BSC，共振 100.0）
-3. 记忆层变化：保护冬冬 为冬冬伸张正义 当前为“新出现”
+1. 当前最强叙事：Alleged Apple AI Companion 'Fin' Token（Solana，分数 80.36）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：World Cup Jotchua 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Adjust The Contract Size of USDⓈ-Margined SPCXUSDT Pre-IPO Perp (2026-06-10)
 #Binance #NarrativeOS #OpenClaw
