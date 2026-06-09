@@ -1,101 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-09T11:49:37.060969+00:00
+- 生成时间：2026-06-09T14:11:13.558392+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance Hunt for Number 9，所在链为 BSC，叙事强度 86.77。
-- 当前平均叙事强度为 76.32，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 H，来自 BSC，共振分数 100.0。
-- 记忆层显示 World Cup 当前处于“新出现”状态。
+- 当前最强叙事是 Uncertain:FIST Dual-Token Media Coverage，所在链为 BSC，叙事强度 83.33。
+- 当前平均叙事强度为 75.86，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 HYPE，来自 Solana，共振分数 100.0。
+- 记忆层显示 Uncertain:FIST Dual-Token Media Coverage 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 World Cup Jotchua，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Citrea (CTR) and Share $100K Worth of Rewards (2026-06-09)。
 
 ## 叙事雷达
 
-- Binance Hunt for Number 9 | BSC | 已确认 | 强度 86.77 | 质量 83.55
-  - 主题摘要：Binance发起2026世界杯营销活动，通过寻找象征核心地位的“9号球员”概念，结合足球热点与加密货币社区互动，旨在提升品牌全球影响力并激发社区参与热情。
-  - 资金 100.00 / 广度 92.64 / 确认 35.28 / 脆弱性 14.00
+- Uncertain:FIST Dual-Token Media Coverage | BSC | 已确认 | 强度 83.33 | 质量 83.03
+  - 主题摘要：According to FIST 🦋 双币创世 | 盘古万倍正统's post, the FIST dual-token project has been reported by multiple media outlets including Binance Square, HTX, Gate, Futu, Techub, MyToken, Follo…
+  - 资金 100.00 / 广度 96.18 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged CHUD Meme Image | Solana | 加速中 | 强度 85.37 | 质量 79.49
-  - 主题摘要：According to KevinDonald's post, a Meme image depicting a 'Chud' version of the NEET character was identified in the comments of a music video. The image features a cannibalistic…
-  - 资金 100.00 / 广度 87.03 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- crispy Questions CHUD Token | Solana | 加速中 | 强度 85.36 | 质量 79.47
-  - 主题摘要：According to crispy's post, the user questions the necessity of a formal thesis for the CHUD token, implying skepticism regarding its fundamental justification or utility. The pos…
-  - 资金 100.00 / 广度 86.95 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PROJECT OASIS COIN | Solana | 降温中 | 强度 82.16 | 质量 73.33
+- PROJECT OASIS COIN | Solana | 降温中 | 强度 82.53 | 质量 73.29
   - 主题摘要：Multiple tokens named 「PXR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.94 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.79 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- VOAF | Solana | 降温中 | 强度 82.01 | 质量 74.89
+- VOAF | Solana | 降温中 | 强度 82.07 | 质量 74.84
   - 主题摘要：Multiple tokens named 「VOAF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.14 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.95 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Cup Jotchua | Solana | 点火期 | 强度 81.94 | 质量 76.55
+- MATCHDAY | Solana | 加速中 | 强度 81.83 | 质量 74.86
+  - 主题摘要：Multiple tokens named 「MATCH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.95 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- World Cup Jotchua | Solana | 点火期 | 强度 81.48 | 质量 76.62
   - 主题摘要：Multiple tokens named 「WCJotchua」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.31 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.53 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged $Jotchua Token Launch | Solana | 已确认 | 强度 81.47 | 质量 69.45
-  - 主题摘要：According to Jotchua's post, the creator of the Jotchua dog meme has onboarded to launch the final $Jotchua token, claiming 100% of fees will be redirected. This information is un…
-  - 资金 100.00 / 广度 84.97 / 确认 30.96 / 脆弱性 24.00
+- Alleged CHUD Meme Image | Solana | 加速中 | 强度 81.43 | 质量 79.65
+  - 主题摘要：According to KevinDonald's post, a Meme image depicting a 'Chud' version of the NEET character was identified in the comments of a music video. The image features a cannibalistic…
+  - 资金 100.00 / 广度 87.54 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- crispy Questions CHUD Token | Solana | 加速中 | 强度 81.42 | 质量 79.63
+  - 主题摘要：According to crispy's post, the user questions the necessity of a formal thesis for the CHUD token, implying skepticism regarding its fundamental justification or utility. The pos…
+  - 资金 100.00 / 广度 87.47 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged $Gusic Meme Coin | Solana | 降温中 | 强度 81.34 | 质量 72.82
+  - 主题摘要：According to Chosen's post, the $Gusic token is allegedly associated with the 'Staring Cat' internet meme, which has been popular since 2018. The post claims the token leverages t…
+  - 资金 100.00 / 广度 70.60 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Boltricks Dev: Tagoh Meme Image | Solana | 加速中 | 强度 79.84 | 质量 68.29
+  - 主题摘要：According to Boltricks Development's post, the account highlights a viral TikTok video featuring a kitten named Tagoh. The post suggests the content may achieve significant popula…
+  - 资金 100.00 / 广度 73.71 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Hunt for Number 9 | BSC | 已确认 | 强度 79.07 | 质量 75.77
+  - 主题摘要：Binance发起2026世界杯营销活动，通过寻找象征核心地位的“9号球员”概念，结合足球热点与加密货币社区互动，旨在提升品牌全球影响力并激发社区参与热情。
+  - 资金 100.00 / 广度 90.21 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Samamfa Meme Coin | Solana | 点火期 | 强度 79.64 | 质量 77.86
-  - 主题摘要：Multiple tokens named 「Samamfa」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.40 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Taylor Hornby Shares Solana Address | Solana | 已确认 | 强度 79.64 | 质量 73.93
-  - 主题摘要：Multiple tokens named 「ZEC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.72 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged Binance Updates BNB Definition | BSC | 加速中 | 强度 76.15 | 质量 69.01
-  - 主题摘要：According to 摸草小将's post, the Binance app's BNB label page was updated to define BNB as "Build and Build" (continuous construction). The author claims this official definition emp…
-  - 资金 100.00 / 广度 73.25 / 确认 28.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Cup | BSC | 加速中 | 强度 75.68 | 质量 73.37
-  - 主题摘要：World Cup token draws inspiration from the FIFA World Cup football tournament, aiming to create a community-driven ecosystem for fans. It focuses on fan engagement through NFTs, v…
-  - 资金 100.00 / 广度 66.62 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 保护冬冬 为冬冬伸张正义 | BSC | 加速中 | 强度 74.23 | 质量 61.92
-  - 主题摘要：According to 巴卡's post, the 'Dongdong incident' is continuing to develop, accompanied by the emergence of multiple tokens with the symbol 'Dongdong' and names such as 'Protect Don…
-  - 资金 100.00 / 广度 74.87 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance 10M USDC Stock Reward | BSC | 加速中 | 强度 73.58 | 质量 67.43
+- Binance 10M USDC Stock Reward | BSC | 加速中 | 强度 74.93 | 质量 69.48
   - 主题摘要：Binance offers up to 10M USDC rewards for completing first U.S. Stock or ETF transactions, marking a significant bridge between crypto and traditional finance.
-  - 资金 100.00 / 广度 78.40 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.84 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Fifa Inu | BSC | 加速中 | 强度 71.48 | 质量 56.57
-  - 主题摘要：Multiple tokens named 「FINU」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.41 / 确认 24.48 / 脆弱性 14.00
+- Uncertain:Alleged Binance Updates BNB Definition | BSC | 加速中 | 强度 74.69 | 质量 67.80
+  - 主题摘要：According to 摸草小将's post, the Binance app's BNB label page was updated to define BNB as "Build and Build" (continuous construction). The author claims this official definition emp…
+  - 资金 100.00 / 广度 73.05 / 确认 28.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 2SHIT | BSC | 加速中 | 强度 72.58 | 质量 63.60
+  - 主题摘要：2SHIT is a meme token inspired by the fusion of pig imagery with a playful 'poo' theme, as depicted in its logo featuring a cartoon pig character. Created by 2shixiong_bsc, it aim…
+  - 资金 100.00 / 广度 67.83 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 保护冬冬 为冬冬伸张正义 | BSC | 加速中 | 强度 70.53 | 质量 61.56
+  - 主题摘要：According to 巴卡's post, the 'Dongdong incident' is continuing to develop, accompanied by the emergence of multiple tokens with the symbol 'Dongdong' and names such as 'Protect Don…
+  - 资金 100.00 / 广度 75.07 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.32，其中已确认叙事 1 个。
-- World Cup 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.86，其中已确认叙事 2 个。
+- Uncertain:FIST Dual-Token Media Coverage 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - PROJECT OASIS COIN 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Hunt for Number 9 | 质量 83.55 | 可交易性 100.00 | 风险 低
-- Alleged CHUD Meme Image | 质量 79.49 | 可交易性 100.00 | 风险 低
-- crispy Questions CHUD Token | 质量 79.47 | 可交易性 100.00 | 风险 低
-- Alleged Samamfa Meme Coin | 质量 77.86 | 可交易性 100.00 | 风险 低
-- World Cup Jotchua | 质量 76.55 | 可交易性 100.00 | 风险 低
-- VOAF | 质量 74.89 | 可交易性 100.00 | 风险 低
-- Taylor Hornby Shares Solana Address | 质量 73.93 | 可交易性 100.00 | 风险 低
-- World Cup | 质量 73.37 | 可交易性 100.00 | 风险 低
-- PROJECT OASIS COIN | 质量 73.33 | 可交易性 100.00 | 风险 低
-- Alleged $Jotchua Token Launch | 质量 69.45 | 可交易性 63.82 | 风险 低
+- Uncertain:FIST Dual-Token Media Coverage | 质量 83.03 | 可交易性 100.00 | 风险 低
+- Alleged CHUD Meme Image | 质量 79.65 | 可交易性 100.00 | 风险 低
+- crispy Questions CHUD Token | 质量 79.63 | 可交易性 100.00 | 风险 低
+- World Cup Jotchua | 质量 76.62 | 可交易性 100.00 | 风险 低
+- Binance Hunt for Number 9 | 质量 75.77 | 可交易性 100.00 | 风险 低
+- MATCHDAY | 质量 74.86 | 可交易性 92.64 | 风险 低
+- VOAF | 质量 74.84 | 可交易性 100.00 | 风险 低
+- PROJECT OASIS COIN | 质量 73.29 | 可交易性 100.00 | 风险 低
+- Alleged $Gusic Meme Coin | 质量 72.82 | 可交易性 100.00 | 风险 低
+- Binance 10M USDC Stock Reward | 质量 69.48 | 可交易性 96.96 | 风险 低
 
 ## 伪叙事风险
 
 - World Cup Jotchua | 风险 47.79 | 原因：流动性偏薄
-- Alleged Samamfa Meme Coin | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance Hunt for Number 9（BSC，分数 86.77）
-2. 共振最强代币：H（BSC，共振 100.0）
-3. 记忆层变化：World Cup 当前为“新出现”
+1. 当前最强叙事：Uncertain:FIST Dual-Token Media Coverage（BSC，分数 83.33）
+2. 共振最强代币：HYPE（Solana，共振 100.0）
+3. 记忆层变化：Uncertain:FIST Dual-Token Media Coverage 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Citrea (CTR) and Share $100K Worth of Rewards (2026-06-09)
 #Binance #NarrativeOS #OpenClaw
