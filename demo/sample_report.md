@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-09T23:46:28.124914+00:00
+- 生成时间：2026-06-10T01:55:35.871723+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 SLANTIX，所在链为 Solana，叙事强度 85.68。
-- 当前平均叙事强度为 78.99，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 VELVET，来自 BSC，共振分数 100.0。
-- 记忆层显示 hehe 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Nikita Bier Criticizes Crypto Demographics，伪叙事风险 47.23。
+- 当前最强叙事是 Uncertain:FIST Dual-Token Media Coverage，所在链为 BSC，叙事强度 83.92。
+- 当前平均叙事强度为 75.23，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 H，来自 BSC，共振分数 100.0。
+- 记忆层显示 Elon Musk on Earth's Name 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 SLANTIX，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Citrea (CTR) and Share $100K Worth of Rewards (2026-06-09)。
 
 ## 叙事雷达
 
-- SLANTIX | Solana | 降温中 | 强度 85.68 | 质量 73.55
-  - 主题摘要：Multiple tokens named 「SLANTIX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.30 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:FIST Dual-Token Media Coverage | BSC | 已确认 | 强度 83.78 | 质量 83.57
+- Uncertain:FIST Dual-Token Media Coverage | BSC | 已确认 | 强度 83.92 | 质量 83.64
   - 主题摘要：According to FIST 🦋 双币创世 | 盘古万倍正统's post, the FIST dual-token project has been reported by multiple media outlets including Binance Square, HTX, Gate, Futu, Techub, MyToken, Follo…
-  - 资金 100.00 / 广度 97.99 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 98.20 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- PROJECT OASIS COIN | Solana | 降温中 | 强度 80.78 | 质量 73.16
+- Elon Musk on Earth's Name | Solana | 降温中 | 强度 83.08 | 质量 76.83
+  - 主题摘要：According to RealDevvor's post, the developer of WIF allegedly deployed the WIF token on the USDC network. This claim is unverified and requires confirmation from official sources…
+  - 资金 100.00 / 广度 86.61 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- PROJECT OASIS COIN | Solana | 降温中 | 强度 82.81 | 质量 73.71
   - 主题摘要：Multiple tokens named 「PXR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.37 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.55 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- VOAF | Solana | 降温中 | 强度 79.84 | 质量 72.83
+- VOAF | Solana | 降温中 | 强度 80.04 | 质量 72.78
   - 主题摘要：Multiple tokens named 「VOAF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.90 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.73 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Hunt for Number 9 | BSC | 已确认 | 强度 78.78 | 质量 76.05
+- Ansem Purchases Solana Memes | Solana | 降温中 | 强度 80.02 | 质量 72.96
+  - 主题摘要：According to Ansem's post, the individual purchased several meme tokens on the Solana blockchain for the first time in over a year. This activity highlights personal investment be…
+  - 资金 100.00 / 广度 82.69 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Hunt for Number 9 | BSC | 已确认 | 强度 79.11 | 质量 74.82
   - 主题摘要：Binance发起2026世界杯营销活动，通过寻找象征核心地位的“9号球员”概念，结合足球热点与加密货币社区互动，旨在提升品牌全球影响力并激发社区参与热情。
-  - 资金 100.00 / 广度 88.69 / 确认 35.28 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.42 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged CHUD Meme Image | Solana | 加速中 | 强度 78.41 | 质量 73.98
-  - 主题摘要：According to KevinDonald's post, a Meme image depicting a 'Chud' version of the NEET character was identified in the comments of a music video. The image features a cannibalistic…
-  - 资金 100.00 / 广度 87.52 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MATCHDAY | Solana | 加速中 | 强度 77.91 | 质量 73.08
+- MATCHDAY | Solana | 加速中 | 强度 78.40 | 质量 73.19
   - 主题摘要：Multiple tokens named 「MATCH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.53 / 确认 24.48 / 脆弱性 25.15
+  - 资金 100.00 / 广度 79.62 / 确认 24.48 / 脆弱性 25.15
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- crispy Questions CHUD Token | Solana | 加速中 | 强度 77.11 | 质量 73.04
-  - 主题摘要：According to crispy's post, the user questions the necessity of a formal thesis for the CHUD token, implying skepticism regarding its fundamental justification or utility. The pos…
-  - 资金 100.00 / 广度 87.44 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nikita Bier Criticizes Crypto Demographics | Solana | 点火期 | 强度 76.37 | 质量 75.97
+- Nikita Bier Criticizes Crypto Demographics | Solana | 点火期 | 强度 78.27 | 质量 76.50
   - 主题摘要：According to Nikita Bier's post, he expressed sadness that wealthy individuals have left the cryptocurrency sector, leaving it dominated by American teenagers who allegedly encour…
-  - 资金 100.00 / 广度 82.81 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.85 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- hehe | Solana | 加速中 | 强度 75.79 | 质量 69.39
-  - 主题摘要：Multiple tokens named 「hehe」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.82 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance 10M USDC Stock Reward | BSC | 加速中 | 强度 73.30 | 质量 67.67
-  - 主题摘要：Binance offers up to 10M USDC rewards for completing first U.S. Stock or ETF transactions, marking a significant bridge between crypto and traditional finance.
-  - 资金 100.00 / 广度 77.05 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 穆桂英 | BSC | 降温中 | 强度 71.61 | 质量 55.74
-  - 主题摘要：Multiple tokens named 「穆桂英」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.46 / 确认 16.56 / 脆弱性 14.00
+- SLANTIX | Solana | 点火期 | 强度 75.76 | 质量 74.72
+  - 主题摘要：Multiple tokens named 「SLANTIX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.21 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged $Gusic Meme Coin | Solana | 降温中 | 强度 74.21 | 质量 66.17
+  - 主题摘要：According to Chosen's post, the $Gusic token is allegedly associated with the 'Staring Cat' internet meme, which has been popular since 2018. The post claims the cat dominates soc…
+  - 资金 100.00 / 广度 80.31 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 2SHIT | BSC | 加速中 | 强度 71.40 | 质量 61.14
-  - 主题摘要：2SHIT is a meme token inspired by the fusion of pig imagery with a playful 'poo' theme, as depicted in its logo featuring a cartoon pig character. Created by 2shixiong_bsc, it aim…
-  - 资金 100.00 / 广度 75.39 / 确认 24.48 / 脆弱性 24.00
+- 蝴蝶骑士QQ群781126272 | BSC | 加速中 | 强度 73.52 | 质量 61.98
+  - 主题摘要：According to 蝴蝶骑士's post, the Butterfly Knight token is launched with a total supply of 1 billion. It features a fair launch with locked liquidity and a 3% buy/sell tax for BTC di…
+  - 资金 100.00 / 广度 73.10 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Messi GOAT Meme Coin | BSC | 降温中 | 强度 69.49 | 质量 61.09
+- Binance 10M USDC Stock Reward | BSC | 加速中 | 强度 72.18 | 质量 68.07
+  - 主题摘要：Binance offers up to 10M USDC rewards for completing first U.S. Stock or ETF transactions, marking a significant bridge between crypto and traditional finance.
+  - 资金 100.00 / 广度 76.78 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 穆桂英 | BSC | 降温中 | 强度 71.66 | 质量 57.79
+  - 主题摘要：Multiple tokens named 「穆桂英」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.62 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Messi GOAT Meme Coin | BSC | 降温中 | 强度 70.98 | 质量 60.39
   - 主题摘要：According to Kiro's post, Lionel Messi-themed "GOAT" plushies are selling out globally, prompting a call for a corresponding cryptocurrency. Kiro questions why a token does not ex…
-  - 资金 95.92 / 广度 69.48 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 69.61 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.99，其中已确认叙事 0 个。
-- hehe 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- SLANTIX 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.23，其中已确认叙事 2 个。
+- 蝴蝶骑士QQ群781126272 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Elon Musk on Earth's Name 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:FIST Dual-Token Media Coverage | 质量 83.57 | 可交易性 100.00 | 风险 低
-- Binance Hunt for Number 9 | 质量 76.05 | 可交易性 100.00 | 风险 低
-- Nikita Bier Criticizes Crypto Demographics | 质量 75.97 | 可交易性 100.00 | 风险 低
-- Alleged CHUD Meme Image | 质量 73.98 | 可交易性 100.00 | 风险 低
-- SLANTIX | 质量 73.55 | 可交易性 100.00 | 风险 低
-- PROJECT OASIS COIN | 质量 73.16 | 可交易性 100.00 | 风险 低
-- MATCHDAY | 质量 73.08 | 可交易性 86.11 | 风险 低
-- crispy Questions CHUD Token | 质量 73.04 | 可交易性 100.00 | 风险 低
-- VOAF | 质量 72.83 | 可交易性 100.00 | 风险 低
-- hehe | 质量 69.39 | 可交易性 70.90 | 风险 低
+- Uncertain:FIST Dual-Token Media Coverage | 质量 83.64 | 可交易性 100.00 | 风险 低
+- Elon Musk on Earth's Name | 质量 76.83 | 可交易性 100.00 | 风险 低
+- Nikita Bier Criticizes Crypto Demographics | 质量 76.50 | 可交易性 100.00 | 风险 低
+- Binance Hunt for Number 9 | 质量 74.82 | 可交易性 100.00 | 风险 低
+- SLANTIX | 质量 74.72 | 可交易性 100.00 | 风险 低
+- PROJECT OASIS COIN | 质量 73.71 | 可交易性 100.00 | 风险 低
+- MATCHDAY | 质量 73.19 | 可交易性 86.40 | 风险 低
+- Ansem Purchases Solana Memes | 质量 72.96 | 可交易性 91.02 | 风险 低
+- VOAF | 质量 72.78 | 可交易性 100.00 | 风险 低
+- Binance 10M USDC Stock Reward | 质量 68.07 | 可交易性 96.40 | 风险 低
 
 ## 伪叙事风险
 
-- Nikita Bier Criticizes Crypto Demographics | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- SLANTIX | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Nikita Bier Criticizes Crypto Demographics | 风险 42.03 | 原因：流动性偏薄
 - VOAF | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -134,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：SLANTIX（Solana，分数 85.68）
-2. 共振最强代币：VELVET（BSC，共振 100.0）
-3. 记忆层变化：hehe 当前为“新出现”
+1. 当前最强叙事：Uncertain:FIST Dual-Token Media Coverage（BSC，分数 83.92）
+2. 共振最强代币：H（BSC，共振 100.0）
+3. 记忆层变化：Elon Musk on Earth's Name 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Citrea (CTR) and Share $100K Worth of Rewards (2026-06-09)
 #Binance #NarrativeOS #OpenClaw
