@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-13T09:32:14.333689+00:00
+- 生成时间：2026-06-13T11:30:32.055029+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 PROVE IT，所在链为 Solana，叙事强度 89.22。
-- 当前平均叙事强度为 79.08，其中已确认叙事 1 个。
+- 当前最强叙事是 Binance Hunt for Number 9，所在链为 BSC，叙事强度 81.38。
+- 当前平均叙事强度为 72.26，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 BEAT，来自 BSC，共振分数 100.0。
-- 记忆层显示 PROVE IT 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 GCR Discusses SpaceX Logo，伪叙事风险 50.11。
+- 记忆层显示 SpaceX Musk Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 SpaceX Musk Launch，伪叙事风险 47.17。
 - 最新官方催化来自 新币上新：Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12。
 
 ## 叙事雷达
 
-- PROVE IT | Solana | 已确认 | 强度 89.22 | 质量 81.42
-  - 主题摘要：PROVE token powers the PROVE IT platform, a decentralized ecosystem focused on community-driven innovation. The logo features a stylized 'P' with a play button, symbolizing the pl…
-  - 资金 100.00 / 广度 88.61 / 确认 31.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Revatar AI | Solana | 降温中 | 强度 82.45 | 质量 73.51
-  - 主题摘要：Multiple tokens named 「REVATAR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.16 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Hunt for Number 9 | BSC | 已确认 | 强度 82.28 | 质量 75.96
+- Binance Hunt for Number 9 | BSC | 已确认 | 强度 81.38 | 质量 75.07
   - 主题摘要：Binance发起2026世界杯营销活动，通过寻找象征核心地位的“9号球员”概念，结合足球热点与加密货币社区互动，旨在提升品牌全球影响力并激发社区参与热情。
-  - 资金 100.00 / 广度 82.60 / 确认 38.88 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.92 / 确认 38.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- FootFan | Solana | 降温中 | 强度 81.54 | 质量 71.56
-  - 主题摘要：FOOTFAN is the first token themed around passionate football fans, drawing inspiration from the global fervor and unity of football culture. Its rapid spread is fueled by organic…
-  - 资金 100.00 / 广度 71.66 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SpaceX IPO on Solana | Solana | 加速中 | 强度 77.82 | 质量 75.37
-  - 主题摘要：Solana官方账号提及Calily Liu关于SpaceX IPO将登陆Solana的讨论，强调加密货币作为全球金融基础设施的普及性。
-  - 资金 100.00 / 广度 100.00 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GCR Discusses SpaceX Logo | Solana | 点火期 | 强度 76.22 | 质量 75.52
-  - 主题摘要：According to GCR (Saylor Arc)'s post, the author comments on the visibility of the SpaceX logo on merchandise and suggests it should be free. The post references a quoted tweet ab…
-  - 资金 100.00 / 广度 99.29 / 确认 12.96 / 脆弱性 24.00
+- SpaceX Musk Launch | Solana | 点火期 | 强度 79.94 | 质量 81.27
+  - 主题摘要：Elon Musk uses multiple rocket emojis to celebrate SpaceX's public market debut, symbolizing a massive launch in both space and finance.
+  - 资金 100.00 / 广度 98.71 / 确认 16.64 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- ICPX Protocol | Solana | 加速中 | 强度 75.32 | 质量 66.58
-  - 主题摘要：ICPX Protocol is a decentralized AI computing platform built on NVIDIA GPU technology. The token powers a network of AI nodes that execute complex computations for decentralized a…
-  - 资金 100.00 / 广度 74.88 / 确认 24.48 / 脆弱性 14.00
+- PROVE IT | Solana | 加速中 | 强度 79.42 | 质量 79.07
+  - 主题摘要：PROVE token powers the PROVE IT platform, a decentralized ecosystem focused on community-driven innovation. The logo features a stylized 'P' with a play button, symbolizing the pl…
+  - 资金 100.00 / 广度 88.68 / 确认 20.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of SOCCER Token | Solana | 加速中 | 强度 75.18 | 质量 63.27
-  - 主题摘要：According to himmy's post, a token named SOCCER (It's called Soccer) is allegedly launching with cashback features. The post references viral discussions regarding the term 'socce…
-  - 资金 100.00 / 广度 80.93 / 确认 20.16 / 脆弱性 24.00
+- SPCX69 | Solana | 加速中 | 强度 77.81 | 质量 61.83
+  - 主题摘要：Multiple tokens named 「SPCX69」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.52 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Duck Wears Mexico Jersey | Solana | 加速中 | 强度 74.85 | 质量 63.90
+- Duck Wears Mexico Jersey | Solana | 加速中 | 强度 76.45 | 质量 65.57
   - 主题摘要：According to RT's post, a duck wearing a Mexico World Cup jersey has gone viral, sparking the question of whether it is duck season.
-  - 资金 100.00 / 广度 81.47 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.76 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 2SHIT | BSC | 加速中 | 强度 73.58 | 质量 61.04
+- Alleged MOON Token Launch | Solana | 点火期 | 强度 76.42 | 质量 71.55
+  - 主题摘要：According to MOON's post, the user claims that the SpaceX IPO will create 4,000 millionaires, describing this as a "godlike narrative." MOON announced the launch of a token named…
+  - 资金 100.00 / 广度 89.99 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- GOOD WORKING GAME NO CAP | Solana | 加速中 | 强度 75.80 | 质量 62.56
+  - 主题摘要：Multiple tokens named 「Islands」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.90 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Taylor Sealion Token | Solana | 降温中 | 强度 75.36 | 质量 63.05
+  - 主题摘要：According to gettindevvy_'s post, the author claims that Taylor is the successor to Arie, referencing a California sea lion. This statement is associated with the alleged launch o…
+  - 资金 100.00 / 广度 61.63 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- GodDev Donating Stream Fees | Solana | 加速中 | 强度 74.81 | 质量 59.40
+  - 主题摘要：According to GodDev's post, the individual intends to stream the process of donating fees collected from their activities. The post highlights a charitable action regarding revenu…
+  - 资金 100.00 / 广度 74.18 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 2SHIT | BSC | 加速中 | 强度 72.08 | 质量 58.22
   - 主题摘要：2SHIT is a meme token inspired by the fusion of pig imagery with a playful 'poo' theme, as depicted in its logo featuring a cartoon pig character. Created by 2shixiong_bsc, it aim…
-  - 资金 100.00 / 广度 71.01 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 71.08 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Responds to 'Small Shareholder' Token | BSC | 加速中 | 强度 73.16 | 质量 60.68
-  - 主题摘要：According to xxxxHolder's post, CZ stated that the only Chinese narrative regarding Space is 'small shareholders'. This statement is associated with tokens named 'Small Shareholde…
-  - 资金 100.00 / 广度 77.99 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 黄金人生 | BSC | 加速中 | 强度 72.34 | 质量 60.48
-  - 主题摘要：Multiple tokens named 「黄金人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.17 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Xiaogudong Token Issuance | BSC | 加速中 | 强度 70.46 | 质量 59.43
-  - 主题摘要：According to 小股东's post, the 'Adopt a Cow' genesis project claims to make everyone a shareholder with an open treasury. It describes a mother-child token model with unlimited buyb…
-  - 资金 100.00 / 广度 78.62 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:FIST Dual-Token Media Coverage | BSC | 加速中 | 强度 70.25 | 质量 68.33
+- Uncertain:FIST Dual-Token Media Coverage | BSC | 加速中 | 强度 72.04 | 质量 71.00
   - 主题摘要：According to FIST 🦋 双币创世 | 盘古万倍正统's post, the FIST dual-token project has been reported by multiple media outlets including Binance Square, HTX, Gate, Futu, Techub, MyToken, Follo…
-  - 资金 91.18 / 广度 70.94 / 确认 28.08 / 脆弱性 24.00
+  - 资金 94.95 / 广度 73.08 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Xiaogudong Token Issuance | BSC | 加速中 | 强度 70.13 | 质量 60.36
+  - 主题摘要：According to 小股东's post, the 'Adopt a Cow' genesis project claims to make everyone a shareholder with an open treasury. It describes a mother-child token model with unlimited buyb…
+  - 资金 100.00 / 广度 79.10 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 黄金人生 | BSC | 加速中 | 强度 69.22 | 质量 55.29
+  - 主题摘要：Multiple tokens named 「黄金人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.09 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- ShadowX | BSC | 加速中 | 强度 68.72 | 质量 53.81
+  - 主题摘要：SHDX (ShadowX) is a meme token inspired by the X platform's community-driven culture. It aims to capture the playful spirit of crypto culture while building a community around hum…
+  - 资金 100.00 / 广度 68.51 / 确认 24.48 / 脆弱性 24.32
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.08，其中已确认叙事 1 个。
-- PROVE IT 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Revatar AI 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 72.26，其中已确认叙事 1 个。
+- SpaceX Musk Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- PROVE IT 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- PROVE IT | 质量 81.42 | 可交易性 100.00 | 风险 低
-- Binance Hunt for Number 9 | 质量 75.96 | 可交易性 100.00 | 风险 低
-- GCR Discusses SpaceX Logo | 质量 75.52 | 可交易性 100.00 | 风险 低
-- SpaceX IPO on Solana | 质量 75.37 | 可交易性 95.55 | 风险 低
-- Revatar AI | 质量 73.51 | 可交易性 100.00 | 风险 低
-- FootFan | 质量 71.56 | 可交易性 100.00 | 风险 低
-- Uncertain:FIST Dual-Token Media Coverage | 质量 68.33 | 可交易性 100.00 | 风险 低
-- ICPX Protocol | 质量 66.58 | 可交易性 69.11 | 风险 低
-- Duck Wears Mexico Jersey | 质量 63.90 | 可交易性 53.58 | 风险 低
-- Alleged Launch of SOCCER Token | 质量 63.27 | 可交易性 55.20 | 风险 低
+- SpaceX Musk Launch | 质量 81.27 | 可交易性 100.00 | 风险 低
+- PROVE IT | 质量 79.07 | 可交易性 100.00 | 风险 低
+- Binance Hunt for Number 9 | 质量 75.07 | 可交易性 100.00 | 风险 低
+- Alleged MOON Token Launch | 质量 71.55 | 可交易性 100.00 | 风险 低
+- Uncertain:FIST Dual-Token Media Coverage | 质量 71.00 | 可交易性 100.00 | 风险 低
+- Duck Wears Mexico Jersey | 质量 65.57 | 可交易性 55.84 | 风险 低
+- Alleged Taylor Sealion Token | 质量 63.05 | 可交易性 81.67 | 风险 低
+- GOOD WORKING GAME NO CAP | 质量 62.56 | 可交易性 53.67 | 风险 低
+- SPCX69 | 质量 61.83 | 可交易性 57.62 | 风险 低
+- Alleged Xiaogudong Token Issuance | 质量 60.36 | 可交易性 44.15 | 风险 低
 
 ## 伪叙事风险
 
-- GCR Discusses SpaceX Logo | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- SpaceX Musk Launch | 风险 47.17 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged MOON Token Launch | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：PROVE IT（Solana，分数 89.22）
+1. 当前最强叙事：Binance Hunt for Number 9（BSC，分数 81.38）
 2. 共振最强代币：BEAT（BSC，共振 100.0）
-3. 记忆层变化：PROVE IT 当前为“新出现”
+3. 记忆层变化：SpaceX Musk Launch 当前为“新出现”
 4. 最新官方催化：Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12
 #Binance #NarrativeOS #OpenClaw
