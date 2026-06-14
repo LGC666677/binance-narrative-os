@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-14T06:54:57.361782+00:00
+- 生成时间：2026-06-14T10:16:45.086181+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 PROVE IT，所在链为 Solana，叙事强度 79.41。
-- 当前平均叙事强度为 75.58，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 VELVET，来自 BSC，共振分数 100.0。
-- 记忆层显示 Binance mentions bStocks 当前处于“新出现”状态。
+- 当前最强叙事是 Mr. Turtle's Post，所在链为 Solana，叙事强度 79.66。
+- 当前平均叙事强度为 76.2，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 SKYAI，来自 BSC，共振分数 100.0。
+- 记忆层显示 Musk x Cleese: Pro-Stabbing 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12。
 
 ## 叙事雷达
 
-- PROVE IT | Solana | 加速中 | 强度 79.41 | 质量 66.49
-  - 主题摘要：PROVE token draws inspiration from the iconic 'Prove It' scene from the 1995 film 'The Matrix', featuring Keanu Reeves. The token's logo features a character with glowing eyes, re…
-  - 资金 100.00 / 广度 79.53 / 确认 27.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GOOD WORKING GAME NO CAP | Solana | 加速中 | 强度 77.93 | 质量 65.90
-  - 主题摘要：According to Alex Macro's post, he is launching a token inspired by the game Islands. The plan involves using token fees for in-game Gold buybacks to create demand. This informati…
-  - 资金 100.00 / 广度 82.28 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance mentions bStocks | BSC | 加速中 | 强度 76.90 | 质量 66.81
-  - 主题摘要：Binance official account tweeted about 'bStocks', likely referring to the business news aggregator or a specific market reference, sparking curiosity about the term's context in c…
-  - 资金 100.00 / 广度 72.51 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Hunt for Number 9 | BSC | 加速中 | 强度 76.57 | 质量 73.16
-  - 主题摘要：Binance发起2026世界杯营销活动，通过寻找象征核心地位的“9号球员”概念，结合足球热点与加密货币社区互动，旨在提升品牌全球影响力并激发社区参与热情。
-  - 资金 100.00 / 广度 80.34 / 确认 38.88 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mr. Turtle's Post | Solana | 降温中 | 强度 76.43 | 质量 62.77
+- Mr. Turtle's Post | Solana | 加速中 | 强度 79.66 | 质量 65.85
   - 主题摘要：According to Mr. Turtle's post, the author shared a brief message stating 'let’s try this again', indicating a potential reattempt or renewed effort regarding a previous activity…
-  - 资金 100.00 / 广度 81.81 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged World Of Claudecraft Meme Image | Solana | 加速中 | 强度 76.03 | 质量 64.19
-  - 主题摘要：According to Chubby♨️'s post, a user shared a GitHub link for 'World of Claudecraft,' described as an open-source, multiplayer World of Warcraft-style game vibe-coded with AI. The…
-  - 资金 100.00 / 广度 76.94 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.21 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bloxen Beta Launch | Solana | 加速中 | 强度 74.39 | 质量 62.46
-  - 主题摘要：According to Bloxen's post, the BLOXEN beta is now live on Solana. The platform offers a persistent voxel world where users can build, mine, hunt, duel, and fish. The $BLX token i…
-  - 资金 100.00 / 广度 76.20 / 确认 24.48 / 脆弱性 24.00
+- GOOD WORKING GAME NO CAP | Solana | 已确认 | 强度 78.47 | 质量 67.34
+  - 主题摘要：According to Alex Macro's post, he is launching a token inspired by the game Islands. The plan involves using token fees for in-game Gold buybacks to create demand. This informati…
+  - 资金 100.00 / 广度 82.56 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- PROVE IT | Solana | 加速中 | 强度 76.92 | 质量 66.29
+  - 主题摘要：PROVE token draws inspiration from the iconic 'Prove It' scene from the 1995 film 'The Matrix', featuring Keanu Reeves. The token's logo features a character with glowing eyes, re…
+  - 资金 100.00 / 广度 79.76 / 确认 27.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Flying Sending Banana Meme | Solana | 降温中 | 强度 73.55 | 质量 63.53
-  - 主题摘要：According to thedev's post, a viral video of a fan throwing a banana in New York is being used as a Meme image to promote the alleged Flying Sending Banana token. The author claim…
-  - 资金 98.93 / 广度 62.46 / 确认 4.32 / 脆弱性 14.00
+- Binance Hunt for Number 9 | BSC | 加速中 | 强度 76.57 | 质量 74.52
+  - 主题摘要：Binance发起2026世界杯营销活动，通过寻找象征核心地位的“9号球员”概念，结合足球热点与加密货币社区互动，旨在提升品牌全球影响力并激发社区参与热情。
+  - 资金 100.00 / 广度 80.10 / 确认 38.88 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Musk x Cleese: Pro-Stabbing | Solana | 降温中 | 强度 76.15 | 质量 64.24
+  - 主题摘要：Elon Musk retweeted John Cleese's joke about 'pro-stabbing' politicians, creating a viral meme around political satire and absurdity. The phrase 'pro-stabbing' became a humorous s…
+  - 资金 100.00 / 广度 76.36 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- J3NNY Discusses Bitcoin Bob | Solana | 加速中 | 强度 73.51 | 质量 62.36
+- Alleged Fable Prince Meme | Solana | 加速中 | 强度 75.41 | 质量 69.56
+  - 主题摘要：Multiple tokens named 「Prince」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.10 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- J3NNY Discusses Bitcoin Bob | Solana | 加速中 | 强度 75.05 | 质量 62.91
   - 主题摘要：According to J3NNY's post, Bitcoin Bob is identified as the first form of online cryptocurrency education. J3NNY references an article by Dave Hollis regarding the origins of Bitc…
-  - 资金 100.00 / 广度 76.83 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.84 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FTFA | Solana | 降温中 | 强度 73.39 | 质量 62.73
-  - 主题摘要：FTFA token draws inspiration from the concept of fostering future generations, as reflected in its logo showing a woman walking down a path lined with American flags and strollers…
-  - 资金 100.00 / 广度 42.23 / 确认 9.36 / 脆弱性 14.00
+- Alleged Abao Meme Image | BSC | 降温中 | 强度 74.32 | 质量 64.35
+  - 主题摘要：According to Fdhhhhla's post, the individual claims to have released the latest logo for the 'AI version of Alipay' and describes it as the final form of 'Abao'. The post includes…
+  - 资金 100.00 / 广度 66.79 / 确认 15.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蝴蝶股东首创质押分红金库来当蝴蝶股东 | BSC | 加速中 | 强度 72.67 | 质量 56.96
-  - 主题摘要：Multiple tokens named 「蝴蝶股东」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.91 / 确认 23.76 / 脆弱性 14.00
+- Bloxen Beta Launch | Solana | 加速中 | 强度 74.22 | 质量 62.38
+  - 主题摘要：According to Bloxen's post, the BLOXEN beta is now live on Solana. The platform offers a persistent voxel world where users can build, mine, hunt, duel, and fish. The $BLX token i…
+  - 资金 100.00 / 广度 76.58 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 黄金人生 | BSC | 加速中 | 强度 72.30 | 质量 57.45
-  - 主题摘要：Multiple tokens named 「黄金人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.19 / 确认 24.48 / 脆弱性 14.00
+- SPCX69 | Solana | 加速中 | 强度 73.69 | 质量 55.89
+  - 主题摘要：Multiple tokens named 「SPCX69」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.46 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ShadowX | BSC | 加速中 | 强度 71.48 | 质量 59.22
+- Synergix | BSC | 加速中 | 强度 72.46 | 质量 56.94
+  - 主题摘要：SYNERGIX is a token designed to enhance decentralized applications through cross-chain interoperability. It focuses on enabling seamless data sharing and asset transfer across mul…
+  - 资金 100.00 / 广度 65.82 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- ShadowX | BSC | 加速中 | 强度 70.90 | 质量 58.01
   - 主题摘要：SHDX (ShadowX) is a meme token inspired by the X platform's community-driven culture. It aims to capture the playful spirit of crypto culture while building a community around hum…
-  - 资金 100.00 / 广度 74.47 / 确认 24.48 / 脆弱性 31.44
+  - 资金 100.00 / 广度 74.94 / 确认 24.48 / 脆弱性 31.72
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 燃烧精灵 | BSC | 降温中 | 强度 70.94 | 质量 60.22
-  - 主题摘要：According to 燃烧精灵's post, the author shared a link to a Telegram group to promote the 'Ranshao Jingling' project. The project utilizes a tax contract mechanism on the FLAP platfor…
-  - 资金 100.00 / 广度 68.33 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 黄金人生 | BSC | 加速中 | 强度 70.64 | 质量 57.31
+  - 主题摘要：Multiple tokens named 「黄金人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.32 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:FIST Dual-Token Media Coverage | BSC | 加速中 | 强度 70.05 | 质量 67.95
+  - 主题摘要：According to FIST 🦋 双币创世 | 盘古万倍正统's post, the FIST dual-token project has been reported by multiple media outlets including Binance Square, HTX, Gate, Futu, Techub, MyToken, Follo…
+  - 资金 93.76 / 广度 72.06 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.58，其中已确认叙事 0 个。
-- Binance mentions bStocks 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Mr. Turtle's Post 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.2，其中已确认叙事 1 个。
+- Alleged Fable Prince Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Musk x Cleese: Pro-Stabbing 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Hunt for Number 9 | 质量 73.16 | 可交易性 100.00 | 风险 低
-- Binance mentions bStocks | 质量 66.81 | 可交易性 75.39 | 风险 低
-- PROVE IT | 质量 66.49 | 可交易性 61.94 | 风险 低
-- GOOD WORKING GAME NO CAP | 质量 65.90 | 可交易性 59.42 | 风险 低
-- Alleged World Of Claudecraft Meme Image | 质量 64.19 | 可交易性 59.08 | 风险 低
-- Alleged Flying Sending Banana Meme | 质量 63.53 | 可交易性 86.13 | 风险 低
-- Mr. Turtle's Post | 质量 62.77 | 可交易性 55.28 | 风险 低
-- FTFA | 质量 62.73 | 可交易性 100.00 | 风险 低
-- Bloxen Beta Launch | 质量 62.46 | 可交易性 54.06 | 风险 低
-- J3NNY Discusses Bitcoin Bob | 质量 62.36 | 可交易性 53.07 | 风险 低
+- Binance Hunt for Number 9 | 质量 74.52 | 可交易性 100.00 | 风险 低
+- Alleged Fable Prince Meme | 质量 69.56 | 可交易性 71.80 | 风险 低
+- Uncertain:FIST Dual-Token Media Coverage | 质量 67.95 | 可交易性 100.00 | 风险 低
+- GOOD WORKING GAME NO CAP | 质量 67.34 | 可交易性 59.21 | 风险 低
+- PROVE IT | 质量 66.29 | 可交易性 61.07 | 风险 低
+- Mr. Turtle's Post | 质量 65.85 | 可交易性 58.33 | 风险 低
+- Alleged Abao Meme Image | 质量 64.35 | 可交易性 76.87 | 风险 低
+- Musk x Cleese: Pro-Stabbing | 质量 64.24 | 可交易性 70.92 | 风险 低
+- J3NNY Discusses Bitcoin Bob | 质量 62.91 | 可交易性 53.92 | 风险 低
+- Bloxen Beta Launch | 质量 62.38 | 可交易性 53.40 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：PROVE IT（Solana，分数 79.41）
-2. 共振最强代币：VELVET（BSC，共振 100.0）
-3. 记忆层变化：Binance mentions bStocks 当前为“新出现”
+1. 当前最强叙事：Mr. Turtle's Post（Solana，分数 79.66）
+2. 共振最强代币：SKYAI（BSC，共振 100.0）
+3. 记忆层变化：Musk x Cleese: Pro-Stabbing 当前为“新出现”
 4. 最新官方催化：Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12
 #Binance #NarrativeOS #OpenClaw
