@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-14T14:35:40.461692+00:00
+- 生成时间：2026-06-14T16:09:17.838749+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Sanctum，所在链为 Solana，叙事强度 83.71。
-- 当前平均叙事强度为 78.43，其中已确认叙事 1 个。
+- 当前最强叙事是 Alleged Trump Crypto Payment，所在链为 Solana，叙事强度 86.73。
+- 当前平均叙事强度为 76.91，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 SHDX，来自 BSC，共振分数 100.0。
-- 记忆层显示 Sanctum 当前处于“新出现”状态。
+- 记忆层显示 Alleged Kindness Token Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Kindness Token Launch，伪叙事风险 47.79。
 - 最新官方催化来自 新币上新：Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12。
 
 ## 叙事雷达
 
-- Sanctum | Solana | 降温中 | 强度 83.71 | 质量 74.11
-  - 主题摘要：Multiple tokens named 「CLOUD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 99.49 / 广度 80.16 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 2P2T Minecraft Economy | Solana | 降温中 | 强度 82.36 | 质量 77.29
-  - 主题摘要：According to Marcos cardoso's post, the $STEAK token is allegedly being launched on the Stake platform with a 100% APR staking offer. This information is unverified. Please exerci…
-  - 资金 100.00 / 广度 90.77 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Trump Crypto Payment | Solana | 降温中 | 强度 80.84 | 质量 73.44
+- Alleged Trump Crypto Payment | Solana | 降温中 | 强度 86.73 | 质量 79.34
   - 主题摘要：According to abrawlerj (redemption arc)'s post, Trump is allegedly paying UFC fighters in his own cryptocurrency, USD1, to promote its adoption among millions of viewers. This inf…
-  - 资金 100.00 / 广度 79.27 / 确认 13.00 / 脆弱性 14.00
+  - 资金 100.00 / 广度 92.28 / 确认 16.60 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PROVE IT | Solana | 已确认 | 强度 78.11 | 质量 66.39
-  - 主题摘要：PROVE token draws inspiration from the iconic 'Prove It' scene from the 1995 film 'The Matrix', featuring Keanu Reeves. The token's logo features a character with glowing eyes, re…
-  - 资金 100.00 / 广度 79.95 / 确认 31.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Hunt for Number 9 | BSC | 加速中 | 强度 76.66 | 质量 72.18
-  - 主题摘要：Binance发起2026世界杯营销活动，通过寻找象征核心地位的“9号球员”概念，结合足球热点与加密货币社区互动，旨在提升品牌全球影响力并激发社区参与热情。
-  - 资金 100.00 / 广度 80.01 / 确认 38.88 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Musk x Cleese: Pro-Stabbing | Solana | 加速中 | 强度 76.15 | 质量 64.96
-  - 主题摘要：Elon Musk retweeted John Cleese's joke about 'pro-stabbing' politicians, creating a viral meme around political satire and absurdity. The phrase 'pro-stabbing' became a humorous s…
-  - 资金 100.00 / 广度 78.96 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Tommy Robinson Token | Solana | 加速中 | 强度 76.05 | 质量 65.10
-  - 主题摘要：According to visions's post, Tommy Robinson was arrested and requested donations for legal fees. Concurrently, tokens named TOMMY and UTK, referencing this event, were deployed. T…
-  - 资金 100.00 / 广度 80.87 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SPCX69 | Solana | 加速中 | 强度 75.57 | 质量 58.61
+- 2P2T Minecraft Economy | Solana | 降温中 | 强度 82.93 | 质量 78.95
+  - 主题摘要：According to Marcos cardoso's post, the $STEAK token is allegedly being launched on the Stake platform with a 100% APR staking offer. This information is unverified. Please exerci…
+  - 资金 100.00 / 广度 91.01 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Kindness Token Launch | Solana | 点火期 | 强度 75.78 | 质量 69.81
+  - 主题摘要：According to The Quantski's post, the author claims to have launched the $Kindness token, stating that fees will be donated to the Operation Kindness charity. The post encourages…
+  - 资金 100.00 / 广度 65.85 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- SPCX69 | Solana | 加速中 | 强度 75.27 | 质量 58.22
   - 主题摘要：Multiple tokens named 「SPCX69」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.76 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 67.84 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Meme Coin Launch | Solana | 加速中 | 强度 74.63 | 质量 60.21
-  - 主题摘要：According to unkwndevs's post, the creator is allegedly launching a Meme token named $Tortellini on the PUMP platform, citing a viral TikTok turtle account as inspiration. This in…
-  - 资金 100.00 / 广度 74.29 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Synergix | BSC | 加速中 | 强度 73.00 | 质量 59.55
-  - 主题摘要：SYNERGIX is a token designed to enhance decentralized applications through cross-chain interoperability. It focuses on enabling seamless data sharing and asset transfer across mul…
-  - 资金 100.00 / 广度 69.86 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ShadowX | BSC | 加速中 | 强度 72.55 | 质量 60.53
+- ShadowX | BSC | 加速中 | 强度 75.07 | 质量 60.38
   - 主题摘要：SHDX (ShadowX) is a meme token inspired by the X platform's community-driven culture. It aims to capture the playful spirit of crypto culture while building a community around hum…
-  - 资金 100.00 / 广度 74.73 / 确认 30.96 / 脆弱性 30.52
+  - 资金 100.00 / 广度 74.67 / 确认 30.96 / 脆弱性 20.42
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 黄金人生 | BSC | 加速中 | 强度 69.84 | 质量 56.98
+- Binance Hunt for Number 9 | BSC | 加速中 | 强度 74.96 | 质量 71.64
+  - 主题摘要：Binance发起2026世界杯营销活动，通过寻找象征核心地位的“9号球员”概念，结合足球热点与加密货币社区互动，旨在提升品牌全球影响力并激发社区参与热情。
+  - 资金 100.00 / 广度 79.26 / 确认 38.88 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- XvnSol. Shares Viral Cat Meme | Solana | 降温中 | 强度 74.73 | 质量 63.67
+  - 主题摘要：According to XvnSol.'s post, a viral video of a cat with over 50 million views is used to depict the mood of traders currently in the market. The post references this Meme image t…
+  - 资金 100.00 / 广度 53.38 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Synergix | BSC | 加速中 | 强度 74.54 | 质量 59.79
+  - 主题摘要：SYNERGIX is a token designed to enhance decentralized applications through cross-chain interoperability. It focuses on enabling seamless data sharing and asset transfer across mul…
+  - 资金 100.00 / 广度 70.10 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Fable Prince Meme | Solana | 加速中 | 强度 74.16 | 质量 69.08
+  - 主题摘要：Multiple tokens named 「Prince」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 99.79 / 广度 82.07 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- J3NNY Discusses Bitcoin Bob | Solana | 加速中 | 强度 72.91 | 质量 62.71
+  - 主题摘要：According to J3NNY's post, Bitcoin Bob is identified as the first form of online cryptocurrency education. J3NNY references an article by Dave Hollis regarding the origins of Bitc…
+  - 资金 100.00 / 广度 78.43 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- USWR | Solana | 降温中 | 强度 72.80 | 质量 60.12
+  - 主题摘要：USWR token draws inspiration from the United States Water Reserve, featuring a logo resembling the U.S. Treasury seal with a water droplet symbol. The token aims to support water…
+  - 资金 100.00 / 广度 46.34 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 黄金人生 | BSC | 加速中 | 强度 71.65 | 质量 57.60
   - 主题摘要：Multiple tokens named 「黄金人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.26 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.52 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:FIST Dual-Token Media Coverage | BSC | 加速中 | 强度 68.20 | 质量 66.78
+- Uncertain:FIST Dual-Token Media Coverage | BSC | 加速中 | 强度 70.95 | 质量 67.29
   - 主题摘要：According to FIST 🦋 双币创世 | 盘古万倍正统's post, the FIST dual-token project has been reported by multiple media outlets including Binance Square, HTX, Gate, Futu, Techub, MyToken, Follo…
-  - 资金 95.88 / 广度 67.80 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 68.08 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 足球小将 | BSC | 加速中 | 强度 66.64 | 质量 54.48
-  - 主题摘要：Multiple tokens named 「足球小将」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.82 / 确认 24.48 / 脆弱性 24.00
+- 皮皮虾 | BSC | 加速中 | 强度 69.86 | 质量 53.62
+  - 主题摘要：皮皮虾 (Pipi Shrimp) is a meme token inspired by the popular internet character from the Chinese animated series 'Pipi Shrimp'. It aims to build a community around internet culture a…
+  - 资金 100.00 / 广度 62.38 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.43，其中已确认叙事 1 个。
-- Musk x Cleese: Pro-Stabbing 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Sanctum 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.91，其中已确认叙事 0 个。
+- Alleged Kindness Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Trump Crypto Payment 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- 2P2T Minecraft Economy | 质量 77.29 | 可交易性 100.00 | 风险 低
-- Sanctum | 质量 74.11 | 可交易性 100.00 | 风险 低
-- Alleged Trump Crypto Payment | 质量 73.44 | 可交易性 96.01 | 风险 低
-- Binance Hunt for Number 9 | 质量 72.18 | 可交易性 100.00 | 风险 低
-- Uncertain:FIST Dual-Token Media Coverage | 质量 66.78 | 可交易性 100.00 | 风险 低
-- PROVE IT | 质量 66.39 | 可交易性 58.57 | 风险 低
-- Alleged Tommy Robinson Token | 质量 65.10 | 可交易性 61.33 | 风险 低
-- Musk x Cleese: Pro-Stabbing | 质量 64.96 | 可交易性 62.80 | 风险 低
-- ShadowX | 质量 60.53 | 可交易性 50.22 | 风险 低
-- Alleged Meme Coin Launch | 质量 60.21 | 可交易性 49.00 | 风险 低
+- Alleged Trump Crypto Payment | 质量 79.34 | 可交易性 100.00 | 风险 低
+- 2P2T Minecraft Economy | 质量 78.95 | 可交易性 100.00 | 风险 低
+- Binance Hunt for Number 9 | 质量 71.64 | 可交易性 100.00 | 风险 低
+- Alleged Kindness Token Launch | 质量 69.81 | 可交易性 100.00 | 风险 低
+- Alleged Fable Prince Meme | 质量 69.08 | 可交易性 70.24 | 风险 低
+- Uncertain:FIST Dual-Token Media Coverage | 质量 67.29 | 可交易性 100.00 | 风险 低
+- XvnSol. Shares Viral Cat Meme | 质量 63.67 | 可交易性 92.00 | 风险 低
+- J3NNY Discusses Bitcoin Bob | 质量 62.71 | 可交易性 52.65 | 风险 低
+- ShadowX | 质量 60.38 | 可交易性 50.94 | 风险 低
+- USWR | 质量 60.12 | 可交易性 87.21 | 风险 低
 
 ## 伪叙事风险
 
+- Alleged Kindness Token Launch | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Sanctum（Solana，分数 83.71）
+1. 当前最强叙事：Alleged Trump Crypto Payment（Solana，分数 86.73）
 2. 共振最强代币：SHDX（BSC，共振 100.0）
-3. 记忆层变化：Sanctum 当前为“新出现”
+3. 记忆层变化：Alleged Kindness Token Launch 当前为“新出现”
 4. 最新官方催化：Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12
 #Binance #NarrativeOS #OpenClaw
