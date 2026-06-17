@@ -1,100 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-17T18:00:02.038421+00:00
+- 生成时间：2026-06-17T20:11:38.854264+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Launch of WESLEY Patriotic Goat Meme，所在链为 Solana，叙事强度 84.26。
-- 当前平均叙事强度为 81.52，其中已确认叙事 0 个。
+- 当前最强叙事是 Pump.fun Replying to Mert，所在链为 Solana，叙事强度 82.72。
+- 当前平均叙事强度为 80.64，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 Yasmine 当前处于“新出现”状态。
+- 记忆层显示 Riviera 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Binance VIP Recruitment，伪叙事风险 48.03。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Starpower (STAR) and Share $200K Worth of Rewards (2026-06-17)。
 
 ## 叙事雷达
 
-- Alleged Launch of WESLEY Patriotic Goat Meme | Solana | 加速中 | 强度 84.26 | 质量 77.76
-  - 主题摘要：According to SIZEY's post, the user shared a Meme image titled 'Wesley - The Patriotic Goat' referencing a Fox Sports article about Jameis Winston. The post associates the name We…
-  - 资金 100.00 / 广度 86.95 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pump.fun Replying to Mert | Solana | 加速中 | 强度 83.71 | 质量 77.44
+- Pump.fun Replying to Mert | Solana | 加速中 | 强度 82.72 | 质量 76.78
   - 主题摘要：According to Pump.fun's post, the official account replied to Mert with a rhetorical question regarding the return of market volatility, referencing the phrase 'does a bear shit i…
-  - 资金 100.00 / 广度 85.56 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.35 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yasmine | Solana | 降温中 | 强度 82.72 | 质量 72.45
-  - 主题摘要：Multiple tokens named 「YASMINE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.62 / 确认 9.36 / 脆弱性 14.00
+- Riviera | Solana | 降温中 | 强度 82.08 | 质量 71.72
+  - 主题摘要：Multiple tokens named 「RIV」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.93 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AOAS | Solana | 降温中 | 强度 81.22 | 质量 72.11
-  - 主题摘要：AOAS token draws inspiration from American oil industry themes, featuring a logo with a figure in front of oil rigs and American flags. The token's name suggests it represents off…
-  - 资金 100.00 / 广度 73.49 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Comments on SPCX Short | Solana | 加速中 | 强度 80.93 | 质量 78.79
+- FINN Launches $100K Challenge | Solana | 加速中 | 强度 80.85 | 质量 79.14
+  - 主题摘要：Multiple tokens named 「MEMESTOCK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.98 / 确认 20.20 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ansem Comments on SPCX Short | Solana | 加速中 | 强度 80.53 | 质量 78.79
   - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.81 / 确认 20.20 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.83 / 确认 20.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FINN Launches $100K Challenge | Solana | 加速中 | 强度 80.21 | 质量 79.24
-  - 主题摘要：Multiple tokens named 「SPCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.32 / 确认 20.20 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Speedrun to 1m | Solana | 加速中 | 强度 79.67 | 质量 77.70
-  - 主题摘要：Multiple tokens named 「SPCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.17 / 确认 20.20 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SpaceMoon | BSC | 已确认 | 强度 79.60 | 质量 67.42
-  - 主题摘要：Multiple tokens named 「SPACEMOON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.73 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Trump The Boss | Solana | 降温中 | 强度 79.48 | 质量 69.94
-  - 主题摘要：Multiple tokens named 「TRUMPBOSS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.27 / 确认 9.36 / 脆弱性 14.00
+- Yasmine | Solana | 降温中 | 强度 80.38 | 质量 75.33
+  - 主题摘要：Multiple tokens named 「YASMINE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.23 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Comments on Crypto Dispute | BSC | 加速中 | 强度 77.75 | 质量 78.18
-  - 主题摘要：Yi He commented on the dispute between CZ and Star Xu regarding perpetual contracts, comparing the situation to the 'Crab Effect' and human nature, while drawing parallels to hist…
-  - 资金 100.00 / 广度 86.00 / 确认 28.08 / 脆弱性 24.00
+- AOAS | Solana | 降温中 | 强度 79.97 | 质量 72.07
+  - 主题摘要：AOAS token draws inspiration from American oil industry themes, featuring a logo with a figure in front of oil rigs and American flags. The token's name suggests it represents off…
+  - 资金 100.00 / 广度 73.36 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Speedrun to 1m | Solana | 加速中 | 强度 79.56 | 质量 78.03
+  - 主题摘要：Multiple tokens named 「SPCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.27 / 确认 20.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- water | BSC | 加速中 | 强度 77.00 | 质量 62.97
-  - 主题摘要：矿泉水 (water) is a meme token inspired by the popular 'Water' meme from 2024. It gained attention through a viral post by @meme_123 on X, featuring a humorous water bottle image. Th…
-  - 资金 100.00 / 广度 70.09 / 确认 28.08 / 脆弱性 14.00
+- Alleged Launch of WESLEY Patriotic Goat Meme | Solana | 加速中 | 强度 79.01 | 质量 75.94
+  - 主题摘要：According to SIZEY's post, the individual shared a Meme image titled 'Wesley - The Patriotic Goat' in response to a tweet about Jameis Winston. The post references a Fox Sports ar…
+  - 资金 100.00 / 广度 86.52 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance VIP Recruitment | BSC | 加速中 | 强度 75.17 | 质量 67.70
+- SpaceMoon | BSC | 加速中 | 强度 76.83 | 质量 66.98
+  - 主题摘要：Multiple tokens named 「SPACEMOON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.57 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Bitcoin | BSC | 降温中 | 强度 76.54 | 质量 67.50
+  - 主题摘要：Multiple tokens named 「ΒΤС」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 58.12 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance VIP Recruitment | BSC | 加速中 | 强度 75.16 | 质量 67.59
   - 主题摘要：Binance Chinese official account promotes its VIP service upgrade and affiliate referral program, emphasizing 1-on-1 service and higher rebates.
-  - 资金 100.00 / 广度 87.22 / 确认 23.76 / 脆弱性 59.69
+  - 资金 100.00 / 广度 87.14 / 确认 23.76 / 脆弱性 59.69
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Korico | BSC | 加速中 | 强度 74.16 | 质量 58.40
-  - 主题摘要：Korico is a meme token inspired by a white dog with floppy ears, as evident in its logo. The token's name and description 'Yi's Dog' suggest a playful, community-driven approach.…
-  - 资金 100.00 / 广度 74.34 / 确认 24.48 / 脆弱性 14.00
+- Yi He Comments on Crypto Dispute | BSC | 加速中 | 强度 74.87 | 质量 74.25
+  - 主题摘要：Yi He commented on the dispute between CZ and Star Xu regarding perpetual contracts, comparing the situation to the 'Crab Effect' and human nature, while drawing parallels to hist…
+  - 资金 100.00 / 广度 86.17 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Marscoin | BSC | 加速中 | 强度 73.38 | 质量 64.87
-  - 主题摘要：Marscoin (Mars) is a community-driven token inspired by the Mars mission. It aims to support space exploration initiatives, particularly the Mars 2020 Perseverance rover mission.…
-  - 资金 100.00 / 广度 82.89 / 确认 24.48 / 脆弱性 24.00
+- water | BSC | 加速中 | 强度 74.31 | 质量 61.69
+  - 主题摘要：矿泉水 (water) is a meme token inspired by the popular 'Water' meme from 2024. It gained attention through a viral post by @meme_123 on X, featuring a humorous water bottle image. Th…
+  - 资金 100.00 / 广度 70.18 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- MEMEMARKET | BSC | 加速中 | 强度 73.87 | 质量 57.89
+  - 主题摘要：Multiple tokens named 「MEMEMARKET」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.58 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.52，其中已确认叙事 0 个。
-- Ansem Comments on SPCX Short 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Yasmine 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.64，其中已确认叙事 0 个。
+- MEMEMARKET 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Riviera 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- FINN Launches $100K Challenge | 质量 79.24 | 可交易性 100.00 | 风险 低
+- FINN Launches $100K Challenge | 质量 79.14 | 可交易性 100.00 | 风险 低
 - Ansem Comments on SPCX Short | 质量 78.79 | 可交易性 100.00 | 风险 低
-- Yi He Comments on Crypto Dispute | 质量 78.18 | 可交易性 100.00 | 风险 低
-- Alleged Launch of WESLEY Patriotic Goat Meme | 质量 77.76 | 可交易性 97.48 | 风险 低
-- Speedrun to 1m | 质量 77.70 | 可交易性 100.00 | 风险 低
-- Pump.fun Replying to Mert | 质量 77.44 | 可交易性 94.61 | 风险 低
-- Yasmine | 质量 72.45 | 可交易性 100.00 | 风险 低
-- AOAS | 质量 72.11 | 可交易性 100.00 | 风险 低
-- Trump The Boss | 质量 69.94 | 可交易性 100.00 | 风险 低
-- Binance VIP Recruitment | 质量 67.70 | 可交易性 61.01 | 风险 低
+- Speedrun to 1m | 质量 78.03 | 可交易性 100.00 | 风险 低
+- Pump.fun Replying to Mert | 质量 76.78 | 可交易性 92.64 | 风险 低
+- Alleged Launch of WESLEY Patriotic Goat Meme | 质量 75.94 | 可交易性 91.84 | 风险 低
+- Yasmine | 质量 75.33 | 可交易性 100.00 | 风险 低
+- Yi He Comments on Crypto Dispute | 质量 74.25 | 可交易性 100.00 | 风险 低
+- AOAS | 质量 72.07 | 可交易性 100.00 | 风险 低
+- Riviera | 质量 71.72 | 可交易性 100.00 | 风险 低
+- Binance VIP Recruitment | 质量 67.59 | 可交易性 60.73 | 风险 低
 
 ## 伪叙事风险
 
 - Binance VIP Recruitment | 风险 48.03 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Yasmine | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- AOAS | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -107,7 +109,7 @@
 - SPCX | Solana | 看多 | 新鲜度 87.81 | 暂无直接叙事映射
 - XP | Solana | 看多 | 新鲜度 85.83 | 暂无直接叙事映射
 - MANLET | Solana | 看多 | 新鲜度 81.59 | 暂无直接叙事映射
-- CUMROCKET | Solana | 看多 | 新鲜度 69.60 | 暂无直接叙事映射
+- MEEP | Solana | 看多 | 新鲜度 72.70 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Launch of WESLEY Patriotic Goat Meme（Solana，分数 84.26）
+1. 当前最强叙事：Pump.fun Replying to Mert（Solana，分数 82.72）
 2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：Yasmine 当前为“新出现”
+3. 记忆层变化：Riviera 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Starpower (STAR) and Share $200K Worth of Rewards (2026-06-17)
 #Binance #NarrativeOS #OpenClaw
