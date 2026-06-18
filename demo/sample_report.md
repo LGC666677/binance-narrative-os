@@ -1,107 +1,107 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-18T19:52:41.855091+00:00
+- 生成时间：2026-06-18T21:53:12.248915+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged GTA6 Meme Coin，所在链为 Solana，叙事强度 86.04。
-- 当前平均叙事强度为 78.59，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 GENIUS，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged GTA6 Meme Coin 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Grand Meme Coin，伪叙事风险 45.71。
+- 当前最强叙事是 Alleged GTA6 Meme Coin，所在链为 Solana，叙事强度 88.3。
+- 当前平均叙事强度为 78.55，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
+- 记忆层显示 Pump.fun: Retire Before Game Drops 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Grand Meme Coin，伪叙事风险 41.69。
 - 最新官方催化来自 新币上新：Binance Will Add Re (RE) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures。
 
 ## 叙事雷达
 
-- Alleged GTA6 Meme Coin | Solana | 加速中 | 强度 86.04 | 质量 83.07
+- Alleged GTA6 Meme Coin | Solana | 加速中 | 强度 88.30 | 质量 82.44
   - 主题摘要：Multiple tokens named 「GTAVI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 98.95 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- HYPEX Shares GTA 6 Cover Art | Solana | 已确认 | 强度 79.86 | 质量 73.17
-  - 主题摘要：According to HYPEX's post, the official cover art for Grand Theft Auto VI was shared, with pre-orders beginning on June 25. This announcement relates to the Grand Theft Auto VI fr…
-  - 资金 100.00 / 广度 85.62 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Ansem Criticizes Community Trading Behavior | Solana | 降温中 | 强度 78.65 | 质量 69.29
+- Pump.fun: Retire Before Game Drops | Solana | 降温中 | 强度 82.51 | 质量 74.84
+  - 主题摘要：According to Pump.fun's post, the entity claims it will retire before the launch of a token named 'this game' (GAME). This statement suggests a significant delay or skepticism reg…
+  - 资金 100.00 / 广度 87.47 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ansem Criticizes Community Trading Behavior | Solana | 加速中 | 强度 77.57 | 质量 74.60
   - 主题摘要：According to Ansem's post, he criticized community members for unrealistic trading expectations, specifically targeting the desire to buy coins at a $100k market cap and sell at $…
-  - 资金 100.00 / 广度 76.49 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.78 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged $1B Speed Run on Bags | Solana | 加速中 | 强度 77.39 | 质量 73.88
+  - 主题摘要：According to Riskbets's post, the developer claims that launching the 'Bags' token on Pump is highly achievable for a $1 billion market cap, citing a locked developer supply equiv…
+  - 资金 100.00 / 广度 79.15 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- B/R Football World Cup Meme | Solana | 降温中 | 强度 77.04 | 质量 67.16
+  - 主题摘要：According to B/R Football's post, the 2026 World Cup features Meme images of Merlin the Mexican duck and Donny the Scottish duck, highlighting popular cultural symbols associated…
+  - 资金 100.00 / 广度 77.87 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $1B Speed Run on Bags | Solana | 降温中 | 强度 78.42 | 质量 68.49
-  - 主题摘要：According to Riskbets's post, the developer claims that achieving a $1 billion market cap for the Bags token is achievable by targeting a $10-12 million market cap on Pump.fun, su…
-  - 资金 100.00 / 广度 74.55 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Grand Meme Coin | Solana | 点火期 | 强度 77.37 | 质量 72.58
+- Grand Meme Coin | Solana | 降温中 | 强度 76.14 | 质量 64.15
   - 主题摘要：Multiple tokens named 「GMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.07 / 确认 9.36 / 脆弱性 10.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Kins Strategy | Solana | 加速中 | 强度 76.59 | 质量 72.39
-  - 主题摘要：Multiple tokens named 「KSTR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 63.36 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Shadow Discusses Meme Coin Psychology | Solana | 降温中 | 强度 75.94 | 质量 64.89
+  - 资金 97.95 / 广度 73.21 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Shadow Discusses Meme Coin Psychology | Solana | 加速中 | 强度 74.76 | 质量 69.89
   - 主题摘要：According to Shadow's post, the author argues that a multi-billion dollar market cap is necessary for meme coins to sustain investor holding periods. Shadow claims that without su…
-  - 资金 100.00 / 广度 71.28 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Speedycat Token Launch | Solana | 降温中 | 强度 75.83 | 质量 66.74
-  - 主题摘要：According to Speedycat's post, the author claims to have launched a token and built a website for the Speedycat meme, which originated from a 2005 IRC chatroom. This information i…
-  - 资金 100.00 / 广度 58.90 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 战略储备 | BSC | 加速中 | 强度 73.62 | 质量 58.94
+  - 资金 100.00 / 广度 76.56 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Mr. BlankFace Discusses Chicken Shrimp Meme | Solana | 加速中 | 强度 74.71 | 质量 63.09
+  - 主题摘要：According to Mr. BlankFace's post, he criticized other projects for lacking technology, onboarding, and lore, while praising chicken shrimp as a quality Meme with good technology.
+  - 资金 100.00 / 广度 78.64 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 战略储备 | BSC | 加速中 | 强度 74.31 | 质量 60.09
   - 主题摘要：Multiple tokens named 「战略储备」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.73 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.50 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- YZi Labs BNB Chain Residency | BSC | 加速中 | 强度 73.61 | 质量 69.44
-  - 主题摘要：According to YZi Labs's post, the organization is promoting the EASY Residency S4 program for developers building on the BNB Chain. The initiative offers dedicated support, deep o…
-  - 资金 100.00 / 广度 79.07 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Xiaogudong Token Issuance | BSC | 加速中 | 强度 72.66 | 质量 61.16
-  - 主题摘要：According to 小股东's post, the 'Adopt a Cow' genesis project claims to make everyone a shareholder with an open treasury. It describes a mother-child token model with unlimited buyb…
-  - 资金 100.00 / 广度 76.41 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- H Diamond Alliance | BSC | 加速中 | 强度 71.35 | 质量 59.45
-  - 主题摘要：Multiple tokens named 「HDMA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.89 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Aster Dog分红Aster | BSC | 加速中 | 强度 69.84 | 质量 57.37
+- Aster Dog分红Aster | BSC | 加速中 | 强度 73.63 | 质量 59.71
   - 主题摘要：Multiple tokens named 「Adog」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.98 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.91 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- water | BSC | 加速中 | 强度 68.66 | 质量 56.09
-  - 主题摘要：矿泉水 (water) is a meme token inspired by the popular 'Water' meme from 2024. It gained attention through a viral post by @meme_123 on X, featuring a humorous water bottle image. Th…
-  - 资金 100.00 / 广度 70.56 / 确认 28.08 / 脆弱性 14.00
+- Alleged Xiaogudong Token Issuance | BSC | 加速中 | 强度 71.46 | 质量 61.19
+  - 主题摘要：According to 小股东's post, the 'Adopt a Cow' genesis project claims to make everyone a shareholder with an open treasury. It describes a mother-child token model with unlimited buyb…
+  - 资金 100.00 / 广度 76.50 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- YZi Labs BNB Chain Residency | BSC | 加速中 | 强度 70.77 | 质量 65.39
+  - 主题摘要：According to YZi Labs's post, the organization is promoting the EASY Residency S4 program for developers building on the BNB Chain. The initiative offers dedicated support, deep o…
+  - 资金 100.00 / 广度 79.14 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- H Diamond Alliance | BSC | 加速中 | 强度 69.99 | 质量 59.48
+  - 主题摘要：Multiple tokens named 「HDMA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.96 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Baby Asteroid | BSC | 加速中 | 强度 69.83 | 质量 57.00
+  - 主题摘要：Multiple tokens named 「BabyAsteroid」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.04 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.59，其中已确认叙事 1 个。
-- Alleged GTA6 Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Ansem Criticizes Community Trading Behavior 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.55，其中已确认叙事 0 个。
+- Mr. BlankFace Discusses Chicken Shrimp Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Pump.fun: Retire Before Game Drops 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged GTA6 Meme Coin | 质量 83.07 | 可交易性 100.00 | 风险 低
-- HYPEX Shares GTA 6 Cover Art | 质量 73.17 | 可交易性 77.68 | 风险 低
-- Grand Meme Coin | 质量 72.58 | 可交易性 100.00 | 风险 低
-- Kins Strategy | 质量 72.39 | 可交易性 100.00 | 风险 低
-- YZi Labs BNB Chain Residency | 质量 69.44 | 可交易性 72.33 | 风险 低
-- Ansem Criticizes Community Trading Behavior | 质量 69.29 | 可交易性 82.34 | 风险 低
-- Alleged $1B Speed Run on Bags | 质量 68.49 | 可交易性 81.61 | 风险 低
-- Alleged Speedycat Token Launch | 质量 66.74 | 可交易性 91.42 | 风险 低
-- Shadow Discusses Meme Coin Psychology | 质量 64.89 | 可交易性 72.89 | 风险 低
-- Alleged Xiaogudong Token Issuance | 质量 61.16 | 可交易性 49.51 | 风险 低
+- Alleged GTA6 Meme Coin | 质量 82.44 | 可交易性 100.00 | 风险 低
+- Pump.fun: Retire Before Game Drops | 质量 74.84 | 可交易性 89.86 | 风险 低
+- Ansem Criticizes Community Trading Behavior | 质量 74.60 | 可交易性 87.92 | 风险 低
+- Alleged $1B Speed Run on Bags | 质量 73.88 | 可交易性 86.54 | 风险 低
+- Shadow Discusses Meme Coin Psychology | 质量 69.89 | 可交易性 78.47 | 风险 低
+- B/R Football World Cup Meme | 质量 67.16 | 可交易性 79.14 | 风险 低
+- YZi Labs BNB Chain Residency | 质量 65.39 | 可交易性 72.13 | 风险 低
+- Grand Meme Coin | 质量 64.15 | 可交易性 96.67 | 风险 低
+- Mr. BlankFace Discusses Chicken Shrimp Meme | 质量 63.09 | 可交易性 53.72 | 风险 低
+- Alleged Xiaogudong Token Issuance | 质量 61.19 | 可交易性 49.50 | 风险 低
 
 ## 伪叙事风险
 
-- Grand Meme Coin | 风险 45.71 | 原因：近 1 小时净流入转负
+- Grand Meme Coin | 风险 41.69 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - 何子 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 螃蟹效应 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 格局 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- GTAVI | Solana | 看多 | 新鲜度 100.00 | Alleged GTA6 Meme Coin / HYPEX Shares GTA 6 Cover Art
+- GTAVI | Solana | 看多 | 新鲜度 100.00 | Alleged GTA6 Meme Coin
 - MEEP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPCX | Solana | 看多 | 新鲜度 87.81 | 暂无直接叙事映射
 - XP | Solana | 看多 | 新鲜度 85.83 | 暂无直接叙事映射
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged GTA6 Meme Coin（Solana，分数 86.04）
-2. 共振最强代币：GENIUS（BSC，共振 100.0）
-3. 记忆层变化：Alleged GTA6 Meme Coin 当前为“新出现”
+1. 当前最强叙事：Alleged GTA6 Meme Coin（Solana，分数 88.3）
+2. 共振最强代币：ASTER（BSC，共振 100.0）
+3. 记忆层变化：Pump.fun: Retire Before Game Drops 当前为“新出现”
 4. 最新官方催化：Binance Will Add Re (RE) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 #Binance #NarrativeOS #OpenClaw
