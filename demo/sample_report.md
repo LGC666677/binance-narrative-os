@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-18T21:53:12.248915+00:00
+- 生成时间：2026-06-18T23:25:47.980664+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged GTA6 Meme Coin，所在链为 Solana，叙事强度 88.3。
-- 当前平均叙事强度为 78.55，其中已确认叙事 0 个。
+- 当前最强叙事是 Cheese Game，所在链为 Solana，叙事强度 84.3。
+- 当前平均叙事强度为 82.77，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 Pump.fun: Retire Before Game Drops 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Grand Meme Coin，伪叙事风险 41.69。
+- 记忆层显示 Cheese Game 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Pump.fun: Retire Before Game Drops，伪叙事风险 47.23。
 - 最新官方催化来自 新币上新：Binance Will Add Re (RE) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures。
 
 ## 叙事雷达
 
-- Alleged GTA6 Meme Coin | Solana | 加速中 | 强度 88.30 | 质量 82.44
+- Cheese Game | Solana | 降温中 | 强度 84.30 | 质量 76.28
+  - 主题摘要：According to Cheese Game's post, the project is launching in the next few hours. The post encourages users to stake, earn, and raid to accumulate Cheese, stating that early player…
+  - 资金 100.00 / 广度 82.11 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged GTA6 Meme Coin | Solana | 加速中 | 强度 84.25 | 质量 82.44
   - 主题摘要：Multiple tokens named 「GTAVI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pump.fun: Retire Before Game Drops | Solana | 降温中 | 强度 82.51 | 质量 74.84
+- Tim Sweeney Supports Edward Token | Solana | 降温中 | 强度 83.62 | 质量 78.03
+  - 主题摘要：According to Tim Sweeney's post, he retweeted a comment stating that 'edward' should win. This action is interpreted as support for the 'edward' token, which is listed in the prov…
+  - 资金 100.00 / 广度 87.97 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Esmeralda Pierre Questions ANSEM Token Issuance | Solana | 加速中 | 强度 83.28 | 质量 75.92
+  - 主题摘要：According to Esmeralda Pierre's post, Ansem is allegedly issuing a meme coin. The post references a Solscan wallet address and discusses Ansem's impact on the meme space, includin…
+  - 资金 100.00 / 广度 78.20 / 确认 20.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged CAT Token Linked to Mistral AI Cat Image | Solana | 加速中 | 强度 81.90 | 质量 73.66
+  - 主题摘要：Multiple tokens named 「CAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.62 / 确认 20.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Buttered Cat Paradox Meme Coin | Solana | 加速中 | 强度 81.89 | 质量 73.61
+  - 主题摘要：Multiple tokens named 「CAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.76 / 确认 20.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Disaster Cat Meme | Solana | 加速中 | 强度 81.76 | 质量 73.61
+  - 主题摘要：Multiple tokens named 「CAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.76 / 确认 20.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Pump.fun: Retire Before Game Drops | Solana | 点火期 | 强度 81.18 | 质量 79.35
   - 主题摘要：According to Pump.fun's post, the entity claims it will retire before the launch of a token named 'this game' (GAME). This statement suggests a significant delay or skepticism reg…
-  - 资金 100.00 / 广度 87.47 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Criticizes Community Trading Behavior | Solana | 加速中 | 强度 77.57 | 质量 74.60
-  - 主题摘要：According to Ansem's post, he criticized community members for unrealistic trading expectations, specifically targeting the desire to buy coins at a $100k market cap and sell at $…
-  - 资金 100.00 / 广度 82.78 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $1B Speed Run on Bags | Solana | 加速中 | 强度 77.39 | 质量 73.88
-  - 主题摘要：According to Riskbets's post, the developer claims that launching the 'Bags' token on Pump is highly achievable for a $1 billion market cap, citing a locked developer supply equiv…
-  - 资金 100.00 / 广度 79.15 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- B/R Football World Cup Meme | Solana | 降温中 | 强度 77.04 | 质量 67.16
-  - 主题摘要：According to B/R Football's post, the 2026 World Cup features Meme images of Merlin the Mexican duck and Donny the Scottish duck, highlighting popular cultural symbols associated…
-  - 资金 100.00 / 广度 77.87 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Grand Meme Coin | Solana | 降温中 | 强度 76.14 | 质量 64.15
-  - 主题摘要：Multiple tokens named 「GMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 97.95 / 广度 73.21 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Shadow Discusses Meme Coin Psychology | Solana | 加速中 | 强度 74.76 | 质量 69.89
-  - 主题摘要：According to Shadow's post, the author argues that a multi-billion dollar market cap is necessary for meme coins to sustain investor holding periods. Shadow claims that without su…
-  - 资金 100.00 / 广度 76.56 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mr. BlankFace Discusses Chicken Shrimp Meme | Solana | 加速中 | 强度 74.71 | 质量 63.09
-  - 主题摘要：According to Mr. BlankFace's post, he criticized other projects for lacking technology, onboarding, and lore, while praising chicken shrimp as a quality Meme with good technology.
-  - 资金 100.00 / 广度 78.64 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 战略储备 | BSC | 加速中 | 强度 74.31 | 质量 60.09
-  - 主题摘要：Multiple tokens named 「战略储备」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.50 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Aster Dog分红Aster | BSC | 加速中 | 强度 73.63 | 质量 59.71
-  - 主题摘要：Multiple tokens named 「Adog」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.91 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Xiaogudong Token Issuance | BSC | 加速中 | 强度 71.46 | 质量 61.19
+  - 资金 100.00 / 广度 92.37 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Xiaogudong Token Issuance | BSC | 加速中 | 强度 73.22 | 质量 61.28
   - 主题摘要：According to 小股东's post, the 'Adopt a Cow' genesis project claims to make everyone a shareholder with an open treasury. It describes a mother-child token model with unlimited buyb…
-  - 资金 100.00 / 广度 76.50 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.58 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- YZi Labs BNB Chain Residency | BSC | 加速中 | 强度 70.77 | 质量 65.39
-  - 主题摘要：According to YZi Labs's post, the organization is promoting the EASY Residency S4 program for developers building on the BNB Chain. The initiative offers dedicated support, deep o…
-  - 资金 100.00 / 广度 79.14 / 确认 23.76 / 脆弱性 24.00
+- StarShip | BSC | 加速中 | 强度 72.60 | 质量 60.07
+  - 主题摘要：Multiple tokens named 「StarShip」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.14 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- H Diamond Alliance | BSC | 加速中 | 强度 69.99 | 质量 59.48
-  - 主题摘要：Multiple tokens named 「HDMA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.96 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Baby Asteroid | BSC | 加速中 | 强度 69.83 | 质量 57.00
+- Baby Asteroid | BSC | 加速中 | 强度 72.15 | 质量 58.33
   - 主题摘要：Multiple tokens named 「BabyAsteroid」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.04 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.85 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- H Diamond Alliance | BSC | 加速中 | 强度 71.58 | 质量 59.63
+  - 主题摘要：Multiple tokens named 「HDMA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.09 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 战略储备 | BSC | 加速中 | 强度 70.63 | 质量 59.93
+  - 主题摘要：Multiple tokens named 「战略储备」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.81 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- YZi Labs BNB Chain Residency | BSC | 加速中 | 强度 69.94 | 质量 65.45
+  - 主题摘要：According to YZi Labs's post, the organization is promoting the EASY Residency S4 program for developers building on the BNB Chain. The initiative offers dedicated support, deep o…
+  - 资金 100.00 / 广度 79.18 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.55，其中已确认叙事 0 个。
-- Mr. BlankFace Discusses Chicken Shrimp Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Pump.fun: Retire Before Game Drops 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.77，其中已确认叙事 0 个。
+- Esmeralda Pierre Questions ANSEM Token Issuance 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Cheese Game 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Alleged GTA6 Meme Coin | 质量 82.44 | 可交易性 100.00 | 风险 低
-- Pump.fun: Retire Before Game Drops | 质量 74.84 | 可交易性 89.86 | 风险 低
-- Ansem Criticizes Community Trading Behavior | 质量 74.60 | 可交易性 87.92 | 风险 低
-- Alleged $1B Speed Run on Bags | 质量 73.88 | 可交易性 86.54 | 风险 低
-- Shadow Discusses Meme Coin Psychology | 质量 69.89 | 可交易性 78.47 | 风险 低
-- B/R Football World Cup Meme | 质量 67.16 | 可交易性 79.14 | 风险 低
-- YZi Labs BNB Chain Residency | 质量 65.39 | 可交易性 72.13 | 风险 低
-- Grand Meme Coin | 质量 64.15 | 可交易性 96.67 | 风险 低
-- Mr. BlankFace Discusses Chicken Shrimp Meme | 质量 63.09 | 可交易性 53.72 | 风险 低
-- Alleged Xiaogudong Token Issuance | 质量 61.19 | 可交易性 49.50 | 风险 低
+- Pump.fun: Retire Before Game Drops | 质量 79.35 | 可交易性 100.00 | 风险 低
+- Tim Sweeney Supports Edward Token | 质量 78.03 | 可交易性 100.00 | 风险 低
+- Cheese Game | 质量 76.28 | 可交易性 100.00 | 风险 低
+- Esmeralda Pierre Questions ANSEM Token Issuance | 质量 75.92 | 可交易性 100.00 | 风险 低
+- Alleged CAT Token Linked to Mistral AI Cat Image | 质量 73.66 | 可交易性 96.05 | 风险 低
+- Alleged Buttered Cat Paradox Meme Coin | 质量 73.61 | 可交易性 95.74 | 风险 低
+- Alleged Disaster Cat Meme | 质量 73.61 | 可交易性 95.74 | 风险 低
+- YZi Labs BNB Chain Residency | 质量 65.45 | 可交易性 69.64 | 风险 低
+- Alleged Xiaogudong Token Issuance | 质量 61.28 | 可交易性 49.72 | 风险 低
 
 ## 伪叙事风险
 
-- Grand Meme Coin | 风险 41.69 | 原因：流动性偏薄、近 1 小时净流入转负
+- Pump.fun: Retire Before Game Drops | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged GTA6 Meme Coin（Solana，分数 88.3）
+1. 当前最强叙事：Cheese Game（Solana，分数 84.3）
 2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：Pump.fun: Retire Before Game Drops 当前为“新出现”
+3. 记忆层变化：Cheese Game 当前为“新出现”
 4. 最新官方催化：Binance Will Add Re (RE) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 #Binance #NarrativeOS #OpenClaw
