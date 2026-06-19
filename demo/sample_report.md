@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-19T14:27:41.102746+00:00
+- 生成时间：2026-06-19T16:55:58.392446+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged PumpFun Meme Coin Launch，所在链为 Solana，叙事强度 82.14。
-- 当前平均叙事强度为 77.8，其中已确认叙事 1 个。
+- 当前最强叙事是 Pump.fun: Retire Before Game Drops，所在链为 Solana，叙事强度 84.38。
+- 当前平均叙事强度为 80.19，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 O，来自 BSC，共振分数 100.0。
-- 记忆层显示 Fattoo Launches Free Web Experiment 当前处于“新出现”状态。
+- 记忆层显示 Pump.fun: Retire Before Game Drops 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers。
 
 ## 叙事雷达
 
-- Alleged PumpFun Meme Coin Launch | Solana | 已确认 | 强度 82.14 | 质量 82.35
-  - 主题摘要：Multiple tokens named 「MCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.91 / 确认 28.08 / 脆弱性 14.00
+- Pump.fun: Retire Before Game Drops | Solana | 已确认 | 强度 84.38 | 质量 83.96
+  - 主题摘要：According to Pump.fun's post, the entity claims it will retire before the launch of a token named 'this game' (GAME). This statement suggests a significant delay or skepticism reg…
+  - 资金 100.00 / 广度 97.08 / 确认 31.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Fattoo Launches Free Web Experiment | Solana | 降温中 | 强度 80.96 | 质量 72.31
-  - 主题摘要：According to Fattoo's post, the author initiates a project titled 'Fattoo' described as a 'show about a Free Web.' Fattoo characterizes this initiative as a 'weird little experime…
-  - 资金 100.00 / 广度 68.88 / 确认 16.56 / 脆弱性 14.00
+- WASABICRAFT | Solana | 降温中 | 强度 82.93 | 质量 72.39
+  - 主题摘要：Multiple tokens named 「WASABICRAFT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.43 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Arnold Taggmitton Posts 'ITS DAWN' | Solana | 加速中 | 强度 80.26 | 质量 67.71
+- Alleged PumpFun Meme Coin Launch | Solana | 加速中 | 强度 82.23 | 质量 82.24
+  - 主题摘要：Multiple tokens named 「MCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 94.08 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Arnold Taggmitton Posts 'ITS DAWN' | Solana | 加速中 | 强度 79.70 | 质量 67.88
   - 主题摘要：According to Amin's post, he officially onboarded the owner of the Dawn token, redirecting fees to him due to issues with the previous configuration. Video evidence of the wallet…
-  - 资金 100.00 / 广度 84.70 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.84 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged CAT Token Narrative | Solana | 加速中 | 强度 77.02 | 质量 72.32
-  - 主题摘要：According to Jayencee's post, the user argues that the narrative surrounding the CAT token is driven by influencer @finnbags' consistent focus on cats. Jayencee claims that @finnb…
-  - 资金 100.00 / 广度 72.57 / 确认 27.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Harvy | Solana | 加速中 | 强度 76.85 | 质量 72.38
+- Elun Mesk AI Trillionaire Post | Solana | 降温中 | 强度 79.13 | 质量 70.06
+  - 主题摘要：According to Elun Mesk's post, the author identifies as an "AI trillionaire" and announces a daily posting schedule covering AI, robotics, rockets, engineering, markets, memes, an…
+  - 资金 100.00 / 广度 61.38 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Harvy | Solana | 加速中 | 强度 78.17 | 质量 75.04
   - 主题摘要：Multiple tokens named 「HARVY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.72 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.02 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Esmeralda Pierre Questions ANSEM Token Issuance | Solana | 加速中 | 强度 76.15 | 质量 74.47
-  - 主题摘要：According to Esmeralda Pierre's post, Ansem is allegedly issuing a meme coin. The post references a Solscan wallet address and discusses Ansem's impact on the meme space, includin…
-  - 资金 100.00 / 广度 78.93 / 确认 27.48 / 脆弱性 14.00
+- White House on Trust in Trump | Solana | 加速中 | 强度 78.16 | 质量 66.36
+  - 主题摘要：The White House posted a statement referencing the phrase 'When she says she doesn't Trust in Trump,' which aligns with the naming of cryptocurrency tokens such as 'Trust in Trump…
+  - 资金 100.00 / 广度 78.70 / 确认 27.40 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- H Diamond Alliance | BSC | 加速中 | 强度 75.28 | 质量 61.28
-  - 主题摘要：Multiple tokens named 「HDMA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.37 / 确认 20.16 / 脆弱性 14.00
+- Alleged SonicMe Meme Trend | Solana | 加速中 | 强度 76.84 | 质量 70.26
+  - 主题摘要：According to xpert's post, a new trend called SONIC** is circulating, which transforms profile pictures into Sonic-themed Meme images. This activity is associated with the hashtag…
+  - 资金 100.00 / 广度 79.26 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Perps Livestream Event | Solana | 加速中 | 强度 74.56 | 质量 70.95
-  - 主题摘要：According to Perps's post, the platform is hosting a livestream event featuring top perpetual traders on Solana, including FefeDemeny, inviting others to join the competition.
-  - 资金 100.00 / 广度 85.56 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pizza Price Inflation Comparison | Solana | 降温中 | 强度 74.48 | 质量 61.79
-  - 主题摘要：According to c's post, the author highlights that the price of 10 pizzas remains nearly unchanged between 1990 and the present, citing a comparison between the cost of the movie "…
-  - 资金 100.00 / 广度 65.97 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 战略储备 | BSC | 加速中 | 强度 74.33 | 质量 62.20
-  - 主题摘要：Multiple tokens named 「战略储备」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.79 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 雪球回购销毁模式 | BSC | 加速中 | 强度 71.58 | 质量 59.66
-  - 主题摘要：Multiple tokens named 「4SnowBall」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.74 / 确认 24.48 / 脆弱性 16.08
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Flap平台全新王中王双币生态模型 | BSC | 加速中 | 强度 70.83 | 质量 57.38
-  - 主题摘要：Multiple tokens named 「王中王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.21 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MMT | BSC | 降温中 | 强度 70.33 | 质量 57.80
+- MMT | BSC | 加速中 | 强度 74.31 | 质量 60.02
   - 主题摘要：Multiple tokens named 「MMT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.15 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- water | BSC | 加速中 | 强度 68.58 | 质量 57.72
-  - 主题摘要：矿泉水 (water) is a meme token inspired by the popular 'Water' meme from 2024. It gained attention through a viral post by @meme_123 on X, featuring a humorous water bottle image. Th…
-  - 资金 100.00 / 广度 68.42 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.89 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 战略储备 | BSC | 加速中 | 强度 73.63 | 质量 62.12
+  - 主题摘要：Multiple tokens named 「战略储备」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.81 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 雪球回购销毁模式 | BSC | 加速中 | 强度 73.55 | 质量 60.26
+  - 主题摘要：Multiple tokens named 「4SnowBall」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.18 / 确认 24.48 / 脆弱性 15.04
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ Dragon Boat Festival Greeting | BSC | 加速中 | 强度 71.11 | 质量 68.92
+  - 主题摘要：Binance CEO CZ posts a standard holiday greeting for the Dragon Boat Festival. The content is a routine social media interaction with no specific market-moving news, unique meme p…
+  - 资金 85.36 / 广度 88.15 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Strategic Reserve Life Mechanism Token | BSC | 加速中 | 强度 70.35 | 质量 54.95
+  - 主题摘要：According to 战略储备人生's post, the Strategic Reserve Life token is launching on the Flap platform with a buy/sell tax of 3/3. The mechanism allocates 80% of holdings to a 500k divide…
+  - 资金 100.00 / 广度 69.91 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Flap平台全新王中王双币生态模型 | BSC | 加速中 | 强度 68.28 | 质量 56.18
+  - 主题摘要：Multiple tokens named 「王中王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.66 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.8，其中已确认叙事 1 个。
-- Alleged CAT Token Narrative 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Fattoo Launches Free Web Experiment 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.19，其中已确认叙事 1 个。
+- Pump.fun: Retire Before Game Drops 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- WASABICRAFT 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged PumpFun Meme Coin Launch | 质量 82.35 | 可交易性 100.00 | 风险 低
-- Esmeralda Pierre Questions ANSEM Token Issuance | 质量 74.47 | 可交易性 96.86 | 风险 低
-- Harvy | 质量 72.38 | 可交易性 94.07 | 风险 低
-- Alleged CAT Token Narrative | 质量 72.32 | 可交易性 91.71 | 风险 低
-- Fattoo Launches Free Web Experiment | 质量 72.31 | 可交易性 100.00 | 风险 低
-- Perps Livestream Event | 质量 70.95 | 可交易性 70.34 | 风险 低
-- Arnold Taggmitton Posts 'ITS DAWN' | 质量 67.71 | 可交易性 66.22 | 风险 低
-- 战略储备 | 质量 62.20 | 可交易性 53.59 | 风险 低
-- Pizza Price Inflation Comparison | 质量 61.79 | 可交易性 75.99 | 风险 低
-- H Diamond Alliance | 质量 61.28 | 可交易性 56.12 | 风险 低
+- Pump.fun: Retire Before Game Drops | 质量 83.96 | 可交易性 100.00 | 风险 低
+- Alleged PumpFun Meme Coin Launch | 质量 82.24 | 可交易性 100.00 | 风险 低
+- Harvy | 质量 75.04 | 可交易性 94.17 | 风险 低
+- WASABICRAFT | 质量 72.39 | 可交易性 100.00 | 风险 低
+- Alleged SonicMe Meme Trend | 质量 70.26 | 可交易性 80.14 | 风险 低
+- Elun Mesk AI Trillionaire Post | 质量 70.06 | 可交易性 100.00 | 风险 低
+- CZ Dragon Boat Festival Greeting | 质量 68.92 | 可交易性 88.20 | 风险 低
+- Arnold Taggmitton Posts 'ITS DAWN' | 质量 67.88 | 可交易性 66.65 | 风险 低
+- White House on Trust in Trump | 质量 66.36 | 可交易性 62.42 | 风险 低
+- 战略储备 | 质量 62.12 | 可交易性 53.30 | 风险 低
 
 ## 伪叙事风险
 
@@ -102,10 +102,10 @@
 - gary | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GTAVI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEEP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SPCX | Solana | 看多 | 新鲜度 87.81 | 暂无直接叙事映射
 - XP | Solana | 看多 | 新鲜度 85.83 | 暂无直接叙事映射
 - MANLET | Solana | 看多 | 新鲜度 81.59 | 暂无直接叙事映射
 - X67 | Solana | 看多 | 新鲜度 64.19 | 暂无直接叙事映射
+- EMC | Solana | 看多 | 新鲜度 57.06 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged PumpFun Meme Coin Launch（Solana，分数 82.14）
+1. 当前最强叙事：Pump.fun: Retire Before Game Drops（Solana，分数 84.38）
 2. 共振最强代币：O（BSC，共振 100.0）
-3. 记忆层变化：Fattoo Launches Free Web Experiment 当前为“新出现”
+3. 记忆层变化：Pump.fun: Retire Before Game Drops 当前为“新出现”
 4. 最新官方催化：Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers
 #Binance #NarrativeOS #OpenClaw
