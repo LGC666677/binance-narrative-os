@@ -1,101 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-20T16:45:31.785346+00:00
+- 生成时间：2026-06-20T18:02:27.233829+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Musk's Antimatter Dream，所在链为 Solana，叙事强度 88.59。
-- 当前平均叙事强度为 77.52，其中已确认叙事 0 个。
+- 当前最强叙事是 Musk's Antimatter Dream，所在链为 Solana，叙事强度 87.06。
+- 当前平均叙事强度为 74.42，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 FLKR，来自 Solana，共振分数 100.0。
-- 记忆层显示 Musk's Antimatter Dream 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged 'it' Token Launch，伪叙事风险 47.79。
+- 记忆层显示 Alleged Nutsack Coin Father's Day Donation 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Greg Meme Coin Launch，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers。
 
 ## 叙事雷达
 
-- Musk's Antimatter Dream | Solana | 降温中 | 强度 88.59 | 质量 80.29
+- Musk's Antimatter Dream | Solana | 降温中 | 强度 87.06 | 质量 80.26
   - 主题摘要：Elon Musk predicts massive future spending on antimatter propulsion for interstellar travel. This visionary statement highlights the extreme ambition of space exploration.
-  - 资金 100.00 / 广度 95.48 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.40 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pevolution | Solana | 降温中 | 强度 84.64 | 质量 73.93
+- Pevolution | Solana | 降温中 | 强度 86.07 | 质量 75.19
   - 主题摘要：Multiple tokens named 「PEVOLUTION」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.56 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 83.76 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump Defends ICE Patriots | Solana | 加速中 | 强度 80.35 | 质量 71.68
-  - 主题摘要：Donald Trump publicly defends ICE agents against media criticism, labeling them 'Great Patriots' and blaming 'Dumocrats' for the hostility. This political stance resonates strongl…
-  - 资金 100.00 / 广度 79.50 / 确认 20.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Raydium Comments on Solana Tokenized Equities | Solana | 降温中 | 强度 76.93 | 质量 65.20
-  - 主题摘要：According to Raydium's post, the account commented on a report regarding $1 billion in weekly tokenized equities volume on Solana, stating that the volume is higher. This reflects…
-  - 资金 100.00 / 广度 58.00 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Ligma Balls Meme Coin | Solana | 加速中 | 强度 76.68 | 质量 64.82
+- Alleged Ligma Balls Meme Coin | Solana | 加速中 | 强度 76.19 | 质量 64.83
   - 主题摘要：According to graph 🏴‍☠️'s post, a speculative Meme image predicts that by 2028, a coin called 'Ligma Balls' will reach a $10 trillion market cap to fund spacefaring data centers.…
-  - 资金 100.00 / 广度 80.58 / 确认 27.40 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.83 / 确认 27.40 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- IO Provides GitHub Link | Solana | 加速中 | 强度 74.48 | 质量 61.05
-  - 主题摘要：According to IO's post, the account provided a GitHub repository link in response to a user's inquiry regarding the project's codebase.
-  - 资金 100.00 / 广度 74.37 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SAAC | BSC | 加速中 | 强度 74.24 | 质量 59.72
-  - 主题摘要：Multiple tokens named 「SAAC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.93 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- H Diamond Alliance | BSC | 加速中 | 强度 73.78 | 质量 58.70
-  - 主题摘要：Multiple tokens named 「HDMA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.40 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 储备人生 | BSC | 加速中 | 强度 73.31 | 质量 57.17
+- 储备人生 | BSC | 加速中 | 强度 75.41 | 质量 59.88
   - 主题摘要：Multiple tokens named 「储备人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.89 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.00 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MMT | BSC | 加速中 | 强度 72.51 | 质量 59.52
-  - 主题摘要：Multiple tokens named 「MMT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.08 / 确认 20.16 / 脆弱性 14.00
+- H Diamond Alliance | BSC | 加速中 | 强度 74.21 | 质量 59.24
+  - 主题摘要：Multiple tokens named 「HDMA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.68 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 战略储备 | BSC | 加速中 | 强度 70.32 | 质量 58.34
+- SAAC | BSC | 加速中 | 强度 72.99 | 质量 59.71
+  - 主题摘要：Multiple tokens named 「SAAC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.93 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- IO Provides GitHub Link | Solana | 加速中 | 强度 72.37 | 质量 60.98
+  - 主题摘要：According to IO's post, the account provided a GitHub repository link in response to a user's inquiry regarding the project's codebase.
+  - 资金 100.00 / 广度 74.44 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 战略储备 | BSC | 加速中 | 强度 71.18 | 质量 57.21
   - 主题摘要：Multiple tokens named 「战略储备」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.28 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.52 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Aster Dog分红Aster | BSC | 加速中 | 强度 69.83 | 质量 54.88
-  - 主题摘要：Multiple tokens named 「Adog」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.70 / 确认 24.48 / 脆弱性 14.00
+- Alleged Nutsack Coin Father's Day Donation | Solana | 降温中 | 强度 70.62 | 质量 54.83
+  - 主题摘要：According to mememang's post, the Nutsack coin, described as everyone's first home, is being donated to fathers in need to commemorate Father's Day. This information is unverified…
+  - 资金 100.00 / 广度 72.26 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Chain | BSC | 加速中 | 强度 68.98 | 质量 54.11
+  - 主题摘要：Multiple tokens named 「Chain」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.75 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged 'it' Token Launch | Solana | 点火期 | 强度 69.63 | 质量 62.35
-  - 主题摘要：According to Superman's post, the author observes a shift in market sentiment towards bullishness and suggests it is an opportune time to launch the 'it' token. The post reference…
-  - 资金 100.00 / 广度 64.33 / 确认 9.36 / 脆弱性 14.00
+- MMT | BSC | 加速中 | 强度 68.83 | 质量 55.86
+  - 主题摘要：Multiple tokens named 「MMT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.08 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Greg Meme Coin Launch | Solana | 点火期 | 强度 68.02 | 质量 60.44
+  - 主题摘要：According to Nikolas (aura arc)'s post, a token named 'greg the low quality chicken' is allegedly being created on X and DEXs. The post references a quoted tweet involving @claude…
+  - 资金 100.00 / 广度 76.68 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- SIX DOORS | Solana | 点火期 | 强度 68.83 | 质量 64.16
+- Brickwood MMO Project Introduction | Solana | 降温中 | 强度 67.61 | 质量 57.78
+  - 主题摘要：According to Brickwood's post, the project introduces Brickwood, a Solana-based isometric MMO featuring a player-driven economy. The game allows players to explore, quest, fight,…
+  - 资金 99.20 / 广度 49.99 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- SIX DOORS | Solana | 点火期 | 强度 67.41 | 质量 63.82
   - 主题摘要：Multiple tokens named 「DOORS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.11 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.06 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.52，其中已确认叙事 0 个。
-- Trump Defends ICE Patriots 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 74.42，其中已确认叙事 0 个。
+- Chain 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Musk's Antimatter Dream 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Musk's Antimatter Dream | 质量 80.29 | 可交易性 100.00 | 风险 低
-- Pevolution | 质量 73.93 | 可交易性 100.00 | 风险 低
-- Trump Defends ICE Patriots | 质量 71.68 | 可交易性 84.55 | 风险 低
-- Raydium Comments on Solana Tokenized Equities | 质量 65.20 | 可交易性 92.48 | 风险 低
-- Alleged Ligma Balls Meme Coin | 质量 64.82 | 可交易性 55.41 | 风险 低
-- SIX DOORS | 质量 64.16 | 可交易性 100.00 | 风险 低
-- Alleged 'it' Token Launch | 质量 62.35 | 可交易性 92.90 | 风险 低
-- IO Provides GitHub Link | 质量 61.05 | 可交易性 51.19 | 风险 低
-- SAAC | 质量 59.72 | 可交易性 55.19 | 风险 低
-- MMT | 质量 59.52 | 可交易性 55.23 | 风险 低
+- Musk's Antimatter Dream | 质量 80.26 | 可交易性 100.00 | 风险 低
+- Pevolution | 质量 75.19 | 可交易性 100.00 | 风险 低
+- Alleged Ligma Balls Meme Coin | 质量 64.83 | 可交易性 55.18 | 风险 低
+- SIX DOORS | 质量 63.82 | 可交易性 100.00 | 风险 低
+- IO Provides GitHub Link | 质量 60.98 | 可交易性 50.87 | 风险 低
+- Alleged Greg Meme Coin Launch | 质量 60.44 | 可交易性 69.83 | 风险 低
+- 储备人生 | 质量 59.88 | 可交易性 48.65 | 风险 低
+- SAAC | 质量 59.71 | 可交易性 55.16 | 风险 低
+- H Diamond Alliance | 质量 59.24 | 可交易性 57.74 | 风险 低
+- Brickwood MMO Project Introduction | 质量 57.78 | 可交易性 85.15 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged 'it' Token Launch | 风险 47.79 | 原因：流动性偏薄
-- SIX DOORS | 风险 42.03 | 原因：流动性偏薄
+- Alleged Greg Meme Coin Launch | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- SIX DOORS | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -134,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Musk's Antimatter Dream（Solana，分数 88.59）
+1. 当前最强叙事：Musk's Antimatter Dream（Solana，分数 87.06）
 2. 共振最强代币：FLKR（Solana，共振 100.0）
-3. 记忆层变化：Musk's Antimatter Dream 当前为“新出现”
+3. 记忆层变化：Alleged Nutsack Coin Father's Day Donation 当前为“新出现”
 4. 最新官方催化：Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers
 #Binance #NarrativeOS #OpenClaw
