@@ -1,101 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-20T13:10:03.002410+00:00
+- 生成时间：2026-06-20T15:10:08.578540+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 小微，所在链为 BSC，叙事强度 77.36。
-- 当前平均叙事强度为 71.99，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ESPORTS，来自 BSC，共振分数 100.0。
-- 记忆层显示 abrawlerj Launches Collectable Coin 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 WASABICRAFT，伪叙事风险 52.99。
+- 当前最强叙事是 World Cup Space Soccer，所在链为 Solana，叙事强度 78.42。
+- 当前平均叙事强度为 75.08，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BTW，来自 BSC，共振分数 100.0。
+- 记忆层显示 World Cup Space Soccer 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers。
 
 ## 叙事雷达
 
-- 小微 | BSC | 加速中 | 强度 77.36 | 质量 72.56
-  - 主题摘要：According to BeWater's post, the user shared a link to a Sina Finance article regarding 'Xiaowei', describing the image as a 'correct avatar' marked by the news outlet. The post h…
-  - 资金 100.00 / 广度 77.24 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WASABICRAFT | Solana | 点火期 | 强度 75.74 | 质量 75.45
-  - 主题摘要：Multiple tokens named 「WASABICRAFT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.64 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Toly Retweets BULLIEVED Meme | Solana | 加速中 | 强度 74.59 | 质量 65.27
-  - 主题摘要：Toly retweeted a post by @buffalu__ featuring the 'i bullieved' meme, which references Solana's history of criticism and community resilience. The content highlights the cultural…
-  - 资金 99.56 / 广度 83.31 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 战略储备 | BSC | 加速中 | 强度 73.21 | 质量 58.41
-  - 主题摘要：Multiple tokens named 「战略储备」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.31 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Ligma Balls Meme Coin | Solana | 加速中 | 强度 72.61 | 质量 62.57
-  - 主题摘要：According to graph 🏴‍☠️'s post, a speculative Meme image predicts that by 2028, a coin called 'Ligma Balls' will reach a $10 trillion market cap to fund spacefaring data centers.…
-  - 资金 100.00 / 广度 78.46 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MMT | BSC | 加速中 | 强度 72.01 | 质量 58.18
-  - 主题摘要：Multiple tokens named 「MMT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.88 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- IO Provides GitHub Link | Solana | 加速中 | 强度 71.67 | 质量 60.64
-  - 主题摘要：According to IO's post, the account provided a GitHub repository link in response to a user's inquiry regarding the project's codebase.
-  - 资金 100.00 / 广度 73.84 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- abrawlerj Launches Collectable Coin | Solana | 加速中 | 强度 71.55 | 质量 63.16
-  - 主题摘要：According to abrawlerj (redemption arc)'s post, the individual announced plans to go live on Pump.fun to buy and open packs using fees for a project named Collectable Coin. This i…
-  - 资金 100.00 / 广度 79.93 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SAAC | BSC | 加速中 | 强度 71.35 | 质量 59.11
-  - 主题摘要：Multiple tokens named 「SAAC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.57 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Harvy | Solana | 加速中 | 强度 69.94 | 质量 65.52
-  - 主题摘要：Multiple tokens named 「HARVY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.65 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- H Diamond Alliance | BSC | 加速中 | 强度 69.86 | 质量 55.73
-  - 主题摘要：Multiple tokens named 「HDMA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.09 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SIX DOORS | Solana | 点火期 | 强度 68.19 | 质量 63.21
-  - 主题摘要：Multiple tokens named 「DOORS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.16 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Angled Cat Meme Image Goes Viral | BSC | 加速中 | 强度 68.16 | 质量 50.94
-  - 主题摘要：According to 凹凸赵🔶BNB's post, the 'Edge Cat' Meme image has gone viral, with a single video garnering 860,000 likes and 340,000 shares in two days. The content highlights the chara…
-  - 资金 100.00 / 广度 66.09 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged UK St. George Flag Ban | Solana | 降温中 | 强度 67.68 | 质量 51.94
-  - 主题摘要：According to AJ's post, major riots have started in the UK following an alleged ban on the St. George flag, which is claimed to offend immigrants. The post asserts that news sourc…
-  - 资金 98.48 / 广度 53.64 / 确认 9.36 / 脆弱性 14.00
+- World Cup Space Soccer | Solana | 降温中 | 强度 78.42 | 质量 70.26
+  - 主题摘要：Multiple tokens named 「SpaceCup」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.33 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- White House Retweets National Parks Post | Solana | 降温中 | 强度 76.48 | 质量 64.14
+  - 主题摘要：The White House retweeted a post by Secretary Burgum encouraging visits to national parks to celebrate America's 250th birthday. The content focuses on civic engagement and touris…
+  - 资金 100.00 / 广度 76.30 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Ligma Balls Meme Coin | Solana | 加速中 | 强度 76.01 | 质量 64.10
+  - 主题摘要：According to graph 🏴‍☠️'s post, a speculative Meme image predicts that by 2028, a coin called 'Ligma Balls' will reach a $10 trillion market cap to fund spacefaring data centers.…
+  - 资金 100.00 / 广度 79.76 / 确认 27.40 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- NASA: World Cup Ball in Space | Solana | 降温中 | 强度 75.64 | 质量 64.52
+  - 主题摘要：According to NASA's post, the official FIFA World Cup ball was sent to space. NASA aims to inspire the next generation by demonstrating how space exploration drives innovation in…
+  - 资金 100.00 / 广度 82.38 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- IO Provides GitHub Link | Solana | 加速中 | 强度 74.22 | 质量 60.97
+  - 主题摘要：According to IO's post, the account provided a GitHub repository link in response to a user's inquiry regarding the project's codebase.
+  - 资金 100.00 / 广度 74.20 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- TikTok Mountain Trend | Solana | 加速中 | 强度 74.16 | 质量 67.10
+  - 主题摘要：According to BucketHat's post, a new trend is emerging on TikTok where users explore mountains and caption their posts with "this and 3 arrows in the chest". This phrase is associ…
+  - 资金 100.00 / 广度 54.20 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 战略储备 | BSC | 加速中 | 强度 73.86 | 质量 58.96
+  - 主题摘要：Multiple tokens named 「战略储备」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.00 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trump Recreates Viral Meme | Solana | 加速中 | 强度 72.96 | 质量 57.71
+  - 主题摘要：According to abrawlerj (redemption arc)'s post, Donald Trump is reportedly recreating a viral internet meme by standing alone in a corner, a pose that has gained significant tract…
+  - 资金 100.00 / 广度 73.65 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Balls Coin Launch | Solana | 降温中 | 强度 72.78 | 质量 63.24
+  - 主题摘要：According to Brook • NBC's post, the author claims that a token named "Balls Coin" will be launched in October 2026, allegedly reaching a market cap of $10 billion to fund self-re…
+  - 资金 100.00 / 广度 55.46 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- H Diamond Alliance | BSC | 加速中 | 强度 72.19 | 质量 56.80
+  - 主题摘要：Multiple tokens named 「HDMA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.17 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- SAAC | BSC | 加速中 | 强度 71.54 | 质量 59.52
+  - 主题摘要：Multiple tokens named 「SAAC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.81 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- HypeDao | BSC | 加速中 | 强度 71.53 | 质量 55.95
+  - 主题摘要：Multiple tokens named 「HDAO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 63.70 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- MMT | BSC | 加速中 | 强度 69.96 | 质量 58.39
+  - 主题摘要：Multiple tokens named 「MMT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.96 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Chain | BSC | 加速中 | 强度 69.71 | 质量 54.26
+  - 主题摘要：Multiple tokens named 「Chain」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.20 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 71.99，其中已确认叙事 0 个。
-- abrawlerj Launches Collectable Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged UK St. George Flag Ban 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.08，其中已确认叙事 0 个。
+- TikTok Mountain Trend 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- World Cup Space Soccer 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- WASABICRAFT | 质量 75.45 | 可交易性 100.00 | 风险 低
-- 小微 | 质量 72.56 | 可交易性 84.02 | 风险 低
-- Harvy | 质量 65.52 | 可交易性 92.50 | 风险 低
-- Toly Retweets BULLIEVED Meme | 质量 65.27 | 可交易性 56.30 | 风险 低
-- SIX DOORS | 质量 63.21 | 可交易性 100.00 | 风险 低
-- abrawlerj Launches Collectable Coin | 质量 63.16 | 可交易性 52.65 | 风险 低
-- Alleged Ligma Balls Meme Coin | 质量 62.57 | 可交易性 52.69 | 风险 低
-- IO Provides GitHub Link | 质量 60.64 | 可交易性 50.33 | 风险 低
-- SAAC | 质量 59.11 | 可交易性 54.04 | 风险 低
-- 战略储备 | 质量 58.41 | 可交易性 54.29 | 风险 低
+- World Cup Space Soccer | 质量 70.26 | 可交易性 100.00 | 风险 低
+- TikTok Mountain Trend | 质量 67.10 | 可交易性 92.05 | 风险 低
+- NASA: World Cup Ball in Space | 质量 64.52 | 可交易性 65.83 | 风险 低
+- White House Retweets National Parks Post | 质量 64.14 | 可交易性 70.62 | 风险 低
+- Alleged Ligma Balls Meme Coin | 质量 64.10 | 可交易性 53.83 | 风险 低
+- Alleged Balls Coin Launch | 质量 63.24 | 可交易性 96.14 | 风险 低
+- IO Provides GitHub Link | 质量 60.97 | 可交易性 51.07 | 风险 低
+- SAAC | 质量 59.52 | 可交易性 54.65 | 风险 低
+- 战略储备 | 质量 58.96 | 可交易性 54.56 | 风险 低
+- MMT | 质量 58.39 | 可交易性 54.95 | 风险 低
 
 ## 伪叙事风险
 
-- WASABICRAFT | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- SIX DOORS | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：小微（BSC，分数 77.36）
-2. 共振最强代币：ESPORTS（BSC，共振 100.0）
-3. 记忆层变化：abrawlerj Launches Collectable Coin 当前为“新出现”
+1. 当前最强叙事：World Cup Space Soccer（Solana，分数 78.42）
+2. 共振最强代币：BTW（BSC，共振 100.0）
+3. 记忆层变化：World Cup Space Soccer 当前为“新出现”
 4. 最新官方催化：Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers
 #Binance #NarrativeOS #OpenClaw
