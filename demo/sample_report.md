@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-22T07:36:56.142518+00:00
+- 生成时间：2026-06-22T13:15:05.187695+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Launch of json Meme Image，所在链为 Solana，叙事强度 89.12。
-- 当前平均叙事强度为 81.56，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 JOTCHUA，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Launch of json Meme Image 当前处于“新出现”状态。
-- 最新官方催化来自 新币上新：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-06-23。
+- 当前最强叙事是 Alleged Launch of json Meme Image，所在链为 Solana，叙事强度 87.14。
+- 当前平均叙事强度为 79.3，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ARX，来自 BSC，共振分数 100.0。
+- 记忆层显示 Ephraim P. Schindler Comments on Sakana AI Fugu 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Jetchua，伪叙事风险 52.99。
+- 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22)。
 
 ## 叙事雷达
 
-- Alleged Launch of json Meme Image | Solana | 加速中 | 强度 89.12 | 质量 80.73
+- Alleged Launch of json Meme Image | Solana | 加速中 | 强度 87.14 | 质量 79.71
   - 主题摘要：According to xyz's post, the 'who is json' Meme is currently viral, with videos reaching millions of views. The post references multiple sources discussing this trend. Token infor…
-  - 资金 100.00 / 广度 89.02 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.26 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Gui Bibeau Questions Goblin Meme Narrative | Solana | 加速中 | 强度 85.00 | 质量 74.29
+- Gui Bibeau Questions Goblin Meme Narrative | Solana | 加速中 | 强度 83.43 | 质量 74.27
   - 主题摘要：According to Gui Bibeau e/acc's post, he questions whether the 'Goblin' meme narrative has been effectively utilized, suggesting it may be dead. This inquiry references a discussi…
-  - 资金 100.00 / 广度 81.38 / 确认 27.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.59 / 确认 27.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- JuDao人生 | BSC | 已确认 | 强度 84.17 | 质量 80.68
-  - 主题摘要：Multiple tokens named 「JuDao人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.69 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- RDR2 | Solana | 降温中 | 强度 83.90 | 质量 76.06
+- RDR2 | Solana | 降温中 | 强度 82.64 | 质量 76.82
   - 主题摘要：RDR2 token draws inspiration from the outlaw spirit of Red Dead Redemption 2, featuring a cowboy logo with a gun. It embodies the 'one last score' philosophy, appealing to gamers…
-  - 资金 100.00 / 广度 81.38 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.91 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged ChatGPT Violent Image Generation | Solana | 降温中 | 强度 81.70 | 质量 69.14
+- Alleged ChatGPT Violent Image Generation | Solana | 降温中 | 强度 79.86 | 质量 69.03
   - 主题摘要：According to DogeDesigner's post, researchers claim ChatGPT generates violent and sexualized images of victims from basic prompts without detailed instructions. The post asserts t…
-  - 资金 100.00 / 广度 78.48 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.37 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jetchua | Solana | 降温中 | 强度 81.16 | 质量 69.35
+- JuDao人生 | BSC | 已确认 | 强度 78.84 | 质量 74.56
+  - 主题摘要：Multiple tokens named 「JuDao人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.95 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Ephraim P. Schindler Comments on Sakana AI Fugu | Solana | 加速中 | 强度 75.63 | 质量 64.60
+  - 主题摘要：According to Ephraim P. Schindler (MAX POTENTIAL)'s post, Sakana AI's Fugu model outperforms Mythos on benchmarks without data export risks. He notes its superior problem-solving…
+  - 资金 100.00 / 广度 81.39 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Do Alpacas Really Wear Socks? | Solana | 加速中 | 强度 75.37 | 质量 66.26
+  - 主题摘要：ALPACAS token satirizes the viral 'Do Alpacas Really Wear Socks?' meme, featuring a cartoon alpaca in socks against a pastoral background. The token embraces internet humor with i…
+  - 资金 100.00 / 广度 58.44 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Jetchua | Solana | 点火期 | 强度 75.24 | 质量 69.18
   - 主题摘要：Multiple tokens named 「Jetchua」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.26 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Catwifhat Launches $CATWIF | Solana | 降温中 | 强度 78.31 | 质量 68.46
-  - 主题摘要：According to Catwifhat's post, the author claims to be the developer behind a project that reached nearly 6 million in value. Catwifhat states that the original team was inactive,…
-  - 资金 100.00 / 广度 61.34 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk & Grok Kittens | Solana | 加速中 | 强度 77.76 | 质量 77.35
+  - 资金 100.00 / 广度 79.37 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Elon Musk & Grok Kittens | Solana | 加速中 | 强度 75.09 | 质量 74.24
   - 主题摘要：Elon Musk shared a delightful video generated by Grok Imagine featuring kittens in mittens dancing and singing. This combines his new AI tool with an irresistibly cute visual tren…
-  - 资金 100.00 / 广度 97.26 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 96.02 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pump.fun Trenches Optimism | Solana | 加速中 | 强度 75.56 | 质量 70.93
-  - 主题摘要：According to Pump.fun's post, the platform highlights the optimistic market sentiment within its ecosystem, characterizing the trading environment as having a trajectory where 'th…
-  - 资金 100.00 / 广度 85.43 / 确认 24.48 / 脆弱性 14.00
+- EMAM | BSC | 加速中 | 强度 72.16 | 质量 68.02
+  - 主题摘要：According to 全网抵制four.meme's post, an alleged EMAM token is being launched with specific tax structures (3% tax, 50% burn, 40% dividends, 10% LP addition) and requires inverted pr…
+  - 资金 100.00 / 广度 72.07 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Butterfly Dog Project Promotion | BSC | 加速中 | 强度 71.56 | 质量 57.31
-  - 主题摘要：According to 蝴蝶狗's post, the Butterfly Dog token is allegedly launched on the FLAP platform. It features a 3% tax, with 90% distributed as dividends and 10% burned. This informati…
-  - 资金 100.00 / 广度 68.03 / 确认 24.48 / 脆弱性 14.00
+- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 70.81 | 质量 66.46
+  - 主题摘要：According to Mr.Five's post, he criticizes Key Opinion Leaders (KOLs) and project promoters for prioritizing quick profits over long-term ecosystem construction, comparing their b…
+  - 资金 100.00 / 广度 71.76 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 马斯克妈妈新书TIMELESS | BSC | 加速中 | 强度 70.90 | 质量 56.77
-  - 主题摘要：According to Maye Musk's post, she announced the cover and pre-order availability of her upcoming book, TIMELESS, scheduled for release on September 15, 2026. The book details her…
-  - 资金 100.00 / 广度 68.46 / 确认 24.48 / 脆弱性 14.00
+- Wojak Posts 4jak 4wojillion Meme Image | BSC | 加速中 | 强度 70.41 | 质量 66.51
+  - 主题摘要：According to Wojak's post, the user shared a Meme image referencing '4jak' and '4wojillion'. This content relates to internet meme culture associated with the Wojak character and…
+  - 资金 100.00 / 广度 78.15 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Wojak Posts 4jak 4wojillion Meme Image | BSC | 加速中 | 强度 70.88 | 质量 59.63
-  - 主题摘要：According to Wojak's post, the user shared a Meme image containing the text "4chan 4jak 4wojillion". This content references internet culture and meme terminology associated with…
-  - 资金 100.00 / 广度 73.92 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Meme Post | BSC | 加速中 | 强度 70.48 | 质量 54.54
+- First | BSC | 降温中 | 强度 70.03 | 质量 54.06
+  - 主题摘要：Multiple tokens named 「First」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 62.38 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk Meme Post | BSC | 加速中 | 强度 68.59 | 质量 55.03
   - 主题摘要：Elon Musk posted a Star Wars quote meme image referencing Obi-Wan Kenobi. The post includes a link and the text 'Obi PNut Kenobi'. The provided token list contains irrelevant PNUT…
-  - 资金 100.00 / 广度 65.83 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- H Diamond Alliance | BSC | 加速中 | 强度 69.40 | 质量 60.32
-  - 主题摘要：Multiple tokens named 「HDMA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.96 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 66.57 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.56，其中已确认叙事 0 个。
-- Alleged Launch of json Meme Image 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.3，其中已确认叙事 0 个。
+- Ephraim P. Schindler Comments on Sakana AI Fugu 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - RDR2 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Launch of json Meme Image | 质量 80.73 | 可交易性 100.00 | 风险 低
-- JuDao人生 | 质量 80.68 | 可交易性 100.00 | 风险 低
-- Elon Musk & Grok Kittens | 质量 77.35 | 可交易性 100.00 | 风险 低
-- RDR2 | 质量 76.06 | 可交易性 100.00 | 风险 低
-- Gui Bibeau Questions Goblin Meme Narrative | 质量 74.29 | 可交易性 86.10 | 风险 低
-- Pump.fun Trenches Optimism | 质量 70.93 | 可交易性 100.00 | 风险 低
-- Jetchua | 质量 69.35 | 可交易性 86.03 | 风险 低
-- Alleged ChatGPT Violent Image Generation | 质量 69.14 | 可交易性 79.83 | 风险 低
-- Catwifhat Launches $CATWIF | 质量 68.46 | 可交易性 100.00 | 风险 低
-- H Diamond Alliance | 质量 60.32 | 可交易性 60.54 | 风险 低
+- Alleged Launch of json Meme Image | 质量 79.71 | 可交易性 100.00 | 风险 低
+- RDR2 | 质量 76.82 | 可交易性 100.00 | 风险 低
+- JuDao人生 | 质量 74.56 | 可交易性 100.00 | 风险 低
+- Gui Bibeau Questions Goblin Meme Narrative | 质量 74.27 | 可交易性 85.83 | 风险 低
+- Elon Musk & Grok Kittens | 质量 74.24 | 可交易性 100.00 | 风险 低
+- Jetchua | 质量 69.18 | 可交易性 84.38 | 风险 低
+- Alleged ChatGPT Violent Image Generation | 质量 69.03 | 可交易性 79.57 | 风险 低
+- EMAM | 质量 68.02 | 可交易性 80.56 | 风险 低
+- Wojak Posts 4jak 4wojillion Meme Image | 质量 66.51 | 可交易性 79.59 | 风险 低
+- Mr.Five Criticizes KOL Speculation | 质量 66.46 | 可交易性 75.00 | 风险 低
 
 ## 伪叙事风险
 
+- Jetchua | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -109,30 +111,30 @@
 
 ## 官方催化
 
+- [Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22)](https://www.binance.com/zh-CN/support/announcement/detail/d436942bb64949ceb83a20cb5c111076)
+  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wallet is excited to launch the Stable Tradin…
+- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-22)](https://www.binance.com/zh-CN/support/announcement/detail/88ea4a4f9f0b4ad4b7b308195c026fe4)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
 - [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-06-23](https://www.binance.com/zh-CN/support/announcement/detail/f0c763fc49934c1b9b4e4ce1653e67dc)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Spot an…
 - [Word of the Day: Test Your Knowledge on “Multi-Asset Superapp” to Unlock BNB Rewards!](https://www.binance.com/zh-CN/support/announcement/detail/8550a50c2d314dc3bdfc2c29fc9cf46a)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased to launch a new Word of the Day (WOTD)…
 - [Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/fa211572d953433da7f6d39b7f184a72)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to launch a Binance Traders League Season 3…
-- [Balkan Exclusive: Binance Alpha Trading Competition - Trade ESPORTS & VELVET and Share 3,650 USDC Rewards](https://www.binance.com/zh-CN/support/announcement/detail/4f2ca54fc30c48d6a147060f3cc33d84)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, We're excited to launch a Balkan exclusive Binance Alpha Trading Competition! Join now on Bi…
 - [Binance Will Add Re (RE) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures](https://www.binance.com/zh-CN/support/announcement/detail/005d1ef77538417cbe69d4703deb1969)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Re (RE) will be added to Binance Simple Earn , "Bu…
 - [Stock Trading Now Counts Toward Your Binance VIP Qualification for A Limited Time](https://www.binance.com/zh-CN/support/announcement/detail/24d9efcec1024984b94b8526d0e76494)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance VIP is introducing a 3x volume multiplier for stoc…
 - [Updates on Tick Size for Spot Trading Pairs (2026-06-25)](https://www.binance.com/zh-CN/support/announcement/detail/0be6f26461354fd29e3d9c9cc349a7d5)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve trading experience, Binance will complete…
-- [Binance Will List Re (RE) with Seed Tag Applied](https://www.binance.com/zh-CN/support/announcement/detail/4f90bec2f7984f71aaa9465830b1c6a6)
-  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general announcement. Products and services referred…
 - [Binance Futures Will End Last Price Protected Period on USDⓈ-Margined HUSDT Perpetual Contract (2026-06-18)](https://www.binance.com/zh-CN/support/announcement/detail/16c1e35bfa7544ce9440e53dbc862473)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures will end Last Price Protected&nbsp; (“LPP”) period on USDⓈ-Margin…
 
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Launch of json Meme Image（Solana，分数 89.12）
-2. 共振最强代币：JOTCHUA（Solana，共振 100.0）
-3. 记忆层变化：Alleged Launch of json Meme Image 当前为“新出现”
-4. 最新官方催化：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-06-23
+1. 当前最强叙事：Alleged Launch of json Meme Image（Solana，分数 87.14）
+2. 共振最强代币：ARX（BSC，共振 100.0）
+3. 记忆层变化：Ephraim P. Schindler Comments on Sakana AI Fugu 当前为“新出现”
+4. 最新官方催化：Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22)
 #Binance #NarrativeOS #OpenClaw
