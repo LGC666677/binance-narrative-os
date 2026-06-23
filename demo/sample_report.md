@@ -1,101 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-23T21:56:14.185903+00:00
+- 生成时间：2026-06-23T22:58:16.880682+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：0
+- 已确认叙事：0
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 MRFROG BOUGHT，所在链为 Solana，叙事强度 82.05。
-- 当前平均叙事强度为 78.0，其中已确认叙事 1 个。
+- 当前最强叙事是 Alleged Lazarus LLM Meme，所在链为 Solana，叙事强度 79.72。
+- 当前平均叙事强度为 75.24，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ARX，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Jonah Meme Image 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Soccerbro，伪叙事风险 47.79。
+- 记忆层显示 Alleged GMEBAY Token Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Grok Build Upgrades，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Arcium (ARX) and Share $200K Worth of Rewards (2026-06-23)。
 
 ## 叙事雷达
 
-- MRFROG BOUGHT | Solana | 加速中 | 强度 82.05 | 质量 75.35
-  - 主题摘要：Multiple tokens named 「ALBERT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.20 / 确认 24.48 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Jonah Meme Image | Solana | 加速中 | 强度 81.47 | 质量 72.28
-  - 主题摘要：According to Polina's post, the dog featured in a viral video with 20 million views has been identified as Jonah. Polina shared an Instagram link as proof and referenced a quoted…
-  - 资金 100.00 / 广度 76.49 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Lazarus LLM Meme | Solana | 已确认 | 强度 81.39 | 质量 82.62
+- Alleged Lazarus LLM Meme | Solana | 加速中 | 强度 79.72 | 质量 81.79
   - 主题摘要：According to Esoteric's post, Mike Dugan is allegedly building a Mythos-level LLM, but his GitHub repository is suspected to be fake with old commits. Esoteric claims Dugan is fro…
-  - 资金 100.00 / 广度 92.68 / 确认 30.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Soccerbro | Solana | 点火期 | 强度 79.94 | 质量 76.08
-  - 主题摘要：Multiple tokens named 「Soccerbro」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.73 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Grok Build Upgrades | Solana | 降温中 | 强度 78.96 | 质量 72.39
+  - 资金 100.00 / 广度 92.57 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged GMEBAY Token Launch | Solana | 降温中 | 强度 78.66 | 质量 70.10
+  - 主题摘要：According to Riskbets's post, the developer claims to be launching the GMEBAY token, leveraging GameStop CEO Ryan Cohen's proposal to acquire eBay. The developer states that all f…
+  - 资金 100.00 / 广度 66.80 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Grok Build Upgrades | Solana | 点火期 | 强度 77.02 | 质量 72.20
   - 主题摘要：Elon Musk announces upgrades to the Grok Build platform, highlighting a multi-agent system featuring implementors, skeptics, and code reviewers to enhance AI development capabilit…
-  - 资金 100.00 / 广度 87.22 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- LightOne Publishes Article | BSC | 加速中 | 强度 75.80 | 质量 61.10
-  - 主题摘要：According to 来一根 LightOne's post, the author published an article on X regarding the Light One token. The post links to an external article but does not provide specific details o…
-  - 资金 100.00 / 广度 72.82 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.85 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Soccerbro | Solana | 点火期 | 强度 76.14 | 质量 75.20
+  - 主题摘要：Multiple tokens named 「Soccerbro」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.81 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Launch of WCANIME Token | Solana | 加速中 | 强度 75.53 | 质量 62.13
+  - 主题摘要：According to Dedsec's post, the developer behind $PFANIME is launching a new token named $WCANIME, citing viral success of their anime-style World Cup content on TikTok. As the to…
+  - 资金 100.00 / 广度 76.44 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GTA Solana | Solana | 降温中 | 强度 74.49 | 质量 64.09
-  - 主题摘要：GTASOLANA draws inspiration from the iconic Grand Theft Auto video game franchise, featuring a retro aesthetic with neon colors and palm trees. The token aims to create a communit…
-  - 资金 100.00 / 广度 50.47 / 确认 4.32 / 脆弱性 14.00
+- Jordan Belfort Docuseries Trailer | Solana | 降温中 | 强度 75.52 | 质量 66.95
+  - 主题摘要：According to DiscussingFilm's post, a docuseries titled 'THE REAL WOLF OF WALL STREET' about Jordan Belfort is releasing on Paramount+. Concurrently, tokens such as WOLF and JORDA…
+  - 资金 100.00 / 广度 76.83 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- JuDao人生 | BSC | 加速中 | 强度 74.45 | 质量 69.79
-  - 主题摘要：Multiple tokens named 「JuDao人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.92 / 确认 31.68 / 脆弱性 24.00
+- LightOne Publishes Article | BSC | 加速中 | 强度 72.04 | 质量 60.83
+  - 主题摘要：According to 来一根 LightOne's post, the author published an article on X regarding the Light One token. The post references the token's ecosystem features, including buyback, burn,…
+  - 资金 100.00 / 广度 72.92 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Smiling like a kid | Solana | 降温中 | 强度 72.87 | 质量 57.97
-  - 主题摘要：According to Fabrizio Romano's post, he shared an Instagram update from footballer Diogo Dalot, who described his expression as "Smiling like a kid". The content highlights Dalot'…
-  - 资金 100.00 / 广度 72.84 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Sea Turtle Meme Image | Solana | 降温中 | 强度 72.83 | 质量 61.12
-  - 主题摘要：According to AJ's post, a photograph of a sea turtle surviving migration has been shortlisted for Image of the Year. AJ compares the 1-in-1,000 survival rate to trading profitabil…
-  - 资金 100.00 / 广度 79.77 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Flap平台全新王中王双币生态模型 | BSC | 加速中 | 强度 70.33 | 质量 54.10
-  - 主题摘要：Multiple tokens named 「王中王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.66 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 金狗 | BSC | 加速中 | 强度 70.03 | 质量 61.75
+- 金狗 | BSC | 加速中 | 强度 71.33 | 质量 61.76
   - 主题摘要：Multiple tokens named 「金狗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.61 / 确认 24.48 / 脆弱性 49.20
+  - 资金 100.00 / 广度 74.63 / 确认 24.48 / 脆弱性 39.20
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 69.63 | 质量 59.14
-  - 主题摘要：According to Mr.Five's post, he criticizes Key Opinion Leaders (KOLs) and project promoters for prioritizing quick profits over long-term ecosystem construction, comparing their b…
-  - 资金 100.00 / 广度 75.78 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged DOGE Dogshit Coin Promotion | BSC | 降温中 | 强度 66.13 | 质量 49.23
-  - 主题摘要：According to HTX/委员's post, an alleged token named DOGE Dogshit Coin is being promoted, featuring a 3% transaction fee with 70% burned, 20% distributed to holders, and 10% added t…
-  - 资金 100.00 / 广度 66.31 / 确认 16.56 / 脆弱性 14.00
+- Vice City Sol | Solana | 降温中 | 强度 69.83 | 质量 52.50
+  - 主题摘要：Multiple tokens named 「VCSOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.08 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 69.60 | 质量 57.18
+  - 主题摘要：According to Mr.Five's post, he criticizes Key Opinion Leaders (KOLs) and project promoters for prioritizing quick profits over long-term ecosystem construction, comparing their b…
+  - 资金 100.00 / 广度 75.79 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- JuDao人生 | BSC | 加速中 | 强度 69.57 | 质量 62.61
+  - 主题摘要：Multiple tokens named 「JuDao人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.86 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Meme Coin Launch | Solana | 加速中 | 强度 69.54 | 质量 62.53
+  - 主题摘要：According to m's post, the author discusses reverse marketing strategies during the World Cup and claims to be launching a token named 'Definetely Not A Memecoin'. This informatio…
+  - 资金 100.00 / 广度 81.57 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Flap平台全新王中王双币生态模型 | BSC | 加速中 | 强度 68.30 | 质量 51.10
+  - 主题摘要：Multiple tokens named 「王中王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.57 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 神盾金库 | BSC | 加速中 | 强度 67.66 | 质量 53.51
+  - 主题摘要：Multiple tokens named 「SHEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.63 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.0，其中已确认叙事 1 个。
-- Alleged Jonah Meme Image 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Grok Build Upgrades 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.24，其中已确认叙事 0 个。
+- Alleged Launch of WCANIME Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged GMEBAY Token Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Lazarus LLM Meme | 质量 82.62 | 可交易性 100.00 | 风险 低
-- Soccerbro | 质量 76.08 | 可交易性 100.00 | 风险 低
-- MRFROG BOUGHT | 质量 75.35 | 可交易性 100.00 | 风险 低
-- Grok Build Upgrades | 质量 72.39 | 可交易性 87.22 | 风险 低
-- Alleged Jonah Meme Image | 质量 72.28 | 可交易性 86.50 | 风险 低
-- JuDao人生 | 质量 69.79 | 可交易性 100.00 | 风险 低
-- GTA Solana | 质量 64.09 | 可交易性 100.00 | 风险 低
-- 金狗 | 质量 61.75 | 可交易性 53.27 | 风险 低
-- Sea Turtle Meme Image | 质量 61.12 | 可交易性 51.83 | 风险 低
-- LightOne Publishes Article | 质量 61.10 | 可交易性 52.88 | 风险 低
+- Alleged Lazarus LLM Meme | 质量 81.79 | 可交易性 100.00 | 风险 低
+- Soccerbro | 质量 75.20 | 可交易性 100.00 | 风险 低
+- Grok Build Upgrades | 质量 72.20 | 可交易性 86.96 | 风险 低
+- Alleged GMEBAY Token Launch | 质量 70.10 | 可交易性 100.00 | 风险 低
+- Jordan Belfort Docuseries Trailer | 质量 66.95 | 可交易性 79.46 | 风险 低
+- JuDao人生 | 质量 62.61 | 可交易性 100.00 | 风险 低
+- Alleged Meme Coin Launch | 质量 62.53 | 可交易性 48.91 | 风险 低
+- Alleged Launch of WCANIME Token | 质量 62.13 | 可交易性 52.71 | 风险 低
+- 金狗 | 质量 61.76 | 可交易性 53.27 | 风险 低
+- LightOne Publishes Article | 质量 60.83 | 可交易性 51.89 | 风险 低
 
 ## 伪叙事风险
 
-- Soccerbro | 风险 47.79 | 原因：流动性偏薄
-- 金狗 | 风险 42.00 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
+- Grok Build Upgrades | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Soccerbro | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -106,7 +106,7 @@
 - GTAVI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEEP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - QCAT | Solana | 看多 | 新鲜度 99.90 | 暂无直接叙事映射
-- 九天玄女 | BSC | 看多 | 新鲜度 81.48 | 暂无直接叙事映射
+- 九天玄女 | BSC | 看多 | 新鲜度 82.83 | 暂无直接叙事映射
 - SIDELINED | Solana | 看多 | 新鲜度 59.13 | 暂无直接叙事映射
 - JAMESON | Solana | 看多 | 新鲜度 56.05 | 暂无直接叙事映射
 
@@ -134,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：MRFROG BOUGHT（Solana，分数 82.05）
+1. 当前最强叙事：Alleged Lazarus LLM Meme（Solana，分数 79.72）
 2. 共振最强代币：ARX（BSC，共振 100.0）
-3. 记忆层变化：Alleged Jonah Meme Image 当前为“新出现”
+3. 记忆层变化：Alleged GMEBAY Token Launch 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Arcium (ARX) and Share $200K Worth of Rewards (2026-06-23)
 #Binance #NarrativeOS #OpenClaw
