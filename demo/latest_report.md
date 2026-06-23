@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-22T23:46:43.725639+00:00
+- 生成时间：2026-06-23T01:51:34.518888+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：0
+- 已确认叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Vice City Sol，所在链为 Solana，叙事强度 86.6。
-- 当前平均叙事强度为 82.37，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Wildfrontier Game Release 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 RDR2，伪叙事风险 47.23。
+- 当前最强叙事是 Moonlake AI，所在链为 Solana，叙事强度 85.99。
+- 当前平均叙事强度为 81.44，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ARX，来自 BSC，共振分数 100.0。
+- 记忆层显示 traindog 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Trump Loner，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22)。
 
 ## 叙事雷达
 
-- Vice City Sol | Solana | 降温中 | 强度 86.60 | 质量 77.42
-  - 主题摘要：Multiple tokens named 「VCSOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.19 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of json Meme Image | Solana | 加速中 | 强度 86.55 | 质量 78.86
-  - 主题摘要：According to xyz's post, the 'who is json' Meme is currently viral, with videos reaching millions of views. The post references multiple sources discussing this trend. Token infor…
-  - 资金 100.00 / 广度 88.07 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump Loner | Solana | 降温中 | 强度 85.30 | 质量 75.50
-  - 主题摘要：Multiple tokens named 「TrumpLoner」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.80 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Moonlake AI | Solana | 降温中 | 强度 82.10 | 质量 75.00
+- Moonlake AI | Solana | 降温中 | 强度 85.99 | 质量 75.22
   - 主题摘要：Multiple tokens named 「Moonlake」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.13 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.88 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk: True | Solana | 加速中 | 强度 81.60 | 质量 82.19
+- Alleged Launch of json Meme Image | Solana | 降温中 | 强度 85.95 | 质量 76.47
+  - 主题摘要：According to xyz's post, the 'who is json' Meme is currently viral, with videos reaching millions of views. The post references multiple sources discussing this trend. Token infor…
+  - 资金 100.00 / 广度 88.02 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Vice City Sol | Solana | 降温中 | 强度 84.44 | 质量 77.50
+  - 主题摘要：Multiple tokens named 「VCSOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 91.47 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk: True | Solana | 加速中 | 强度 82.43 | 质量 82.24
   - 主题摘要：Elon Musk replied 'True' to a post by C3 claiming that media usage of 'White Supremacy' increased dramatically between 2010 and 2020. This single-word endorsement validates the co…
-  - 资金 100.00 / 广度 99.17 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 99.36 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Wildfrontier Game Release | Solana | 降温中 | 强度 79.26 | 质量 72.05
-  - 主题摘要：According to CorpDev's post, the Wildfrontier Idle MMORPG has been released on Pump Fun. The project claims that holders of $WILD tokens automatically earn rewards through an in-g…
-  - 资金 100.00 / 广度 68.03 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Quantum Coin Launch | Solana | 加速中 | 强度 78.80 | 质量 71.53
-  - 主题摘要：According to d's post, the user commented on a tweet questioning the origin of Quantum Coin amidst Bitcoin's decline, stating that the situation now makes sense. This implies a di…
-  - 资金 100.00 / 广度 80.30 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- RDR2 | Solana | 点火期 | 强度 78.74 | 质量 76.89
-  - 主题摘要：RDR2 token draws inspiration from the outlaw spirit of Red Dead Redemption 2, featuring a cowboy logo with a gun. It embodies the 'one last score' philosophy, appealing to gamers…
-  - 资金 100.00 / 广度 84.15 / 确认 16.56 / 脆弱性 24.00
+- Trump Loner | Solana | 点火期 | 强度 79.27 | 质量 76.25
+  - 主题摘要：Multiple tokens named 「TrumpLoner」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.31 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- JuDao人生 | BSC | 已确认 | 强度 78.01 | 质量 73.51
+- RDR2 | Solana | 点火期 | 强度 78.56 | 质量 76.91
+  - 主题摘要：RDR2 token draws inspiration from the outlaw spirit of Red Dead Redemption 2, featuring a cowboy logo with a gun. It embodies the 'one last score' philosophy, appealing to gamers…
+  - 资金 100.00 / 广度 84.22 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Quantum Coin Launch | Solana | 加速中 | 强度 78.42 | 质量 71.51
+  - 主题摘要：Multiple tokens named 「Q」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.52 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- traindog | Solana | 加速中 | 强度 76.48 | 质量 67.75
+  - 主题摘要：traindog is a meme token inspired by the viral 'train dog' internet meme. It aims to build a community around playful, lighthearted content while fostering engagement through soci…
+  - 资金 100.00 / 广度 59.95 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- JuDao人生 | BSC | 加速中 | 强度 75.79 | 质量 70.66
   - 主题摘要：Multiple tokens named 「JuDao人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.39 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 70.85 | 质量 63.03
-  - 主题摘要：According to Mr.Five's post, he criticizes Key Opinion Leaders (KOLs) and project promoters for prioritizing quick profits over long-term ecosystem construction, comparing their b…
-  - 资金 100.00 / 广度 74.66 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.33 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- First | BSC | 降温中 | 强度 69.52 | 质量 54.79
+- Flap平台全新王中王双币生态模型 | BSC | 加速中 | 强度 70.65 | 质量 55.57
+  - 主题摘要：Multiple tokens named 「王中王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.37 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- First | BSC | 降温中 | 强度 69.85 | 质量 54.90
   - 主题摘要：Multiple tokens named 「First」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 63.82 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 64.03 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bidao Launches SpaceX World Game | BSC | 加速中 | 强度 67.71 | 质量 60.55
+- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 69.66 | 质量 63.16
+  - 主题摘要：According to Mr.Five's post, he criticizes Key Opinion Leaders (KOLs) and project promoters for prioritizing quick profits over long-term ecosystem construction, comparing their b…
+  - 资金 100.00 / 广度 75.25 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Bidao Launches SpaceX World Game | BSC | 加速中 | 强度 68.41 | 质量 60.80
   - 主题摘要：According to Bidao's post, Bidao developed a browser-based multiplayer online game set in the SpaceX universe, featuring elements like AI, X, and Starship. The game utilizes walle…
-  - 资金 100.00 / 广度 77.03 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.11 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 宇宙所 | BSC | 加速中 | 强度 67.23 | 质量 55.33
-  - 主题摘要：Multiple tokens named 「宇宙所」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.98 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Wojak Posts 4jak 4wojillion Meme Image | BSC | 加速中 | 强度 67.07 | 质量 61.89
+- Wojak Posts 4jak 4wojillion Meme Image | BSC | 加速中 | 强度 67.48 | 质量 62.52
   - 主题摘要：According to Wojak's post, the user shared a Meme image referencing '4jak' and '4wojillion'. This content relates to internet meme culture associated with the Wojak character and…
-  - 资金 100.00 / 广度 78.26 / 确认 30.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.27 / 确认 30.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.37，其中已确认叙事 0 个。
-- Vice City Sol 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.44，其中已确认叙事 0 个。
+- traindog 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Moonlake AI 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk: True | 质量 82.19 | 可交易性 100.00 | 风险 低
-- Alleged Launch of json Meme Image | 质量 78.86 | 可交易性 100.00 | 风险 低
-- Vice City Sol | 质量 77.42 | 可交易性 100.00 | 风险 低
-- RDR2 | 质量 76.89 | 可交易性 100.00 | 风险 低
-- Trump Loner | 质量 75.50 | 可交易性 100.00 | 风险 低
-- Moonlake AI | 质量 75.00 | 可交易性 100.00 | 风险 低
-- JuDao人生 | 质量 73.51 | 可交易性 100.00 | 风险 低
-- Alleged Wildfrontier Game Release | 质量 72.05 | 可交易性 100.00 | 风险 低
-- Alleged Quantum Coin Launch | 质量 71.53 | 可交易性 83.36 | 风险 低
-- Mr.Five Criticizes KOL Speculation | 质量 63.03 | 可交易性 58.03 | 风险 低
+- Elon Musk: True | 质量 82.24 | 可交易性 100.00 | 风险 低
+- Vice City Sol | 质量 77.50 | 可交易性 100.00 | 风险 低
+- RDR2 | 质量 76.91 | 可交易性 100.00 | 风险 低
+- Alleged Launch of json Meme Image | 质量 76.47 | 可交易性 100.00 | 风险 低
+- Trump Loner | 质量 76.25 | 可交易性 100.00 | 风险 低
+- Moonlake AI | 质量 75.22 | 可交易性 100.00 | 风险 低
+- Alleged Quantum Coin Launch | 质量 71.51 | 可交易性 83.06 | 风险 低
+- JuDao人生 | 质量 70.66 | 可交易性 100.00 | 风险 低
+- traindog | 质量 67.75 | 可交易性 100.00 | 风险 低
+- Mr.Five Criticizes KOL Speculation | 质量 63.16 | 可交易性 57.86 | 风险 低
 
 ## 伪叙事风险
 
+- Trump Loner | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - RDR2 | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Moonlake AI | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Vice City Sol（Solana，分数 86.6）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Alleged Wildfrontier Game Release 当前为“新出现”
+1. 当前最强叙事：Moonlake AI（Solana，分数 85.99）
+2. 共振最强代币：ARX（BSC，共振 100.0）
+3. 记忆层变化：traindog 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22)
 #Binance #NarrativeOS #OpenClaw
