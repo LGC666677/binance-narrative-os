@@ -1,104 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-24T13:51:07.542918+00:00
+- 生成时间：2026-06-24T16:04:32.099240+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Shin: He Made a Wallet，所在链为 Solana，叙事强度 82.57。
-- 当前平均叙事强度为 78.17，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ARX，来自 BSC，共振分数 100.0。
-- 记忆层显示 Baggy Comments on SWIF Token Relaunch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 春，伪叙事风险 52.99。
+- 当前最强叙事是 Shin: He Made a Wallet，所在链为 Solana，叙事强度 82.28。
+- 当前平均叙事强度为 78.34，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 JOTCHUA，来自 Solana，共振分数 100.0。
+- 记忆层显示 Wendy's Maxxing 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined OUSDT Perpetual Contract (2026-06-24)。
 
 ## 叙事雷达
 
-- Shin: He Made a Wallet | Solana | 加速中 | 强度 82.57 | 质量 78.12
+- Shin: He Made a Wallet | Solana | 加速中 | 强度 82.28 | 质量 78.37
   - 主题摘要：Multiple tokens named 「WEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.44 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.27 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Baggy Comments on SWIF Token Relaunch | Solana | 降温中 | 强度 80.27 | 质量 70.72
+- Wendy's Maxxing | Solana | 降温中 | 强度 81.68 | 质量 73.15
+  - 主题摘要：Multiple tokens named 「WENMAXX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.98 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Baggy Comments on SWIF Token Relaunch | Solana | 加速中 | 强度 80.64 | 质量 71.76
   - 主题摘要：According to Baggy's post, the SWIF token is relaunching on USDC for stability after a previous $30M market cap run. Baggy commented on the announcement, stating that if the commu…
-  - 资金 100.00 / 广度 82.69 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GTA 6 Release Details | Solana | 降温中 | 强度 79.54 | 质量 70.17
-  - 主题摘要：According to GTA 6 Countdown ⏳'s post, new details regarding Grand Theft Auto VI include a November 19 launch date, $80 standard and $100 ultimate editions, and pre-orders startin…
-  - 资金 100.00 / 广度 67.02 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Lazarus LLM Meme | Solana | 加速中 | 强度 78.56 | 质量 77.88
+  - 资金 100.00 / 广度 83.22 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Lazarus LLM Meme | Solana | 加速中 | 强度 78.70 | 质量 78.10
   - 主题摘要：According to Esoteric's post, Mike Dugan is allegedly building a Mythos-level LLM, but his GitHub repository is suspected to be fake with old commits. Esoteric claims Dugan is fro…
-  - 资金 100.00 / 广度 92.37 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 92.18 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AAIF | Solana | 降温中 | 强度 77.90 | 质量 66.70
+- AAIF | Solana | 降温中 | 强度 78.55 | 质量 68.46
   - 主题摘要：AAIF token represents the American AI Fund, inspired by the intersection of American patriotism and artificial intelligence innovation. The logo features an American flag, eagle,…
-  - 资金 100.00 / 广度 64.32 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 66.60 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 金狗 | BSC | 加速中 | 强度 76.84 | 质量 63.60
-  - 主题摘要：Multiple tokens named 「金狗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.17 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- JuDao人生 | BSC | 加速中 | 强度 76.30 | 质量 72.25
-  - 主题摘要：Multiple tokens named 「JuDao人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.53 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 春 | Solana | 点火期 | 强度 75.90 | 质量 75.81
-  - 主题摘要：The HARU token draws inspiration from lighthearted internet culture, leveraging community-driven marketing and viral social media tactics for rapid spread. Its growth is fueled by…
-  - 资金 100.00 / 广度 85.84 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Launch of WCANIME Token | Solana | 加速中 | 强度 75.35 | 质量 60.73
-  - 主题摘要：According to Dedsec's post, the developer behind $PFANIME is launching a new token named $WCANIME, citing viral success of their anime-style World Cup content on TikTok. As the to…
-  - 资金 100.00 / 广度 74.65 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged AI Chip Jalapeño | Solana | 降温中 | 强度 75.27 | 质量 65.09
-  - 主题摘要：According to Wall St Engine's post, OpenAI and Broadcom unveiled an AI chip named Jalapeño. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 76.17 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 74.69 | 质量 63.20
+- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 77.69 | 质量 64.41
   - 主题摘要：According to Mr.Five's post, he criticizes Key Opinion Leaders (KOLs) and project promoters for prioritizing quick profits over long-term ecosystem construction, comparing their b…
-  - 资金 100.00 / 广度 77.11 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.24 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 蝴蝶平台首个链游托底生态机制 | BSC | 加速中 | 强度 72.92 | 质量 58.29
-  - 主题摘要：Multiple tokens named 「草根社」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.29 / 确认 23.76 / 脆弱性 14.00
+- 7BURN Team Launch Plan | BSC | 加速中 | 强度 76.32 | 质量 64.27
+  - 主题摘要：According to 7BURN's post, the team is preparing to launch on FLAP. The roadmap includes updating the database, evangelizing to diamond hands, building a foundation army, and esta…
+  - 资金 100.00 / 广度 71.32 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 黄金时代 | BSC | 加速中 | 强度 70.43 | 质量 57.28
-  - 主题摘要：Multiple tokens named 「黄金时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.36 / 确认 23.76 / 脆弱性 14.00
+- Fit Coin | Solana | 加速中 | 强度 75.45 | 质量 64.14
+  - 主题摘要：Multiple tokens named 「FITNESS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.67 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Academy Kenya Education | BSC | 加速中 | 强度 68.27 | 质量 60.53
-  - 主题摘要：Binance Academy highlights crypto education efforts among students at Nazarene University in Kenya, showcasing the growth of Web3 builders in Africa.
-  - 资金 100.00 / 广度 77.28 / 确认 24.48 / 脆弱性 24.00
+- Alleged Ascending Penguin Meme | Solana | 加速中 | 强度 74.99 | 质量 61.85
+  - 主题摘要：According to The Quant's post, the author highlights a narrative regarding 'ascending penguins' within a specific article context. The post references a Guardian gallery and sugge…
+  - 资金 100.00 / 广度 78.01 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- World Bet | Solana | 降温中 | 强度 74.43 | 质量 62.29
+  - 主题摘要：Multiple tokens named 「WBET」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.17 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- JuDao人生 | BSC | 加速中 | 强度 71.46 | 质量 65.18
+  - 主题摘要：Multiple tokens named 「JuDao人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.34 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 金狗 | BSC | 加速中 | 强度 70.90 | 质量 59.51
+  - 主题摘要：Multiple tokens named 「金狗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.16 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged SpaceX AI Trademark | BSC | 加速中 | 强度 68.52 | 质量 59.63
+  - 主题摘要：According to Robin's post, xAI has trademarked the name STARMIND, raising speculation that it may serve as the official name for the SpaceX AI satellite constellation. This inform…
+  - 资金 100.00 / 广度 77.64 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 不死鸟 | BSC | 降温中 | 强度 68.52 | 质量 52.02
+  - 主题摘要：Multiple tokens named 「不死鸟」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 63.00 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.17，其中已确认叙事 0 个。
-- Alleged Lazarus LLM Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Baggy Comments on SWIF Token Relaunch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.34，其中已确认叙事 0 个。
+- 7BURN Team Launch Plan 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Wendy's Maxxing 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Shin: He Made a Wallet | 质量 78.12 | 可交易性 100.00 | 风险 低
-- Alleged Lazarus LLM Meme | 质量 77.88 | 可交易性 100.00 | 风险 低
-- 春 | 质量 75.81 | 可交易性 100.00 | 风险 低
-- JuDao人生 | 质量 72.25 | 可交易性 100.00 | 风险 低
-- Baggy Comments on SWIF Token Relaunch | 质量 70.72 | 可交易性 80.91 | 风险 低
-- GTA 6 Release Details | 质量 70.17 | 可交易性 100.00 | 风险 低
-- AAIF | 质量 66.70 | 可交易性 88.52 | 风险 低
-- Alleged AI Chip Jalapeño | 质量 65.09 | 可交易性 73.92 | 风险 低
-- 金狗 | 质量 63.60 | 可交易性 60.87 | 风险 低
-- Mr.Five Criticizes KOL Speculation | 质量 63.20 | 可交易性 62.47 | 风险 低
+- Shin: He Made a Wallet | 质量 78.37 | 可交易性 100.00 | 风险 低
+- Alleged Lazarus LLM Meme | 质量 78.10 | 可交易性 100.00 | 风险 低
+- Wendy's Maxxing | 质量 73.15 | 可交易性 100.00 | 风险 低
+- Baggy Comments on SWIF Token Relaunch | 质量 71.76 | 可交易性 81.21 | 风险 低
+- AAIF | 质量 68.46 | 可交易性 92.11 | 风险 低
+- JuDao人生 | 质量 65.18 | 可交易性 100.00 | 风险 低
+- Mr.Five Criticizes KOL Speculation | 质量 64.41 | 可交易性 62.85 | 风险 低
+- 7BURN Team Launch Plan | 质量 64.27 | 可交易性 68.13 | 风险 低
+- Fit Coin | 质量 64.14 | 可交易性 57.72 | 风险 低
+- World Bet | 质量 62.29 | 可交易性 71.57 | 风险 低
 
 ## 伪叙事风险
 
-- 春 | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- 狗叫 | BSC | 看多 | 新鲜度 100.00 | Binance Academy Kenya Education
+- 狗叫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 何子 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - gary | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GTAVI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Shin: He Made a Wallet（Solana，分数 82.57）
-2. 共振最强代币：ARX（BSC，共振 100.0）
-3. 记忆层变化：Baggy Comments on SWIF Token Relaunch 当前为“新出现”
+1. 当前最强叙事：Shin: He Made a Wallet（Solana，分数 82.28）
+2. 共振最强代币：JOTCHUA（Solana，共振 100.0）
+3. 记忆层变化：Wendy's Maxxing 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined OUSDT Perpetual Contract (2026-06-24)
 #Binance #NarrativeOS #OpenClaw
