@@ -1,98 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-24T22:50:45.139365+00:00
+- 生成时间：2026-06-24T23:53:57.781241+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Mr.Five Criticizes KOL Speculation，所在链为 BSC，叙事强度 79.7。
-- 当前平均叙事强度为 72.7，其中已确认叙事 0 个。
+- 当前最强叙事是 Daily Noud on GTA 6 Release，所在链为 Solana，叙事强度 84.68。
+- 当前平均叙事强度为 74.79，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 NES，来自 BSC，共振分数 100.0。
-- 记忆层显示 GOOD KARMA Charity Claims 当前处于“新出现”状态。
+- 记忆层显示 Daily Noud on GTA 6 Release 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 aristotle，伪叙事风险 47.79。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined OUSDT Perpetual Contract (2026-06-24)。
 
 ## 叙事雷达
 
-- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 79.70 | 质量 66.20
+- Daily Noud on GTA 6 Release | Solana | 加速中 | 强度 84.68 | 质量 79.82
+  - 主题摘要：According to Grand Trench Auto's post, the team is developing a multiplayer open-world game inspired by GTA VI, featuring PVP, racing, and wallet integration for $GTA token usage.…
+  - 资金 100.00 / 广度 91.29 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 79.07 | 质量 66.37
   - 主题摘要：According to Mr.Five's post, he criticizes Key Opinion Leaders (KOLs) and project promoters for prioritizing quick profits over long-term ecosystem construction, comparing their b…
-  - 资金 100.00 / 广度 78.00 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.28 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AAIF | Solana | 降温中 | 强度 78.11 | 质量 67.72
-  - 主题摘要：AAIF token represents the American AI Fund, inspired by the intersection of American patriotism and artificial intelligence innovation. The logo features an American flag, eagle,…
-  - 资金 100.00 / 广度 64.70 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Shin: He Made a Wallet | Solana | 加速中 | 强度 77.57 | 质量 65.99
-  - 主题摘要：According to Shin's post, he stated that a specific individual created a wallet. The post is brief and lacks further context regarding the identity of the individual or the wallet…
-  - 资金 100.00 / 广度 82.47 / 确认 24.48 / 脆弱性 14.00
+- Alleged Finn Bags Token Launch | Solana | 加速中 | 强度 76.95 | 质量 76.53
+  - 主题摘要：Multiple tokens named 「WEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.03 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Serenity on $WEN Viral Campaign | Solana | 加速中 | 强度 77.02 | 质量 65.15
-  - 主题摘要：According to Gen Run's post, the WEN token is allegedly associated with 'The Wendy's Company' stock. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 81.01 / 确认 24.48 / 脆弱性 14.00
+- Alleged GTA Meme Coin Launch | Solana | 加速中 | 强度 75.83 | 质量 65.01
+  - 主题摘要：Multiple tokens named 「WEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.55 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GOOD KARMA Charity Claims | Solana | 降温中 | 强度 75.74 | 质量 67.32
-  - 主题摘要：According to GOOD KARMA's post, the KARMA token utilizes creator rewards to feed the homeless daily, promoting a movement with a real cause. The token description further claims a…
-  - 资金 100.00 / 广度 57.54 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Fit Coin | Solana | 加速中 | 强度 75.38 | 质量 61.74
-  - 主题摘要：Multiple tokens named 「FITNESS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.70 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SillyRoyale | Solana | 降温中 | 强度 75.34 | 质量 67.57
-  - 主题摘要：SILLY token represents SillyRoyale, a playful gaming ecosystem featuring a devil-like mascot with horns and a blindfold. The project invites 18 million players to join the 'sillye…
-  - 资金 100.00 / 广度 58.37 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Discusses Pump.fun Airdrop | Solana | 加速中 | 强度 75.17 | 质量 64.93
-  - 主题摘要：According to Ansem's post, he replied to a discussion regarding Pump.fun, stating "lets cook" in response to a comment about pressuring the team for an airdrop. This indicates Ans…
-  - 资金 100.00 / 广度 72.80 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ansem | Solana | 加速中 | 强度 75.13 | 质量 75.12
-  - 主题摘要：According to megasud's post, Ansem sent 10 SOL to a wallet that deployed a token named 'Ansems Furry Cyber Cat'. This suggests Ansem is allegedly launching a new Meme coin. This i…
-  - 资金 100.00 / 广度 88.68 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 人生之书 LIFEBOOK | BSC | 加速中 | 强度 74.74 | 质量 59.59
-  - 主题摘要：Multiple tokens named 「LIFEBOOK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.05 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- JuDao人生 | BSC | 加速中 | 强度 74.55 | 质量 70.37
+- JuDao人生 | BSC | 加速中 | 强度 75.10 | 质量 71.63
   - 主题摘要：Multiple tokens named 「JuDao人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.29 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.39 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 金狗 | BSC | 加速中 | 强度 70.48 | 质量 57.31
-  - 主题摘要：Multiple tokens named 「金狗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.09 / 确认 24.48 / 脆弱性 14.00
+- FINN Announces BagsApp Candles | Solana | 加速中 | 强度 74.91 | 质量 71.47
+  - 主题摘要：Multiple tokens named 「WENDYS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.01 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 黄金时代 | BSC | 加速中 | 强度 68.80 | 质量 56.25
+- ansem | Solana | 点火期 | 强度 72.54 | 质量 71.63
+  - 主题摘要：According to megasud's post, Ansem sent 10 SOL to a wallet that deployed a token named 'Ansems Furry Cyber Cat'. This suggests Ansem is allegedly launching a new Meme coin. This i…
+  - 资金 100.00 / 广度 88.44 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 人生之书 LIFEBOOK | BSC | 加速中 | 强度 72.21 | 质量 59.61
+  - 主题摘要：Multiple tokens named 「LIFEBOOK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.31 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Baggy Comments on SWIF Token Relaunch | Solana | 点火期 | 强度 71.57 | 质量 67.66
+  - 主题摘要：According to Baggy's post, the SWIF token is relaunching on USDC for stability after a previous $30M market cap run. Baggy commented on the announcement, stating that if the commu…
+  - 资金 100.00 / 广度 82.83 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- aristotle | Solana | 点火期 | 强度 71.49 | 质量 67.45
+  - 主题摘要：aris token draws inspiration from ancient Greek philosopher Aristotle, symbolized by its blue interlocking spiral logo representing mathematical harmony. Created by HarmonicMath,…
+  - 资金 100.00 / 广度 57.96 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 黄金时代 | BSC | 加速中 | 强度 70.74 | 质量 57.27
   - 主题摘要：Multiple tokens named 「黄金时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.07 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 68.09 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 不死鸟 | BSC | 加速中 | 强度 67.90 | 质量 54.61
+- Alleged Wen Moon Token | Solana | 加速中 | 强度 70.35 | 质量 63.18
+  - 主题摘要：Multiple tokens named 「WEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.52 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 不死鸟 | BSC | 加速中 | 强度 69.36 | 质量 54.64
   - 主题摘要：Multiple tokens named 「不死鸟」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.76 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 69.82 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Flap平台全新王中王双币生态模型 | BSC | 加速中 | 强度 68.45 | 质量 54.22
+  - 主题摘要：Multiple tokens named 「王中王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.64 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 72.7，其中已确认叙事 0 个。
-- Fit Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- AAIF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 74.79，其中已确认叙事 0 个。
+- Daily Noud on GTA 6 Release 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 
 ## 质量榜
 
-- ansem | 质量 75.12 | 可交易性 100.00 | 风险 低
-- JuDao人生 | 质量 70.37 | 可交易性 100.00 | 风险 低
-- AAIF | 质量 67.72 | 可交易性 91.53 | 风险 低
-- SillyRoyale | 质量 67.57 | 可交易性 100.00 | 风险 低
-- GOOD KARMA Charity Claims | 质量 67.32 | 可交易性 99.98 | 风险 低
-- Mr.Five Criticizes KOL Speculation | 质量 66.20 | 可交易性 64.73 | 风险 低
-- Shin: He Made a Wallet | 质量 65.99 | 可交易性 59.53 | 风险 低
-- Serenity on $WEN Viral Campaign | 质量 65.15 | 可交易性 58.22 | 风险 低
-- Ansem Discusses Pump.fun Airdrop | 质量 64.93 | 可交易性 68.07 | 风险 低
-- Fit Coin | 质量 61.74 | 可交易性 58.48 | 风险 低
+- Daily Noud on GTA 6 Release | 质量 79.82 | 可交易性 100.00 | 风险 低
+- Alleged Finn Bags Token Launch | 质量 76.53 | 可交易性 96.29 | 风险 低
+- JuDao人生 | 质量 71.63 | 可交易性 100.00 | 风险 低
+- ansem | 质量 71.63 | 可交易性 100.00 | 风险 低
+- FINN Announces BagsApp Candles | 质量 71.47 | 可交易性 84.45 | 风险 低
+- Baggy Comments on SWIF Token Relaunch | 质量 67.66 | 可交易性 73.83 | 风险 低
+- aristotle | 质量 67.45 | 可交易性 100.00 | 风险 低
+- Mr.Five Criticizes KOL Speculation | 质量 66.37 | 可交易性 64.99 | 风险 低
+- Alleged GTA Meme Coin Launch | 质量 65.01 | 可交易性 59.71 | 风险 低
+- Alleged Wen Moon Token | 质量 63.18 | 可交易性 54.28 | 风险 低
 
 ## 伪叙事风险
 
+- aristotle | 风险 47.79 | 原因：流动性偏薄
+- ansem | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Baggy Comments on SWIF Token Relaunch | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -131,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Mr.Five Criticizes KOL Speculation（BSC，分数 79.7）
+1. 当前最强叙事：Daily Noud on GTA 6 Release（Solana，分数 84.68）
 2. 共振最强代币：NES（BSC，共振 100.0）
-3. 记忆层变化：GOOD KARMA Charity Claims 当前为“新出现”
+3. 记忆层变化：Daily Noud on GTA 6 Release 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined OUSDT Perpetual Contract (2026-06-24)
 #Binance #NarrativeOS #OpenClaw
