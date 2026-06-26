@@ -1,103 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-26T04:46:12.460234+00:00
+- 生成时间：2026-06-26T08:23:31.579800+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：2
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 pisscoin，所在链为 Solana，叙事强度 85.67。
-- 当前平均叙事强度为 77.22，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 M，来自 BSC，共振分数 100.0。
-- 记忆层显示 pisscoin 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Starlink Venezuela Free Net，伪叙事风险 52.99。
-- 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-06-25)。
+- 当前最强叙事是 pisscoin，所在链为 Solana，叙事强度 83.77。
+- 当前平均叙事强度为 74.96，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 JOTCHUA，来自 Solana，共振分数 100.0。
+- 记忆层显示 SIR WENDY'S 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Rosen Law Firm Investigates Strategy，伪叙事风险 52.99。
+- 最新官方催化来自 最新活动：WLD Airdrop Carnival: Claim Your Share of 30,000 WLD。
 
 ## 叙事雷达
 
-- pisscoin | Solana | 加速中 | 强度 85.67 | 质量 74.77
+- pisscoin | Solana | 加速中 | 强度 83.77 | 质量 75.64
   - 主题摘要：Pisscoin (piss) is a meme token inspired by internet humor, featuring a yellow liquid droplet logo that visually represents its name. Launched on pump.fun, it positions itself as…
-  - 资金 100.00 / 广度 71.28 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 74.72 / 确认 23.76 / 脆弱性 10.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FLAP PVE Mode Launch | BSC | 已确认 | 强度 85.26 | 质量 80.45
+- FLAP PVE Mode Launch | BSC | 已确认 | 强度 80.03 | 质量 74.75
   - 主题摘要：According to Flap 🦋's post, the FLAP PVE Mode has been officially launched to redesign the token launching bonding curve. This feature flattens price increases during the bonding…
-  - 资金 100.00 / 广度 87.57 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.29 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Dog Wif Stick | Solana | 降温中 | 强度 83.03 | 质量 76.16
-  - 主题摘要：Multiple tokens named 「WifStick」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.01 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SoftBank Goose Meme | Solana | 点火期 | 强度 78.08 | 质量 74.38
+- SoftBank Goose Meme | Solana | 加速中 | 强度 79.50 | 质量 72.89
   - 主题摘要：According to Quant's post, the SoftBank goose meme is going viral across platforms like Reddit and Yahoo Finance. Quant identifies this trend as a significant finance meme, emphas…
-  - 资金 100.00 / 广度 84.48 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged OpenAI Plant Talk Meme | Solana | 加速中 | 强度 76.27 | 质量 73.59
-  - 主题摘要：According to Jircachi0x's post, OpenAI allegedly created an AI tool allowing users to speak to plants, with one plant named "George." The post includes a GitHub link and reference…
-  - 资金 100.00 / 广度 83.78 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.96 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Starlink Venezuela Free Net | Solana | 点火期 | 强度 75.63 | 质量 75.77
-  - 主题摘要：Elon Musk retweeted Starlink's announcement of providing free internet services in Venezuela following devastating earthquakes. This act highlights Musk's influence in global disa…
-  - 资金 100.00 / 广度 85.69 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Worldcat Meme | Solana | 降温中 | 强度 74.27 | 质量 57.38
-  - 主题摘要：According to Jawn's post, the @world_xyz account replied to a cat image, sparking discussion about a potential 'worldcat' Meme. Jawn also noted that Ansem previously suggested a n…
-  - 资金 100.00 / 广度 83.17 / 确认 16.56 / 脆弱性 14.00
+- SIR WENDY'S | Solana | 加速中 | 强度 77.99 | 质量 64.90
+  - 主题摘要：Multiple tokens named 「WENDU」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.02 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Loïc Shares PartyShark Meme Image | Solana | 降温中 | 强度 75.57 | 质量 65.31
+  - 主题摘要：According to Loïc's post, the author shares a Meme image of PartyShark, describing it as a symbol of positive vibes in a stressful market. Loïc characterizes the token as a remind…
+  - 资金 100.00 / 广度 62.03 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 黄金时代 | BSC | 加速中 | 强度 73.66 | 质量 59.15
-  - 主题摘要：Multiple tokens named 「黄金时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.50 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- X Money Launch for Premium+ Users | BSC | 点火期 | 强度 73.18 | 质量 68.64
-  - 主题摘要：According to DogeDesigner's post, X Money is now going live for select Premium+ users in the United States. This announcement indicates the expansion of the X Money service to a s…
-  - 资金 100.00 / 广度 78.91 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 都踏马得来 | BSC | 加速中 | 强度 72.98 | 质量 65.38
+- 都踏马得来 | BSC | 加速中 | 强度 74.51 | 质量 65.93
   - 主题摘要：Multiple tokens named 「都踏马得来」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.47 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.98 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Starbutt Meme | Solana | 降温中 | 强度 72.72 | 质量 62.25
-  - 主题摘要：According to X Freeze's post, the author suggests renaming a concept to "Starbutt" instead of "Black Hole," referencing a comment about reducing the use of the "Star" prefix. This…
-  - 资金 100.00 / 广度 53.72 / 确认 5.04 / 脆弱性 14.00
+- Alleged Worldcat Meme | Solana | 降温中 | 强度 71.66 | 质量 55.59
+  - 主题摘要：According to Jawn's post, the @world_xyz account replied to a cat image, sparking discussion about a potential 'worldcat' Meme. Jawn also noted that Ansem previously suggested a n…
+  - 资金 100.00 / 广度 81.87 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Musk: Truth | Solana | 点火期 | 强度 72.09 | 质量 76.53
-  - 主题摘要：Elon Musk posted the single word "True" with a link, likely referencing his Truth Social platform or a statement of fact, sparking speculation about his endorsement or stance on a…
-  - 资金 69.64 / 广度 100.00 / 确认 12.96 / 脆弱性 24.00
+- Alleged OpenAI Plant Talk Meme | Solana | 点火期 | 强度 71.53 | 质量 69.34
+  - 主题摘要：According to Jircachi0x's post, OpenAI allegedly created an AI tool allowing users to speak to plants, with one plant named "George." The post includes a GitHub link and reference…
+  - 资金 100.00 / 广度 83.95 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 70.56 | 质量 61.90
-  - 主题摘要：According to Mr.Five's post, he criticizes Key Opinion Leaders (KOLs) and project promoters for prioritizing quick profits over long-term ecosystem construction, comparing their b…
-  - 资金 100.00 / 广度 78.81 / 确认 24.48 / 脆弱性 24.00
+- JuDao人生 | BSC | 加速中 | 强度 71.00 | 质量 66.76
+  - 主题摘要：Multiple tokens named 「JuDao人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.54 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 金狗 | BSC | 加速中 | 强度 68.42 | 质量 56.03
-  - 主题摘要：Multiple tokens named 「金狗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.62 / 确认 24.48 / 脆弱性 24.00
+- Rosen Law Firm Investigates Strategy | Solana | 点火期 | 强度 70.62 | 质量 62.97
+  - 主题摘要：According to Cointelegraph's post, Rosen Law Firm has opened an investigation into Strategy regarding potential securities claims. This legal action targets the entity associated…
+  - 资金 100.00 / 广度 94.86 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Sonny's AI View | BSC | 加速中 | 强度 69.66 | 质量 52.04
+  - 主题摘要：According to AB Kuai.Dong's post, Masayoshi Son argues that AI is undervalued compared to current profits, likening AI to a goose that lays eggs. He asserts that claims of an AI b…
+  - 资金 100.00 / 广度 68.69 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 黄金时代 | BSC | 加速中 | 强度 69.34 | 质量 57.74
+  - 主题摘要：Multiple tokens named 「黄金时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.80 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Dump Strategy | Solana | 降温中 | 强度 69.01 | 质量 48.60
+  - 主题摘要：Multiple tokens named 「DUMPSTR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.84 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 不死鸟 | BSC | 加速中 | 强度 67.82 | 质量 56.35
+  - 主题摘要：Multiple tokens named 「不死鸟」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.63 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.22，其中已确认叙事 0 个。
-- pisscoin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Dog Wif Stick 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 74.96，其中已确认叙事 0 个。
+- SIR WENDY'S 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Loïc Shares PartyShark Meme Image 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- FLAP PVE Mode Launch | 质量 80.45 | 可交易性 100.00 | 风险 低
-- Musk: Truth | 质量 76.53 | 可交易性 87.19 | 风险 低
-- Dog Wif Stick | 质量 76.16 | 可交易性 100.00 | 风险 低
-- Starlink Venezuela Free Net | 质量 75.77 | 可交易性 100.00 | 风险 低
-- pisscoin | 质量 74.77 | 可交易性 100.00 | 风险 低
-- SoftBank Goose Meme | 质量 74.38 | 可交易性 91.31 | 风险 低
-- Alleged OpenAI Plant Talk Meme | 质量 73.59 | 可交易性 86.72 | 风险 低
-- X Money Launch for Premium+ Users | 质量 68.64 | 可交易性 86.59 | 风险 低
-- 都踏马得来 | 质量 65.38 | 可交易性 65.51 | 风险 低
-- Alleged Starbutt Meme | 质量 62.25 | 可交易性 90.32 | 风险 低
+- pisscoin | 质量 75.64 | 可交易性 100.00 | 风险 低
+- FLAP PVE Mode Launch | 质量 74.75 | 可交易性 100.00 | 风险 低
+- SoftBank Goose Meme | 质量 72.89 | 可交易性 85.23 | 风险 低
+- Alleged OpenAI Plant Talk Meme | 质量 69.34 | 可交易性 84.16 | 风险 低
+- JuDao人生 | 质量 66.76 | 可交易性 100.00 | 风险 低
+- 都踏马得来 | 质量 65.93 | 可交易性 66.84 | 风险 低
+- Loïc Shares PartyShark Meme Image | 质量 65.31 | 可交易性 95.28 | 风险 低
+- SIR WENDY'S | 质量 64.90 | 可交易性 60.36 | 风险 低
+- Rosen Law Firm Investigates Strategy | 质量 62.97 | 可交易性 85.65 | 风险 低
+- 黄金时代 | 质量 57.74 | 可交易性 52.92 | 风险 低
 
 ## 伪叙事风险
 
-- Starlink Venezuela Free Net | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Musk: Truth | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- X Money Launch for Premium+ Users | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- SoftBank Goose Meme | 风险 42.03 | 原因：流动性偏薄
+- Rosen Law Firm Investigates Strategy | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged OpenAI Plant Talk Meme | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -108,22 +106,22 @@
 - GLUE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Paperclip | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 九天玄女 | BSC | 看多 | 新鲜度 95.14 | 暂无直接叙事映射
-- STARSHIT | Solana | 看多 | 新鲜度 89.26 | Starlink Venezuela Free Net
-- AIAIAI | Solana | 看多 | 新鲜度 87.82 | Musk: Truth
 - George | Solana | 看多 | 新鲜度 80.54 | Alleged OpenAI Plant Talk Meme
+- STARSHIT | Solana | 看多 | 新鲜度 77.26 | 暂无直接叙事映射
+- AIAIAI | Solana | 看多 | 新鲜度 75.82 | 暂无直接叙事映射
 
 ## 官方催化
 
+- [WLD Airdrop Carnival: Claim Your Share of 30,000 WLD](https://www.binance.com/zh-CN/support/announcement/detail/3131a634e28e49bcab073cc2009f8467)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Get ready for the WLD Airdrop Carnival: Claim Your Share of 30,000 WLD. From completing your…
+- [MENA Spin and Win: Share 50,000 USDC in Rewards!](https://www.binance.com/zh-CN/support/announcement/detail/52433165aa0d468d890f31256eb6b6a0)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, This Summer, Binance introduces a brand-new interactive campaign designed to reward meaningf…
 - [Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-06-25)](https://www.binance.com/zh-CN/support/announcement/detail/e8f70e77ae8944c8af486bcbacbc4814)
   - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wallet is excited to launch the KGeN Trading…
-- [Binance Traders League Season 3: Trade CHR or ETH to Share Up to 200,000 USDC Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/3844a2dd88e347bebd00ea5aa8d99ac4)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to launch a Binance Traders League Season 3…
 - [Recurring Transactions for bStocks Now Available on Binance Convert](https://www.binance.com/zh-CN/support/announcement/detail/cd4de1c860b54720a1e13ec541f65f17)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are not offered in any other jurisdiction. b…
 - [Binance Futures Will Launch USDⓈ-Margined OUSDT Perpetual Contract (2026-06-24)](https://www.binance.com/zh-CN/support/announcement/detail/a6b7d5a8a14a44c1b6a6a34813c6d93f)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
-- [Binance Traders League Season 3: Trade CELO to Share Up to 400 BNB Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/0185629496dc4de68ec4fedf550f3d55)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to launch a Binance Traders League Season 3…
 - [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-06-24)](https://www.binance.com/zh-CN/support/announcement/detail/ca1d8c973ea348da8c7fa95b04c57777)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn presents to you new offers that are new…
 - [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-06-26)](https://www.binance.com/zh-CN/support/announcement/detail/f9b4352902014b6a983b4838f958f757)
@@ -136,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：pisscoin（Solana，分数 85.67）
-2. 共振最强代币：M（BSC，共振 100.0）
-3. 记忆层变化：pisscoin 当前为“新出现”
-4. 最新官方催化：Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-06-25)
+1. 当前最强叙事：pisscoin（Solana，分数 83.77）
+2. 共振最强代币：JOTCHUA（Solana，共振 100.0）
+3. 记忆层变化：SIR WENDY'S 当前为“新出现”
+4. 最新官方催化：WLD Airdrop Carnival: Claim Your Share of 30,000 WLD
 #Binance #NarrativeOS #OpenClaw
