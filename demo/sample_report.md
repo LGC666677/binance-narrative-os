@@ -1,113 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-26T15:34:51.843765+00:00
+- 生成时间：2026-06-26T17:20:22.011258+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 pisscoin，所在链为 Solana，叙事强度 84.6。
-- 当前平均叙事强度为 75.96，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Pondering Deer 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Deep Liquid Token Launch Mechanism，伪叙事风险 47.79。
+- 当前最强叙事是 Solana Stocks Hit $553M ATH，所在链为 Solana，叙事强度 89.87。
+- 当前平均叙事强度为 82.9，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 Solana Stocks Hit $553M ATH 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 2,000 USD1 Limit Available! (2026-06-27)。
 
 ## 叙事雷达
 
-- pisscoin | Solana | 加速中 | 强度 84.60 | 质量 76.47
-  - 主题摘要：Pisscoin (piss) is a meme token inspired by internet humor, featuring a yellow liquid droplet logo that visually represents its name. Launched on pump.fun, it positions itself as…
-  - 资金 100.00 / 广度 76.95 / 确认 24.48 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pondering Deer | Solana | 降温中 | 强度 84.18 | 质量 74.70
+- Solana Stocks Hit $553M ATH | Solana | 已确认 | 强度 89.87 | 质量 84.18
+  - 主题摘要：Solana官方账号宣布，Solana链上的代币化股票（Stocks on Solana）交易量或市值昨日创下5.53亿美元的新高。这一数据表明传统金融资产上链的趋势正在加速，Solana作为高性能公链在RWA（真实世界资产）领域的吸引力显著增强。
+  - 资金 100.00 / 广度 100.00 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Pondering Deer | Solana | 降温中 | 强度 87.16 | 质量 75.61
   - 主题摘要：Multiple tokens named 「Pondeer」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.13 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.17 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FLAP PVE Mode Launch | BSC | 加速中 | 强度 76.92 | 质量 71.68
+- Starlink Venezuela Free Net | Solana | 降温中 | 强度 84.31 | 质量 75.98
+  - 主题摘要：Elon Musk retweeted Starlink's announcement of providing free internet services in Venezuela following devastating earthquakes. This act highlights Musk's influence in global disa…
+  - 资金 100.00 / 广度 86.40 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Yi He Supports Binance TR | BSC | 加速中 | 强度 81.98 | 质量 74.97
+  - 主题摘要：Binance co-founder Yi He engages with a Turkish user's query regarding Binance TR operations, providing reassurance about withdrawal processes. This interaction highlights Binance…
+  - 资金 100.00 / 广度 79.73 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- pisscoin | Solana | 加速中 | 强度 81.03 | 质量 76.30
+  - 主题摘要：Pisscoin (piss) is a meme token inspired by internet humor, featuring a yellow liquid droplet logo that visually represents its name. Launched on pump.fun, it positions itself as…
+  - 资金 100.00 / 广度 76.90 / 确认 23.76 / 脆弱性 10.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged World Charity Token | Solana | 加速中 | 强度 80.80 | 质量 72.09
+  - 主题摘要：According to Connor's post, the founder of @world_xyz previously expressed support for charity tokens benefiting UNICEF. Connor highlights a low-market-cap token allegedly sending…
+  - 资金 100.00 / 广度 84.88 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged World Charity Token | Solana | 加速中 | 强度 80.71 | 质量 71.93
+  - 主题摘要：According to Connor's post, the founder of @world_xyz expressed support for charity tokens, yet the main $world token reportedly does not send fees to charity. Connor highlights a…
+  - 资金 100.00 / 广度 84.88 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- HODLY Token Market Sentiment | Solana | 降温中 | 强度 80.03 | 质量 71.14
+  - 主题摘要：According to HODLY's post, the author expresses strong confidence in the $HODLY token, claiming that market energy is returning and predicting significant future price increases.…
+  - 资金 100.00 / 广度 70.26 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Age of Solana | Solana | 降温中 | 强度 79.26 | 质量 68.85
+  - 主题摘要：Multiple tokens named 「SolEra」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 62.65 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- FLAP PVE Mode Launch | BSC | 加速中 | 强度 74.26 | 质量 70.76
   - 主题摘要：According to Flap 🦋's post, the FLAP PVE Mode has been officially launched to redesign the token launching bonding curve. This feature flattens price increases during the bonding…
-  - 资金 100.00 / 广度 81.02 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.72 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Meme Coin Promotion Campaign | Solana | 降温中 | 强度 74.04 | 质量 64.56
-  - 主题摘要：According to easy's post, the individual plans to launch an alleged Meme coin promotion campaign by purchasing OnlyFans accounts to solicit video endorsements. The strategy involv…
-  - 资金 100.00 / 广度 56.70 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Groyper | Solana | 加速中 | 强度 73.78 | 质量 65.15
-  - 主题摘要：GROYPER is a meme token inspired by the iconic Pepe the Frog character. The token features a green frog with a distinctive orange mouth, embodying internet meme culture. GROYPER a…
-  - 资金 100.00 / 广度 63.95 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SoftBank Goose Meme | Solana | 加速中 | 强度 73.51 | 质量 65.60
-  - 主题摘要：According to Quant's post, the SoftBank goose meme is going viral across platforms like Reddit and Yahoo Finance. Quant identifies this trend as a significant finance meme, emphas…
-  - 资金 100.00 / 广度 79.03 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MYRO | Solana | 降温中 | 强度 73.26 | 质量 60.94
-  - 主题摘要：Multiple tokens named 「MYRO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 57.31 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Deep Liquid Token Launch Mechanism | Solana | 点火期 | 强度 73.04 | 质量 66.46
-  - 主题摘要：According to Deep Liquid's post, the platform automates token launches on Solana by collecting fees to fund 50% buybacks and liquidity pool additions every three minutes. The syst…
-  - 资金 100.00 / 广度 54.66 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 贝贝 | BSC | 加速中 | 强度 71.97 | 质量 63.13
+- 贝贝 | BSC | 加速中 | 强度 71.40 | 质量 62.98
   - 主题摘要：Multiple tokens named 「贝贝」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.40 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.80 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- KROP Launches $XMAGIC | Solana | 降温中 | 强度 71.30 | 质量 60.27
-  - 主题摘要：According to KROP's post, the X Magic Money ($XMAGIC) token on Solana allegedly distributes network fees to holders automatically without staking. Users link X handles to wallets…
-  - 资金 100.00 / 广度 57.11 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 金狗 | BSC | 加速中 | 强度 70.50 | 质量 57.97
-  - 主题摘要：Multiple tokens named 「金狗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.42 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 都踏马得来 | BSC | 加速中 | 强度 70.03 | 质量 60.35
-  - 主题摘要：Multiple tokens named 「都踏马得来」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.28 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BurnKing Token | BSC | 加速中 | 强度 69.80 | 质量 61.09
+- BurnKing Token | BSC | 加速中 | 强度 71.29 | 质量 61.20
   - 主题摘要：Multiple tokens named 「BurnKing」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.05 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 70.31 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MGGA Launches 'Crypto Life' Project | BSC | 降温中 | 强度 68.71 | 质量 53.72
-  - 主题摘要：According to MGGA's post, the 'Crypto Life' project is designed for the cryptocurrency community, offering dividends in BNB, BTC, and ETH. This information is unverified. Please e…
-  - 资金 100.00 / 广度 69.82 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 68.93 | 质量 58.37
+  - 主题摘要：According to Mr.Five's post, he criticizes Key Opinion Leaders (KOLs) and project promoters for prioritizing quick profits over long-term ecosystem construction, comparing their b…
+  - 资金 100.00 / 广度 77.18 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 都踏马得来 | BSC | 加速中 | 强度 68.10 | 质量 59.31
+  - 主题摘要：Multiple tokens named 「都踏马得来」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.60 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.96，其中已确认叙事 0 个。
-- SoftBank Goose Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.9，其中已确认叙事 1 个。
+- Solana Stocks Hit $553M ATH 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Pondering Deer 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- pisscoin | 质量 76.47 | 可交易性 100.00 | 风险 低
-- Pondering Deer | 质量 74.70 | 可交易性 100.00 | 风险 低
-- FLAP PVE Mode Launch | 质量 71.68 | 可交易性 100.00 | 风险 低
-- Deep Liquid Token Launch Mechanism | 质量 66.46 | 可交易性 100.00 | 风险 低
-- SoftBank Goose Meme | 质量 65.60 | 可交易性 83.80 | 风险 低
-- Groyper | 质量 65.15 | 可交易性 75.27 | 风险 低
-- Alleged Meme Coin Promotion Campaign | 质量 64.56 | 可交易性 91.65 | 风险 低
-- 贝贝 | 质量 63.13 | 可交易性 59.08 | 风险 低
-- BurnKing Token | 质量 61.09 | 可交易性 58.81 | 风险 低
-- MYRO | 质量 60.94 | 可交易性 100.00 | 风险 低
+- Solana Stocks Hit $553M ATH | 质量 84.18 | 可交易性 100.00 | 风险 低
+- pisscoin | 质量 76.30 | 可交易性 100.00 | 风险 低
+- Starlink Venezuela Free Net | 质量 75.98 | 可交易性 100.00 | 风险 低
+- Pondering Deer | 质量 75.61 | 可交易性 100.00 | 风险 低
+- Yi He Supports Binance TR | 质量 74.97 | 可交易性 92.23 | 风险 低
+- Alleged World Charity Token | 质量 72.09 | 可交易性 89.45 | 风险 低
+- Alleged World Charity Token | 质量 71.93 | 可交易性 88.90 | 风险 低
+- HODLY Token Market Sentiment | 质量 71.14 | 可交易性 100.00 | 风险 低
+- FLAP PVE Mode Launch | 质量 70.76 | 可交易性 100.00 | 风险 低
+- The Age of Solana | 质量 68.85 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Deep Liquid Token Launch Mechanism | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
+- 星辰大海 | BSC | 看多 | 新鲜度 100.00 | Yi He Supports Binance TR
 - PVE | BSC | 看多 | 新鲜度 100.00 | FLAP PVE Mode Launch
 - PVE | BSC | 看多 | 新鲜度 100.00 | FLAP PVE Mode Launch
 - 狗叫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- SOL | Solana | 看多 | 新鲜度 100.00 | Solana Stocks Hit $553M ATH
 - AIAIAI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- GLUE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Paperclip | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 九天玄女 | BSC | 看多 | 新鲜度 95.14 | 暂无直接叙事映射
-- STARSHIT | Solana | 看多 | 新鲜度 77.26 | 暂无直接叙事映射
+- STARSHIT | Solana | 看多 | 新鲜度 89.26 | Starlink Venezuela Free Net
 - AIAIAI | Solana | 看多 | 新鲜度 75.82 | 暂无直接叙事映射
-- George | Solana | 看多 | 新鲜度 68.54 | 暂无直接叙事映射
+- SOL | Solana | 看多 | 新鲜度 71.62 | Solana Stocks Hit $553M ATH
 
 ## 官方催化
 
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：pisscoin（Solana，分数 84.6）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Pondering Deer 当前为“新出现”
+1. 当前最强叙事：Solana Stocks Hit $553M ATH（Solana，分数 89.87）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：Solana Stocks Hit $553M ATH 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 2,000 USD1 Limit Available! (2026-06-27)
 #Binance #NarrativeOS #OpenClaw
