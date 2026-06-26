@@ -1,98 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-26T00:21:27.154211+00:00
+- 生成时间：2026-06-26T04:46:12.460234+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：0
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 Musk: Truth，所在链为 Solana，叙事强度 86.83。
-- 当前平均叙事强度为 78.64，其中已确认叙事 0 个。
+- 当前最强叙事是 pisscoin，所在链为 Solana，叙事强度 85.67。
+- 当前平均叙事强度为 77.22，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 M，来自 BSC，共振分数 100.0。
-- 记忆层显示 BONK.fun: Let Conviction Cook 当前处于“新出现”状态。
+- 记忆层显示 pisscoin 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Starlink Venezuela Free Net，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-06-25)。
 
 ## 叙事雷达
 
-- Musk: Truth | Solana | 降温中 | 强度 86.83 | 质量 80.85
-  - 主题摘要：Elon Musk posted the single word "True" with a link, likely referencing his Truth Social platform or a statement of fact, sparking speculation about his endorsement or stance on a…
-  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FLAP PVE Mode Launch | BSC | 已确认 | 强度 85.61 | 质量 80.64
+- pisscoin | Solana | 加速中 | 强度 85.67 | 质量 74.77
+  - 主题摘要：Pisscoin (piss) is a meme token inspired by internet humor, featuring a yellow liquid droplet logo that visually represents its name. Launched on pump.fun, it positions itself as…
+  - 资金 100.00 / 广度 71.28 / 确认 24.48 / 脆弱性 0.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FLAP PVE Mode Launch | BSC | 已确认 | 强度 85.26 | 质量 80.45
   - 主题摘要：According to Flap 🦋's post, the FLAP PVE Mode has been officially launched to redesign the token launching bonding curve. This feature flattens price increases during the bonding…
-  - 资金 100.00 / 广度 88.20 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.57 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- BONK.fun: Let Conviction Cook | Solana | 降温中 | 强度 80.75 | 质量 68.16
-  - 主题摘要：Multiple tokens named 「DOG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.30 / 确认 9.36 / 脆弱性 14.00
+- Dog Wif Stick | Solana | 降温中 | 强度 83.03 | 质量 76.16
+  - 主题摘要：Multiple tokens named 「WifStick」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.01 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SoftBank Goose Meme | Solana | 加速中 | 强度 77.69 | 质量 75.72
+- SoftBank Goose Meme | Solana | 点火期 | 强度 78.08 | 质量 74.38
   - 主题摘要：According to Quant's post, the SoftBank goose meme is going viral across platforms like Reddit and Yahoo Finance. Quant identifies this trend as a significant finance meme, emphas…
-  - 资金 100.00 / 广度 84.57 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged OpenAI Plant Talk Meme | Solana | 加速中 | 强度 77.42 | 质量 73.87
+  - 资金 100.00 / 广度 84.48 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged OpenAI Plant Talk Meme | Solana | 加速中 | 强度 76.27 | 质量 73.59
   - 主题摘要：According to Jircachi0x's post, OpenAI allegedly created an AI tool allowing users to speak to plants, with one plant named "George." The post includes a GitHub link and reference…
-  - 资金 100.00 / 广度 83.48 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.78 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FWOG DEV Launches HODL CULTURE Token | Solana | 降温中 | 强度 76.68 | 质量 61.30
-  - 主题摘要：According to FWOG DEV's post, FWOG DEV is launching a new token named HODL CULTURE to address market holding issues. The developer wallet will be locked for three months, and crea…
-  - 资金 100.00 / 广度 82.30 / 确认 9.36 / 脆弱性 14.00
+- Starlink Venezuela Free Net | Solana | 点火期 | 强度 75.63 | 质量 75.77
+  - 主题摘要：Elon Musk retweeted Starlink's announcement of providing free internet services in Venezuela following devastating earthquakes. This act highlights Musk's influence in global disa…
+  - 资金 100.00 / 广度 85.69 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Worldcat Meme | Solana | 降温中 | 强度 74.27 | 质量 57.38
+  - 主题摘要：According to Jawn's post, the @world_xyz account replied to a cat image, sparking discussion about a potential 'worldcat' Meme. Jawn also noted that Ansem previously suggested a n…
+  - 资金 100.00 / 广度 83.17 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jack Claims Diamond Hands | Solana | 降温中 | 强度 76.65 | 质量 61.26
-  - 主题摘要：According to Jack's post, he asserts that the appropriate strategy is to maintain diamond hands and claims to have done so. He shared a specific wallet address to substantiate thi…
-  - 资金 100.00 / 广度 82.26 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dave Portnoy's Bitcoin Stance | Solana | 降温中 | 强度 76.57 | 质量 61.49
-  - 主题摘要：According to Dave Portnoy's post, he asserts that he is holding Bitcoin all the way to zero and identifies as having "diamond hands." He challenges proponents of Bitcoin's future…
-  - 资金 100.00 / 广度 82.97 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 都踏马得来 | BSC | 加速中 | 强度 76.56 | 质量 64.38
+- 黄金时代 | BSC | 加速中 | 强度 73.66 | 质量 59.15
+  - 主题摘要：Multiple tokens named 「黄金时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.50 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- X Money Launch for Premium+ Users | BSC | 点火期 | 强度 73.18 | 质量 68.64
+  - 主题摘要：According to DogeDesigner's post, X Money is now going live for select Premium+ users in the United States. This announcement indicates the expansion of the X Money service to a s…
+  - 资金 100.00 / 广度 78.91 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 都踏马得来 | BSC | 加速中 | 强度 72.98 | 质量 65.38
   - 主题摘要：Multiple tokens named 「都踏马得来」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.99 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.47 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Michael Saylor HODL | Solana | 降温中 | 强度 76.50 | 质量 61.00
-  - 主题摘要：According to Michael Saylor's post, he shared a link accompanied by the term 'HODL', indicating a stance of holding assets. This action aligns with his public identity as a Bitcoi…
-  - 资金 100.00 / 广度 81.43 / 确认 9.36 / 脆弱性 14.00
+- Alleged Starbutt Meme | Solana | 降温中 | 强度 72.72 | 质量 62.25
+  - 主题摘要：According to X Freeze's post, the author suggests renaming a concept to "Starbutt" instead of "Black Hole," referencing a comment about reducing the use of the "Star" prefix. This…
+  - 资金 100.00 / 广度 53.72 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 74.17 | 质量 63.58
+- Musk: Truth | Solana | 点火期 | 强度 72.09 | 质量 76.53
+  - 主题摘要：Elon Musk posted the single word "True" with a link, likely referencing his Truth Social platform or a statement of fact, sparking speculation about his endorsement or stance on a…
+  - 资金 69.64 / 广度 100.00 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 70.56 | 质量 61.90
   - 主题摘要：According to Mr.Five's post, he criticizes Key Opinion Leaders (KOLs) and project promoters for prioritizing quick profits over long-term ecosystem construction, comparing their b…
-  - 资金 100.00 / 广度 79.93 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.81 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 不死鸟 | BSC | 加速中 | 强度 74.00 | 质量 60.46
-  - 主题摘要：Multiple tokens named 「不死鸟」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.07 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- JuDao人生 | BSC | 加速中 | 强度 72.01 | 质量 68.93
-  - 主题摘要：Multiple tokens named 「JuDao人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.94 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 金狗 | BSC | 加速中 | 强度 70.13 | 质量 57.27
+- 金狗 | BSC | 加速中 | 强度 68.42 | 质量 56.03
   - 主题摘要：Multiple tokens named 「金狗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.03 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 67.62 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.64，其中已确认叙事 0 个。
-- 金狗 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Musk: Truth 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.22，其中已确认叙事 0 个。
+- pisscoin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Dog Wif Stick 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Musk: Truth | 质量 80.85 | 可交易性 100.00 | 风险 低
-- FLAP PVE Mode Launch | 质量 80.64 | 可交易性 100.00 | 风险 低
-- SoftBank Goose Meme | 质量 75.72 | 可交易性 93.06 | 风险 低
-- Alleged OpenAI Plant Talk Meme | 质量 73.87 | 可交易性 87.98 | 风险 低
-- JuDao人生 | 质量 68.93 | 可交易性 100.00 | 风险 低
-- BONK.fun: Let Conviction Cook | 质量 68.16 | 可交易性 78.04 | 风险 低
-- 都踏马得来 | 质量 64.38 | 可交易性 63.66 | 风险 低
-- Mr.Five Criticizes KOL Speculation | 质量 63.58 | 可交易性 65.77 | 风险 低
-- Dave Portnoy's Bitcoin Stance | 质量 61.49 | 可交易性 55.13 | 风险 低
-- FWOG DEV Launches HODL CULTURE Token | 质量 61.30 | 可交易性 55.17 | 风险 低
+- FLAP PVE Mode Launch | 质量 80.45 | 可交易性 100.00 | 风险 低
+- Musk: Truth | 质量 76.53 | 可交易性 87.19 | 风险 低
+- Dog Wif Stick | 质量 76.16 | 可交易性 100.00 | 风险 低
+- Starlink Venezuela Free Net | 质量 75.77 | 可交易性 100.00 | 风险 低
+- pisscoin | 质量 74.77 | 可交易性 100.00 | 风险 低
+- SoftBank Goose Meme | 质量 74.38 | 可交易性 91.31 | 风险 低
+- Alleged OpenAI Plant Talk Meme | 质量 73.59 | 可交易性 86.72 | 风险 低
+- X Money Launch for Premium+ Users | 质量 68.64 | 可交易性 86.59 | 风险 低
+- 都踏马得来 | 质量 65.38 | 可交易性 65.51 | 风险 低
+- Alleged Starbutt Meme | 质量 62.25 | 可交易性 90.32 | 风险 低
 
 ## 伪叙事风险
 
+- Starlink Venezuela Free Net | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Musk: Truth | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- X Money Launch for Premium+ Users | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- SoftBank Goose Meme | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -102,8 +107,8 @@
 - AIAIAI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GLUE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Paperclip | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Meep | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 九天玄女 | BSC | 看多 | 新鲜度 95.14 | 暂无直接叙事映射
+- STARSHIT | Solana | 看多 | 新鲜度 89.26 | Starlink Venezuela Free Net
 - AIAIAI | Solana | 看多 | 新鲜度 87.82 | Musk: Truth
 - George | Solana | 看多 | 新鲜度 80.54 | Alleged OpenAI Plant Talk Meme
 
@@ -131,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Musk: Truth（Solana，分数 86.83）
+1. 当前最强叙事：pisscoin（Solana，分数 85.67）
 2. 共振最强代币：M（BSC，共振 100.0）
-3. 记忆层变化：BONK.fun: Let Conviction Cook 当前为“新出现”
+3. 记忆层变化：pisscoin 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-06-25)
 #Binance #NarrativeOS #OpenClaw
