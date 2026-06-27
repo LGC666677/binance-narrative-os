@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-27T17:51:42.864769+00:00
+- 生成时间：2026-06-27T18:57:11.597141+00:00
 - 跟踪叙事：14
-- 已确认叙事：9
+- 已确认叙事：5
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Solana's Intern Penguin，所在链为 Solana，叙事强度 91.13。
-- 当前平均叙事强度为 85.45，其中已确认叙事 8 个。
-- 注意力与资金共振最强的代币是 JOTCHUA，来自 Solana，共振分数 100.0。
-- 记忆层显示 Solana's Intern Penguin 当前处于“新出现”状态。
+- 当前最强叙事是 Solana's Intern Penguin，所在链为 Solana，叙事强度 85.49。
+- 当前平均叙事强度为 81.95，其中已确认叙事 4 个。
+- 注意力与资金共振最强的代币是 HYPE，来自 Solana，共振分数 100.0。
+- 记忆层显示 Solana Community Charity Donation 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined CAPUSDT Perpetual Contract (2026-06-27)。
 
 ## 叙事雷达
 
-- Solana's Intern Penguin | Solana | 已确认 | 强度 91.13 | 质量 83.81
+- Solana's Intern Penguin | Solana | 降温中 | 强度 85.49 | 质量 80.87
   - 主题摘要：Solana官方账号发布了一张赛博朋克风格的机械企鹅图片，暗示其正在孵化或测试新的AI项目。这个充满未来感的“实习生”形象因其可爱与高科技的反差萌，极易引发社区对Solana AI生态的联想和Meme创作。
-  - 资金 100.00 / 广度 98.78 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Liz Binance Shares GPT-5.6 | Solana | 已确认 | 强度 85.55 | 质量 81.91
-  - 主题摘要：According to 莉兹🔶BNB's post, the author shared a quoted tweet announcing the limited preview of GPT-5.6 Sol, described as a next-generation frontier model. The post also mentioned…
-  - 资金 100.00 / 广度 92.43 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged WorldCock Token | Solana | 已确认 | 强度 85.17 | 质量 82.14
-  - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.21 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Messi Meme Coin | Solana | 已确认 | 强度 84.97 | 质量 81.16
-  - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.95 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- OpenAI New Model Naming | Solana | 已确认 | 强度 84.46 | 质量 80.07
-  - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.31 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Messi Statue Design | Solana | 已确认 | 强度 84.13 | 质量 79.82
-  - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.48 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Ansem Discusses Solana CTO | Solana | 已确认 | 强度 84.11 | 质量 79.85
-  - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.58 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Luminaries: No One Will Take My SOL | Solana | 已确认 | 强度 84.07 | 质量 79.83
-  - 主题摘要：According to Luminaries's post, the author expressed a strong commitment to the Solana ecosystem with the statement "NO ONE WILL TAKE MY SOL." This declaration reflects a firm sta…
-  - 资金 100.00 / 广度 85.51 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Yi He Responds to Cat Merchandise | BSC | 已确认 | 强度 79.93 | 质量 80.34
-  - 主题摘要：Binance CEO Yi He interacts with a fan's post featuring her cat, Xiaomi, playing on a giant Binance merchandise box. The post blends the popular 'cat in a box' meme culture with B…
-  - 资金 100.00 / 广度 84.57 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Butterfly Meme Image | BSC | 加速中 | 强度 70.33 | 质量 61.17
-  - 主题摘要：According to 我肯定会发财！'s post, the Butterfly Meme image is shared, highlighting its iconic logo and associated narratives such as 'four's small hands running' and 'PVE Butterfly ful…
-  - 资金 100.00 / 广度 75.17 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AI羊头 | BSC | 加速中 | 强度 69.83 | 质量 58.24
-  - 主题摘要：Multiple tokens named 「AIGOAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.98 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- shibNFT × DOGNFT 双币联动 | BSC | 降温中 | 强度 69.70 | 质量 55.17
-  - 主题摘要：Multiple tokens named 「shibiNFT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.15 / 确认 16.56 / 脆弱性 16.20
+  - 资金 100.00 / 广度 97.42 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 西虹市首富 | BSC | 加速中 | 强度 68.31 | 质量 57.26
-  - 主题摘要：Multiple tokens named 「西虹市首富」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.52 / 确认 28.08 / 脆弱性 24.00
+- Solana Community Charity Donation | Solana | 降温中 | 强度 85.13 | 质量 78.74
+  - 主题摘要：According to @soymaikoldev's post, the author is soliciting donations from the @solana community to purchase essential supplies for areas affected by recent events. The author ple…
+  - 资金 100.00 / 广度 92.95 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged BOING Meme Coin | Solana | 加速中 | 强度 82.99 | 质量 76.82
+  - 主题摘要：According to d's post, a new animal meme using the "BOING!" sound effect is going viral, potentially rivaling the "Bonk" meme. The post suggests launching a BOING token on Pump to…
+  - 资金 100.00 / 广度 85.39 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FLAP PVE Mode Launch | BSC | 加速中 | 强度 68.20 | 质量 66.70
-  - 主题摘要：According to Flap 🦋's post, the FLAP PVE Mode has been officially launched to redesign the token launching bonding curve. This feature flattens price increases during the bonding…
-  - 资金 100.00 / 广度 78.42 / 确认 28.08 / 脆弱性 27.96
+- Alleged WorldCock Token | Solana | 已确认 | 强度 80.79 | 质量 81.99
+  - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 92.70 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Liz Binance Shares GPT-5.6 | Solana | 已确认 | 强度 80.78 | 质量 81.96
+  - 主题摘要：According to 莉兹🔶BNB's post, the author shared a quoted tweet announcing the limited preview of GPT-5.6 Sol, described as a next-generation frontier model. The post also mentioned…
+  - 资金 100.00 / 广度 92.60 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Nikolai Discusses SpaceX Meme Plush | Solana | 加速中 | 强度 80.36 | 质量 68.28
+  - 主题摘要：According to Nikolai's post, SpaceX released a plush toy of a banana, which Nikolai associates with a token symbolized as $BANANA. He claims he will manage the community and socia…
+  - 资金 100.00 / 广度 82.87 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Messi Meme Coin | Solana | 已确认 | 强度 80.29 | 质量 81.36
+  - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.61 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- OpenAI New Model Naming | Solana | 已确认 | 强度 79.75 | 质量 80.25
+  - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.91 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Yi He Responds to Cat Merchandise | BSC | 已确认 | 强度 79.54 | 质量 80.30
+  - 主题摘要：Binance CEO Yi He interacts with a fan's post featuring her cat, Xiaomi, playing on a giant Binance merchandise box. The post blends the popular 'cat in a box' meme culture with B…
+  - 资金 100.00 / 广度 84.44 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- AI羊头 | BSC | 加速中 | 强度 73.21 | 质量 60.62
+  - 主题摘要：Multiple tokens named 「AIGOAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.23 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Bidao Launches SpaceX World Game | BSC | 加速中 | 强度 71.44 | 质量 59.00
+  - 主题摘要：According to Bidao's post, Bidao developed a browser-based multiplayer online game set in the SpaceX universe, featuring elements like AI, X, and Starship. The game utilizes walle…
+  - 资金 100.00 / 广度 70.38 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Butterfly Meme Image | BSC | 加速中 | 强度 69.09 | 质量 60.94
+  - 主题摘要：According to 我肯定会发财！'s post, the Butterfly Meme image is shared, highlighting its iconic logo and associated narratives such as 'four's small hands running' and 'PVE Butterfly ful…
+  - 资金 100.00 / 广度 75.26 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- shibNFT × DOGNFT 双币联动 | BSC | 降温中 | 强度 68.29 | 质量 55.00
+  - 主题摘要：Multiple tokens named 「shibiNFT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.23 / 确认 16.56 / 脆弱性 26.87
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Mr.Five Criticizes KOL Speculation | BSC | 加速中 | 强度 67.71 | 质量 57.82
+  - 主题摘要：According to Mr.Five's post, he criticizes Key Opinion Leaders (KOLs) and project promoters for prioritizing quick profits over long-term ecosystem construction, comparing their b…
+  - 资金 100.00 / 广度 74.37 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.45，其中已确认叙事 8 个。
-- Solana's Intern Penguin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- shibNFT × DOGNFT 双币联动 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.95，其中已确认叙事 4 个。
+- Alleged BOING Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana's Intern Penguin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Solana's Intern Penguin | 质量 83.81 | 可交易性 100.00 | 风险 低
-- Alleged WorldCock Token | 质量 82.14 | 可交易性 100.00 | 风险 低
-- Liz Binance Shares GPT-5.6 | 质量 81.91 | 可交易性 100.00 | 风险 低
-- Alleged Messi Meme Coin | 质量 81.16 | 可交易性 100.00 | 风险 低
-- Yi He Responds to Cat Merchandise | 质量 80.34 | 可交易性 100.00 | 风险 低
-- OpenAI New Model Naming | 质量 80.07 | 可交易性 100.00 | 风险 低
-- Ansem Discusses Solana CTO | 质量 79.85 | 可交易性 100.00 | 风险 低
-- Luminaries: No One Will Take My SOL | 质量 79.83 | 可交易性 100.00 | 风险 低
-- Messi Statue Design | 质量 79.82 | 可交易性 100.00 | 风险 低
-- FLAP PVE Mode Launch | 质量 66.70 | 可交易性 100.00 | 风险 低
+- Alleged WorldCock Token | 质量 81.99 | 可交易性 100.00 | 风险 低
+- Liz Binance Shares GPT-5.6 | 质量 81.96 | 可交易性 100.00 | 风险 低
+- Alleged Messi Meme Coin | 质量 81.36 | 可交易性 100.00 | 风险 低
+- Solana's Intern Penguin | 质量 80.87 | 可交易性 100.00 | 风险 低
+- Yi He Responds to Cat Merchandise | 质量 80.30 | 可交易性 100.00 | 风险 低
+- OpenAI New Model Naming | 质量 80.25 | 可交易性 100.00 | 风险 低
+- Solana Community Charity Donation | 质量 78.74 | 可交易性 100.00 | 风险 低
+- Alleged BOING Meme Coin | 质量 76.82 | 可交易性 95.90 | 风险 低
+- Nikolai Discusses SpaceX Meme Plush | 质量 68.28 | 可交易性 69.94 | 风险 低
+- Alleged Butterfly Meme Image | 质量 60.94 | 可交易性 49.93 | 风险 低
 
 ## 伪叙事风险
 
@@ -98,13 +98,13 @@
 
 - 小咪 | BSC | 看多 | 新鲜度 100.00 | Yi He Responds to Cat Merchandise
 - 星辰大海 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PVE | BSC | 看多 | 新鲜度 100.00 | FLAP PVE Mode Launch
-- PVE | BSC | 看多 | 新鲜度 100.00 | FLAP PVE Mode Launch
+- PVE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 狗叫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SOL | Solana | 看多 | 新鲜度 100.00 | Solana's Intern Penguin / Liz Binance Shares GPT-5.6 / Alleged WorldCock Token / Alleged Messi Meme Coin / OpenAI New Model Naming / Messi Statue Design / Ansem Discusses Solana CTO / Luminaries: No One Will Take My SOL
-- Venezuela | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- SOL | Solana | 看多 | 新鲜度 100.00 | Solana's Intern Penguin / Alleged WorldCock Token / Liz Binance Shares GPT-5.6 / Alleged Messi Meme Coin / OpenAI New Model Naming
+- Venezuela | Solana | 看多 | 新鲜度 100.00 | Solana Community Charity Donation
 - SOL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Bepe | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PVE | BSC | 看多 | 新鲜度 98.56 | 暂无直接叙事映射
 - 九天玄女 | BSC | 看多 | 新鲜度 95.14 | 暂无直接叙事映射
 
 ## 官方催化
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Solana's Intern Penguin（Solana，分数 91.13）
-2. 共振最强代币：JOTCHUA（Solana，共振 100.0）
-3. 记忆层变化：Solana's Intern Penguin 当前为“新出现”
+1. 当前最强叙事：Solana's Intern Penguin（Solana，分数 85.49）
+2. 共振最强代币：HYPE（Solana，共振 100.0）
+3. 记忆层变化：Solana Community Charity Donation 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined CAPUSDT Perpetual Contract (2026-06-27)
 #Binance #NarrativeOS #OpenClaw
