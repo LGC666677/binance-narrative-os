@@ -1,100 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-27T23:38:33.598262+00:00
+- 生成时间：2026-06-28T01:37:22.284976+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Purrpanic，所在链为 Solana，叙事强度 85.03。
-- 当前平均叙事强度为 76.53，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Jack Duval Meme Coin 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged SpaceXAI Trademark，伪叙事风险 40.99。
+- 当前最强叙事是 Ansem King，所在链为 Solana，叙事强度 84.91。
+- 当前平均叙事强度为 80.05，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 MAME，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged SpaceXAI Trademark 当前处于“强化”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined CAPUSDT Perpetual Contract (2026-06-27)。
 
 ## 叙事雷达
 
-- Purrpanic | Solana | 降温中 | 强度 85.03 | 质量 75.49
-  - 主题摘要：Multiple tokens named 「PURRPANIC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.49 / 确认 16.56 / 脆弱性 14.00
+- Ansem King | Solana | 降温中 | 强度 84.91 | 质量 74.85
+  - 主题摘要：Multiple tokens named 「ANSEMKING」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.64 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Responds to Cat Merchandise | BSC | 已确认 | 强度 81.05 | 质量 80.45
-  - 主题摘要：Binance CEO Yi He interacts with a fan's post featuring her cat, Xiaomi, playing on a giant Binance merchandise box. The post blends the popular 'cat in a box' meme culture with B…
-  - 资金 100.00 / 广度 84.92 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Nikolai Discusses SpaceX Meme Plush | Solana | 降温中 | 强度 79.77 | 质量 67.50
+- Honey Platform Launch | Solana | 加速中 | 强度 83.82 | 质量 75.64
+  - 主题摘要：According to Honey's post, the Honey platform was developed to address two key issues: airdrops and liquidity. By combining these functions, the platform aims to create a more eff…
+  - 资金 100.00 / 广度 74.19 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ansemchua | Solana | 降温中 | 强度 82.87 | 质量 72.65
+  - 主题摘要：Multiple tokens named 「Ansemchua」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.31 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged $COLONY Token Launch | Solana | 降温中 | 强度 80.81 | 质量 72.21
+  - 主题摘要：According to cybord's post, cybord is launching a token named The Bee $COLONY on pumpfun, utilizing @addHoneyPool technology for automated airdrops and liquidity features. This in…
+  - 资金 100.00 / 广度 68.55 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Nikolai Discusses SpaceX Meme Plush | Solana | 降温中 | 强度 79.44 | 质量 66.93
   - 主题摘要：According to Nikolai's post, SpaceX released a plush toy of a banana, which Nikolai associates with a token symbolized as $BANANA. He claims he will manage the community and socia…
-  - 资金 100.00 / 广度 83.02 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.06 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Solana's Intern Penguin | Solana | 加速中 | 强度 76.00 | 质量 75.69
-  - 主题摘要：Solana官方账号发布了一张赛博朋克风格的机械企鹅图片，暗示其正在孵化或测试新的AI项目。这个充满未来感的“实习生”形象因其可爱与高科技的反差萌，极易引发社区对Solana AI生态的联想和Meme创作。
-  - 资金 100.00 / 广度 96.77 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Jack Duval Meme Coin | Solana | 降温中 | 强度 75.15 | 质量 64.14
-  - 主题摘要：According to HimmyTheDev's post, the author questions the absence of a coin for Jack Duval, referring to him as the 'fat bull' and suggesting a token structure involving fee distr…
-  - 资金 100.00 / 广度 71.80 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Liz Binance Shares GPT-5.6 | Solana | 加速中 | 强度 74.70 | 质量 74.19
-  - 主题摘要：According to 莉兹🔶BNB's post, the author shared a quoted tweet announcing the limited preview of GPT-5.6 Sol, GPT-5.6 Terra, and GPT-5.6 Luna. The post highlights the introduction o…
-  - 资金 100.00 / 广度 92.16 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Messi Meme Coin | Solana | 加速中 | 强度 74.44 | 质量 73.80
-  - 主题摘要：According to DevyOnChain's post, the unveiling of a Lionel Messi statue in Patagonia has sparked significant viral activity on TikTok, with the football community creating numerou…
-  - 资金 100.00 / 广度 90.97 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Sam Altman Discusses Sol Naming | Solana | 加速中 | 强度 73.62 | 质量 72.41
-  - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.33 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OpenAI New Model Naming | Solana | 加速中 | 强度 73.52 | 质量 72.29
-  - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.74 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- X Money Launch for Premium+ Users | BSC | 降温中 | 强度 72.04 | 质量 63.92
-  - 主题摘要：According to DogeDesigner's post, X Money is now going live for select Premium+ users in the US.
-  - 资金 100.00 / 广度 71.11 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AI羊头 | BSC | 加速中 | 强度 70.78 | 质量 57.65
+- Yi He Responds to Cat Merchandise | BSC | 已确认 | 强度 79.39 | 质量 79.85
+  - 主题摘要：Binance CEO Yi He interacts with a fan's post featuring her cat, Xiaomi, playing on a giant Binance merchandise box. The post blends the popular 'cat in a box' meme culture with B…
+  - 资金 100.00 / 广度 85.58 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- AI羊头 | BSC | 加速中 | 强度 78.27 | 质量 63.43
   - 主题摘要：Multiple tokens named 「AIGOAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.50 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.61 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bidao Launches SpaceX World Game | BSC | 加速中 | 强度 70.29 | 质量 57.17
-  - 主题摘要：According to Bidao's post, Bidao developed a browser-based multiplayer online game set in the SpaceX universe, featuring elements like AI, X, and Starship. The game utilizes walle…
-  - 资金 100.00 / 广度 70.40 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Butterfly Meme Image | BSC | 加速中 | 强度 69.56 | 质量 61.12
-  - 主题摘要：According to 我肯定会发财！'s post, the Butterfly Meme image is shared, highlighting its iconic logo and associated narratives such as 'four's small hands running' and 'PVE Butterfly ful…
-  - 资金 100.00 / 广度 75.55 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged SpaceXAI Trademark | BSC | 降温中 | 强度 66.01 | 质量 59.15
+- Alleged SpaceXAI Trademark | BSC | 降温中 | 强度 77.43 | 质量 67.68
   - 主题摘要：According to DogeDesigner's post, Elon Musk stated that xAI will be dissolved as a separate company and rebranded as SpaceXAI, coinciding with SpaceX's trademark registration for…
-  - 资金 94.93 / 广度 71.69 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.18 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The White Bull | Solana | 降温中 | 强度 77.00 | 质量 66.00
+  - 主题摘要：MENSA (The White Bull) is a meme token inspired by the bull market concept, featuring a logo with a green bull silhouette. The token's name and symbol reflect its bullish theme, w…
+  - 资金 100.00 / 广度 53.12 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Hubert Skeletrix Meme | Solana | 降温中 | 强度 75.83 | 质量 66.43
+  - 主题摘要：According to Hubert's post, the individual identifies as Hubert Skeletrix, a self-proclaimed meme character focused on financial themes. The post describes a narrative of persiste…
+  - 资金 100.00 / 广度 55.89 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Solana's Intern Penguin | Solana | 加速中 | 强度 75.72 | 质量 75.57
+  - 主题摘要：Solana官方账号发布了一张赛博朋克风格的机械企鹅图片，暗示其正在孵化或测试新的AI项目。这个充满未来感的“实习生”形象因其可爱与高科技的反差萌，极易引发社区对Solana AI生态的联想和Meme创作。
+  - 资金 100.00 / 广度 96.74 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Butterfly Meme Image | BSC | 加速中 | 强度 70.56 | 质量 61.37
+  - 主题摘要：According to 我肯定会发财！'s post, the Butterfly Meme image is shared, highlighting its iconic logo and associated narratives such as 'four's small hands running' and 'PVE Butterfly ful…
+  - 资金 100.00 / 广度 75.79 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Bidao Launches SpaceX World Game | BSC | 加速中 | 强度 69.73 | 质量 57.13
+  - 主题摘要：According to Bidao's post, Bidao developed a browser-based multiplayer online game set in the SpaceX universe, featuring elements like AI, X, and Starship. The game utilizes walle…
+  - 资金 100.00 / 广度 70.60 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- X Money Launch for Premium+ Users | BSC | 加速中 | 强度 68.70 | 质量 62.38
+  - 主题摘要：According to DogeDesigner's post, X Money is now going live for select Premium+ users in the US.
+  - 资金 100.00 / 广度 70.95 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.53，其中已确认叙事 0 个。
-- Sam Altman Discusses Sol Naming 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Purrpanic 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.05，其中已确认叙事 0 个。
+- Honey Platform Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Ansem King 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Yi He Responds to Cat Merchandise | 质量 80.45 | 可交易性 100.00 | 风险 低
-- Solana's Intern Penguin | 质量 75.69 | 可交易性 100.00 | 风险 低
-- Purrpanic | 质量 75.49 | 可交易性 100.00 | 风险 低
-- Liz Binance Shares GPT-5.6 | 质量 74.19 | 可交易性 100.00 | 风险 低
-- Alleged Messi Meme Coin | 质量 73.80 | 可交易性 100.00 | 风险 低
-- Sam Altman Discusses Sol Naming | 质量 72.41 | 可交易性 99.00 | 风险 低
-- OpenAI New Model Naming | 质量 72.29 | 可交易性 99.00 | 风险 低
-- Nikolai Discusses SpaceX Meme Plush | 质量 67.50 | 可交易性 69.84 | 风险 低
-- Alleged Jack Duval Meme Coin | 质量 64.14 | 可交易性 75.15 | 风险 低
-- X Money Launch for Premium+ Users | 质量 63.92 | 可交易性 77.44 | 风险 低
+- Yi He Responds to Cat Merchandise | 质量 79.85 | 可交易性 100.00 | 风险 低
+- Honey Platform Launch | 质量 75.64 | 可交易性 100.00 | 风险 低
+- Solana's Intern Penguin | 质量 75.57 | 可交易性 100.00 | 风险 低
+- Ansem King | 质量 74.85 | 可交易性 100.00 | 风险 低
+- Ansemchua | 质量 72.65 | 可交易性 100.00 | 风险 低
+- Alleged $COLONY Token Launch | 质量 72.21 | 可交易性 100.00 | 风险 低
+- Alleged SpaceXAI Trademark | 质量 67.68 | 可交易性 80.28 | 风险 低
+- Nikolai Discusses SpaceX Meme Plush | 质量 66.93 | 可交易性 67.91 | 风险 低
+- Hubert Skeletrix Meme | 质量 66.43 | 可交易性 93.41 | 风险 低
+- The White Bull | 质量 66.00 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged SpaceXAI Trademark | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -102,7 +100,7 @@
 - 星辰大海 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PVE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 狗叫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SOL | Solana | 看多 | 新鲜度 100.00 | Solana's Intern Penguin / Liz Binance Shares GPT-5.6 / Alleged Messi Meme Coin / Sam Altman Discusses Sol Naming / OpenAI New Model Naming
+- SOL | Solana | 看多 | 新鲜度 100.00 | Solana's Intern Penguin
 - Venezuela | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SOL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Bepe | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Purrpanic（Solana，分数 85.03）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Alleged Jack Duval Meme Coin 当前为“新出现”
+1. 当前最强叙事：Ansem King（Solana，分数 84.91）
+2. 共振最强代币：MAME（BSC，共振 100.0）
+3. 记忆层变化：Alleged SpaceXAI Trademark 当前为“强化”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined CAPUSDT Perpetual Contract (2026-06-27)
 #Binance #NarrativeOS #OpenClaw
