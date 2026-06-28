@@ -1,101 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-28T14:13:03.349355+00:00
+- 生成时间：2026-06-28T15:39:04.564013+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Jewish Bull Meme，所在链为 Solana，叙事强度 84.76。
-- 当前平均叙事强度为 79.25，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Jewish Bull Meme 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 The Golden Bull，伪叙事风险 42.03。
+- 当前最强叙事是 Alleged TJR Token Launch，所在链为 Solana，叙事强度 87.28。
+- 当前平均叙事强度为 82.45，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 RTM，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged TJR Token Launch 当前处于“强化”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined CAPUSDT Perpetual Contract (2026-06-27)。
 
 ## 叙事雷达
 
-- Alleged Jewish Bull Meme | Solana | 降温中 | 强度 84.76 | 质量 79.15
-  - 主题摘要：According to Adolf Devler's post, the ALON token, described as 'The Jewish Bull,' is allegedly launched on the Bonk platform to oppose Alon. The post claims Alon has failed to pro…
-  - 资金 100.00 / 广度 91.70 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem is Back | Solana | 降温中 | 强度 82.45 | 质量 72.20
-  - 主题摘要：Multiple tokens named 「AIB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.81 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Advocates $ANSEM Airdrop | Solana | 加速中 | 强度 81.12 | 质量 78.66
-  - 主题摘要：According to Ansem 🐂🀄️'s post, he stated that new coins launching with attention should airdrop to $ANSEM holders. He criticized ongoing PvP behavior among users and suggested buy…
-  - 资金 100.00 / 广度 87.42 / 确认 20.16 / 脆弱性 14.00
+- Alleged TJR Token Launch | Solana | 加速中 | 强度 87.28 | 质量 81.30
+  - 主题摘要：According to pvy's post, TJR commented on an Insentos Instagram reel stating it is time to act. pvy claims TJR is releasing a Meme image titled "The Retarded Bull" and sending fee…
+  - 资金 100.00 / 广度 90.92 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Gokhshtein Meme Coin Issuance | Solana | 加速中 | 强度 79.48 | 质量 73.47
+- Ansem Live Broadcast Market Bubble | Solana | 加速中 | 强度 85.39 | 质量 78.87
+  - 主题摘要：According to Ansem's post, a live broadcast titled 'Market Bubble EP 8' was held featuring TJR and Mert, presented by Polymarket. The content focuses on this specific live streami…
+  - 资金 100.00 / 广度 85.49 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 烦熊 | Solana | 降温中 | 强度 84.25 | 质量 72.54
+  - 主题摘要：Multiple tokens named 「$烦」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.93 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged FINNBAGS Token Launch | Solana | 加速中 | 强度 81.55 | 质量 74.28
+  - 主题摘要：According to Zee's post, the author expresses strong opposition to the alleged launch of the FINNBAGS token, also known as The Retarded Bull. Zee criticizes the project for distri…
+  - 资金 100.00 / 广度 75.02 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Gokhshtein Meme Coin Issuance | Solana | 加速中 | 强度 81.38 | 质量 72.67
   - 主题摘要：According to asterisk's post, David Gokhshtein allegedly launched a Meme coin named 'The White Bull' (GOKHSHTEIN) by sharing a Pump.fun wallet and announcing meme purchases. aster…
   - 资金 100.00 / 广度 68.64 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged TJR Token Launch | Solana | 加速中 | 强度 78.52 | 质量 78.23
-  - 主题摘要：According to pvy's post, TJR commented on an Insentos Instagram reel stating it is time to act. pvy claims TJR is launching a Meme image project named 'The Retarded Bull' (associa…
-  - 资金 100.00 / 广度 85.97 / 确认 20.16 / 脆弱性 24.00
+- Alleged TJR Token Airdrop | Solana | 加速中 | 强度 81.15 | 质量 72.03
+  - 主题摘要：According to emo plug's post, TJR is allegedly distributing 10% of the token supply to a specific wallet to increase visibility in Solana wallets. This action is linked to comment…
+  - 资金 100.00 / 广度 77.97 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged New WIF Meme Image | Solana | 降温中 | 强度 76.64 | 质量 62.95
-  - 主题摘要：According to The Narrative Guy's post, the author proposes reviving the 'WIF' meme with a new visual concept, suggesting it must differ from current market conditions. The post re…
-  - 资金 100.00 / 广度 74.21 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged ALYCIA Meme Image Launch | Solana | 加速中 | 强度 76.34 | 质量 75.85
-  - 主题摘要：According to SOLF's post, Ansem allegedly launched a token named 'The Black Cow' (ALYCIA), described as the female version of a bull. The post mentions sending 10% supply to Ansem…
-  - 资金 100.00 / 广度 85.89 / 确认 20.16 / 脆弱性 24.00
+- Alleged Ansem's Army Airdrop | Solana | 已确认 | 强度 79.69 | 质量 78.59
+  - 主题摘要：According to Ephraim P. Schindler (MAX POTENTIAL)'s post, a quoted tweet suggests that new coins launching with attention should airdrop to $ANSEM holders. This implies an alleged…
+  - 资金 100.00 / 广度 86.39 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Ansem's Army Token Launch | Solana | 加速中 | 强度 78.87 | 质量 78.05
+  - 主题摘要：According to Epstein P. Schrödinger (MAX POTENTIAL)'s post, Ansem allegedly requested the distribution of fees and supply to top holders of the Black Bull token. This claim involv…
+  - 资金 100.00 / 广度 85.13 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He Responds to Cat Merchandise | BSC | 降温中 | 强度 76.22 | 质量 66.66
+- Yi He Responds to Cat Merchandise | BSC | 降温中 | 强度 75.54 | 质量 65.61
   - 主题摘要：Binance CEO Yi He interacts with a fan's post featuring her cat, Xiaomi, playing on a giant Binance merchandise box. The post blends the popular 'cat in a box' meme culture with B…
-  - 资金 98.88 / 广度 85.14 / 确认 16.56 / 脆弱性 24.00
+  - 资金 98.97 / 广度 85.16 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Flaro | Solana | 降温中 | 强度 74.68 | 质量 61.69
-  - 主题摘要：Multiple tokens named 「Flaro」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 59.54 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ai数字人生 | BSC | 加速中 | 强度 72.69 | 质量 62.54
-  - 主题摘要：Multiple tokens named 「Ai数字人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.26 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PKNFT | BSC | 加速中 | 强度 72.29 | 质量 60.99
+- PKNFT | BSC | 加速中 | 强度 74.44 | 质量 61.16
   - 主题摘要：PKNFT is a meme token inspired by the 'Pump' meme culture, focusing on community-driven engagement. It aims to create a fun, inclusive ecosystem where users can participate in mem…
-  - 资金 100.00 / 广度 70.10 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 70.31 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BEPE | BSC | 降温中 | 强度 68.92 | 质量 51.40
+- BEPE | BSC | 加速中 | 强度 66.87 | 质量 54.18
   - 主题摘要：Multiple tokens named 「Bepe」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 54.55 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DDL | BSC | 加速中 | 强度 68.14 | 质量 57.94
-  - 主题摘要：Multiple tokens named 「DDL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.61 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 58.04 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Golden Bull | BSC | 点火期 | 强度 67.89 | 质量 55.72
-  - 主题摘要：Multiple tokens named 「DONG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.77 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Ranming Hudie New Mechanism | BSC | 降温中 | 强度 66.62 | 质量 49.18
+  - 主题摘要：According to 燃烧蝴蝶's post, the NiuTou team and Butterfly platform introduced a new mechanism. 50% of taxes are allocated to accumulation for token burning upon reaching a threshold…
+  - 资金 100.00 / 广度 59.20 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ai数字人生 | BSC | 加速中 | 强度 66.00 | 质量 54.63
+  - 主题摘要：Multiple tokens named 「Ai数字人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.60 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CRCLCOIN | BSC | 加速中 | 强度 65.40 | 质量 52.93
+  - 主题摘要：Multiple tokens named 「CRCLCOIN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.22 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.25，其中已确认叙事 0 个。
-- Ansem Advocates $ANSEM Airdrop 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged Jewish Bull Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.45，其中已确认叙事 1 个。
+- Alleged TJR Token Launch 正在向主线升级: Solana 上该叙事处于“强化”状态，值得持续跟踪。
+- 烦熊 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Jewish Bull Meme | 质量 79.15 | 可交易性 100.00 | 风险 低
-- Ansem Advocates $ANSEM Airdrop | 质量 78.66 | 可交易性 100.00 | 风险 低
-- Alleged TJR Token Launch | 质量 78.23 | 可交易性 100.00 | 风险 低
-- Alleged ALYCIA Meme Image Launch | 质量 75.85 | 可交易性 92.15 | 风险 低
-- Alleged Gokhshtein Meme Coin Issuance | 质量 73.47 | 可交易性 98.32 | 风险 低
-- Ansem is Back | 质量 72.20 | 可交易性 100.00 | 风险 低
-- Yi He Responds to Cat Merchandise | 质量 66.66 | 可交易性 86.30 | 风险 低
-- Alleged New WIF Meme Image | 质量 62.95 | 可交易性 68.75 | 风险 低
-- Ai数字人生 | 质量 62.54 | 可交易性 79.07 | 风险 低
-- Flaro | 质量 61.69 | 可交易性 81.71 | 风险 低
+- Alleged TJR Token Launch | 质量 81.30 | 可交易性 100.00 | 风险 低
+- Ansem Live Broadcast Market Bubble | 质量 78.87 | 可交易性 100.00 | 风险 低
+- Alleged Ansem's Army Airdrop | 质量 78.59 | 可交易性 95.00 | 风险 低
+- Alleged Ansem's Army Token Launch | 质量 78.05 | 可交易性 97.09 | 风险 低
+- Alleged FINNBAGS Token Launch | 质量 74.28 | 可交易性 97.78 | 风险 低
+- Alleged Gokhshtein Meme Coin Issuance | 质量 72.67 | 可交易性 95.64 | 风险 低
+- 烦熊 | 质量 72.54 | 可交易性 100.00 | 风险 低
+- Alleged TJR Token Airdrop | 质量 72.03 | 可交易性 84.71 | 风险 低
+- Yi He Responds to Cat Merchandise | 质量 65.61 | 可交易性 86.30 | 风险 低
+- PKNFT | 质量 61.16 | 可交易性 52.98 | 风险 低
 
 ## 伪叙事风险
 
-- The Golden Bull | 风险 42.03 | 原因：流动性偏薄
-- Flaro | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Jewish Bull Meme（Solana，分数 84.76）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Alleged Jewish Bull Meme 当前为“新出现”
+1. 当前最强叙事：Alleged TJR Token Launch（Solana，分数 87.28）
+2. 共振最强代币：RTM（Solana，共振 100.0）
+3. 记忆层变化：Alleged TJR Token Launch 当前为“强化”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined CAPUSDT Perpetual Contract (2026-06-27)
 #Binance #NarrativeOS #OpenClaw
