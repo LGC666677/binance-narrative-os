@@ -1,100 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-29T21:00:22.963161+00:00
+- 生成时间：2026-06-29T22:18:07.767478+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Launch of ANSEM Token，所在链为 Solana，叙事强度 87.32。
-- 当前平均叙事强度为 83.1，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 SOLANGELES，来自 Solana，共振分数 100.0。
-- 记忆层显示 Ansem Alleged Token Airdrop 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Ansem Alleged Token Airdrop，伪叙事风险 40.99。
+- 当前最强叙事是 Alleged Launch of ANSEM Token，所在链为 Solana，叙事强度 88.16。
+- 当前平均叙事强度为 84.76，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 David Gokhshtein Alleged Pump.fun Page 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Binance Futures Will Adjust The Contract Size of USDⓈ-Margined CRWDUSDT Perpetual Contract (2026-07-02)。
 
 ## 叙事雷达
 
-- Alleged Launch of ANSEM Token | Solana | 加速中 | 强度 87.32 | 质量 83.23
-  - 主题摘要：According to Ansem 🐂🀄️'s post, Orogun Anselm claims to have launched a token originally intended as $ANSEM but altered due to a typo. The post references tokens such as ANSLEM and…
+- Alleged Launch of ANSEM Token | Solana | 加速中 | 强度 88.16 | 质量 83.23
+  - 主题摘要：According to Ansem 🐂🀄️'s post, Orogun Anselm claims to have launched a token named $ANSEM, allegedly due to a typo in the original $ANSEM symbol. This information is unverified. P…
   - 资金 100.00 / 广度 100.00 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ansem Alleged Token Airdrop | Solana | 降温中 | 强度 84.20 | 质量 79.16
+- GodDev Discusses Fee Redistribution | Solana | 降温中 | 强度 86.49 | 质量 79.38
   - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 96.99 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 95.11 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GodDev Discusses Fee Redistribution | Solana | 降温中 | 强度 84.13 | 质量 79.38
+- Ansem's Market Sentiment | Solana | 降温中 | 强度 86.36 | 质量 79.21
+  - 主题摘要：Multiple tokens named 「Ansem」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 94.52 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ansem Alleged Token Airdrop | Solana | 降温中 | 强度 86.16 | 质量 79.12
   - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.08 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 96.86 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged The Black Bull Token | Solana | 降温中 | 强度 84.11 | 质量 78.84
+- Alleged The Black Bull Token | Solana | 降温中 | 强度 85.05 | 质量 78.84
+  - 主题摘要：According to beeple's post, the term "THE BLACK BULL" is referenced. This relates to a token named "The Black Bull" (Symbol: NOTANSEM) and another associated with "Zion Thomas" (S…
+  - 资金 100.00 / 广度 93.29 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ansem Discusses Buy and Hold | Solana | 降温中 | 强度 83.66 | 质量 74.77
+  - 主题摘要：According to Ansem's post, he quoted Easy's view that the current market favors a buy-and-hold strategy. Ansem emphasized that believing in an asset is crucial, citing Pingu as a…
+  - 资金 100.00 / 广度 89.39 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- David Gokhshtein Alleged Pump.fun Page | Solana | 加速中 | 强度 81.85 | 质量 71.59
+  - 主题摘要：According to David Gokhshtein's post, he claims to have an official page on the Pump.fun platform. This statement is unverified. This information is unverified. Please exercise ca…
+  - 资金 100.00 / 广度 69.84 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- soho | Solana | 降温中 | 强度 80.35 | 质量 69.32
   - 主题摘要：Multiple tokens named 「Ansem」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.28 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.72 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem's Market Sentiment | Solana | 降温中 | 强度 84.06 | 质量 79.20
-  - 主题摘要：Multiple tokens named 「Ansem」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.51 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ Posts Final Form Bull Meme | BSC | 加速中 | 强度 81.51 | 质量 78.00
+- Uncertain:CZ Posts Final Form Bull Meme | BSC | 加速中 | 强度 79.26 | 质量 76.52
   - 主题摘要：According to CZ's post, he claims to be a bull and references a "final form." This content is associated with the "Final Form Bull" token. CZ allegedly launched this token. This i…
-  - 资金 100.00 / 广度 90.27 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.23 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged MMGA Meme Movement | Solana | 加速中 | 强度 81.47 | 质量 70.39
-  - 主题摘要：According to faded's post, the slogan "Make Memecoins Great Again" has become a movement, allegedly launched by Ansem. faded claims this trend is driving a comeback in retail inte…
-  - 资金 100.00 / 广度 82.21 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ansem Discusses Buy and Hold | Solana | 降温中 | 强度 81.28 | 质量 74.67
-  - 主题摘要：Multiple tokens named 「Ansem」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.52 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- soho | Solana | 降温中 | 强度 78.23 | 质量 69.32
-  - 主题摘要：Multiple tokens named 「Ansem」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.95 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Comments on pretty cool Token | BSC | 加速中 | 强度 72.61 | 质量 62.84
+- CZ Comments on pretty cool Token | BSC | 加速中 | 强度 75.65 | 质量 66.59
   - 主题摘要：Binance CEO CZ was spotted wearing a traditional Balinese Barong costume, prompting praise from influencers. This unique cultural fashion statement highlights the intersection of…
-  - 资金 100.00 / 广度 77.38 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.82 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He Responds to Cat Merchandise | BSC | 加速中 | 强度 72.56 | 质量 62.29
-  - 主题摘要：Binance CEO Yi He interacts with a fan's post featuring her cat, Xiaomi, playing on a giant Binance merchandise box. The post blends the popular 'cat in a box' meme culture with B…
-  - 资金 100.00 / 广度 70.45 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 宝贝狗 | BSC | 加速中 | 强度 71.62 | 质量 66.65
-  - 主题摘要：Multiple tokens named 「Babydog」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 99.94 / 广度 78.94 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged 5Doge Token | BSC | 加速中 | 强度 67.80 | 质量 52.05
-  - 主题摘要：According to the post, an incident involving the abuse and killing of five dogs in Guangdong has sparked public outrage. A token named 5Doge, described as seeking justice for the…
-  - 资金 100.00 / 广度 62.73 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yi He Posts Horse-to-Bull Photoshop | BSC | 加速中 | 强度 67.56 | 质量 67.58
+- Uncertain:Yi He Posts Horse-to-Bull Photoshop | BSC | 加速中 | 强度 72.75 | 质量 69.68
   - 主题摘要：Yi He shared a Meme image depicting the Photoshop transformation of a horse into a bull, humorously referencing the anticipated arrival of a bull market. The post highlights the u…
-  - 资金 85.75 / 广度 88.57 / 确认 30.96 / 脆弱性 24.00
+  - 资金 97.70 / 广度 88.57 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He Responds to Cat Merchandise | BSC | 加速中 | 强度 70.20 | 质量 61.87
+  - 主题摘要：Binance CEO Yi He interacts with a fan's post featuring her cat, Xiaomi, playing on a giant Binance merchandise box. The post blends the popular 'cat in a box' meme culture with B…
+  - 资金 96.10 / 广度 70.30 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 宝贝狗 | BSC | 加速中 | 强度 69.57 | 质量 69.89
+  - 主题摘要：Multiple tokens named 「Babydog」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 86.94 / 广度 78.78 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged 5Doge Token | BSC | 加速中 | 强度 68.74 | 质量 53.86
+  - 主题摘要：According to the post, an incident involving the abuse and killing of five dogs in Guangdong has sparked public outrage. A token named 5Doge, described as seeking justice for the…
+  - 资金 100.00 / 广度 66.21 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.1，其中已确认叙事 0 个。
-- Alleged MMGA Meme Movement 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Ansem Alleged Token Airdrop 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.76，其中已确认叙事 0 个。
+- David Gokhshtein Alleged Pump.fun Page 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- GodDev Discusses Fee Redistribution 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Alleged Launch of ANSEM Token | 质量 83.23 | 可交易性 100.00 | 风险 低
 - GodDev Discusses Fee Redistribution | 质量 79.38 | 可交易性 100.00 | 风险 低
-- Ansem's Market Sentiment | 质量 79.20 | 可交易性 100.00 | 风险 低
-- Ansem Alleged Token Airdrop | 质量 79.16 | 可交易性 100.00 | 风险 低
+- Ansem's Market Sentiment | 质量 79.21 | 可交易性 100.00 | 风险 低
+- Ansem Alleged Token Airdrop | 质量 79.12 | 可交易性 100.00 | 风险 低
 - Alleged The Black Bull Token | 质量 78.84 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Posts Final Form Bull Meme | 质量 78.00 | 可交易性 100.00 | 风险 低
-- Ansem Discusses Buy and Hold | 质量 74.67 | 可交易性 89.89 | 风险 低
-- Alleged MMGA Meme Movement | 质量 70.39 | 可交易性 74.46 | 风险 低
-- soho | 质量 69.32 | 可交易性 73.62 | 风险 低
-- Uncertain:Yi He Posts Horse-to-Bull Photoshop | 质量 67.58 | 可交易性 95.81 | 风险 低
+- Uncertain:CZ Posts Final Form Bull Meme | 质量 76.52 | 可交易性 100.00 | 风险 低
+- Ansem Discusses Buy and Hold | 质量 74.77 | 可交易性 90.33 | 风险 低
+- David Gokhshtein Alleged Pump.fun Page | 质量 71.59 | 可交易性 90.84 | 风险 低
+- 宝贝狗 | 质量 69.89 | 可交易性 100.00 | 风险 低
+- Uncertain:Yi He Posts Horse-to-Bull Photoshop | 质量 69.68 | 可交易性 95.79 | 风险 低
 
 ## 伪叙事风险
 
-- Ansem Alleged Token Airdrop | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Launch of ANSEM Token（Solana，分数 87.32）
-2. 共振最强代币：SOLANGELES（Solana，共振 100.0）
-3. 记忆层变化：Ansem Alleged Token Airdrop 当前为“新出现”
+1. 当前最强叙事：Alleged Launch of ANSEM Token（Solana，分数 88.16）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：David Gokhshtein Alleged Pump.fun Page 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Adjust The Contract Size of USDⓈ-Margined CRWDUSDT Perpetual Contract (2026-07-02)
 #Binance #NarrativeOS #OpenClaw
