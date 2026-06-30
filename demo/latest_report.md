@@ -1,101 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-30T22:36:01.694191+00:00
+- 生成时间：2026-06-30T23:46:48.862727+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Starbase Turtle Rescue，所在链为 Solana，叙事强度 87.98。
-- 当前平均叙事强度为 81.77，其中已确认叙事 0 个。
+- 当前最强叙事是 The Viking Bull，所在链为 Solana，叙事强度 84.97。
+- 当前平均叙事强度为 81.52，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
-- 记忆层显示 Starbase Turtle Rescue 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Jenova Chen Comments on Solana，伪叙事风险 47.23。
+- 记忆层显示 The Viking Bull 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Claude Hidden Meme，伪叙事风险 42.61。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined BTCU and ETHU Perpetual Contracts (2026-07-01)。
 
 ## 叙事雷达
 
-- Starbase Turtle Rescue | Solana | 加速中 | 强度 87.98 | 质量 79.12
-  - 主题摘要：Elon Musk retweeted a story about SpaceX volunteers helping rescue a large loggerhead turtle named Arlen at Boca Chica Beach. The event highlights the intersection of SpaceX's lau…
-  - 资金 100.00 / 广度 88.96 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Posts Final Form Bull Meme | BSC | 已确认 | 强度 85.31 | 质量 82.05
-  - 主题摘要：According to CZ's post, he claims to be a bull and references a "final form." This content is associated with the token "Final Form Bull" (Symbol: 终极黄牛). CZ is alleged to be issui…
-  - 资金 100.00 / 广度 90.27 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Ansem: KOBE Token Job Not Finished | Solana | 降温中 | 强度 82.60 | 质量 75.45
-  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.62 / 确认 9.36 / 脆弱性 24.00
+- The Viking Bull | Solana | 降温中 | 强度 84.97 | 质量 72.54
+  - 主题摘要：Multiple tokens named 「Vulland」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.11 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Neeb Criticizes Toly's Anti-Meme Stance | Solana | 降温中 | 强度 82.01 | 质量 72.80
-  - 主题摘要：According to neeb's post, Toly has been spreading FUD against Solana and memecoins, shifting his focus to political content. Neeb argues that Toly's consistent opposition to memec…
-  - 资金 100.00 / 广度 76.97 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Seeking Assistance | Solana | 降温中 | 强度 81.86 | 质量 73.37
-  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.70 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Alleged Pumpfun CEO | Solana | 降温中 | 强度 81.24 | 质量 72.30
-  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.73 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Allegedly Launches LETS Token | Solana | 降温中 | 强度 81.16 | 质量 72.19
-  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.13 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FREE | BSC | 已确认 | 强度 80.53 | 质量 78.40
+- FREE | BSC | 已确认 | 强度 84.71 | 质量 78.47
   - 主题摘要：Multiple tokens named 「FREE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 82.30 / 广度 83.48 / 确认 31.68 / 脆弱性 24.00
+  - 资金 93.43 / 广度 83.56 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Toly Allegedly Launches Chamath Coin | Solana | 降温中 | 强度 80.01 | 质量 68.23
-  - 主题摘要：According to toly's post, Chamath Palihapitiya allegedly proposed launching a meme coin with 99.999% of supply claimable by individuals supporting California's 'Billionaire Tax' b…
-  - 资金 100.00 / 广度 78.66 / 确认 16.56 / 脆弱性 14.00
+- Toly Allegedly Launches Chamath Coin | Solana | 加速中 | 强度 83.14 | 质量 77.44
+  - 主题摘要：According to toly's post, he allegedly launched a meme coin with 99.999% of supply claimable by individuals pushing California's property tax bill, aiming for a $1b+ market cap. T…
+  - 资金 100.00 / 广度 80.71 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ Posts Final Form Bull Meme | BSC | 已确认 | 强度 82.63 | 质量 82.06
+  - 主题摘要：According to CZ's post, he claims to be a bull and references a "final form." This content is associated with the token "Final Form Bull" (Symbol: 终极黄牛). CZ is alleged to be issui…
+  - 资金 100.00 / 广度 90.29 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Ansem: KOBE Token Job Not Finished | Solana | 降温中 | 强度 82.53 | 质量 75.33
+  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.25 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jenova Chen Comments on Solana | Solana | 点火期 | 强度 77.29 | 质量 76.89
-  - 主题摘要：According to Jenova Chen's post, he commented on Solana, stating that new highways are being built over the old roads mapped out in the past. This metaphor suggests that current d…
-  - 资金 100.00 / 广度 85.71 / 确认 16.56 / 脆弱性 24.00
+- Neeb Criticizes Toly's Anti-Meme Stance | Solana | 加速中 | 强度 81.89 | 质量 75.90
+  - 主题摘要：According to neeb's post, Toly has been spreading FUD against Solana and memecoins, shifting his focus to political content. Neeb argues that this bearish stance against memecoins…
+  - 资金 100.00 / 广度 78.53 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ansem Seeking Assistance | Solana | 降温中 | 强度 80.63 | 质量 73.33
+  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.57 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ansem Alleged Pumpfun CEO | Solana | 降温中 | 强度 80.01 | 质量 72.26
+  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.59 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ansem Allegedly Launches LETS Token | Solana | 降温中 | 强度 79.92 | 质量 72.12
+  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.94 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Claude Hidden Meme | Solana | 点火期 | 强度 79.06 | 质量 75.03
+  - 主题摘要：According to lamb's post, Claude AI allegedly contains a hidden Meme image that appears only when Chinese users attempt to access the service. This content is reported to be going…
+  - 资金 100.00 / 广度 83.78 / 确认 15.84 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Leto Bao Self-Introduction | BSC | 加速中 | 强度 73.24 | 质量 70.17
+- Alleged Claude Chinese Meme | BSC | 加速中 | 强度 73.83 | 质量 60.24
+  - 主题摘要：According to lamb's post, Claude AI allegedly contains a hidden Meme image that appears only when Chinese users attempt to access the service. The post claims this feature is goin…
+  - 资金 100.00 / 广度 70.41 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Leto Bao Self-Introduction | BSC | 加速中 | 强度 73.01 | 质量 70.06
   - 主题摘要：According to Leto Bao's post, the individual identifies himself as the subject of the 'ByteDance stock trading 30 million financial freedom' narrative and states he will answer fr…
-  - 资金 100.00 / 广度 81.26 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.29 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 扑蝶 | BSC | 加速中 | 强度 72.54 | 质量 61.11
+- 扑蝶 | BSC | 加速中 | 强度 70.03 | 质量 60.84
   - 主题摘要：PUDIE (扑蝶) is a meme token inspired by butterfly imagery, symbolizing transformation and beauty. It gained popularity through viral social media campaigns, particularly on X, wher…
-  - 资金 100.00 / 广度 74.12 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.15 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yi He Posts Horse-to-Bull Photoshop | BSC | 加速中 | 强度 67.46 | 质量 65.28
-  - 主题摘要：Yi He shared a Meme image depicting the Photoshop transformation of a horse into a bull, humorously referencing the anticipated arrival of a bull market. The post highlights the u…
-  - 资金 97.91 / 广度 72.86 / 确认 27.36 / 脆弱性 14.00
+- Ai数字人生 | BSC | 加速中 | 强度 69.43 | 质量 57.13
+  - 主题摘要：Multiple tokens named 「Ai数字人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 59.53 / 确认 20.16 / 脆弱性 18.40
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Four首个定时一分钟回购百分50销毁 | BSC | 降温中 | 强度 67.44 | 质量 55.79
-  - 主题摘要：Multiple tokens named 「雪球自拉」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.65 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.77，其中已确认叙事 0 个。
-- Starbase Turtle Rescue 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Ansem: KOBE Token Job Not Finished 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.52，其中已确认叙事 0 个。
+- Alleged Claude Hidden Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- The Viking Bull 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:CZ Posts Final Form Bull Meme | 质量 82.05 | 可交易性 100.00 | 风险 低
-- Starbase Turtle Rescue | 质量 79.12 | 可交易性 100.00 | 风险 低
-- FREE | 质量 78.40 | 可交易性 100.00 | 风险 低
-- Jenova Chen Comments on Solana | 质量 76.89 | 可交易性 98.44 | 风险 低
-- Ansem: KOBE Token Job Not Finished | 质量 75.45 | 可交易性 100.00 | 风险 低
-- Ansem Seeking Assistance | 质量 73.37 | 可交易性 100.00 | 风险 低
-- Neeb Criticizes Toly's Anti-Meme Stance | 质量 72.80 | 可交易性 93.54 | 风险 低
-- Ansem Alleged Pumpfun CEO | 质量 72.30 | 可交易性 96.40 | 风险 低
-- Ansem Allegedly Launches LETS Token | 质量 72.19 | 可交易性 97.63 | 风险 低
-- Leto Bao Self-Introduction | 质量 70.17 | 可交易性 74.68 | 风险 低
+- Uncertain:CZ Posts Final Form Bull Meme | 质量 82.06 | 可交易性 100.00 | 风险 低
+- FREE | 质量 78.47 | 可交易性 100.00 | 风险 低
+- Toly Allegedly Launches Chamath Coin | 质量 77.44 | 可交易性 100.00 | 风险 低
+- Neeb Criticizes Toly's Anti-Meme Stance | 质量 75.90 | 可交易性 97.04 | 风险 低
+- Ansem: KOBE Token Job Not Finished | 质量 75.33 | 可交易性 100.00 | 风险 低
+- Alleged Claude Hidden Meme | 质量 75.03 | 可交易性 94.70 | 风险 低
+- Ansem Seeking Assistance | 质量 73.33 | 可交易性 100.00 | 风险 低
+- The Viking Bull | 质量 72.54 | 可交易性 100.00 | 风险 低
+- Ansem Alleged Pumpfun CEO | 质量 72.26 | 可交易性 96.40 | 风险 低
+- Ansem Allegedly Launches LETS Token | 质量 72.12 | 可交易性 97.61 | 风险 低
 
 ## 伪叙事风险
 
-- Jenova Chen Comments on Solana | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Claude Hidden Meme | 风险 42.61 | 原因：流动性偏薄
 - Ansem: KOBE Token Job Not Finished | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Ansem Seeking Assistance | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Ansem Alleged Pumpfun CEO | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Ansem Allegedly Launches LETS Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,10 +108,10 @@
 - PVE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 狗叫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - NOAH | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Bullshit | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PVE | BSC | 看多 | 新鲜度 98.56 | 暂无直接叙事映射
 - b40 | Solana | 看多 | 新鲜度 98.37 | 暂无直接叙事映射
 - BILLY | Solana | 看多 | 新鲜度 96.32 | 暂无直接叙事映射
+- QUANT | Solana | 看多 | 新鲜度 81.14 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Starbase Turtle Rescue（Solana，分数 87.98）
+1. 当前最强叙事：The Viking Bull（Solana，分数 84.97）
 2. 共振最强代币：RAVE（BSC，共振 100.0）
-3. 记忆层变化：Starbase Turtle Rescue 当前为“新出现”
+3. 记忆层变化：The Viking Bull 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined BTCU and ETHU Perpetual Contracts (2026-07-01)
 #Binance #NarrativeOS #OpenClaw
