@@ -1,102 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-30T15:59:36.020387+00:00
+- 生成时间：2026-06-30T17:51:38.471811+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Him Defends Ansem's Liquidity，所在链为 Solana，叙事强度 84.06。
-- 当前平均叙事强度为 77.46，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Him Defends Ansem's Liquidity 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged $GAY Coin，伪叙事风险 44.91。
+- 当前最强叙事是 Superman Proposes Ansem Anime，所在链为 Solana，叙事强度 84.13。
+- 当前平均叙事强度为 79.46，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
+- 记忆层显示 Superman Proposes Ansem Anime 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined BTCU and ETHU Perpetual Contracts (2026-07-01)。
 
 ## 叙事雷达
 
-- Him Defends Ansem's Liquidity | Solana | 已确认 | 强度 84.06 | 质量 82.49
-  - 主题摘要：According to Him's post, he argues that high liquidity is achievable with sufficient supply locking. He criticizes selective ignoring of his previous contributions, citing over $1…
-  - 资金 100.00 / 广度 94.38 / 确认 28.08 / 脆弱性 14.00
+- Superman Proposes Ansem Anime | Solana | 已确认 | 强度 84.13 | 质量 78.07
+  - 主题摘要：According to Superman's post, he proposes an onchain anime series centered on the Ansem vs. Alon narrative to promote $ANSEM and Solana. He suggests Berdyn build the series while…
+  - 资金 100.00 / 广度 77.44 / 确认 31.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- FREE | BSC | 已确认 | 强度 83.36 | 质量 77.60
+- FREE | BSC | 已确认 | 强度 83.87 | 质量 77.19
   - 主题摘要：Multiple tokens named 「FREE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 96.12 / 广度 82.82 / 确认 31.68 / 脆弱性 14.00
+  - 资金 95.27 / 广度 82.98 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Luke Belmar Meme Coin | Solana | 降温中 | 强度 82.06 | 质量 75.76
-  - 主题摘要：According to Luke Belmar's post, he claims to be the king of internet memes and suggests launching a Luke Belmar memecoin, stating that TJR and Ansem cannot meme as hard as him. H…
-  - 资金 100.00 / 广度 80.40 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Vitaly Posts 'onboard me' | Solana | 加速中 | 强度 79.47 | 质量 71.47
-  - 主题摘要：According to Vitaly Ⓥ 火's post, the author expressed a desire to be onboarded, accompanied by a Solana wallet address. The post references the Vitaly Coin token, aligning with the…
-  - 资金 100.00 / 广度 80.94 / 确认 24.48 / 脆弱性 14.00
+- James Wynn Alleged Token Listing | Solana | 加速中 | 强度 79.81 | 质量 72.09
+  - 主题摘要：According to James Wynn 🔱's post, he challenges Hyperliquid and Aster DEX to list the token $WYNN (associated with the address G9ds9rppyJVZs4ZiRv6jVEq4Tq7kRcXxFgbhz232pump), stati…
+  - 资金 100.00 / 广度 77.34 / 确认 23.76 / 脆弱性 15.62
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged GENNY Token Launch | Solana | 点火期 | 强度 78.06 | 质量 76.89
-  - 主题摘要：According to Pump.fun's post, the platform highlights that users are missing out on 'genny entries,' referencing the token GENNY. The statement implies an opportunity or trend ass…
-  - 资金 100.00 / 广度 84.15 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:CZ Posts Final Form Bull Meme | BSC | 加速中 | 强度 76.94 | 质量 73.82
+- James Wynn Predicts Token Rotation | Solana | 加速中 | 强度 79.68 | 质量 72.09
+  - 主题摘要：According to James Wynn 🔱's post, he expects an immediate rotation of capital from the $ansem coin to the $wynn token.
+  - 资金 100.00 / 广度 77.33 / 确认 23.76 / 脆弱性 15.62
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- James Wynn's Influencer Coin Meta | Solana | 加速中 | 强度 79.66 | 质量 72.09
+  - 主题摘要：According to James Wynn's post, he questions whether influencer coins represent the new market meta, asserting his own prominence in the industry. The post references the FACT tok…
+  - 资金 100.00 / 广度 77.33 / 确认 23.76 / 脆弱性 15.62
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged World Token Info Leak | Solana | 加速中 | 强度 78.88 | 质量 75.80
+  - 主题摘要：According to Alexandra-Mihaela Boboc's post, she shared a quoted tweet stating that the World Prediction Markets token (@world_xyz) has been doxxed. She emphasized that the real a…
+  - 资金 100.00 / 广度 75.88 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- SIZEY Comments on Alon and ALON Token | Solana | 加速中 | 强度 77.87 | 质量 77.38
+  - 主题摘要：According to SIZEY's post, Alon previously criticized sudden bullish sentiment in 2024. SIZEY observes that two years later, similar market dynamics are recurring, with volumes re…
+  - 资金 100.00 / 广度 83.14 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Alon Token Airdrop | Solana | 加速中 | 强度 77.85 | 质量 77.36
+  - 主题摘要：According to Superman's post, Alon is returning to social media to improve the community, and Superman claims to be sending 90% of the total supply of the Alon token. This informa…
+  - 资金 100.00 / 广度 83.09 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- alon's @a1lon9 Effect | Solana | 加速中 | 强度 77.80 | 质量 77.34
+  - 主题摘要：According to alon's post, the user shared a Meme image titled "Stop Being Poor" in a reply to another user. The content references the "@a1lon9 effect" and mentions specific visua…
+  - 资金 100.00 / 广度 83.01 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ Posts Final Form Bull Meme | BSC | 加速中 | 强度 77.31 | 质量 73.80
   - 主题摘要：According to CZ's post, he claims to be a bull and references a "final form." This content is associated with the token "Final Form Bull" (Symbol: 终极黄牛). CZ is alleged to be issui…
-  - 资金 100.00 / 广度 86.01 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.60 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Leto Bao Self-Introduction | BSC | 加速中 | 强度 75.53 | 质量 72.25
+- Leto Bao Self-Introduction | BSC | 加速中 | 强度 75.29 | 质量 70.45
   - 主题摘要：According to Leto Bao's post, the individual identifies himself as the subject of the 'ByteDance stock trading 30 million financial freedom' narrative and states he will answer fr…
-  - 资金 100.00 / 广度 81.35 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.14 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Him Denies COPPERINU | Solana | 降温中 | 强度 75.08 | 质量 68.93
-  - 主题摘要：According to Him's post, he denied a claim regarding the COPPERINU token. The original tweet was a reply to @Supermanonchain, who stated they sent 80% of the token to Him. Him's r…
-  - 资金 100.00 / 广度 80.41 / 确认 15.24 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Invites Tyler Durden | Solana | 点火期 | 强度 74.49 | 质量 71.85
-  - 主题摘要：According to Ansem 🐂🀄️'s post, Ansem replied to Tyler Durden, asking when he would join the squad. This interaction occurred in the context of Tyler Durden's commentary on the cry…
-  - 资金 100.00 / 广度 67.37 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged $GAY Coin | Solana | 点火期 | 强度 73.49 | 质量 70.56
-  - 主题摘要：According to dare market's post, FrankDeGods discusses the $GAY token, which originated as a joke during a Twitter Space. He clarifies that the coin is not a personal psyop and ex…
-  - 资金 100.00 / 广度 86.31 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Luke Belmar's 'No Risk' Statement | Solana | 降温中 | 强度 73.00 | 质量 60.17
-  - 主题摘要：According to Luke Belmar's post, he stated 'No Risk. No Ferrari.' This phrase reflects his personal philosophy regarding risk-taking and potential rewards, potentially alluding to…
-  - 资金 100.00 / 广度 69.23 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Yi He Joins EASY Residency as Mentor | BSC | 加速中 | 强度 72.72 | 质量 63.65
-  - 主题摘要：According to EASY Residency's post, Yi He, Co-Founder and Co-CEO of Binance, will serve as a mentor for the Season 4 program. She will provide practical advice to early-stage foun…
-  - 资金 100.00 / 广度 67.28 / 确认 18.72 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He Responds to Cat Merchandise | BSC | 加速中 | 强度 69.71 | 质量 59.08
-  - 主题摘要：Binance CEO Yi He interacts with a fan's post featuring her cat, Xiaomi, playing on a giant Binance merchandise box. The post blends the popular 'cat in a box' meme culture with B…
-  - 资金 100.00 / 广度 65.40 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 扑蝶 | BSC | 加速中 | 强度 69.58 | 质量 60.45
+- 扑蝶 | BSC | 加速中 | 强度 72.51 | 质量 61.01
   - 主题摘要：PUDIE (扑蝶) is a meme token inspired by butterfly imagery, symbolizing transformation and beauty. It gained popularity through viral social media campaigns, particularly on X, wher…
-  - 资金 100.00 / 广度 73.63 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.94 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He Responds to Cat Merchandise | BSC | 加速中 | 强度 71.27 | 质量 61.36
+  - 主题摘要：Binance CEO Yi He interacts with a fan's post featuring her cat, Xiaomi, playing on a giant Binance merchandise box. The post blends the popular 'cat in a box' meme culture with B…
+  - 资金 100.00 / 广度 65.48 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Four首个定时一分钟回购百分50销毁 | BSC | 降温中 | 强度 71.06 | 质量 55.92
+  - 主题摘要：Multiple tokens named 「雪球自拉」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.97 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.46，其中已确认叙事 1 个。
-- Him Defends Ansem's Liquidity 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged Luke Belmar Meme Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.46，其中已确认叙事 1 个。
+- Superman Proposes Ansem Anime 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Four首个定时一分钟回购百分50销毁 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Him Defends Ansem's Liquidity | 质量 82.49 | 可交易性 100.00 | 风险 低
-- FREE | 质量 77.60 | 可交易性 100.00 | 风险 低
-- Alleged GENNY Token Launch | 质量 76.89 | 可交易性 100.00 | 风险 低
-- Alleged Luke Belmar Meme Coin | 质量 75.76 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Posts Final Form Bull Meme | 质量 73.82 | 可交易性 100.00 | 风险 低
-- Leto Bao Self-Introduction | 质量 72.25 | 可交易性 81.54 | 风险 低
-- Ansem Invites Tyler Durden | 质量 71.85 | 可交易性 100.00 | 风险 低
-- Vitaly Posts 'onboard me' | 质量 71.47 | 可交易性 79.34 | 风险 低
-- Alleged $GAY Coin | 质量 70.56 | 可交易性 95.58 | 风险 低
-- Him Denies COPPERINU | 质量 68.93 | 可交易性 86.53 | 风险 低
+- Superman Proposes Ansem Anime | 质量 78.07 | 可交易性 100.00 | 风险 低
+- SIZEY Comments on Alon and ALON Token | 质量 77.38 | 可交易性 100.00 | 风险 低
+- Alleged Alon Token Airdrop | 质量 77.36 | 可交易性 100.00 | 风险 低
+- alon's @a1lon9 Effect | 质量 77.34 | 可交易性 100.00 | 风险 低
+- FREE | 质量 77.19 | 可交易性 100.00 | 风险 低
+- Alleged World Token Info Leak | 质量 75.80 | 可交易性 98.85 | 风险 低
+- Uncertain:CZ Posts Final Form Bull Meme | 质量 73.80 | 可交易性 100.00 | 风险 低
+- James Wynn Alleged Token Listing | 质量 72.09 | 可交易性 85.55 | 风险 低
+- James Wynn Predicts Token Rotation | 质量 72.09 | 可交易性 85.55 | 风险 低
+- James Wynn's Influencer Coin Meta | 质量 72.09 | 可交易性 85.55 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged $GAY Coin | 风险 44.91 | 原因：流动性偏薄
-- Alleged GENNY Token Launch | 风险 42.03 | 原因：流动性偏薄
-- Ansem Invites Tyler Durden | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -109,7 +105,7 @@
 - Bullshit | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PVE | BSC | 看多 | 新鲜度 98.56 | 暂无直接叙事映射
 - b40 | Solana | 看多 | 新鲜度 98.37 | 暂无直接叙事映射
-- ZACK | Solana | 看多 | 新鲜度 97.39 | 暂无直接叙事映射
+- BILLY | Solana | 看多 | 新鲜度 96.32 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -135,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Him Defends Ansem's Liquidity（Solana，分数 84.06）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Him Defends Ansem's Liquidity 当前为“新出现”
+1. 当前最强叙事：Superman Proposes Ansem Anime（Solana，分数 84.13）
+2. 共振最强代币：RAVE（BSC，共振 100.0）
+3. 记忆层变化：Superman Proposes Ansem Anime 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined BTCU and ETHU Perpetual Contracts (2026-07-01)
 #Binance #NarrativeOS #OpenClaw
