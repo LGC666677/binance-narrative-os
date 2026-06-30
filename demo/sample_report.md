@@ -1,102 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-29T23:29:48.697722+00:00
+- 生成时间：2026-06-30T01:29:57.569403+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：3
+- 已确认叙事：2
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Launch of ANSEM Token，所在链为 Solana，叙事强度 85.07。
-- 当前平均叙事强度为 80.43，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 SOLANGELES，来自 Solana，共振分数 100.0。
-- 记忆层显示 ポムポムプリン 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 GodDev Discusses Fee Redistribution，伪叙事风险 50.11。
-- 最新官方催化来自 币安最新公告：Binance Futures Will Adjust The Contract Size of USDⓈ-Margined CRWDUSDT Perpetual Contract (2026-07-02)。
+- 当前最强叙事是 TJR Discusses Solana Trenches，所在链为 Solana，叙事强度 86.25。
+- 当前平均叙事强度为 84.09，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 RAVE，来自 BSC，共振分数 100.0。
+- 记忆层显示 Uncertain:Yi He Posts Horse-to-Bull Photoshop 当前处于“强化”状态。
+- 最新官方催化来自 币安最新公告：Notice on Binance Futures COIN-M System Upgrade (2026-06-30)。
 
 ## 叙事雷达
 
-- Alleged Launch of ANSEM Token | Solana | 加速中 | 强度 85.07 | 质量 83.23
-  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 23.76 / 脆弱性 24.00
+- TJR Discusses Solana Trenches | Solana | 降温中 | 强度 86.25 | 质量 77.39
+  - 主题摘要：According to TJR's post, the author questions the resurgence of activity in the Solana 'trenches' sector. The post includes a link to the author's Kick.com channel, indicating a f…
+  - 资金 100.00 / 广度 88.45 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Launch of ANSEM Token | Solana | 加速中 | 强度 85.56 | 质量 82.44
+  - 主题摘要：According to Ansem 🐂🀄️'s post, Orogun Anselm claims to have launched a token originally intended as $ANSEM but altered due to a typo. The post references tokens such as ANSLEM and…
+  - 资金 100.00 / 广度 100.00 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GodDev Discusses Fee Redistribution | Solana | 点火期 | 强度 82.08 | 质量 79.37
-  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.07 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged The Black Bull Token | Solana | 点火期 | 强度 82.05 | 质量 78.83
-  - 主题摘要：According to beeple's post, the term "THE BLACK BULL" is referenced. This aligns with a token named "The Black Bull" (Symbol: NOTANSEM) and another associated with "Zion Thomas" (…
-  - 资金 100.00 / 广度 93.26 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:CZ Posts Final Form Bull Meme | BSC | 已确认 | 强度 81.52 | 质量 81.97
-  - 主题摘要：According to CZ's post, he claims to be a bull and references a "final form." This content is associated with the "Final Form Bull" token. CZ allegedly launched this token. This i…
-  - 资金 100.00 / 广度 90.52 / 确认 30.96 / 脆弱性 24.00
+- Dip Wheeler Comments on Token | Solana | 加速中 | 强度 85.47 | 质量 78.65
+  - 主题摘要：According to Dip Wheeler's post, he commented on a token named 'bul', stating that it 'looks good' and urging others to 'send it'. This expression indicates his positive sentiment…
+  - 资金 100.00 / 广度 87.99 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged TJR FOMO Wallet | Solana | 加速中 | 强度 85.22 | 质量 76.52
+  - 主题摘要：According to baddie on chain's post, TJR allegedly created a FOMO wallet and sent 30% of tokens to it. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 80.29 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged TJR Meme Coin Launch | Solana | 降温中 | 强度 83.80 | 质量 74.55
+  - 主题摘要：Multiple tokens named 「TJR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.29 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- TJR Market Intervention Inquiry | Solana | 降温中 | 强度 82.49 | 质量 72.56
+  - 主题摘要：Multiple tokens named 「TJR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.00 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ansem 🐂🀄️: Make Crypto Cool Again | Solana | 加速中 | 强度 82.37 | 质量 75.05
+  - 主题摘要：According to Ansem 🐂🀄️'s post, the author expresses an intention to make cryptocurrency appealing to mainstream users, or 'normies,' in the current market cycle. This statement al…
+  - 资金 100.00 / 广度 80.33 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ Posts Final Form Bull Meme | BSC | 已确认 | 强度 82.12 | 质量 82.68
+  - 主题摘要：CZ shared a Meme image titled "Final Form Bull" on social media, stating that while everyone knows he is a bull, they have not yet seen his final form. This post references the "F…
+  - 资金 100.00 / 广度 90.68 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- ポムポムプリン | Solana | 加速中 | 强度 80.62 | 质量 71.78
-  - 主题摘要：POMPOMPURIN is a meme token inspired by the popular Japanese character Pom Pom Purin, a cute cat with a pink bow. The token embraces the playful, whimsical nature of the character…
-  - 资金 100.00 / 广度 61.31 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Based Dom Comments on Threadguy | Solana | 点火期 | 强度 79.38 | 质量 74.74
-  - 主题摘要：According to Based Dom NiggaButt/Acc's post, the user shared a quoted tweet expressing amusement regarding an individual named Threadguy. The content consists of a brief reaction…
-  - 资金 100.00 / 广度 89.52 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged MMGA Meme Movement | Solana | 加速中 | 强度 79.34 | 质量 66.26
-  - 主题摘要：According to faded's post, the slogan "Make Memecoins Great Again" has become a movement, allegedly launched by Ansem. faded claims this trend is driving a comeback in retail inte…
-  - 资金 100.00 / 广度 82.62 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- David Gokhshtein Alleged Pump.fun Page | Solana | 加速中 | 强度 79.05 | 质量 71.43
-  - 主题摘要：According to David Gokhshtein's post, he claims to have an official page on the Pump.fun platform. This statement is unverified. This information is unverified. Please exercise ca…
-  - 资金 100.00 / 广度 69.78 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- soho | Solana | 点火期 | 强度 75.82 | 质量 68.78
-  - 主题摘要：Multiple tokens named 「Ansem」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.74 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ Comments on pretty cool Token | BSC | 加速中 | 强度 72.53 | 质量 64.36
+- Capy Launches BullBank | Solana | 降温中 | 强度 81.59 | 质量 72.36
+  - 主题摘要：According to Capy's post, Capy launched BullBank, a platform where fees are used to buy back and distribute $ANSEM to $BULLBANK holders. This follows the discontinuation of a prev…
+  - 资金 100.00 / 广度 69.05 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Yi He Posts Horse-to-Bull Photoshop | BSC | 已确认 | 强度 80.02 | 质量 80.09
+  - 主题摘要：Yi He shared a Meme image depicting the Photoshop transformation of a horse into a bull, humorously addressing the anticipation of an upcoming bull market. The post reflects a lig…
+  - 资金 94.40 / 广度 88.53 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- CZ Comments on pretty cool Token | BSC | 加速中 | 强度 77.07 | 质量 65.92
   - 主题摘要：Binance CEO CZ was spotted wearing a traditional Balinese Barong costume, prompting praise from influencers. This unique cultural fashion statement highlights the intersection of…
-  - 资金 100.00 / 广度 77.48 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.57 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 宝贝狗 | BSC | 加速中 | 强度 72.43 | 质量 68.29
-  - 主题摘要：Multiple tokens named 「Babydog」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 99.30 / 广度 78.69 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He Responds to Cat Merchandise | BSC | 加速中 | 强度 71.04 | 质量 60.13
+- Yi He Responds to Cat Merchandise | BSC | 加速中 | 强度 72.76 | 质量 62.77
   - 主题摘要：Binance CEO Yi He interacts with a fan's post featuring her cat, Xiaomi, playing on a giant Binance merchandise box. The post blends the popular 'cat in a box' meme culture with B…
-  - 资金 100.00 / 广度 69.98 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.57 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yi He Posts Horse-to-Bull Photoshop | BSC | 加速中 | 强度 69.89 | 质量 71.16
-  - 主题摘要：Yi He shared a Meme image depicting the Photoshop transformation of a horse into a bull, humorously referencing the anticipated arrival of a bull market. The post highlights the u…
-  - 资金 85.87 / 广度 88.57 / 确认 27.36 / 脆弱性 24.00
+- 宝贝狗 | BSC | 加速中 | 强度 71.94 | 质量 67.29
+  - 主题摘要：Multiple tokens named 「Babydog」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 99.94 / 广度 78.34 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 人生之书 LIFEBOOK | BSC | 加速中 | 强度 68.45 | 质量 52.41
-  - 主题摘要：Multiple tokens named 「LIFEBOOK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 59.42 / 确认 24.48 / 脆弱性 14.00
+- Ai数字人生 | BSC | 加速中 | 强度 69.80 | 质量 58.19
+  - 主题摘要：Multiple tokens named 「Ai数字人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 59.89 / 确认 24.48 / 脆弱性 18.40
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.43，其中已确认叙事 0 个。
-- ポムポムプリン 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.09，其中已确认叙事 0 个。
+- Dip Wheeler Comments on Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- TJR Discusses Solana Trenches 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Launch of ANSEM Token | 质量 83.23 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Posts Final Form Bull Meme | 质量 81.97 | 可交易性 100.00 | 风险 低
-- GodDev Discusses Fee Redistribution | 质量 79.37 | 可交易性 100.00 | 风险 低
-- Alleged The Black Bull Token | 质量 78.83 | 可交易性 100.00 | 风险 低
-- Based Dom Comments on Threadguy | 质量 74.74 | 可交易性 87.48 | 风险 低
-- ポムポムプリン | 质量 71.78 | 可交易性 100.00 | 风险 低
-- David Gokhshtein Alleged Pump.fun Page | 质量 71.43 | 可交易性 90.90 | 风险 低
-- Uncertain:Yi He Posts Horse-to-Bull Photoshop | 质量 71.16 | 可交易性 95.57 | 风险 低
-- soho | 质量 68.78 | 可交易性 72.02 | 风险 低
-- 宝贝狗 | 质量 68.29 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Posts Final Form Bull Meme | 质量 82.68 | 可交易性 100.00 | 风险 低
+- Alleged Launch of ANSEM Token | 质量 82.44 | 可交易性 100.00 | 风险 低
+- Uncertain:Yi He Posts Horse-to-Bull Photoshop | 质量 80.09 | 可交易性 97.76 | 风险 低
+- Dip Wheeler Comments on Token | 质量 78.65 | 可交易性 96.21 | 风险 低
+- TJR Discusses Solana Trenches | 质量 77.39 | 可交易性 100.00 | 风险 低
+- Alleged TJR FOMO Wallet | 质量 76.52 | 可交易性 100.00 | 风险 低
+- Ansem 🐂🀄️: Make Crypto Cool Again | 质量 75.05 | 可交易性 91.88 | 风险 低
+- Alleged TJR Meme Coin Launch | 质量 74.55 | 可交易性 98.72 | 风险 低
+- TJR Market Intervention Inquiry | 质量 72.56 | 可交易性 94.37 | 风险 低
+- Capy Launches BullBank | 质量 72.36 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- GodDev Discusses Fee Redistribution | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged The Black Bull Token | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- soho | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Based Dom Comments on Threadguy | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,14 +101,16 @@
 - 星辰大海 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PVE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 狗叫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- NOAH | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Bullshit | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FINNBAGS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- ANSEM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PVE | BSC | 看多 | 新鲜度 98.56 | 暂无直接叙事映射
 - ZACK | Solana | 看多 | 新鲜度 97.39 | 暂无直接叙事映射
 
 ## 官方催化
 
+- [Notice on Binance Futures COIN-M System Upgrade (2026-06-30)](https://www.binance.com/zh-CN/support/announcement/detail/5876ddeea3a444dbbd8e8cf0bbaa8005)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures COIN-M is undergoing a system upgrade as per scheduled from 2026-…
 - [Binance Futures Will Adjust The Contract Size of USDⓈ-Margined CRWDUSDT Perpetual Contract (2026-07-02)](https://www.binance.com/zh-CN/support/announcement/detail/68134e3f478c4b379fc5558374afc8e6)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Futures will ad…
 - [Supplementary Notice on Binance Futures COIN-M System Upgrade (2026-06-30)](https://www.binance.com/zh-CN/support/announcement/detail/c5000c295b0a4051af9e2f0ef59066de)
@@ -127,16 +125,14 @@
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased to launch a new Word of the Day (WOTD)…
 - [Binance Futures Will Launch USDⓈ-Margined CAPUSDT Perpetual Contract (2026-06-27)](https://www.binance.com/zh-CN/support/announcement/detail/a444dd2f67da43e0bafdd730fddc3887)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
-- [Recurring Transactions for bStocks Now Available on Binance Convert](https://www.binance.com/zh-CN/support/announcement/detail/cd4de1c860b54720a1e13ec541f65f17)
-  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are not offered in any other jurisdiction. b…
 - [Binance Futures Will Launch USDⓈ-Margined OUSDT Perpetual Contract (2026-06-24)](https://www.binance.com/zh-CN/support/announcement/detail/a6b7d5a8a14a44c1b6a6a34813c6d93f)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
 
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Launch of ANSEM Token（Solana，分数 85.07）
-2. 共振最强代币：SOLANGELES（Solana，共振 100.0）
-3. 记忆层变化：ポムポムプリン 当前为“新出现”
-4. 最新官方催化：Binance Futures Will Adjust The Contract Size of USDⓈ-Margined CRWDUSDT Perpetual Contract (2026-07-02)
+1. 当前最强叙事：TJR Discusses Solana Trenches（Solana，分数 86.25）
+2. 共振最强代币：RAVE（BSC，共振 100.0）
+3. 记忆层变化：Uncertain:Yi He Posts Horse-to-Bull Photoshop 当前为“强化”
+4. 最新官方催化：Notice on Binance Futures COIN-M System Upgrade (2026-06-30)
 #Binance #NarrativeOS #OpenClaw
