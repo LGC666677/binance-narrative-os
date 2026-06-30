@@ -1,98 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-06-30T11:32:22.478820+00:00
+- 生成时间：2026-06-30T13:27:44.136900+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 The Golden Bull，所在链为 Solana，叙事强度 85.28。
-- 当前平均叙事强度为 77.98，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TJR，来自 Solana，共振分数 100.0。
-- 记忆层显示 The Golden Bull 当前处于“新出现”状态。
+- 当前最强叙事是 Uncertain:CZ Posts Final Form Bull Meme，所在链为 BSC，叙事强度 84.2。
+- 当前平均叙事强度为 75.27，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 OPG，来自 BSC，共振分数 100.0。
+- 记忆层显示 FREE 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Elon Musk Jailed Case，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Solstice (SLX) and Share $200K Worth of Rewards (2026-06-30)。
 
 ## 叙事雷达
 
-- The Golden Bull | Solana | 加速中 | 强度 85.28 | 质量 78.05
+- Uncertain:CZ Posts Final Form Bull Meme | BSC | 已确认 | 强度 84.20 | 质量 75.91
+  - 主题摘要：According to CZ's post, he claims to be a bull and references a "final form." This content is associated with the token "Final Form Bull" (Symbol: 终极黄牛). CZ is alleged to be issui…
+  - 资金 100.00 / 广度 87.08 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- FREE | BSC | 降温中 | 强度 80.67 | 质量 75.66
+  - 主题摘要：Multiple tokens named 「FREE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 93.50 / 广度 80.07 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon's Bingo Call | Solana | 加速中 | 强度 80.34 | 质量 77.22
+  - 主题摘要：Elon Musk replies 'Bingo' to a tweet mocking prediction models by citing real mortality data. This succinct endorsement by the world's most influential meme driver creates a viral…
+  - 资金 100.00 / 广度 82.61 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- The Golden Bull | Solana | 加速中 | 强度 79.85 | 质量 79.38
   - 主题摘要：According to IstillBelieve's post, Alex Becker allegedly launched a cryptocurrency token named Becker. The post includes links to the token's contract on pump.fun and its account…
-  - 资金 100.00 / 广度 82.73 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.55 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Leto Bao Self-Introduction | BSC | 已确认 | 强度 83.50 | 质量 79.08
-  - 主题摘要：According to Leto Bao's post, the author introduces himself as Leto, identifying himself as the individual previously referred to as the 'ByteDance Stock God' who achieved financi…
-  - 资金 100.00 / 广度 81.78 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:CZ Posts Final Form Bull Meme | BSC | 已确认 | 强度 80.14 | 质量 75.38
-  - 主题摘要：CZ shared a Meme image titled "Final Form Bull" on social media, stating that while everyone knows he is a bull, they have not yet seen his final form. This post references the "F…
-  - 资金 100.00 / 广度 89.96 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Leto Bao Responds to Nickname | BSC | 加速中 | 强度 79.91 | 质量 70.87
-  - 主题摘要：According to Leto Bao's post, the user responded to a query regarding their preferred Chinese name by stating 'Leto'.
-  - 资金 100.00 / 广度 76.63 / 确认 24.48 / 脆弱性 14.00
+- Vitaly Posts 'onboard me' | Solana | 加速中 | 强度 78.89 | 质量 73.20
+  - 主题摘要：According to Vitaly Ⓥ 火's post, the user published the text 'onboard me' along with a Solana wallet address. The post references the 'Vitaly Coin' token, with the bio 'live for th…
+  - 资金 100.00 / 广度 80.01 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Retard Ansem | Solana | 降温中 | 强度 79.69 | 质量 69.60
-  - 主题摘要：RETANSEM is a meme token inspired by the internet character Ansem, featuring a bull-like figure with horns and tears in its logo. The token embraces internet humor and community-d…
-  - 资金 100.00 / 广度 65.14 / 确认 9.36 / 脆弱性 14.00
+- Alleged OUSD Stablecoin Launch | Solana | 降温中 | 强度 78.20 | 质量 66.32
+  - 主题摘要：According to zoomer's post, dozens of financial firms including Visa, Stripe, Mastercard, BlackRock, and Coinbase are allegedly launching a new stablecoin called OUSD, with revenu…
+  - 资金 100.00 / 广度 73.06 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged supplytard Token Burn Plan | Solana | 降温中 | 强度 79.61 | 质量 70.60
-  - 主题摘要：According to Pickle von Noodle's post, the developer allegedly plans to burn 50% of the supplytard token supply and use development fees for buybacks sent to a burn address. The p…
-  - 资金 100.00 / 广度 68.48 / 确认 9.36 / 脆弱性 17.02
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Scrall | Solana | 降温中 | 强度 78.09 | 质量 68.06
-  - 主题摘要：Multiple tokens named 「SCRALL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 60.01 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- jayge Comments on Luke Belmar | Solana | 降温中 | 强度 77.47 | 质量 66.74
-  - 主题摘要：According to jayge 🐂🀄️'s post, the author comments on discussions regarding a potential Luke Belmar memecoin, specifically referencing Belmar's consumption of Johnnie Walker. This…
-  - 资金 100.00 / 广度 75.37 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Maps Recommends FWOG | Solana | 降温中 | 强度 76.88 | 质量 66.00
+- Maps Recommends FWOG | Solana | 降温中 | 强度 76.83 | 质量 66.01
   - 主题摘要：According to mario's post, the author shared a Meme image related to the FWOG token, describing it as the best option for Solana and referring to the community as 'solana manlets'…
-  - 资金 100.00 / 广度 53.14 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 53.17 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- maxteed Criticizes Meme Market | Solana | 降温中 | 强度 74.22 | 质量 73.70
-  - 主题摘要：According to maxteed 🎯's post, the author criticizes the current cryptocurrency market as the most 'r**e and farm' market in history, questioning the behavior of participants. The…
-  - 资金 100.00 / 广度 78.81 / 确认 9.36 / 脆弱性 14.00
+- Plasma Comments on Open USD | Solana | 降温中 | 强度 75.67 | 质量 64.85
+  - 主题摘要：According to Plasma's post, Plasma stated that the future of money is stablecoins in a reply to Open Standard's introduction of Open USD (OUSD).
+  - 资金 100.00 / 广度 68.49 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Zzzzz Comments on LongCat-2.0 AI Model | Solana | 降温中 | 强度 72.64 | 质量 62.55
-  - 主题摘要：According to Zzzzz's post, the user highlights the launch of LongCat-2.0, an open-source AI model with 1.6T parameters and 1M context window, built for agentic coding. Zzzzz descr…
-  - 资金 100.00 / 广度 70.99 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Responds to Cat Merchandise | BSC | 加速中 | 强度 70.74 | 质量 60.20
-  - 主题摘要：Binance CEO Yi He interacts with a fan's post featuring her cat, Xiaomi, playing on a giant Binance merchandise box. The post blends the popular 'cat in a box' meme culture with B…
-  - 资金 100.00 / 广度 67.35 / 确认 27.36 / 脆弱性 14.00
+- Elon Musk Jailed Case | Solana | 点火期 | 强度 75.40 | 质量 72.17
+  - 主题摘要：According to PoliticsVideoChannel's post, Elon Musk could be jailed over a case related to the 2024 Election. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 86.93 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Elon Musk Shares Motivational Post | Solana | 点火期 | 强度 75.34 | 质量 72.07
+  - 主题摘要：Elon Musk retweeted a post featuring a 2017 photo of himself by the Model 3 production line, accompanied by the message 'Never give up.' This action highlights his personal brand…
+  - 资金 100.00 / 广度 86.59 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Leto Bao Self-Introduction | BSC | 加速中 | 强度 75.27 | 质量 74.22
+  - 主题摘要：According to Leto Bao's post, the individual identifies himself as the subject of the 'ByteDance stock trading 30 million financial freedom' narrative and states he will answer fr…
+  - 资金 100.00 / 广度 81.74 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ai数字人生 | BSC | 加速中 | 强度 69.18 | 质量 56.76
-  - 主题摘要：Multiple tokens named 「Ai数字人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 59.62 / 确认 20.16 / 脆弱性 18.40
+- 扑蝶 | BSC | 加速中 | 强度 72.28 | 质量 60.33
+  - 主题摘要：PUDIE (扑蝶) is a meme token inspired by butterfly imagery, symbolizing transformation and beauty. It gained popularity through viral social media campaigns, particularly on X, wher…
+  - 资金 100.00 / 广度 71.71 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yi He Posts Horse-to-Bull Photoshop | BSC | 加速中 | 强度 69.06 | 质量 70.43
+- Leto Bao Responds to Nickname | BSC | 加速中 | 强度 69.95 | 质量 62.01
+  - 主题摘要：According to Leto Bao's post, the author responded to a user's inquiry regarding preferred Chinese names by stating 'Lotto'.
+  - 资金 100.00 / 广度 76.49 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Yi He Posts Horse-to-Bull Photoshop | BSC | 加速中 | 强度 69.28 | 质量 66.36
   - 主题摘要：Yi He shared a Meme image depicting the Photoshop transformation of a horse into a bull, humorously referencing the anticipated arrival of a bull market. The post highlights the u…
-  - 资金 84.44 / 广度 84.54 / 确认 30.96 / 脆弱性 24.00
+  - 资金 96.87 / 广度 79.04 / 确认 30.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.98，其中已确认叙事 0 个。
-- The Golden Bull 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Retard Ansem 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.27，其中已确认叙事 1 个。
+- Elon's Bingo Call 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- FREE 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Leto Bao Self-Introduction | 质量 79.08 | 可交易性 98.59 | 风险 低
-- The Golden Bull | 质量 78.05 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Posts Final Form Bull Meme | 质量 75.38 | 可交易性 100.00 | 风险 低
-- maxteed Criticizes Meme Market | 质量 73.70 | 可交易性 100.00 | 风险 低
-- Leto Bao Responds to Nickname | 质量 70.87 | 可交易性 81.65 | 风险 低
-- Alleged supplytard Token Burn Plan | 质量 70.60 | 可交易性 100.00 | 风险 低
-- Uncertain:Yi He Posts Horse-to-Bull Photoshop | 质量 70.43 | 可交易性 96.88 | 风险 低
-- Retard Ansem | 质量 69.60 | 可交易性 100.00 | 风险 低
-- Scrall | 质量 68.06 | 可交易性 100.00 | 风险 低
-- jayge Comments on Luke Belmar | 质量 66.74 | 可交易性 85.23 | 风险 低
+- The Golden Bull | 质量 79.38 | 可交易性 100.00 | 风险 低
+- Elon's Bingo Call | 质量 77.22 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Posts Final Form Bull Meme | 质量 75.91 | 可交易性 100.00 | 风险 低
+- FREE | 质量 75.66 | 可交易性 100.00 | 风险 低
+- Leto Bao Self-Introduction | 质量 74.22 | 可交易性 87.72 | 风险 低
+- Vitaly Posts 'onboard me' | 质量 73.20 | 可交易性 86.04 | 风险 低
+- Elon Musk Jailed Case | 质量 72.17 | 可交易性 91.62 | 风险 低
+- Elon Musk Shares Motivational Post | 质量 72.07 | 可交易性 91.62 | 风险 低
+- Uncertain:Yi He Posts Horse-to-Bull Photoshop | 质量 66.36 | 可交易性 96.57 | 风险 低
+- Alleged OUSD Stablecoin Launch | 质量 66.32 | 可交易性 81.15 | 风险 低
 
 ## 伪叙事风险
 
+- Elon Musk Jailed Case | 风险 47.79 | 原因：流动性偏薄
+- Elon Musk Shares Motivational Post | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -103,9 +106,9 @@
 - 狗叫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - NOAH | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Bullshit | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- FINNBAGS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PVE | BSC | 看多 | 新鲜度 98.56 | 暂无直接叙事映射
 - b40 | Solana | 看多 | 新鲜度 98.37 | 暂无直接叙事映射
+- ZACK | Solana | 看多 | 新鲜度 97.39 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：The Golden Bull（Solana，分数 85.28）
-2. 共振最强代币：TJR（Solana，共振 100.0）
-3. 记忆层变化：The Golden Bull 当前为“新出现”
+1. 当前最强叙事：Uncertain:CZ Posts Final Form Bull Meme（BSC，分数 84.2）
+2. 共振最强代币：OPG（BSC，共振 100.0）
+3. 记忆层变化：FREE 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Solstice (SLX) and Share $200K Worth of Rewards (2026-06-30)
 #Binance #NarrativeOS #OpenClaw
