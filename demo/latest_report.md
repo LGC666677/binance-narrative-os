@@ -1,112 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-02T15:28:54.833100+00:00
+- 生成时间：2026-07-02T17:09:35.373543+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：5
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 docnald，所在链为 Solana，叙事强度 89.53。
-- 当前平均叙事强度为 76.71，其中已确认叙事 0 个。
+- 当前最强叙事是 ice bucket challenge，所在链为 Solana，叙事强度 84.99。
+- 当前平均叙事强度为 80.43，其中已确认叙事 4 个。
 - 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 docnald 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 The Top Influencer，伪叙事风险 47.79。
+- 记忆层显示 ice bucket challenge 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 alon Participates in Pump.fun Trading Challenge，伪叙事风险 47.79。
 - 最新官方催化来自 币安最新公告：Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined GUAUSDT Perpetual Contract (2026-07-02)。
 
 ## 叙事雷达
 
-- docnald | Solana | 加速中 | 强度 89.53 | 质量 81.41
+- ice bucket challenge | Solana | 已确认 | 强度 84.99 | 质量 75.85
+  - 主题摘要：ice token draws inspiration from the viral Ice Bucket Challenge, a charitable movement where participants pour ice water over their heads to raise awareness for ALS. The token's l…
+  - 资金 100.00 / 广度 66.88 / 确认 35.40 / 脆弱性 0.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- CZ Laughing at Giantcutie | BSC | 已确认 | 强度 83.87 | 质量 81.17
+  - 主题摘要：Binance CEO CZ responds with a laughing emoji to a post by 'Giantcutie', sparking community curiosity about the context and potential meme potential of the interaction.
+  - 资金 100.00 / 广度 84.70 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- docnald | Solana | 已确认 | 强度 83.56 | 质量 84.18
   - 主题摘要：Multiple tokens named 「DietCoke」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.40 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Enters Philippines | BSC | 已确认 | 强度 83.16 | 质量 81.33
+  - 资金 99.24 / 广度 100.00 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged NICK Meme Image Launch | Solana | 已确认 | 强度 81.78 | 质量 81.03
+  - 主题摘要：According to developer's post, a Meme image featuring a bull named 'NICK' (formerly 'Nick Gertz') was shared, citing news about the bull's name change due to alleged racism. The p…
+  - 资金 100.00 / 广度 86.86 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Nick shirley Donations | Solana | 已确认 | 强度 81.68 | 质量 80.24
+  - 主题摘要：According to cryptovillain26's post, the user stated they would send 65% of the supply and fees to @nickshirleyy. This claim involves the NICK token and is unverified. This inform…
+  - 资金 100.00 / 广度 86.89 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Dorae | Solana | 降温中 | 强度 80.68 | 质量 70.88
+  - 主题摘要：According to ansernn🐂🀄️'s post, the author claims to have been part of the team behind the previous $dorae token, which reached a $2–3 billion market cap. The author asserts that…
+  - 资金 100.00 / 广度 64.12 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Enters Philippines | BSC | 加速中 | 强度 80.12 | 质量 79.38
   - 主题摘要：Binance co-founder Yi He announced the official entry of Binance into the Philippines market, marking a significant expansion step for the exchange in Southeast Asia.
-  - 资金 100.00 / 广度 90.76 / 确认 30.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Leto Bao Self-Introduction | BSC | 已确认 | 强度 81.33 | 质量 72.10
-  - 主题摘要：According to Leto Bao's post, the author introduces himself as Leto, identifying himself as the individual previously referred to as the 'ByteDance Stock God' who achieved financi…
-  - 资金 100.00 / 广度 76.20 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Ansem Crypto Tiktok Account | Solana | 降温中 | 强度 81.04 | 质量 71.58
-  - 主题摘要：Multiple tokens named 「ANSEMCT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.43 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Top Influencer | Solana | 点火期 | 强度 74.91 | 质量 65.88
-  - 主题摘要：Multiple tokens named 「LojakPaul」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.18 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.75 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- alon Participates in Pump.fun Trading Challenge | Solana | 点火期 | 强度 78.27 | 质量 73.89
+  - 主题摘要：According to alon's post, the co-founder of Pump.fun, he participated in the Pump.fun trading challenge. He expressed a target of growing an investment from $1 to $100k and confir…
+  - 资金 100.00 / 广度 87.23 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Solana Summer School | Solana | 加速中 | 强度 74.64 | 质量 71.00
-  - 主题摘要：According to Solana Policy Institute's post, the organization launched the 'Solana Summer School' initiative, featuring educational content where young individuals explain cryptoc…
-  - 资金 100.00 / 广度 84.66 / 确认 20.16 / 脆弱性 14.00
+- Alleged FABLE Token Launch | Solana | 加速中 | 强度 77.47 | 质量 61.59
+  - 主题摘要：According to japbitch's post, the FABLE token, described as 'The Eagle and the Fox,' is allegedly launched. The post uses an eagle and fox image to symbolize the combination of vi…
+  - 资金 100.00 / 广度 76.91 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Party DOG | Solana | 加速中 | 强度 73.93 | 质量 74.76
-  - 主题摘要：Multiple tokens named 「PARTYDOG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 80.26 / 广度 74.96 / 确认 19.44 / 脆弱性 14.00
+- Leto Bao Self-Introduction | BSC | 加速中 | 强度 76.34 | 质量 70.27
+  - 主题摘要：According to Leto Bao's post, the author introduces himself as Leto, identifying himself as the individual previously referred to as the 'ByteDance Stock God' who achieved financi…
+  - 资金 100.00 / 广度 77.32 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 000 Shares Sad Cat Meme Image | Solana | 降温中 | 强度 73.89 | 质量 63.89
-  - 主题摘要：According to 000's post, a viral Sad Cat Meme image has garnered 1.2 million views in four hours. The post highlights the sticker's popularity and describes it as a perfect exampl…
-  - 资金 100.00 / 广度 52.98 / 确认 4.32 / 脆弱性 14.00
+- Alleged $FRED Meme Coin Launch | Solana | 降温中 | 强度 75.02 | 质量 65.50
+  - 主题摘要：According to Noobaibuilder's post, Mark, known as the Squirrel Dad, is allegedly launching a new token, $FRED, associated with his cat. The post highlights Mark's daily TikTok pre…
+  - 资金 100.00 / 广度 54.74 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $BAG Token Trend | Solana | 加速中 | 强度 72.92 | 质量 63.08
-  - 主题摘要：According to cooldev's post, the author observes widespread discussion of the term "Bag" on Pump.fun and notes that @blknoiz06 has also posted about it. Consequently, cooldev advo…
-  - 资金 100.00 / 广度 78.15 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bob Discusses Little Guy Narrative | Solana | 降温中 | 强度 72.79 | 质量 59.27
-  - 主题摘要：According to Bob's post, @blknoiz06 has introduced a narrative centered on "little guys," aiming to make crypto more accessible. Bob claims to have established a community for thi…
-  - 资金 100.00 / 广度 74.25 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ Posts Final Form Bull Meme | BSC | 加速中 | 强度 71.06 | 质量 66.64
+- Uncertain:CZ Posts Final Form Bull Meme | BSC | 加速中 | 强度 74.20 | 质量 71.93
   - 主题摘要：According to CZ's post, he claims to be a bull and references a "final form." This content is associated with the token "Final Form Bull" (Symbol: 终极黄牛). CZ is alleged to be issui…
-  - 资金 100.00 / 广度 83.15 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.49 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BOF to List on FLAP | BSC | 降温中 | 强度 70.68 | 质量 64.32
+- BOF to List on FLAP | BSC | 降温中 | 强度 73.66 | 质量 65.73
   - 主题摘要：According to BOF's post, the token BOF (Build On Flap) is scheduled to be listed on the FLAP platform. The post promotes the token's alignment with the Flap ecosystem, highlightin…
-  - 资金 100.00 / 广度 57.05 / 确认 9.36 / 脆弱性 25.75
+  - 资金 100.00 / 广度 57.59 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 花花 | BSC | 降温中 | 强度 70.18 | 质量 52.55
-  - 主题摘要：Multiple tokens named 「花花」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.51 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He on Industry Leader Effect | BSC | 加速中 | 强度 70.00 | 质量 67.94
-  - 主题摘要：Binance联合创始人何一引用中国互联网历史上的3Q大战，讽刺那些试图挑战市场领头羊的追随者，指出用户往往会被误导认为两者实力相当。这一观点以幽默的方式强调了市场领导者的地位。
-  - 资金 83.67 / 广度 90.68 / 确认 20.16 / 脆弱性 24.00
+- The Yellow Bull | BSC | 加速中 | 强度 72.98 | 质量 71.95
+  - 主题摘要：The Yellow Bull (王大有) is a meme token inspired by the Chinese character '王' (king) and '大有' (great fortune). It aims to build a community around Chinese cultural values, with plan…
+  - 资金 100.00 / 广度 62.42 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.71，其中已确认叙事 0 个。
-- docnald 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Ansem Crypto Tiktok Account 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.43，其中已确认叙事 4 个。
+- ice bucket challenge 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Dorae 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- docnald | 质量 81.41 | 可交易性 100.00 | 风险 低
-- Binance Enters Philippines | 质量 81.33 | 可交易性 97.63 | 风险 低
-- Party DOG | 质量 74.76 | 可交易性 100.00 | 风险 低
-- Leto Bao Self-Introduction | 质量 72.10 | 可交易性 83.53 | 风险 低
-- Ansem Crypto Tiktok Account | 质量 71.58 | 可交易性 100.00 | 风险 低
-- Solana Summer School | 质量 71.00 | 可交易性 77.23 | 风险 低
-- Yi He on Industry Leader Effect | 质量 67.94 | 可交易性 86.70 | 风险 低
-- Uncertain:CZ Posts Final Form Bull Meme | 质量 66.64 | 可交易性 100.00 | 风险 低
-- The Top Influencer | 质量 65.88 | 可交易性 71.54 | 风险 低
-- BOF to List on FLAP | 质量 64.32 | 可交易性 94.46 | 风险 低
+- docnald | 质量 84.18 | 可交易性 100.00 | 风险 低
+- CZ Laughing at Giantcutie | 质量 81.17 | 可交易性 100.00 | 风险 低
+- Alleged NICK Meme Image Launch | 质量 81.03 | 可交易性 100.00 | 风险 低
+- Nick shirley Donations | 质量 80.24 | 可交易性 100.00 | 风险 低
+- Binance Enters Philippines | 质量 79.38 | 可交易性 93.77 | 风险 低
+- ice bucket challenge | 质量 75.85 | 可交易性 100.00 | 风险 低
+- alon Participates in Pump.fun Trading Challenge | 质量 73.89 | 可交易性 100.00 | 风险 低
+- The Yellow Bull | 质量 71.95 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Posts Final Form Bull Meme | 质量 71.93 | 可交易性 100.00 | 风险 低
+- Dorae | 质量 70.88 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- The Top Influencer | 风险 47.79 | 原因：流动性偏薄
-- BOF to List on FLAP | 风险 41.90 | 原因：流动性偏薄、近 1 小时净流入转负
+- alon Participates in Pump.fun Trading Challenge | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
+- 替天行道 | BSC | 看多 | 新鲜度 100.00 | CZ Laughing at Giantcutie
+- 王大有 | BSC | 看多 | 新鲜度 100.00 | The Yellow Bull
 - FOURNESE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bnbagent | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 领头羊 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 9999 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FLORK | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 小咪 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 星辰大海 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- DR TRUMP | Solana | 看多 | 新鲜度 100.00 | docnald
+- DR TRUMP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - manlet | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BongoCat | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：docnald（Solana，分数 89.53）
+1. 当前最强叙事：ice bucket challenge（Solana，分数 84.99）
 2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：docnald 当前为“新出现”
+3. 记忆层变化：ice bucket challenge 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined GUAUSDT Perpetual Contract (2026-07-02)
 #Binance #NarrativeOS #OpenClaw
