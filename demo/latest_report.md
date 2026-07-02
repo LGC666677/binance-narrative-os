@@ -1,101 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-01T23:42:39.391866+00:00
+- 生成时间：2026-07-02T01:35:28.973787+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Yi He on Industry Leader Effect，所在链为 BSC，叙事强度 83.33。
-- 当前平均叙事强度为 76.2，其中已确认叙事 1 个。
+- 当前最强叙事是 Yi He on Industry Leader Effect，所在链为 BSC，叙事强度 81.89。
+- 当前平均叙事强度为 75.48，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Tesla Long Weekend 当前处于“新出现”状态。
+- 记忆层显示 HOOFSCOIN 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 WhereIsTheAirdrop Airdrop Delivery，伪叙事风险 47.78。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Nesa (NES) and Share $200K Worth of Rewards (2026-07-01)。
 
 ## 叙事雷达
 
-- Yi He on Industry Leader Effect | BSC | 加速中 | 强度 83.33 | 质量 76.16
+- Yi He on Industry Leader Effect | BSC | 加速中 | 强度 81.89 | 质量 75.89
   - 主题摘要：Binance联合创始人何一引用中国互联网历史上的3Q大战，讽刺那些试图挑战市场领头羊的追随者，指出用户往往会被误导认为两者实力相当。这一观点以幽默的方式强调了市场领导者的地位。
-  - 资金 100.00 / 广度 88.19 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.06 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Agent Studio Launch | BSC | 已确认 | 强度 82.39 | 质量 79.97
+- BNB Agent Studio Launch | BSC | 已确认 | 强度 81.83 | 质量 80.05
   - 主题摘要：BNB Chain officially launched the BNB Agent Studio, emphasizing that 'smart money' in the current era relies on AI agents rather than just connections. This shift highlights the i…
-  - 资金 100.00 / 广度 87.73 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.82 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Tesla Long Weekend | Solana | 加速中 | 强度 80.16 | 质量 78.37
-  - 主题摘要：Multiple tokens named 「OSCAR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.97 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Tom Meme Coin | Solana | 加速中 | 强度 78.77 | 质量 67.79
-  - 主题摘要：According to Meme Creator's post, a UK tortoise named Tom escaped and was chased by police, becoming a viral meme. The author claims this event is a major opportunity for a token…
-  - 资金 100.00 / 广度 78.80 / 确认 23.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Fox News: Empire State Building Protest | BSC | 加速中 | 强度 77.81 | 质量 68.48
-  - 主题摘要：According to Fox News's post, two individuals climbed to the top of the Empire State Building spire. They held a flag reading "When the power of love beats the love of power the w…
-  - 资金 100.00 / 广度 71.74 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pump.fun Renames Buy/Sell to Ape/Aper | Solana | 降温中 | 强度 77.47 | 质量 63.85
-  - 主题摘要：According to ape's post, the Pump.fun application has updated its interface terminology, renaming 'Buys' to 'Apes' and 'Buyers' to 'Apers'. This change signifies a shift in platfo…
-  - 资金 100.00 / 广度 83.36 / 确认 12.24 / 脆弱性 24.00
+- HOOFSCOIN | Solana | 降温中 | 强度 81.77 | 质量 72.03
+  - 主题摘要：HOOFS (HOOFSCOIN) is a meme token inspired by horse hooves, featuring a logo of crossed horse hooves in black and white. It embraces a playful, community-driven approach with a fo…
+  - 资金 100.00 / 广度 76.40 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Airdrop Protest | Solana | 加速中 | 强度 76.67 | 质量 76.92
-  - 主题摘要：According to Ansem 🐂🀄️'s post, the individual stated they are protesting until they receive their airdrop. This statement was made in reply to a question regarding the $PUMP token…
-  - 资金 100.00 / 广度 82.08 / 确认 19.52 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- degenfc.fun | Solana | 降温中 | 强度 76.60 | 质量 69.79
+- degenfc.fun | Solana | 降温中 | 强度 79.31 | 质量 73.05
   - 主题摘要：Multiple tokens named 「PENALTY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.93 / 确认 5.04 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.89 / 确认 15.84 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WhereIsTheAirdrop Airdrop Delivery | Solana | 点火期 | 强度 75.85 | 质量 76.04
-  - 主题摘要：Multiple tokens named 「AIRDROP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.82 / 确认 15.88 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- WheresTheAirdrop Campaign | Solana | 点火期 | 强度 75.76 | 质量 75.87
-  - 主题摘要：According to WheresTheAirdrop's post, five posters have allegedly been paid for posting #WhereIsTheAirdrop alongside their Solana address while tagging alon and pumpfun. This info…
-  - 资金 100.00 / 广度 81.24 / 确认 15.88 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged $15 and a dream Token | Solana | 加速中 | 强度 75.21 | 质量 71.32
+- Yi He Slams Dog Barking Train | BSC | 加速中 | 强度 78.74 | 质量 72.20
+  - 主题摘要：Binance Co-CEO Yi He strongly criticizes online trolls and fake accusations, comparing them to a 'dog barking train' and telling critics to stop complaining like 'Xianglin's Wife'…
+  - 资金 100.00 / 广度 87.04 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged $15 and a dream Token | Solana | 加速中 | 强度 78.60 | 质量 71.79
   - 主题摘要：According to gettindevvy_'s post, the user shared a challenge related to a token named '$15 and a dream' on the Pump.fun platform, referencing a '$15 challenge'. The post suggests…
-  - 资金 100.00 / 广度 85.56 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.63 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FREE | BSC | 加速中 | 强度 71.71 | 质量 71.75
-  - 主题摘要：Multiple tokens named 「FREE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 86.01 / 广度 78.89 / 确认 31.68 / 脆弱性 24.00
+- Alleged Tom Meme Coin | Solana | 加速中 | 强度 78.30 | 质量 67.62
+  - 主题摘要：According to Meme Creator's post, a UK tortoise named Tom escaped and was chased by police, becoming a viral meme. The author claims this event is a major opportunity for a token…
+  - 资金 100.00 / 广度 78.91 / 确认 23.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 花花 | BSC | 加速中 | 强度 71.24 | 质量 64.08
+- Pressure Discusses USDC Utility | Solana | 降温中 | 强度 76.17 | 质量 65.73
+  - 主题摘要：According to Pressure's post, the author argues that bull coins are highly unstable and advocates for building on USDC to ensure longevity. Pressure invites users to join the Unst…
+  - 资金 100.00 / 广度 55.42 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trench: The Anime Launches on Pump.fun | Solana | 降温中 | 强度 75.43 | 质量 59.95
+  - 主题摘要：According to Trench: The Anime's post, the anime series is launching on Pump.fun, with all copyrights reserved by the team @basementstudio. The post provides the Solana contract a…
+  - 资金 100.00 / 广度 75.86 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Airdrop Protest | Solana | 加速中 | 强度 75.05 | 质量 75.64
+  - 主题摘要：Multiple tokens named 「AIRDROP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.53 / 确认 19.52 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- WhereIsTheAirdrop Airdrop Delivery | Solana | 点火期 | 强度 73.87 | 质量 74.20
+  - 主题摘要：Multiple tokens named 「AIRDROP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.26 / 确认 15.88 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 花花 | BSC | 加速中 | 强度 70.30 | 质量 63.88
   - 主题摘要：Multiple tokens named 「花花」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.07 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.21 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Agent Fund | BSC | 加速中 | 强度 70.72 | 质量 61.66
+- BNB Agent Fund | BSC | 加速中 | 强度 70.16 | 质量 61.74
   - 主题摘要：According to 赚钱机器🔶's post, the author claims that a specific individual possesses an ID and provides proof. The post is brief and lacks further context regarding the identity of t…
-  - 资金 100.00 / 广度 76.89 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.99 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ Posts Final Form Bull Meme | BSC | 加速中 | 强度 69.96 | 质量 68.09
+  - 主题摘要：According to CZ's post, he claims to be a bull and references a "final form." This content is associated with the token "Final Form Bull" (Symbol: 终极黄牛). CZ is alleged to be issui…
+  - 资金 100.00 / 广度 83.62 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.2，其中已确认叙事 1 个。
-- Tesla Long Weekend 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Pump.fun Renames Buy/Sell to Ape/Aper 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.48，其中已确认叙事 1 个。
+- Yi He Slams Dog Barking Train 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- HOOFSCOIN 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- BNB Agent Studio Launch | 质量 79.97 | 可交易性 95.60 | 风险 低
-- Tesla Long Weekend | 质量 78.37 | 可交易性 100.00 | 风险 低
-- Alleged Airdrop Protest | 质量 76.92 | 可交易性 100.00 | 风险 低
-- Yi He on Industry Leader Effect | 质量 76.16 | 可交易性 87.72 | 风险 低
-- WhereIsTheAirdrop Airdrop Delivery | 质量 76.04 | 可交易性 100.00 | 风险 低
-- WheresTheAirdrop Campaign | 质量 75.87 | 可交易性 100.00 | 风险 低
-- FREE | 质量 71.75 | 可交易性 100.00 | 风险 低
-- Alleged $15 and a dream Token | 质量 71.32 | 可交易性 74.76 | 风险 低
-- degenfc.fun | 质量 69.79 | 可交易性 100.00 | 风险 低
-- Fox News: Empire State Building Protest | 质量 68.48 | 可交易性 82.88 | 风险 低
+- BNB Agent Studio Launch | 质量 80.05 | 可交易性 95.77 | 风险 低
+- Yi He on Industry Leader Effect | 质量 75.89 | 可交易性 86.97 | 风险 低
+- Alleged Airdrop Protest | 质量 75.64 | 可交易性 100.00 | 风险 低
+- WhereIsTheAirdrop Airdrop Delivery | 质量 74.20 | 可交易性 100.00 | 风险 低
+- degenfc.fun | 质量 73.05 | 可交易性 100.00 | 风险 低
+- Yi He Slams Dog Barking Train | 质量 72.20 | 可交易性 75.66 | 风险 低
+- HOOFSCOIN | 质量 72.03 | 可交易性 100.00 | 风险 低
+- Alleged $15 and a dream Token | 质量 71.79 | 可交易性 76.23 | 风险 低
+- Uncertain:CZ Posts Final Form Bull Meme | 质量 68.09 | 可交易性 100.00 | 风险 低
+- Alleged Tom Meme Coin | 质量 67.62 | 可交易性 69.58 | 风险 低
 
 ## 伪叙事风险
 
 - WhereIsTheAirdrop Airdrop Delivery | 风险 47.78 | 原因：流动性偏薄、近 1 小时净流入转负
-- WheresTheAirdrop Campaign | 风险 47.78 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Yi He on Industry Leader Effect（BSC，分数 83.33）
+1. 当前最强叙事：Yi He on Industry Leader Effect（BSC，分数 81.89）
 2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Tesla Long Weekend 当前为“新出现”
+3. 记忆层变化：HOOFSCOIN 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Nesa (NES) and Share $200K Worth of Rewards (2026-07-01)
 #Binance #NarrativeOS #OpenClaw
