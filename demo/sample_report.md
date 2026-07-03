@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-03T13:05:44.353251+00:00
+- 生成时间：2026-07-03T15:22:14.846066+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 HAAL-9000，所在链为 Solana，叙事强度 87.82。
-- 当前平均叙事强度为 81.73，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
-- 记忆层显示 Degen Street Hooligan 当前处于“新出现”状态。
+- 当前最强叙事是 Alon Minting Hebrew Coin，所在链为 Solana，叙事强度 88.42。
+- 当前平均叙事强度为 83.18，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 SEMAN，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged SEMAN Token Meme 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Join the TRON Carnival on Binance Wallet DeFi to Share $4,500,000 in Rewards!。
 
 ## 叙事雷达
 
-- HAAL-9000 | Solana | 已确认 | 强度 87.82 | 质量 79.97
-  - 主题摘要：Multiple tokens named 「HAAL9K」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.96 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alon Minting Hebrew Coin | Solana | 加速中 | 强度 85.38 | 质量 80.69
+- Alon Minting Hebrew Coin | Solana | 加速中 | 强度 88.42 | 质量 80.78
   - 主题摘要：According to mememang's post, the author claims to be launching a token named 'Made in USA' to capitalize on anticipated White House and Trump tweets promoting American products o…
-  - 资金 100.00 / 广度 91.54 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.83 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $AMERICA Token Launch | Solana | 加速中 | 强度 85.23 | 质量 80.69
-  - 主题摘要：According to mememang's post, the user claims to have launched the $AMERICA token, described as the 'ultimate american index' to celebrate the 250th anniversary of America. This i…
-  - 资金 100.00 / 广度 91.54 / 确认 23.76 / 脆弱性 14.00
+- Alleged $AMERICA Token Launch | Solana | 加速中 | 强度 87.96 | 质量 80.78
+  - 主题摘要：According to mememang's post, the user claims to have launched a new token named $AMERICA, described as the 'ultimate american index' to celebrate the 250th anniversary of America…
+  - 资金 100.00 / 广度 91.83 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Degen Street Hooligan | Solana | 降温中 | 强度 84.05 | 质量 73.45
+- Degen Street Hooligan | Solana | 降温中 | 强度 84.58 | 质量 74.16
   - 主题摘要：Multiple tokens named 「STREETART」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.96 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.35 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He on Industry Leader Effect | BSC | 已确认 | 强度 81.65 | 质量 76.61
-  - 主题摘要：Binance联合创始人何一引用中国互联网历史上的3Q大战，讽刺那些试图挑战市场领头羊的追随者，指出用户往往会被误导认为两者实力相当。这一观点以幽默的方式强调了市场领导者的地位。
-  - 资金 100.00 / 广度 85.99 / 确认 28.08 / 脆弱性 24.00
+- HAAL-9000 | Solana | 已确认 | 强度 82.71 | 质量 79.68
+  - 主题摘要：Multiple tokens named 「HAAL9K」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.01 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Liz Binance Shares US 250th Anniversary Eagle | Solana | 加速中 | 强度 81.05 | 质量 76.91
-  - 主题摘要：According to 莉兹🔶BNB's post, the author shared information regarding 'Indy,' a rescued bald eagle that will appear at Independence Hall in Philadelphia for America's 250th annivers…
-  - 资金 100.00 / 广度 84.77 / 确认 24.48 / 脆弱性 24.00
+- Liz Binance Shares US 250th Anniversary Eagle | Solana | 加速中 | 强度 82.20 | 质量 75.07
+  - 主题摘要：According to 莉兹🔶BNB's post, the rescued bald eagle named Indy will appear at Independence Hall in Philadelphia as part of the United States' 250th anniversary celebration. The pos…
+  - 资金 100.00 / 广度 85.54 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ansem Carries Solana Weight | Solana | 加速中 | 强度 76.80 | 质量 65.23
-  - 主题摘要：According to profitable's post, the individual claims that the MENSA token, associated with the name Ansem, is launching. The post characterizes MENSA as a 'perfect runner' intend…
-  - 资金 100.00 / 广度 79.20 / 确认 24.48 / 脆弱性 14.00
+- Yi He on Industry Leader Effect | BSC | 已确认 | 强度 80.92 | 质量 75.75
+  - 主题摘要：Binance联合创始人何一引用中国互联网历史上的3Q大战，讽刺那些试图挑战市场领头羊的追随者，指出用户往往会被误导认为两者实力相当。这一观点以幽默的方式强调了市场领导者的地位。
+  - 资金 100.00 / 广度 85.84 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged SEMAN Token Meme | Solana | 已确认 | 强度 80.57 | 质量 68.13
+  - 主题摘要：According to Pintoshi's post, the author claims that rearranging the letters of 'ANSEM' spells '$SEMAN', referencing the SEMAN token. This information is unverified. Please exerci…
+  - 资金 100.00 / 广度 67.31 / 确认 30.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- FIRST TRUTHSOCIAL COMM COIN | Solana | 加速中 | 强度 79.52 | 质量 67.69
+  - 主题摘要：According to migratoor's post, the author claims that a significant portion of American adults are overweight or obese, citing statistics on obesity rates. The post references the…
+  - 资金 100.00 / 广度 80.99 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged TIGGIEN Meme Coin Launch | Solana | 降温中 | 强度 76.78 | 质量 68.54
-  - 主题摘要：According to gorlockDeploys's post, the TIGGIEN TikTok account has been onboarded to promote the alleged TIGGIEN token. The post claims the associated AI horse meme is viral and i…
-  - 资金 100.00 / 广度 59.61 / 确认 16.56 / 脆弱性 14.00
+- BONK.fun Chinese Community Discusses Meme Coin Bull Run | Solana | 降温中 | 强度 79.45 | 质量 74.16
+  - 主题摘要：According to BONK.fun 中文社区's post, the account speculates on whether the current market conditions signify the beginning of the next memecoin bull run, highlighting potential upwa…
+  - 资金 100.00 / 广度 80.80 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Running Away Balloon Meme Artist Sues Memes App | Solana | 加速中 | 强度 76.74 | 质量 66.14
-  - 主题摘要：According to Dexerto's post, the artist behind the viral "Running Away Balloon" Meme image is suing Memes App. The lawsuit alleges the platform used the comic as a paid template w…
-  - 资金 100.00 / 广度 76.83 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 屎壳郎 BANK | BSC | 降温中 | 强度 76.21 | 质量 63.54
-  - 主题摘要：Multiple tokens named 「屎壳郎 BANK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.40 / 确认 16.56 / 脆弱性 14.00
+- 天秤 | BSC | 降温中 | 强度 77.68 | 质量 68.89
+  - 主题摘要：天秤 (Balance) token draws inspiration from the astrological sign of Libra, symbolized by the scales in its logo. It aims to create a decentralized ecosystem for financial services,…
+  - 资金 100.00 / 广度 77.46 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Yellow Bull | BSC | 加速中 | 强度 73.22 | 质量 71.31
+- The Yellow Bull | BSC | 加速中 | 强度 73.04 | 质量 71.34
   - 主题摘要：The Yellow Bull (王大有) is a meme token inspired by the Chinese character '王' (king) and '大有' (great fortune). It aims to build a community around Chinese cultural values, with plan…
-  - 资金 100.00 / 广度 62.93 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 63.02 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FXI | BSC | 加速中 | 强度 73.14 | 质量 61.96
+- 屎壳郎 BANK | BSC | 降温中 | 强度 73.01 | 质量 63.52
+  - 主题摘要：Multiple tokens named 「屎壳郎 BANK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.72 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 华语社区自己的Bull Market图腾 | BSC | 加速中 | 强度 72.68 | 质量 61.33
+  - 主题摘要：Multiple tokens named 「NB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.77 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FXI | BSC | 加速中 | 强度 72.41 | 质量 61.87
   - 主题摘要：According to SmokΞy's post, the user mentioned the $FXI token in a reply to a post regarding FLAP Stocks Vault upgrades. The post references FXI in the context of the iShares Chin…
-  - 资金 100.00 / 广度 76.93 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Enters Philippines | BSC | 加速中 | 强度 72.37 | 质量 68.84
-  - 主题摘要：Binance co-founder Yi He announced the official entry of Binance into the Philippines market, marking a significant expansion step for the exchange in Southeast Asia.
-  - 资金 100.00 / 广度 88.84 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Posts Final Form Bull Meme | BSC | 加速中 | 强度 69.85 | 质量 67.75
-  - 主题摘要：According to CZ's post, he claims to be a bull and references a "final form." This content is associated with the token "Final Form Bull" (Symbol: 终极黄牛). CZ is alleged to be issui…
-  - 资金 100.00 / 广度 79.92 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.08 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.73，其中已确认叙事 1 个。
-- Liz Binance Shares US 250th Anniversary Eagle 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.18，其中已确认叙事 2 个。
+- Alleged SEMAN Token Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Degen Street Hooligan 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alon Minting Hebrew Coin | 质量 80.69 | 可交易性 100.00 | 风险 低
-- Alleged $AMERICA Token Launch | 质量 80.69 | 可交易性 100.00 | 风险 低
-- HAAL-9000 | 质量 79.97 | 可交易性 100.00 | 风险 低
-- Liz Binance Shares US 250th Anniversary Eagle | 质量 76.91 | 可交易性 93.63 | 风险 低
-- Yi He on Industry Leader Effect | 质量 76.61 | 可交易性 100.00 | 风险 低
-- Degen Street Hooligan | 质量 73.45 | 可交易性 100.00 | 风险 低
-- The Yellow Bull | 质量 71.31 | 可交易性 100.00 | 风险 低
-- Binance Enters Philippines | 质量 68.84 | 可交易性 100.00 | 风险 低
-- Alleged TIGGIEN Meme Coin Launch | 质量 68.54 | 可交易性 96.72 | 风险 低
-- Uncertain:CZ Posts Final Form Bull Meme | 质量 67.75 | 可交易性 100.00 | 风险 低
+- Alon Minting Hebrew Coin | 质量 80.78 | 可交易性 100.00 | 风险 低
+- Alleged $AMERICA Token Launch | 质量 80.78 | 可交易性 100.00 | 风险 低
+- HAAL-9000 | 质量 79.68 | 可交易性 100.00 | 风险 低
+- Yi He on Industry Leader Effect | 质量 75.75 | 可交易性 100.00 | 风险 低
+- Liz Binance Shares US 250th Anniversary Eagle | 质量 75.07 | 可交易性 87.26 | 风险 低
+- Degen Street Hooligan | 质量 74.16 | 可交易性 100.00 | 风险 低
+- BONK.fun Chinese Community Discusses Meme Coin Bull Run | 质量 74.16 | 可交易性 94.25 | 风险 低
+- The Yellow Bull | 质量 71.34 | 可交易性 100.00 | 风险 低
+- 天秤 | 质量 68.89 | 可交易性 84.80 | 风险 低
+- Alleged SEMAN Token Meme | 质量 68.13 | 可交易性 77.10 | 风险 低
 
 ## 伪叙事风险
 
@@ -103,8 +103,8 @@
 - 领头羊 | BSC | 看多 | 新鲜度 100.00 | Yi He on Industry Leader Effect
 - 9999 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FLORK | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Indy | Solana | 看多 | 新鲜度 100.00 | Liz Binance Shares US 250th Anniversary Eagle
 - 1 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Indy | Solana | 看多 | 新鲜度 98.44 | Liz Binance Shares US 250th Anniversary Eagle
 - 狗吠火车 | BSC | 看多 | 新鲜度 98.00 | 暂无直接叙事映射
 
 ## 官方催化
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：HAAL-9000（Solana，分数 87.82）
-2. 共振最强代币：XRP（BSC，共振 100.0）
-3. 记忆层变化：Degen Street Hooligan 当前为“新出现”
+1. 当前最强叙事：Alon Minting Hebrew Coin（Solana，分数 88.42）
+2. 共振最强代币：SEMAN（Solana，共振 100.0）
+3. 记忆层变化：Alleged SEMAN Token Meme 当前为“新出现”
 4. 最新官方催化：Join the TRON Carnival on Binance Wallet DeFi to Share $4,500,000 in Rewards!
 #Binance #NarrativeOS #OpenClaw
