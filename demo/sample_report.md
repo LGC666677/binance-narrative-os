@@ -1,102 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-02T23:42:38.522937+00:00
+- 生成时间：2026-07-03T01:15:56.954056+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：3
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance Enters Philippines，所在链为 BSC，叙事强度 79.14。
-- 当前平均叙事强度为 76.03，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Ansem Carries Solana Weight 当前处于“新出现”状态。
+- 当前最强叙事是 Yi He on Industry Leader Effect，所在链为 BSC，叙事强度 80.28。
+- 当前平均叙事强度为 75.63，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged WIF Cat Sister Token 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Pump.fun Shares Quote，伪叙事风险 52.99。
 - 最新官方催化来自 币安最新公告：Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined GUAUSDT Perpetual Contract (2026-07-02)。
 
 ## 叙事雷达
 
-- Binance Enters Philippines | BSC | 加速中 | 强度 79.14 | 质量 78.25
-  - 主题摘要：Binance co-founder Yi He announced the official entry of Binance into the Philippines market, marking a significant expansion step for the exchange in Southeast Asia.
-  - 资金 100.00 / 广度 90.82 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He on Industry Leader Effect | BSC | 已确认 | 强度 78.98 | 质量 74.57
+- Yi He on Industry Leader Effect | BSC | 已确认 | 强度 80.28 | 质量 74.88
   - 主题摘要：Binance联合创始人何一引用中国互联网历史上的3Q大战，讽刺那些试图挑战市场领头羊的追随者，指出用户往往会被误导认为两者实力相当。这一观点以幽默的方式强调了市场领导者的地位。
-  - 资金 100.00 / 广度 89.91 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.78 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Leto Bao Self-Introduction | BSC | 加速中 | 强度 78.43 | 质量 71.07
+- Binance Enters Philippines | BSC | 加速中 | 强度 79.82 | 质量 79.08
+  - 主题摘要：Binance co-founder Yi He announced the official entry of Binance into the Philippines market, marking a significant expansion step for the exchange in Southeast Asia.
+  - 资金 100.00 / 广度 90.87 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged WIF Cat Sister Token | Solana | 加速中 | 强度 77.67 | 质量 71.39
+  - 主题摘要：According to chuchu's post, the author claims that WIF has a cat sister named chuchu, allegedly called catwifhat by WIF's owner. The post predicts chuchu will reach $5 in 2026. Th…
+  - 资金 100.00 / 广度 63.17 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Leto Bao Self-Introduction | BSC | 加速中 | 强度 76.30 | 质量 70.85
   - 主题摘要：According to Leto Bao's post, the author introduces himself as Leto, identifying himself as the individual previously referred to as the 'ByteDance Stock God' who achieved financi…
-  - 资金 100.00 / 广度 77.57 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.51 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged NICK Meme Image Launch | Solana | 加速中 | 强度 75.69 | 质量 76.87
+- Ansem Carries Solana Weight | Solana | 加速中 | 强度 75.60 | 质量 64.14
+  - 主题摘要：According to profitable's post, the individual claims that the MENSA token, associated with the name Ansem, is launching. The post characterizes MENSA as a 'perfect runner' intend…
+  - 资金 100.00 / 广度 76.28 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Pump.fun GM Post | Solana | 降温中 | 强度 75.30 | 质量 68.58
+  - 主题摘要：Multiple tokens named 「bullpu」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.87 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged NICK Meme Image Launch | Solana | 加速中 | 强度 75.17 | 质量 76.10
   - 主题摘要：According to developer's post, a Meme image featuring a bull named 'NICK' (formerly 'Nick Gertz') was shared, citing news about the bull's name change due to alleged racism. The p…
-  - 资金 100.00 / 广度 87.37 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.31 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nick shirley Donations | Solana | 点火期 | 强度 74.78 | 质量 75.30
-  - 主题摘要：According to cryptovillain26's post, the user stated they would send 65% of the supply and fees to @nickshirleyy. This claim involves the NICK token and is unverified. This inform…
-  - 资金 100.00 / 广度 84.86 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Ansem Carries Solana Weight | Solana | 加速中 | 强度 74.68 | 质量 60.98
-  - 主题摘要：According to Wirelyss 👁️‍🗨️💫's post, the statement "Ansem Has Supply" is made. This refers to the token ANSEM (Symbol: MENSA). The post asserts the existence of supply for this as…
-  - 资金 100.00 / 广度 73.83 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Yellow Bull | BSC | 加速中 | 强度 74.53 | 质量 72.00
-  - 主题摘要：The Yellow Bull (王大有) is a meme token inspired by the Chinese character '王' (king) and '大有' (great fortune). It aims to build a community around Chinese cultural values, with plan…
-  - 资金 100.00 / 广度 62.57 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pump.fun Shares Quote | Solana | 点火期 | 强度 74.20 | 质量 74.78
+- Pump.fun Shares Quote | Solana | 点火期 | 强度 74.17 | 质量 74.79
   - 主题摘要：Multiple tokens named 「BITCH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.40 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.45 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ Laughing at Giantcutie | BSC | 加速中 | 强度 74.09 | 质量 71.34
+- CZ Laughing at Giantcutie | BSC | 加速中 | 强度 73.53 | 质量 70.52
   - 主题摘要：Binance CEO CZ responds with a laughing emoji to a post by 'Giantcutie', sparking community curiosity about the context and potential meme potential of the interaction.
-  - 资金 100.00 / 广度 85.68 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.74 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Oscar Wilde the Dog | Solana | 加速中 | 强度 72.96 | 质量 67.67
+- The Yellow Bull | BSC | 加速中 | 强度 73.27 | 质量 71.98
+  - 主题摘要：The Yellow Bull (王大有) is a meme token inspired by the Chinese character '王' (king) and '大有' (great fortune). It aims to build a community around Chinese cultural values, with plan…
+  - 资金 100.00 / 广度 62.50 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ronaldo to Retire from International Football | Solana | 点火期 | 强度 72.02 | 质量 70.96
+  - 主题摘要：According to Insider Paper's post, Cristiano Ronaldo is reported to retire from international football after the World Cup, as cited by Marca. This announcement has generated inte…
+  - 资金 100.00 / 广度 84.35 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Trump Voice Meme Trend | Solana | 降温中 | 强度 71.64 | 质量 60.03
+  - 主题摘要：According to vamp's post, the "Bigger Better Stronger" song trend is viral on TikTok, featuring animations with Trump's voice edited to fit the song. These videos are gaining mill…
+  - 资金 100.00 / 广度 51.04 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Oscar Wilde the Dog | Solana | 加速中 | 强度 70.92 | 质量 67.00
   - 主题摘要：According to くい〜る（ゲームアカウント）'s post, Oscar Wilde is identified as the longest dachshund in the world. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 81.99 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.37 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pump.fun GM Post | Solana | 点火期 | 强度 72.25 | 质量 67.33
-  - 主题摘要：According to Pump.fun's post, the account inquired about the presence of bulls in the market. This post coincides with the existence of multiple tokens named BULLS on the platform…
-  - 资金 100.00 / 广度 78.41 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Kevin Xu Invests in $BOT | Solana | 加速中 | 强度 71.53 | 质量 59.32
-  - 主题摘要：According to Kevin Xu's post, the CEO of Alpha AI announced that he has gone all-in on the $BOT token again. This statement reflects his personal investment decision and market se…
-  - 资金 100.00 / 广度 72.68 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ronaldo to Retire from International Football | Solana | 点火期 | 强度 71.48 | 质量 70.27
-  - 主题摘要：According to Insider Paper's post, Cristiano Ronaldo is reported to retire from international football after the World Cup, as cited by Marca. This news has generated interest in…
-  - 资金 100.00 / 广度 82.95 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:CZ Posts Final Form Bull Meme | BSC | 加速中 | 强度 71.01 | 质量 67.44
+- Uncertain:CZ Posts Final Form Bull Meme | BSC | 加速中 | 强度 70.57 | 质量 66.82
   - 主题摘要：According to CZ's post, he claims to be a bull and references a "final form." This content is associated with the token "Final Form Bull" (Symbol: 终极黄牛). CZ is alleged to be issui…
-  - 资金 100.00 / 广度 83.11 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.08 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.03，其中已确认叙事 1 个。
-- Ansem Carries Solana Weight 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.63，其中已确认叙事 1 个。
+- Alleged WIF Cat Sister Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Pump.fun GM Post 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Enters Philippines | 质量 78.25 | 可交易性 92.58 | 风险 低
-- Alleged NICK Meme Image Launch | 质量 76.87 | 可交易性 100.00 | 风险 低
-- Nick shirley Donations | 质量 75.30 | 可交易性 100.00 | 风险 低
-- Pump.fun Shares Quote | 质量 74.78 | 可交易性 100.00 | 风险 低
-- Yi He on Industry Leader Effect | 质量 74.57 | 可交易性 100.00 | 风险 低
-- The Yellow Bull | 质量 72.00 | 可交易性 100.00 | 风险 低
-- CZ Laughing at Giantcutie | 质量 71.34 | 可交易性 87.65 | 风险 低
-- Leto Bao Self-Introduction | 质量 71.07 | 可交易性 81.92 | 风险 低
-- Ronaldo to Retire from International Football | 质量 70.27 | 可交易性 100.00 | 风险 低
-- Oscar Wilde the Dog | 质量 67.67 | 可交易性 68.78 | 风险 低
+- Binance Enters Philippines | 质量 79.08 | 可交易性 92.65 | 风险 低
+- Alleged NICK Meme Image Launch | 质量 76.10 | 可交易性 100.00 | 风险 低
+- Yi He on Industry Leader Effect | 质量 74.88 | 可交易性 100.00 | 风险 低
+- Pump.fun Shares Quote | 质量 74.79 | 可交易性 100.00 | 风险 低
+- The Yellow Bull | 质量 71.98 | 可交易性 100.00 | 风险 低
+- Alleged WIF Cat Sister Token | 质量 71.39 | 可交易性 100.00 | 风险 低
+- Ronaldo to Retire from International Football | 质量 70.96 | 可交易性 100.00 | 风险 低
+- Leto Bao Self-Introduction | 质量 70.85 | 可交易性 81.24 | 风险 低
+- CZ Laughing at Giantcutie | 质量 70.52 | 可交易性 87.42 | 风险 低
+- Pump.fun GM Post | 质量 68.58 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
 - Pump.fun Shares Quote | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Pump.fun GM Post | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - Ronaldo to Retire from International Football | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Nick shirley Donations | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -135,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance Enters Philippines（BSC，分数 79.14）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Ansem Carries Solana Weight 当前为“新出现”
+1. 当前最强叙事：Yi He on Industry Leader Effect（BSC，分数 80.28）
+2. 共振最强代币：ANSEM（Solana，共振 100.0）
+3. 记忆层变化：Alleged WIF Cat Sister Token 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined GUAUSDT Perpetual Contract (2026-07-02)
 #Binance #NarrativeOS #OpenClaw
