@@ -1,98 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-04T18:36:39.226009+00:00
+- 生成时间：2026-07-04T19:49:34.345874+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 trumplet，所在链为 Solana，叙事强度 86.37。
-- 当前平均叙事强度为 81.67，其中已确认叙事 0 个。
+- 当前最强叙事是 trumplet，所在链为 Solana，叙事强度 85.45。
+- 当前平均叙事强度为 78.23，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 LAB，来自 BSC，共振分数 100.0。
-- 记忆层显示 trumplet 当前处于“新出现”状态。
+- 记忆层显示 Alleged Andrew Tate Coin Fee Distribution 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Andrew Tate's Alleged Meme Coin，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Join the TRON Carnival on Binance Wallet DeFi to Share $4,500,000 in Rewards!。
 
 ## 叙事雷达
 
-- trumplet | Solana | 降温中 | 强度 86.37 | 质量 77.14
+- trumplet | Solana | 降温中 | 强度 85.45 | 质量 77.28
   - 主题摘要：Multiple tokens named 「trumplet」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.27 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.75 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem's Meme Note | Solana | 降温中 | 强度 85.69 | 质量 75.96
+- Ansem's Meme Note | Solana | 降温中 | 强度 84.18 | 质量 76.15
   - 主题摘要：Multiple tokens named 「MemeNote」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.33 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.96 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 天秤 | BSC | 加速中 | 强度 83.89 | 质量 75.82
+- 天秤 | BSC | 加速中 | 强度 82.37 | 质量 75.79
   - 主题摘要：天秤 (Balance) token draws inspiration from the astrological sign of Libra, symbolized by the scales in its logo. It aims to create a decentralized ecosystem for financial services,…
-  - 资金 100.00 / 广度 75.31 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.22 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He on Industry Leader Effect | BSC | 已确认 | 强度 81.55 | 质量 76.29
+- Yi He on Industry Leader Effect | BSC | 已确认 | 强度 80.90 | 质量 75.06
   - 主题摘要：Binance联合创始人何一引用中国互联网历史上的3Q大战，讽刺那些试图挑战市场领头羊的追随者，指出用户往往会被误导认为两者实力相当。这一观点以幽默的方式强调了市场领导者的地位。
-  - 资金 100.00 / 广度 86.62 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.58 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Andrew Tate Meme Coin Launch | Solana | 加速中 | 强度 81.27 | 质量 80.62
-  - 主题摘要：Multiple tokens named 「TATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.78 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Smokez Allegedly Holds 65% of $TATE | Solana | 加速中 | 强度 81.01 | 质量 80.24
-  - 主题摘要：According to Smokez's post, the user claims to hold 65% of the $TATE (The Top G) token supply and is ready to transfer fees. Smokez challenges others to demonstrate more activity…
-  - 资金 100.00 / 广度 89.51 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Riskbets Launches $bullpost Rewards | Solana | 降温中 | 强度 80.64 | 质量 70.91
-  - 主题摘要：According to Riskbets's post, the developer is launching $bullpost, allocating 20% of creator rewards to buy $ANSEM and airdrop to users, while using 80% for bounties and payments…
-  - 资金 100.00 / 广度 69.50 / 确认 9.36 / 脆弱性 14.00
+- Alleged Andrew Tate Coin Fee Distribution | Solana | 降温中 | 强度 79.41 | 质量 69.39
+  - 主题摘要：According to Real SHIGGA's post, Andrew Tate coins are active, and Ansem is allegedly sending 99% of fees to himself and 1% to Tate. The post references the 'Cuckolds Cult' token,…
+  - 资金 100.00 / 广度 64.45 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged DADDY TATE Token Launch | Solana | 加速中 | 强度 79.82 | 质量 79.83
-  - 主题摘要：According to Andrew Tate's post, he claims that 70% of supply and creator fees from Pump.fun coins must be directed to his wallet, and all creator fees will purchase $DADDY. This…
-  - 资金 100.00 / 广度 91.33 / 确认 20.16 / 脆弱性 14.00
+- Alleged Cobra Tate Meme Coin | Solana | 加速中 | 强度 78.68 | 质量 66.00
+  - 主题摘要：According to Superman's post, he claims to be launching an alleged Cobra Tate token, leveraging Andrew Tate's 'Cobra Tate' branding. Superman asserts he will direct 70% of the sup…
+  - 资金 100.00 / 广度 81.36 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ANDREW TATE RETURN TO MEMES | Solana | 加速中 | 强度 79.55 | 质量 77.89
-  - 主题摘要：According to Andrew Tate's post, he published the phrase 'Scott free'. This brief statement is associated with various cryptocurrency tokens bearing his name, such as TATE and RNT…
-  - 资金 100.00 / 广度 83.72 / 确认 24.48 / 脆弱性 14.00
+- Andrew Tate's Alleged Meme Coin | Solana | 点火期 | 强度 75.27 | 质量 71.95
+  - 主题摘要：According to ً's post, Andrew Tate stated that a coin must mock his enemies. The author claims the 'Cobra PVP' project is linked to Ansem, Tate's rival, and asserts that the 'Nigg…
+  - 资金 100.00 / 广度 72.97 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Only Up Dev Relaunches USD1 | Solana | 加速中 | 强度 74.60 | 质量 67.30
+  - 主题摘要：According to Only Up's post, the developer claims to have previously reached a $500k valuation for USD1 and is now relaunching it using a new Bonk liquidity mode.
+  - 资金 100.00 / 广度 72.12 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mario Nawfal on IShowSpeed | Solana | 降温中 | 强度 79.04 | 质量 73.96
-  - 主题摘要：According to Mario Nawfal's post, IShowSpeed fell silent after Lionel Messi scored against Cape Verde, while his brother Jamal reacted enthusiastically. The post characterizes thi…
-  - 资金 100.00 / 广度 74.40 / 确认 16.56 / 脆弱性 22.67
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 未来人生 | BSC | 加速中 | 强度 74.44 | 质量 64.86
+- Smokez Allegedly Launches $TATE Token | Solana | 点火期 | 强度 74.23 | 质量 70.30
+  - 主题摘要：According to Smokez's post, he allegedly launched a new token named $TATE (The Alpha Male), claiming it is original and unvampable. Smokez stated that 70% of the supply plus creat…
+  - 资金 100.00 / 广度 67.47 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- dr cavey phd ∿ Expresses Bullish Expectations | Solana | 加速中 | 强度 74.04 | 质量 66.11
+  - 主题摘要：According to dr cavey phd ∿'s post, the author expresses extreme bullish sentiment, claiming that prices will rise so significantly that the concept of 'down' will be removed from…
+  - 资金 100.00 / 广度 71.82 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 未来人生 | BSC | 加速中 | 强度 73.14 | 质量 64.70
   - 主题摘要：According to ndesip🚢's post, the individual announced the launch of a token named '未来人生' (Future Life) on the BNB Chain. The token is described as a deflationary protocol featurin…
-  - 资金 100.00 / 广度 72.03 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.12 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 吉祥凤凰 | BSC | 加速中 | 强度 74.00 | 质量 59.72
+- 吉祥凤凰 | BSC | 加速中 | 强度 71.25 | 质量 58.46
   - 主题摘要：Multiple tokens named 「吉祥凤凰」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.55 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 67.69 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 为小卖部伸张正义 | BSC | 加速中 | 强度 71.56 | 质量 58.79
+- 动态托底金库 | BSC | 加速中 | 强度 70.83 | 质量 56.70
+  - 主题摘要：Multiple tokens named 「动态托底金库」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.92 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 为小卖部伸张正义 | BSC | 加速中 | 强度 70.56 | 质量 59.11
   - 主题摘要：Multiple tokens named 「小卖部」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.73 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.12 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 裂变+拉盘+分红+销毁+挖矿 | BSC | 降温中 | 强度 71.24 | 质量 54.33
-  - 主题摘要：病毒皇冠 (Bianian) is a meme token inspired by the concept of viral growth and community-driven hype. It emphasizes community participation through裂变 (spread), 拉盘 (pump), 分红 (dividend…
-  - 资金 100.00 / 广度 58.01 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.67，其中已确认叙事 0 个。
-- 为小卖部伸张正义 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.23，其中已确认叙事 0 个。
+- Alleged Cobra Tate Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - trumplet 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Andrew Tate Meme Coin Launch | 质量 80.62 | 可交易性 100.00 | 风险 低
-- Smokez Allegedly Holds 65% of $TATE | 质量 80.24 | 可交易性 100.00 | 风险 低
-- Alleged DADDY TATE Token Launch | 质量 79.83 | 可交易性 100.00 | 风险 低
-- ANDREW TATE RETURN TO MEMES | 质量 77.89 | 可交易性 97.96 | 风险 低
-- trumplet | 质量 77.14 | 可交易性 100.00 | 风险 低
-- Yi He on Industry Leader Effect | 质量 76.29 | 可交易性 100.00 | 风险 低
-- Ansem's Meme Note | 质量 75.96 | 可交易性 100.00 | 风险 低
-- 天秤 | 质量 75.82 | 可交易性 100.00 | 风险 低
-- Mario Nawfal on IShowSpeed | 质量 73.96 | 可交易性 100.00 | 风险 低
-- Riskbets Launches $bullpost Rewards | 质量 70.91 | 可交易性 100.00 | 风险 低
+- trumplet | 质量 77.28 | 可交易性 100.00 | 风险 低
+- Ansem's Meme Note | 质量 76.15 | 可交易性 100.00 | 风险 低
+- 天秤 | 质量 75.79 | 可交易性 100.00 | 风险 低
+- Yi He on Industry Leader Effect | 质量 75.06 | 可交易性 100.00 | 风险 低
+- Andrew Tate's Alleged Meme Coin | 质量 71.95 | 可交易性 100.00 | 风险 低
+- Smokez Allegedly Launches $TATE Token | 质量 70.30 | 可交易性 100.00 | 风险 低
+- Alleged Andrew Tate Coin Fee Distribution | 质量 69.39 | 可交易性 100.00 | 风险 低
+- Only Up Dev Relaunches USD1 | 质量 67.30 | 可交易性 77.44 | 风险 低
+- dr cavey phd ∿ Expresses Bullish Expectations | 质量 66.11 | 可交易性 73.76 | 风险 低
+- Alleged Cobra Tate Meme Coin | 质量 66.00 | 可交易性 60.68 | 风险 低
 
 ## 伪叙事风险
 
+- Andrew Tate's Alleged Meme Coin | 风险 47.79 | 原因：流动性偏薄
+- Smokez Allegedly Launches $TATE Token | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -131,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：trumplet（Solana，分数 86.37）
+1. 当前最强叙事：trumplet（Solana，分数 85.45）
 2. 共振最强代币：LAB（BSC，共振 100.0）
-3. 记忆层变化：trumplet 当前为“新出现”
+3. 记忆层变化：Alleged Andrew Tate Coin Fee Distribution 当前为“新出现”
 4. 最新官方催化：Join the TRON Carnival on Binance Wallet DeFi to Share $4,500,000 in Rewards!
 #Binance #NarrativeOS #OpenClaw
