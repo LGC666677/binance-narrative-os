@@ -1,99 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-04T11:14:12.830912+00:00
+- 生成时间：2026-07-04T12:16:54.086175+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 FINN Responds to BagsApp Controversy，所在链为 Solana，叙事强度 87.13。
-- 当前平均叙事强度为 80.3，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 PAULY，来自 Solana，共振分数 100.0。
-- 记忆层显示 Robinhood Beta Release 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 分红BNB，伪叙事风险 40.99。
+- 当前最强叙事是 bullana，所在链为 Solana，叙事强度 90.75。
+- 当前平均叙事强度为 84.38，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
+- 记忆层显示 bullana 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Join the TRON Carnival on Binance Wallet DeFi to Share $4,500,000 in Rewards!。
 
 ## 叙事雷达
 
-- FINN Responds to BagsApp Controversy | Solana | 加速中 | 强度 87.13 | 质量 79.65
-  - 主题摘要：According to FINN's post, FINN claims that a coin referred to him as a 'retard' and states he would have provided full support if not for the insult. He warns of upcoming developm…
-  - 资金 100.00 / 广度 88.08 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged BBC Token Launch | Solana | 加速中 | 强度 83.57 | 质量 80.91
-  - 主题摘要：According to Ansem 🐂🀄️'s post, he replied to a query regarding the potential growth size of BBC (Black Bull Coin) by describing it as "massive." This statement reflects his person…
-  - 资金 100.00 / 广度 91.74 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged LOKTAR Token Launch | Solana | 加速中 | 强度 82.31 | 质量 74.79
-  - 主题摘要：According to Lok'Tar 🐂🀄️'s post, Ansem allegedly named Lok'tar as the champion of RTM and the official mascot of Black Bull, with 25% of the supply sent to Ansem's wallet. This in…
-  - 资金 100.00 / 广度 71.35 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged New Meme Coin Launch Plan | Solana | 降温中 | 强度 82.12 | 质量 77.29
-  - 主题摘要：According to Risk100x's post, the author proposes launching a new Meme coin featuring a random animal with a random name. Risk100x claims to contribute all supply for an airdrop t…
-  - 资金 100.00 / 广度 85.49 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Leto Bao Self-Introduction | BSC | 已确认 | 强度 81.06 | 质量 81.26
-  - 主题摘要：According to Leto Bao's post, the individual introduces himself as Leto, identifying himself as the subject of the viral narrative regarding achieving financial freedom through By…
-  - 资金 100.00 / 广度 87.63 / 确认 31.68 / 脆弱性 14.00
+- bullana | Solana | 已确认 | 强度 90.75 | 质量 84.06
+  - 主题摘要：Multiple tokens named 「BULL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 97.50 / 确认 30.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Sultan Token Launch | Solana | 加速中 | 强度 80.74 | 质量 77.61
+- c Questions Ansem's Nickname Z | Solana | 加速中 | 强度 87.18 | 质量 79.86
+  - 主题摘要：According to c's post, c questions whether Ansem's only nickname is "Z" rather than "Black Bull" or "Mensa," referencing a quoted tweet about securing "the z."
+  - 资金 100.00 / 广度 86.21 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Sultan Token Launch | Solana | 加速中 | 强度 85.28 | 质量 78.55
   - 主题摘要：According to bruh fish's post, the user interprets the term 'Sultan' as the opposite of 'Manlet,' referencing a previous statement by Ansem. The post suggests a connection between…
-  - 资金 100.00 / 广度 83.92 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.42 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He on Industry Leader Effect | BSC | 已确认 | 强度 79.62 | 质量 73.42
-  - 主题摘要：Binance联合创始人何一引用中国互联网历史上的3Q大战，讽刺那些试图挑战市场领头羊的追随者，指出用户往往会被误导认为两者实力相当。这一观点以幽默的方式强调了市场领导者的地位。
-  - 资金 100.00 / 广度 84.39 / 确认 28.08 / 脆弱性 14.00
+- Alleged BBC Token Launch | Solana | 加速中 | 强度 85.28 | 质量 80.81
+  - 主题摘要：According to Ansem 🐂🀄️'s post, he replied to a query regarding the potential growth size of BBC (Black Bull Coin) by describing it as "massive." This statement reflects his person…
+  - 资金 100.00 / 广度 91.43 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Zagentic Token Launch | Solana | 加速中 | 强度 84.47 | 质量 76.02
+  - 主题摘要：Multiple tokens named 「Z」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.98 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FINN Responds to BagsApp Controversy | Solana | 加速中 | 强度 81.63 | 质量 78.69
+  - 主题摘要：According to FINN's post, FINN claims that a coin referred to him as a 'retard' and states he would have provided full support if not for the insult. He warns of upcoming developm…
+  - 资金 100.00 / 广度 87.53 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Z Token Launch | Solana | 加速中 | 强度 80.93 | 质量 69.96
+  - 主题摘要：According to john's post, the letter Z is a viral trend, and the token 'The Bullish Letter' (Z) is suggested as a runner due to its association with 'The Black Bull' and Ansem's n…
+  - 资金 100.00 / 广度 78.83 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Leto Bao Self-Introduction | BSC | 已确认 | 强度 79.82 | 质量 81.26
+  - 主题摘要：According to Leto Bao's post, the individual introduces himself as Leto, identifying himself as the subject of the viral narrative regarding achieving financial freedom through By…
+  - 资金 100.00 / 广度 87.65 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Robinhood Beta Release | Solana | 降温中 | 强度 76.24 | 质量 61.22
-  - 主题摘要：According to C's post, Robinhood has released a beta version of its platform. The post highlights this development with the statement, "they literally gave us a beta?? robinhood h…
-  - 资金 100.00 / 广度 78.59 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Big Black Coin | Solana | 加速中 | 强度 75.41 | 质量 68.86
-  - 主题摘要：According to ANIME's post, the user allegedly launched a token named Big Black Coin (BBC). The post references the token's description as 'Ansem is the true chad on the current ma…
-  - 资金 100.00 / 广度 84.41 / 确认 24.48 / 脆弱性 24.00
+- Alleged LOKTAR Token Launch | Solana | 加速中 | 强度 79.55 | 质量 74.89
+  - 主题摘要：According to Lok'Tar 🐂🀄️'s post, Ansem allegedly named Lok'tar as the champion of RTM and the official mascot of Black Bull, with 25% of the supply sent to Ansem's wallet. This in…
+  - 资金 100.00 / 广度 71.68 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Supergirl Movie BBC Meme | Solana | 加速中 | 强度 74.86 | 质量 66.08
-  - 主题摘要：According to Frank's post, the new Supergirl movie's marketing team accidentally created a viral Meme image featuring a collectible cup referred to as the "Big Brown Cup" (BBC). T…
-  - 资金 100.00 / 广度 78.96 / 确认 24.48 / 脆弱性 14.00
+- Yi He on Industry Leader Effect | BSC | 加速中 | 强度 77.65 | 质量 72.50
+  - 主题摘要：Binance联合创始人何一引用中国互联网历史上的3Q大战，讽刺那些试图挑战市场领头羊的追随者，指出用户往往会被误导认为两者实力相当。这一观点以幽默的方式强调了市场领导者的地位。
+  - 资金 100.00 / 广度 84.19 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Posts Final Form Bull Meme | BSC | 加速中 | 强度 74.52 | 质量 70.99
-  - 主题摘要：According to CZ's post, he claims to be a bull and references a "final form." This content is associated with the token "Final Form Bull" (Symbol: 终极黄牛). CZ is alleged to be issui…
-  - 资金 100.00 / 广度 83.29 / 确认 28.08 / 脆弱性 14.00
+- 吉祥凤凰 | BSC | 加速中 | 强度 72.10 | 质量 57.03
+  - 主题摘要：Multiple tokens named 「吉祥凤凰」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.35 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 屎壳郎 BANK | BSC | 降温中 | 强度 68.80 | 质量 57.53
-  - 主题摘要：Multiple tokens named 「屎壳郎 BANK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.62 / 确认 16.56 / 脆弱性 24.00
+- 宥宸泽 | BSC | 降温中 | 强度 70.09 | 质量 53.97
+  - 主题摘要：Multiple tokens named 「宥宸泽」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 62.99 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Enters Philippines | BSC | 降温中 | 强度 65.98 | 质量 61.85
-  - 主题摘要：Binance co-founder Yi He announced the official entry of Binance into the Philippines market, marking a significant expansion step for the exchange in Southeast Asia.
-  - 资金 100.00 / 广度 80.69 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 分红BNB | BSC | 降温中 | 强度 65.78 | 质量 53.59
-  - 主题摘要：Multiple tokens named 「BNB人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.95 / 确认 9.36 / 脆弱性 24.00
+- bStocks Personality Test | BSC | 加速中 | 强度 68.69 | 质量 61.73
+  - 主题摘要：币安华语官方发起的bStocks人格测试活动，通过区分观察派与敏捷派等交易风格角色，增强社区互动与用户参与度。
+  - 资金 95.02 / 广度 72.07 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 币安蝴蝶 | BSC | 降温中 | 强度 68.14 | 质量 50.91
+  - 主题摘要：Multiple tokens named 「币安蝴蝶」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 62.09 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.3，其中已确认叙事 0 个。
-- Alleged New Meme Coin Launch Plan 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.38，其中已确认叙事 1 个。
+- bullana 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- 宥宸泽 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
+- bullana | 质量 84.06 | 可交易性 100.00 | 风险 低
 - Leto Bao Self-Introduction | 质量 81.26 | 可交易性 100.00 | 风险 低
-- Alleged BBC Token Launch | 质量 80.91 | 可交易性 100.00 | 风险 低
-- FINN Responds to BagsApp Controversy | 质量 79.65 | 可交易性 100.00 | 风险 低
-- Alleged Sultan Token Launch | 质量 77.61 | 可交易性 100.00 | 风险 低
-- Alleged New Meme Coin Launch Plan | 质量 77.29 | 可交易性 100.00 | 风险 低
-- Alleged LOKTAR Token Launch | 质量 74.79 | 可交易性 100.00 | 风险 低
-- Yi He on Industry Leader Effect | 质量 73.42 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Posts Final Form Bull Meme | 质量 70.99 | 可交易性 100.00 | 风险 低
-- Alleged Big Black Coin | 质量 68.86 | 可交易性 73.21 | 风险 低
-- Supergirl Movie BBC Meme | 质量 66.08 | 可交易性 63.35 | 风险 低
+- Alleged BBC Token Launch | 质量 80.81 | 可交易性 100.00 | 风险 低
+- c Questions Ansem's Nickname Z | 质量 79.86 | 可交易性 99.91 | 风险 低
+- FINN Responds to BagsApp Controversy | 质量 78.69 | 可交易性 100.00 | 风险 低
+- Alleged Sultan Token Launch | 质量 78.55 | 可交易性 100.00 | 风险 低
+- Alleged Zagentic Token Launch | 质量 76.02 | 可交易性 100.00 | 风险 低
+- Alleged LOKTAR Token Launch | 质量 74.89 | 可交易性 100.00 | 风险 低
+- Yi He on Industry Leader Effect | 质量 72.50 | 可交易性 100.00 | 风险 低
+- Alleged Z Token Launch | 质量 69.96 | 可交易性 76.95 | 风险 低
 
 ## 伪叙事风险
 
-- 分红BNB | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -132,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：FINN Responds to BagsApp Controversy（Solana，分数 87.13）
-2. 共振最强代币：PAULY（Solana，共振 100.0）
-3. 记忆层变化：Robinhood Beta Release 当前为“新出现”
+1. 当前最强叙事：bullana（Solana，分数 90.75）
+2. 共振最强代币：TROLL（Solana，共振 100.0）
+3. 记忆层变化：bullana 当前为“新出现”
 4. 最新官方催化：Join the TRON Carnival on Binance Wallet DeFi to Share $4,500,000 in Rewards!
 #Binance #NarrativeOS #OpenClaw
