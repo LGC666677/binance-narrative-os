@@ -1,117 +1,116 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-05T01:21:06.474141+00:00
+- 生成时间：2026-07-05T05:13:11.321893+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 trumplet，所在链为 Solana，叙事强度 85.19。
-- 当前平均叙事强度为 81.48，其中已确认叙事 0 个。
+- 当前最强叙事是 CZ's BNB Wallet Riddle，所在链为 BSC，叙事强度 89.27。
+- 当前平均叙事强度为 85.86，其中已确认叙事 2 个。
 - 注意力与资金共振最强的代币是 CZ，来自 BSC，共振分数 100.0。
-- 记忆层显示 Uncertain:CZ Posts Final Form Black Bull Meme 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Toly Tokenization，伪叙事风险 44.91。
+- 记忆层显示 Uncertain:CZ Bull Meme 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged TATE Token Whale Concentration，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Join the TRON Carnival on Binance Wallet DeFi to Share $4,500,000 in Rewards!。
 
 ## 叙事雷达
 
-- trumplet | Solana | 降温中 | 强度 85.19 | 质量 77.65
-  - 主题摘要：Multiple tokens named 「trumplet」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.96 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Final Form Cow | BSC | 加速中 | 强度 83.18 | 质量 78.54
-  - 主题摘要：According to Risk's post, he questions the rationale behind distributing tokens to CZ, stating that he allocated tokens to Yi He's wallet instead.
-  - 资金 100.00 / 广度 84.36 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Posts Final Form Black Bull Meme | BSC | 已确认 | 强度 83.03 | 质量 76.10
-  - 主题摘要：According to CZ's post, he shared a Meme image depicting a "Final Form Black Bull" to express his bullish sentiment, stating that observers have not yet seen his ultimate form. Th…
-  - 资金 100.00 / 广度 81.49 / 确认 30.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Cobra Tate Meme Coin | Solana | 加速中 | 强度 82.73 | 质量 79.23
-  - 主题摘要：According to Superman's post, he claims to be launching an alleged Cobra Tate token, citing Andrew Tate's handle @Cobratate as branding justification. Superman asserts he will dir…
-  - 资金 100.00 / 广度 86.15 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ's BNB Wallet Riddle | BSC | 加速中 | 强度 81.66 | 质量 77.81
+- CZ's BNB Wallet Riddle | BSC | 已确认 | 强度 89.27 | 质量 82.43
   - 主题摘要：Binance CEO CZ (@cz_binance) participated in a riddle game on X, replying to a post about 'Water (drop) your BNB wallet'. The post features a water drop and a wallet image, creati…
-  - 资金 100.00 / 广度 84.57 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.42 / 确认 34.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Uncertain:CZ Bull Meme | BSC | 加速中 | 强度 87.60 | 质量 80.41
+  - 主题摘要：CZ asserts his bullish stance on the market, stating that observers have not yet witnessed his 'final form.' This statement reflects his strong confidence in the ongoing bull mark…
+  - 资金 100.00 / 广度 87.97 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 天秤 | BSC | 加速中 | 强度 81.53 | 质量 75.37
-  - 主题摘要：天秤 (Balance) token draws inspiration from the astrological sign of Libra, symbolized by the scales in its logo. It aims to create a decentralized ecosystem for financial services,…
-  - 资金 100.00 / 广度 73.81 / 确认 23.76 / 脆弱性 24.00
+- Uncertain:CZ Posts Final Form Black Bull Meme | BSC | 已确认 | 强度 87.04 | 质量 77.17
+  - 主题摘要：According to CZ's post, he shared a Meme image depicting a "Final Form Black Bull" to express his bullish sentiment, stating that observers have not yet seen his ultimate form. Th…
+  - 资金 100.00 / 广度 83.31 / 确认 30.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- The Final Form Cow | BSC | 加速中 | 强度 86.23 | 质量 80.21
+  - 主题摘要：According to Risk's post, he questions the rationale behind distributing tokens to CZ, stating that he allocated tokens to Yi He's wallet instead.
+  - 资金 100.00 / 广度 89.43 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Ansem Meme Trend | Solana | 降温中 | 强度 81.01 | 质量 75.72
-  - 主题摘要：According to Meh's post, the 'This is Ansem' Meme is reportedly trending, with users encouraged to copy and paste the content before potential price increases. The post references…
-  - 资金 100.00 / 广度 85.55 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Ansem Life Token Launch | Solana | 降温中 | 强度 80.97 | 质量 75.69
-  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.42 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Toly Tokenization | Solana | 点火期 | 强度 80.73 | 质量 78.68
-  - 主题摘要：Multiple tokens named 「TOLY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.75 / 确认 12.96 / 脆弱性 14.00
+- Uncertain:The Yellow Bull | BSC | 加速中 | 强度 85.86 | 质量 78.45
+  - 主题摘要：According to The Yellow Bull's post, the author shared an article link related to the token named "The Yellow Bull" (Symbol: CZ). The content focuses on the branding and identity…
+  - 资金 100.00 / 广度 84.09 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- The Yellow Bull Publishes Article | BSC | 加速中 | 强度 85.86 | 质量 78.45
+  - 主题摘要：According to The Yellow Bull's post, the author shared a link to an article on X. The post does not contain specific textual details regarding cryptocurrency tokens or market even…
+  - 资金 100.00 / 广度 84.09 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ ARMY | BSC | 加速中 | 强度 82.86 | 质量 76.97
+  - 主题摘要：Multiple tokens named 「🔶 BNB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.14 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Cobra Tate Meme Coin | Solana | 加速中 | 强度 82.58 | 质量 79.33
+  - 主题摘要：According to Superman's post, he claims to be launching an alleged Cobra Tate token, citing Andrew Tate's handle @Cobratate as branding justification. Superman asserts he will dir…
+  - 资金 100.00 / 广度 86.49 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Toly Tokenization | Solana | 点火期 | 强度 82.30 | 质量 79.47
+  - 主题摘要：According to toly's post, he replied to a suggestion to "Tokenize Toly" by stating "Tokenize everything" in response to @Securitize and @NYSE. This interaction has inspired the cr…
+  - 资金 100.00 / 广度 92.74 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Alleged TOLY Token Launch on Solana | Solana | 点火期 | 强度 80.71 | 质量 78.64
+- Uncertain:Alleged TOLY Token Launch on Solana | Solana | 点火期 | 强度 82.27 | 质量 79.42
   - 主题摘要：According to Superman's post, the author claims to be launching a TOLY token on the Solana blockchain, aiming to replicate the distribution model used for CZ on BNB by sending 70%…
-  - 资金 100.00 / 广度 92.63 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 92.60 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Alleged TOLY Token Issuance | Solana | 点火期 | 强度 80.69 | 质量 78.64
-  - 主题摘要：Multiple tokens named 「TOLY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.63 / 确认 12.96 / 脆弱性 14.00
+- Uncertain:Alleged TOLY Token Issuance | Solana | 点火期 | 强度 82.23 | 质量 79.42
+  - 主题摘要：According to Superman's post, the user is sending 50% of Toly tokens, referencing a post by Toly. This activity is associated with the alleged 'CZ DERIV 50%' token. This informati…
+  - 资金 100.00 / 广度 92.59 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged TATE Token Whale Concentration | Solana | 点火期 | 强度 79.79 | 质量 76.24
-  - 主题摘要：According to JAKEBOPS's post, a specific individual holds approximately 92% of the supply of the TATE token. This claim highlights extreme token concentration, suggesting potentia…
-  - 资金 100.00 / 广度 81.98 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 吉祥凤凰 | BSC | 加速中 | 强度 74.76 | 质量 60.17
-  - 主题摘要：Multiple tokens named 「吉祥凤凰」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.20 / 确认 24.48 / 脆弱性 14.00
+- 天秤 | BSC | 加速中 | 强度 82.19 | 质量 74.71
+  - 主题摘要：天秤 (Balance) token draws inspiration from the astrological sign of Libra, symbolized by the scales in its logo. It aims to create a decentralized ecosystem for financial services,…
+  - 资金 100.00 / 广度 71.62 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MeiMei | BSC | 加速中 | 强度 70.55 | 质量 56.68
-  - 主题摘要：Multiple tokens named 「MeiMei」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.41 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Anselana Coin | Solana | 降温中 | 强度 77.55 | 质量 67.41
+  - 主题摘要：Multiple tokens named 「ANSELANA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 57.84 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged TATE Token Whale Concentration | Solana | 点火期 | 强度 77.45 | 质量 74.05
+  - 主题摘要：Multiple tokens named 「TATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.41 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.48，其中已确认叙事 0 个。
-- Uncertain:CZ Posts Final Form Black Bull Meme 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- trumplet 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 85.86，其中已确认叙事 2 个。
+- Uncertain:CZ Bull Meme 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Anselana Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Cobra Tate Meme Coin | 质量 79.23 | 可交易性 100.00 | 风险 低
-- Alleged Toly Tokenization | 质量 78.68 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged TOLY Token Launch on Solana | 质量 78.64 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged TOLY Token Issuance | 质量 78.64 | 可交易性 100.00 | 风险 低
-- The Final Form Cow | 质量 78.54 | 可交易性 100.00 | 风险 低
-- CZ's BNB Wallet Riddle | 质量 77.81 | 可交易性 100.00 | 风险 低
-- trumplet | 质量 77.65 | 可交易性 100.00 | 风险 低
-- Alleged TATE Token Whale Concentration | 质量 76.24 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Posts Final Form Black Bull Meme | 质量 76.10 | 可交易性 89.47 | 风险 低
-- Alleged Ansem Meme Trend | 质量 75.72 | 可交易性 100.00 | 风险 低
+- CZ's BNB Wallet Riddle | 质量 82.43 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Bull Meme | 质量 80.41 | 可交易性 100.00 | 风险 低
+- The Final Form Cow | 质量 80.21 | 可交易性 100.00 | 风险 低
+- Alleged Toly Tokenization | 质量 79.47 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged TOLY Token Launch on Solana | 质量 79.42 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged TOLY Token Issuance | 质量 79.42 | 可交易性 100.00 | 风险 低
+- Alleged Cobra Tate Meme Coin | 质量 79.33 | 可交易性 100.00 | 风险 低
+- Uncertain:The Yellow Bull | 质量 78.45 | 可交易性 100.00 | 风险 低
+- The Yellow Bull Publishes Article | 质量 78.45 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Posts Final Form Black Bull Meme | 质量 77.17 | 可交易性 91.23 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Toly Tokenization | 风险 44.91 | 原因：流动性偏薄
-- Uncertain:Alleged TOLY Token Launch on Solana | 风险 44.91 | 原因：流动性偏薄
-- Uncertain:Alleged TOLY Token Issuance | 风险 44.91 | 原因：流动性偏薄
-- Alleged TATE Token Whale Concentration | 风险 42.03 | 原因：流动性偏薄
-- trumplet | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged TATE Token Whale Concentration | 风险 47.79 | 原因：流动性偏薄
+- Alleged Toly Tokenization | 风险 42.03 | 原因：流动性偏薄
+- Uncertain:Alleged TOLY Token Launch on Solana | 风险 42.03 | 原因：流动性偏薄
+- Uncertain:Alleged TOLY Token Issuance | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
+- Cedric | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CEDRIC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- FORA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CZ | BSC | 看多 | 新鲜度 100.00 | Uncertain:CZ Posts Final Form Black Bull Meme
 - CZ | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- HEYI | BSC | 看多 | 新鲜度 100.00 | The Final Form Cow
 - 狴犴 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 黄猫股神 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 替天行道 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 王大有 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- FOURNESE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- bnbagent | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- ANSEM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- manlet | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -137,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：trumplet（Solana，分数 85.19）
+1. 当前最强叙事：CZ's BNB Wallet Riddle（BSC，分数 89.27）
 2. 共振最强代币：CZ（BSC，共振 100.0）
-3. 记忆层变化：Uncertain:CZ Posts Final Form Black Bull Meme 当前为“新出现”
+3. 记忆层变化：Uncertain:CZ Bull Meme 当前为“新出现”
 4. 最新官方催化：Join the TRON Carnival on Binance Wallet DeFi to Share $4,500,000 in Rewards!
 #Binance #NarrativeOS #OpenClaw
