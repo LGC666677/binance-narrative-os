@@ -1,107 +1,107 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-05T20:03:18.283245+00:00
+- 生成时间：2026-07-05T21:16:27.019178+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：1
+- 已确认叙事：2
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Anime Ansem，所在链为 Solana，叙事强度 83.11。
-- 当前平均叙事强度为 77.71，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 HEYI，来自 BSC，共振分数 100.0。
-- 记忆层显示 MURAD - The Rainbow Bull 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Ansem Comments on Bulltarded，伪叙事风险 52.99。
+- 当前最强叙事是 Anime Ansem，所在链为 Solana，叙事强度 86.77。
+- 当前平均叙事强度为 79.21，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 CZ，来自 BSC，共振分数 100.0。
+- 记忆层显示 Uncertain:Pumpfun Surpasses Uniswap in Volume 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Bully Token Launch，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Join the TRON Carnival on Binance Wallet DeFi to Share $4,500,000 in Rewards!。
 
 ## 叙事雷达
 
-- Anime Ansem | Solana | 降温中 | 强度 83.11 | 质量 73.60
+- Anime Ansem | Solana | 降温中 | 强度 86.77 | 质量 75.49
   - 主题摘要：Multiple tokens named 「ANIMEBULL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.47 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.76 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of CURB Token | Solana | 降温中 | 强度 81.36 | 质量 76.88
-  - 主题摘要：According to 莉兹🔶BNB's post, blknoiz06 stated he will not launch a token but outlined requirements for others to create one named 'The Solana Bull' ($CURB) on Solana. This informat…
-  - 资金 100.00 / 广度 89.40 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TCC Posts NianNian Meme Image | BSC | 已确认 | 强度 80.78 | 质量 80.81
+- TCC Posts NianNian Meme Image | BSC | 已确认 | 强度 83.21 | 质量 80.71
   - 主题摘要：According to TCC's post, the NianNian cat, born on the @four_meme_ platform on the BSC network, is highlighted as a potential movement. TCC advises followers to remember the name…
-  - 资金 100.00 / 广度 86.15 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.32 / 确认 30.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged 5miles Meme Image | BSC | 加速中 | 强度 77.97 | 质量 76.88
-  - 主题摘要：According to 090-cz's post, a Meme image featuring a dog named 5miles, associated with TCC, was shared. This content relates to the token symbol 5miles. This information is unveri…
-  - 资金 100.00 / 广度 78.85 / 确认 23.76 / 脆弱性 24.00
+- Uncertain:Pumpfun Surpasses Uniswap in Volume | Solana | 加速中 | 强度 82.81 | 质量 81.27
+  - 主题摘要：According to gettindevvy_'s post, Pumpfun has become the No. 1 DEX by 24-hour trading volume across all chains for the first time, surpassing Uniswap. This milestone is attributed…
+  - 资金 100.00 / 广度 96.13 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Turns..? | BSC | 降温中 | 强度 77.88 | 质量 70.44
+- Binance Turns..? | BSC | 加速中 | 强度 82.14 | 质量 73.60
   - 主题摘要：Binance official account posts a cryptic teaser with an ellipsis and question marks, sparking curiosity about a potential rebranding, new feature, or strategic shift. The ambiguit…
-  - 资金 100.00 / 广度 80.73 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AB Requesting ClipX Token Transfer | BSC | 加速中 | 强度 77.63 | 质量 65.79
-  - 主题摘要：According to AB 🔶's post, the user requests a transfer of 300 USD from ClipX to their BNB address (0x82Ab...). This follows a previous reply asking for 100 ClipX tokens to be sent…
-  - 资金 100.00 / 广度 79.13 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.09 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- bnbxbt Analyzes F3B Developer Holdings | BSC | 加速中 | 强度 77.30 | 质量 74.69
-  - 主题摘要：According to bnbxbt's post, the creator of Broccoli (0x689733e47745a77004bedeb8d61a00357087f2a6) holds 8.709 BNB and 6,961.32 Broccoli tokens. This information was provided in res…
-  - 资金 100.00 / 广度 71.03 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ansem Comments on Bulltarded | Solana | 点火期 | 强度 76.89 | 质量 76.05
-  - 主题摘要：According to Ansem 🐂🀄️'s post, the author described the Bulltarded token as 'extremely bulltarded' in a reply to another user. This statement reflects a subjective and informal op…
-  - 资金 100.00 / 广度 86.62 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- MURAD - The Rainbow Bull | Solana | 降温中 | 强度 76.78 | 质量 68.64
+- Uncertain:Alleged 5miles Meme Image | BSC | 已确认 | 强度 81.56 | 质量 77.87
+  - 主题摘要：According to 090-cz's post, a Meme image featuring a dog named 5miles, associated with TCC, was shared. This content relates to the token symbol 5miles. This information is unveri…
+  - 资金 100.00 / 广度 78.97 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- MURAD - The Rainbow Bull | Solana | 降温中 | 强度 81.40 | 质量 69.61
   - 主题摘要：MURAD - The Rainbow Bull features a colorful bull logo with rainbow stripes, embodying bullish market sentiment. The token draws inspiration from the bull market narrative, symbol…
-  - 资金 100.00 / 广度 61.95 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 65.18 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Slavic Bull | Solana | 加速中 | 强度 76.43 | 质量 70.94
-  - 主题摘要：According to Optimus's post, he highlights @suganarium as a prominent Solana KOL and advocates for bringing him back on-chain. Optimus claims to have allocated 69% of the $SUGAR t…
-  - 资金 100.00 / 广度 61.68 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FLAP Launches CandyBox Airdrop Infrastructure | BSC | 点火期 | 强度 76.12 | 质量 72.37
-  - 主题摘要：According to Flap 🦋's post, FLAP has launched CandyBox, an on-chain infrastructure layer for programmable and automated reward distribution. This system allows vaults to access dy…
-  - 资金 100.00 / 广度 87.62 / 确认 16.56 / 脆弱性 24.00
+- Dog Wif Bull | Solana | 降温中 | 强度 79.38 | 质量 70.49
+  - 主题摘要：WIFBULL is a meme token inspired by the playful fusion of dog and bull imagery. The logo features a dog riding a bull, embodying the token's name 'Dog Wif Bull' which combines 'do…
+  - 资金 100.00 / 广度 68.09 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Pump.fun Endorses App | Solana | 点火期 | 强度 76.56 | 质量 71.33
+  - 主题摘要：According to Pump.fun's post, the official account replied to a user's comment praising the application, stating it 'couldn't have said it better myself.' This interaction serves…
+  - 资金 100.00 / 广度 86.51 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Ayush Questions ANSEM Airdrop | Solana | 加速中 | 强度 75.09 | 质量 64.48
-  - 主题摘要：According to Ayush's post, he questions the legitimacy of the ANSEM airdrop, noting that the associated user has a deleted wallet. Ayush states he will withhold fees and supply un…
-  - 资金 100.00 / 广度 78.27 / 确认 24.48 / 脆弱性 24.00
+- bnbxbt Analyzes F3B Developer Holdings | BSC | 加速中 | 强度 76.22 | 质量 74.83
+  - 主题摘要：According to bnbxbt's post, the creator of Broccoli (0x689733e47745a77004bedeb8d61a00357087f2a6) holds 8.709 BNB and 6,961.32 Broccoli tokens. This information was provided in res…
+  - 资金 100.00 / 广度 71.49 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged ChiggaButt Meme | Solana | 加速中 | 强度 74.33 | 质量 68.70
-  - 主题摘要：According to abrawlerj (redemption arc)'s post, the author proposes a concept combining mockery of CZ and 'ngas' to create a 'PVE runner' associated with the ChiggaButt token. Thi…
-  - 资金 100.00 / 广度 82.91 / 确认 27.36 / 脆弱性 14.00
+- AB Requesting ClipX Token Transfer | BSC | 加速中 | 强度 76.16 | 质量 65.70
+  - 主题摘要：According to AB 🔶's post, the user requests a transfer of 300 USD from ClipX to their BNB address (0x82Ab...). This follows a previous reply asking for 100 ClipX tokens to be sent…
+  - 资金 100.00 / 广度 79.46 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yung CZ Meme Image Release | BSC | 加速中 | 强度 74.26 | 质量 74.29
-  - 主题摘要：According to Joepegs's post, the Yung CZ collection, an honorary set of 200 anime-style NFTs, was introduced to pay homage to CZ, the mastermind behind Binance. This release coinc…
-  - 资金 100.00 / 广度 84.81 / 确认 28.08 / 脆弱性 24.00
+- Alleged Bully Token Launch | Solana | 点火期 | 强度 75.99 | 质量 73.34
+  - 主题摘要：Multiple tokens named 「Bully」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.51 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Silas Meme Coin | Solana | 加速中 | 强度 75.61 | 质量 63.78
+  - 主题摘要：According to Cliff sams's post, his son Silas has a terminal brain disease. Unverified tokens named Silas/SaveSilas are circulating, allegedly launched to support the family. This…
+  - 资金 100.00 / 广度 79.63 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- The Chinese Bull | Solana | 加速中 | 强度 75.16 | 质量 64.01
+  - 主题摘要：Multiple tokens named 「公牛」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.94 / 确认 23.76 / 脆弱性 16.71
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FLAP Launches CandyBox Airdrop Infrastructure | BSC | 点火期 | 强度 74.98 | 质量 68.86
+  - 主题摘要：According to Flap 🦋's post, FLAP has launched CandyBox, an on-chain infrastructure layer for programmable and automated reward distribution. This system allows vaults to access dy…
+  - 资金 100.00 / 广度 87.69 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.71，其中已确认叙事 0 个。
-- The Slavic Bull 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.21，其中已确认叙事 0 个。
+- Uncertain:Pumpfun Surpasses Uniswap in Volume 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Anime Ansem 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- TCC Posts NianNian Meme Image | 质量 80.81 | 可交易性 100.00 | 风险 低
-- Alleged Launch of CURB Token | 质量 76.88 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged 5miles Meme Image | 质量 76.88 | 可交易性 100.00 | 风险 低
-- Ansem Comments on Bulltarded | 质量 76.05 | 可交易性 100.00 | 风险 低
-- bnbxbt Analyzes F3B Developer Holdings | 质量 74.69 | 可交易性 100.00 | 风险 低
-- Uncertain:Yung CZ Meme Image Release | 质量 74.29 | 可交易性 100.00 | 风险 低
-- Anime Ansem | 质量 73.60 | 可交易性 100.00 | 风险 低
-- FLAP Launches CandyBox Airdrop Infrastructure | 质量 72.37 | 可交易性 100.00 | 风险 低
-- The Slavic Bull | 质量 70.94 | 可交易性 100.00 | 风险 低
-- Binance Turns..? | 质量 70.44 | 可交易性 87.20 | 风险 低
+- Uncertain:Pumpfun Surpasses Uniswap in Volume | 质量 81.27 | 可交易性 100.00 | 风险 低
+- TCC Posts NianNian Meme Image | 质量 80.71 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged 5miles Meme Image | 质量 77.87 | 可交易性 100.00 | 风险 低
+- Anime Ansem | 质量 75.49 | 可交易性 100.00 | 风险 低
+- bnbxbt Analyzes F3B Developer Holdings | 质量 74.83 | 可交易性 100.00 | 风险 低
+- Binance Turns..? | 质量 73.60 | 可交易性 89.45 | 风险 低
+- Alleged Bully Token Launch | 质量 73.34 | 可交易性 100.00 | 风险 低
+- Pump.fun Endorses App | 质量 71.33 | 可交易性 79.11 | 风险 低
+- Dog Wif Bull | 质量 70.49 | 可交易性 100.00 | 风险 低
+- MURAD - The Rainbow Bull | 质量 69.61 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Ansem Comments on Bulltarded | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- FLAP Launches CandyBox Airdrop Infrastructure | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Launch of CURB Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Bully Token Launch | 风险 47.79 | 原因：流动性偏薄
+- Pump.fun Endorses App | 风险 42.03 | 原因：流动性偏薄
+- FLAP Launches CandyBox Airdrop Infrastructure | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
-- TCC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CZ | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- TCC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Spigg | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Broccoli | BSC | 看多 | 新鲜度 100.00 | bnbxbt Analyzes F3B Developer Holdings
 - YEPE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -135,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Anime Ansem（Solana，分数 83.11）
-2. 共振最强代币：HEYI（BSC，共振 100.0）
-3. 记忆层变化：MURAD - The Rainbow Bull 当前为“新出现”
+1. 当前最强叙事：Anime Ansem（Solana，分数 86.77）
+2. 共振最强代币：CZ（BSC，共振 100.0）
+3. 记忆层变化：Uncertain:Pumpfun Surpasses Uniswap in Volume 当前为“新出现”
 4. 最新官方催化：Join the TRON Carnival on Binance Wallet DeFi to Share $4,500,000 in Rewards!
 #Binance #NarrativeOS #OpenClaw
