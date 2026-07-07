@@ -1,114 +1,113 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-07T16:13:37.869159+00:00
+- 生成时间：2026-07-07T18:18:32.579381+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Levilet，所在链为 Solana，叙事强度 84.44。
-- 当前平均叙事强度为 78.11，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 CZ，来自 BSC，共振分数 100.0。
-- 记忆层显示 Levilet 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged $ANSEMBOT Meme，伪叙事风险 52.99。
+- 当前最强叙事是 Ansem Requests Pump.fun Chart，所在链为 Solana，叙事强度 87.74。
+- 当前平均叙事强度为 84.59，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 CUPSEY，来自 Solana，共振分数 100.0。
+- 记忆层显示 Ansem Requests Pump.fun Chart 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 XYZToken，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-07-07)。
 
 ## 叙事雷达
 
-- Levilet | Solana | 降温中 | 强度 84.44 | 质量 74.24
-  - 主题摘要：Multiple tokens named 「Levilet」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.61 / 确认 9.36 / 脆弱性 14.00
+- Ansem Requests Pump.fun Chart | Solana | 降温中 | 强度 87.74 | 质量 79.25
+  - 主题摘要：Multiple tokens named 「BULL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 97.48 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He's One-Year Work Reflection | BSC | 加速中 | 强度 84.33 | 质量 77.89
-  - 主题摘要：Binance CEO He Yi replied to a post about the 'Binance Campus Asia' event, celebrating the company's recruitment and campus outreach efforts in Asia. The event highlights Binance'…
-  - 资金 100.00 / 广度 81.67 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Pudgy Penguin | Solana | 已确认 | 强度 83.14 | 质量 82.89
+- Ansem Shares Article on Bulls | Solana | 降温中 | 强度 86.42 | 质量 78.13
+  - 主题摘要：Multiple tokens named 「BULL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.57 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ansem Shares X Article | Solana | 降温中 | 强度 85.13 | 质量 75.50
+  - 主题摘要：According to Ansem 🐂🀄️'s post, the user retweeted a link to an article hosted on X. The specific content of the article is not provided in the text, but the action indicates the s…
+  - 资金 100.00 / 广度 84.80 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Nietzschean Bull Meme | Solana | 降温中 | 强度 84.33 | 质量 75.17
+  - 主题摘要：Multiple tokens named 「Bull」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.70 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- WallStreetBull | Solana | 降温中 | 强度 84.13 | 质量 75.17
+  - 主题摘要：Multiple tokens named 「Bull」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.70 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Bul Mentions $Bull Token | Solana | 降温中 | 强度 84.13 | 质量 75.17
+  - 主题摘要：Multiple tokens named 「Bull」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.70 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Pump.fun Onboarding | Solana | 降温中 | 强度 84.12 | 质量 75.11
+  - 主题摘要：According to Pump.fun's post, the official account shared the '/onboarding' tag in a reply to a user inquiry regarding advertising partnerships. This action indicates the platform…
+  - 资金 100.00 / 广度 83.51 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Pudgy Penguin | Solana | 加速中 | 强度 80.69 | 质量 81.34
   - 主题摘要：According to Superman's post, he claims to have created a token named LUCA, allocating 65% of the supply to Luca Netz. Superman asserts that this distribution aligns with Netz's p…
-  - 资金 100.00 / 广度 93.58 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Flap 🦋 Bull Market Sentiment | BSC | 加速中 | 强度 80.77 | 质量 74.33
-  - 主题摘要：According to Flap 🦋's post, the author expressed a bullish sentiment towards the cryptocurrency market, using the phrase 'Let the bull cook!' to indicate anticipation for a market…
-  - 资金 91.45 / 广度 80.97 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.08 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PUMPLON MUSK | Solana | 加速中 | 强度 77.42 | 质量 77.52
-  - 主题摘要：PUMPLON is a meme token inspired by Elon Musk's influence in crypto and technology. It aims to capture the excitement of Musk's ventures, particularly his AI and space exploration…
-  - 资金 100.00 / 广度 80.45 / 确认 24.48 / 脆弱性 24.00
+- Javier Olivan Suggests 'Andy' for Bull | BSC | 加速中 | 强度 77.81 | 质量 71.66
+  - 主题摘要：According to Karl's post, he questions the allocation of the ANDY token's supply, suggesting that 70% of the supply should be sent to the wallet of the author named Matt.
+  - 资金 100.00 / 广度 80.75 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $ANSEMBOT Meme | Solana | 点火期 | 强度 77.24 | 质量 72.69
-  - 主题摘要：Multiple tokens named 「READ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.00 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CEO Duan Xiaomin Returns | BSC | 加速中 | 强度 76.98 | 质量 77.49
+- CEO Duan Xiaomin Returns | BSC | 加速中 | 强度 75.44 | 质量 75.48
   - 主题摘要：Binance BNB Chain官方账号发布了一张CEO段小民身穿深蓝色西装、手提公文包的帅气照片，CZ对此回复了“😂”。照片中的段小民气场强大，被社区粉丝誉为“心目中的那个男人”，其霸总形象极具传播潜力。
-  - 资金 100.00 / 广度 83.52 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.55 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cupsey | Solana | 加速中 | 强度 76.86 | 质量 79.55
-  - 主题摘要：According to supreme de based's post, the author claims that Binance responded to a mascot, causing a price surge to 15 million. The post alleges that Pumpfun is launching a token…
-  - 资金 75.25 / 广度 87.22 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Zigzag Oracle | Solana | 加速中 | 强度 76.35 | 质量 74.68
-  - 主题摘要：Multiple tokens named 「ZIGO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.15 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged New Meme Image Release | BSC | 加速中 | 强度 76.34 | 质量 64.14
-  - 主题摘要：According to 我肯定会发财！'s post, the author shared an image described as a new logo. The post does not provide specific details regarding the design, associated project, or token affi…
-  - 资金 100.00 / 广度 75.76 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Beggy Bull | Solana | 加速中 | 强度 75.31 | 质量 65.56
-  - 主题摘要：Multiple tokens named 「BEGGY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.52 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- XXXToken | BSC | 加速中 | 强度 74.78 | 质量 59.47
-  - 主题摘要：Multiple tokens named 「XXX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.50 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of Bullcoin | Solana | 降温中 | 强度 74.16 | 质量 67.32
-  - 主题摘要：According to Tenz's post, Tenz claims to be launching a token named bullcoin, intended as a support coin for The Black Bull. Tenz states that fees from the coin will be distribute…
-  - 资金 100.00 / 广度 62.99 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dani🌍 Discusses PCAT Token | BSC | 点火期 | 强度 73.38 | 质量 73.56
+- Dani🌍 Discusses PCAT Token | BSC | 加速中 | 强度 74.82 | 质量 74.77
   - 主题摘要：According to Dani🌍's post, in a reply to a discussion regarding the PCAT token, Dani🌍 stated that the token has no fees.
-  - 资金 100.00 / 广度 81.88 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.21 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He's One-Year Work Reflection | BSC | 加速中 | 强度 74.27 | 质量 74.63
+  - 主题摘要：Binance CEO He Yi replied to a post about the 'Binance Campus Asia' event, celebrating the company's recruitment and campus outreach efforts in Asia. The event highlights Binance'…
+  - 资金 100.00 / 广度 82.01 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ Replies to Book Review | BSC | 加速中 | 强度 69.96 | 质量 65.61
+  - 主题摘要：Binance co-founder CZ is acknowledged for his prison memoir by crypto influencer Chris Giancarlo, highlighting themes of humility and discipline. This interaction brings renewed a…
+  - 资金 100.00 / 广度 76.03 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- XYZToken | BSC | 点火期 | 强度 69.11 | 质量 67.15
+  - 主题摘要：XYZToken is a community-driven token focused on decentralized finance and DeFi innovation. It aims to empower users through transparent governance and innovative projects like sta…
+  - 资金 100.00 / 广度 76.58 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.11，其中已确认叙事 1 个。
-- Yi He's One-Year Work Reflection 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Levilet 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.59，其中已确认叙事 0 个。
+- Javier Olivan Suggests 'Andy' for Bull 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Ansem Requests Pump.fun Chart 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- The Pudgy Penguin | 质量 82.89 | 可交易性 100.00 | 风险 低
-- Cupsey | 质量 79.55 | 可交易性 100.00 | 风险 低
-- Yi He's One-Year Work Reflection | 质量 77.89 | 可交易性 100.00 | 风险 低
-- PUMPLON MUSK | 质量 77.52 | 可交易性 100.00 | 风险 低
-- CEO Duan Xiaomin Returns | 质量 77.49 | 可交易性 100.00 | 风险 低
-- Zigzag Oracle | 质量 74.68 | 可交易性 100.00 | 风险 低
-- Flap 🦋 Bull Market Sentiment | 质量 74.33 | 可交易性 100.00 | 风险 低
-- Levilet | 质量 74.24 | 可交易性 100.00 | 风险 低
-- Dani🌍 Discusses PCAT Token | 质量 73.56 | 可交易性 100.00 | 风险 低
-- Alleged $ANSEMBOT Meme | 质量 72.69 | 可交易性 90.42 | 风险 低
+- The Pudgy Penguin | 质量 81.34 | 可交易性 100.00 | 风险 低
+- Ansem Requests Pump.fun Chart | 质量 79.25 | 可交易性 99.83 | 风险 低
+- Ansem Shares Article on Bulls | 质量 78.13 | 可交易性 100.00 | 风险 低
+- Ansem Shares X Article | 质量 75.50 | 可交易性 100.00 | 风险 低
+- CEO Duan Xiaomin Returns | 质量 75.48 | 可交易性 100.00 | 风险 低
+- Alleged Nietzschean Bull Meme | 质量 75.17 | 可交易性 100.00 | 风险 低
+- WallStreetBull | 质量 75.17 | 可交易性 100.00 | 风险 低
+- Bul Mentions $Bull Token | 质量 75.17 | 可交易性 100.00 | 风险 低
+- Pump.fun Onboarding | 质量 75.11 | 可交易性 100.00 | 风险 低
+- Dani🌍 Discusses PCAT Token | 质量 74.77 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged $ANSEMBOT Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Dani🌍 Discusses PCAT Token | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- XYZToken | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- CZ | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TCC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- ₿en Todar | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CZ | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 那个男人 | BSC | 看多 | 新鲜度 100.00 | CEO Duan Xiaomin Returns
 - Freedom of meme | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LUCA | Solana | 看多 | 新鲜度 100.00 | The Pudgy Penguin
 - BULLTARDIO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bcat | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PUMPLON | Solana | 看多 | 新鲜度 100.00 | PUMPLON MUSK
 - PUMPLON | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SAPIJIJU | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PUMPLON | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Levilet（Solana，分数 84.44）
-2. 共振最强代币：CZ（BSC，共振 100.0）
-3. 记忆层变化：Levilet 当前为“新出现”
+1. 当前最强叙事：Ansem Requests Pump.fun Chart（Solana，分数 87.74）
+2. 共振最强代币：CUPSEY（Solana，共振 100.0）
+3. 记忆层变化：Ansem Requests Pump.fun Chart 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-07-07)
 #Binance #NarrativeOS #OpenClaw
