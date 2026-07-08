@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-08T22:50:33.438798+00:00
+- 生成时间：2026-07-08T23:55:35.504404+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Four.meme-華語 Posts Boop Meme，所在链为 BSC，叙事强度 80.12。
-- 当前平均叙事强度为 76.33，其中已确认叙事 0 个。
+- 当前最强叙事是 Whale Discusses Loom Token History，所在链为 Solana，叙事强度 81.64。
+- 当前平均叙事强度为 77.27，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 CZ，来自 BSC，共振分数 100.0。
-- 记忆层显示 Bullsino 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 GOTCHA，伪叙事风险 47.23。
+- 记忆层显示 Hood Cupsey 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Cash Bull Token，伪叙事风险 47.79。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-09)。
 
 ## 叙事雷达
 
-- Four.meme-華語 Posts Boop Meme | BSC | 加速中 | 强度 80.12 | 质量 80.03
-  - 主题摘要：According to Four.meme-華語's post, the author shared a Meme image featuring the text "Boop~！". The post references the BOOP token but contains no further details regarding its util…
-  - 资金 100.00 / 广度 86.70 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Whale Discusses Loom Token History | Solana | 加速中 | 强度 80.11 | 质量 80.00
+- Whale Discusses Loom Token History | Solana | 加速中 | 强度 81.64 | 质量 79.97
   - 主题摘要：According to LexLuthor's post, the author shared a quoted tweet discussing the history of the Loom token on Solana, noting its previous association with Robinhood and its original…
-  - 资金 100.00 / 广度 88.70 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.60 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bullsino | Solana | 降温中 | 强度 79.62 | 质量 69.03
-  - 主题摘要：BULLSINO draws inspiration from the frenzy of bull markets and casino culture, symbolized by a mascot representing wealth and luck. Its rapid spread is fueled by crypto speculator…
-  - 资金 100.00 / 广度 63.22 / 确认 9.36 / 脆弱性 14.00
+- Four.meme-華語 Posts Boop Meme | BSC | 加速中 | 强度 81.27 | 质量 80.04
+  - 主题摘要：According to Four.meme-華語's post, the author shared a Meme image featuring the text "Boop~！". The post references the BOOP token but contains no further details regarding its util…
+  - 资金 100.00 / 广度 86.73 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Hood Cupsey | Solana | 降温中 | 强度 80.37 | 质量 72.33
+  - 主题摘要：Multiple tokens named 「HOODSEY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 92.04 / 广度 74.23 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- He Yi: BNB Memes Deserve Better Aesthetics | BSC | 加速中 | 强度 78.87 | 质量 78.82
-  - 主题摘要：Binance联合创始人何一（He Yi）在回复社区用户时，强调她对Meme代币没有偏见，但直言BNB Chain上的Meme项目需要提升“审美”。这一观点引发了社区对于当前Meme项目质量及设计水平的讨论与争议。
-  - 资金 100.00 / 广度 85.32 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binface Coin | Solana | 加速中 | 强度 77.97 | 质量 73.30
-  - 主题摘要：Binface Coin features a futuristic robot-like character in its logo, reflecting its AI-driven approach. The token aims to revolutionize decentralized finance through AI-powered tr…
-  - 资金 100.00 / 广度 70.37 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- beluga | Solana | 加速中 | 强度 77.83 | 质量 63.24
-  - 主题摘要：beluga token features a white cat with distinctive black markings in its logo, reflecting its name. The token appears to be inspired by cat-themed cryptocurrencies, positioning it…
-  - 资金 100.00 / 广度 81.10 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GOTCHA | Solana | 点火期 | 强度 77.18 | 质量 75.19
+- GOTCHA | Solana | 点火期 | 强度 79.45 | 质量 75.55
   - 主题摘要：Multiple tokens named 「GOTCHA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.50 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.69 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged BATON Meme Image | Solana | 加速中 | 强度 76.98 | 质量 63.78
-  - 主题摘要：According to bagwalk's post, the user shared a link to an article discussing the BATON token (dog wif baton). The post directs attention to this specific cryptocurrency asset with…
-  - 资金 100.00 / 广度 78.57 / 确认 23.76 / 脆弱性 14.00
+- Binface Coin | Solana | 加速中 | 强度 79.43 | 质量 72.17
+  - 主题摘要：Binface Coin features a futuristic robot-like character in its logo, reflecting its AI-driven approach. The token aims to revolutionize decentralized finance through AI-powered tr…
+  - 资金 100.00 / 广度 70.19 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- mert's Emotional Reaction | Solana | 加速中 | 强度 76.65 | 质量 71.58
-  - 主题摘要：According to mert's post, the author expressed a strong emotional reaction, indicated by a crying emoji, in response to content from user @boxbox_32. The post serves as a brief, s…
-  - 资金 100.00 / 广度 85.16 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- koop Publishes Narrative Analysis Article | Solana | 降温中 | 强度 76.64 | 质量 65.65
-  - 主题摘要：According to koop's post, the author shares a link to an article analyzing current market narratives. The post encourages readers to check the author's highlights for further cont…
-  - 资金 100.00 / 广度 77.01 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- bananacat | BSC | 加速中 | 强度 75.39 | 质量 61.98
-  - 主题摘要：Bananacat is a meme token inspired by the viral 'Banana Cat' internet meme featuring a cat in a banana costume. The token embraces the playful, quirky nature of internet culture,…
-  - 资金 100.00 / 广度 66.59 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged WoW Pepe Meme | BSC | 加速中 | 强度 75.26 | 质量 69.25
-  - 主题摘要：According to NIKITA's post, World of Warcraft is allegedly adding a 'Pepe' companion to player housing in patch 12.1, allowing players to place the item and have it ride on their…
-  - 资金 100.00 / 广度 67.29 / 确认 28.08 / 脆弱性 44.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 千里马 | BSC | 加速中 | 强度 75.17 | 质量 64.03
+- 千里马 | BSC | 加速中 | 强度 78.27 | 质量 64.28
   - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.45 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.61 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mars Coin | BSC | 加速中 | 强度 73.15 | 质量 57.48
-  - 主题摘要：CZ stated that it appears a MarsCoin will be created, asserting that its emergence is inevitable based on foresight. This comment references the token named MarsCoin. The informat…
-  - 资金 100.00 / 广度 68.07 / 确认 24.48 / 脆弱性 14.00
+- He Yi: BNB Memes Deserve Better Aesthetics | BSC | 加速中 | 强度 77.25 | 质量 78.87
+  - 主题摘要：Binance联合创始人何一（He Yi）在回复社区用户时，强调她对Meme代币没有偏见，但直言BNB Chain上的Meme项目需要提升“审美”。这一观点引发了社区对于当前Meme项目质量及设计水平的讨论与争议。
+  - 资金 100.00 / 广度 85.49 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Cash Bull Token | Solana | 点火期 | 强度 75.24 | 质量 71.00
+  - 主题摘要：According to NIKITA's post, Ansem and Cashcat are currently in a close competition, with their rankings flipping back and forth. NIKITA identifies these two as the leading perform…
+  - 资金 100.00 / 广度 91.09 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged WoW Pepe Meme | BSC | 加速中 | 强度 74.90 | 质量 66.85
+  - 主题摘要：According to NIKITA's post, World of Warcraft is allegedly adding a 'Pepe' companion to player housing in patch 12.1, allowing players to place the item and have it ride on their…
+  - 资金 100.00 / 广度 67.19 / 确认 28.08 / 脆弱性 34.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He's Simplicity | BSC | 加速中 | 强度 74.78 | 质量 72.80
+  - 主题摘要：Binance联合创始人何一回复了一条包含链接的推文，仅使用了“大道至简”四个字。这种极简主义的哲学表达在充满噪音的加密社区中显得独特，但缺乏具体的Meme元素或争议点，难以直接转化为具有传播力的代币叙事。
+  - 资金 100.00 / 广度 82.11 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Whale Discusses Bullcat | Solana | 加速中 | 强度 74.57 | 质量 62.45
+  - 主题摘要：According to Whale's post, the tokens Black Bull and Cashcat are both at a 100m PVP. Whale identifies these as the biggest runners of the year and describes the Chillhouse as the…
+  - 资金 100.00 / 广度 77.60 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- mert's Emotional Reaction | Solana | 加速中 | 强度 74.16 | 质量 70.68
+  - 主题摘要：According to mert's post, the author expressed a strong emotional reaction, indicated by a crying emoji, in response to content from user @boxbox_32. The post serves as a brief, s…
+  - 资金 100.00 / 广度 85.28 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- NIGGABULL | Solana | 降温中 | 强度 73.32 | 质量 59.50
+  - 主题摘要：NIGGABULL is a meme token inspired by the bull market narrative, featuring a green bull logo with a KFC chicken sandwich. The token's name and imagery play on the 'hood' culture,…
+  - 资金 100.00 / 广度 68.42 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- bananacat | BSC | 加速中 | 强度 73.12 | 质量 62.28
+  - 主题摘要：Bananacat is a meme token inspired by the viral 'Banana Cat' internet meme featuring a cat in a banana costume. The token embraces the playful, quirky nature of internet culture,…
+  - 资金 100.00 / 广度 70.37 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.33，其中已确认叙事 0 个。
-- beluga 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Bullsino 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.27，其中已确认叙事 0 个。
+- Alleged Cash Bull Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Hood Cupsey 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Four.meme-華語 Posts Boop Meme | 质量 80.03 | 可交易性 100.00 | 风险 低
-- Whale Discusses Loom Token History | 质量 80.00 | 可交易性 100.00 | 风险 低
-- He Yi: BNB Memes Deserve Better Aesthetics | 质量 78.82 | 可交易性 100.00 | 风险 低
-- GOTCHA | 质量 75.19 | 可交易性 100.00 | 风险 低
-- Binface Coin | 质量 73.30 | 可交易性 100.00 | 风险 低
-- mert's Emotional Reaction | 质量 71.58 | 可交易性 76.02 | 风险 低
-- Alleged WoW Pepe Meme | 质量 69.25 | 可交易性 100.00 | 风险 高
-- Bullsino | 质量 69.03 | 可交易性 100.00 | 风险 低
-- koop Publishes Narrative Analysis Article | 质量 65.65 | 可交易性 74.97 | 风险 低
-- 千里马 | 质量 64.03 | 可交易性 57.02 | 风险 低
+- Four.meme-華語 Posts Boop Meme | 质量 80.04 | 可交易性 100.00 | 风险 低
+- Whale Discusses Loom Token History | 质量 79.97 | 可交易性 100.00 | 风险 低
+- He Yi: BNB Memes Deserve Better Aesthetics | 质量 78.87 | 可交易性 100.00 | 风险 低
+- GOTCHA | 质量 75.55 | 可交易性 100.00 | 风险 低
+- Yi He's Simplicity | 质量 72.80 | 可交易性 100.00 | 风险 低
+- Hood Cupsey | 质量 72.33 | 可交易性 100.00 | 风险 低
+- Binface Coin | 质量 72.17 | 可交易性 100.00 | 风险 低
+- Alleged Cash Bull Token | 质量 71.00 | 可交易性 100.00 | 风险 低
+- mert's Emotional Reaction | 质量 70.68 | 可交易性 72.88 | 风险 低
+- Alleged WoW Pepe Meme | 质量 66.85 | 可交易性 100.00 | 风险 高
 
 ## 伪叙事风险
 
-- GOTCHA | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Cash Bull Token | 风险 47.79 | 原因：流动性偏薄
+- GOTCHA | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -102,12 +103,12 @@
 - CZ | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Freedom of meme | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GMC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 大道至简 | BSC | 看多 | 新鲜度 100.00 | Yi He's Simplicity
 - ₿en Todar | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LOOM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CashCow | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - OS | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Crash | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BRIAN | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Four.meme-華語 Posts Boop Meme（BSC，分数 80.12）
+1. 当前最强叙事：Whale Discusses Loom Token History（Solana，分数 81.64）
 2. 共振最强代币：CZ（BSC，共振 100.0）
-3. 记忆层变化：Bullsino 当前为“新出现”
+3. 记忆层变化：Hood Cupsey 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-09)
 #Binance #NarrativeOS #OpenClaw
