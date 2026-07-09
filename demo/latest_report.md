@@ -1,102 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-09T22:53:06.844703+00:00
+- 生成时间：2026-07-09T23:54:54.405525+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Ansem Comments on BBC，所在链为 Solana，叙事强度 81.81。
-- 当前平均叙事强度为 77.03，其中已确认叙事 0 个。
+- 当前最强叙事是 Robinhood Original Name，所在链为 Solana，叙事强度 85.59。
+- 当前平均叙事强度为 81.03，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 OPN，来自 BSC，共振分数 100.0。
-- 记忆层显示 Ansemhood wif Hat 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Pump.fun Meme Coin，伪叙事风险 52.99。
+- 记忆层显示 SOLCASH 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance 9YA Special: Mine on Binance Pool & Share 4,000 USDC in Rewards!。
 
 ## 叙事雷达
 
-- Ansem Comments on BBC | Solana | 加速中 | 强度 81.81 | 质量 80.64
-  - 主题摘要：According to Ansem 🐂🀄️'s post, he replied to a user identifying as a soldier in the Black Bull Coin (BBC) Army with a dismissive comment. The interaction highlights community enga…
-  - 资金 100.00 / 广度 90.86 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Robinhood Original Name | Solana | 点火期 | 强度 80.37 | 质量 77.48
+- Robinhood Original Name | Solana | 降温中 | 强度 85.59 | 质量 77.48
   - 主题摘要：According to Vlad Tenev's post, the original name for the Robinhood app was "Cash Cat". This information was shared in a quoted tweet highlighting the company's early branding his…
-  - 资金 100.00 / 广度 91.40 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged BBC Meme Coin Speculation | Solana | 加速中 | 强度 80.36 | 质量 78.80
-  - 主题摘要：According to TJR's post, the author speculates about a scenario where leaked personal content leads to the creation of a meme coin named 'black bull's cock' (BBC). This discussion…
-  - 资金 100.00 / 广度 84.70 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FINN Replies to Cat Question | Solana | 点火期 | 强度 80.27 | 质量 77.40
+  - 资金 100.00 / 广度 91.39 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- FINN Replies to Cat Question | Solana | 降温中 | 强度 85.33 | 质量 77.12
   - 主题摘要：According to FINN's post, FINN replied to a query regarding cats with an affirmative response. The content is a brief personal interaction without specific project details.
-  - 资金 100.00 / 广度 91.12 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Ansemhood wif Hat | Solana | 降温中 | 强度 75.32 | 质量 58.91
-  - 主题摘要：Multiple tokens named 「ANIF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.83 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.19 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 疯狂牛市驱动的双池分红社区GameFi | BSC | 加速中 | 强度 75.01 | 质量 67.73
+- SOLCASH | Solana | 降温中 | 强度 84.69 | 质量 74.69
+  - 主题摘要：Multiple tokens named 「SOLCASH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.09 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ansem Comments on BBC | Solana | 加速中 | 强度 79.86 | 质量 80.64
+  - 主题摘要：According to Ansem 🐂🀄️'s post, he replied to a user identifying as a soldier in the Black Bull Coin (BBC) Army with a dismissive comment. The interaction highlights community enga…
+  - 资金 100.00 / 广度 90.84 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Bullmoji | Solana | 降温中 | 强度 78.92 | 质量 71.36
+  - 主题摘要：Multiple tokens named 「Bullji」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.01 / 确认 9.36 / 脆弱性 15.06
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged BBC Meme Coin Speculation | Solana | 加速中 | 强度 78.58 | 质量 78.82
+  - 主题摘要：According to TJR's post, the author speculates about a scenario where leaked personal content leads to the creation of a meme coin named 'black bull's cock' (BBC). This discussion…
+  - 资金 100.00 / 广度 84.79 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Unipcs Claims Robinhood Paid for Bullish Tweet | Solana | 降温中 | 强度 78.52 | 质量 67.22
+  - 主题摘要：According to Unipcs (aka 'Bonk Guy') 🎒's post, the author claims to have received payment from Robinhood for posting bullish content regarding its blockchain. This statement is ma…
+  - 资金 100.00 / 广度 73.33 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 疯狂牛市驱动的双池分红社区GameFi | BSC | 加速中 | 强度 76.73 | 质量 67.81
   - 主题摘要：According to the post, a project named 'BNB Ranch' claims to have officially launched on the FLAP platform. The post provides a contract address and describes it as an on-chain ra…
-  - 资金 100.00 / 广度 74.35 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.37 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Satoshi on Bitcoin Scarcity | Solana | 降温中 | 强度 74.66 | 质量 64.78
+- Satoshi on Bitcoin Scarcity | Solana | 降温中 | 强度 76.73 | 质量 68.29
   - 主题摘要：According to Cointelegraph's post, the account highlighted a historical statement by Satoshi Nakamoto regarding Bitcoin's scarcity, noting that the asset becomes more expensive as…
-  - 资金 100.00 / 广度 55.47 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 60.77 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged BBC Launch of Big Black Chain | Solana | 加速中 | 强度 71.99 | 质量 64.84
-  - 主题摘要：According to BBC's post, the Big Black Chain (BBC) is launched as a 1:1 fork of the Agave validator client, described as Solana's canonical Rust node. The post highlights technica…
-  - 资金 100.00 / 广度 79.39 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 吃最好的 | BSC | 降温中 | 强度 71.75 | 质量 55.96
+- 吃最好的 | BSC | 降温中 | 强度 72.40 | 质量 56.18
   - 主题摘要：Multiple tokens named 「吃最好的」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.42 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.54 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Four.meme-華語 Posts Boop Meme | BSC | 加速中 | 强度 71.66 | 质量 70.40
-  - 主题摘要：According to Four.meme-華語's post, the user shared a Meme image featuring the text "Boop~！". The post references the BOOP token but contains no further details regarding its utilit…
-  - 资金 100.00 / 广度 79.42 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Pump.fun Meme Coin | Solana | 点火期 | 强度 71.43 | 质量 67.61
-  - 主题摘要：According to json's post, the author defends the Pump.fun platform against critics, referring to it as a 'cockroach' that will survive despite doubts. The post implies the platfor…
-  - 资金 100.00 / 广度 84.33 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Javier Olivan Suggests 'Andy' for Bull | BSC | 加速中 | 强度 70.25 | 质量 64.45
+- Javier Olivan Suggests 'Andy' for Bull | BSC | 加速中 | 强度 71.72 | 质量 66.03
   - 主题摘要：According to Karl's post, he questions the allocation of the ANDY token's supply, suggesting that 70% of the supply should be sent to the wallet of the author named Matt.
-  - 资金 100.00 / 广度 89.02 / 确认 35.28 / 脆弱性 39.46
+  - 资金 100.00 / 广度 89.07 / 确认 35.28 / 脆弱性 39.46
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 千里马 | BSC | 加速中 | 强度 69.93 | 质量 57.98
+- 千里马 | BSC | 加速中 | 强度 71.34 | 质量 58.06
   - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.76 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.56 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 蝴蝶平台首个虾仁生态币 | BSC | 加速中 | 强度 68.77 | 质量 55.55
-  - 主题摘要：According to Sui Ping's post, Sui Ping allegedly launched the 'Yongsheng' ($永生) token on the BNB chain via KibiBot. The token is described as the first shrimp-themed ecological co…
-  - 资金 100.00 / 广度 71.73 / 确认 20.16 / 脆弱性 14.00
+- Four.meme-華語 Posts Boop Meme | BSC | 加速中 | 强度 71.24 | 质量 67.97
+  - 主题摘要：According to Four.meme-華語's post, the user shared a Meme image featuring the text "Boop~！". The post references the BOOP token but contains no further details regarding its utilit…
+  - 资金 100.00 / 广度 79.24 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- bananacat | BSC | 加速中 | 强度 68.51 | 质量 54.83
+  - 主题摘要：According to Doge RH's post, the Bananacat token on the BNB Chain is reportedly performing well, with a market cap exceeding 7 million. The author attributes this trend to a viral…
+  - 资金 100.00 / 广度 74.71 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.03，其中已确认叙事 0 个。
-- Alleged Pump.fun Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Ansemhood wif Hat 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.03，其中已确认叙事 0 个。
+- bananacat 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Robinhood Original Name 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Ansem Comments on BBC | 质量 80.64 | 可交易性 100.00 | 风险 低
-- Alleged BBC Meme Coin Speculation | 质量 78.80 | 可交易性 100.00 | 风险 低
+- Alleged BBC Meme Coin Speculation | 质量 78.82 | 可交易性 100.00 | 风险 低
 - Robinhood Original Name | 质量 77.48 | 可交易性 100.00 | 风险 低
-- FINN Replies to Cat Question | 质量 77.40 | 可交易性 100.00 | 风险 低
-- Four.meme-華語 Posts Boop Meme | 质量 70.40 | 可交易性 100.00 | 风险 低
-- 疯狂牛市驱动的双池分红社区GameFi | 质量 67.73 | 可交易性 73.98 | 风险 低
-- Alleged Pump.fun Meme Coin | 质量 67.61 | 可交易性 100.00 | 风险 低
-- Alleged BBC Launch of Big Black Chain | 质量 64.84 | 可交易性 58.79 | 风险 低
-- Satoshi on Bitcoin Scarcity | 质量 64.78 | 可交易性 93.60 | 风险 低
-- Javier Olivan Suggests 'Andy' for Bull | 质量 64.45 | 可交易性 59.32 | 风险 低
+- FINN Replies to Cat Question | 质量 77.12 | 可交易性 100.00 | 风险 低
+- SOLCASH | 质量 74.69 | 可交易性 100.00 | 风险 低
+- Bullmoji | 质量 71.36 | 可交易性 100.00 | 风险 低
+- Satoshi on Bitcoin Scarcity | 质量 68.29 | 可交易性 100.00 | 风险 低
+- Four.meme-華語 Posts Boop Meme | 质量 67.97 | 可交易性 100.00 | 风险 低
+- 疯狂牛市驱动的双池分红社区GameFi | 质量 67.81 | 可交易性 74.25 | 风险 低
+- Unipcs Claims Robinhood Paid for Bullish Tweet | 质量 67.22 | 可交易性 83.86 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Pump.fun Meme Coin | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Robinhood Original Name | 风险 47.79 | 原因：流动性偏薄
-- FINN Replies to Cat Question | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -135,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Ansem Comments on BBC（Solana，分数 81.81）
+1. 当前最强叙事：Robinhood Original Name（Solana，分数 85.59）
 2. 共振最强代币：OPN（BSC，共振 100.0）
-3. 记忆层变化：Ansemhood wif Hat 当前为“新出现”
+3. 记忆层变化：SOLCASH 当前为“新出现”
 4. 最新官方催化：Binance 9YA Special: Mine on Binance Pool & Share 4,000 USDC in Rewards!
 #Binance #NarrativeOS #OpenClaw
