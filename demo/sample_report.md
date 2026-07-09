@@ -1,98 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-09T11:41:01.619941+00:00
+- 生成时间：2026-07-09T14:12:46.952578+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 ok wif hat，所在链为 Solana，叙事强度 87.79。
-- 当前平均叙事强度为 80.86，其中已确认叙事 0 个。
+- 当前最强叙事是 Gosh Discusses DIH Trading Strategy，所在链为 Solana，叙事强度 85.03。
+- 当前平均叙事强度为 81.21，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 疯狂牛市驱动的双池分红社区GameFi 当前处于“新出现”状态。
-- 最新官方催化来自 新币上新：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-09)。
+- 记忆层显示 Gosh Discusses DIH Trading Strategy 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged MTGA Token Launch，伪叙事风险 47.79。
+- 最新官方催化来自 最新活动：Binance 9YA Special: Mine on Binance Pool & Share 4,000 USDC in Rewards!。
 
 ## 叙事雷达
 
-- ok wif hat | Solana | 降温中 | 强度 87.79 | 质量 77.35
-  - 主题摘要：Multiple tokens named 「okwif」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.98 / 确认 9.36 / 脆弱性 0.00
+- Gosh Discusses DIH Trading Strategy | Solana | 降温中 | 强度 85.03 | 质量 74.89
+  - 主题摘要：According to Gosh's post, Gosh allegedly launched a token named Ansem, claiming it is optimized for low float trading on Robinhood to compete with DIH. Gosh stated that 65% of the…
+  - 资金 100.00 / 广度 82.78 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Clopy | Solana | 降温中 | 强度 87.17 | 质量 78.34
-  - 主题摘要：According to Clopy's post, the $CLOPY token is introduced as a representation of an anxious yet lucky cyclope in the crypto world. The narrative describes the token as thriving on…
-  - 资金 100.00 / 广度 94.26 / 确认 9.36 / 脆弱性 14.00
+- d Comments on Vlad's Bonk Meme Retweet | Solana | 降温中 | 强度 83.13 | 质量 71.67
+  - 主题摘要：Multiple tokens named 「BIH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.36 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GOTCHA | Solana | 降温中 | 强度 83.94 | 质量 76.81
-  - 主题摘要：Multiple tokens named 「GOTCHA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.90 / 确认 16.56 / 脆弱性 14.00
+- Vlad Tenev Shares Dog-Friendly Meme | Solana | 降温中 | 强度 82.84 | 质量 71.18
+  - 主题摘要：Multiple tokens named 「DIH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.28 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- EVERMEADOW | Solana | 加速中 | 强度 80.69 | 质量 78.19
-  - 主题摘要：Multiple tokens named 「EVERMEADOW」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.85 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 疯狂牛市驱动的双池分红社区GameFi | BSC | 加速中 | 强度 80.16 | 质量 72.61
-  - 主题摘要：According to the post, a project named 'BNB Ranch' claims to have officially launched on the FLAP platform. The post provides a contract address and describes it as an on-chain ra…
-  - 资金 100.00 / 广度 75.15 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Four.meme-華語 Posts Boop Meme | BSC | 加速中 | 强度 79.64 | 质量 80.13
-  - 主题摘要：According to Four.meme-華語's post, the user shared a Meme image featuring the text "Boop~！". The post references the BOOP token but contains no further details regarding its utilit…
-  - 资金 100.00 / 广度 87.03 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged GEORGE Token Launch | Solana | 加速中 | 强度 77.81 | 质量 71.52
+- Alleged MTGA Token Launch | Solana | 点火期 | 强度 81.07 | 质量 75.68
+  - 主题摘要：Multiple tokens named 「MTGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.39 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged GEORGE Token Launch | Solana | 加速中 | 强度 80.20 | 质量 71.61
   - 主题摘要：According to Art V's post, a link associated with the token GEORGE (The Faces of George Costanza) was shared. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 72.42 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.58 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AVAJAK | Solana | 降温中 | 强度 76.94 | 质量 67.77
-  - 主题摘要：AVAJAK is a community-driven token inspired by the ancient Buddhist concept of Avalokiteshvara, the Bodhisattva of Compassion. The token's logo features a serene figure in traditi…
-  - 资金 100.00 / 广度 79.09 / 确认 16.56 / 脆弱性 14.00
+- Alleged Dab67 Meme | Solana | 加速中 | 强度 79.82 | 质量 73.12
+  - 主题摘要：According to mememang's post, a Meme image titled 'GENNY' associated with the Dab67 token is circulating on TikTok, reportedly achieving 26 million views in one day. The author cl…
+  - 资金 100.00 / 广度 79.82 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Bull In Hood Meme | Solana | 降温中 | 强度 79.03 | 质量 64.44
+  - 主题摘要：According to ゆきな's post, a Meme image featuring a dog in a hood flying on Robin Hood is shared, referencing the token $BIH (Bull In Hood). The post also quotes a guide on the Robi…
+  - 资金 100.00 / 广度 82.16 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Whale Discusses Bullcat | Solana | 加速中 | 强度 76.67 | 质量 63.70
-  - 主题摘要：According to Whale's post, the tokens Black Bull and Cashcat are both at a 100m PVP. Whale identifies these as the biggest runners of the year and describes the Chillhouse as the…
-  - 资金 100.00 / 广度 79.14 / 确认 24.48 / 脆弱性 14.00
+- Clopy | Solana | 降温中 | 强度 78.53 | 质量 68.09
+  - 主题摘要：According to Clopy's post, the $CLOPY token is introduced as a representation of an anxious yet lucky cyclope in the crypto world. The narrative describes the token as thriving on…
+  - 资金 100.00 / 广度 94.90 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 疯狂牛市驱动的双池分红社区GameFi | BSC | 加速中 | 强度 75.59 | 质量 70.56
+  - 主题摘要：According to the post, a project named 'BNB Ranch' claims to have officially launched on the FLAP platform. The post provides a contract address and describes it as an on-chain ra…
+  - 资金 100.00 / 广度 75.33 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- He Yi: BNB Memes Deserve Better Aesthetics | BSC | 加速中 | 强度 76.27 | 质量 75.70
+- He Yi: BNB Memes Deserve Better Aesthetics | BSC | 加速中 | 强度 74.58 | 质量 75.00
   - 主题摘要：Binance联合创始人何一（He Yi）在回复社区用户时，强调她对Meme代币没有偏见，但直言BNB Chain上的Meme项目需要提升“审美”。这一观点引发了社区对于当前Meme项目质量及设计水平的讨论与争议。
-  - 资金 100.00 / 广度 85.89 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.87 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged ROBINBULL Airdrop | Solana | 降温中 | 强度 75.91 | 质量 60.08
-  - 主题摘要：According to blkasdfghdev's post, the user allegedly launched an airdrop of $ROBINBULL tokens to wallets with balances under $20. This information is unverified. Please exercise c…
-  - 资金 100.00 / 广度 76.19 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 千里马 | BSC | 加速中 | 强度 75.70 | 质量 64.36
-  - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.49 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- bananacat | BSC | 加速中 | 强度 75.49 | 质量 64.27
+- bananacat | BSC | 加速中 | 强度 73.86 | 质量 64.34
   - 主题摘要：According to Doge RH's post, the Bananacat token on the BNB Chain is reportedly performing well, with a market cap exceeding 7 million. The author attributes this trend to a viral…
-  - 资金 100.00 / 广度 74.51 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.02 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Javier Olivan Suggests 'Andy' for Bull | BSC | 加速中 | 强度 70.23 | 质量 65.49
+- 千里马 | BSC | 加速中 | 强度 73.16 | 质量 61.51
+  - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.85 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Four.meme-華語 Posts Boop Meme | BSC | 加速中 | 强度 71.04 | 质量 66.70
+  - 主题摘要：According to Four.meme-華語's post, the user shared a Meme image featuring the text "Boop~！". The post references the BOOP token but contains no further details regarding its utilit…
+  - 资金 100.00 / 广度 83.17 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Javier Olivan Suggests 'Andy' for Bull | BSC | 加速中 | 强度 70.19 | 质量 64.84
   - 主题摘要：According to Karl's post, he questions the allocation of the ANDY token's supply, suggesting that 70% of the supply should be sent to the wallet of the author named Matt.
-  - 资金 100.00 / 广度 92.06 / 确认 35.28 / 脆弱性 39.47
+  - 资金 100.00 / 广度 90.27 / 确认 35.28 / 脆弱性 39.47
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.86，其中已确认叙事 0 个。
-- 疯狂牛市驱动的双池分红社区GameFi 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- ok wif hat 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.21，其中已确认叙事 0 个。
+- Alleged MTGA Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Gosh Discusses DIH Trading Strategy 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Four.meme-華語 Posts Boop Meme | 质量 80.13 | 可交易性 100.00 | 风险 低
-- Clopy | 质量 78.34 | 可交易性 100.00 | 风险 低
-- EVERMEADOW | 质量 78.19 | 可交易性 100.00 | 风险 低
-- ok wif hat | 质量 77.35 | 可交易性 100.00 | 风险 低
-- GOTCHA | 质量 76.81 | 可交易性 100.00 | 风险 低
-- He Yi: BNB Memes Deserve Better Aesthetics | 质量 75.70 | 可交易性 100.00 | 风险 低
-- 疯狂牛市驱动的双池分红社区GameFi | 质量 72.61 | 可交易性 88.92 | 风险 低
-- Alleged GEORGE Token Launch | 质量 71.52 | 可交易性 88.02 | 风险 低
-- AVAJAK | 质量 67.77 | 可交易性 74.66 | 风险 低
-- Javier Olivan Suggests 'Andy' for Bull | 质量 65.49 | 可交易性 58.76 | 风险 低
+- Alleged MTGA Token Launch | 质量 75.68 | 可交易性 100.00 | 风险 低
+- He Yi: BNB Memes Deserve Better Aesthetics | 质量 75.00 | 可交易性 100.00 | 风险 低
+- Gosh Discusses DIH Trading Strategy | 质量 74.89 | 可交易性 100.00 | 风险 低
+- Alleged Dab67 Meme | 质量 73.12 | 可交易性 85.96 | 风险 低
+- d Comments on Vlad's Bonk Meme Retweet | 质量 71.67 | 可交易性 90.69 | 风险 低
+- Alleged GEORGE Token Launch | 质量 71.61 | 可交易性 88.69 | 风险 低
+- Vlad Tenev Shares Dog-Friendly Meme | 质量 71.18 | 可交易性 89.13 | 风险 低
+- 疯狂牛市驱动的双池分红社区GameFi | 质量 70.56 | 可交易性 82.43 | 风险 低
+- Clopy | 质量 68.09 | 可交易性 94.50 | 风险 低
+- Four.meme-華語 Posts Boop Meme | 质量 66.70 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- Alleged MTGA Token Launch | 风险 47.79 | 原因：流动性偏薄
+- Clopy | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -109,14 +112,14 @@
 
 ## 官方催化
 
+- [Binance 9YA Special: Mine on Binance Pool & Share 4,000 USDC in Rewards!](https://www.binance.com/zh-CN/support/announcement/detail/8a30c3d96b024789a5802e95babcd816)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Pool is excited to celebrate Binance 9th Year Anniversar…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-09)](https://www.binance.com/zh-CN/support/announcement/detail/84ad610bdd284699bc451b7baaa0ff7d)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
 - [Binance 9th Anniversary VIP Campaign: Upgrade, Compete, and Earn Exclusive VIP Rewards](https://www.binance.com/zh-CN/support/announcement/detail/a8201185f12c4ef6a26ba8fca24e2f40)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is turning 9, and our global community has been at the h…
 - [OPN Trading Tournament: Trade to Share Up to 5,000,000 OPN Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/5abba4a485074f469de641f6cad175e6)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to launch a Opinion (OPN) Trading Tournament…
-- [Extension to the USD1 Airdrop Campaign (2026-07-10)](https://www.binance.com/zh-CN/support/announcement/detail/3373ca75019440c58535683d42229d79)
-  - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a general announcement and marketing commun…
 - [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-09)](https://www.binance.com/zh-CN/support/announcement/detail/83351356ed4c4c80ab9a609e77dd20f2)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve users’ trading experience, Binance will ad…
 - [Binance Charity to Donate $35,000 in USDT to Support Users Affected by the Ghana Floods](https://www.binance.com/zh-CN/support/announcement/detail/aedd6ae28558413a99f260bc66b35311)
@@ -131,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：ok wif hat（Solana，分数 87.79）
+1. 当前最强叙事：Gosh Discusses DIH Trading Strategy（Solana，分数 85.03）
 2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：疯狂牛市驱动的双池分红社区GameFi 当前为“新出现”
-4. 最新官方催化：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-09)
+3. 记忆层变化：Gosh Discusses DIH Trading Strategy 当前为“新出现”
+4. 最新官方催化：Binance 9YA Special: Mine on Binance Pool & Share 4,000 USDC in Rewards!
 #Binance #NarrativeOS #OpenClaw
