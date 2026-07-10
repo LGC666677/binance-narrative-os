@@ -1,94 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-10T13:31:44.984609+00:00
+- 生成时间：2026-07-10T16:01:34.107997+00:00
 - 跟踪叙事：14
 - 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Toxic weast promotes Catcoin Meme，所在链为 Solana，叙事强度 84.55。
-- 当前平均叙事强度为 81.53，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 SLX，来自 BSC，共振分数 100.0。
-- 记忆层显示 The Bull Table 当前处于“新出现”状态。
-- 最新官方催化来自 最新活动：Join the 2026 Binance Wallet Football Trading Cup - U Trading Volume Campaign Season 3 and Win a Share of Up to 200,000 U Token Rewards。
+- 当前最强叙事是 LOL，所在链为 BSC，叙事强度 85.47。
+- 当前平均叙事强度为 74.69，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 CUPSEY，来自 Solana，共振分数 100.0。
+- 记忆层显示 Hexagonal UFO 当前处于“新出现”状态。
+- 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)。
 
 ## 叙事雷达
 
-- Toxic weast promotes Catcoin Meme | Solana | 已确认 | 强度 84.55 | 质量 80.36
-  - 主题摘要：According to Toxic weast's post, the author advocates for the rise of Catcoin within the current cat-themed meta, describing it as a simple meme intended to replicate past success…
-  - 资金 100.00 / 广度 95.47 / 确认 31.00 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Robinhood Original Name | Solana | 加速中 | 强度 84.21 | 质量 82.74
-  - 主题摘要：According to Vlad Tenev's post, the original name for Robinhood was "Cash Cat." This information was shared in a quoted tweet highlighting the company's early branding history.
-  - 资金 100.00 / 广度 98.38 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FINN Replies to Cat Question | Solana | 加速中 | 强度 83.95 | 质量 82.31
-  - 主题摘要：According to FINN's post, FINN replied to a query regarding cats with an affirmative response. The content is a brief personal interaction without specific project details.
-  - 资金 100.00 / 广度 96.94 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Solana Cat Meme Image Token | Solana | 已确认 | 强度 83.45 | 质量 78.95
-  - 主题摘要：According to Warkes's post, a token named Solcat was launched on Pump.fun, featuring a cat image originally from a GitHub repository. The project claims to route trading fees to t…
-  - 资金 100.00 / 广度 92.25 / 确认 31.00 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- LOL | BSC | 加速中 | 强度 80.92 | 质量 75.23
+- LOL | BSC | 加速中 | 强度 85.47 | 质量 75.50
   - 主题摘要：LOL token draws inspiration from the iconic 'LOL' internet meme, celebrating humor and community engagement. It aims to foster a playful ecosystem where users can share memes and…
-  - 资金 100.00 / 广度 72.81 / 确认 24.48 / 脆弱性 10.00
+  - 资金 100.00 / 广度 73.72 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Summer | BSC | 已确认 | 强度 80.31 | 质量 81.27
-  - 主题摘要：According to Mata__4444's post, a female icon is visible on the Binance Mobile app's support section. This observation suggests a potential interface update or specific branding e…
-  - 资金 100.00 / 广度 90.31 / 确认 28.08 / 脆弱性 24.00
+- Robinhood Original Name | Solana | 加速中 | 强度 83.64 | 质量 82.96
+  - 主题摘要：According to Vlad Tenev's post, the original name for Robinhood was "Cash Cat." This statement was made in a quoted tweet sharing this historical trivia about the company's brandi…
+  - 资金 100.00 / 广度 99.12 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FINN Replies to Cat Question | Solana | 加速中 | 强度 83.43 | 质量 82.54
+  - 主题摘要：According to FINN's post, FINN replied to a query regarding cats with an affirmative response. The content is a brief personal interaction without specific cryptocurrency or proje…
+  - 资金 100.00 / 广度 97.72 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Toxic weast promotes Catcoin Meme | Solana | 已确认 | 强度 81.46 | 质量 78.39
+  - 主题摘要：According to Toxic weast's post, the author advocates for the rise of Catcoin within the current cat-themed meta, describing it as a simple meme intended to replicate past success…
+  - 资金 100.00 / 广度 95.28 / 确认 31.00 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Unipcs Claims Robinhood Paid for Bullish Tweet | Solana | 加速中 | 强度 79.93 | 质量 75.90
+- Summer | BSC | 已确认 | 强度 81.21 | 质量 81.27
+  - 主题摘要：According to Mata__4444's post, a female icon is visible on the Binance Mobile app's support section. This observation suggests a potential interface update or specific branding e…
+  - 资金 100.00 / 广度 90.31 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Solana Cat Meme Image Token | Solana | 已确认 | 强度 80.45 | 质量 77.11
+  - 主题摘要：According to Warkes's post, a token named Solcat was launched on Pump.fun, featuring a cat image originally from a GitHub repository. The project claims to route trading fees to t…
+  - 资金 100.00 / 广度 92.08 / 确认 31.00 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Hexagonal UFO | Solana | 降温中 | 强度 80.03 | 质量 69.68
+  - 主题摘要：According to RT's post, a token named HexStarUFO is associated with a report on a deformed balloon-like UAP over the Atlantic. This information is unverified. Please exercise caut…
+  - 资金 100.00 / 广度 65.40 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Wif Normie | Solana | 降温中 | 强度 79.54 | 质量 70.78
+  - 主题摘要：WIFNORMIE is a meme token inspired by internet culture, featuring a cartoon character with a pink beanie and brown outfit. The token embraces a laid-back, community-driven approac…
+  - 资金 100.00 / 广度 69.06 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Unipcs Claims Robinhood Paid for Bullish Tweet | Solana | 加速中 | 强度 79.52 | 质量 76.34
   - 主题摘要：According to Unipcs (aka 'Bonk Guy') 🎒's post, the author claims to have received payment from Robinhood for posting bullish content regarding its blockchain. This statement is ma…
-  - 资金 100.00 / 广度 85.21 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.25 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Bull Table | Solana | 降温中 | 强度 79.81 | 质量 70.44
-  - 主题摘要：TABLESEM (The Bull Table) is a meme token inspired by the bull market metaphor. The logo features a bull with human-like features emerging from a table, symbolizing the fusion of…
-  - 资金 100.00 / 广度 67.92 / 确认 9.36 / 脆弱性 14.00
+- Mr. Pibbles Shares Mogcat Meme | Solana | 降温中 | 强度 77.48 | 质量 61.91
+  - 主题摘要：According to Mr. Pibbles's post, the user shared a Meme image celebrating 'kitten day' with the hashtag #mogcat. The post includes a quoted tweet reflecting on the long-term signi…
+  - 资金 100.00 / 广度 83.10 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Comments on BBC | Solana | 加速中 | 强度 78.77 | 质量 80.03
-  - 主题摘要：According to Ansem 🐂🀄️'s post, he replied to a user identifying as a soldier in the Black Bull Coin (BBC) Army with a dismissive comment. The interaction highlights community enga…
-  - 资金 100.00 / 广度 90.62 / 确认 23.76 / 脆弱性 24.00
+- GOALFI | BSC | 加速中 | 强度 74.14 | 质量 60.23
+  - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.15 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged BBC Meme Coin Speculation | Solana | 加速中 | 强度 77.59 | 质量 78.33
-  - 主题摘要：According to TJR's post, he speculated that if a specific individual leaked private images, a new Meme coin named 'black bull's cock' might be created and achieve significant mark…
-  - 资金 100.00 / 广度 83.69 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 疯狂牛市驱动的双池分红社区GameFi | BSC | 加速中 | 强度 73.43 | 质量 62.19
+- 疯狂牛市驱动的双池分红社区GameFi | BSC | 加速中 | 强度 70.57 | 质量 58.98
   - 主题摘要：According to the post, a project named 'BNB Ranch' claims to have officially launched on the FLAP platform. The post provides a contract address and describes it as an on-chain ra…
-  - 资金 100.00 / 广度 72.47 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.80 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged CZ-10B Token | BSC | 加速中 | 强度 69.43 | 质量 60.52
-  - 主题摘要：According to the post, the correct name for the token is CZ-10B. This information is unverified. Please exercise caution.
-  - 资金 96.86 / 广度 76.16 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 千里马 | BSC | 降温中 | 强度 68.14 | 质量 54.46
+- 千里马 | BSC | 降温中 | 强度 69.00 | 质量 56.70
   - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.99 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.33 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Four.meme-華語 Posts Boop Meme | BSC | 加速中 | 强度 68.06 | 质量 67.37
-  - 主题摘要：According to Four.meme-華語's post, the user shared a Meme image featuring the text "Boop~！". The post references the BOOP token but contains no further details regarding its utilit…
-  - 资金 100.00 / 广度 75.36 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Heart | BSC | 降温中 | 强度 67.78 | 质量 54.78
+  - 主题摘要：Binance Co-CEO Yi He liked a post highlighting Binance's dominance in exchange stablecoin reserves, symbolizing the exchange's strength and community support.
+  - 资金 100.00 / 广度 74.80 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.53，其中已确认叙事 2 个。
-- The Bull Table 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 74.69，其中已确认叙事 1 个。
+- GOALFI 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Hexagonal UFO 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Robinhood Original Name | 质量 82.74 | 可交易性 100.00 | 风险 低
-- FINN Replies to Cat Question | 质量 82.31 | 可交易性 100.00 | 风险 低
+- Robinhood Original Name | 质量 82.96 | 可交易性 100.00 | 风险 低
+- FINN Replies to Cat Question | 质量 82.54 | 可交易性 100.00 | 风险 低
 - Summer | 质量 81.27 | 可交易性 100.00 | 风险 低
-- Toxic weast promotes Catcoin Meme | 质量 80.36 | 可交易性 99.14 | 风险 低
-- Ansem Comments on BBC | 质量 80.03 | 可交易性 100.00 | 风险 低
-- Alleged Solana Cat Meme Image Token | 质量 78.95 | 可交易性 98.12 | 风险 低
-- Alleged BBC Meme Coin Speculation | 质量 78.33 | 可交易性 100.00 | 风险 低
-- Unipcs Claims Robinhood Paid for Bullish Tweet | 质量 75.90 | 可交易性 90.35 | 风险 低
-- LOL | 质量 75.23 | 可交易性 100.00 | 风险 低
-- The Bull Table | 质量 70.44 | 可交易性 100.00 | 风险 低
+- Toxic weast promotes Catcoin Meme | 质量 78.39 | 可交易性 97.50 | 风险 低
+- Alleged Solana Cat Meme Image Token | 质量 77.11 | 可交易性 96.52 | 风险 低
+- Unipcs Claims Robinhood Paid for Bullish Tweet | 质量 76.34 | 可交易性 90.79 | 风险 低
+- LOL | 质量 75.50 | 可交易性 100.00 | 风险 低
+- Wif Normie | 质量 70.78 | 可交易性 100.00 | 风险 低
+- Hexagonal UFO | 质量 69.68 | 可交易性 100.00 | 风险 低
+- Mr. Pibbles Shares Mogcat Meme | 质量 61.91 | 可交易性 53.77 | 风险 低
 
 ## 伪叙事风险
 
@@ -108,6 +109,8 @@
 
 ## 官方催化
 
+- [Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)](https://www.binance.com/zh-CN/support/announcement/detail/6fe9f6dc91544df88dc24ad41211feff)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
 - [Join the 2026 Binance Wallet Football Trading Cup - U Trading Volume Campaign Season 3 and Win a Share of Up to 200,000 U Token Rewards](https://www.binance.com/zh-CN/support/announcement/detail/fa33c5a0d08c4cfc92e237b4ccf79456)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet presents the Binance Wallet Football Tradin…
 - [Binance Alpha Trading Competition: Trade Billions Network (BILL) and Share $300K Worth of Rewards (2026-07-10)](https://www.binance.com/zh-CN/support/announcement/detail/6e011403a2884f3ebb2bc342e970440b)
@@ -124,14 +127,12 @@
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, To expand the range of trading choices offered on Binance Stocks and enhance users’ tr…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-09)](https://www.binance.com/zh-CN/support/announcement/detail/84ad610bdd284699bc451b7baaa0ff7d)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
-- [Binance Exchange Adds 10 bStocks Trading Pair(s) on Binance Spot - 2026-07-07](https://www.binance.com/zh-CN/support/announcement/detail/6a55706a042c4a7ebedc2a0899744088)
-  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are offered through an Approved Prospectus…
 
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Toxic weast promotes Catcoin Meme（Solana，分数 84.55）
-2. 共振最强代币：SLX（BSC，共振 100.0）
-3. 记忆层变化：The Bull Table 当前为“新出现”
-4. 最新官方催化：Join the 2026 Binance Wallet Football Trading Cup - U Trading Volume Campaign Season 3 and Win a Share of Up to 200,000 U Token Rewards
+1. 当前最强叙事：LOL（BSC，分数 85.47）
+2. 共振最强代币：CUPSEY（Solana，共振 100.0）
+3. 记忆层变化：Hexagonal UFO 当前为“新出现”
+4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)
 #Binance #NarrativeOS #OpenClaw
