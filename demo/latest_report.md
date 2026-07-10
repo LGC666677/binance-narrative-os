@@ -1,101 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-10T21:45:47.844271+00:00
+- 生成时间：2026-07-10T22:45:00.815059+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Toxic weast promotes Catcoin Meme，所在链为 Solana，叙事强度 86.4。
-- 当前平均叙事强度为 78.63，其中已确认叙事 2 个。
+- 当前最强叙事是 BNI，所在链为 BSC，叙事强度 83.64。
+- 当前平均叙事强度为 76.25，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Own The Doge Celebrates Moo Deng's Birthday 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 FINN Replies to Cat Question，伪叙事风险 47.23。
+- 记忆层显示 Alleged Meme Token Larry 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)。
 
 ## 叙事雷达
 
-- Toxic weast promotes Catcoin Meme | Solana | 已确认 | 强度 86.40 | 质量 82.05
-  - 主题摘要：According to Toxic weast 🇦🇪's post, the author advocates for the performance of Catcoin within the current cat-themed market meta. The post characterizes the asset as a simple mem…
-  - 资金 100.00 / 广度 94.41 / 确认 31.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Solana Cat Meme Image Token | Solana | 已确认 | 强度 85.79 | 质量 81.22
-  - 主题摘要：According to Warkes's post, a token named Solcat was launched on Pump.fun, featuring a cat image originally from a GitHub repository. The project claims to route trading fees to t…
-  - 资金 100.00 / 广度 92.18 / 确认 31.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- BNI | BSC | 加速中 | 强度 83.70 | 质量 78.23
+- BNI | BSC | 加速中 | 强度 83.64 | 质量 78.21
   - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
-  - 资金 100.00 / 广度 82.80 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.75 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- LOL | BSC | 加速中 | 强度 83.66 | 质量 75.59
+- LOL | BSC | 加速中 | 强度 82.60 | 质量 75.63
   - 主题摘要：LOL token draws inspiration from the iconic 'LOL' internet meme, celebrating humor and community engagement. It aims to foster a playful ecosystem where users can share memes and…
-  - 资金 100.00 / 广度 74.00 / 确认 24.48 / 脆弱性 10.00
+  - 资金 100.00 / 广度 74.14 / 确认 24.48 / 脆弱性 10.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Summer | BSC | 已确认 | 强度 81.19 | 质量 81.42
+- Summer | BSC | 已确认 | 强度 81.35 | 质量 81.41
   - 主题摘要：According to Mata__4444's post, a female icon is visible on the Binance Mobile app's support section. This observation suggests a potential interface update or specific branding e…
-  - 资金 100.00 / 广度 90.80 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.76 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Own The Doge Celebrates Moo Deng's Birthday | Solana | 降温中 | 强度 79.90 | 质量 69.99
-  - 主题摘要：According to Own The Doge 🐶🖼's post, the account celebrated the birthday of Moo Deng. The post features a birthday greeting and does not mention any specific cryptocurrency tokens…
-  - 资金 100.00 / 广度 87.79 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FINN Replies to Cat Question | Solana | 点火期 | 强度 77.98 | 质量 77.21
-  - 主题摘要：According to FINN's post, FINN replied to a query regarding cats with an affirmative response. The content is a brief personal interaction without specific cryptocurrency or proje…
-  - 资金 100.00 / 广度 97.59 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged $reptilecoin Meme | Solana | 加速中 | 强度 76.85 | 质量 64.96
+- Toxic weast promotes Catcoin Meme | Solana | 加速中 | 强度 79.91 | 质量 75.39
+  - 主题摘要：According to Toxic weast 🇦🇪's post, the author advocates for the performance of Catcoin within the current cat-themed market meta. The post characterizes the asset as a simple mem…
+  - 资金 100.00 / 广度 94.40 / 确认 27.40 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged $reptilecoin Meme | Solana | 加速中 | 强度 78.38 | 质量 65.17
   - 主题摘要：According to ShroudedMonk's post, a generational Meme image was found in the $Febu backrooms, referencing a token called $reptilecoin. The post claims this token is the only ticke…
-  - 资金 100.00 / 广度 82.38 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.58 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Solana: RWA meets Memes | Solana | 加速中 | 强度 74.68 | 质量 74.58
-  - 主题摘要：Solana官方账号宣布其公链不仅适合现实世界资产（RWA）应用，同样完美支持模因代币。这一表态打破了传统上对Solana仅作为高性能链的刻板印象，强调了其在投机文化和金融创新双重领域的兼容性，激发了社区对"实用性与趣味性并存"的讨论。
-  - 资金 100.00 / 广度 93.47 / 确认 20.16 / 脆弱性 24.00
+- Alleged Meme Token Larry | Solana | 降温中 | 强度 78.08 | 质量 67.18
+  - 主题摘要：According to larry's post, the author introduces a new meme token named Larry, claiming it represents a superior strategy for identifying high-value assets within the crypto Twitt…
+  - 资金 100.00 / 广度 57.16 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- thank you gary | Solana | 降温中 | 强度 77.95 | 质量 68.91
+  - 主题摘要：tygary token celebrates the Shiba Inu dog Gary, inspired by the viral 'Arigatogary' meme. The token's logo features a Shiba Inu, reflecting its playful origin. Created by thankyou…
+  - 资金 100.00 / 广度 57.56 / 确认 16.56 / 脆弱性 16.45
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Solana Cat Meme Image Token | Solana | 加速中 | 强度 77.65 | 质量 72.02
+  - 主题摘要：According to Warkes's post, a token named Solcat was launched on Pump.fun, featuring a cat image originally from a GitHub repository. The post claims trading fees are routed to th…
+  - 资金 100.00 / 广度 92.19 / 确认 27.40 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Unipcs Claims Robinhood Paid for Bullish Tweet | Solana | 点火期 | 强度 74.03 | 质量 70.70
-  - 主题摘要：According to Unipcs (aka 'Bonk Guy') 🎒's post, the author claims to have received payment from Robinhood for posting bullish content regarding its blockchain. This statement is ma…
-  - 资金 100.00 / 广度 86.68 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Jacob Token Narrative | Solana | 降温中 | 强度 73.38 | 质量 59.03
-  - 主题摘要：According to febu's post, a narrative emerged regarding a software engineer named Jacob who allegedly created an AI persona to alleviate debugging loneliness. This story is associ…
-  - 资金 100.00 / 广度 76.34 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 首创托底金库已过审核 | BSC | 降温中 | 强度 71.97 | 质量 55.83
-  - 主题摘要：Multiple tokens named 「羊头狗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.51 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GOALFI | BSC | 加速中 | 强度 71.44 | 质量 60.40
+- FINN Replies to Cat Question | Solana | 加速中 | 强度 76.20 | 质量 75.56
+  - 主题摘要：According to FINN's post, FINN replied to a query regarding cats with an affirmative response. The content is a brief personal interaction without specific cryptocurrency or proje…
+  - 资金 100.00 / 广度 97.80 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Mogdog Token Launch | Solana | 加速中 | 强度 75.61 | 质量 64.64
+  - 主题摘要：According to Hughman's post, the author suggests naming a project 'mogdog' and proposes running something simple like 'cashcat'. This statement is associated with the release of a…
+  - 资金 100.00 / 广度 84.37 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged ubef Token Launch | Solana | 加速中 | 强度 74.46 | 质量 61.98
+  - 主题摘要：Multiple tokens named 「ubef」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.60 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GOALFI | BSC | 加速中 | 强度 71.37 | 质量 60.40
   - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.52 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.55 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 千里马 | BSC | 降温中 | 强度 69.80 | 质量 55.40
-  - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.24 / 确认 16.56 / 脆弱性 14.00
+- 疯狂牛市驱动的双池分红社区GameFi | BSC | 加速中 | 强度 69.33 | 质量 57.60
+  - 主题摘要：According to the post, a project named 'BNB Ranch' claims to have officially launched on the FLAP platform. The post provides a contract address and describes it as an on-chain ra…
+  - 资金 100.00 / 广度 71.36 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 首创托底金库已过审核 | BSC | 降温中 | 强度 69.22 | 质量 55.75
+  - 主题摘要：Multiple tokens named 「羊头狗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.67 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.63，其中已确认叙事 2 个。
-- Alleged $reptilecoin Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Own The Doge Celebrates Moo Deng's Birthday 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.25，其中已确认叙事 1 个。
+- Alleged Mogdog Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Meme Token Larry 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Toxic weast promotes Catcoin Meme | 质量 82.05 | 可交易性 96.35 | 风险 低
-- Summer | 质量 81.42 | 可交易性 100.00 | 风险 低
-- Alleged Solana Cat Meme Image Token | 质量 81.22 | 可交易性 95.82 | 风险 低
-- BNI | 质量 78.23 | 可交易性 100.00 | 风险 低
-- FINN Replies to Cat Question | 质量 77.21 | 可交易性 100.00 | 风险 低
-- LOL | 质量 75.59 | 可交易性 100.00 | 风险 低
-- Solana: RWA meets Memes | 质量 74.58 | 可交易性 100.00 | 风险 低
-- Unipcs Claims Robinhood Paid for Bullish Tweet | 质量 70.70 | 可交易性 88.08 | 风险 低
-- Own The Doge Celebrates Moo Deng's Birthday | 质量 69.99 | 可交易性 78.63 | 风险 低
-- Alleged $reptilecoin Meme | 质量 64.96 | 可交易性 56.21 | 风险 低
+- Summer | 质量 81.41 | 可交易性 100.00 | 风险 低
+- BNI | 质量 78.21 | 可交易性 100.00 | 风险 低
+- LOL | 质量 75.63 | 可交易性 100.00 | 风险 低
+- FINN Replies to Cat Question | 质量 75.56 | 可交易性 100.00 | 风险 低
+- Toxic weast promotes Catcoin Meme | 质量 75.39 | 可交易性 96.32 | 风险 低
+- Alleged Solana Cat Meme Image Token | 质量 72.02 | 可交易性 95.78 | 风险 低
+- thank you gary | 质量 68.91 | 可交易性 100.00 | 风险 低
+- Alleged Meme Token Larry | 质量 67.18 | 可交易性 99.91 | 风险 低
+- Alleged $reptilecoin Meme | 质量 65.17 | 可交易性 56.69 | 风险 低
+- Alleged Mogdog Token Launch | 质量 64.64 | 可交易性 56.32 | 风险 低
 
 ## 伪叙事风险
 
-- FINN Replies to Cat Question | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Unipcs Claims Robinhood Paid for Bullish Tweet | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Toxic weast promotes Catcoin Meme（Solana，分数 86.4）
+1. 当前最强叙事：BNI（BSC，分数 83.64）
 2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Own The Doge Celebrates Moo Deng's Birthday 当前为“新出现”
+3. 记忆层变化：Alleged Meme Token Larry 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)
 #Binance #NarrativeOS #OpenClaw
