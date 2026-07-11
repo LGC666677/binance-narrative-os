@@ -1,101 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-11T11:39:18.628007+00:00
+- 生成时间：2026-07-11T12:36:35.917553+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 LOL，所在链为 BSC，叙事强度 83.81。
-- 当前平均叙事强度为 74.5，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 CUPSEY，来自 Solana，共振分数 100.0。
-- 记忆层显示 BULLCASH 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged $Debtdog Meme Token，伪叙事风险 52.99。
+- 当前最强叙事是 LOL，所在链为 BSC，叙事强度 82.97。
+- 当前平均叙事强度为 75.88，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
+- 记忆层显示 Agentx402 Phase 2 Launch 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)。
 
 ## 叙事雷达
 
-- LOL | BSC | 加速中 | 强度 83.81 | 质量 74.51
+- LOL | BSC | 加速中 | 强度 82.97 | 质量 73.33
   - 主题摘要：LOL token draws inspiration from the iconic 'LOL' internet meme, celebrating humor and community engagement. It aims to foster a playful ecosystem where users can share memes and…
-  - 资金 100.00 / 广度 73.95 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 73.85 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BULLCASH | Solana | 降温中 | 强度 82.02 | 质量 73.62
-  - 主题摘要：Multiple tokens named 「BULLCASH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.52 / 确认 9.36 / 脆弱性 14.00
+- Agentx402 Phase 2 Launch | Solana | 降温中 | 强度 80.65 | 质量 69.84
+  - 主题摘要：According to Agentx402's post, the agentx402 token is entering its second phase after a period of inactivity. The post highlights a transition from zero activity to a single trans…
+  - 资金 100.00 / 广度 65.93 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Phantom Mascot Meme | Solana | 加速中 | 强度 79.73 | 质量 78.72
+- Alleged Phantom Mascot Meme | Solana | 加速中 | 强度 79.93 | 质量 78.81
   - 主题摘要：According to F41TH 🟪's post, an original GHOSTI token from September 2024 is currently available at the floor price, described as free. The post includes a specific contract addre…
-  - 资金 100.00 / 广度 87.60 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.92 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged MemesAI Token Wallet Controversy | Solana | 加速中 | 强度 78.90 | 质量 74.75
-  - 主题摘要：According to Quant 💻's post, MemesAI allegedly migrated to Bonk due to lack of fees, but claims Bonk integration is flawed. The post asserts that fees are being sent to the develo…
-  - 资金 100.00 / 广度 74.37 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNI | BSC | 加速中 | 强度 77.66 | 质量 70.30
+- BNI | BSC | 已确认 | 强度 79.80 | 质量 75.57
   - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
-  - 资金 100.00 / 广度 77.70 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GOALFI | BSC | 加速中 | 强度 73.20 | 质量 59.68
-  - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.36 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged FEBU Coin Launch | Solana | 降温中 | 强度 73.13 | 质量 59.70
-  - 主题摘要：According to builtbychris's post, the individual claims to have released the 'FEBU OFFICIAL COIN' and provides a Solana token address for verification. The author asserts the auth…
-  - 资金 100.00 / 广度 75.55 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.03 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Bull.Error | Solana | 降温中 | 强度 76.69 | 质量 69.02
+  - 主题摘要：BULLERROR is a meme token inspired by internet culture, featuring a bull character with horns against a blue background with error messages. The token's name and description '404:…
+  - 资金 100.00 / 广度 63.21 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DogeDesigner Quotes Elon Musk | Solana | 点火期 | 强度 72.68 | 质量 67.38
-  - 主题摘要：According to DogeDesigner's post, the user shared a quote attributed to Elon Musk stating, "I’ve lost a few battles over the years, but I’ve never lost a war." This statement refl…
-  - 资金 100.00 / 广度 74.58 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged MemesAI Token Migration | Solana | 加速中 | 强度 72.55 | 质量 63.41
+- Alleged MemesAI Token Migration | Solana | 加速中 | 强度 74.83 | 质量 63.46
   - 主题摘要：According to thedevrrrrrr's post, the author claims that kaskalLLC mistakenly sent fees and supply to an unknown wallet instead of the official MemesAI wallet. The author states t…
-  - 资金 100.00 / 广度 78.10 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.38 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged MemesAI Fee Dispute | Solana | 加速中 | 强度 72.43 | 质量 63.64
+- Alleged MemesAI Fee Dispute | Solana | 加速中 | 强度 73.81 | 质量 62.19
   - 主题摘要：According to thedevrrrrrr's post, the developer of MemesAI allegedly claims to receive no fees from Pump.fun or Bonk, prompting a migration. The quoted content disputes this, stat…
-  - 资金 100.00 / 广度 77.06 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.99 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $Debtdog Meme Token | Solana | 点火期 | 强度 72.39 | 质量 66.01
-  - 主题摘要：According to Chudseyy's post, the author claims to have created the 'Cashcat of Sol' named $Debtdog, based on the logic that debt is the opposite of cash and dog is the opposite o…
-  - 资金 100.00 / 广度 79.69 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Summer | BSC | 加速中 | 强度 71.65 | 质量 70.11
+- Summer | BSC | 加速中 | 强度 73.55 | 质量 71.13
   - 主题摘要：According to Mata__4444's post, a female icon is visible on the Binance Mobile app's support section. This observation suggests a potential interface update or specific branding e…
-  - 资金 100.00 / 广度 86.17 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.59 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 千里马 | BSC | 加速中 | 强度 70.53 | 质量 55.85
-  - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.82 / 确认 24.48 / 脆弱性 24.00
+- GOALFI | BSC | 加速中 | 强度 73.39 | 质量 61.61
+  - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.32 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 疯狂牛市驱动的双池分红社区GameFi | BSC | 加速中 | 强度 70.14 | 质量 60.18
+- 疯狂牛市驱动的双池分红社区GameFi | BSC | 加速中 | 强度 73.13 | 质量 61.87
   - 主题摘要：According to the post, a project named 'BNB Ranch' claims to have officially launched on the FLAP platform. The post provides a contract address and describes it as an on-chain ra…
-  - 资金 100.00 / 广度 69.69 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 69.36 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged MemesAI Token Launch | Solana | 加速中 | 强度 72.99 | 质量 60.76
+  - 主题摘要：According to C's post, the author claims to be sending 15% of the supply and fees for the MemesAI token, while allocating 10% to kaskal. This action is described as a response to…
+  - 资金 100.00 / 广度 74.91 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged MemesAI Wallet Issue | Solana | 加速中 | 强度 72.87 | 质量 60.55
+  - 主题摘要：According to sam mogman's post, he criticized a previous statement regarding MemesAI, asserting that the individual only has access to the MemesAI token on the Bonk network. Mogma…
+  - 资金 100.00 / 广度 74.15 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged MemesAI Token Wallet Controversy | Solana | 加速中 | 强度 72.77 | 质量 60.45
+  - 主题摘要：According to Quant 💻's post, MemesAI allegedly migrated to Bonk due to lack of fees, but claims Bonk integration is flawed. The post asserts that fees are being sent to the develo…
+  - 资金 100.00 / 广度 73.90 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 千里马 | BSC | 加速中 | 强度 72.44 | 质量 58.90
+  - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.71 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 74.5，其中已确认叙事 0 个。
-- DogeDesigner Quotes Elon Musk 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- BULLCASH 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.88，其中已确认叙事 1 个。
+- Alleged MemesAI Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Agentx402 Phase 2 Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Phantom Mascot Meme | 质量 78.72 | 可交易性 100.00 | 风险 低
-- Alleged MemesAI Token Wallet Controversy | 质量 74.75 | 可交易性 100.00 | 风险 低
-- LOL | 质量 74.51 | 可交易性 100.00 | 风险 低
-- BULLCASH | 质量 73.62 | 可交易性 100.00 | 风险 低
-- BNI | 质量 70.30 | 可交易性 100.00 | 风险 低
-- Summer | 质量 70.11 | 可交易性 100.00 | 风险 低
-- DogeDesigner Quotes Elon Musk | 质量 67.38 | 可交易性 80.53 | 风险 低
-- Alleged $Debtdog Meme Token | 质量 66.01 | 可交易性 73.47 | 风险 低
-- Alleged MemesAI Fee Dispute | 质量 63.64 | 可交易性 60.29 | 风险 低
-- Alleged MemesAI Token Migration | 质量 63.41 | 可交易性 58.49 | 风险 低
+- Alleged Phantom Mascot Meme | 质量 78.81 | 可交易性 100.00 | 风险 低
+- BNI | 质量 75.57 | 可交易性 100.00 | 风险 低
+- LOL | 质量 73.33 | 可交易性 100.00 | 风险 低
+- Summer | 质量 71.13 | 可交易性 100.00 | 风险 低
+- Agentx402 Phase 2 Launch | 质量 69.84 | 可交易性 100.00 | 风险 低
+- Bull.Error | 质量 69.02 | 可交易性 100.00 | 风险 低
+- Alleged MemesAI Token Migration | 质量 63.46 | 可交易性 58.38 | 风险 低
+- Alleged MemesAI Fee Dispute | 质量 62.19 | 可交易性 56.52 | 风险 低
+- 疯狂牛市驱动的双池分红社区GameFi | 质量 61.87 | 可交易性 74.76 | 风险 低
+- GOALFI | 质量 61.61 | 可交易性 56.43 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged $Debtdog Meme Token | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- DogeDesigner Quotes Elon Musk | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：LOL（BSC，分数 83.81）
-2. 共振最强代币：CUPSEY（Solana，共振 100.0）
-3. 记忆层变化：BULLCASH 当前为“新出现”
+1. 当前最强叙事：LOL（BSC，分数 82.97）
+2. 共振最强代币：TROLL（Solana，共振 100.0）
+3. 记忆层变化：Agentx402 Phase 2 Launch 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)
 #Binance #NarrativeOS #OpenClaw
