@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-12T20:31:44.968120+00:00
+- 生成时间：2026-07-12T21:29:13.405381+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Cash Cat，所在链为 BSC，叙事强度 83.37。
-- 当前平均叙事强度为 78.62，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Yellowstone Bison Injury 当前处于“新出现”状态。
+- 当前最强叙事是 Cash Cat，所在链为 BSC，叙事强度 85.65。
+- 当前平均叙事强度为 78.22，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 CUPSEY，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged PumpfunLife Token on Robinhood 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)。
 
 ## 叙事雷达
 
-- Cash Cat | BSC | 加速中 | 强度 83.37 | 质量 81.62
+- Cash Cat | BSC | 已确认 | 强度 85.65 | 质量 82.40
   - 主题摘要：According to Pomp's post, he requested the creation of a token named 'Zhao Cai Mao' ($赵财猫) on the BNB chain. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 91.99 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged UNC Meme Coin | Solana | 已确认 | 强度 81.95 | 质量 75.90
+  - 资金 100.00 / 广度 91.97 / 确认 30.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged UNC Meme Coin | Solana | 已确认 | 强度 84.49 | 质量 77.10
   - 主题摘要：Multiple tokens named 「UNC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.25 / 确认 38.28 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.82 / 确认 38.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- GOALFI | BSC | 加速中 | 强度 79.47 | 质量 69.24
+- GOALFI | BSC | 加速中 | 强度 81.87 | 质量 71.60
   - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.84 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.82 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNI | BSC | 已确认 | 强度 79.01 | 质量 71.41
-  - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
-  - 资金 100.00 / 广度 72.33 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- TREASURE META COIN | BSC | 加速中 | 强度 78.96 | 质量 72.49
+- Yellowstone Bison Injury | Solana | 加速中 | 强度 80.17 | 质量 72.58
+  - 主题摘要：According to Molly Ploofkins's post, a tourist was seriously injured in Yellowstone National Park after being thrown by a bull bison. Professional photographer Mike Macleod filmed…
+  - 资金 100.00 / 广度 79.39 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged febuwhale Token Launch | Solana | 降温中 | 强度 79.62 | 质量 66.32
+  - 主题摘要：According to o11beast's post, the febuwhale token is allegedly launching on PumpFun with a DEX liquidity of 16K. The post claims to combine the narratives of Febu and Whitewhale,…
+  - 资金 100.00 / 广度 88.14 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- TREASURE META COIN | BSC | 加速中 | 强度 79.03 | 质量 72.51
   - 主题摘要：Multiple tokens named 「TMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 80.83 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yellowstone Bison Injury | Solana | 加速中 | 强度 78.91 | 质量 71.94
-  - 主题摘要：Multiple tokens named 「BISON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.67 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged febuwhale Token Launch | Solana | 降温中 | 强度 78.49 | 质量 64.64
-  - 主题摘要：According to o11beast's post, the febuwhale token is allegedly launching on PumpFun with a DEX liquidity of 16K. The post claims to combine the narratives of Febu and Whitewhale,…
-  - 资金 100.00 / 广度 87.83 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance 9th Anniversary: Scent of Time | BSC | 加速中 | 强度 78.13 | 质量 70.02
-  - 主题摘要：Binance celebrates its 9th anniversary with a poetic metaphor linking 'Good Morning' to the 'scent of time'. This abstract greeting blends community culture with brand nostalgia,…
-  - 资金 100.00 / 广度 85.77 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Solana Founder Toly's Background | Solana | 加速中 | 强度 77.30 | 质量 74.71
-  - 主题摘要：According to ִֶָ's post, the author claims to be launching an alleged meme token named $50 to support Solana founder Toly, citing his background of escaping the USSR with $50. The…
-  - 资金 100.00 / 广度 86.18 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of BULLDROP Meme Image | Solana | 加速中 | 强度 77.18 | 质量 67.87
+- Alleged Launch of BULLDROP Meme Image | Solana | 加速中 | 强度 78.43 | 质量 69.33
   - 主题摘要：According to d's post, a viral Meme image depicting a bison incident is associated with the alleged launch of the BULLDROP token. The post claims the token is named 'The Bulldrop'…
-  - 资金 100.00 / 广度 80.59 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.01 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hoppy | Solana | 加速中 | 强度 77.12 | 质量 71.77
-  - 主题摘要：Hoppy is a meme token inspired by the Pepe the Frog meme, created by ogrichfrogx. The token's logo features a frog in a suit, reflecting the creator's self-description as a 'Top P…
-  - 资金 100.00 / 广度 77.20 / 确认 24.48 / 脆弱性 10.00
+- Binance 9th Anniversary: Scent of Time | BSC | 加速中 | 强度 78.25 | 质量 69.66
+  - 主题摘要：Binance celebrates its 9th anniversary with a poetic metaphor linking 'Good Morning' to the 'scent of time'. This abstract greeting blends community culture with brand nostalgia,…
+  - 资金 100.00 / 广度 85.76 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of BISON Token | Solana | 加速中 | 强度 76.03 | 质量 66.38
+- Alleged PumpfunLife Token on Robinhood | Solana | 加速中 | 强度 77.72 | 质量 68.58
+  - 主题摘要：According to Muge's post, the token $PumpfunLife is allegedly available on Robinhood, with comments suggesting it is 'running' and 'pumping'. This information is unverified. Pleas…
+  - 资金 100.00 / 广度 84.09 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- The Pepe Bull | Solana | 降温中 | 强度 77.70 | 质量 64.10
+  - 主题摘要：Multiple tokens named 「PEPSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.00 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Launch of BISON Token | Solana | 加速中 | 强度 77.52 | 质量 67.89
   - 主题摘要：According to d's post, the user shared a Meme image titled "Bye Son" referencing a bison incident, which is associated with the token "Bye Son". This information is unverified. Pl…
-  - 资金 100.00 / 广度 77.61 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.25 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Bullsion Meme | Solana | 加速中 | 强度 75.73 | 质量 65.08
-  - 主题摘要：Multiple tokens named 「Bullsion」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.76 / 确认 23.76 / 脆弱性 14.00
+- The Earn Bull | Solana | 降温中 | 强度 77.50 | 质量 66.60
+  - 主题摘要：TEB (The Earn Bull) is a token inspired by crypto culture, featuring a bull logo with flames. Created by mikey2246, a multifaceted crypto enthusiast with expertise in NFTs, cybers…
+  - 资金 100.00 / 广度 58.14 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- BNI | BSC | 加速中 | 强度 73.98 | 质量 64.00
+  - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
+  - 资金 100.00 / 广度 72.15 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 千里马 | BSC | 加速中 | 强度 72.81 | 质量 59.52
+- 千里马 | BSC | 加速中 | 强度 70.56 | 质量 57.98
   - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.71 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.71 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.62，其中已确认叙事 1 个。
-- Yellowstone Bison Injury 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.22，其中已确认叙事 1 个。
+- Alleged PumpfunLife Token on Robinhood 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Alleged febuwhale Token Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Cash Cat | 质量 81.62 | 可交易性 100.00 | 风险 低
-- Alleged UNC Meme Coin | 质量 75.90 | 可交易性 79.68 | 风险 低
-- Solana Founder Toly's Background | 质量 74.71 | 可交易性 88.07 | 风险 低
-- TREASURE META COIN | 质量 72.49 | 可交易性 83.39 | 风险 低
-- Yellowstone Bison Injury | 质量 71.94 | 可交易性 84.72 | 风险 低
-- Hoppy | 质量 71.77 | 可交易性 100.00 | 风险 低
-- BNI | 质量 71.41 | 可交易性 100.00 | 风险 低
-- Binance 9th Anniversary: Scent of Time | 质量 70.02 | 可交易性 78.40 | 风险 低
-- GOALFI | 质量 69.24 | 可交易性 90.44 | 风险 低
-- Alleged Launch of BULLDROP Meme Image | 质量 67.87 | 可交易性 68.23 | 风险 低
+- Cash Cat | 质量 82.40 | 可交易性 100.00 | 风险 低
+- Alleged UNC Meme Coin | 质量 77.10 | 可交易性 83.10 | 风险 低
+- Yellowstone Bison Injury | 质量 72.58 | 可交易性 85.13 | 风险 低
+- TREASURE META COIN | 质量 72.51 | 可交易性 83.43 | 风险 低
+- GOALFI | 质量 71.60 | 可交易性 90.75 | 风险 低
+- Binance 9th Anniversary: Scent of Time | 质量 69.66 | 可交易性 78.57 | 风险 低
+- Alleged Launch of BULLDROP Meme Image | 质量 69.33 | 可交易性 71.65 | 风险 低
+- Alleged PumpfunLife Token on Robinhood | 质量 68.58 | 可交易性 69.73 | 风险 低
+- Alleged Launch of BISON Token | 质量 67.89 | 可交易性 69.64 | 风险 低
+- The Earn Bull | 质量 66.60 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Cash Cat（BSC，分数 83.37）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Yellowstone Bison Injury 当前为“新出现”
+1. 当前最强叙事：Cash Cat（BSC，分数 85.65）
+2. 共振最强代币：CUPSEY（Solana，共振 100.0）
+3. 记忆层变化：Alleged PumpfunLife Token on Robinhood 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)
 #Binance #NarrativeOS #OpenClaw
