@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-12T03:50:39.486556+00:00
+- 生成时间：2026-07-12T06:22:39.147776+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 LOL，所在链为 BSC，叙事强度 85.74。
-- 当前平均叙事强度为 79.48，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 LAB，来自 BSC，共振分数 100.0。
-- 记忆层显示 BNI 当前处于“强化”状态。
+- 当前最强叙事是 LOL，所在链为 BSC，叙事强度 85.42。
+- 当前平均叙事强度为 77.85，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged BREAD Token Promotion 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 The Pepe Bull，伪叙事风险 40.99。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)。
 
 ## 叙事雷达
 
-- LOL | BSC | 加速中 | 强度 85.74 | 质量 75.05
+- LOL | BSC | 加速中 | 强度 85.42 | 质量 74.89
   - 主题摘要：LOL token draws inspiration from the iconic 'LOL' internet meme, celebrating humor and community engagement. It aims to foster a playful ecosystem where users can share memes and…
-  - 资金 100.00 / 广度 73.54 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 74.18 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hoppy | Solana | 加速中 | 强度 82.46 | 质量 76.19
-  - 主题摘要：Hoppy is a meme token inspired by the Pepe the Frog meme, created by ogrichfrogx. The token's logo features a frog in a suit, reflecting the creator's self-description as a 'Top P…
-  - 资金 100.00 / 广度 76.03 / 确认 24.48 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNI | BSC | 已确认 | 强度 81.87 | 质量 74.90
-  - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
-  - 资金 100.00 / 广度 75.89 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance 9th Anniversary: Scent of Time | BSC | 加速中 | 强度 81.80 | 质量 72.77
+- Alleged BREAD Token Promotion | Solana | 降温中 | 强度 85.34 | 质量 78.06
+  - 主题摘要：According to mememang's post, the author declares that Robinhood is dead and urges followers to send BREAD, citing this as a recurring pattern when platforms fail. The post refere…
+  - 资金 100.00 / 广度 88.05 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance 9th Anniversary: Scent of Time | BSC | 加速中 | 强度 82.89 | 质量 72.97
   - 主题摘要：Binance celebrates its 9th anniversary with a poetic metaphor linking 'Good Morning' to the 'scent of time'. This abstract greeting blends community culture with brand nostalgia,…
-  - 资金 100.00 / 广度 88.78 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.01 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged McLegur/McLegger Tokens | Solana | 加速中 | 强度 81.10 | 质量 71.14
-  - 主题摘要：According to john's post, a Meme image referencing Conor McGregor's leg injury is shared, potentially linking to tokens like McLegor or McLegger. This information is unverified. P…
-  - 资金 100.00 / 广度 79.71 / 确认 20.16 / 脆弱性 14.00
+- Hoppy | Solana | 加速中 | 强度 81.92 | 质量 76.32
+  - 主题摘要：Hoppy is a meme token inspired by the Pepe the Frog meme, created by ogrichfrogx. The token's logo features a frog in a suit, reflecting the creator's self-description as a 'Top P…
+  - 资金 100.00 / 广度 76.46 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GOALFI | BSC | 加速中 | 强度 79.63 | 质量 67.37
+- The Earn Bull | Solana | 加速中 | 强度 80.02 | 质量 69.01
+  - 主题摘要：TEB (The Earn Bull) is a token inspired by crypto culture, featuring a bull logo with flames. Created by mikey2246, a multifaceted crypto enthusiast with expertise in NFTs, cybers…
+  - 资金 100.00 / 广度 55.26 / 确认 20.16 / 脆弱性 0.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- DogeDesigner Quotes Elon Musk | Solana | 降温中 | 强度 78.59 | 质量 68.63
+  - 主题摘要：According to DogeDesigner's post, the user shared a quote attributed to Elon Musk stating, "I’ve lost a few battles over the years, but I’ve never lost a war." The post highlights…
+  - 资金 100.00 / 广度 73.90 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- BNI | BSC | 已确认 | 强度 78.49 | 质量 73.40
+  - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
+  - 资金 100.00 / 广度 75.08 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- HOME Token Platform Positioning | Solana | 加速中 | 强度 77.64 | 质量 65.45
+  - 主题摘要：According to HOME's post, the Pumpfun platform is highlighted as a stable ecosystem for significant crypto success stories, contrasting it with transient chains. The post promotes…
+  - 资金 100.00 / 广度 83.37 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GOALFI | BSC | 加速中 | 强度 77.51 | 质量 66.74
   - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.90 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.28 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 千里马 | BSC | 加速中 | 强度 78.60 | 质量 64.73
-  - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.75 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Phantom Mascot Meme | Solana | 加速中 | 强度 78.16 | 质量 78.73
-  - 主题摘要：According to F41TH 🟪's post, an original GHOSTI token from September 2024 is currently available at the floor price, which is described as free. The post includes a specific contr…
-  - 资金 100.00 / 广度 87.64 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- HOME Token Platform Positioning | Solana | 加速中 | 强度 78.08 | 质量 64.30
-  - 主题摘要：According to HOME's post, the author promotes the $HOME token, claiming it is the primary hub for crypto success stories and overnight millionaires. The post asserts that Pumpfun…
-  - 资金 100.00 / 广度 79.85 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Febu Bull Token | Solana | 降温中 | 强度 75.65 | 质量 62.30
-  - 主题摘要：According to zarakisss's post, the user mentions 'febu bull' and the token symbol $febull. This implies the alleged launch or promotion of a new token. This information is unverif…
-  - 资金 100.00 / 广度 91.64 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nikolai on Vlad Tenev's Meme Coin Comments | Solana | 降温中 | 强度 74.94 | 质量 64.46
+- Nikolai on Vlad Tenev's Meme Coin Comments | Solana | 降温中 | 强度 77.51 | 质量 64.98
   - 主题摘要：According to Nikolai's post, he claims to have taken a 'worthless coin' to $25 million and suggests Vlad Tenev provided the next opportunity, referencing the POINTLESS token. This…
-  - 资金 100.00 / 广度 82.92 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.32 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged GitLawb Meme Token Launch | Solana | 降温中 | 强度 74.66 | 质量 67.50
-  - 主题摘要：According to john's post, the developer claims to have created a Meme image of the GitLawb logo and intends to launch an unofficial GitLawb token, offering fees to Kevin Codex. Th…
-  - 资金 100.00 / 广度 58.88 / 确认 9.36 / 脆弱性 14.00
+- The Pepe Bull | Solana | 降温中 | 强度 74.93 | 质量 61.79
+  - 主题摘要：Multiple tokens named 「PEPSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.37 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Sam Altman Criticizes Space Datacenter Claims | Solana | 加速中 | 强度 74.28 | 质量 70.54
+- Sam Altman Criticizes Space Datacenter Claims | Solana | 加速中 | 强度 74.85 | 质量 70.88
   - 主题摘要：According to Sam Altman's post, he criticized an individual for misleading public market investors regarding short-term space datacenters. Sam Altman characterized this behavior a…
-  - 资金 100.00 / 广度 89.89 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.50 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 疯狂牛市驱动的双池分红社区GameFi | BSC | 加速中 | 强度 69.24 | 质量 59.44
-  - 主题摘要：According to the post, a project named 'BNB Ranch' claims to have officially launched on the FLAP platform. The post provides a contract address and describes it as an on-chain ra…
-  - 资金 100.00 / 广度 68.10 / 确认 24.48 / 脆弱性 24.00
+- 千里马 | BSC | 加速中 | 强度 74.20 | 质量 60.39
+  - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.04 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 小拳头 | BSC | 降温中 | 强度 68.60 | 质量 51.48
+  - 主题摘要：Multiple tokens named 「小拳头」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.37 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.48，其中已确认叙事 1 个。
-- BNI 正在向主线升级: BSC 上该叙事处于“强化”状态，值得持续跟踪。
-- Alleged Febu Bull Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.85，其中已确认叙事 1 个。
+- The Earn Bull 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged BREAD Token Promotion 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Phantom Mascot Meme | 质量 78.73 | 可交易性 100.00 | 风险 低
-- Hoppy | 质量 76.19 | 可交易性 100.00 | 风险 低
-- LOL | 质量 75.05 | 可交易性 100.00 | 风险 低
-- BNI | 质量 74.90 | 可交易性 100.00 | 风险 低
-- Binance 9th Anniversary: Scent of Time | 质量 72.77 | 可交易性 75.82 | 风险 低
-- Alleged McLegur/McLegger Tokens | 质量 71.14 | 可交易性 82.63 | 风险 低
-- Sam Altman Criticizes Space Datacenter Claims | 质量 70.54 | 可交易性 67.82 | 风险 低
-- Alleged GitLawb Meme Token Launch | 质量 67.50 | 可交易性 99.25 | 风险 低
-- GOALFI | 质量 67.37 | 可交易性 75.45 | 风险 低
-- 千里马 | 质量 64.73 | 可交易性 61.08 | 风险 低
+- Alleged BREAD Token Promotion | 质量 78.06 | 可交易性 100.00 | 风险 低
+- Hoppy | 质量 76.32 | 可交易性 100.00 | 风险 低
+- LOL | 质量 74.89 | 可交易性 100.00 | 风险 低
+- BNI | 质量 73.40 | 可交易性 100.00 | 风险 低
+- Binance 9th Anniversary: Scent of Time | 质量 72.97 | 可交易性 76.28 | 风险 低
+- Sam Altman Criticizes Space Datacenter Claims | 质量 70.88 | 可交易性 68.33 | 风险 低
+- The Earn Bull | 质量 69.01 | 可交易性 100.00 | 风险 低
+- DogeDesigner Quotes Elon Musk | 质量 68.63 | 可交易性 87.99 | 风险 低
+- GOALFI | 质量 66.74 | 可交易性 75.90 | 风险 低
+- HOME Token Platform Positioning | 质量 65.45 | 可交易性 56.84 | 风险 低
 
 ## 伪叙事风险
 
+- The Pepe Bull | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：LOL（BSC，分数 85.74）
-2. 共振最强代币：LAB（BSC，共振 100.0）
-3. 记忆层变化：BNI 当前为“强化”
+1. 当前最强叙事：LOL（BSC，分数 85.42）
+2. 共振最强代币：ANSEM（Solana，共振 100.0）
+3. 记忆层变化：Alleged BREAD Token Promotion 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)
 #Binance #NarrativeOS #OpenClaw
