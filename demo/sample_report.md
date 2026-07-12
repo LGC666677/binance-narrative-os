@@ -1,101 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-12T15:40:47.676035+00:00
+- 生成时间：2026-07-12T16:32:18.543548+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Hoppy，所在链为 Solana，叙事强度 87.17。
-- 当前平均叙事强度为 80.29，其中已确认叙事 0 个。
+- 当前最强叙事是 Hoppy，所在链为 Solana，叙事强度 83.89。
+- 当前平均叙事强度为 78.27，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 CZ，来自 BSC，共振分数 100.0。
-- 记忆层显示 Pumpfun is Everything 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged PumpfunLife Token on Robinhood，伪叙事风险 47.23。
+- 记忆层显示 PLONK 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)。
 
 ## 叙事雷达
 
-- Hoppy | Solana | 加速中 | 强度 87.17 | 质量 76.76
+- Hoppy | Solana | 加速中 | 强度 83.89 | 质量 75.09
   - 主题摘要：Hoppy is a meme token inspired by the Pepe the Frog meme, created by ogrichfrogx. The token's logo features a frog in a suit, reflecting the creator's self-description as a 'Top P…
-  - 资金 100.00 / 广度 77.92 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 77.66 / 确认 24.48 / 脆弱性 10.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pumpfun is Everything | Solana | 降温中 | 强度 84.25 | 质量 73.79
-  - 主题摘要：Multiple tokens named 「PUMPTHING」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.11 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cash Cat | BSC | 加速中 | 强度 82.72 | 质量 81.50
+- Cash Cat | BSC | 加速中 | 强度 82.89 | 质量 81.52
   - 主题摘要：According to Pomp's post, he requested the creation of a token named 'Zhao Cai Cat' ($赵财猫) on the BNB chain. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 91.61 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 91.68 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GOALFI | BSC | 加速中 | 强度 82.09 | 质量 73.95
+- GOALFI | BSC | 加速中 | 强度 80.90 | 质量 71.86
   - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.99 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.19 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- HOME Token Platform Positioning | Solana | 加速中 | 强度 82.02 | 质量 70.28
-  - 主题摘要：According to HOME's post, the Pumpfun platform is highlighted as a stable ecosystem for significant crypto success stories, with the assertion that it remains active despite other…
-  - 资金 100.00 / 广度 84.58 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Earn Bull | Solana | 加速中 | 强度 79.58 | 质量 68.39
-  - 主题摘要：TEB (The Earn Bull) is a token inspired by crypto culture, featuring a bull logo with flames. Created by mikey2246, a multifaceted crypto enthusiast with expertise in NFTs, cybers…
-  - 资金 100.00 / 广度 57.23 / 确认 20.16 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Solana Founder Toly's Background | Solana | 加速中 | 强度 79.23 | 质量 73.39
+- Solana Founder Toly's Background | Solana | 加速中 | 强度 78.87 | 质量 76.46
   - 主题摘要：According to ִֶָ's post, the author claims to be launching an alleged meme token named $50 to support Solana founder Toly, citing his background of escaping the USSR with $50. The…
-  - 资金 100.00 / 广度 84.99 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.10 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance 9th Anniversary: Scent of Time | BSC | 加速中 | 强度 79.22 | 质量 72.29
-  - 主题摘要：Binance celebrates its 9th anniversary with a poetic metaphor linking 'Good Morning' to the 'scent of time'. This abstract greeting blends community culture with brand nostalgia,…
-  - 资金 100.00 / 广度 86.33 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- TREASURE META COIN | BSC | 加速中 | 强度 79.04 | 质量 72.08
+- PLONK | Solana | 降温中 | 强度 78.72 | 质量 67.92
+  - 主题摘要：Multiple tokens named 「PLONK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 97.89 / 广度 59.55 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- TREASURE META COIN | BSC | 加速中 | 强度 77.74 | 质量 72.44
   - 主题摘要：Multiple tokens named 「TMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.22 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.63 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged febuwhale Token Launch | Solana | 降温中 | 强度 77.73 | 质量 63.26
+- Alleged febuwhale Token Launch | Solana | 降温中 | 强度 77.70 | 质量 63.27
   - 主题摘要：According to o11beast's post, the febuwhale token is allegedly launching on PumpFun with a DEX liquidity of 16K. The post claims to combine the narratives of Febu and Whitewhale,…
-  - 资金 100.00 / 广度 85.62 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.12 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Pepe Bull | Solana | 降温中 | 强度 77.17 | 质量 65.08
-  - 主题摘要：Multiple tokens named 「PEPSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.14 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNI | BSC | 加速中 | 强度 76.94 | 质量 70.20
+- BNI | BSC | 加速中 | 强度 77.54 | 质量 71.11
   - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
-  - 资金 100.00 / 广度 72.92 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.84 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged PumpfunLife Token on Robinhood | Solana | 点火期 | 强度 75.18 | 质量 67.43
-  - 主题摘要：According to Muge's post, the token $PumpfunLife is allegedly available on Robinhood, with comments suggesting it is 'running' and 'pumping'. This information is unverified. Pleas…
-  - 资金 100.00 / 广度 83.12 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 千里马 | BSC | 加速中 | 强度 73.30 | 质量 61.08
+- Boltricks Development Comments on Pump.fun Anniversary | Solana | 加速中 | 强度 77.23 | 质量 62.48
+  - 主题摘要：According to Boltricks Development's post, the author commemorates the one-year anniversary of Pump.fun's IPO, describing the platform as the pinnacle of meme culture. Boltricks D…
+  - 资金 100.00 / 广度 76.75 / 确认 23.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- The Pepe Bull | Solana | 降温中 | 强度 77.21 | 质量 63.36
+  - 主题摘要：Multiple tokens named 「PEPSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.09 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Earn Bull | Solana | 加速中 | 强度 76.53 | 质量 64.25
+  - 主题摘要：TEB (The Earn Bull) is a token inspired by crypto culture, featuring a bull logo with flames. Created by mikey2246, a multifaceted crypto enthusiast with expertise in NFTs, cybers…
+  - 资金 100.00 / 广度 57.18 / 确认 20.16 / 脆弱性 0.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance 9th Anniversary: Scent of Time | BSC | 加速中 | 强度 76.48 | 质量 68.29
+  - 主题摘要：Binance celebrates its 9th anniversary with a poetic metaphor linking 'Good Morning' to the 'scent of time'. This abstract greeting blends community culture with brand nostalgia,…
+  - 资金 100.00 / 广度 86.15 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Febu Bull Token | Solana | 降温中 | 强度 76.01 | 质量 64.35
+  - 主题摘要：According to zarakisss's post, the user mentions 'febu bull' and the token symbol '$febull'. This suggests an alleged launch or promotion of a token named 'Febu Bull'. This inform…
+  - 资金 100.00 / 广度 88.06 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 千里马 | BSC | 加速中 | 强度 73.13 | 质量 60.76
   - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 77.70 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.29，其中已确认叙事 0 个。
-- Solana Founder Toly's Background 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Pumpfun is Everything 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.27，其中已确认叙事 0 个。
+- Boltricks Development Comments on Pump.fun Anniversary 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- PLONK 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Cash Cat | 质量 81.50 | 可交易性 100.00 | 风险 低
-- Hoppy | 质量 76.76 | 可交易性 100.00 | 风险 低
-- GOALFI | 质量 73.95 | 可交易性 100.00 | 风险 低
-- Pumpfun is Everything | 质量 73.79 | 可交易性 100.00 | 风险 低
-- Solana Founder Toly's Background | 质量 73.39 | 可交易性 84.85 | 风险 低
-- Binance 9th Anniversary: Scent of Time | 质量 72.29 | 可交易性 78.14 | 风险 低
-- TREASURE META COIN | 质量 72.08 | 可交易性 82.61 | 风险 低
-- HOME Token Platform Positioning | 质量 70.28 | 可交易性 71.75 | 风险 低
-- BNI | 质量 70.20 | 可交易性 100.00 | 风险 低
-- The Earn Bull | 质量 68.39 | 可交易性 100.00 | 风险 低
+- Cash Cat | 质量 81.52 | 可交易性 100.00 | 风险 低
+- Solana Founder Toly's Background | 质量 76.46 | 可交易性 91.35 | 风险 低
+- Hoppy | 质量 75.09 | 可交易性 100.00 | 风险 低
+- TREASURE META COIN | 质量 72.44 | 可交易性 83.42 | 风险 低
+- GOALFI | 质量 71.86 | 可交易性 94.60 | 风险 低
+- BNI | 质量 71.11 | 可交易性 100.00 | 风险 低
+- Binance 9th Anniversary: Scent of Time | 质量 68.29 | 可交易性 78.14 | 风险 低
+- PLONK | 质量 67.92 | 可交易性 100.00 | 风险 低
+- Alleged Febu Bull Token | 质量 64.35 | 可交易性 83.11 | 风险 低
+- The Earn Bull | 质量 64.25 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged PumpfunLife Token on Robinhood | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- The Pepe Bull | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Hoppy（Solana，分数 87.17）
+1. 当前最强叙事：Hoppy（Solana，分数 83.89）
 2. 共振最强代币：CZ（BSC，共振 100.0）
-3. 记忆层变化：Pumpfun is Everything 当前为“新出现”
+3. 记忆层变化：PLONK 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)
 #Binance #NarrativeOS #OpenClaw
