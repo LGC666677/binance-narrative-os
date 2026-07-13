@@ -1,98 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-13T09:56:21.806132+00:00
+- 生成时间：2026-07-13T12:25:06.896045+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Cash Cat，所在链为 BSC，叙事强度 83.79。
-- 当前平均叙事强度为 75.98，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 TSM，来自 BSC，共振分数 100.0。
-- 记忆层显示 bull unc 当前处于“新出现”状态。
+- 当前最强叙事是 Cash Cat，所在链为 BSC，叙事强度 82.39。
+- 当前平均叙事强度为 73.66，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 CUPSEY，来自 Solana，共振分数 100.0。
+- 记忆层显示 Glitch Bull 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Wojak Bull，伪叙事风险 47.79。
 - 最新官方催化来自 币安最新公告：Binance Will Add SKHYB Tokenized Securities as Collateral Assets。
 
 ## 叙事雷达
 
-- Cash Cat | BSC | 已确认 | 强度 83.79 | 质量 80.93
+- Cash Cat | BSC | 已确认 | 强度 82.39 | 质量 80.63
   - 主题摘要：According to Pomp's post, he requested the creation of a token named 'Zhao Cai Cat' ($赵财猫) on the BNB chain. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 86.53 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.52 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- bull unc | Solana | 降温中 | 强度 79.67 | 质量 70.15
-  - 主题摘要：BULLUNC is a meme token inspired by the 'Uncle' character from the 'Bull' meme, featuring a cartoon character with green horns and sunglasses. The token embraces internet humor an…
-  - 资金 100.00 / 广度 66.98 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PUMPCAT | Solana | 加速中 | 强度 79.03 | 质量 65.93
-  - 主题摘要：PUMPCAT is a meme token inspired by the viral 'Pump Cat' internet phenomenon. The token features a cat wearing a green cap, embodying the playful spirit of the original meme. PUMP…
-  - 资金 100.00 / 广度 81.40 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNI | BSC | 已确认 | 强度 78.30 | 质量 70.27
+- BNI | BSC | 加速中 | 强度 77.93 | 质量 72.21
   - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
-  - 资金 100.00 / 广度 71.08 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Bison Token Discussion | Solana | 加速中 | 强度 76.60 | 质量 65.65
-  - 主题摘要：According to Quant 💻's post, the author commented on a discussion regarding the 'Bison' token, clarifying that it is distinct from the 'Charging Bull' narrative. The post highligh…
-  - 资金 100.00 / 广度 83.88 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 70.51 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GOALFI | BSC | 加速中 | 强度 74.67 | 质量 64.75
-  - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.88 / 确认 20.16 / 脆弱性 14.00
+- Glitch Bull | Solana | 降温中 | 强度 75.96 | 质量 65.74
+  - 主题摘要：GLITCHBULL is a meme token inspired by the chaotic, glitchy aesthetic of internet culture. The logo features a bull with a distorted, glitchy appearance, embodying the token's nam…
+  - 资金 100.00 / 广度 55.95 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- PUMPCAT | Solana | 加速中 | 强度 75.06 | 质量 66.70
+  - 主题摘要：PUMPCAT is a meme token inspired by the viral 'Pump Cat' internet phenomenon. The token features a cat wearing a green cap, embodying the playful spirit of the original meme. PUMP…
+  - 资金 100.00 / 广度 82.82 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance User Years | BSC | 降温中 | 强度 74.66 | 质量 61.91
+- Alleged Sun Wukong Meme Image | Solana | 加速中 | 强度 74.70 | 质量 64.51
+  - 主题摘要：According to d's post, a token named Wukong (King Monkey) is allegedly being launched, referencing viral TikTok content featuring a monkey based on Sun Wukong. The post claims the…
+  - 资金 100.00 / 广度 81.74 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance User Years | BSC | 降温中 | 强度 74.38 | 质量 61.58
   - 主题摘要：Binance official account asks users about their tenure on the platform, a routine engagement post with low viral potential for a meme coin.
-  - 资金 100.00 / 广度 80.40 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.12 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged 'this is crazy' Token | Solana | 降温中 | 强度 74.39 | 质量 61.31
-  - 主题摘要：According to Ansem 🐂🀄️'s post, the author expressed surprise regarding the token named 'this is crazy' (Symbol: IS). The post consists of the phrase 'this is crazy', indicating a…
-  - 资金 100.00 / 广度 67.28 / 确认 9.36 / 脆弱性 14.00
+- Wojak Bull | Solana | 点火期 | 强度 74.31 | 质量 66.29
+  - 主题摘要：Multiple tokens named 「WOJAKULL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.23 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- CHILL BULLHOUSE | Solana | 降温中 | 强度 74.05 | 质量 67.55
+  - 主题摘要：ANSEMHOUSE (CHILL BULLHOUSE) is a meme token inspired by the Bull Market concept, featuring a cartoon house with bull horns as its logo. The token embraces a laid-back, community-…
+  - 资金 100.00 / 广度 58.31 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Sun Wukong Meme Image | Solana | 加速中 | 强度 73.70 | 质量 63.35
-  - 主题摘要：According to d's post, a token named Wukong (King Monkey) is allegedly being launched, referencing viral TikTok content featuring a monkey based on Sun Wukong. d claims the token…
-  - 资金 100.00 / 广度 81.49 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- TREASURE META COIN | BSC | 加速中 | 强度 73.40 | 质量 62.69
+- TREASURE META COIN | BSC | 加速中 | 强度 73.22 | 质量 63.92
   - 主题摘要：Multiple tokens named 「TMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.11 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.05 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Elon Musk and Mark Zuckerberg Meme | Solana | 降温中 | 强度 73.27 | 质量 59.63
-  - 主题摘要：According to trueadam's post, the author speculates on the symbolic identities of Elon Musk and Mark Zuckerberg, referencing associated tokens. The post mentions tokens named 'Elo…
-  - 资金 100.00 / 广度 65.00 / 确认 9.36 / 脆弱性 14.00
+- Alleged Hamster Meme Coin | Solana | 降温中 | 强度 72.30 | 质量 59.38
+  - 主题摘要：According to xylox's post, the hamster wheel is used as a metaphor for the global financial system, describing investors as hamsters running without progress. Multiple tokens name…
+  - 资金 100.00 / 广度 76.02 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Nietzschean Elon Meme | Solana | 降温中 | 强度 73.18 | 质量 59.21
-  - 主题摘要：According to LillyKuan's post, she identifies a specific Meme image as depicting Elon Musk walking towards mountains, titled "Nietzschean Elon." LillyKuan, claiming to be the deve…
-  - 资金 100.00 / 广度 69.70 / 确认 9.36 / 脆弱性 14.00
+- GOALFI | BSC | 点火期 | 强度 71.90 | 质量 65.05
+  - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.78 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- COCOFLIP | BSC | 降温中 | 强度 70.51 | 质量 56.60
+  - 主题摘要：Multiple tokens named 「COCOFLIP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.47 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Side Eye Duck Meme Image Launch | Solana | 降温中 | 强度 72.19 | 质量 56.52
-  - 主题摘要：According to Wugi's post, the 'Side Eye Duck' (Dafuan) Meme image is going viral on Instagram with 9M views. Wugi claims to have launched a token, $DAFUAN, at a 25K market cap. Th…
-  - 资金 100.00 / 广度 76.75 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 千里马 | BSC | 加速中 | 强度 71.08 | 质量 59.87
-  - 主题摘要：Multiple tokens named 「QLM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.09 / 确认 24.48 / 脆弱性 14.00
+- 掼蛋 | BSC | 加速中 | 强度 69.56 | 质量 60.01
+  - 主题摘要：Multiple tokens named 「掼蛋」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.02 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 未来引力 | BSC | 降温中 | 强度 69.37 | 质量 56.27
+  - 主题摘要：Multiple tokens named 「未来引力」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.96 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.98，其中已确认叙事 2 个。
-- Alleged Sun Wukong Meme Image 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- bull unc 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 73.66，其中已确认叙事 1 个。
+- Wojak Bull 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Glitch Bull 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Cash Cat | 质量 80.93 | 可交易性 100.00 | 风险 低
-- BNI | 质量 70.27 | 可交易性 100.00 | 风险 低
-- bull unc | 质量 70.15 | 可交易性 100.00 | 风险 低
-- PUMPCAT | 质量 65.93 | 可交易性 60.95 | 风险 低
-- Alleged Bison Token Discussion | 质量 65.65 | 可交易性 56.99 | 风险 低
-- GOALFI | 质量 64.75 | 可交易性 81.16 | 风险 低
-- Alleged Sun Wukong Meme Image | 质量 63.35 | 可交易性 54.90 | 风险 低
-- TREASURE META COIN | 质量 62.69 | 可交易性 83.95 | 风险 低
-- Binance User Years | 质量 61.91 | 可交易性 73.79 | 风险 低
-- Alleged 'this is crazy' Token | 质量 61.31 | 可交易性 70.22 | 风险 低
+- Cash Cat | 质量 80.63 | 可交易性 100.00 | 风险 低
+- BNI | 质量 72.21 | 可交易性 100.00 | 风险 低
+- CHILL BULLHOUSE | 质量 67.55 | 可交易性 100.00 | 风险 低
+- PUMPCAT | 质量 66.70 | 可交易性 62.08 | 风险 低
+- Wojak Bull | 质量 66.29 | 可交易性 87.86 | 风险 低
+- Glitch Bull | 质量 65.74 | 可交易性 100.00 | 风险 低
+- GOALFI | 质量 65.05 | 可交易性 80.09 | 风险 低
+- Alleged Sun Wukong Meme Image | 质量 64.51 | 可交易性 55.33 | 风险 低
+- TREASURE META COIN | 质量 63.92 | 可交易性 84.13 | 风险 低
+- Binance User Years | 质量 61.58 | 可交易性 74.12 | 风险 低
 
 ## 伪叙事风险
 
+- Wojak Bull | 风险 47.79 | 原因：流动性偏薄
+- GOALFI | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -131,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Cash Cat（BSC，分数 83.79）
-2. 共振最强代币：TSM（BSC，共振 100.0）
-3. 记忆层变化：bull unc 当前为“新出现”
+1. 当前最强叙事：Cash Cat（BSC，分数 82.39）
+2. 共振最强代币：CUPSEY（Solana，共振 100.0）
+3. 记忆层变化：Glitch Bull 当前为“新出现”
 4. 最新官方催化：Binance Will Add SKHYB Tokenized Securities as Collateral Assets
 #Binance #NarrativeOS #OpenClaw
