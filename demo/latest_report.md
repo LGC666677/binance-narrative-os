@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-13T18:52:03.646954+00:00
+- 生成时间：2026-07-13T20:03:20.745009+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 oway.sol Posts Dog Meme Image，所在链为 Solana，叙事强度 82.82。
-- 当前平均叙事强度为 77.9，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 oway.sol Posts Dog Meme Image 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Perp Puller，伪叙事风险 45.58。
+- 当前最强叙事是 The Kintara Bull，所在链为 Solana，叙事强度 84.12。
+- 当前平均叙事强度为 76.45，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged NASGOD Token Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Cowboy The Raccoon，伪叙事风险 42.03。
 - 最新官方催化来自 新币上新：Binance Will Add SKHYB Tokenized Securities as Collateral Assets。
 
 ## 叙事雷达
 
-- oway.sol Posts Dog Meme Image | Solana | 降温中 | 强度 82.82 | 质量 76.13
-  - 主题摘要：According to oway.sol's post, a Meme image featuring a dog on a mission to become viral is shared. The post references the token Sydney (SYDNEY). This information is unverified. P…
-  - 资金 100.00 / 广度 91.17 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Kintara Bull | Solana | 降温中 | 强度 81.13 | 质量 69.77
+- The Kintara Bull | Solana | 降温中 | 强度 84.12 | 质量 75.21
   - 主题摘要：ANSENS (The Kintara Bull) is a meme token inspired by the Kintara community's bullish market sentiment. The logo features a pixelated black bull with wooden horns, embodying the t…
-  - 资金 100.00 / 广度 65.71 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 78.55 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Scream Bull | Solana | 降温中 | 强度 80.55 | 质量 71.54
+- The Scream Bull | Solana | 降温中 | 强度 82.90 | 质量 73.52
   - 主题摘要：Multiple tokens named 「ScreamBull」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.61 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.21 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ Denies Backing Meme Coins | BSC | 加速中 | 强度 79.46 | 质量 70.05
-  - 主题摘要：According to gettindevvy_'s post, CZ stated that he was clearing digital garbage by burning 400 million spam tokens worth $1.6 million, and explicitly referred to meme coins as di…
-  - 资金 100.00 / 广度 67.12 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Khan Comments on Binance 9th Anniversary Exhibition | BSC | 已确认 | 强度 79.40 | 质量 76.31
+- Alleged NASGOD Token Launch | Solana | 降温中 | 强度 76.67 | 质量 67.48
+  - 主题摘要：According to Pump's post, the creator of various animal memes has launched the NASGOD token. The post characterizes NASGOD as the culmination of previous meme projects, describing…
+  - 资金 100.00 / 广度 59.06 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Khan Comments on Binance 9th Anniversary Exhibition | BSC | 加速中 | 强度 75.68 | 质量 72.87
   - 主题摘要：According to Khan 🔶 BNB's post, he expressed strong admiration for Binance's 9th Anniversary online installation exhibition titled "Worn by No One." He praised the high-quality vi…
-  - 资金 100.00 / 广度 80.71 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Perp Puller | Solana | 降温中 | 强度 78.28 | 质量 71.84
-  - 主题摘要：Multiple tokens named 「PULLER」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.59 / 确认 9.36 / 脆弱性 32.83
+  - 资金 100.00 / 广度 80.08 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged 1-Autist Unicorn Theory | Solana | 降温中 | 强度 75.09 | 质量 58.77
+  - 主题摘要：According to andrew chen's post, he proposes the '1-autist unicorn theory,' suggesting that if AI eliminates the need for human builders, individuals with high IQ and low EQ may b…
+  - 资金 100.00 / 广度 76.89 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- COCOFLIP | BSC | 加速中 | 强度 76.14 | 质量 64.16
+- COCOFLIP | BSC | 加速中 | 强度 74.99 | 质量 64.19
   - 主题摘要：Multiple tokens named 「COCOFLIP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.65 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.71 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Bison Token Discussion | Solana | 加速中 | 强度 75.95 | 质量 67.57
-  - 主题摘要：According to Quant 💻's post, the author commented on a discussion regarding 'The Charging Bison' token, clarifying that it is distinct from the 'Charging Bull' narrative. The post…
-  - 资金 99.87 / 广度 86.40 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- alon Retweets Revinu Article | Solana | 降温中 | 强度 75.30 | 质量 63.49
-  - 主题摘要：According to alon's post, the co-founder of pumpfun, he retweeted an article link related to the token Revinu. This action indicates attention or sharing of information regarding…
-  - 资金 99.72 / 广度 56.71 / 确认 9.36 / 脆弱性 14.00
+- terry Comments on Cashdog and USDC | Solana | 降温中 | 强度 74.93 | 质量 65.00
+  - 主题摘要：According to terry's post, terry commented on the performance of Cashdog and USDC. terry noted that Cashdog is experiencing a decline while Cashdog presents an opportunity, and hi…
+  - 资金 100.00 / 广度 51.41 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Haru Meme Coin | Solana | 降温中 | 强度 75.01 | 质量 67.63
-  - 主题摘要：According to hubz's post, the dog 'Haru' is trending on social media, described as the face of 'normie memes' with a narrative similar to 'relax dog'. Hubz claims the token $Haru…
-  - 资金 100.00 / 广度 65.12 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- nostalgia man | Solana | 加速中 | 强度 74.15 | 质量 69.60
-  - 主题摘要：Multiple tokens named 「nostalgia」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.41 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cash Cat | BSC | 加速中 | 强度 73.39 | 质量 69.41
-  - 主题摘要：According to Pomp's post, he requested the creation of a token named 'Zhao Cai Cat' ($赵财猫) on the BNB chain. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 79.73 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GOALFI | BSC | 加速中 | 强度 72.73 | 质量 65.98
+- GOALFI | BSC | 加速中 | 强度 74.75 | 质量 66.25
   - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.35 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.34 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNI | BSC | 加速中 | 强度 72.70 | 质量 63.22
+- nostalgia man | Solana | 加速中 | 强度 72.90 | 质量 69.44
+  - 主题摘要：Multiple tokens named 「nostalgia」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.42 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Cowboy The Raccoon | Solana | 点火期 | 强度 72.79 | 质量 68.46
+  - 主题摘要：Cowboy The Raccoon is a meme token inspired by the playful raccoon character. The logo features a raccoon wearing a cowboy hat, embodying the token's humorous, rebellious spirit.…
+  - 资金 100.00 / 广度 56.06 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- BNI | BSC | 加速中 | 强度 72.34 | 质量 62.70
   - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
-  - 资金 100.00 / 广度 70.08 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 70.01 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Raccoon On Wheels | Solana | 降温中 | 强度 72.21 | 质量 59.45
+  - 主题摘要：R.O.W. (Raccoon On Wheels) is a meme token inspired by the playful raccoon character. The logo features a raccoon with a wheel, symbolizing the token's playful nature and communit…
+  - 资金 100.00 / 广度 76.74 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- TREASURE META COIN | BSC | 加速中 | 强度 72.20 | 质量 63.79
+  - 主题摘要：Multiple tokens named 「TMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.45 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Cash Cat | BSC | 加速中 | 强度 72.05 | 质量 69.28
+  - 主题摘要：According to Pomp's post, he requested the creation of a token named 'Zhao Cai Cat' ($赵财猫) on the BNB chain. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 79.43 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.9，其中已确认叙事 0 个。
-- Uncertain:CZ Denies Backing Meme Coins 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- oway.sol Posts Dog Meme Image 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.45，其中已确认叙事 0 个。
+- Cowboy The Raccoon 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- The Kintara Bull 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:Khan Comments on Binance 9th Anniversary Exhibition | 质量 76.31 | 可交易性 93.08 | 风险 低
-- oway.sol Posts Dog Meme Image | 质量 76.13 | 可交易性 94.69 | 风险 低
-- Perp Puller | 质量 71.84 | 可交易性 100.00 | 风险 低
-- The Scream Bull | 质量 71.54 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Denies Backing Meme Coins | 质量 70.05 | 可交易性 88.42 | 风险 低
-- The Kintara Bull | 质量 69.77 | 可交易性 100.00 | 风险 低
-- nostalgia man | 质量 69.60 | 可交易性 100.00 | 风险 低
-- Cash Cat | 质量 69.41 | 可交易性 100.00 | 风险 低
-- Alleged Haru Meme Coin | 质量 67.63 | 可交易性 88.16 | 风险 低
-- Alleged Bison Token Discussion | 质量 67.57 | 可交易性 64.05 | 风险 低
+- The Kintara Bull | 质量 75.21 | 可交易性 100.00 | 风险 低
+- The Scream Bull | 质量 73.52 | 可交易性 100.00 | 风险 低
+- Uncertain:Khan Comments on Binance 9th Anniversary Exhibition | 质量 72.87 | 可交易性 82.24 | 风险 低
+- nostalgia man | 质量 69.44 | 可交易性 100.00 | 风险 低
+- Cash Cat | 质量 69.28 | 可交易性 100.00 | 风险 低
+- Cowboy The Raccoon | 质量 68.46 | 可交易性 100.00 | 风险 低
+- Alleged NASGOD Token Launch | 质量 67.48 | 可交易性 99.02 | 风险 低
+- GOALFI | 质量 66.25 | 可交易性 80.65 | 风险 低
+- terry Comments on Cashdog and USDC | 质量 65.00 | 可交易性 98.39 | 风险 低
+- COCOFLIP | 质量 64.19 | 可交易性 57.29 | 风险 低
 
 ## 伪叙事风险
 
-- Perp Puller | 风险 45.58 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Cowboy The Raccoon | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：oway.sol Posts Dog Meme Image（Solana，分数 82.82）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：oway.sol Posts Dog Meme Image 当前为“新出现”
+1. 当前最强叙事：The Kintara Bull（Solana，分数 84.12）
+2. 共振最强代币：TROLL（Solana，共振 100.0）
+3. 记忆层变化：Alleged NASGOD Token Launch 当前为“新出现”
 4. 最新官方催化：Binance Will Add SKHYB Tokenized Securities as Collateral Assets
 #Binance #NarrativeOS #OpenClaw
