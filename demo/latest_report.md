@@ -1,98 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-13T22:05:26.704846+00:00
+- 生成时间：2026-07-13T23:08:33.042607+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Chiki: CashDog on Solana，所在链为 Solana，叙事强度 81.69。
-- 当前平均叙事强度为 76.53，其中已确认叙事 0 个。
+- 当前最强叙事是 freg: Market Pivot to Frog Memes，所在链为 Solana，叙事强度 79.04。
+- 当前平均叙事强度为 76.03，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Cash Cat 当前处于“新出现”状态。
+- 记忆层显示 freg: Market Pivot to Frog Memes 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 oway.sol Posts Dog Meme Image，伪叙事风险 42.03。
 - 最新官方催化来自 新币上新：Binance Will Add SKHYB Tokenized Securities as Collateral Assets。
 
 ## 叙事雷达
 
-- Chiki: CashDog on Solana | Solana | 加速中 | 强度 81.69 | 质量 76.43
+- freg: Market Pivot to Frog Memes | Solana | 加速中 | 强度 79.04 | 质量 71.96
+  - 主题摘要：According to freg's post, the market is eager to return to meme culture, but existing cat and dog memes are considered derivative. freg advocates for a pivot to frog-themed memes…
+  - 资金 100.00 / 广度 65.08 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- The Black Bear | Solana | 降温中 | 强度 78.83 | 质量 68.97
+  - 主题摘要：BlackBear token represents the bear market sentiment, inspired by the bear's historical dominance in financial markets. The logo features a bear with red eyes, symbolizing resilie…
+  - 资金 100.00 / 广度 63.04 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Chiki: CashDog on Solana | Solana | 加速中 | 强度 78.40 | 质量 76.38
   - 主题摘要：According to Chiki's post, CashDog is gaining traction on Robinhood, prompting a call to expand its presence on the Solana blockchain. Chiki characterizes the token as a 'free run…
-  - 资金 100.00 / 广度 76.83 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.18 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Kintara Bull | Solana | 降温中 | 强度 78.68 | 质量 65.19
-  - 主题摘要：ANSENS (The Kintara Bull) is a meme token inspired by the Kintara community's bullish market sentiment. The logo features a pixelated black bull with wooden horns, embodying the t…
-  - 资金 100.00 / 广度 83.89 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ElaraHandmade Discusses Isaac Meme | Solana | 降温中 | 强度 77.63 | 质量 69.54
-  - 主题摘要：According to ElaraHandmade's post, the character Isaac from the video game The Binding of Isaac is experiencing significant viral popularity on social media, with users creating n…
-  - 资金 100.00 / 广度 64.92 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Khan Comments on Binance 9th Anniversary Exhibition | BSC | 加速中 | 强度 76.59 | 质量 72.78
+- Uncertain:Khan Comments on Binance 9th Anniversary Exhibition | BSC | 加速中 | 强度 77.17 | 质量 72.97
   - 主题摘要：According to Khan 🔶 BNB's post, he expressed strong admiration for Binance's 9th Anniversary online installation exhibition titled "Worn by No One." He praised the high-quality vi…
-  - 资金 100.00 / 广度 80.15 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.23 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- alon Comments on PumpFun | Solana | 加速中 | 强度 76.30 | 质量 70.45
-  - 主题摘要：According to alon's post, the co-founder of PumpFun, he expresses a bullish stance on the PumpFun platform. He acknowledges past criticisms but highlights recent improvements, inc…
-  - 资金 100.00 / 广度 81.76 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- COCOFLIP | BSC | 加速中 | 强度 74.98 | 质量 64.21
-  - 主题摘要：Multiple tokens named 「COCOFLIP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.82 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance User Years | BSC | 降温中 | 强度 74.82 | 质量 62.88
-  - 主题摘要：Binance official account asks users about their tenure on the platform, a routine engagement post with low viral potential for a meme coin.
-  - 资金 100.00 / 广度 80.08 / 确认 9.36 / 脆弱性 14.00
+- SAPPHIRE | Solana | 降温中 | 强度 76.93 | 质量 69.85
+  - 主题摘要：Born under neon rain, $SAPPHIRE embodies the raw meme alchemy of Solana - a glitching dream that moves through crypto's electric veins. Its 22x explosion from $7.6k to $168k marke…
+  - 资金 100.00 / 广度 65.98 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GOALFI | BSC | 加速中 | 强度 73.83 | 质量 66.46
-  - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.37 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- TREASURE META COIN | BSC | 加速中 | 强度 73.77 | 质量 63.78
-  - 主题摘要：Multiple tokens named 「TMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.35 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cash Cat | BSC | 加速中 | 强度 72.77 | 质量 68.41
-  - 主题摘要：According to Pomp's post, he requested the creation of a token named 'Zhao Cai Cat' ($赵财猫) on the BNB chain. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 79.13 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- nostalgia man | Solana | 加速中 | 强度 72.45 | 质量 69.09
-  - 主题摘要：Multiple tokens named 「nostalgia」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.28 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of unity-3:native | Solana | 降温中 | 强度 72.45 | 质量 60.05
+- Alleged Launch of unity-3:native | Solana | 降温中 | 强度 76.63 | 质量 62.19
   - 主题摘要：According to Riskbets's post, the developer announced the launch of a new token named unity-3:native on Pump Fun. The initiative aims to unite the crypto community by eliminating…
-  - 资金 100.00 / 广度 58.39 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 59.26 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNI | BSC | 加速中 | 强度 72.34 | 质量 62.70
-  - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
-  - 资金 100.00 / 广度 70.01 / 确认 31.68 / 脆弱性 14.00
+- COCOFLIP | BSC | 加速中 | 强度 74.60 | 质量 64.16
+  - 主题摘要：Multiple tokens named 「COCOFLIP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.86 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Denies Backing Meme Coins | BSC | 加速中 | 强度 71.10 | 质量 64.66
-  - 主题摘要：According to gettindevvy_'s post, CZ stated that he was clearing digital garbage by burning 400 million spam tokens worth $1.6 million, and explicitly referred to meme coins as di…
-  - 资金 100.00 / 广度 75.61 / 确认 24.48 / 脆弱性 14.00
+- TREASURE META COIN | BSC | 加速中 | 强度 74.14 | 质量 64.32
+  - 主题摘要：Multiple tokens named 「TMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.32 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Cash Cat | BSC | 加速中 | 强度 73.00 | 质量 68.96
+  - 主题摘要：According to Pomp's post, he requested the creation of a token named 'Zhao Cai Cat' ($赵财猫) on the BNB chain. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 79.05 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance User Years | BSC | 降温中 | 强度 72.91 | 质量 61.89
+  - 主题摘要：Binance official account asks users about their tenure on the platform, a routine engagement post with low viral potential for a meme coin.
+  - 资金 100.00 / 广度 80.08 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- GOALFI | BSC | 加速中 | 强度 72.69 | 质量 65.19
+  - 主题摘要：Multiple tokens named 「币安久安」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.17 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- BNI | BSC | 加速中 | 强度 72.46 | 质量 62.94
+  - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
+  - 资金 100.00 / 广度 69.98 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- oway.sol Posts Dog Meme Image | Solana | 点火期 | 强度 71.25 | 质量 63.16
+  - 主题摘要：According to oway.sol's post, a Meme image featuring a dog on a mission to become viral is shared. The post references the token Sydney (SYDNEY). This information is unverified. P…
+  - 资金 100.00 / 广度 86.02 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- nostalgia man | Solana | 加速中 | 强度 71.10 | 质量 67.06
+  - 主题摘要：Multiple tokens named 「nostalgia」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.11 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.53，其中已确认叙事 0 个。
-- Cash Cat 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- The Kintara Bull 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.03，其中已确认叙事 0 个。
+- freg: Market Pivot to Frog Memes 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- The Black Bear 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Chiki: CashDog on Solana | 质量 76.43 | 可交易性 100.00 | 风险 低
-- Uncertain:Khan Comments on Binance 9th Anniversary Exhibition | 质量 72.78 | 可交易性 81.87 | 风险 低
-- alon Comments on PumpFun | 质量 70.45 | 可交易性 78.30 | 风险 低
-- ElaraHandmade Discusses Isaac Meme | 质量 69.54 | 可交易性 100.00 | 风险 低
-- nostalgia man | 质量 69.09 | 可交易性 100.00 | 风险 低
-- Cash Cat | 质量 68.41 | 可交易性 100.00 | 风险 低
-- GOALFI | 质量 66.46 | 可交易性 80.75 | 风险 低
-- The Kintara Bull | 质量 65.19 | 可交易性 61.27 | 风险 低
-- Uncertain:CZ Denies Backing Meme Coins | 质量 64.66 | 可交易性 61.97 | 风险 低
-- COCOFLIP | 质量 64.21 | 可交易性 57.25 | 风险 低
+- Chiki: CashDog on Solana | 质量 76.38 | 可交易性 100.00 | 风险 低
+- Uncertain:Khan Comments on Binance 9th Anniversary Exhibition | 质量 72.97 | 可交易性 82.42 | 风险 低
+- freg: Market Pivot to Frog Memes | 质量 71.96 | 可交易性 100.00 | 风险 低
+- SAPPHIRE | 质量 69.85 | 可交易性 100.00 | 风险 低
+- The Black Bear | 质量 68.97 | 可交易性 100.00 | 风险 低
+- Cash Cat | 质量 68.96 | 可交易性 100.00 | 风险 低
+- nostalgia man | 质量 67.06 | 可交易性 100.00 | 风险 低
+- GOALFI | 质量 65.19 | 可交易性 80.57 | 风险 低
+- TREASURE META COIN | 质量 64.32 | 可交易性 82.78 | 风险 低
+- COCOFLIP | 质量 64.16 | 可交易性 57.07 | 风险 低
 
 ## 伪叙事风险
 
+- oway.sol Posts Dog Meme Image | 风险 42.03 | 原因：流动性偏薄
+- Binance User Years | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,7 +108,7 @@
 - GMC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Wukong | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - OS | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- HEHE | BSC | 看多 | 新鲜度 82.09 | 暂无直接叙事映射
+- febu | Solana | 看多 | 新鲜度 90.36 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Chiki: CashDog on Solana（Solana，分数 81.69）
+1. 当前最强叙事：freg: Market Pivot to Frog Memes（Solana，分数 79.04）
 2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Cash Cat 当前为“新出现”
+3. 记忆层变化：freg: Market Pivot to Frog Memes 当前为“新出现”
 4. 最新官方催化：Binance Will Add SKHYB Tokenized Securities as Collateral Assets
 #Binance #NarrativeOS #OpenClaw
