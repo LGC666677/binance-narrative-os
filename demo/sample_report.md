@@ -1,101 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-14T12:08:29.855339+00:00
+- 生成时间：2026-07-14T14:08:54.559784+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged US Currency with Trump Signature，所在链为 Solana，叙事强度 86.31。
-- 当前平均叙事强度为 79.66，其中已确认叙事 1 个。
+- 当前最强叙事是 Alleged US Currency with Trump Signature，所在链为 Solana，叙事强度 82.14。
+- 当前平均叙事强度为 72.52，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 FEBU，来自 Solana，共振分数 100.0。
-- 记忆层显示 bullbrain 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 P Discusses USDC Narrative，伪叙事风险 50.11。
+- 记忆层显示 CAPTAIN PUMPZILLA 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Trump Coin Analysis，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Wallet DeFi Exclusive: Subscribe to Pharos R25 Axil Prime USDC Vault to Share Up to 13% APR and $300,000 in PROS Rewards。
 
 ## 叙事雷达
 
-- Alleged US Currency with Trump Signature | Solana | 加速中 | 强度 86.31 | 质量 79.34
+- Alleged US Currency with Trump Signature | Solana | 加速中 | 强度 82.14 | 质量 79.85
   - 主题摘要：According to Daniel Torok's post, Treasury Secretary Scott Bessent revealed plans to issue new US currency featuring Donald Trump's signature and name on coins, available this fal…
-  - 资金 100.00 / 广度 87.05 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.21 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- bullbrain | Solana | 降温中 | 强度 85.02 | 质量 74.87
-  - 主题摘要：Multiple tokens named 「bullbrain」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.69 / 确认 9.36 / 脆弱性 14.00
+- CAPTAIN PUMPZILLA | Solana | 降温中 | 强度 82.00 | 质量 76.26
+  - 主题摘要：Multiple tokens named 「CP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.07 / 确认 16.56 / 脆弱性 26.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Black Bear | Solana | 降温中 | 强度 81.90 | 质量 69.35
+- The Black Bear | Solana | 降温中 | 强度 77.65 | 质量 69.55
   - 主题摘要：BlackBear token represents the bear market sentiment, inspired by the bear's historical dominance in financial markets. The logo features a bear with red eyes, symbolizing resilie…
-  - 资金 100.00 / 广度 64.29 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 64.96 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Hyper Bull | Solana | 已确认 | 强度 81.56 | 质量 81.83
-  - 主题摘要：HBULL is the open beta of the Black Bull lineage, designed to amplify ANSEM holders. The token features a glowing green bull logo symbolizing strength and growth. HBULL/SOL pool f…
-  - 资金 100.00 / 广度 93.32 / 确认 28.08 / 脆弱性 47.90
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance User Years | BSC | 降温中 | 强度 79.03 | 质量 67.99
-  - 主题摘要：Binance official account asks users about their tenure on the platform, a routine engagement post with low viral potential for a meme coin.
-  - 资金 100.00 / 广度 83.07 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Chiki: CashDog on Solana | Solana | 点火期 | 强度 76.96 | 质量 74.80
-  - 主题摘要：According to Chiki's post, CashDog is gaining traction on Robinhood, prompting a call to expand its presence on the Solana blockchain. Chiki characterizes the token as a 'free run…
-  - 资金 100.00 / 广度 77.20 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- P Discusses USDC Narrative | Solana | 点火期 | 强度 76.68 | 质量 69.30
-  - 主题摘要：According to P's post, P argues that a specific trading run should have occurred on USDC rather than BONK, describing it as a 'perfect USDC narrative' and a 'runner'. P emphasizes…
-  - 资金 98.10 / 广度 92.39 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Patreon Sol Wallet Disclosure | Solana | 加速中 | 强度 75.29 | 质量 62.74
-  - 主题摘要：According to the post, a specific individual has disclosed a Solana wallet address on their Patreon website. This action serves as a public verification of their cryptocurrency ho…
-  - 资金 100.00 / 广度 78.06 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged Release of Haland Zhao Meme Image | BSC | 加速中 | 强度 74.92 | 质量 72.92
-  - 主题摘要：CZ replied to a post featuring a meme image comparing himself to footballer Erling Haaland, stating that the original version is better. The post references a fan-created image co…
-  - 资金 100.00 / 广度 82.53 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNI | BSC | 加速中 | 强度 73.59 | 质量 65.82
+- BNI | BSC | 加速中 | 强度 77.19 | 质量 71.65
   - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
-  - 资金 100.00 / 广度 68.60 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 68.51 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BULIK | Solana | 降温中 | 强度 73.53 | 质量 60.81
-  - 主题摘要：Multiple tokens named 「BULIK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.66 / 确认 9.36 / 脆弱性 14.00
+- P Discusses USDC Narrative | Solana | 点火期 | 强度 75.96 | 质量 69.50
+  - 主题摘要：According to P's post, P argues that a specific token run should have occurred on USDC rather than BONK, describing it as a 'runner' with a 'perfect USDC narrative'. P emphasizes…
+  - 资金 100.00 / 广度 93.00 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Chiki: CashDog on Solana | Solana | 点火期 | 强度 75.34 | 质量 73.20
+  - 主题摘要：According to Chiki's post, CashDog is gaining traction on Robinhood, prompting a call to expand its presence on the Solana blockchain. Chiki characterizes the token as a 'free run…
+  - 资金 100.00 / 广度 77.15 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Trump Coin Analysis | Solana | 点火期 | 强度 74.59 | 质量 74.50
+  - 主题摘要：According to john's post, the author discusses an alleged Trump Coin, suggesting it should have a low float and be listed on a specific platform, drawing comparisons to previous m…
+  - 资金 100.00 / 广度 81.46 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Luna Bear Posts Meme Image of Rescued Bear | Solana | 点火期 | 强度 74.45 | 质量 70.86
+  - 主题摘要：According to Luna Bear's post, a sloth bear cub named Luna was rescued from Bandhavgarh forests after being found injured and alone. The post highlights the cub's recovery and ret…
+  - 资金 100.00 / 广度 69.32 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Flea Meme Coin | Solana | 降温中 | 强度 74.31 | 质量 64.53
+  - 主题摘要：According to bruh fish's post, the main character's name is Flea, referencing a Claynosaurz Prime video. This content is associated with tokens named Flea on Solana. This informat…
+  - 资金 100.00 / 广度 79.54 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- COCOFLIP | BSC | 加速中 | 强度 72.59 | 质量 60.12
-  - 主题摘要：Multiple tokens named 「COCOFLIP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.63 / 确认 24.48 / 脆弱性 14.00
+- Sacred Scarab Launches Buyback & Burn | BSC | 降温中 | 强度 72.65 | 质量 59.47
+  - 主题摘要：According to Sacred Scarab's post, the scheduled buyback and burn mechanism for the token has officially launched. The initiative aims to reduce total supply through continuous de…
+  - 资金 100.00 / 广度 72.53 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance User Years | BSC | 降温中 | 强度 72.32 | 质量 63.48
+  - 主题摘要：Binance official account asks users about their tenure on the platform, a routine engagement post with low viral potential for a meme coin.
+  - 资金 100.00 / 广度 83.17 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Cash Cat | BSC | 加速中 | 强度 71.92 | 质量 68.46
+  - 主题摘要：According to Pomp's post, he requested the creation of a token named 'Zhao Cai Cat' ($赵财猫) on the BNB chain. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 74.18 / 确认 30.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 未来引力 | BSC | 降温中 | 强度 72.14 | 质量 58.50
-  - 主题摘要：Multiple tokens named 「未来引力」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.49 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 30秒永动销毁+裂变+二重销毁 | BSC | 降温中 | 强度 71.52 | 质量 57.20
+- 30秒永动销毁+裂变+二重销毁 | BSC | 降温中 | 强度 71.85 | 质量 57.33
   - 主题摘要：Multiple tokens named 「半分永动金库」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.58 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.91 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- COCOFLIP | BSC | 加速中 | 强度 69.17 | 质量 59.05
+  - 主题摘要：Multiple tokens named 「COCOFLIP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.72 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.66，其中已确认叙事 1 个。
-- Uncertain:Alleged Release of Haland Zhao Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- bullbrain 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 72.52，其中已确认叙事 0 个。
+- Alleged Trump Coin Analysis 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- CAPTAIN PUMPZILLA 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Hyper Bull | 质量 81.83 | 可交易性 98.84 | 风险 低
-- Alleged US Currency with Trump Signature | 质量 79.34 | 可交易性 100.00 | 风险 低
-- bullbrain | 质量 74.87 | 可交易性 100.00 | 风险 低
-- Chiki: CashDog on Solana | 质量 74.80 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Release of Haland Zhao Meme Image | 质量 72.92 | 可交易性 92.14 | 风险 低
-- The Black Bear | 质量 69.35 | 可交易性 100.00 | 风险 低
-- P Discusses USDC Narrative | 质量 69.30 | 可交易性 69.10 | 风险 低
-- Binance User Years | 质量 67.99 | 可交易性 78.49 | 风险 低
-- BNI | 质量 65.82 | 可交易性 100.00 | 风险 低
-- Patreon Sol Wallet Disclosure | 质量 62.74 | 可交易性 53.11 | 风险 低
+- Alleged US Currency with Trump Signature | 质量 79.85 | 可交易性 100.00 | 风险 低
+- CAPTAIN PUMPZILLA | 质量 76.26 | 可交易性 100.00 | 风险 低
+- Alleged Trump Coin Analysis | 质量 74.50 | 可交易性 100.00 | 风险 低
+- Chiki: CashDog on Solana | 质量 73.20 | 可交易性 100.00 | 风险 低
+- BNI | 质量 71.65 | 可交易性 100.00 | 风险 低
+- Luna Bear Posts Meme Image of Rescued Bear | 质量 70.86 | 可交易性 100.00 | 风险 低
+- The Black Bear | 质量 69.55 | 可交易性 100.00 | 风险 低
+- P Discusses USDC Narrative | 质量 69.50 | 可交易性 69.17 | 风险 低
+- Cash Cat | 质量 68.46 | 可交易性 99.59 | 风险 低
+- Alleged Flea Meme Coin | 质量 64.53 | 可交易性 63.43 | 风险 低
 
 ## 伪叙事风险
 
-- P Discusses USDC Narrative | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Chiki: CashDog on Solana | 风险 42.03 | 原因：流动性偏薄
+- Alleged Trump Coin Analysis | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Chiki: CashDog on Solana | 风险 47.79 | 原因：流动性偏薄
+- Luna Bear Posts Meme Image of Rescued Bear | 风险 47.79 | 原因：流动性偏薄
+- P Discusses USDC Narrative | 风险 44.91 | 原因：流动性偏薄
+- The Black Bear | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Binance User Years | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -134,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged US Currency with Trump Signature（Solana，分数 86.31）
+1. 当前最强叙事：Alleged US Currency with Trump Signature（Solana，分数 82.14）
 2. 共振最强代币：FEBU（Solana，共振 100.0）
-3. 记忆层变化：bullbrain 当前为“新出现”
+3. 记忆层变化：CAPTAIN PUMPZILLA 当前为“新出现”
 4. 最新官方催化：Binance Wallet DeFi Exclusive: Subscribe to Pharos R25 Axil Prime USDC Vault to Share Up to 13% APR and $300,000 in PROS Rewards
 #Binance #NarrativeOS #OpenClaw
