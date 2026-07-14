@@ -1,98 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-14T17:53:27.943273+00:00
+- 生成时间：2026-07-14T18:54:33.743718+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 CATTEARS，所在链为 Solana，叙事强度 81.81。
-- 当前平均叙事强度为 78.48，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MU，来自 BSC，共振分数 100.0。
-- 记忆层显示 CATTEARS 当前处于“新出现”状态。
+- 当前最强叙事是 WINGIT，所在链为 Solana，叙事强度 85.25。
+- 当前平均叙事强度为 80.31，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
+- 记忆层显示 WINGIT 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 CAPTAIN PUMPZILLA，伪叙事风险 58.92。
 - 最新官方催化来自 最新活动：Binance Wallet DeFi Exclusive: Subscribe to Pharos R25 Axil Prime USDC Vault to Share Up to 13% APR and $300,000 in PROS Rewards。
 
 ## 叙事雷达
 
-- CATTEARS | Solana | 降温中 | 强度 81.81 | 质量 71.40
+- WINGIT | Solana | 降温中 | 强度 85.25 | 质量 74.04
+  - 主题摘要：Multiple tokens named 「WINGIT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.67 / 确认 16.56 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CATTEARS | Solana | 降温中 | 强度 84.69 | 质量 73.44
   - 主题摘要：Multiple tokens named 「CATTEARS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.13 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 77.93 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged US Currency with Trump Signature | Solana | 加速中 | 强度 80.58 | 质量 80.01
-  - 主题摘要：According to Daniel Torok's post, Treasury Secretary Scott Bessent revealed plans to issue new US currency featuring Donald Trump's signature and name on coins, expected this fall…
-  - 资金 100.00 / 广度 88.75 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Black Bear | Solana | 降温中 | 强度 80.21 | 质量 69.78
-  - 主题摘要：BlackBear token represents the bear market sentiment, inspired by the bear's historical dominance in financial markets. The logo features a bear with red eyes, symbolizing resilie…
-  - 资金 100.00 / 广度 65.72 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bitcoin Documentary Hummingbird | Solana | 降温中 | 强度 80.11 | 质量 69.89
-  - 主题摘要：According to d's post, a Bitcoin documentary titled "Hummingbird: The Bitcoin Jungle Story" is scheduled to premiere on July 18. The film explores the rise of the Bitcoin communit…
-  - 资金 100.00 / 广度 77.98 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Bull Cat | Solana | 降温中 | 强度 76.53 | 质量 70.06
+- The Bull Cat | Solana | 加速中 | 强度 84.20 | 质量 75.34
   - 主题摘要：BULLCAT is a meme token inspired by the playful fusion of bull and cat imagery. The logo features a cat wearing a bull's headpiece, embodying the token's name 'The Bull Cat'. It a…
-  - 资金 100.00 / 广度 61.39 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.35 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged US Currency with Trump Signature | Solana | 加速中 | 强度 82.18 | 质量 80.02
+  - 主题摘要：According to Daniel Torok's post, Treasury Secretary Scott Bessent revealed plans to issue new US currency featuring Donald Trump's signature and name on coins, expected this fall…
+  - 资金 100.00 / 广度 88.79 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Meme Money Token Launch | Solana | 加速中 | 强度 81.43 | 质量 71.20
+  - 主题摘要：According to Dav's post, Dav allegedly launched a token named Meme Money, claiming to have built a platform for sending crypto without wallets. Dav stated that the project involve…
+  - 资金 100.00 / 广度 62.55 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Solana SpongeBob Meme | Solana | 降温中 | 强度 76.13 | 质量 69.20
+  - 主题摘要：According to cybord's post, the author introduces a Solana SpongeBob Meme image ($SOLBOB) to celebrate #SpongeBobDay, referencing a White House post. The author claims to launch a…
+  - 资金 100.00 / 广度 63.79 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SIZEY Discusses Robinhood Chain and Robbinghood | Solana | 加速中 | 强度 76.44 | 质量 62.10
-  - 主题摘要：According to SIZEY's post, the author analyzes the migration of users to the Robinhood Chain following the performance of CASHCAT and its subsequent crash. SIZEY highlights the hi…
-  - 资金 100.00 / 广度 74.29 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hyper Bull | Solana | 加速中 | 强度 76.17 | 质量 69.32
-  - 主题摘要：HBULL is the open beta of the Black Bull lineage, designed to amplify ANSEM holders. The token features a glowing green bull logo symbolizing strength and growth. HBULL/SOL pool f…
-  - 资金 100.00 / 广度 90.03 / 确认 28.08 / 脆弱性 43.95
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trencher Bill on Catalyst Update | Solana | 降温中 | 强度 75.99 | 质量 64.48
-  - 主题摘要：According to Trencher Bill's post, the Catalyst token is expected to experience price movement driven by an upcoming update, which is identified as the primary catalyst for the as…
-  - 资金 100.00 / 广度 51.96 / 确认 9.36 / 脆弱性 14.00
+- CAPTAIN PUMPZILLA | Solana | 降温中 | 强度 74.43 | 质量 73.26
+  - 主题摘要：According to Rudolf's post, a viral AI essay titled "the coordination protocol" is discussed. Rudolf notes that the essay draws parallels between the internet and photocopiers, su…
+  - 资金 100.00 / 广度 87.10 / 确认 9.36 / 脆弱性 58.47
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance User Years | BSC | 降温中 | 强度 71.79 | 质量 61.01
-  - 主题摘要：Binance official account asks users about their tenure on the platform, a routine engagement post with low viral potential for a meme coin.
-  - 资金 100.00 / 广度 83.06 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNI | BSC | 加速中 | 强度 71.60 | 质量 62.18
-  - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
-  - 资金 100.00 / 广度 68.58 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Intern Reflects on 9th Anniversary | BSC | 加速中 | 强度 71.41 | 质量 60.73
-  - 主题摘要：Binance Intern (@Binance_intern) reflected on Binance's 9th anniversary, contrasting the platform's founding in 2017 with personal memories of that era, such as misunderstanding m…
-  - 资金 100.00 / 广度 76.35 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 30秒永动销毁+裂变+二重销毁 | BSC | 降温中 | 强度 70.22 | 质量 57.15
+- Alleged Trump Coin Analysis | Solana | 点火期 | 强度 74.21 | 质量 74.35
+  - 主题摘要：According to john's post, the author discusses an alleged Trump Coin, suggesting it should feature a low float and be listed on a specific platform, drawing comparisons to previou…
+  - 资金 100.00 / 广度 83.03 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 30秒永动销毁+裂变+二重销毁 | BSC | 降温中 | 强度 73.78 | 质量 57.94
   - 主题摘要：Multiple tokens named 「半分永动金库」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.98 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.31 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Jin Guizi Posts on Wealth Growth | BSC | 降温中 | 强度 69.30 | 质量 58.07
-  - 主题摘要：According to 金龟子's post, the user shared a message regarding 'Binance Golden Beetle' and 'Steady Wealth Growth.' The content appears to be a promotional statement or opinion expre…
-  - 资金 100.00 / 广度 89.51 / 确认 9.36 / 脆弱性 14.00
+- BNI | BSC | 加速中 | 强度 71.74 | 质量 64.23
+  - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
+  - 资金 100.00 / 广度 68.76 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance User Years | BSC | 降温中 | 强度 71.32 | 质量 62.86
+  - 主题摘要：Binance official account asks users about their tenure on the platform, a routine engagement post with low viral potential for a meme coin.
+  - 资金 100.00 / 广度 83.00 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- COCOFLIP | BSC | 加速中 | 强度 69.05 | 质量 57.06
-  - 主题摘要：Multiple tokens named 「COCOFLIP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.28 / 确认 24.48 / 脆弱性 14.00
+- Uncertain:Binance Intern Reflects on 9th Anniversary | BSC | 加速中 | 强度 69.88 | 质量 60.50
+  - 主题摘要：Binance Intern (@Binance_intern) reflected on Binance's 9th anniversary, contrasting the platform's founding in 2017 with personal memories of that era, such as misunderstanding m…
+  - 资金 100.00 / 广度 76.43 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Cash Cat | BSC | 加速中 | 强度 69.52 | 质量 65.58
+  - 主题摘要：According to Pomp's post, he requested the creation of a token named 'Zhao Cai Cat' ($赵财猫) on the BNB chain. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 73.97 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- TREASURE META COIN | BSC | 加速中 | 强度 68.80 | 质量 61.70
+  - 主题摘要：Multiple tokens named 「TMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.55 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.48，其中已确认叙事 0 个。
-- COCOFLIP 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- CATTEARS 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.31，其中已确认叙事 0 个。
+- Alleged Meme Money Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- WINGIT 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged US Currency with Trump Signature | 质量 80.01 | 可交易性 100.00 | 风险 低
-- CATTEARS | 质量 71.40 | 可交易性 100.00 | 风险 低
-- The Bull Cat | 质量 70.06 | 可交易性 100.00 | 风险 低
-- Bitcoin Documentary Hummingbird | 质量 69.89 | 可交易性 88.13 | 风险 低
-- The Black Bear | 质量 69.78 | 可交易性 100.00 | 风险 低
-- Hyper Bull | 质量 69.32 | 可交易性 60.45 | 风险 低
-- Trencher Bill on Catalyst Update | 质量 64.48 | 可交易性 96.10 | 风险 低
-- BNI | 质量 62.18 | 可交易性 100.00 | 风险 低
-- SIZEY Discusses Robinhood Chain and Robbinghood | 质量 62.10 | 可交易性 55.27 | 风险 低
-- Binance User Years | 质量 61.01 | 可交易性 77.55 | 风险 低
+- Alleged US Currency with Trump Signature | 质量 80.02 | 可交易性 100.00 | 风险 低
+- The Bull Cat | 质量 75.34 | 可交易性 100.00 | 风险 低
+- Alleged Trump Coin Analysis | 质量 74.35 | 可交易性 100.00 | 风险 低
+- WINGIT | 质量 74.04 | 可交易性 100.00 | 风险 低
+- CATTEARS | 质量 73.44 | 可交易性 100.00 | 风险 低
+- CAPTAIN PUMPZILLA | 质量 73.26 | 可交易性 90.24 | 风险 低
+- Alleged Meme Money Token Launch | 质量 71.20 | 可交易性 100.00 | 风险 低
+- Alleged Solana SpongeBob Meme | 质量 69.20 | 可交易性 100.00 | 风险 低
+- Cash Cat | 质量 65.58 | 可交易性 99.30 | 风险 低
+- BNI | 质量 64.23 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- CAPTAIN PUMPZILLA | 风险 58.92 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Alleged Trump Coin Analysis | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Binance User Years | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -131,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CATTEARS（Solana，分数 81.81）
-2. 共振最强代币：MU（BSC，共振 100.0）
-3. 记忆层变化：CATTEARS 当前为“新出现”
+1. 当前最强叙事：WINGIT（Solana，分数 85.25）
+2. 共振最强代币：ANSEM（Solana，共振 100.0）
+3. 记忆层变化：WINGIT 当前为“新出现”
 4. 最新官方催化：Binance Wallet DeFi Exclusive: Subscribe to Pharos R25 Axil Prime USDC Vault to Share Up to 13% APR and $300,000 in PROS Rewards
 #Binance #NarrativeOS #OpenClaw
