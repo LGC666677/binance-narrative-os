@@ -1,102 +1,99 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-15T07:32:12.714278+00:00
+- 生成时间：2026-07-15T09:32:01.094221+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 WINGIT，所在链为 Solana，叙事强度 84.52。
-- 当前平均叙事强度为 76.86，其中已确认叙事 0 个。
+- 当前最强叙事是 WINGIT，所在链为 Solana，叙事强度 86.68。
+- 当前平均叙事强度为 78.99，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 FEBU，来自 Solana，共振分数 100.0。
-- 记忆层显示 turbocat Publishes Meme Image 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 CAPTAIN PUMPZILLA，伪叙事风险 66.44。
-- 最新官方催化来自 新币上新：Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets。
+- 记忆层显示 PumpFun Database 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Binance User Years，伪叙事风险 40.99。
+- 最新官方催化来自 最新活动：Hold RLUSD in Binance Earn, Margin and Futures Accounts to Share $800,000 Rewards in XRP。
 
 ## 叙事雷达
 
-- WINGIT | Solana | 加速中 | 强度 84.52 | 质量 77.67
+- WINGIT | Solana | 加速中 | 强度 86.68 | 质量 77.69
   - 主题摘要：Multiple tokens named 「WINGIT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.10 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.19 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The legacy bull | Solana | 降温中 | 强度 80.21 | 质量 72.27
+- PumpFun Database | Solana | 降温中 | 强度 85.78 | 质量 73.93
+  - 主题摘要：Multiple tokens named 「PUMPDb」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.58 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 伯乐 | BSC | 已确认 | 强度 82.78 | 质量 79.31
+  - 主题摘要：Multiple tokens named 「伯乐」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.76 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- The legacy bull | Solana | 降温中 | 强度 82.38 | 质量 72.57
   - 主题摘要：MAHUTA token honors Nasir I. Mahuta, educator, author of Sirrin Crypto, and mentor to traders. The logo features a bull silhouette with the 'M' logo, symbolizing strength and lead…
-  - 资金 100.00 / 广度 74.02 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.03 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SIZEY Discusses Robinhood Chain and Robbinghood | Solana | 加速中 | 强度 77.51 | 质量 63.90
-  - 主题摘要：According to SIZEY's post, the term "Robbinghood" originated from Reddit communities years before the Robinhood Chain existed. SIZEY notes that users previously bridged to this ch…
-  - 资金 100.00 / 广度 82.64 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- turbocat Publishes Meme Image | Solana | 点火期 | 强度 77.13 | 质量 71.35
-  - 主题摘要：According to turbocat's post, the author shared a Meme image promoting the $turbocat token. The post describes a "turbo mode" activation, claiming the project is moving forward ra…
-  - 资金 100.00 / 广度 65.70 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- The Bull Cat | Solana | 加速中 | 强度 76.32 | 质量 66.07
+- GoldenBoot | Solana | 降温中 | 强度 81.38 | 质量 71.49
+  - 主题摘要：Multiple tokens named 「GBOOT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.45 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Bull Cat | Solana | 加速中 | 强度 78.93 | 质量 66.54
   - 主题摘要：According to The Black Bull's post, the author claims to be launching a new project on Solana, identified as $ANSEM, asserting that the original team previously rugged a project w…
-  - 资金 100.00 / 广度 85.14 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.50 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNI | BSC | 加速中 | 强度 75.85 | 质量 71.83
+- MEMEDb On-Chain Name Registration | Solana | 加速中 | 强度 74.23 | 质量 65.23
+  - 主题摘要：According to MEMEDb's post, the platform addresses copycat issues by allowing users to register coin names on-chain for 0.05 SOL. This ensures permanent, verifiable authorship and…
+  - 资金 100.00 / 广度 83.01 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- BNI | BSC | 加速中 | 强度 72.65 | 质量 67.13
   - 主题摘要：BNI is a Web3 token inspired by the concept of community-driven value, with a focus on decentralized innovation. Speculation suggests it may draw from cultural or meme-based theme…
-  - 资金 100.00 / 广度 70.42 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 71.57 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 30秒永动销毁+裂变+二重销毁 | BSC | 加速中 | 强度 73.90 | 质量 61.09
-  - 主题摘要：Multiple tokens named 「半分永动金库」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.15 / 确认 20.16 / 脆弱性 24.00
+- SIZEY Discusses Robinhood Chain and Robbinghood | Solana | 加速中 | 强度 72.24 | 质量 63.50
+  - 主题摘要：According to SIZEY's post, the term "Robbinghood" originated from Reddit communities years before the Robinhood Chain existed. SIZEY notes that users previously bridged to this ch…
+  - 资金 94.85 / 广度 82.77 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance User Years | BSC | 降温中 | 强度 72.81 | 质量 63.58
+- Binance User Years | BSC | 降温中 | 强度 71.96 | 质量 62.75
   - 主题摘要：Binance official account asks users about their tenure on the platform, a routine engagement post with low viral potential for a meme coin.
-  - 资金 100.00 / 广度 81.53 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.24 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TREASURE META COIN | BSC | 加速中 | 强度 72.47 | 质量 62.69
-  - 主题摘要：Multiple tokens named 「TMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.18 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CAPTAIN PUMPZILLA | Solana | 点火期 | 强度 71.29 | 质量 74.09
-  - 主题摘要：According to Rudolf's post, a viral AI essay titled "the coordination protocol" is discussed. Rudolf notes that the essay draws parallels between the internet and photocopiers, su…
-  - 资金 100.00 / 广度 87.85 / 确认 9.36 / 脆弱性 49.86
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Ai小龙虾 | BSC | 加速中 | 强度 71.19 | 质量 55.41
+- Ai小龙虾 | BSC | 加速中 | 强度 71.36 | 质量 55.59
   - 主题摘要：Multiple tokens named 「Ai小龙虾」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.12 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 64.26 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged catwifmask Meme | Solana | 点火期 | 强度 71.04 | 质量 63.00
-  - 主题摘要：According to bwodevs's post, the author shared a Meme image suggesting a return to original memes featuring 'catwifmask'. This content references a token with the same name. This…
-  - 资金 100.00 / 广度 78.14 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Musk Light Speed | BSC | 加速中 | 强度 70.96 | 质量 53.97
-  - 主题摘要：Elon Musk retweeted SpaceX's record-breaking launch of two Falcon 9 rockets carrying Starlink satellites within eight hours, highlighting the company's rapid pace. This event unde…
-  - 资金 100.00 / 广度 75.37 / 确认 20.16 / 脆弱性 24.00
+- TREASURE META COIN | BSC | 加速中 | 强度 70.55 | 质量 62.27
+  - 主题摘要：Multiple tokens named 「TMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.50 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 10秒飞天永动金库 | BSC | 降温中 | 强度 69.63 | 质量 53.91
-  - 主题摘要：Multiple tokens named 「飞天马」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.43 / 确认 9.36 / 脆弱性 14.00
+- 30秒永动销毁+裂变+二重销毁 | BSC | 加速中 | 强度 70.51 | 质量 59.43
+  - 主题摘要：Multiple tokens named 「半分永动金库」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.07 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Guangxi Chenguang Shares Heroic Dogs Meme | Solana | 降温中 | 强度 70.30 | 质量 57.66
+  - 主题摘要：According to Guangxi Chenguang's post, a Meme image titled '8 DOGS' was shared, referencing a viral narrative where seven dogs allegedly saved two girls from an assault. The post…
+  - 资金 100.00 / 广度 75.12 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.86，其中已确认叙事 0 个。
-- turbocat Publishes Meme Image 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- The legacy bull 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.99，其中已确认叙事 0 个。
+- 伯乐 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- PumpFun Database 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- WINGIT | 质量 77.67 | 可交易性 100.00 | 风险 低
-- CAPTAIN PUMPZILLA | 质量 74.09 | 可交易性 92.24 | 风险 低
-- The legacy bull | 质量 72.27 | 可交易性 100.00 | 风险 低
-- BNI | 质量 71.83 | 可交易性 100.00 | 风险 低
-- turbocat Publishes Meme Image | 质量 71.35 | 可交易性 100.00 | 风险 低
-- The Bull Cat | 质量 66.07 | 可交易性 60.32 | 风险 低
-- SIZEY Discusses Robinhood Chain and Robbinghood | 质量 63.90 | 可交易性 55.57 | 风险 低
-- Binance User Years | 质量 63.58 | 可交易性 77.92 | 风险 低
-- Alleged catwifmask Meme | 质量 63.00 | 可交易性 59.73 | 风险 低
-- TREASURE META COIN | 质量 62.69 | 可交易性 82.71 | 风险 低
+- 伯乐 | 质量 79.31 | 可交易性 100.00 | 风险 低
+- WINGIT | 质量 77.69 | 可交易性 100.00 | 风险 低
+- PumpFun Database | 质量 73.93 | 可交易性 100.00 | 风险 低
+- The legacy bull | 质量 72.57 | 可交易性 100.00 | 风险 低
+- GoldenBoot | 质量 71.49 | 可交易性 100.00 | 风险 低
+- BNI | 质量 67.13 | 可交易性 100.00 | 风险 低
+- The Bull Cat | 质量 66.54 | 可交易性 61.53 | 风险 低
+- MEMEDb On-Chain Name Registration | 质量 65.23 | 可交易性 56.48 | 风险 低
+- SIZEY Discusses Robinhood Chain and Robbinghood | 质量 63.50 | 可交易性 54.12 | 风险 低
+- Binance User Years | 质量 62.75 | 可交易性 77.80 | 风险 低
 
 ## 伪叙事风险
 
-- CAPTAIN PUMPZILLA | 风险 66.44 | 原因：流动性偏薄、龙头筹码集中度偏高
-- turbocat Publishes Meme Image | 风险 42.03 | 原因：流动性偏薄
-- Alleged catwifmask Meme | 风险 42.03 | 原因：流动性偏薄
 - Binance User Years | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -114,6 +111,12 @@
 
 ## 官方催化
 
+- [Hold RLUSD in Binance Earn, Margin and Futures Accounts to Share $800,000 Rewards in XRP](https://www.binance.com/zh-CN/support/announcement/detail/5c32601e5c27466ab39f36dadc258e0a)
+  - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a general announcement and marketing commun…
+- [RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/6a4a290e9f394efe9fe4c473cd09b4a8)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to launch a Re (RE) Trading Tournament where…
+- [Binance Futures Has Completed USDⓈ-Margined KORUUSDT Perpetual Contract’s Contract Size Adjustment (2026-07-15)](https://www.binance.com/zh-CN/support/announcement/detail/2ce887ba8fe14fdaa088e5bed7553a4e)
+  - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Futures has com…
 - [Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets](https://www.binance.com/zh-CN/support/announcement/detail/62c2a684d09f445295b87797acc71ae8)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered through an Approved Prospectus in the ADGM an…
 - [Binance Exchange Adds 10 bStocks Trading Pair(s) on Binance Spot - 2026-07-15](https://www.binance.com/zh-CN/support/announcement/detail/f198d9602f3b4604a9b15cd0a1529e32)
@@ -124,20 +127,14 @@
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is introducing Express Interest Only (EIO) mode on Capital Connect , the indus…
 - [Binance Wallet DeFi Exclusive: Subscribe to Pharos R25 Axil Prime USDC Vault to Share Up to 13% APR and $300,000 in PROS Rewards](https://www.binance.com/zh-CN/support/announcement/detail/71a8504f9b47448f86a75bf000bb7576)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, The Pharos R25 Axil USDC Campaign will be accessible via Binance…
-- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-17)](https://www.binance.com/zh-CN/support/announcement/detail/a18d439fe26943e09270bfbc45b6db13)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered Collateral Ratio for Portfolio Margin Pr…
-- [Binance Traders League Season 3: Trade TOWNS to Share Up to 400 BNB Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/2cb12613b9ea45d09015145c875aa565)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to launch a Binance Traders League Season 3…
-- [Binance Earn: Enjoy Up to 10% APR with KGST Flexible Products – 100,000 KGST Limit Available! (2026-07-15)](https://www.binance.com/zh-CN/support/announcement/detail/538b4fb027b148adb786e008e1ad0b41)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Earn is excited to renew the…
 - [Binance Will Add SKHYB Tokenized Securities as Collateral Assets](https://www.binance.com/zh-CN/support/announcement/detail/dbc90c04fc654d848f08b0b974fec233)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered through an Approved Prospectus in the ADGM an…
 
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：WINGIT（Solana，分数 84.52）
+1. 当前最强叙事：WINGIT（Solana，分数 86.68）
 2. 共振最强代币：FEBU（Solana，共振 100.0）
-3. 记忆层变化：turbocat Publishes Meme Image 当前为“新出现”
-4. 最新官方催化：Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets
+3. 记忆层变化：PumpFun Database 当前为“新出现”
+4. 最新官方催化：Hold RLUSD in Binance Earn, Margin and Futures Accounts to Share $800,000 Rewards in XRP
 #Binance #NarrativeOS #OpenClaw
