@@ -1,103 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-18T21:01:32.517473+00:00
+- 生成时间：2026-07-18T22:02:51.654444+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
-- 高风险伪叙事：0
+- 已确认叙事：1
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 PG FIST Announces FIST Staking Launch，所在链为 BSC，叙事强度 87.35。
-- 当前平均叙事强度为 77.05，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Epstein The Raccoon 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Jimothy Token，伪叙事风险 47.79。
+- 当前最强叙事是 PG FIST Announces FIST Staking Launch，所在链为 BSC，叙事强度 83.61。
+- 当前平均叙事强度为 76.24，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 TBB，来自 Solana，共振分数 100.0。
+- 记忆层显示 DREAMDOG 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Jimothy Token，伪叙事风险 52.99。
 - 最新官方催化来自 新币上新：Binance Will Add Aerodrome (AERO) on Earn, Buy Crypto, Convert, VIP Loan & Margin。
 
 ## 叙事雷达
 
-- PG FIST Announces FIST Staking Launch | BSC | 已确认 | 强度 87.35 | 质量 80.52
+- PG FIST Announces FIST Staking Launch | BSC | 已确认 | 强度 83.61 | 质量 80.53
   - 主题摘要：According to PG FIST's post, the Big Fist FIST burn wealth management feature is scheduled to launch on July 16 at 20:19. Burning and floating loss features will commence on July…
-  - 资金 100.00 / 广度 85.71 / 确认 30.96 / 脆弱性 14.00
+  - 资金 91.79 / 广度 85.73 / 确认 30.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged MensaJimothy Meme | Solana | 降温中 | 强度 85.10 | 质量 78.45
-  - 主题摘要：According to ethandev's post, the author questions why the 'Mensa Jimothy' concept has not yet been deployed as a token, referencing associated meme imagery. This suggests an alle…
-  - 资金 100.00 / 广度 94.62 / 确认 9.36 / 脆弱性 14.00
+- DREAMDOG | Solana | 降温中 | 强度 81.27 | 质量 72.01
+  - 主题摘要：According to Ozzy 🇺🇸's post, he retweeted a message from Uniswap stating that the situation is in its 'early innings'. This indicates a perspective on the current stage of develop…
+  - 资金 100.00 / 广度 73.18 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Jimothy Token Fee Distribution Dispute | Solana | 点火期 | 强度 80.73 | 质量 79.96
-  - 主题摘要：Multiple tokens named 「JIMOTHY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.40 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Epstein The Raccoon | Solana | 降温中 | 强度 80.48 | 质量 70.41
+- Epstein The Raccoon | Solana | 降温中 | 强度 80.66 | 质量 71.67
   - 主题摘要：RACSTEIN is a meme token inspired by the viral 'Raccoon' meme, featuring a raccoon mask superimposed on a person's face. The token embraces internet humor and meme culture, creati…
-  - 资金 100.00 / 广度 67.82 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.02 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SIZEY Shares Benny Hana Meme | Solana | 已确认 | 强度 79.35 | 质量 66.71
-  - 主题摘要：According to SIZEY's post, the user shared a viral Meme image of a 12-year-old cat named Benny Hana, known for wearing hats. SIZEY compared the cat's aura to the Dog Wif Hat meme,…
-  - 资金 100.00 / 广度 83.74 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 币安人生永动机QQ954326886 | BSC | 点火期 | 强度 78.33 | 质量 75.29
+- Rep. Nancy Mace Proposes Crypto Mortgage Bill | Solana | 加速中 | 强度 80.24 | 质量 69.42
+  - 主题摘要：According to Rep. Nancy Mace's post, she introduced the American Homeowner Crypto Modernization Act to allow verified cryptocurrency holdings to count toward mortgage creditworthi…
+  - 资金 100.00 / 广度 83.88 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 币安人生永动机QQ954326886 | BSC | 点火期 | 强度 78.71 | 质量 75.35
   - 主题摘要：币安人生永动机 (Binance Life Engine) is a meme token inspired by the concept of perpetual motion machines, symbolizing endless growth and prosperity. It gained popularity through viral s…
-  - 资金 100.00 / 广度 78.81 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.01 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- The Raccoon Jotchua | Solana | 降温中 | 强度 78.28 | 质量 67.71
-  - 主题摘要：RACCHUA is a community-driven meme token inspired by the playful raccoon character. The logo features a cute raccoon with glowing yellow highlights, embodying the token's lighthea…
-  - 资金 100.00 / 广度 58.85 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Jimothy Token | Solana | 点火期 | 强度 77.47 | 质量 73.40
-  - 主题摘要：Multiple tokens named 「Jimothy」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 97.42 / 确认 9.36 / 脆弱性 14.00
+- Based Launches Alleged $SUB Token | Solana | 加速中 | 强度 78.48 | 质量 66.78
+  - 主题摘要：According to Based's post, he is launching a website, streamerbounties.fun, to manage bounties for Streamer University gifted subs. He claims to be issuing the $SUB token, named S…
+  - 资金 100.00 / 广度 78.73 / 确认 20.20 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Jimothy Token Fee Distribution Dispute | Solana | 点火期 | 强度 77.33 | 质量 76.81
+  - 主题摘要：Multiple tokens named 「JIMOTHY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 94.41 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Sagawa Meme Token | Solana | 加速中 | 强度 77.47 | 质量 74.13
-  - 主题摘要：According to hubz's post, Sagawa Tome, a 99-year-old Japanese woman who was rescued after climbing Mt. Fuji, is associated with the alleged launch of a Meme token named $Sagawa. T…
-  - 资金 100.00 / 广度 88.64 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Kimi.ai Allegedly Releases Lil Kimi Meme Image | BSC | 加速中 | 强度 76.64 | 质量 70.03
-  - 主题摘要：According to Kimi.ai's post, the account shared a reply suggesting 'lil kimi maybe' in response to a discussion about a character's name. This content is associated with the 'Lil…
-  - 资金 100.00 / 广度 74.92 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Nietzschean Jimothy | Solana | 降温中 | 强度 76.06 | 质量 66.98
-  - 主题摘要：Nietzmothy draws inspiration from Friedrich Nietzsche's philosophy, featuring a raccoon atop a mountain in its logo. The token combines Nietzsche's existential philosophy with the…
-  - 资金 100.00 / 广度 80.18 / 确认 9.36 / 脆弱性 24.00
+- Alleged Porkcoin Meme Launch | Solana | 降温中 | 强度 76.80 | 质量 66.97
+  - 主题摘要：According to Puma's post, John Pork is identified as the most viral meme globally, surpassing TripleT. Puma proposes launching Porkcoin as a narrative accessible to mainstream aud…
+  - 资金 100.00 / 广度 56.36 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 金蝶圣甲 | BSC | 加速中 | 强度 76.01 | 质量 67.07
+- Tige Discusses Jimothy Meme | Solana | 加速中 | 强度 76.04 | 质量 65.75
+  - 主题摘要：According to Tige's post, Jimothy is reaching 874K, and a viral dog with a similar syndrome appears identical. Tige shared an Instagram Meme image illustrating this comparison, de…
+  - 资金 100.00 / 广度 84.76 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 金蝶圣甲 | BSC | 加速中 | 强度 75.82 | 质量 67.05
   - 主题摘要：Multiple tokens named 「金蝶圣甲」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.01 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 80.05 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Kimi.ai Allegedly Releases Lil Kimi Meme Image | BSC | 加速中 | 强度 74.98 | 质量 69.05
+  - 主题摘要：According to Kimi.ai's post, the account shared a reply suggesting 'lil kimi maybe' in response to a discussion about a character's name. This content is associated with the 'Lil…
+  - 资金 100.00 / 广度 74.95 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Jimothy Token | Solana | 点火期 | 强度 74.44 | 质量 71.63
+  - 主题摘要：According to New York Post's post, a mutant creature named 'Jimothy' has become a local celebrity in Seattle. This content is associated with cryptocurrency tokens named Jimothy.…
+  - 资金 100.00 / 广度 96.78 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 - CZ Podcast | BSC | 加速中 | 强度 73.89 | 质量 64.05
   - 主题摘要：CZ回复Talking Tokens播客，简短称赞了与主播的对话。由于内容过于泛泛，缺乏具体的争议点或幽默元素，难以形成独立的Meme叙事。
   - 资金 100.00 / 广度 87.21 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance 9th Anniversary Community Event | BSC | 加速中 | 强度 70.07 | 质量 57.52
+- Binance 9th Anniversary Community Event | BSC | 加速中 | 强度 70.42 | 质量 57.37
   - 主题摘要：Binance Chinese announced a community campaign for its 9th anniversary, inviting users to share stories and creative content related to their experience with the platform. Partici…
-  - 资金 100.00 / 广度 73.26 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.11 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.05，其中已确认叙事 1 个。
-- Alleged Sagawa Meme Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged MensaJimothy Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.24，其中已确认叙事 1 个。
+- Rep. Nancy Mace Proposes Crypto Mortgage Bill 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- DREAMDOG 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- PG FIST Announces FIST Staking Launch | 质量 80.52 | 可交易性 100.00 | 风险 低
-- Alleged Jimothy Token Fee Distribution Dispute | 质量 79.96 | 可交易性 100.00 | 风险 低
-- Alleged MensaJimothy Meme | 质量 78.45 | 可交易性 100.00 | 风险 低
-- 币安人生永动机QQ954326886 | 质量 75.29 | 可交易性 100.00 | 风险 低
-- Alleged Sagawa Meme Token | 质量 74.13 | 可交易性 94.51 | 风险 低
-- Alleged Jimothy Token | 质量 73.40 | 可交易性 100.00 | 风险 低
-- Epstein The Raccoon | 质量 70.41 | 可交易性 100.00 | 风险 低
-- Kimi.ai Allegedly Releases Lil Kimi Meme Image | 质量 70.03 | 可交易性 77.92 | 风险 低
-- The Raccoon Jotchua | 质量 67.71 | 可交易性 100.00 | 风险 低
-- 金蝶圣甲 | 质量 67.07 | 可交易性 65.62 | 风险 低
+- PG FIST Announces FIST Staking Launch | 质量 80.53 | 可交易性 100.00 | 风险 低
+- Alleged Jimothy Token Fee Distribution Dispute | 质量 76.81 | 可交易性 100.00 | 风险 低
+- 币安人生永动机QQ954326886 | 质量 75.35 | 可交易性 100.00 | 风险 低
+- DREAMDOG | 质量 72.01 | 可交易性 100.00 | 风险 低
+- Epstein The Raccoon | 质量 71.67 | 可交易性 100.00 | 风险 低
+- Alleged Jimothy Token | 质量 71.63 | 可交易性 100.00 | 风险 低
+- Rep. Nancy Mace Proposes Crypto Mortgage Bill | 质量 69.42 | 可交易性 69.56 | 风险 低
+- Kimi.ai Allegedly Releases Lil Kimi Meme Image | 质量 69.05 | 可交易性 77.92 | 风险 低
+- 金蝶圣甲 | 质量 67.05 | 可交易性 65.49 | 风险 低
+- Alleged Porkcoin Meme Launch | 质量 66.97 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Jimothy Token | 风险 47.79 | 原因：流动性偏薄
-- Alleged Jimothy Token Fee Distribution Dispute | 风险 42.03 | 原因：流动性偏薄
+- Alleged Jimothy Token | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Jimothy Token Fee Distribution Dispute | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 - 币安人生永动机QQ954326886 | 风险 42.03 | 原因：流动性偏薄
-- The Nietzschean Jimothy | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,7 +104,7 @@
 - 逆袭人生 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CZ | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Star | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Benny | Solana | 看多 | 新鲜度 100.00 | SIZEY Shares Benny Hana Meme
+- Benny | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BISCOTTI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Jimothy | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SOLdiers | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -136,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：PG FIST Announces FIST Staking Launch（BSC，分数 87.35）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Epstein The Raccoon 当前为“新出现”
+1. 当前最强叙事：PG FIST Announces FIST Staking Launch（BSC，分数 83.61）
+2. 共振最强代币：TBB（Solana，共振 100.0）
+3. 记忆层变化：DREAMDOG 当前为“新出现”
 4. 最新官方催化：Binance Will Add Aerodrome (AERO) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 #Binance #NarrativeOS #OpenClaw
