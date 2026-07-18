@@ -1,103 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-18T00:04:25.856603+00:00
+- 生成时间：2026-07-18T03:25:13.822435+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：3
 
 ## 今日摘要
 
-- 当前最强叙事是 伯乐，所在链为 BSC，叙事强度 84.0。
-- 当前平均叙事强度为 76.39，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 HBULL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Launch of $deg Meme Image 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Sagawa Meme Token，伪叙事风险 56.45。
+- 当前最强叙事是 Alleged Jimothy Token，所在链为 Solana，叙事强度 85.51。
+- 当前平均叙事强度为 75.75，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged Jimothy Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Jimothy Token Origin Story，伪叙事风险 52.99。
 - 最新官方催化来自 新币上新：Binance Will Add Aerodrome (AERO) on Earn, Buy Crypto, Convert, VIP Loan & Margin。
 
 ## 叙事雷达
 
-- 伯乐 | BSC | 已确认 | 强度 84.00 | 质量 76.65
+- Alleged Jimothy Token | Solana | 已确认 | 强度 85.51 | 质量 82.84
+  - 主题摘要：Multiple tokens named 「Jimothy」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.44 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- 伯乐 | BSC | 已确认 | 强度 84.37 | 质量 77.67
   - 主题摘要：Multiple tokens named 「伯乐」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.02 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.85 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Launch of $deg Meme Image | Solana | 降温中 | 强度 80.85 | 质量 71.96
-  - 主题摘要：According to d's post, a viral dog image is proposed to be used as the basis for a new token named $deg. The post suggests this token should be launched because the dog lacks a na…
-  - 资金 100.00 / 广度 85.24 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 首发机制防暴跌+回购 | BSC | 降温中 | 强度 78.29 | 质量 72.03
-  - 主题摘要：Multiple tokens named 「2SHIT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.39 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: Binance 9 Years | BSC | 已确认 | 强度 78.20 | 质量 76.75
-  - 主题摘要：CZ转发并庆祝Binance成立9周年，回顾其从‘只想帮一点忙’到超越世界想象的历程。这一里程碑事件引发了社区对平台历史与CZ个人影响力的怀旧与致敬。
-  - 资金 100.00 / 广度 88.59 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Caviar Founder Identity | Solana | 加速中 | 强度 75.93 | 质量 67.91
+- Alleged Caviar Founder Identity | Solana | 加速中 | 强度 76.59 | 质量 68.84
   - 主题摘要：According to Fear's post, Adrian Konstantinov is identified as the true founder of CaviarAMM, not Alon Cohen. This revelation links Alon to the CaviarIntern account, suggesting he…
-  - 资金 100.00 / 广度 87.62 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.74 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bounty Shares Meme About Short Spine Syndrome | Solana | 加速中 | 强度 75.27 | 质量 66.52
-  - 主题摘要：According to Bounty's post, the author shared a Meme image comparing a raccoon to a person with Short Spine Syndrome, referencing the token $Jimothy. The post highlights the humor…
-  - 资金 100.00 / 广度 81.22 / 确认 20.16 / 脆弱性 24.00
+- Bounty Shares Meme About Short Spine Syndrome | Solana | 加速中 | 强度 76.08 | 质量 68.05
+  - 主题摘要：According to Bounty's post, the user shared a Meme image comparing themselves to $Jimothy the Raccon due to having Short Spine Syndrome. The post highlights the user's emotional r…
+  - 资金 100.00 / 广度 82.29 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pasquale D’Silva Introduces Biscotti Robot | Solana | 点火期 | 强度 74.59 | 质量 78.20
+- Jimothy Token Origin Story | Solana | 点火期 | 强度 75.85 | 质量 73.65
+  - 主题摘要：According to Luckiest's post, the token $Jimothy was originally named "Nubby" when first sighted in 2023 by Ballard residents. The post references external articles from myballard…
+  - 资金 100.00 / 广度 86.37 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Pasquale D’Silva Introduces Biscotti Robot | Solana | 点火期 | 强度 74.71 | 质量 77.48
   - 主题摘要：According to Pasquale D’Silva's post, he introduces Biscotti, a robot dog developed by the teams behind Sesame Street, The Muppets, and Boston Dynamics. Pasquale D’Silva highlight…
-  - 资金 77.23 / 广度 94.71 / 确认 8.64 / 脆弱性 24.00
+  - 资金 82.79 / 广度 94.58 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Binance 9th Anniversary Community Event | BSC | 加速中 | 强度 74.51 | 质量 62.33
-  - 主题摘要：Binance Chinese announced a community campaign for its 9th anniversary, inviting users to share stories and creative content related to their experience with the platform. Partici…
-  - 资金 100.00 / 广度 72.25 / 确认 24.48 / 脆弱性 14.00
+- Tige Discusses Jimothy Meme | Solana | 降温中 | 强度 73.99 | 质量 60.66
+  - 主题摘要：According to Tige's post, Jimothy is reaching 874K, and a viral dog with a similar syndrome appears identical. Tige shares an Instagram Meme image highlighting this resemblance, d…
+  - 资金 100.00 / 广度 80.10 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ: Binance 9 Years | BSC | 加速中 | 强度 73.59 | 质量 71.45
+  - 主题摘要：CZ转发并庆祝Binance成立9周年，回顾其从‘只想帮一点忙’到超越世界想象的历程。这一里程碑事件引发了社区对平台历史与CZ个人影响力的怀旧与致敬。
+  - 资金 100.00 / 广度 87.30 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- NO ONE CARES | Solana | 降温中 | 强度 73.72 | 质量 62.85
+- NO ONE CARES | Solana | 降温中 | 强度 71.85 | 质量 62.45
   - 主题摘要：KIM token, named 'NO ONE CARES', draws inspiration from YoungHoon Kim, a World Memory Champion with an IQ of 276. The logo features a minimalist stick figure, reflecting the token…
-  - 资金 100.00 / 广度 57.74 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 58.12 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Official $Datacenter Coin | Solana | 点火期 | 强度 73.37 | 质量 69.42
-  - 主题摘要：According to Datacenter's post, the author claims to have CTO'd the current $Datacenter and asserts that this is the official $Datacenter coin. The author states that fees will be…
-  - 资金 100.00 / 广度 67.69 / 确认 5.04 / 脆弱性 14.00
+- Alleged Raccoon Wif Hat Token Launch | Solana | 点火期 | 强度 71.39 | 质量 68.49
+  - 主题摘要：According to cybord's post, the developer is relaunching the Raccoon Wif Hat ($RIF) token on pump.fun, claiming it serves as a competitor to Jimothy. The post mentions using an OG…
+  - 资金 98.16 / 广度 67.58 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Sagawa Meme Token | Solana | 点火期 | 强度 72.51 | 质量 69.68
-  - 主题摘要：According to hubz's post, Sagawa Tome, a 99-year-old Japanese woman rescued after climbing Mt. Fuji, is the subject of an alleged meme coin launch. Hubz references the viral story…
-  - 资金 100.00 / 广度 85.06 / 确认 5.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Nova | BSC | 降温中 | 强度 72.45 | 质量 59.30
-  - 主题摘要：Multiple tokens named 「Nova」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.44 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- HELIFAN | Solana | 降温中 | 强度 71.70 | 质量 56.11
-  - 主题摘要：According to The Internet Remains Undefeated's post, the author expressed strong financial enthusiasm by stating "Shut up and take my money!" This statement reflects a personal se…
-  - 资金 100.00 / 广度 74.15 / 确认 5.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 伯乐相马 | BSC | 加速中 | 强度 70.89 | 质量 59.34
+- 伯乐相马 | BSC | 加速中 | 强度 71.01 | 质量 59.73
   - 主题摘要：Multiple tokens named 「BoLe」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.56 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.50 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance 9th Anniversary Community Event | BSC | 加速中 | 强度 70.86 | 质量 58.16
+  - 主题摘要：Binance Chinese announced a community campaign for its 9th anniversary, inviting users to share stories and creative content related to their experience with the platform. Partici…
+  - 资金 100.00 / 广度 72.91 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Nova | BSC | 降温中 | 强度 70.71 | 质量 59.24
+  - 主题摘要：Multiple tokens named 「Nova」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.49 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 杀零马 | BSC | 加速中 | 强度 68.39 | 质量 56.14
+  - 主题摘要：Multiple tokens named 「杀零马」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.21 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.39，其中已确认叙事 2 个。
-- Alleged Caviar Founder Identity 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged Launch of $deg Meme Image 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.75，其中已确认叙事 1 个。
+- Alleged Jimothy Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Tige Discusses Jimothy Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Pasquale D’Silva Introduces Biscotti Robot | 质量 78.20 | 可交易性 99.61 | 风险 低
-- CZ: Binance 9 Years | 质量 76.75 | 可交易性 100.00 | 风险 低
-- 伯乐 | 质量 76.65 | 可交易性 100.00 | 风险 低
-- 首发机制防暴跌+回购 | 质量 72.03 | 可交易性 94.56 | 风险 低
-- Alleged Launch of $deg Meme Image | 质量 71.96 | 可交易性 90.93 | 风险 低
-- Alleged Sagawa Meme Token | 质量 69.68 | 可交易性 83.52 | 风险 低
-- Alleged Official $Datacenter Coin | 质量 69.42 | 可交易性 100.00 | 风险 低
-- Alleged Caviar Founder Identity | 质量 67.91 | 可交易性 63.95 | 风险 低
-- Bounty Shares Meme About Short Spine Syndrome | 质量 66.52 | 可交易性 65.74 | 风险 低
-- NO ONE CARES | 质量 62.85 | 可交易性 88.31 | 风险 低
+- Alleged Jimothy Token | 质量 82.84 | 可交易性 100.00 | 风险 低
+- 伯乐 | 质量 77.67 | 可交易性 100.00 | 风险 低
+- Pasquale D’Silva Introduces Biscotti Robot | 质量 77.48 | 可交易性 99.59 | 风险 低
+- Jimothy Token Origin Story | 质量 73.65 | 可交易性 92.26 | 风险 低
+- CZ: Binance 9 Years | 质量 71.45 | 可交易性 100.00 | 风险 低
+- Alleged Caviar Founder Identity | 质量 68.84 | 可交易性 63.79 | 风险 低
+- Alleged Raccoon Wif Hat Token Launch | 质量 68.49 | 可交易性 100.00 | 风险 低
+- Bounty Shares Meme About Short Spine Syndrome | 质量 68.05 | 可交易性 66.60 | 风险 低
+- NO ONE CARES | 质量 62.45 | 可交易性 87.51 | 风险 低
+- Tige Discusses Jimothy Meme | 质量 60.66 | 可交易性 55.22 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Sagawa Meme Token | 风险 56.45 | 原因：流动性偏薄、近 1 小时净流入转负
-- Pasquale D’Silva Introduces Biscotti Robot | 风险 53.57 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Official $Datacenter Coin | 风险 51.25 | 原因：流动性偏薄
-- HELIFAN | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Jimothy Token Origin Story | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Raccoon Wif Hat Token Launch | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Pasquale D’Silva Introduces Biscotti Robot | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,12 +104,12 @@
 - 逆袭人生 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CZ | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Star | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BISCOTTI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Jimothy | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BISCOTTI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SOLdiers | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BRIUN | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - doji | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - REX | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- $COBIE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：伯乐（BSC，分数 84.0）
-2. 共振最强代币：HBULL（Solana，共振 100.0）
-3. 记忆层变化：Alleged Launch of $deg Meme Image 当前为“新出现”
+1. 当前最强叙事：Alleged Jimothy Token（Solana，分数 85.51）
+2. 共振最强代币：ANSEM（Solana，共振 100.0）
+3. 记忆层变化：Alleged Jimothy Token 当前为“新出现”
 4. 最新官方催化：Binance Will Add Aerodrome (AERO) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 #Binance #NarrativeOS #OpenClaw
