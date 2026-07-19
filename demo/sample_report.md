@@ -1,96 +1,96 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-19T15:37:08.852258+00:00
+- 生成时间：2026-07-19T16:31:29.923257+00:00
 - 跟踪叙事：14
-- 已确认叙事：4
+- 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Oil Holdings，所在链为 Solana，叙事强度 86.74。
-- 当前平均叙事强度为 81.53，其中已确认叙事 1 个。
+- 当前最强叙事是 United States Oil Holdings，所在链为 Solana，叙事强度 87.15。
+- 当前平均叙事强度为 80.75，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 屎币，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Komugi Meme Image Launch 当前处于“新出现”状态。
+- 记忆层显示 RISE 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Alleged DOW Coin Trump Tokenization Rumor，伪叙事风险 40.99。
 - 最新官方催化来自 新币上新：Binance Will Add Aerodrome (AERO) on Earn, Buy Crypto, Convert, VIP Loan & Margin。
 
 ## 叙事雷达
 
-- United States Oil Holdings | Solana | 降温中 | 强度 86.74 | 质量 77.61
+- United States Oil Holdings | Solana | 降温中 | 强度 87.15 | 质量 78.30
   - 主题摘要：Multiple tokens named 「USOH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.11 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.13 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Giggle Academy Introduces AI Companion Mai | BSC | 已确认 | 强度 86.14 | 质量 84.88
-  - 主题摘要：According to Giggle Academy's post, the company introduced Mai, an AI companion designed for children. Mai is described as an interactive tool that changes forms to keep kids enga…
-  - 资金 100.00 / 广度 97.06 / 确认 35.28 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon Musk as SpaceX CEO | BSC | 已确认 | 强度 85.63 | 质量 84.17
-  - 主题摘要：Binance CEO Yi He humorously imagines a scenario where she tells Elon Musk about the weather and becomes the CEO of SpaceX for a day, highlighting the absurdity of such a crossove…
-  - 资金 100.00 / 广度 97.34 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Komugi Meme Image Launch | Solana | 降温中 | 强度 85.00 | 质量 74.85
-  - 主题摘要：According to 4dev's post, a hamster named Komugi has gone viral with over 700k views. 4dev claims the animal is highly memeable and suggests launching a token named $Komugi. This…
-  - 资金 100.00 / 广度 82.62 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Agamemnon Meme Image | Solana | 已确认 | 强度 83.57 | 质量 72.63
-  - 主题摘要：According to Wugi's post, the character Agamemnon from Christopher Nolan's The Odyssey has become a viral Meme image, gaining significant attention on social media platforms like…
-  - 资金 100.00 / 广度 92.25 / 确认 35.28 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged DOW Coin Trump Tokenization Rumor | Solana | 降温中 | 强度 83.33 | 质量 75.33
+- Alleged DOW Coin Trump Tokenization Rumor | Solana | 降温中 | 强度 85.74 | 质量 77.96
   - 主题摘要：According to plug's post, a viral narrative claims that Donald Trump will tokenize global assets using a memecoin named DOW. The post characterizes this as a psyop targeting normi…
-  - 资金 100.00 / 广度 84.24 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.00 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PG FIST Announces FIST Staking Launch | BSC | 已确认 | 强度 82.37 | 质量 75.16
-  - 主题摘要：According to PG FIST's post, the Big Fist FIST burn wealth management feature is scheduled to launch on July 16 at 20:19. Burning and floating loss features will commence on July…
-  - 资金 100.00 / 广度 82.15 / 确认 30.96 / 脆弱性 14.00
+- Giggle Academy Introduces AI Companion Mai | BSC | 已确认 | 强度 85.19 | 质量 84.88
+  - 主题摘要：According to Giggle Academy's post, the company introduced Mai, an AI companion designed for children. Mai is described as an interactive tool that changes forms to keep kids enga…
+  - 资金 100.00 / 广度 97.07 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Airzooka Viral Trend | Solana | 降温中 | 强度 80.25 | 质量 68.96
-  - 主题摘要：According to moon🦭's post, the Airzooka air cannon has garnered 80 million views in two days, trending on Google and TikTok. The post highlights its viral popularity and public in…
-  - 资金 100.00 / 广度 72.07 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged PRIETA Token | Solana | 加速中 | 强度 79.01 | 质量 77.40
-  - 主题摘要：According to EL33t's post, the user shared a story about a dog named Prieta, which is associated with the token symbol PRIETA. This information is unverified. Please exercise caut…
-  - 资金 100.00 / 广度 85.01 / 确认 23.76 / 脆弱性 14.00
+- Alleged Agamemnon Meme Image | Solana | 已确认 | 强度 83.51 | 质量 72.68
+  - 主题摘要：According to Wugi's post, the character Agamemnon from Christopher Nolan's The Odyssey has become a viral Meme image, gaining significant attention on social media platforms like…
+  - 资金 100.00 / 广度 92.54 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Elon Musk as SpaceX CEO | BSC | 加速中 | 强度 80.30 | 质量 79.75
+  - 主题摘要：Binance CEO Yi He humorously imagines a scenario where she tells Elon Musk about the weather and becomes the CEO of SpaceX for a day, highlighting the absurdity of such a crossove…
+  - 资金 100.00 / 广度 97.20 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ANSEM COIN Launch | Solana | 降温中 | 强度 78.33 | 质量 68.94
+- ANSEM COIN Launch | Solana | 降温中 | 强度 80.13 | 质量 68.98
   - 主题摘要：According to ANSEM COIN's post, the project officially launched the ANSEM COIN token, positioning it as the final form following previous iterations. The post highlights the token…
-  - 资金 100.00 / 广度 88.66 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.77 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Unstable Racoon Coin | Solana | 降温中 | 强度 75.97 | 质量 61.62
-  - 主题摘要：Multiple tokens named 「USRC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.48 / 确认 9.36 / 脆弱性 14.00
+- RISE | Solana | 加速中 | 强度 79.20 | 质量 70.08
+  - 主题摘要：Multiple tokens named 「RISE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.80 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- PG FIST Announces FIST Staking Launch | BSC | 已确认 | 强度 78.52 | 质量 74.04
+  - 主题摘要：According to PG FIST's post, the Big Fist FIST burn wealth management feature is scheduled to launch on July 16 at 20:19. Burning and floating loss features will commence on July…
+  - 资金 92.73 / 广度 82.02 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Timeout Dog | Solana | 降温中 | 强度 77.70 | 质量 68.72
+  - 主题摘要：Multiple tokens named 「TIMEOUT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.89 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Tiancai DEV Discusses Monkey Coin | BSC | 加速中 | 强度 75.02 | 质量 61.48
-  - 主题摘要：According to 天才DEV小号（仅此两号）'s post, the user discusses the popularity of Monkey Coin on Douyin, noting that many investors compare it to early Dogecoin and observe a market shift f…
-  - 资金 100.00 / 广度 74.72 / 确认 24.48 / 脆弱性 14.00
+- BNB Chain Open Build | BSC | 加速中 | 强度 77.43 | 质量 71.45
+  - 主题摘要：BNB Chain官方账号发布推文，邀请社区参与其下一代L1公链的构建过程，强调透明度和社区共治。
+  - 资金 100.00 / 广度 79.50 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yi He Claims Tu is BSC Essence | BSC | 加速中 | 强度 74.36 | 质量 64.88
-  - 主题摘要：According to Have fun dev's post, Yi He stated that 'Tu' represents the essence of the BSC ecosystem. This comment defines the core nature of the BSC network through this specific…
-  - 资金 100.00 / 广度 74.99 / 确认 24.48 / 脆弱性 14.00
+- Alleged PRIETA Token | Solana | 加速中 | 强度 76.68 | 质量 76.32
+  - 主题摘要：According to EL33t's post, the user shared a story about a dog named Prieta, which is associated with the token symbol PRIETA. This information is unverified. Please exercise caut…
+  - 资金 100.00 / 广度 85.04 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Lying Flat Win | BSC | 加速中 | 强度 72.68 | 质量 63.46
-  - 主题摘要：Binance前CEO CZ因近期社交网络活跃度降低却意外实现粉丝激增，引发社区关于其“躺平”策略及熊市是否终结的调侃与讨论。
-  - 资金 100.00 / 广度 76.13 / 确认 24.48 / 脆弱性 14.00
+- Noot's OPOS | Solana | 降温中 | 强度 75.91 | 质量 66.03
+  - 主题摘要：Solana官方账号回复知名开发者Noot，引用其标志性口号“OPOS”（One Proof of Stake），致敬Solana生态的开发者友好环境。这一互动强化了Solana社区文化，极具Meme传播潜力。
+  - 资金 100.00 / 广度 79.28 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Tiancai DEV Discusses Monkey Coin | BSC | 加速中 | 强度 75.28 | 质量 63.91
+  - 主题摘要：According to 天才DEV小号（仅此两号）'s post, the user discusses the popularity of Monkey Coin on Douyin, noting that many investors view it as an early-stage Dogecoin equivalent, reflecting…
+  - 资金 100.00 / 广度 79.40 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance 9th Anniversary Community Event | BSC | 加速中 | 强度 74.20 | 质量 60.17
+  - 主题摘要：Binance Chinese announced a community campaign for its 9th anniversary, inviting users to share stories and creative content related to their experience with the platform. Partici…
+  - 资金 100.00 / 广度 72.28 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.53，其中已确认叙事 1 个。
-- Alleged PRIETA Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.75，其中已确认叙事 1 个。
+- RISE 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - United States Oil Holdings 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Giggle Academy Introduces AI Companion Mai | 质量 84.88 | 可交易性 100.00 | 风险 低
-- Elon Musk as SpaceX CEO | 质量 84.17 | 可交易性 100.00 | 风险 低
-- United States Oil Holdings | 质量 77.61 | 可交易性 97.71 | 风险 低
-- Alleged PRIETA Token | 质量 77.40 | 可交易性 95.56 | 风险 低
-- Alleged DOW Coin Trump Tokenization Rumor | 质量 75.33 | 可交易性 100.00 | 风险 低
-- PG FIST Announces FIST Staking Launch | 质量 75.16 | 可交易性 100.00 | 风险 低
-- Alleged Komugi Meme Image Launch | 质量 74.85 | 可交易性 100.00 | 风险 低
-- Alleged Agamemnon Meme Image | 质量 72.63 | 可交易性 63.97 | 风险 低
-- Airzooka Viral Trend | 质量 68.96 | 可交易性 85.64 | 风险 低
-- ANSEM COIN Launch | 质量 68.94 | 可交易性 71.63 | 风险 低
+- Elon Musk as SpaceX CEO | 质量 79.75 | 可交易性 100.00 | 风险 低
+- United States Oil Holdings | 质量 78.30 | 可交易性 100.00 | 风险 低
+- Alleged DOW Coin Trump Tokenization Rumor | 质量 77.96 | 可交易性 100.00 | 风险 低
+- Alleged PRIETA Token | 质量 76.32 | 可交易性 94.57 | 风险 低
+- PG FIST Announces FIST Staking Launch | 质量 74.04 | 可交易性 100.00 | 风险 低
+- Alleged Agamemnon Meme Image | 质量 72.68 | 可交易性 63.84 | 风险 低
+- BNB Chain Open Build | 质量 71.45 | 可交易性 80.71 | 风险 低
+- RISE | 质量 70.08 | 可交易性 74.84 | 风险 低
+- ANSEM COIN Launch | 质量 68.98 | 可交易性 71.67 | 风险 低
 
 ## 伪叙事风险
 
@@ -98,8 +98,8 @@
 
 ## 信号台
 
-- 猴子币 | BSC | 看多 | 新鲜度 100.00 | Tiancai DEV Discusses Monkey Coin
 - 屎币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 猴子币 | BSC | 看多 | 新鲜度 100.00 | Tiancai DEV Discusses Monkey Coin
 - 关你屁事 | BSC | 看多 | 新鲜度 100.00 | Elon Musk as SpaceX CEO
 - Mai | BSC | 看多 | 新鲜度 100.00 | Giggle Academy Introduces AI Companion Mai
 - BuiltByYou | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Oil Holdings（Solana，分数 86.74）
+1. 当前最强叙事：United States Oil Holdings（Solana，分数 87.15）
 2. 共振最强代币：屎币（BSC，共振 100.0）
-3. 记忆层变化：Alleged Komugi Meme Image Launch 当前为“新出现”
+3. 记忆层变化：RISE 当前为“新出现”
 4. 最新官方催化：Binance Will Add Aerodrome (AERO) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 #Binance #NarrativeOS #OpenClaw
