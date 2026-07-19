@@ -1,111 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-19T08:38:14.589079+00:00
+- 生成时间：2026-07-19T10:11:17.733021+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：4
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Permanently ONchain EmployeD，所在链为 Solana，叙事强度 83.86。
-- 当前平均叙事强度为 76.44，其中已确认叙事 1 个。
+- 当前最强叙事是 Permanently ONchain EmployeD，所在链为 Solana，叙事强度 86.53。
+- 当前平均叙事强度为 81.3，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Tate Arrest 当前处于“新出现”状态。
+- 记忆层显示 Global Digital Water Reserve 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Will Add Aerodrome (AERO) on Earn, Buy Crypto, Convert, VIP Loan & Margin。
 
 ## 叙事雷达
 
-- Permanently ONchain EmployeD | Solana | 加速中 | 强度 83.86 | 质量 75.50
+- Permanently ONchain EmployeD | Solana | 加速中 | 强度 86.53 | 质量 75.66
   - 主题摘要：Multiple tokens named 「PONED」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.84 / 确认 20.20 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.37 / 确认 20.20 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PG FIST Announces FIST Staking Launch | BSC | 已确认 | 强度 83.18 | 质量 80.74
+- PG FIST Announces FIST Staking Launch | BSC | 已确认 | 强度 86.25 | 质量 80.46
   - 主题摘要：According to PG FIST's post, the Big Fist FIST burn wealth management feature is scheduled to launch on July 16 at 20:19. Burning and floating loss features will commence on July…
-  - 资金 93.95 / 广度 86.44 / 确认 30.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.49 / 确认 30.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Giggle Academy Introduces AI Companion Mai | BSC | 已确认 | 强度 83.02 | 质量 84.80
+- Giggle Academy Introduces AI Companion Mai | BSC | 已确认 | 强度 84.99 | 质量 84.74
   - 主题摘要：According to Giggle Academy's post, the company introduced Mai, an AI companion designed for children. Mai is described as an interactive tool that changes forms to keep kids enga…
-  - 资金 100.00 / 广度 97.33 / 确认 34.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 97.12 / 确认 34.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Tate Arrest | Solana | 降温中 | 强度 82.31 | 质量 69.88
-  - 主题摘要：According to Disclose.tv's post, Andrew and Tristan Tate were allegedly arrested in Miami, with the U.S. Marshals Service stating the warrant was sealed. This event has triggered…
-  - 资金 100.00 / 广度 66.06 / 确认 9.36 / 脆弱性 0.00
+- Global Digital Water Reserve | Solana | 降温中 | 强度 84.32 | 质量 72.02
+  - 主题摘要：Multiple tokens named 「GDWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.21 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Based Launches Alleged $SUB Token | Solana | 已确认 | 强度 78.08 | 质量 75.58
+- Shakespeare Identifies Viral Chimera Cat | Solana | 加速中 | 强度 82.43 | 质量 72.39
+  - 主题摘要：According to Shakespeare's post, the user identified the name of a viral chimera cat with a split coat and heterochromia. Shakespeare provided proof via video and social media lin…
+  - 资金 100.00 / 广度 63.87 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Based Launches Alleged $SUB Token | Solana | 已确认 | 强度 81.22 | 质量 76.06
   - 主题摘要：According to Based's post, he is launching a website, streamerbounties.fun, to manage bounties for Streamer University gifted subs. He claims to be issuing the $SUB token, named S…
-  - 资金 100.00 / 广度 87.51 / 确认 28.12 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.43 / 确认 28.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 币安人生永动机QQ954326886 | BSC | 加速中 | 强度 76.73 | 质量 75.03
-  - 主题摘要：币安人生永动机 (Binance Life Engine) is a meme token inspired by the concept of perpetual motion machines, symbolizing endless growth and prosperity. It gained popularity through viral s…
-  - 资金 100.00 / 广度 80.38 / 确认 20.16 / 脆弱性 14.00
+- Alleged Auntie Tim Token Launch | Solana | 加速中 | 强度 80.34 | 质量 71.68
+  - 主题摘要：According to Breezy's post, Auntie Tim, founder of a Thai animal shelter, sold gold to fund care for 1,700 animals after financial fraud. Breezy claims this narrative is significa…
+  - 资金 100.00 / 广度 64.12 / 确认 20.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 金蝶圣甲 | BSC | 加速中 | 强度 76.67 | 质量 67.44
-  - 主题摘要：Multiple tokens named 「金蝶圣甲」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.09 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Raccoon Retard | Solana | 降温中 | 强度 74.52 | 质量 68.07
-  - 主题摘要：RACCTARD is a meme token inspired by internet culture, featuring a raccoon character with a distressed expression. The logo depicts a cartoon raccoon with glowing orange outlines,…
-  - 资金 100.00 / 广度 63.72 / 确认 4.32 / 脆弱性 14.00
+- Alleged World Cup Meme Coin Launch | Solana | 降温中 | 强度 79.31 | 质量 67.23
+  - 主题摘要：According to Retardalon's post, the author plans to launch two World Cup-themed tokens, $SPAIN and $ARGENTINA, leveraging the upcoming final's viewership. Retardalon claims to man…
+  - 资金 100.00 / 广度 69.46 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- RISE | Solana | 加速中 | 强度 73.68 | 质量 68.58
-  - 主题摘要：Multiple tokens named 「RISE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.02 / 确认 24.48 / 脆弱性 24.00
+- Elon Musk as SpaceX CEO | BSC | 已确认 | 强度 79.07 | 质量 80.24
+  - 主题摘要：Binance CEO Yi He humorously imagines a scenario where she tells Elon Musk about the weather and becomes the CEO of SpaceX for a day, highlighting the absurdity of such a crossove…
+  - 资金 100.00 / 广度 90.72 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged $W26 Scam Warning | Solana | 降温中 | 强度 78.33 | 质量 64.71
+  - 主题摘要：According to m's post, influencers are allegedly promoting the W26 token to retail investors with false promises of wealth, which m characterizes as a scam. m launched the wurldcu…
+  - 资金 100.00 / 广度 77.05 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged PRIETA Token | Solana | 加速中 | 强度 77.91 | 质量 77.47
+  - 主题摘要：According to EL33t's post, the user shared a story about a dog named Prieta, which is associated with the token symbol PRIETA. This information is unverified. Please exercise caut…
+  - 资金 100.00 / 广度 85.31 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SIZEY Shares Benny Hana Meme | Solana | 加速中 | 强度 73.49 | 质量 68.48
-  - 主题摘要：According to SIZEY's post, the user shared a viral Meme image of a 12-year-old cat named Benny Hana, known for wearing hats. SIZEY compared the cat's aura to the Dog Wif Hat meme,…
-  - 资金 100.00 / 广度 89.15 / 确认 28.08 / 脆弱性 24.00
+- 金蝶圣甲 | BSC | 加速中 | 强度 76.27 | 质量 67.40
+  - 主题摘要：Multiple tokens named 「金蝶圣甲」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.15 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged PRIETA Token | Solana | 加速中 | 强度 72.94 | 质量 67.24
-  - 主题摘要：According to EL33t's post, the author shared a story about a dog named Prieta that survived in San Francisco Bay, linking it to the PRIETA token. This information is unverified. P…
-  - 资金 100.00 / 广度 84.22 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Tate Brothers Arrested | Solana | 加速中 | 强度 72.62 | 质量 67.52
-  - 主题摘要：According to TMZ's post, Andrew and Tristan Tate were arrested in Miami. This event has generated associated cryptocurrency tokens, including 'Justice For Tates' and 'FREE TATES',…
-  - 资金 100.00 / 广度 86.25 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Podcast | BSC | 加速中 | 强度 70.82 | 质量 60.78
-  - 主题摘要：CZ回复Talking Tokens播客，简短称赞了与主播的对话。由于内容过于泛泛，缺乏具体的争议点或幽默元素，难以形成独立的Meme叙事。
-  - 资金 100.00 / 广度 80.82 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance 9th Anniversary Community Event | BSC | 加速中 | 强度 69.85 | 质量 57.65
+- Binance 9th Anniversary Community Event | BSC | 加速中 | 强度 72.10 | 质量 58.60
   - 主题摘要：Binance Chinese announced a community campaign for its 9th anniversary, inviting users to share stories and creative content related to their experience with the platform. Partici…
-  - 资金 100.00 / 广度 72.89 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.90 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- DOG | BSC | 加速中 | 强度 70.31 | 质量 61.11
+  - 主题摘要：Multiple tokens named 「DOG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.21 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.44，其中已确认叙事 1 个。
-- Tate Brothers Arrested 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged Tate Arrest 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.3，其中已确认叙事 1 个。
+- Shakespeare Identifies Viral Chimera Cat 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Global Digital Water Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Giggle Academy Introduces AI Companion Mai | 质量 84.80 | 可交易性 100.00 | 风险 低
-- PG FIST Announces FIST Staking Launch | 质量 80.74 | 可交易性 100.00 | 风险 低
-- Based Launches Alleged $SUB Token | 质量 75.58 | 可交易性 83.80 | 风险 低
-- Permanently ONchain EmployeD | 质量 75.50 | 可交易性 100.00 | 风险 低
-- 币安人生永动机QQ954326886 | 质量 75.03 | 可交易性 100.00 | 风险 低
-- Alleged Tate Arrest | 质量 69.88 | 可交易性 100.00 | 风险 低
-- RISE | 质量 68.58 | 可交易性 71.62 | 风险 低
-- SIZEY Shares Benny Hana Meme | 质量 68.48 | 可交易性 58.54 | 风险 低
-- The Raccoon Retard | 质量 68.07 | 可交易性 100.00 | 风险 低
-- Tate Brothers Arrested | 质量 67.52 | 可交易性 64.02 | 风险 低
+- Giggle Academy Introduces AI Companion Mai | 质量 84.74 | 可交易性 100.00 | 风险 低
+- PG FIST Announces FIST Staking Launch | 质量 80.46 | 可交易性 100.00 | 风险 低
+- Elon Musk as SpaceX CEO | 质量 80.24 | 可交易性 100.00 | 风险 低
+- Alleged PRIETA Token | 质量 77.47 | 可交易性 95.49 | 风险 低
+- Based Launches Alleged $SUB Token | 质量 76.06 | 可交易性 85.49 | 风险 低
+- Permanently ONchain EmployeD | 质量 75.66 | 可交易性 100.00 | 风险 低
+- Shakespeare Identifies Viral Chimera Cat | 质量 72.39 | 可交易性 100.00 | 风险 低
+- Global Digital Water Reserve | 质量 72.02 | 可交易性 100.00 | 风险 低
+- Alleged Auntie Tim Token Launch | 质量 71.68 | 可交易性 100.00 | 风险 低
+- 金蝶圣甲 | 质量 67.40 | 可交易性 65.56 | 风险 低
 
 ## 伪叙事风险
 
 
 ## 信号台
 
+- 屎币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 关你屁事 | BSC | 看多 | 新鲜度 100.00 | Elon Musk as SpaceX CEO
 - Mai | BSC | 看多 | 新鲜度 100.00 | Giggle Academy Introduces AI Companion Mai
 - BuiltByYou | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 逆袭人生 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CZ | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Star | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Jimothy | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Benny | Solana | 看多 | 新鲜度 100.00 | SIZEY Shares Benny Hana Meme
+- Benny | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BISCOTTI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SOLdiers | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- NEEGY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Permanently ONchain EmployeD（Solana，分数 83.86）
+1. 当前最强叙事：Permanently ONchain EmployeD（Solana，分数 86.53）
 2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Alleged Tate Arrest 当前为“新出现”
+3. 记忆层变化：Global Digital Water Reserve 当前为“新出现”
 4. 最新官方催化：Binance Will Add Aerodrome (AERO) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 #Binance #NarrativeOS #OpenClaw
