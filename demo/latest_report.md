@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-20T22:26:43.050069+00:00
+- 生成时间：2026-07-20T23:27:58.412403+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 1 jimothy can change your life，所在链为 Solana，叙事强度 84.16。
-- 当前平均叙事强度为 76.63，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Pusholder Shares Grasshopper Smoking Image 当前处于“新出现”状态。
+- 当前最强叙事是 Binance Gen Z Wave，所在链为 BSC，叙事强度 83.52。
+- 当前平均叙事强度为 75.79，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 HBULL，来自 Solana，共振分数 100.0。
+- 记忆层显示 se Clarifies FOMO Token Is Not Farming 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 PG FIST Announces FIST Staking Launch，伪叙事风险 44.91。
 - 最新官方催化来自 币安最新公告：Binance Stocks Now Supports API Trading。
 
 ## 叙事雷达
 
-- 1 jimothy can change your life | Solana | 降温中 | 强度 84.16 | 质量 72.41
-  - 主题摘要：1jimothy token draws inspiration from Jim Thorpe, the legendary Native American athlete. The logo features Thorpe's iconic image surrounded by various figures, symbolizing his leg…
-  - 资金 100.00 / 广度 74.49 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pusholder Shares Grasshopper Smoking Image | Solana | 已确认 | 强度 82.69 | 质量 74.79
-  - 主题摘要：According to Pusholder's post, an image of a grasshopper smoking a cigarette in Istanbul was shared. This visual content aligns with the themes of tokens such as Flying Cigarette…
-  - 资金 100.00 / 广度 81.25 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 首个逆袭人生与人生逆袭组成LP托底池金库 | BSC | 加速中 | 强度 82.49 | 质量 73.62
-  - 主题摘要：Multiple tokens named 「人生逆袭」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.60 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Gen Z Wave | BSC | 已确认 | 强度 81.90 | 质量 84.32
+- Binance Gen Z Wave | BSC | 已确认 | 强度 83.52 | 质量 84.45
   - 主题摘要：Binance highlights that 44% of its Stocks users are Gen Z, signaling a massive shift in financial demographics towards younger investors. This data point suggests a new era of cry…
-  - 资金 80.61 / 广度 97.83 / 确认 31.68 / 脆弱性 24.00
+  - 资金 90.22 / 广度 98.27 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Jimothy The Robin | Solana | 降温中 | 强度 80.07 | 质量 71.70
-  - 主题摘要：Jimhood is a meme token inspired by the Robin Hood character, featuring a raccoon dressed as Robin Hood with a bow and arrow. The token's logo depicts a raccoon in Robin Hood atti…
-  - 资金 100.00 / 广度 75.84 / 确认 4.32 / 脆弱性 0.00
+- 1 jimothy can change your life | Solana | 降温中 | 强度 83.47 | 质量 73.47
+  - 主题摘要：1jimothy token draws inspiration from Jim Thorpe, the legendary Native American athlete. The logo features Thorpe's iconic image surrounded by various figures, symbolizing his leg…
+  - 资金 100.00 / 广度 78.03 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- shorting coins shorting spines | Solana | 降温中 | 强度 78.17 | 质量 70.44
-  - 主题摘要：Multiple tokens named 「SPINELESS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.94 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DOW on War Resources | Solana | 降温中 | 强度 77.64 | 质量 64.01
+- DOW on War Resources | Solana | 降温中 | 强度 82.57 | 质量 71.33
   - 主题摘要：According to DOW's post, the author asserts that resources, rather than ideology or philosophy, are the primary drivers of war. The post further states that the strategic landscap…
   - 资金 100.00 / 广度 90.29 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jerboa Meme Image Controversy | Solana | 加速中 | 强度 74.66 | 质量 67.91
-  - 主题摘要：According to losdicaaaa's post, the author questions the accuracy of a Jerboa Meme image, claiming it depicts a different animal than the viral jerboa rodent. The post references…
-  - 资金 100.00 / 广度 82.10 / 确认 24.48 / 脆弱性 24.00
+- 首个逆袭人生与人生逆袭组成LP托底池金库 | BSC | 加速中 | 强度 79.86 | 质量 72.58
+  - 主题摘要：Multiple tokens named 「人生逆袭」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.50 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- TJR Comments on Watch Mogged | Solana | 加速中 | 强度 74.29 | 质量 67.84
-  - 主题摘要：According to TJR's post, the user commented 'That’s cute' in reply to a quoted tweet claiming 'Gm = Get mogged' and asserting that a specific watch costs more than everything in t…
-  - 资金 100.00 / 广度 84.80 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- KICK Chat Badges | Solana | 加速中 | 强度 74.29 | 质量 67.85
-  - 主题摘要：According to KICK's post, the platform has introduced new badges within its chat interface, prompting users to identify them.
-  - 资金 100.00 / 广度 84.83 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Giggle Academy Introduces AI Companion Mai | BSC | 加速中 | 强度 74.27 | 质量 74.61
-  - 主题摘要：According to Giggle Academy's post, the company introduced Mai, an AI companion designed for children. Mai is described as an interactive tool that changes forms to keep kids enga…
-  - 资金 100.00 / 广度 92.50 / 确认 34.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk as SpaceX CEO | BSC | 加速中 | 强度 74.20 | 质量 71.39
-  - 主题摘要：Binance CEO Yi He humorously imagines a scenario where she tells Elon Musk about the weather and becomes the CEO of SpaceX for a day, highlighting the absurdity of such a crossove…
-  - 资金 100.00 / 广度 94.08 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- He Yi Denies BNB Alpha Cancellation | BSC | 加速中 | 强度 74.12 | 质量 60.14
-  - 主题摘要：Binance Co-founder Yi He (@heyibinance) responds to community rumors claiming Binance Alpha has been cancelled due to low activity. She clarifies that the rumors are likely hoaxes…
-  - 资金 100.00 / 广度 69.15 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PG FIST Announces FIST Staking Launch | BSC | 点火期 | 强度 72.83 | 质量 67.52
-  - 主题摘要：According to PG FIST's post, the Big Fist FIST burn wealth management feature is scheduled to launch on July 16 at 20:19. Burning and floating loss features will commence on July…
-  - 资金 100.00 / 广度 78.83 / 确认 12.96 / 脆弱性 14.00
+- Jimothy The Robin | Solana | 点火期 | 强度 79.10 | 质量 72.72
+  - 主题摘要：Jimhood is a meme token inspired by the Robin Hood character, featuring a raccoon dressed as Robin Hood with a bow and arrow. The token's logo depicts a raccoon in Robin Hood atti…
+  - 资金 100.00 / 广度 79.24 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Jerboa Meme Image Controversy | Solana | 加速中 | 强度 76.57 | 质量 68.11
+  - 主题摘要：According to losdicaaaa's post, the author questions the accuracy of a Jerboa Meme image, claiming it depicts a different animal than the viral jerboa rodent. The post references…
+  - 资金 100.00 / 广度 82.21 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- KICK Chat Badges | Solana | 加速中 | 强度 75.97 | 质量 67.85
+  - 主题摘要：According to KICK's post, the platform has introduced new badges within its chat interface, prompting users to identify them.
+  - 资金 100.00 / 广度 84.66 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- TJR Comments on Watch Mogged | Solana | 加速中 | 强度 75.96 | 质量 67.84
+  - 主题摘要：According to TJR's post, the user commented 'That’s cute' in reply to a quoted tweet claiming 'Gm = Get mogged' and asserting that a specific watch costs more than everything in t…
+  - 资金 100.00 / 广度 84.63 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- se Clarifies FOMO Token Is Not Farming | Solana | 加速中 | 强度 74.55 | 质量 65.57
+  - 主题摘要：According to se's post, se clarified that the FOMO token is not a farming scheme. se stated that they do not wish to be involved in such activities and redirected fees directly to…
+  - 资金 100.00 / 广度 83.94 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- juan | Solana | 加速中 | 强度 73.80 | 质量 60.88
+  - 主题摘要：According to Bobby The Man's post, the JUAN token is described as an 'OG Horse meme' with the creator onboarded, suggesting potential price appreciation. The post includes the con…
+  - 资金 100.00 / 广度 74.47 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- PG FIST Announces FIST Staking Launch | BSC | 点火期 | 强度 73.49 | 质量 68.08
+  - 主题摘要：According to PG FIST's post, the Big Fist FIST burn wealth management feature is scheduled to launch on July 16 at 20:19. Burning and floating loss features will commence on July…
+  - 资金 100.00 / 广度 78.80 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- DOG | BSC | 加速中 | 强度 73.46 | 质量 59.45
+  - 主题摘要：Multiple tokens named 「DOG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.28 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Giggle Academy Introduces AI Companion Mai | BSC | 加速中 | 强度 72.87 | 质量 72.89
+  - 主题摘要：According to Giggle Academy's post, the company introduced Mai, an AI companion designed for children. Mai is described as an interactive tool that changes forms to keep kids enga…
+  - 资金 100.00 / 广度 91.51 / 确认 34.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk as SpaceX CEO | BSC | 加速中 | 强度 71.52 | 质量 67.43
+  - 主题摘要：Binance CEO Yi He humorously imagines a scenario where she tells Elon Musk about the weather and becomes the CEO of SpaceX for a day, highlighting the absurdity of such a crossove…
+  - 资金 100.00 / 广度 93.98 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.63，其中已确认叙事 1 个。
-- Pusholder Shares Grasshopper Smoking Image 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.79，其中已确认叙事 1 个。
+- se Clarifies FOMO Token Is Not Farming 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - 1 jimothy can change your life 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Gen Z Wave | 质量 84.32 | 可交易性 100.00 | 风险 低
-- Pusholder Shares Grasshopper Smoking Image | 质量 74.79 | 可交易性 87.45 | 风险 低
-- Giggle Academy Introduces AI Companion Mai | 质量 74.61 | 可交易性 100.00 | 风险 低
-- 首个逆袭人生与人生逆袭组成LP托底池金库 | 质量 73.62 | 可交易性 84.86 | 风险 低
-- 1 jimothy can change your life | 质量 72.41 | 可交易性 100.00 | 风险 低
-- Jimothy The Robin | 质量 71.70 | 可交易性 100.00 | 风险 低
-- Elon Musk as SpaceX CEO | 质量 71.39 | 可交易性 100.00 | 风险 低
-- shorting coins shorting spines | 质量 70.44 | 可交易性 100.00 | 风险 低
-- Jerboa Meme Image Controversy | 质量 67.91 | 可交易性 66.33 | 风险 低
-- KICK Chat Badges | 质量 67.85 | 可交易性 63.92 | 风险 低
+- Binance Gen Z Wave | 质量 84.45 | 可交易性 100.00 | 风险 低
+- 1 jimothy can change your life | 质量 73.47 | 可交易性 100.00 | 风险 低
+- Giggle Academy Introduces AI Companion Mai | 质量 72.89 | 可交易性 100.00 | 风险 低
+- Jimothy The Robin | 质量 72.72 | 可交易性 100.00 | 风险 低
+- 首个逆袭人生与人生逆袭组成LP托底池金库 | 质量 72.58 | 可交易性 81.49 | 风险 低
+- DOW on War Resources | 质量 71.33 | 可交易性 97.41 | 风险 低
+- Jerboa Meme Image Controversy | 质量 68.11 | 可交易性 66.88 | 风险 低
+- PG FIST Announces FIST Staking Launch | 质量 68.08 | 可交易性 100.00 | 风险 低
+- KICK Chat Badges | 质量 67.85 | 可交易性 64.07 | 风险 低
+- TJR Comments on Watch Mogged | 质量 67.84 | 可交易性 64.07 | 风险 低
 
 ## 伪叙事风险
 
 - PG FIST Announces FIST Staking Launch | 风险 44.91 | 原因：流动性偏薄
+- Jimothy The Robin | 风险 44.54 | 原因：确认层仍然偏薄
 
 ## 信号台
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：1 jimothy can change your life（Solana，分数 84.16）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Pusholder Shares Grasshopper Smoking Image 当前为“新出现”
+1. 当前最强叙事：Binance Gen Z Wave（BSC，分数 83.52）
+2. 共振最强代币：HBULL（Solana，共振 100.0）
+3. 记忆层变化：se Clarifies FOMO Token Is Not Farming 当前为“新出现”
 4. 最新官方催化：Binance Stocks Now Supports API Trading
 #Binance #NarrativeOS #OpenClaw
