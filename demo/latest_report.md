@@ -1,114 +1,115 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-20T12:37:04.443433+00:00
+- 生成时间：2026-07-20T14:52:20.784368+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 National Trust Fund System，所在链为 Solana，叙事强度 87.85。
-- 当前平均叙事强度为 80.93，其中已确认叙事 1 个。
+- 当前最强叙事是 DOW on War Resources，所在链为 Solana，叙事强度 82.7。
+- 当前平均叙事强度为 77.4，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 AGAMEMNON，来自 Solana，共振分数 100.0。
-- 记忆层显示 DOW on War Resources 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 DOW on War Resources，伪叙事风险 40.99。
+- 记忆层显示 首个逆袭人生与人生逆袭组成LP托底池金库 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 National Trust Fund System，伪叙事风险 52.99。
 - 最新官方催化来自 币安最新公告：Binance Stocks Now Supports API Trading。
 
 ## 叙事雷达
 
-- National Trust Fund System | Solana | 降温中 | 强度 87.85 | 质量 79.44
-  - 主题摘要：Multiple tokens named 「NTFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 97.92 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DOW on War Resources | Solana | 降温中 | 强度 83.97 | 质量 75.59
+- DOW on War Resources | Solana | 降温中 | 强度 82.70 | 质量 76.41
   - 主题摘要：According to DOW's post, the author asserts that resources, rather than ideology or philosophy, are the primary drivers of war. The post further states that the strategic landscap…
-  - 资金 100.00 / 广度 85.10 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.49 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Proof Of Bagwork Platform Launch | Solana | 已确认 | 强度 82.97 | 质量 72.01
-  - 主题摘要：According to Proof Of Bagwork's post, the Proof Of Bagwork platform is launched to automate paid social media tasks for token communities. Developers deposit SOL into on-chain esc…
-  - 资金 100.00 / 广度 88.74 / 确认 38.88 / 脆弱性 14.00
+- Proof Of Bagwork Platform Launch | Solana | 已确认 | 强度 79.84 | 质量 71.85
+  - 主题摘要：According to Proof Of Bagwork's post, the Proof Of Bagwork platform is launched to automate paid social media tasks for token communities. Developers deposit SOL into an on-chain…
+  - 资金 100.00 / 广度 89.12 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Jerboa Meme Image Controversy | Solana | 加速中 | 强度 81.05 | 质量 70.97
-  - 主题摘要：According to losdicaaaa's post, the author questions the accuracy of an image associated with the $Jerboa token, describing it as a 'different animal' compared to the viral jerboa…
-  - 资金 100.00 / 广度 70.29 / 确认 24.48 / 脆弱性 14.00
+- 首个逆袭人生与人生逆袭组成LP托底池金库 | BSC | 加速中 | 强度 79.55 | 质量 71.79
+  - 主题摘要：Multiple tokens named 「人生逆袭」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.25 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Gold Portrait | Solana | 加速中 | 强度 79.92 | 质量 80.74
-  - 主题摘要：According to DogeDesigner's post, a gold-leaf portrait of Elon Musk is displayed at the Kennedy Center in Washington, D.C. This content highlights a specific artistic representati…
-  - 资金 100.00 / 广度 91.70 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nova Allegedly Releases MEMIPEDE Meme Image | Solana | 降温中 | 强度 78.88 | 质量 71.32
+- Nova Allegedly Releases MEMIPEDE Meme Image | Solana | 降温中 | 强度 77.46 | 质量 71.39
   - 主题摘要：According to Nova's post, Nova allegedly released a Meme image related to the MEMIPEDE token, referencing other projects like Ansem and Chillhouse. This information is unverified.…
-  - 资金 100.00 / 广度 70.88 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 71.10 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged AI Solves Jacobian Conjecture | Solana | 降温中 | 强度 78.42 | 质量 68.11
-  - 主题摘要：According to jmadoch's post, an Anthropic researcher allegedly used the AI tool Fable to disprove the Jacobian Conjecture, a famous mathematical problem. This event is described a…
-  - 资金 100.00 / 广度 90.72 / 确认 12.96 / 脆弱性 14.00
+- The Pepe Table | Solana | 降温中 | 强度 77.45 | 质量 67.20
+  - 主题摘要：PEPSA is a meme token inspired by the iconic Pepe the Frog character, reimagined as a table. The logo features a blue table with Pepe's face, embodying the playful fusion of inter…
+  - 资金 100.00 / 广度 57.13 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Giggle Academy Introduces AI Companion Mai | BSC | 加速中 | 强度 77.32 | 质量 76.19
-  - 主题摘要：According to Giggle Academy's post, the company introduced Mai, an AI companion designed for children. Mai is described as an interactive tool that changes forms to keep kids enga…
-  - 资金 100.00 / 广度 96.16 / 确认 35.28 / 脆弱性 14.00
+- Binance Day 600: To The Moon | BSC | 加速中 | 强度 76.71 | 质量 76.67
+  - 主题摘要：Binance celebrates its 600th day with a 'To The Moon' theme, referencing its bStocks initiative. This milestone event combines corporate branding with the classic crypto meme cult…
+  - 资金 100.00 / 广度 86.05 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk as SpaceX CEO | BSC | 加速中 | 强度 75.39 | 质量 74.10
+- Elon Musk Gold Portrait | Solana | 加速中 | 强度 76.45 | 质量 76.67
+  - 主题摘要：According to DogeDesigner's post, a gold-leaf portrait of Elon Musk is displayed at the Kennedy Center in Washington, D.C. This content highlights a specific artistic representati…
+  - 资金 100.00 / 广度 91.85 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk as SpaceX CEO | BSC | 加速中 | 强度 75.57 | 质量 74.04
   - 主题摘要：Binance CEO Yi He humorously imagines a scenario where she tells Elon Musk about the weather and becomes the CEO of SpaceX for a day, highlighting the absurdity of such a crossove…
-  - 资金 100.00 / 广度 95.99 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.88 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PG FIST Announces FIST Staking Launch | BSC | 加速中 | 强度 74.58 | 质量 70.88
+- Giggle Academy Introduces AI Companion Mai | BSC | 加速中 | 强度 75.38 | 质量 73.53
+  - 主题摘要：According to Giggle Academy's post, the company introduced Mai, an AI companion designed for children. Mai is described as an interactive tool that changes forms to keep kids enga…
+  - 资金 100.00 / 广度 95.87 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- National Trust Fund System | Solana | 点火期 | 强度 75.19 | 质量 75.60
+  - 主题摘要：Multiple tokens named 「NTFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 97.88 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Swole Doge | Solana | 降温中 | 强度 75.16 | 质量 66.99
+  - 主题摘要：Multiple tokens named 「SWOGE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 60.13 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Thorsten Ball Introduces Puck AI Agent | Solana | 加速中 | 强度 74.96 | 质量 71.22
+  - 主题摘要：According to Thorsten Ball's post, he introduces Puck, a new AI assistant for the Amp platform. Puck is described as a fast, always-reachable agent capable of researching code, ch…
+  - 资金 100.00 / 广度 85.44 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- PG FIST Announces FIST Staking Launch | BSC | 点火期 | 强度 73.73 | 质量 68.69
   - 主题摘要：According to PG FIST's post, the Big Fist FIST burn wealth management feature is scheduled to launch on July 16 at 20:19. Burning and floating loss features will commence on July…
-  - 资金 96.29 / 广度 78.98 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Greg Comments on Elon Musk's X Interaction | Solana | 加速中 | 强度 74.35 | 质量 71.48
-  - 主题摘要：According to greg's post, the user highlights the appeal of the X platform by sharing an anecdote where Elon Musk commented "nice" on a picture of a cute dog posted by the user. T…
-  - 资金 100.00 / 广度 93.58 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pasteur | BSC | 加速中 | 强度 74.07 | 质量 69.50
-  - 主题摘要：According to 🔝芒种金狗👑's post, the author identified the creator address of a BSC hard fork and announced the release of a Pasteur Meme image. This information is unverified. Please…
-  - 资金 100.00 / 广度 78.59 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 到火星 | BSC | 加速中 | 强度 73.71 | 质量 57.77
-  - 主题摘要：Multiple tokens named 「火星币」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.10 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- DOG | BSC | 加速中 | 强度 70.89 | 质量 57.39
-  - 主题摘要：Multiple tokens named 「DOG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.17 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.13 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Baby Doge Rescue Event | BSC | 加速中 | 强度 72.46 | 质量 70.23
+  - 主题摘要：According to Baby Doge's post, the Baby Doge organization hosted an adoption event where Rebeca, a two-year-old rescue dog previously overlooked, was successfully adopted. The pos…
+  - 资金 99.39 / 广度 80.04 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.93，其中已确认叙事 1 个。
-- Jerboa Meme Image Controversy 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- National Trust Fund System 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.4，其中已确认叙事 1 个。
+- 首个逆袭人生与人生逆袭组成LP托底池金库 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- DOW on War Resources 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk Gold Portrait | 质量 80.74 | 可交易性 100.00 | 风险 低
-- National Trust Fund System | 质量 79.44 | 可交易性 100.00 | 风险 低
-- Giggle Academy Introduces AI Companion Mai | 质量 76.19 | 可交易性 100.00 | 风险 低
-- DOW on War Resources | 质量 75.59 | 可交易性 100.00 | 风险 低
-- Elon Musk as SpaceX CEO | 质量 74.10 | 可交易性 100.00 | 风险 低
-- Proof Of Bagwork Platform Launch | 质量 72.01 | 可交易性 62.79 | 风险 低
-- Greg Comments on Elon Musk's X Interaction | 质量 71.48 | 可交易性 66.75 | 风险 低
-- Nova Allegedly Releases MEMIPEDE Meme Image | 质量 71.32 | 可交易性 100.00 | 风险 低
-- Jerboa Meme Image Controversy | 质量 70.97 | 可交易性 88.33 | 风险 低
-- PG FIST Announces FIST Staking Launch | 质量 70.88 | 可交易性 100.00 | 风险 低
+- Binance Day 600: To The Moon | 质量 76.67 | 可交易性 91.69 | 风险 低
+- Elon Musk Gold Portrait | 质量 76.67 | 可交易性 100.00 | 风险 低
+- DOW on War Resources | 质量 76.41 | 可交易性 97.36 | 风险 低
+- National Trust Fund System | 质量 75.60 | 可交易性 100.00 | 风险 低
+- Elon Musk as SpaceX CEO | 质量 74.04 | 可交易性 100.00 | 风险 低
+- Giggle Academy Introduces AI Companion Mai | 质量 73.53 | 可交易性 100.00 | 风险 低
+- Proof Of Bagwork Platform Launch | 质量 71.85 | 可交易性 61.87 | 风险 低
+- 首个逆袭人生与人生逆袭组成LP托底池金库 | 质量 71.79 | 可交易性 80.09 | 风险 低
+- Nova Allegedly Releases MEMIPEDE Meme Image | 质量 71.39 | 可交易性 100.00 | 风险 低
+- Thorsten Ball Introduces Puck AI Agent | 质量 71.22 | 可交易性 71.91 | 风险 低
 
 ## 伪叙事风险
 
-- DOW on War Resources | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- National Trust Fund System | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- PG FIST Announces FIST Staking Launch | 风险 44.91 | 原因：流动性偏薄
 - Nova Allegedly Releases MEMIPEDE Meme Image | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- REBECA | BSC | 看多 | 新鲜度 100.00 | Baby Doge Rescue Event
 - 屎币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Pasteur | BSC | 看多 | 新鲜度 100.00 | Pasteur
+- Pasteur | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Mai | BSC | 看多 | 新鲜度 100.00 | Giggle Academy Introduces AI Companion Mai
 - 猴子币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 关你屁事 | BSC | 看多 | 新鲜度 100.00 | Elon Musk as SpaceX CEO
 - Mai | BSC | 看多 | 新鲜度 100.00 | Giggle Academy Introduces AI Companion Mai
 - BuiltByYou | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 逆袭人生 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- holyshit | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- nice | Solana | 看多 | 新鲜度 100.00 | Greg Comments on Elon Musk's X Interaction
+- Jimothy | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：National Trust Fund System（Solana，分数 87.85）
+1. 当前最强叙事：DOW on War Resources（Solana，分数 82.7）
 2. 共振最强代币：AGAMEMNON（Solana，共振 100.0）
-3. 记忆层变化：DOW on War Resources 当前为“新出现”
+3. 记忆层变化：首个逆袭人生与人生逆袭组成LP托底池金库 当前为“新出现”
 4. 最新官方催化：Binance Stocks Now Supports API Trading
 #Binance #NarrativeOS #OpenClaw
