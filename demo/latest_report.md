@@ -1,102 +1,99 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-21T20:08:36.684073+00:00
+- 生成时间：2026-07-21T21:30:26.371907+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 The Gamestop Bull，所在链为 Solana，叙事强度 84.24。
-- 当前平均叙事强度为 77.48，其中已确认叙事 0 个。
+- 当前最强叙事是 National Trust Fund System，所在链为 Solana，叙事强度 87.88。
+- 当前平均叙事强度为 82.99，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Ansem 🐂🀄️ Discusses UP Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Department of Wealth，伪叙事风险 52.99。
+- 记忆层显示 National Trust Fund System 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 GCR (Saylor Arc) Comments on Up Coin Meme，伪叙事风险 44.1。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade QAIT (QAIT) and Share $200K Worth of Rewards (2026-07-21)。
 
 ## 叙事雷达
 
-- The Gamestop Bull | Solana | 加速中 | 强度 84.24 | 质量 72.39
-  - 主题摘要：Multiple tokens named 「GMEBULL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.11 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GCR (Saylor Arc) Comments on Up Coin Meme | Solana | 降温中 | 强度 82.76 | 质量 74.69
+- National Trust Fund System | Solana | 降温中 | 强度 87.88 | 质量 76.77
+  - 主题摘要：Multiple tokens named 「NTFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.05 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Bryan Johnson's Cell Rejuvenation Claims | Solana | 降温中 | 强度 84.87 | 质量 76.45
+  - 主题摘要：According to Bryan Johnson's post, he claims to have cloned himself as a newborn in a petri dish to test therapies and grow organs. He describes a process using Yamanaka factors t…
+  - 资金 100.00 / 广度 85.34 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Jimothy Meme Coin | Solana | 降温中 | 强度 84.69 | 质量 75.34
+  - 主题摘要：According to j0hnsmith3's post, a viral Instagram image of a raccoon named Jimothy is being discussed as a potential new meme coin. The author claims the content is gaining signif…
+  - 资金 100.00 / 广度 84.28 / 确认 9.36 / 脆弱性 19.20
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Nihilist Jimothy Token | Solana | 降温中 | 强度 84.48 | 质量 75.02
+  - 主题摘要：According to IfYouKnow!YOUKNOW!'s post, the user shared content referencing 'Nihilist Jimothy,' which corresponds to tokens with similar names in the provided list. This suggests…
+  - 资金 100.00 / 广度 83.19 / 确认 9.36 / 脆弱性 19.20
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- GCR (Saylor Arc) Comments on Up Coin Meme | Solana | 降温中 | 强度 82.65 | 质量 75.19
   - 主题摘要：According to GCR (Saylor Arc)'s post, the author highlights a meme image featuring an 'Up Coin' with a rocket emoji, noting it as a standard visual for profitable coins. GCR quest…
-  - 资金 95.35 / 广度 81.65 / 确认 12.96 / 脆弱性 24.00
+  - 资金 93.35 / 广度 81.65 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Gen Z Wave | BSC | 已确认 | 强度 79.87 | 质量 77.70
-  - 主题摘要：Binance highlights that 44% of its Stocks users are Gen Z, signaling a massive shift in financial demographics towards younger investors. This data point suggests a new era of cry…
-  - 资金 95.65 / 广度 100.00 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Yi He Collects Catchphrase for BNB | BSC | 加速中 | 强度 79.32 | 质量 80.14
-  - 主题摘要：According to Yi He's post, she invites the community member who first coined the phrase 'Why run east and west when Binance has everything' to claim a BNB reward. This initiative…
-  - 资金 100.00 / 广度 94.96 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He BNB Bounty | BSC | 加速中 | 强度 79.04 | 质量 79.90
-  - 主题摘要：Yi He, Co-Founder of Binance, announced a campaign inviting community members to identify the originator of the phrase 'Why run east and west when Binance has everything.' The aut…
-  - 资金 100.00 / 广度 94.18 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Token Issuance by 自拉人生 | BSC | 加速中 | 强度 77.22 | 质量 67.78
+- Alleged Coin by Banks | Solana | 降温中 | 强度 80.19 | 质量 67.71
+  - 主题摘要：According to vswvs's post, a cryptocurrency token named PSSY (BBG HAS A DEPLOY) is allegedly deployed, with the post claiming the correct deployer wallet is visible on the pump pr…
+  - 资金 100.00 / 广度 82.43 / 确认 9.36 / 脆弱性 19.20
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Jimothy Jr Meme Coin | Solana | 降温中 | 强度 79.64 | 质量 66.82
+  - 主题摘要：According to sitka (Prophetic AI Slop)'s post, a Meme image depicting Jimothy as a baby in a backyard was shared. This content aligns with descriptions of tokens such as Jimothy J…
+  - 资金 100.00 / 广度 82.65 / 确认 9.36 / 脆弱性 19.20
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ansem Comments on Jimothy | Solana | 降温中 | 强度 79.54 | 质量 66.64
+  - 主题摘要：According to Ansem 🐂🀄️'s post, he replied to a tweet by Jimothy with the text "lmao". This interaction involves the cryptocurrency token Jimothy, which is listed in the provided t…
+  - 资金 100.00 / 广度 82.29 / 确认 9.36 / 脆弱性 19.20
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Token Issuance by 自拉人生 | BSC | 加速中 | 强度 79.07 | 质量 67.86
   - 主题摘要：According to 自拉人生's post, the entity claims to have launched a token named '自拉人生' featuring a 3% transaction tax mechanism. The description details an automated fund loop for mark…
-  - 资金 100.00 / 广度 71.95 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 71.99 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Up Token Launch | Solana | 降温中 | 强度 77.09 | 质量 64.66
-  - 主题摘要：Multiple tokens named 「Up」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.48 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem 🐂🀄️ Discusses UP Token | Solana | 降温中 | 强度 75.94 | 质量 62.70
-  - 主题摘要：According to Ansem 🐂🀄️'s post, the author expressed a positive sentiment regarding the UP token by posting the word "up." This brief statement indicates an optimistic outlook or e…
-  - 资金 100.00 / 广度 74.93 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Department of Wealth | Solana | 点火期 | 强度 75.73 | 质量 76.51
-  - 主题摘要：Multiple tokens named 「DOW」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.29 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Iced Discusses Meme Coin Loss | Solana | 加速中 | 强度 75.51 | 质量 70.53
-  - 主题摘要：According to Iced's post, the user shares a personal experience of locking 32k worth of a meme coin one year ago, which is now worth only 1k after unlocking. Iced states that if s…
-  - 资金 100.00 / 广度 86.15 / 确认 24.48 / 脆弱性 14.00
+- Binance Gen Z Wave | BSC | 已确认 | 强度 79.05 | 质量 76.50
+  - 主题摘要：Binance highlights that 44% of its Stocks users are Gen Z, signaling a massive shift in financial demographics towards younger investors. This data point suggests a new era of cry…
+  - 资金 95.83 / 广度 100.00 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Yi He Collects Catchphrase for BNB | BSC | 加速中 | 强度 78.05 | 质量 80.04
+  - 主题摘要：According to Yi He's post, she invites the community member who first coined the phrase 'Why run east and west when Binance has everything' to claim a BNB reward. This initiative…
+  - 资金 100.00 / 广度 94.98 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged generational crashout token | Solana | 加速中 | 强度 74.33 | 质量 64.04
-  - 主题摘要：According to Wugi's post, a viral video of a student's reaction to being misgendered is described as a 'generational crashout,' which has inspired the creation of tokens with the…
-  - 资金 100.00 / 广度 81.38 / 确认 23.76 / 脆弱性 14.00
+- Yi He BNB Bounty | BSC | 加速中 | 强度 77.78 | 质量 79.81
+  - 主题摘要：Yi He, Co-Founder of Binance, announced a campaign inviting community members to identify the originator of the phrase 'Why run east and west when Binance has everything.' The aut…
+  - 资金 100.00 / 广度 94.20 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mason hubert discusses Pump.fun PNL card | Solana | 降温中 | 强度 74.24 | 质量 60.20
-  - 主题摘要：Multiple tokens named 「upcoin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.82 / 确认 9.36 / 脆弱性 24.00
+- Cubus Store Coin | BSC | 降温中 | 强度 72.20 | 质量 55.76
+  - 主题摘要：Multiple tokens named 「CSC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 59.65 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DOG | BSC | 加速中 | 强度 73.57 | 质量 59.85
+- DOG | BSC | 加速中 | 强度 70.41 | 质量 55.14
   - 主题摘要：Multiple tokens named 「DOG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.18 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Giggle Academy Introduces AI Companion Mai | BSC | 加速中 | 强度 70.11 | 质量 70.44
-  - 主题摘要：According to Giggle Academy's post, the company introduced Mai, an AI companion designed for children. Mai is described as an interactive tool that changes forms to keep kids enga…
-  - 资金 100.00 / 广度 85.86 / 确认 34.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.15 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.48，其中已确认叙事 0 个。
-- Department of Wealth 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- GCR (Saylor Arc) Comments on Up Coin Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.99，其中已确认叙事 0 个。
+- National Trust Fund System 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Yi He Collects Catchphrase for BNB | 质量 80.14 | 可交易性 92.10 | 风险 低
-- Yi He BNB Bounty | 质量 79.90 | 可交易性 92.10 | 风险 低
-- Binance Gen Z Wave | 质量 77.70 | 可交易性 100.00 | 风险 低
-- Department of Wealth | 质量 76.51 | 可交易性 100.00 | 风险 低
-- GCR (Saylor Arc) Comments on Up Coin Meme | 质量 74.69 | 可交易性 100.00 | 风险 低
-- The Gamestop Bull | 质量 72.39 | 可交易性 69.24 | 风险 低
-- Iced Discusses Meme Coin Loss | 质量 70.53 | 可交易性 71.01 | 风险 低
-- Giggle Academy Introduces AI Companion Mai | 质量 70.44 | 可交易性 100.00 | 风险 低
-- Alleged Token Issuance by 自拉人生 | 质量 67.78 | 可交易性 76.55 | 风险 低
-- Alleged Up Token Launch | 质量 64.66 | 可交易性 100.00 | 风险 低
+- Yi He Collects Catchphrase for BNB | 质量 80.04 | 可交易性 91.77 | 风险 低
+- Yi He BNB Bounty | 质量 79.81 | 可交易性 91.77 | 风险 低
+- National Trust Fund System | 质量 76.77 | 可交易性 100.00 | 风险 低
+- Binance Gen Z Wave | 质量 76.50 | 可交易性 100.00 | 风险 低
+- Bryan Johnson's Cell Rejuvenation Claims | 质量 76.45 | 可交易性 100.00 | 风险 低
+- Alleged Jimothy Meme Coin | 质量 75.34 | 可交易性 100.00 | 风险 低
+- GCR (Saylor Arc) Comments on Up Coin Meme | 质量 75.19 | 可交易性 100.00 | 风险 低
+- Alleged Nihilist Jimothy Token | 质量 75.02 | 可交易性 100.00 | 风险 低
+- Alleged Token Issuance by 自拉人生 | 质量 67.86 | 可交易性 76.77 | 风险 低
+- Alleged Coin by Banks | 质量 67.71 | 可交易性 76.42 | 风险 低
 
 ## 伪叙事风险
 
-- Department of Wealth | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- GCR (Saylor Arc) Comments on Up Coin Meme | 风险 42.30 | 原因：流动性偏薄、近 1 小时净流入转负
-- Mason hubert discusses Pump.fun PNL card | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- GCR (Saylor Arc) Comments on Up Coin Meme | 风险 44.10 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -106,7 +103,7 @@
 - REBECA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 屎币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Pasteur | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Mai | BSC | 看多 | 新鲜度 100.00 | Giggle Academy Introduces AI Companion Mai
+- Mai | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 猴子币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Jimothy | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ETF | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -135,8 +132,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：The Gamestop Bull（Solana，分数 84.24）
+1. 当前最强叙事：National Trust Fund System（Solana，分数 87.88）
 2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Ansem 🐂🀄️ Discusses UP Token 当前为“新出现”
+3. 记忆层变化：National Trust Fund System 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade QAIT (QAIT) and Share $200K Worth of Rewards (2026-07-21)
 #Binance #NarrativeOS #OpenClaw
