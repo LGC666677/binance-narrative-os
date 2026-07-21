@@ -1,101 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-21T04:09:01.125741+00:00
+- 生成时间：2026-07-21T06:38:16.677641+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance Gen Z Wave，所在链为 BSC，叙事强度 90.75。
-- 当前平均叙事强度为 76.23，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Future Colosseum 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Legs Go All The Way Up Griffin，伪叙事风险 47.79。
+- 当前最强叙事是 Binance Gen Z Wave，所在链为 BSC，叙事强度 87.29。
+- 当前平均叙事强度为 76.85，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
+- 记忆层显示 Avatar Troll 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Binance VIP Program Criteria Update: Lower VIP 3 Holding Threshold and Integrate OTC Trading Volume into Spot Volume。
 
 ## 叙事雷达
 
-- Binance Gen Z Wave | BSC | 已确认 | 强度 90.75 | 质量 84.97
+- Binance Gen Z Wave | BSC | 已确认 | 强度 87.29 | 质量 84.97
   - 主题摘要：Binance highlights that 44% of its Stocks users are Gen Z, signaling a massive shift in financial demographics towards younger investors. This data point suggests a new era of cry…
   - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Future Colosseum | Solana | 降温中 | 强度 82.39 | 质量 73.75
-  - 主题摘要：Multiple tokens named 「CAGE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.68 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- se Clarifies FOMO Token Is Not Farming | Solana | 加速中 | 强度 81.46 | 质量 68.62
-  - 主题摘要：According to se's post, se clarified that the FOMO token is not a farming scheme. se stated that they do not wish to be involved in farming activities and redirected fees directly…
-  - 资金 100.00 / 广度 85.14 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged SICKFUCKS Token Launch | Solana | 加速中 | 强度 81.07 | 质量 67.95
-  - 主题摘要：According to Ansem 🐂🀄️'s post, the user questions the identity of the creator behind the SICKFUCKS token, referencing a viral meme. The token is described as a degen callout meme.…
-  - 资金 100.00 / 广度 84.49 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- KICK Chat Badges | Solana | 加速中 | 强度 81.07 | 质量 67.95
-  - 主题摘要：According to KICK's post, the platform has introduced new badges within its chat interface, prompting users to identify them.
-  - 资金 100.00 / 广度 84.49 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- TJR Comments on Watch Mogged | Solana | 加速中 | 强度 81.06 | 质量 67.95
-  - 主题摘要：According to TJR's post, the user commented 'That’s cute' in reply to a quoted tweet claiming 'Gm = Get mogged' and asserting that a specific watch costs more than everything in t…
-  - 资金 100.00 / 广度 84.47 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Whale World Cup Bet | Solana | 加速中 | 强度 81.06 | 质量 67.95
-  - 主题摘要：According to Lookonchain's post, a mysterious whale created a new wallet 10 hours ago and allegedly bet $1.95M on Spain to win the 2026 World Cup at 59.1% odds. The whale reported…
-  - 资金 100.00 / 广度 84.47 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Jimothy The Robin | Solana | 点火期 | 强度 78.48 | 质量 73.03
+- Jimothy The Robin | Solana | 降温中 | 强度 81.80 | 质量 74.32
   - 主题摘要：Jimhood is a meme token inspired by the Robin Hood character, featuring a raccoon dressed as Robin Hood with a bow and arrow. The token's logo depicts a raccoon in Robin Hood atti…
-  - 资金 100.00 / 广度 80.27 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Legs Go All The Way Up Griffin | Solana | 点火期 | 强度 77.19 | 质量 71.79
-  - 主题摘要：Legothy (Legs Go All The Way Up Griffin) draws inspiration from the iconic Griffin character from Family Guy, featuring a blonde woman in a pink dress. The token's logo showcases…
-  - 资金 100.00 / 广度 72.45 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 首个逆袭人生与人生逆袭组成LP托底池金库 | BSC | 加速中 | 强度 76.11 | 质量 72.89
+  - 资金 100.00 / 广度 84.56 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- se Clarifies FOMO Token Is Not Farming | Solana | 加速中 | 强度 81.52 | 质量 68.67
+  - 主题摘要：According to se's post, se clarified that the FOMO token is not a farming scheme. se stated that they do not wish to be involved in farming activities and redirected fees directly…
+  - 资金 100.00 / 广度 85.32 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged SICKFUCKS Token Launch | Solana | 加速中 | 强度 81.13 | 质量 68.00
+  - 主题摘要：According to Ansem 🐂🀄️'s post, the user questions the identity of the creator behind the SICKFUCKS token, referencing a viral meme. The token is described as a degen callout meme.…
+  - 资金 100.00 / 广度 84.67 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- KICK Chat Badges | Solana | 加速中 | 强度 81.13 | 质量 68.00
+  - 主题摘要：According to KICK's post, the platform has introduced new badges within its chat interface, prompting users to identify them.
+  - 资金 100.00 / 广度 84.68 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- TJR Comments on Watch Mogged | Solana | 加速中 | 强度 81.12 | 质量 67.99
+  - 主题摘要：According to TJR's post, the user commented 'That’s cute' in reply to a quoted tweet claiming 'Gm = Get mogged' and asserting that a specific watch costs more than everything in t…
+  - 资金 100.00 / 广度 84.65 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Whale World Cup Bet | Solana | 加速中 | 强度 81.12 | 质量 67.99
+  - 主题摘要：According to Lookonchain's post, a mysterious whale created a new wallet 10 hours ago and allegedly bet $1.95M on Spain to win the 2026 World Cup at 59.1% odds. The whale reported…
+  - 资金 100.00 / 广度 84.65 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Avatar Troll | Solana | 降温中 | 强度 79.95 | 质量 70.32
+  - 主题摘要：According to Avatroll 🤪💨💦☄️🔥's post, the author shared a link to an article hosted on X. The content references the Avatar Troll token, but the specific details of the article are…
+  - 资金 100.00 / 广度 67.53 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Launch of SAA Token | BSC | 加速中 | 强度 79.00 | 质量 66.80
+  - 主题摘要：According to Mack's post, the 'STOP ANIMAL ABUSE' hand gesture, which recently went viral on Douyin, is being proposed for launch on the blockchain. Mack suggests using a Meme ima…
+  - 资金 100.00 / 广度 72.84 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk's Robot Fights | Solana | 加速中 | 强度 78.48 | 质量 67.93
+  - 主题摘要：Elon Musk shares a video of robot fights, highlighting the entertainment potential of humanoid robotics. This sparks discussions on the future of AI and physical automation, blend…
+  - 资金 100.00 / 广度 84.40 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 首个逆袭人生与人生逆袭组成LP托底池金库 | BSC | 加速中 | 强度 78.26 | 质量 73.20
   - 主题摘要：Multiple tokens named 「人生逆袭」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.62 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.89 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pasteur | BSC | 加速中 | 强度 73.74 | 质量 69.46
-  - 主题摘要：According to 🔝芒种金狗👑's post, the author identified the creator address of a BSC hard fork and announced the release of a Pasteur Meme image. This information is unverified. Please…
-  - 资金 100.00 / 广度 79.56 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- DOG | BSC | 加速中 | 强度 72.75 | 质量 59.53
-  - 主题摘要：Multiple tokens named 「DOG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.70 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Giggle Academy Introduces AI Companion Mai | BSC | 加速中 | 强度 72.09 | 质量 72.52
+- Giggle Academy Introduces AI Companion Mai | BSC | 加速中 | 强度 72.98 | 质量 72.30
   - 主题摘要：According to Giggle Academy's post, the company introduced Mai, an AI companion designed for children. Mai is described as an interactive tool that changes forms to keep kids enga…
-  - 资金 100.00 / 广度 89.46 / 确认 34.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.80 / 确认 34.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk as SpaceX CEO | BSC | 加速中 | 强度 71.96 | 质量 70.20
-  - 主题摘要：Binance CEO Yi He humorously imagines a scenario where she tells Elon Musk about the weather and becomes the CEO of SpaceX for a day, highlighting the absurdity of such a crossove…
-  - 资金 100.00 / 广度 90.62 / 确认 27.36 / 脆弱性 24.00
+- DOG | BSC | 加速中 | 强度 72.29 | 质量 59.18
+  - 主题摘要：Multiple tokens named 「DOG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.46 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Pasteur | BSC | 加速中 | 强度 71.27 | 质量 68.58
+  - 主题摘要：According to 🔝芒种金狗👑's post, the author identified the creator address of a BSC hard fork and announced the release of a Pasteur Meme image. This information is unverified. Please…
+  - 资金 99.67 / 广度 79.69 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.23，其中已确认叙事 1 个。
-- Alleged SICKFUCKS Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Future Colosseum 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.85，其中已确认叙事 1 个。
+- Alleged Launch of SAA Token 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Jimothy The Robin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Binance Gen Z Wave | 质量 84.97 | 可交易性 100.00 | 风险 低
-- Future Colosseum | 质量 73.75 | 可交易性 100.00 | 风险 低
-- Jimothy The Robin | 质量 73.03 | 可交易性 100.00 | 风险 低
-- 首个逆袭人生与人生逆袭组成LP托底池金库 | 质量 72.89 | 可交易性 80.40 | 风险 低
-- Giggle Academy Introduces AI Companion Mai | 质量 72.52 | 可交易性 100.00 | 风险 低
-- Legs Go All The Way Up Griffin | 质量 71.79 | 可交易性 100.00 | 风险 低
-- Elon Musk as SpaceX CEO | 质量 70.20 | 可交易性 99.52 | 风险 低
-- Pasteur | 质量 69.46 | 可交易性 74.03 | 风险 低
-- se Clarifies FOMO Token Is Not Farming | 质量 68.62 | 可交易性 66.17 | 风险 低
-- Alleged SICKFUCKS Token Launch | 质量 67.95 | 可交易性 64.60 | 风险 低
+- Jimothy The Robin | 质量 74.32 | 可交易性 100.00 | 风险 低
+- 首个逆袭人生与人生逆袭组成LP托底池金库 | 质量 73.20 | 可交易性 81.17 | 风险 低
+- Giggle Academy Introduces AI Companion Mai | 质量 72.30 | 可交易性 100.00 | 风险 低
+- Avatar Troll | 质量 70.32 | 可交易性 100.00 | 风险 低
+- se Clarifies FOMO Token Is Not Farming | 质量 68.67 | 可交易性 66.14 | 风险 低
+- Pasteur | 质量 68.58 | 可交易性 70.96 | 风险 低
+- Alleged SICKFUCKS Token Launch | 质量 68.00 | 可交易性 64.57 | 风险 低
+- KICK Chat Badges | 质量 68.00 | 可交易性 64.57 | 风险 低
+- TJR Comments on Watch Mogged | 质量 67.99 | 可交易性 64.57 | 风险 低
 
 ## 伪叙事风险
 
-- Legs Go All The Way Up Griffin | 风险 47.79 | 原因：流动性偏薄
-- Jimothy The Robin | 风险 44.54 | 原因：确认层仍然偏薄
 
 ## 信号台
 
@@ -106,9 +103,9 @@
 - Pasteur | BSC | 看多 | 新鲜度 100.00 | Pasteur
 - Mai | BSC | 看多 | 新鲜度 100.00 | Giggle Academy Introduces AI Companion Mai
 - 猴子币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 关你屁事 | BSC | 看多 | 新鲜度 100.00 | Elon Musk as SpaceX CEO
 - Mai | BSC | 看多 | 新鲜度 100.00 | Giggle Academy Introduces AI Companion Mai
 - BuiltByYou | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Rigby | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance Gen Z Wave（BSC，分数 90.75）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Future Colosseum 当前为“新出现”
+1. 当前最强叙事：Binance Gen Z Wave（BSC，分数 87.29）
+2. 共振最强代币：TROLL（Solana，共振 100.0）
+3. 记忆层变化：Avatar Troll 当前为“新出现”
 4. 最新官方催化：Binance VIP Program Criteria Update: Lower VIP 3 Holding Threshold and Integrate OTC Trading Volume into Spot Volume
 #Binance #NarrativeOS #OpenClaw
