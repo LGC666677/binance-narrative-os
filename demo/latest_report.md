@@ -1,94 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-22T22:46:37.517789+00:00
+- 生成时间：2026-07-22T23:48:22.390483+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Yi He Collects Catchphrase for BNB，所在链为 BSC，叙事强度 89.71。
-- 当前平均叙事强度为 72.58，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 TBB，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Sillguy Meme Image 当前处于“新出现”状态。
+- 当前最强叙事是 Alleged Meme Party Campaign，所在链为 Solana，叙事强度 89.31。
+- 当前平均叙事强度为 80.3，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged Meme Party Campaign 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Zest Protocol (ZEST) and Share $200K Worth of Rewards (2026-07-22)。
 
 ## 叙事雷达
 
-- Yi He Collects Catchphrase for BNB | BSC | 已确认 | 强度 89.71 | 质量 84.25
+- Alleged Meme Party Campaign | Solana | 加速中 | 强度 89.31 | 质量 81.05
+  - 主题摘要：According to etheecooks's post, an ex-politician and MAGA creator launched the Rubber Duck Party, a Meme-themed political entity planning to run in elections. The campaign seeks f…
+  - 资金 100.00 / 广度 92.22 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He Collects Catchphrase for BNB | BSC | 已确认 | 强度 87.84 | 质量 84.24
   - 主题摘要：According to Yi He's post, she invites community members who first coined the phrase 'Why run around when Binance has everything' to claim a BNB reward. This initiative accompanie…
-  - 资金 100.00 / 广度 94.95 / 确认 35.28 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.94 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Eve | Solana | 已确认 | 强度 84.00 | 质量 74.39
-  - 主题摘要：Multiple tokens named 「EVE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 63.23 / 确认 33.72 / 脆弱性 0.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Meme Coin POLEBEAR | Solana | 降温中 | 强度 82.69 | 质量 74.46
+- Alleged Meme Coin POLEBEAR | Solana | 降温中 | 强度 84.09 | 质量 74.59
   - 主题摘要：According to 👮‍♂️🚒 Tales of Badge & Blaze™'s post, the author shared a humorous Meme image depicting a caller reporting a bear on a light pole to a 911 operator. This content is a…
-  - 资金 100.00 / 广度 94.10 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.44 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Global Digital Water Reserve | Solana | 降温中 | 强度 82.62 | 质量 70.70
-  - 主题摘要：Multiple tokens named 「GDWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.81 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Sillguy Meme Image | Solana | 降温中 | 强度 78.48 | 质量 67.91
-  - 主题摘要：According to Pump.fun Ecosystem's post, the account commented on blknoiz06's content, suggesting that mainstream investors will eventually realize the profit potential associated…
-  - 资金 100.00 / 广度 83.13 / 确认 16.56 / 脆弱性 23.61
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SOUNDSBIG | Solana | 加速中 | 强度 77.65 | 质量 75.27
+- Eve | Solana | 已确认 | 强度 82.26 | 质量 74.56
+  - 主题摘要：Multiple tokens named 「EVE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.35 / 确认 33.00 / 脆弱性 10.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- SOUNDSBIG | Solana | 加速中 | 强度 79.22 | 质量 75.28
   - 主题摘要：Multiple tokens named 「SOUNDSBIG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.94 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.99 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Bear On Pole Meme Coin | Solana | 降温中 | 强度 75.31 | 质量 62.17
+- Alleged Bear On Pole Meme Coin | Solana | 降温中 | 强度 77.00 | 质量 62.79
   - 主题摘要：According to PROTECT ALL WILDLIFE's post, a bear died after being electrocuted on a telegraph pole in New Mexico. This incident is associated with the alleged launch of the 'Bear…
-  - 资金 100.00 / 广度 84.85 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.78 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged BOP Token Launch | Solana | 降温中 | 强度 75.28 | 质量 61.98
-  - 主题摘要：Multiple tokens named 「BOP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.19 / 确认 9.36 / 脆弱性 14.00
+- Alleged BOP Token Launch | Solana | 降温中 | 强度 76.93 | 质量 62.80
+  - 主题摘要：According to BullOver's post, the user claims to have created a unique Meme image titled "The Black Bull On Pole" on the pump.fun platform. The post references the BOP token and s…
+  - 资金 100.00 / 广度 85.79 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged BOP Meme Coin | Solana | 降温中 | 强度 75.17 | 质量 61.97
+- Alleged BOP Meme Coin | Solana | 降温中 | 强度 76.85 | 质量 62.59
   - 主题摘要：According to Technomozart's post, the author shared a Meme image related to the token Bear On Pole (BOP), claiming it has significant potential. Technomozart criticized other proj…
-  - 资金 100.00 / 广度 84.18 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.10 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Gen Z Wave | BSC | 加速中 | 强度 70.01 | 质量 70.00
+- Mr. Pibbles: Bird on Pole Aura | Solana | 降温中 | 强度 76.73 | 质量 62.29
+  - 主题摘要：Multiple tokens named 「BOP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.28 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Gen Z Wave | BSC | 加速中 | 强度 71.17 | 质量 68.72
   - 主题摘要：Binance highlights that 44% of its Stocks users are Gen Z, signaling a massive shift in financial demographics towards younger investors. This data point suggests a new era of cry…
-  - 资金 96.29 / 广度 91.41 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 91.26 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- DOG | BSC | 加速中 | 强度 69.88 | 质量 56.39
+- DOG | BSC | 加速中 | 强度 70.28 | 质量 55.10
   - 主题摘要：Multiple tokens named 「DOG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.63 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 69.56 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He BNB Bounty | BSC | 加速中 | 强度 68.97 | 质量 66.25
+- Yi He BNB Bounty | BSC | 加速中 | 强度 69.27 | 质量 66.78
   - 主题摘要：Yi He, Co-Founder of Binance, announced a campaign inviting community members to identify the originator of the phrase 'Why run east and west when Binance has everything.' The aut…
-  - 资金 100.00 / 广度 88.63 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.37 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ's AI Productivity | BSC | 降温中 | 强度 68.74 | 质量 51.93
-  - 主题摘要：Binance CEO CZ humorously endorses AI as a tool for 'productive work,' sparking discussions on the intersection of crypto leadership and artificial intelligence trends. This align…
-  - 资金 100.00 / 广度 62.83 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cubus Store Coin | BSC | 降温中 | 强度 68.19 | 质量 50.13
+- Cubus Store Coin | BSC | 降温中 | 强度 68.41 | 质量 50.46
   - 主题摘要：Multiple tokens named 「CSC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 59.88 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 59.91 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ's AI Productivity | BSC | 降温中 | 强度 67.89 | 质量 55.20
+  - 主题摘要：Binance CEO CZ humorously endorses AI as a tool for 'productive work,' sparking discussions on the intersection of crypto leadership and artificial intelligence trends. This align…
+  - 资金 100.00 / 广度 67.45 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 72.58，其中已确认叙事 1 个。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.3，其中已确认叙事 1 个。
+- Alleged Meme Party Campaign 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Alleged Meme Coin POLEBEAR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Yi He Collects Catchphrase for BNB | 质量 84.25 | 可交易性 100.00 | 风险 低
-- SOUNDSBIG | 质量 75.27 | 可交易性 100.00 | 风险 低
-- Alleged Meme Coin POLEBEAR | 质量 74.46 | 可交易性 87.23 | 风险 低
-- Eve | 质量 74.39 | 可交易性 100.00 | 风险 低
-- Global Digital Water Reserve | 质量 70.70 | 可交易性 100.00 | 风险 低
-- Binance Gen Z Wave | 质量 70.00 | 可交易性 100.00 | 风险 低
-- Alleged Sillguy Meme Image | 质量 67.91 | 可交易性 71.08 | 风险 低
-- Yi He BNB Bounty | 质量 66.25 | 可交易性 89.11 | 风险 低
-- Alleged Bear On Pole Meme Coin | 质量 62.17 | 可交易性 55.53 | 风险 低
-- Alleged BOP Token Launch | 质量 61.98 | 可交易性 55.53 | 风险 低
+- Yi He Collects Catchphrase for BNB | 质量 84.24 | 可交易性 100.00 | 风险 低
+- Alleged Meme Party Campaign | 质量 81.05 | 可交易性 100.00 | 风险 低
+- SOUNDSBIG | 质量 75.28 | 可交易性 100.00 | 风险 低
+- Alleged Meme Coin POLEBEAR | 质量 74.59 | 可交易性 87.34 | 风险 低
+- Eve | 质量 74.56 | 可交易性 100.00 | 风险 低
+- Binance Gen Z Wave | 质量 68.72 | 可交易性 100.00 | 风险 低
+- Yi He BNB Bounty | 质量 66.78 | 可交易性 88.74 | 风险 低
+- Alleged BOP Token Launch | 质量 62.80 | 可交易性 56.68 | 风险 低
+- Alleged Bear On Pole Meme Coin | 质量 62.79 | 可交易性 56.67 | 风险 低
+- Alleged BOP Meme Coin | 质量 62.59 | 可交易性 56.67 | 风险 低
 
 ## 伪叙事风险
 
@@ -130,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Yi He Collects Catchphrase for BNB（BSC，分数 89.71）
-2. 共振最强代币：TBB（Solana，共振 100.0）
-3. 记忆层变化：Alleged Sillguy Meme Image 当前为“新出现”
+1. 当前最强叙事：Alleged Meme Party Campaign（Solana，分数 89.31）
+2. 共振最强代币：XRP（BSC，共振 100.0）
+3. 记忆层变化：Alleged Meme Party Campaign 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Zest Protocol (ZEST) and Share $200K Worth of Rewards (2026-07-22)
 #Binance #NarrativeOS #OpenClaw
