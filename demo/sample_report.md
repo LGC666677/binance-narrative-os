@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-23T11:30:36.384868+00:00
+- 生成时间：2026-07-23T13:10:48.938722+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
-- 高风险伪叙事：0
+- 已确认叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 USOH，所在链为 Solana，叙事强度 89.44。
-- 当前平均叙事强度为 81.24，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 HYPE，来自 Solana，共振分数 100.0。
-- 记忆层显示 Grok 4.5 Solves Graph Theory 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 BNB Chain's AI is Actually Richard Teng，伪叙事风险 47.83。
+- 当前最强叙事是 Ninja Jimothy，所在链为 Solana，叙事强度 87.22。
+- 当前平均叙事强度为 77.31，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
+- 记忆层显示 United States Water Reserve 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Minions Post: Long Lost Brothers，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-07-23)。
 
 ## 叙事雷达
 
-- USOH | Solana | 降温中 | 强度 89.44 | 质量 81.64
-  - 主题摘要：According to FWOG DEV's post, the author criticizes the prevalence of fake coins recently, noting they frequently appear and reach high valuations. FWOG DEV states it is time to l…
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ninja Jimothy | Solana | 降温中 | 强度 86.93 | 质量 75.24
+- Ninja Jimothy | Solana | 降温中 | 强度 87.22 | 质量 75.70
   - 主题摘要：NINJIMOTHY is a meme token inspired by the ninja raccoon character from the popular 'Ninja Gaiden' video game series. The logo features a cartoon raccoon dressed in ninja attire,…
-  - 资金 100.00 / 广度 83.94 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 85.48 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Collects Catchphrase for BNB | BSC | 已确认 | 强度 84.72 | 质量 84.05
-  - 主题摘要：According to Yi He's post, she invites the community member who first coined the phrase 'Why run east and west when Binance has everything' to claim a BNB reward. This initiative…
-  - 资金 100.00 / 广度 94.31 / 确认 35.28 / 脆弱性 14.00
+- United States Water Reserve | Solana | 降温中 | 强度 84.93 | 质量 72.84
+  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.94 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- USOH | Solana | 点火期 | 强度 80.04 | 质量 80.85
+  - 主题摘要：According to Kiro's post, the author claims that a new token named USOH is going viral on TikTok and is the top coin on pump.fun. Kiro suggests this is a PSYOP narrative and propo…
+  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Yi He Collects Catchphrase for BNB | BSC | 已确认 | 强度 79.08 | 质量 77.41
+  - 主题摘要：According to Yi He's post, she invites community members who first coined the phrase 'Why run around when Binance has everything' to claim a BNB reward. This initiative accompanie…
+  - 资金 100.00 / 广度 93.86 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Grok 4.5 Solves Graph Theory | Solana | 降温中 | 强度 81.51 | 质量 75.38
-  - 主题摘要：Elon Musk's Grok AI claims to have solved a 30-year-old graph theory conjecture, highlighting the rapid advancement of AI capabilities in mathematics. This event sparks discussion…
-  - 资金 100.00 / 广度 94.77 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Global Oil Asset Plan | Solana | 降温中 | 强度 80.46 | 质量 67.97
-  - 主题摘要：Multiple tokens named 「GOAP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 59.71 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Eve | Solana | 已确认 | 强度 80.31 | 质量 75.60
-  - 主题摘要：Multiple tokens named 「EVE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.26 / 确认 33.72 / 脆弱性 10.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Minions Post: Long Lost Brothers | Solana | 降温中 | 强度 78.68 | 质量 67.88
-  - 主题摘要：According to Minions's post, the user shared the phrase "long lost brothers?" alongside a reference to the Minions movie. The post appears to be a casual cultural reference withou…
-  - 资金 100.00 / 广度 82.17 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $Babybara Meme | Solana | 加速中 | 强度 78.45 | 质量 76.48
-  - 主题摘要：According to blkasdfghdev's post, the $Babybara token is associated with a viral TikTok video of a young capybara. The author claims the video has garnered over 2 million views an…
-  - 资金 100.00 / 广度 80.16 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mark Zuckerberg AI Optimism Campaign | Solana | 加速中 | 强度 74.15 | 质量 59.98
-  - 主题摘要：According to Mario Presidente's post, Mark Zuckerberg launched a new AI campaign centered on optimism, aiming to strengthen human connection rather than replace it. The post notes…
-  - 资金 100.00 / 广度 74.56 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Gen Z Wave | BSC | 加速中 | 强度 72.22 | 质量 72.62
+- Binance Gen Z Wave | BSC | 加速中 | 强度 77.75 | 质量 76.18
   - 主题摘要：Binance highlights that 44% of its Stocks users are Gen Z, signaling a massive shift in financial demographics towards younger investors. This data point suggests a new era of cry…
-  - 资金 96.65 / 广度 90.18 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.05 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cubus Store Coin | BSC | 降温中 | 强度 70.13 | 质量 53.18
+- Alleged $Babybara Meme | Solana | 加速中 | 强度 76.73 | 质量 76.41
+  - 主题摘要：According to blkasdfghdev's post, the $Babybara token is associated with a viral TikTok video of a young capybara. The author claims the video has garnered over 2 million views an…
+  - 资金 100.00 / 广度 79.93 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Rhiya Token | Solana | 降温中 | 强度 73.29 | 质量 64.67
+  - 主题摘要：According to NIKITA's post, a viral image of Rhiya Ekousiya, known as 'The Fearless Woman' for blocking a police van during protests, is being referenced. Concurrently, multiple t…
+  - 资金 100.00 / 广度 76.20 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Cubus Store Coin | BSC | 降温中 | 强度 72.64 | 质量 56.64
   - 主题摘要：Multiple tokens named 「CSC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 59.23 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 59.16 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He BNB Bounty | BSC | 加速中 | 强度 67.98 | 质量 63.57
-  - 主题摘要：Yi He, Co-Founder of Binance, announced a campaign inviting community members to identify the originator of the phrase 'Why run east and west when Binance has everything.' The aut…
-  - 资金 100.00 / 广度 85.11 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Giggle AI Character Chinese Name | BSC | 加速中 | 强度 67.76 | 质量 60.56
-  - 主题摘要：According to MGGA's post, the official WeChat group of Giggle reveals that its AI character, Mai, has an official Chinese name, Wheat. This information is unverified. Please exerc…
-  - 资金 100.00 / 广度 70.62 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Chain's AI is Actually Richard Teng | BSC | 降温中 | 强度 67.52 | 质量 52.57
-  - 主题摘要：BNB Chain official account humorously reveals that the 'AI' on their website is actually CEO Richard Teng manually answering questions, playing on the trope of underwhelming AI cu…
-  - 资金 100.00 / 广度 73.98 / 确认 12.96 / 脆弱性 42.68
+- Minions Post: Long Lost Brothers | Solana | 点火期 | 强度 72.52 | 质量 62.92
+  - 主题摘要：According to Minions's post, the user shared the phrase "long lost brothers?" alongside a reference to the Minions movie. The post appears to be a casual cultural reference withou…
+  - 资金 100.00 / 广度 84.56 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Global Oil Asset Plan | Solana | 降温中 | 强度 72.50 | 质量 57.09
+  - 主题摘要：Multiple tokens named 「GOAP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 54.09 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Lih Meme Coin | Solana | 降温中 | 强度 71.25 | 质量 56.68
+  - 主题摘要：According to peaceful's post, a viral 'Lih' meme image featuring a lizard named Venus has gained significant attention on Instagram. The post discusses the potential for a related…
+  - 资金 100.00 / 广度 75.51 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 蝴蝶mint发射台 | BSC | 加速中 | 强度 69.52 | 质量 56.24
+  - 主题摘要：Multiple tokens named 「Baby flap」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.42 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Neso Shares Jimothy Raccoon Meme | BSC | 加速中 | 强度 68.76 | 质量 62.32
+  - 主题摘要：According to Neso's post, the raccoon character Jimothy is referred to as the "Knife-Shield Raccoon" in Chinese online communities. This nickname stems from its physical appearanc…
+  - 资金 100.00 / 广度 70.00 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Meta Quant Economy | BSC | 加速中 | 强度 68.58 | 质量 55.39
+  - 主题摘要：Multiple tokens named 「MQE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.79 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.24，其中已确认叙事 1 个。
-- Mark Zuckerberg AI Optimism Campaign 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- USOH 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.31，其中已确认叙事 0 个。
+- 蝴蝶mint发射台 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Ninja Jimothy 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Yi He Collects Catchphrase for BNB | 质量 84.05 | 可交易性 100.00 | 风险 低
-- USOH | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Alleged $Babybara Meme | 质量 76.48 | 可交易性 100.00 | 风险 低
-- Eve | 质量 75.60 | 可交易性 100.00 | 风险 低
-- Grok 4.5 Solves Graph Theory | 质量 75.38 | 可交易性 100.00 | 风险 低
-- Ninja Jimothy | 质量 75.24 | 可交易性 100.00 | 风险 低
-- Binance Gen Z Wave | 质量 72.62 | 可交易性 100.00 | 风险 低
-- Global Oil Asset Plan | 质量 67.97 | 可交易性 100.00 | 风险 低
-- Minions Post: Long Lost Brothers | 质量 67.88 | 可交易性 77.22 | 风险 低
-- Yi He BNB Bounty | 质量 63.57 | 可交易性 87.28 | 风险 低
+- USOH | 质量 80.85 | 可交易性 100.00 | 风险 低
+- Yi He Collects Catchphrase for BNB | 质量 77.41 | 可交易性 100.00 | 风险 低
+- Alleged $Babybara Meme | 质量 76.41 | 可交易性 100.00 | 风险 低
+- Binance Gen Z Wave | 质量 76.18 | 可交易性 100.00 | 风险 低
+- Ninja Jimothy | 质量 75.70 | 可交易性 100.00 | 风险 低
+- United States Water Reserve | 质量 72.84 | 可交易性 100.00 | 风险 低
+- Alleged Rhiya Token | 质量 64.67 | 可交易性 72.51 | 风险 低
+- Minions Post: Long Lost Brothers | 质量 62.92 | 可交易性 58.30 | 风险 低
+- Neso Shares Jimothy Raccoon Meme | 质量 62.32 | 可交易性 76.77 | 风险 低
+- Global Oil Asset Plan | 质量 57.09 | 可交易性 69.33 | 风险 低
 
 ## 伪叙事风险
 
-- BNB Chain's AI is Actually Richard Teng | 风险 47.83 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Minions Post: Long Lost Brothers | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- USOH | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -106,7 +107,7 @@
 - 屎币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Pasteur | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Mai | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- EVE | Solana | 看多 | 新鲜度 100.00 | Eve
+- EVE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - COMPUTE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：USOH（Solana，分数 89.44）
-2. 共振最强代币：HYPE（Solana，共振 100.0）
-3. 记忆层变化：Grok 4.5 Solves Graph Theory 当前为“新出现”
+1. 当前最强叙事：Ninja Jimothy（Solana，分数 87.22）
+2. 共振最强代币：ANSEM（Solana，共振 100.0）
+3. 记忆层变化：United States Water Reserve 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-07-23)
 #Binance #NarrativeOS #OpenClaw
