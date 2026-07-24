@@ -1,101 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-24T22:31:36.226050+00:00
+- 生成时间：2026-07-24T23:38:42.272034+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance Gen Z Wave，所在链为 BSC，叙事强度 89.66。
-- 当前平均叙事强度为 74.58，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 USWR 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 United States Oil Exchange，伪叙事风险 47.25。
+- 当前最强叙事是 Binance Gen Z Wave，所在链为 BSC，叙事强度 88.02。
+- 当前平均叙事强度为 74.77，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 CUPSEY，来自 Solana，共振分数 100.0。
+- 记忆层显示 Fugo Shares Viral Lightning Meme 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 United States Oil Exchange，伪叙事风险 47.14。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-07-24)。
 
 ## 叙事雷达
 
-- Binance Gen Z Wave | BSC | 已确认 | 强度 89.66 | 质量 84.97
+- Binance Gen Z Wave | BSC | 已确认 | 强度 88.02 | 质量 84.97
   - 主题摘要：Binance highlights that 44% of its Stocks users are Gen Z, signaling a massive shift in financial demographics towards younger investors. This data point suggests a new era of cry…
-  - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
 - USWR | Solana | 降温中 | 强度 86.96 | 质量 77.99
   - 主题摘要：USWR token represents tokenized exposure to clean water infrastructure, focusing on AI-driven water management solutions. The logo features the United States Water Reserve emblem,…
   - 资金 100.00 / 广度 93.11 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Oil Exchange | Solana | 降温中 | 强度 84.73 | 质量 78.66
-  - 主题摘要：Multiple tokens named 「USOX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.35 / 确认 9.36 / 脆弱性 36.03
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Shiloh Meme Coin | Solana | 加速中 | 强度 83.62 | 质量 81.17
+- Alleged Shiloh Meme Coin | Solana | 加速中 | 强度 85.40 | 质量 81.17
   - 主题摘要：According to JNC's post, the user questions the involvement of the platform Givesendgo in relation to Shiloh Hendrix, suggesting fee payments. This content is associated with toke…
-  - 资金 100.00 / 广度 92.61 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 92.63 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OpenAI Developers Pet Sharing | Solana | 加速中 | 强度 78.77 | 质量 79.83
-  - 主题摘要：According to OpenAI Developers's post, the ChatGPT web platform now supports a feature allowing users to create custom pets and generate shareable links for others to adopt. This…
-  - 资金 100.00 / 广度 88.67 / 确认 23.76 / 脆弱性 24.00
+- United States Oil Exchange | Solana | 降温中 | 强度 84.75 | 质量 78.66
+  - 主题摘要：Multiple tokens named 「USOX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 95.33 / 确认 9.36 / 脆弱性 35.83
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Fugo Shares Viral Lightning Meme | Solana | 加速中 | 强度 81.96 | 质量 79.18
+  - 主题摘要：According to Fugo's post, a viral video clip of a lightning strike, which garnered over 2 million views in one day, is described as the literal embodiment of a holy fuck. The post…
+  - 资金 100.00 / 广度 89.15 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged tutu Token | BSC | 点火期 | 强度 78.61 | 质量 73.11
+- Alleged Soyjak Meme Coin | Solana | 降温中 | 强度 78.77 | 质量 68.01
+  - 主题摘要：According to ross's post, a Reddit post featuring the 'Soyjak' image is going viral, claiming it is the original Soyjak and potentially bigger than Wojak. This content is associat…
+  - 资金 100.00 / 广度 59.84 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged tutu Token | BSC | 点火期 | 强度 78.67 | 质量 73.12
   - 主题摘要：According to 000's post, an AI character named "tutu" is allegedly going viral on Instagram with significant view counts. This content is associated with tokens symbolizing "tutu"…
-  - 资金 100.00 / 广度 79.47 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.48 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Yi He Collects Catchphrase for BNB | BSC | 加速中 | 强度 77.55 | 质量 74.52
-  - 主题摘要：According to Yi He's post, she invites community members who originated the phrase 'Why run east and west when Binance has everything' to claim a BNB reward. This activity is asso…
-  - 资金 100.00 / 广度 88.26 / 确认 35.28 / 脆弱性 14.00
+- The DePIN Token | Solana | 加速中 | 强度 77.78 | 质量 70.34
+  - 主题摘要：DePIN token emerged from the concept of Decentralized Physical Infrastructure Networks, aiming to revolutionize real-world assets through blockchain technology. The logo features…
+  - 资金 100.00 / 广度 56.51 / 确认 24.48 / 脆弱性 25.24
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Benny Meme Coin | Solana | 降温中 | 强度 77.28 | 质量 68.05
+- Alleged Benny Meme Coin | Solana | 降温中 | 强度 77.71 | 质量 68.27
   - 主题摘要：According to M's post, a cat named Benny Hana, known for wearing hats, has gone viral on social media. M compares the cat's aura to the Dog Wif Hat meme. This content is associate…
-  - 资金 100.00 / 广度 87.41 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.17 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged tutu Meme Coin | Solana | 降温中 | 强度 75.75 | 质量 61.28
-  - 主题摘要：According to 000's post, an AI character named "tutu" is allegedly going viral on Instagram, with one video reportedly reaching 20 million views in two days. This content is assoc…
-  - 资金 100.00 / 广度 82.98 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ChatGPT App Pets Feature | Solana | 加速中 | 强度 75.51 | 质量 75.54
-  - 主题摘要：According to 尊き者's post, the ChatGPT app is introducing a 'Pets' feature, making virtual pets accessible to all users, unlike previous limited releases. The author predicts this w…
-  - 资金 100.00 / 广度 77.02 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Rupert Meme Coin | Solana | 加速中 | 强度 74.75 | 质量 66.87
+- Alleged Rupert Meme Coin | Solana | 加速中 | 强度 77.24 | 质量 67.51
   - 主题摘要：According to the post, a dog named Rupert has gone viral on Instagram with 30 million views. The post suggests a potential connection to a token named Rupert. This information is…
-  - 资金 100.00 / 广度 82.71 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.75 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:King1883560 Comments CZ is Gen X | BSC | 加速中 | 强度 67.55 | 质量 61.47
-  - 主题摘要：According to 把子's post, CZ belongs to Generation X. This comment references a quoted tweet that outlines generational classifications, placing Generation X in the 1970s to early 1…
-  - 资金 93.07 / 广度 75.18 / 确认 20.16 / 脆弱性 24.00
+- Yi He Collects Catchphrase for BNB | BSC | 加速中 | 强度 75.64 | 质量 71.65
+  - 主题摘要：According to Yi He's post, she invites community members who originated the phrase 'Why run east and west when Binance has everything' to claim a BNB reward. This activity is asso…
+  - 资金 100.00 / 广度 88.17 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cubus Store Coin | BSC | 降温中 | 强度 67.16 | 质量 50.13
+- Uncertain:King1883560 Comments CZ is Gen X | BSC | 点火期 | 强度 71.59 | 质量 64.01
+  - 主题摘要：According to 把子's post, CZ belongs to Generation X. This comment references a quoted tweet that categorizes generations, placing Generation X in the 1970s to early 1980s birth ran…
+  - 资金 100.00 / 广度 77.30 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Cubus Store Coin | BSC | 降温中 | 强度 68.83 | 质量 52.58
   - 主题摘要：Multiple tokens named 「CSC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 61.31 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 61.33 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 首个逆袭人生与人生逆袭组成LP托底池金库 | BSC | 加速中 | 强度 66.96 | 质量 61.37
+- 首个逆袭人生与人生逆袭组成LP托底池金库 | BSC | 加速中 | 强度 65.89 | 质量 61.67
   - 主题摘要：Multiple tokens named 「人生逆袭」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.89 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.92 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 74.58，其中已确认叙事 1 个。
-- Alleged Rupert Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 74.77，其中已确认叙事 1 个。
+- Fugo Shares Viral Lightning Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - USWR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Binance Gen Z Wave | 质量 84.97 | 可交易性 100.00 | 风险 低
 - Alleged Shiloh Meme Coin | 质量 81.17 | 可交易性 100.00 | 风险 低
-- OpenAI Developers Pet Sharing | 质量 79.83 | 可交易性 100.00 | 风险 低
+- Fugo Shares Viral Lightning Meme | 质量 79.18 | 可交易性 100.00 | 风险 低
 - United States Oil Exchange | 质量 78.66 | 可交易性 100.00 | 风险 低
 - USWR | 质量 77.99 | 可交易性 100.00 | 风险 低
-- ChatGPT App Pets Feature | 质量 75.54 | 可交易性 100.00 | 风险 低
-- Yi He Collects Catchphrase for BNB | 质量 74.52 | 可交易性 100.00 | 风险 低
-- Alleged tutu Token | 质量 73.11 | 可交易性 94.72 | 风险 低
-- Alleged Benny Meme Coin | 质量 68.05 | 可交易性 69.91 | 风险 低
-- Alleged Rupert Meme Coin | 质量 66.87 | 可交易性 60.11 | 风险 低
+- Alleged tutu Token | 质量 73.12 | 可交易性 94.75 | 风险 低
+- Yi He Collects Catchphrase for BNB | 质量 71.65 | 可交易性 100.00 | 风险 低
+- The DePIN Token | 质量 70.34 | 可交易性 100.00 | 风险 低
+- Alleged Benny Meme Coin | 质量 68.27 | 可交易性 69.90 | 风险 低
+- Alleged Soyjak Meme Coin | 质量 68.01 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- United States Oil Exchange | 风险 47.25 | 原因：流动性偏薄、龙头筹码集中度偏高
+- United States Oil Exchange | 风险 47.14 | 原因：流动性偏薄、龙头筹码集中度偏高
 - Alleged tutu Token | 风险 44.91 | 原因：流动性偏薄
+- Uncertain:King1883560 Comments CZ is Gen X | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -107,7 +108,7 @@
 - 屎币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Pasteur | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Mai | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- tutu | Solana | 看多 | 新鲜度 100.00 | Alleged tutu Meme Coin
+- tutu | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - King | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
@@ -134,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance Gen Z Wave（BSC，分数 89.66）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：USWR 当前为“新出现”
+1. 当前最强叙事：Binance Gen Z Wave（BSC，分数 88.02）
+2. 共振最强代币：CUPSEY（Solana，共振 100.0）
+3. 记忆层变化：Fugo Shares Viral Lightning Meme 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-07-24)
 #Binance #NarrativeOS #OpenClaw
