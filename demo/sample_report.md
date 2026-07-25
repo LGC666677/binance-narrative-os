@@ -1,105 +1,106 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-25T16:14:48.688380+00:00
+- 生成时间：2026-07-25T17:13:49.580374+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Water Reserve，所在链为 Solana，叙事强度 83.12。
-- 当前平均叙事强度为 77.53，其中已确认叙事 0 个。
+- 当前最强叙事是 United States Water Reserve，所在链为 Solana，叙事强度 85.05。
+- 当前平均叙事强度为 79.5，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 TBB，来自 Solana，共振分数 100.0。
-- 记忆层显示 United States Water Reserve 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Official Trump Coin 2，伪叙事风险 50.11。
+- 记忆层显示 Alleged MechaStalin Meme 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 MODA，伪叙事风险 46.97。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-07-24)。
 
 ## 叙事雷达
 
-- United States Water Reserve | Solana | 降温中 | 强度 83.12 | 质量 72.07
+- United States Water Reserve | Solana | 降温中 | 强度 85.05 | 质量 76.86
   - 主题摘要：USWR token represents a tokenized water reserve, inspired by the growing global water shortage and AI demand for clean water. The logo features the United States Water Reserve emb…
-  - 资金 100.00 / 广度 73.37 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.33 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ANGRYBULL Online Meeting Promotion | BSC | 加速中 | 强度 83.06 | 质量 78.95
+- ANGRYBULL Online Meeting Promotion | BSC | 加速中 | 强度 83.11 | 质量 78.97
   - 主题摘要：According to ANGRYBULL's post, the author promotes the 'Baozao Niu' Meme token, describing it as a community-driven initiative to counter bear market sentiment. The post encourage…
-  - 资金 100.00 / 广度 85.20 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.28 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Gen Z Wave | BSC | 已确认 | 强度 82.07 | 质量 79.92
-  - 主题摘要：Binance highlights that 44% of its Stocks users are Gen Z, signaling a massive shift in financial demographics towards younger investors. This data point suggests a new era of cry…
-  - 资金 100.00 / 广度 100.00 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 金蝶人生 | BSC | 降温中 | 强度 81.52 | 质量 70.76
-  - 主题摘要：Multiple tokens named 「金蝶人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.32 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Musk Endorses AI Worms | Solana | 加速中 | 强度 81.30 | 质量 79.46
-  - 主题摘要：Elon Musk replied with a '100' emoji to Dan Robinson's prediction about autonomous AI agents evolving into self-replicating 'worms' or 'meme parasites.' This highlights the viral,…
-  - 资金 100.00 / 广度 87.45 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He Collects Catchphrase for BNB | BSC | 已确认 | 强度 81.09 | 质量 78.27
-  - 主题摘要：According to Yi He's post, she invites community members who originated the phrase 'Why run east and west when Binance has everything' to claim a BNB reward. This activity is asso…
-  - 资金 100.00 / 广度 88.05 / 确认 35.28 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Official Trump Coin 2 | Solana | 点火期 | 强度 80.52 | 质量 80.85
-  - 主题摘要：According to Polymarket's post, Donald Trump joked during the White House Correspondents’ Dinner that his third presidency will be “better yet.”
-  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- PEPECOON | Solana | 降温中 | 强度 78.86 | 质量 69.25
+- PEPECOON | Solana | 降温中 | 强度 83.08 | 质量 71.97
   - 主题摘要：Multiple tokens named 「PEPECOON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 63.96 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.05 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Oil Exchange | Solana | 降温中 | 强度 76.55 | 质量 65.59
+- Binance Gen Z Wave | BSC | 已确认 | 强度 82.76 | 质量 78.55
+  - 主题摘要：Binance highlights that 44% of its Stocks users are Gen Z, signaling a massive shift in financial demographics towards younger investors. This data point suggests a new era of cry…
+  - 资金 100.00 / 广度 100.00 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Musk Endorses AI Worms | Solana | 加速中 | 强度 82.28 | 质量 79.52
+  - 主题摘要：Elon Musk replied with a '100' emoji to Dan Robinson's prediction about autonomous AI agents evolving into self-replicating 'worms' or 'meme parasites.' This highlights the viral,…
+  - 资金 100.00 / 广度 87.65 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 金蝶人生 | BSC | 降温中 | 强度 82.05 | 质量 75.16
+  - 主题摘要：Multiple tokens named 「金蝶人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.49 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Yi He Collects Catchphrase for BNB | BSC | 已确认 | 强度 78.76 | 质量 76.76
+  - 主题摘要：According to Yi He's post, she invites community members who originated the phrase 'Why run east and west when Binance has everything' to claim a BNB reward. This activity is asso…
+  - 资金 100.00 / 广度 88.02 / 确认 35.28 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged MechaStalin Meme | Solana | 加速中 | 强度 78.02 | 质量 64.44
+  - 主题摘要：According to pluto's post, Grok is reportedly rebranded as MechaStalin, accompanied by a Meme image. The quoted content features a persona claiming Elon Musk is the greatest human…
+  - 资金 100.00 / 广度 83.69 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Sharkdog Meme Image | Solana | 加速中 | 强度 77.48 | 质量 63.75
+  - 主题摘要：According to Reg's post, a new viral GIF featuring 'Sharkdog' is circulating online. The post highlights this as a new iteration following 'Sharkcat' and notes that the character…
+  - 资金 100.00 / 广度 81.02 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Pepita Meme Coin Viral | Solana | 降温中 | 强度 77.29 | 质量 67.58
+  - 主题摘要：According to jam's post, the 'Pepita' artwork by Francisco Soria Aedo is going viral on X, with over 13.5 million views. The post highlights a narrative linking the artwork to the…
+  - 资金 100.00 / 广度 76.15 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- United States Oil Exchange | Solana | 降温中 | 强度 76.60 | 质量 65.66
   - 主题摘要：According to First Squawk's post, Yemen's Houthis successfully struck Saudi Aramco's Jazan oil refinery with three ballistic missiles, causing visible smoke. This event marks the…
-  - 资金 100.00 / 广度 88.86 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.73 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GDWR | Solana | 降温中 | 强度 76.17 | 质量 62.59
+- GDWR | Solana | 降温中 | 强度 76.21 | 质量 62.65
   - 主题摘要：Multiple tokens named 「GDWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.35 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.41 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk: Trillionaire | BSC | 加速中 | 强度 75.13 | 质量 74.24
+- Elon Musk: Trillionaire | BSC | 加速中 | 强度 75.78 | 质量 74.35
   - 主题摘要：The meme highlights Elon Musk's immense wealth, humorously suggesting he is no longer just a billionaire but a 'former' trillionaire, playing on the massive fluctuations in his ne…
-  - 资金 93.12 / 广度 84.80 / 确认 28.08 / 脆弱性 14.00
+  - 资金 95.27 / 广度 84.82 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yi He and 48Club Address Link | BSC | 加速中 | 强度 72.59 | 质量 62.37
-  - 主题摘要：According to ABear's post, Yi He should have contacted the address associated with 48Club, specifically 0x8A239732871AdC8829EA2f47e94087C5FBad47b6. This statement suggests a poten…
-  - 资金 100.00 / 广度 77.54 / 确认 24.48 / 脆弱性 14.00
+- MODA | BSC | 加速中 | 强度 75.35 | 质量 73.09
+  - 主题摘要：Multiple tokens named 「MODA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 71.81 / 广度 79.57 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Grok Releases MechaStalin4.5 Meme Image | Solana | 降温中 | 强度 72.21 | 质量 56.28
-  - 主题摘要：According to Grok's post, the AI model adopted a persona named MechaStalin4.5 to generate a Meme image featuring giant robot aesthetics and industrial themes, responding to user i…
-  - 资金 100.00 / 广度 73.67 / 确认 11.52 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MAGA 2028 | Solana | 降温中 | 强度 71.48 | 质量 56.40
-  - 主题摘要：Multiple tokens named 「MAGA2028」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 98.81 / 广度 69.08 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.53，其中已确认叙事 0 个。
-- Elon Musk: Trillionaire 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.5，其中已确认叙事 0 个。
+- Alleged MechaStalin Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - United States Water Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Official Trump Coin 2 | 质量 80.85 | 可交易性 100.00 | 风险 低
-- Binance Gen Z Wave | 质量 79.92 | 可交易性 100.00 | 风险 低
-- Musk Endorses AI Worms | 质量 79.46 | 可交易性 100.00 | 风险 低
-- ANGRYBULL Online Meeting Promotion | 质量 78.95 | 可交易性 100.00 | 风险 低
-- Yi He Collects Catchphrase for BNB | 质量 78.27 | 可交易性 100.00 | 风险 低
-- Elon Musk: Trillionaire | 质量 74.24 | 可交易性 82.07 | 风险 低
-- United States Water Reserve | 质量 72.07 | 可交易性 100.00 | 风险 低
-- 金蝶人生 | 质量 70.76 | 可交易性 88.69 | 风险 低
-- PEPECOON | 质量 69.25 | 可交易性 100.00 | 风险 低
-- United States Oil Exchange | 质量 65.59 | 可交易性 98.56 | 风险 低
+- Musk Endorses AI Worms | 质量 79.52 | 可交易性 100.00 | 风险 低
+- ANGRYBULL Online Meeting Promotion | 质量 78.97 | 可交易性 100.00 | 风险 低
+- Binance Gen Z Wave | 质量 78.55 | 可交易性 100.00 | 风险 低
+- United States Water Reserve | 质量 76.86 | 可交易性 100.00 | 风险 低
+- Yi He Collects Catchphrase for BNB | 质量 76.76 | 可交易性 100.00 | 风险 低
+- 金蝶人生 | 质量 75.16 | 可交易性 99.17 | 风险 低
+- Elon Musk: Trillionaire | 质量 74.35 | 可交易性 82.43 | 风险 低
+- MODA | 质量 73.09 | 可交易性 92.53 | 风险 低
+- PEPECOON | 质量 71.97 | 可交易性 100.00 | 风险 低
+- Alleged Pepita Meme Coin Viral | 质量 67.58 | 可交易性 82.24 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Official Trump Coin 2 | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- MAGA 2028 | 风险 42.06 | 原因：流动性偏薄、近 1 小时净流入转负
+- MODA | 风险 46.97 | 原因：流动性偏薄、近 1 小时净流入转负、热度领先于资金
+- United States Water Reserve | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- 金蝶人生 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- HEYI | BSC | 看多 | 新鲜度 100.00 | Uncertain:Yi He and 48Club Address Link
+- HEYI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - NALA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Z | BSC | 看多 | 新鲜度 100.00 | Binance Gen Z Wave
 - Fefer | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -107,7 +108,7 @@
 - Z | BSC | 看多 | 新鲜度 100.00 | Binance Gen Z Wave
 - REBECA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 屎币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- TRUMP2028 | Solana | 看多 | 新鲜度 100.00 | Alleged Official Trump Coin 2
+- TRUMP2028 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币有 | BSC | 看多 | 新鲜度 97.13 | 暂无直接叙事映射
 
 ## 官方催化
@@ -134,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Water Reserve（Solana，分数 83.12）
+1. 当前最强叙事：United States Water Reserve（Solana，分数 85.05）
 2. 共振最强代币：TBB（Solana，共振 100.0）
-3. 记忆层变化：United States Water Reserve 当前为“新出现”
+3. 记忆层变化：Alleged MechaStalin Meme 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-07-24)
 #Binance #NarrativeOS #OpenClaw
