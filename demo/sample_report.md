@@ -1,106 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-25T01:06:20.680284+00:00
+- 生成时间：2026-07-25T04:22:58.556550+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
-- 高风险伪叙事：2
+- 已确认叙事：3
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance Gen Z Wave，所在链为 BSC，叙事强度 90.98。
-- 当前平均叙事强度为 78.11，其中已确认叙事 2 个。
+- 当前最强叙事是 Alleged Official Trump Coin 2，所在链为 Solana，叙事强度 89.18。
+- 当前平均叙事强度为 82.36，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 CUPSEY，来自 Solana，共振分数 100.0。
-- 记忆层显示 Elon Musk Loves Shivon 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Fugo Shares Viral Lightning Meme，伪叙事风险 52.99。
+- 记忆层显示 Alleged Official Trump Coin 2 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Elon Musk: Trillionaire，伪叙事风险 50.59。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-07-24)。
 
 ## 叙事雷达
 
-- Binance Gen Z Wave | BSC | 已确认 | 强度 90.98 | 质量 84.97
+- Alleged Official Trump Coin 2 | Solana | 降温中 | 强度 89.18 | 质量 81.23
+  - 主题摘要：According to Polymarket's post, Donald Trump joked during the White House Correspondents’ Dinner that his third presidency will be "better yet." This statement was made in the con…
+  - 资金 100.00 / 广度 98.63 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Gen Z Wave | BSC | 已确认 | 强度 88.21 | 质量 84.97
   - 主题摘要：Binance highlights that 44% of its Stocks users are Gen Z, signaling a massive shift in financial demographics towards younger investors. This data point suggests a new era of cry…
   - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- USWR | Solana | 降温中 | 强度 85.33 | 质量 77.30
-  - 主题摘要：USWR token represents tokenized exposure to clean water infrastructure, focusing on AI-driven water management solutions. The logo features the United States Water Reserve emblem,…
-  - 资金 100.00 / 广度 91.46 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Oil Exchange | Solana | 降温中 | 强度 83.60 | 质量 78.66
-  - 主题摘要：Multiple tokens named 「USOX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.34 / 确认 9.36 / 脆弱性 45.41
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Collects Catchphrase for BNB | BSC | 已确认 | 强度 82.82 | 质量 78.64
-  - 主题摘要：According to Yi He's post, she invites community members who originated the phrase 'Why run east and west when Binance has everything' to claim a BNB reward. This activity is asso…
-  - 资金 100.00 / 广度 88.42 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon Musk Loves Shivon | Solana | 降温中 | 强度 82.56 | 质量 74.00
-  - 主题摘要：Elon Musk replied to Shivon Zilis's tweet with heart emojis, sparking speculation about their professional relationship at xAI and personal dynamics. The simplicity of the reactio…
-  - 资金 100.00 / 广度 85.13 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Shiloh Meme Coin | Solana | 加速中 | 强度 81.98 | 质量 81.18
-  - 主题摘要：According to JNC's post, the user questions the involvement of 'Givesendgo' in relation to Shiloh Hendrix and suggests donating fees to the platform. This activity is associated w…
-  - 资金 100.00 / 广度 92.66 / 确认 24.48 / 脆弱性 24.00
+- Zuckerberg and Huang Join X | Solana | 加速中 | 强度 85.56 | 质量 80.87
+  - 主题摘要：Elon Musk posted the text '(Former) Trillionaire' on his social media account. This statement references his net worth status, likely reflecting changes in his financial standing…
+  - 资金 100.00 / 广度 92.13 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk: Trillionaire | BSC | 加速中 | 强度 80.48 | 质量 74.19
-  - 主题摘要：The meme highlights Elon Musk's immense wealth, humorously suggesting he is no longer just a billionaire but a 'former' trillionaire, playing on the massive fluctuations in his ne…
-  - 资金 100.00 / 广度 80.19 / 确认 24.48 / 脆弱性 14.00
+- MAGA 2028 | Solana | 降温中 | 强度 82.61 | 质量 74.54
+  - 主题摘要：Multiple tokens named 「MAGA2028」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.61 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Trump 2028 Slogan | Solana | 加速中 | 强度 82.33 | 质量 78.46
+  - 主题摘要：According to zump's post, the 'Rewrite The Rules' slogan is allegedly the new campaign theme for Donald Trump's 2028 presidential run, replacing MAGA. This narrative is associated…
+  - 资金 100.00 / 广度 86.74 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cupsina | Solana | 降温中 | 强度 80.10 | 质量 72.51
+- Sam Mogman Clarifies Hat Rules | Solana | 降温中 | 强度 80.64 | 质量 70.50
+  - 主题摘要：According to Kiana's post, the correct original Meme image and ticker for the TRUMP2028 token have been identified. Kiana claims that the previously circulated versions were incor…
+  - 资金 100.00 / 广度 71.55 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Cupsina | Solana | 降温中 | 强度 80.34 | 质量 71.68
   - 主题摘要：Multiple tokens named 「Cupsina」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.82 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.08 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Capy: Solana Launchpad for Memecoin & Tokenized Stock | Solana | 加速中 | 强度 79.58 | 质量 74.16
-  - 主题摘要：According to Capy's post, a new Solana launchpad powered by Meteora is now live, allowing users to launch memecoins paired with $SPCX, a tokenized stock. Creator fees from pump.fu…
-  - 资金 100.00 / 广度 69.24 / 确认 24.48 / 脆弱性 14.00
+- Alleged Rupert Meme Coin | Solana | 已确认 | 强度 80.05 | 质量 69.14
+  - 主题摘要：According to the post, a dog named Rupert has gone viral on Instagram with 30 million views. The content references this viral trend in the context of cryptocurrency tokens named…
+  - 资金 100.00 / 广度 83.08 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Yi He Collects Catchphrase for BNB | BSC | 已确认 | 强度 79.81 | 质量 75.53
+  - 主题摘要：According to Yi He's post, she invites community members who originated the phrase 'Why run east and west when Binance has everything' to claim a BNB reward. This activity is asso…
+  - 资金 100.00 / 广度 88.22 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Trumpothy Meme Image | Solana | 点火期 | 强度 78.19 | 质量 72.82
+  - 主题摘要：According to Jordanuponsolana's post, a Meme image combining 'Jimothy' and 'Trump' to form 'Trumpothy' was published. This content references the token 'Trumpothy 2028'. This info…
+  - 资金 100.00 / 广度 70.59 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Yi He and 48Club Address Link | BSC | 加速中 | 强度 75.69 | 质量 61.29
+  - 主题摘要：According to ABear's post, Yi He should have contacted the address associated with 48Club, specifically 0x8A239732871AdC8829EA2f47e94087C5FBad47b6. This statement suggests a poten…
+  - 资金 100.00 / 广度 74.37 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Fugo Shares Viral Lightning Meme | Solana | 点火期 | 强度 78.92 | 质量 76.84
-  - 主题摘要：According to Fugo's post, a viral video clip of a lightning strike, which garnered over 2 million views in one day, is described as the literal embodiment of a holy fuck. The post…
-  - 资金 100.00 / 广度 89.28 / 确认 9.36 / 脆弱性 24.00
+- Elon Musk: Trillionaire | BSC | 点火期 | 强度 70.81 | 质量 66.53
+  - 主题摘要：The meme highlights Elon Musk's immense wealth, humorously suggesting he is no longer just a billionaire but a 'former' trillionaire, playing on the massive fluctuations in his ne…
+  - 资金 100.00 / 广度 84.48 / 确认 12.96 / 脆弱性 24.92
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged tutu Token | BSC | 点火期 | 强度 78.80 | 质量 73.16
-  - 主题摘要：According to 000's post, an AI character named "tutu" is allegedly going viral on Instagram with significant view counts. This content is associated with tokens symbolizing "tutu"…
-  - 资金 100.00 / 广度 79.52 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- PetverseGPT Launches Petverse | Solana | 降温中 | 强度 77.48 | 质量 69.12
-  - 主题摘要：According to PetverseGPT's post, the entity has launched Petverse, a platform bridging ChatGPT pets to Solana. Users can mint AI pets as NFTs, enabling on-chain ownership, evoluti…
-  - 资金 100.00 / 广度 58.42 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cubus Store Coin | BSC | 降温中 | 强度 69.44 | 质量 55.68
+- Cubus Store Coin | BSC | 降温中 | 强度 67.15 | 质量 52.23
   - 主题摘要：Multiple tokens named 「CSC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 61.39 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 61.12 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 链上回购双引擎系统 | BSC | 加速中 | 强度 66.13 | 质量 52.32
-  - 主题摘要：Multiple tokens named 「天天向上」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.66 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Futubull Lists BNB Trading | BSC | 降温中 | 强度 65.96 | 质量 52.62
+  - 主题摘要：According to BNB Chain 華語's post, Futubull has officially launched real-time trading services for BNB. As the first licensed broker in Hong Kong to provide order book trading pair…
+  - 资金 100.00 / 广度 70.09 / 确认 11.52 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.11，其中已确认叙事 2 个。
-- Elon Musk: Trillionaire 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- USWR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.36，其中已确认叙事 1 个。
+- Zuckerberg and Huang Join X 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Official Trump Coin 2 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Binance Gen Z Wave | 质量 84.97 | 可交易性 100.00 | 风险 低
-- Alleged Shiloh Meme Coin | 质量 81.18 | 可交易性 100.00 | 风险 低
-- United States Oil Exchange | 质量 78.66 | 可交易性 100.00 | 风险 低
-- Yi He Collects Catchphrase for BNB | 质量 78.64 | 可交易性 100.00 | 风险 低
-- USWR | 质量 77.30 | 可交易性 99.34 | 风险 低
-- Fugo Shares Viral Lightning Meme | 质量 76.84 | 可交易性 100.00 | 风险 低
-- Elon Musk: Trillionaire | 质量 74.19 | 可交易性 89.16 | 风险 低
-- Capy: Solana Launchpad for Memecoin & Tokenized Stock | 质量 74.16 | 可交易性 100.00 | 风险 低
-- Elon Musk Loves Shivon | 质量 74.00 | 可交易性 94.67 | 风险 低
-- Alleged tutu Token | 质量 73.16 | 可交易性 94.83 | 风险 低
+- Alleged Official Trump Coin 2 | 质量 81.23 | 可交易性 100.00 | 风险 低
+- Zuckerberg and Huang Join X | 质量 80.87 | 可交易性 100.00 | 风险 低
+- Alleged Trump 2028 Slogan | 质量 78.46 | 可交易性 100.00 | 风险 低
+- Yi He Collects Catchphrase for BNB | 质量 75.53 | 可交易性 100.00 | 风险 低
+- MAGA 2028 | 质量 74.54 | 可交易性 100.00 | 风险 低
+- Alleged Trumpothy Meme Image | 质量 72.82 | 可交易性 100.00 | 风险 低
+- Cupsina | 质量 71.68 | 可交易性 100.00 | 风险 低
+- Sam Mogman Clarifies Hat Rules | 质量 70.50 | 可交易性 96.57 | 风险 低
+- Alleged Rupert Meme Coin | 质量 69.14 | 可交易性 66.81 | 风险 低
 
 ## 伪叙事风险
 
-- Fugo Shares Viral Lightning Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- United States Oil Exchange | 风险 52.13 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
-- Alleged tutu Token | 风险 44.91 | 原因：流动性偏薄
-- USWR | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon Musk: Trillionaire | 风险 50.59 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Alleged Trumpothy Meme Image | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
+- HEYI | BSC | 看多 | 新鲜度 100.00 | Uncertain:Yi He and 48Club Address Link
 - NALA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Z | BSC | 看多 | 新鲜度 100.00 | Binance Gen Z Wave
 - Fefer | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -109,8 +108,7 @@
 - REBECA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 屎币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Pasteur | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- tutu | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- King | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- TRUMP2028 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance Gen Z Wave（BSC，分数 90.98）
+1. 当前最强叙事：Alleged Official Trump Coin 2（Solana，分数 89.18）
 2. 共振最强代币：CUPSEY（Solana，共振 100.0）
-3. 记忆层变化：Elon Musk Loves Shivon 当前为“新出现”
+3. 记忆层变化：Alleged Official Trump Coin 2 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-07-24)
 #Binance #NarrativeOS #OpenClaw
