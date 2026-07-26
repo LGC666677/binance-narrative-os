@@ -1,106 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-26T22:37:21.714114+00:00
+- 生成时间：2026-07-26T23:36:44.689518+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：0
+- 已确认叙事：3
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Oil Exchange，所在链为 Solana，叙事强度 88.73。
-- 当前平均叙事强度为 80.62，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 United States Oil Exchange 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Vanguard Oil Retirement Fund，伪叙事风险 44.45。
+- 当前最强叙事是 Alleged 'just a cat' Token，所在链为 Solana，叙事强度 89.39。
+- 当前平均叙事强度为 81.43，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 TBB，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged 'just a cat' Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged CATE Meme Coin Launch，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-07-24)。
 
 ## 叙事雷达
 
-- United States Oil Exchange | Solana | 降温中 | 强度 88.73 | 质量 78.38
-  - 主题摘要：According to Boku🛒's post, the author questions the existence of a USOX bundler and expresses a desire to launch the USOX token. As the content involves claims of issuing a token,…
-  - 资金 100.00 / 广度 94.40 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Breadcat Meme Image | Solana | 加速中 | 强度 81.86 | 质量 74.78
-  - 主题摘要：According to slendermen3000's post, a GIF featuring a cat named Numcat has gone viral on X, accumulating over 35,000 views within one hour. The author highlights the image's simpl…
-  - 资金 100.00 / 广度 82.69 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Vanguard Oil Retirement Fund | Solana | 降温中 | 强度 81.29 | 质量 72.81
-  - 主题摘要：Multiple tokens named 「VORF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.99 / 确认 5.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged CATE Meme Coin Launch | Solana | 降温中 | 强度 81.19 | 质量 70.67
-  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.72 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- American Oil Relief Program | Solana | 降温中 | 强度 80.16 | 质量 68.93
-  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.06 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged tacocat Meme Launch | Solana | 降温中 | 强度 78.98 | 质量 69.96
-  - 主题摘要：According to distinguished dev's post, the author claims it is the 'cat meta' and encourages users to share a meme image of 'tacocat' (noting the palindrome). The post alleges tha…
-  - 资金 100.00 / 广度 80.99 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ on DCA | BSC | 已确认 | 强度 78.72 | 质量 75.86
-  - 主题摘要：CZ replies to a question about the best entry point for long-term holding by simply stating 'DCA' (Dollar Cost Averaging), advising users to learn basic financial terms to get ric…
-  - 资金 100.00 / 广度 86.06 / 确认 28.08 / 脆弱性 14.00
+- Alleged 'just a cat' Token | Solana | 已确认 | 强度 89.39 | 质量 83.03
+  - 主题摘要：According to Boltricks Development's post, the author questions why a 'just a cat' Meme image has not been utilized in the cat meta, citing a Reddit post with 65k upvotes. This co…
+  - 资金 100.00 / 广度 91.32 / 确认 34.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Yi He Collects Catchphrase for BNB | BSC | 加速中 | 强度 76.73 | 质量 72.17
+- United States Oil Exchange | Solana | 降温中 | 强度 88.87 | 质量 79.11
+  - 主题摘要：According to Boku🛒's post, the author questions the existence of a USOX bundler and expresses a desire to launch the USOX token. As the content involves claims of issuing a token,…
+  - 资金 100.00 / 广度 100.00 / 确认 5.04 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged 1cat Meme Image | Solana | 已确认 | 强度 88.86 | 质量 82.58
+  - 主题摘要：According to Fill Dozer's post, the author shares a Meme image promoting the $1cat token, claiming it serves as an index of the cat market and can change one's life. This informat…
+  - 资金 100.00 / 广度 90.54 / 确认 34.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged CATE Meme Coin Launch | Solana | 点火期 | 强度 79.98 | 质量 74.25
+  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 97.88 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Yi He Collects Catchphrase for BNB | BSC | 已确认 | 强度 78.64 | 质量 74.50
   - 主题摘要：According to Yi He's post, she invites community members who originated the phrase 'Why run east and west when Binance has everything' to claim a BNB reward. This activity is asso…
-  - 资金 100.00 / 广度 87.23 / 确认 35.28 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.22 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Dancing Kittens Meme | Solana | 加速中 | 强度 77.41 | 质量 69.89
+  - 主题摘要：According to the post, the '3 Dancing Kittens' are described as the most viral cats on TikTok and X, appearing frequently in user feeds. The post notes that the group lacks an off…
+  - 资金 100.00 / 广度 87.67 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Aura Final Boss Meme | Solana | 加速中 | 强度 76.41 | 质量 74.04
-  - 主题摘要：According to Trencher Bill's post, the author claims to be the 'Aura final boss' on Crypto Twitter, referencing a tweet with 10 million views. This content is associated with the…
-  - 资金 100.00 / 广度 90.21 / 确认 20.16 / 脆弱性 14.00
+- CZ on DCA | BSC | 加速中 | 强度 77.36 | 质量 75.82
+  - 主题摘要：CZ replies to a question about the best entry point for long-term holding by simply stating 'DCA' (Dollar Cost Averaging), advising users to learn basic financial terms to get ric…
+  - 资金 100.00 / 广度 86.09 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- michi coin | Solana | 降温中 | 强度 76.31 | 质量 65.38
-  - 主题摘要：MICHI token features a golden circular logo with a kitten inside, reflecting its playful branding. Created by X user michi_coln, the token embraces a lighthearted approach with it…
-  - 资金 100.00 / 广度 54.23 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ANGRYBULL Online Meeting Promotion | BSC | 降温中 | 强度 75.54 | 质量 69.42
+- Kimi Ai一键金库生成 | BSC | 加速中 | 强度 77.27 | 质量 61.93
+  - 主题摘要：Multiple tokens named 「Kimi Ai」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.13 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- ANGRYBULL Online Meeting Promotion | BSC | 降温中 | 强度 76.78 | 质量 71.76
   - 主题摘要：According to ANGRYBULL's post, the author promotes the 'Baozao Niu' Meme token, describing it as a community-driven initiative to counter bear market sentiment. The post encourage…
-  - 资金 100.00 / 广度 81.41 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.39 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 金蝶人生 | BSC | 降温中 | 强度 71.46 | 质量 59.24
-  - 主题摘要：Multiple tokens named 「金蝶人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.85 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Likes Post About DCA | BSC | 加速中 | 强度 69.37 | 质量 63.02
-  - 主题摘要：Binance CEO CZ replied with a thumbs up emoji to a user asking if their BNB accumulation strategy was DCA (Dollar Cost Averaging). This casual confirmation from the top of the exc…
-  - 资金 100.00 / 广度 82.85 / 确认 24.48 / 脆弱性 14.00
+- Alleged Breadcat Meme Image | Solana | 加速中 | 强度 76.13 | 质量 71.47
+  - 主题摘要：According to slendermen3000's post, a GIF featuring a cat named Numcat has gone viral on X, accumulating over 35,000 views within one hour. The author highlights the image's simpl…
+  - 资金 100.00 / 广度 82.61 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BINU Posts BNB Official Dog Meme Image | BSC | 加速中 | 强度 69.29 | 质量 57.45
+- Catinu | Solana | 降温中 | 强度 75.43 | 质量 67.37
+  - 主题摘要：Catinu is a meme token inspired by internet cat culture, featuring a golden 'C' logo with a cat face. Created by catinu_coin, it embraces the playful spirit of cat-themed cryptocu…
+  - 资金 100.00 / 广度 60.88 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Thuan Clarifies Raccoon Identity | Solana | 降温中 | 强度 75.37 | 质量 67.24
+  - 主题摘要：According to Thuan's post, the Instagram account daisy_and_gatsby clarified a mistaken identity regarding two internet-famous raccoons. The account owner explained that Danny DeVi…
+  - 资金 100.00 / 广度 88.40 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- BINU Posts BNB Official Dog Meme Image | BSC | 加速中 | 强度 74.53 | 质量 58.50
   - 主题摘要：According to BINU's post, the author shared a Meme image featuring a dog holding a gold cup, claiming it is BNB's first official dog image. BINU asserts that this character will w…
-  - 资金 100.00 / 广度 73.05 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.38 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ on Multi-homing | BSC | 加速中 | 强度 70.27 | 质量 65.93
+  - 主题摘要：CZ responds to a suggestion about migrating users by noting that most crypto users already 'multi-home' or have overlapping wallets across exchanges, highlighting the fragmented n…
+  - 资金 100.00 / 广度 82.61 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.62，其中已确认叙事 0 个。
-- Alleged Breadcat Meme Image 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.43，其中已确认叙事 2 个。
+- Alleged 'just a cat' Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - United States Oil Exchange 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- United States Oil Exchange | 质量 78.38 | 可交易性 100.00 | 风险 低
-- CZ on DCA | 质量 75.86 | 可交易性 86.22 | 风险 低
-- Alleged Breadcat Meme Image | 质量 74.78 | 可交易性 88.64 | 风险 低
-- Alleged Aura Final Boss Meme | 质量 74.04 | 可交易性 100.00 | 风险 低
-- Vanguard Oil Retirement Fund | 质量 72.81 | 可交易性 100.00 | 风险 低
-- Yi He Collects Catchphrase for BNB | 质量 72.17 | 可交易性 100.00 | 风险 低
-- Alleged CATE Meme Coin Launch | 质量 70.67 | 可交易性 71.34 | 风险 低
-- Alleged tacocat Meme Launch | 质量 69.96 | 可交易性 88.52 | 风险 低
-- ANGRYBULL Online Meeting Promotion | 质量 69.42 | 可交易性 100.00 | 风险 低
-- American Oil Relief Program | 质量 68.93 | 可交易性 100.00 | 风险 低
+- Alleged 'just a cat' Token | 质量 83.03 | 可交易性 100.00 | 风险 低
+- Alleged 1cat Meme Image | 质量 82.58 | 可交易性 99.28 | 风险 低
+- United States Oil Exchange | 质量 79.11 | 可交易性 100.00 | 风险 低
+- CZ on DCA | 质量 75.82 | 可交易性 86.04 | 风险 低
+- Yi He Collects Catchphrase for BNB | 质量 74.50 | 可交易性 100.00 | 风险 低
+- Alleged CATE Meme Coin Launch | 质量 74.25 | 可交易性 80.13 | 风险 低
+- ANGRYBULL Online Meeting Promotion | 质量 71.76 | 可交易性 100.00 | 风险 低
+- Alleged Breadcat Meme Image | 质量 71.47 | 可交易性 77.67 | 风险 低
+- Alleged Dancing Kittens Meme | 质量 69.89 | 可交易性 67.35 | 风险 低
+- Catinu | 质量 67.37 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Vanguard Oil Retirement Fund | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged CATE Meme Coin Launch | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - 富贵 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- underdog | BSC | 看多 | 新鲜度 100.00 | CZ Likes Post About DCA
-- SEX | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- SEX | BSC | 看多 | 新鲜度 100.00 | CZ on Multi-homing
 - DCA | BSC | 看多 | 新鲜度 100.00 | CZ on DCA
 - DCA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HEYI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -108,6 +107,7 @@
 - Z | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Fefer | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - boobcoin | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CATE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Oil Exchange（Solana，分数 88.73）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：United States Oil Exchange 当前为“新出现”
+1. 当前最强叙事：Alleged 'just a cat' Token（Solana，分数 89.39）
+2. 共振最强代币：TBB（Solana，共振 100.0）
+3. 记忆层变化：Alleged 'just a cat' Token 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-07-24)
 #Binance #NarrativeOS #OpenClaw
