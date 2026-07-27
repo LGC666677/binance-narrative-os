@@ -1,101 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-27T18:10:09.764180+00:00
+- 生成时间：2026-07-27T19:49:37.489527+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 Pump Trump，所在链为 Solana，叙事强度 86.77。
-- 当前平均叙事强度为 81.87，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Pump Trump 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Smudge the Table Cat，伪叙事风险 44.45。
+- 当前最强叙事是 Untie Me，所在链为 Solana，叙事强度 85.78。
+- 当前平均叙事强度为 81.63，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 JIMOTHY，来自 Solana，共振分数 100.0。
+- 记忆层显示 Vanguard Oil Retirement Fund 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 MODA，伪叙事风险 62.66。
 - 最新官方催化来自 币安最新公告：Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading。
 
 ## 叙事雷达
 
-- Pump Trump | Solana | 降温中 | 强度 86.77 | 质量 80.06
-  - 主题摘要：Multiple tokens named 「USOX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 26.19
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Untie Me | Solana | 降温中 | 强度 85.58 | 质量 73.43
+- Untie Me | Solana | 降温中 | 强度 85.78 | 质量 73.66
   - 主题摘要：According to Corporate Dudes's post, a humorous scenario is depicted involving passing Siren Island with a JBL Charge 4 playing 2016 rap music. This content is a cultural meme and…
-  - 资金 100.00 / 广度 75.79 / 确认 12.24 / 脆弱性 0.00
+  - 资金 100.00 / 广度 76.55 / 确认 12.24 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Global Oil Asset Plan | Solana | 降温中 | 强度 85.05 | 质量 75.27
+- Global Oil Asset Plan | Solana | 降温中 | 强度 85.31 | 质量 75.54
   - 主题摘要：GOAP (Global Oil Asset Plan) token appears to be inspired by geopolitical themes, as suggested by its name and logo featuring a figure in military attire. The token's description…
-  - 资金 100.00 / 广度 87.20 / 确认 5.04 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.12 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Foot Bath Cat | Solana | 降温中 | 强度 83.78 | 质量 73.08
-  - 主题摘要：Multiple tokens named 「Ryder」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.89 / 确认 5.04 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Smudge the Table Cat | Solana | 降温中 | 强度 80.02 | 质量 74.28
+- Smudge the Table Cat | Solana | 降温中 | 强度 85.07 | 质量 74.80
   - 主题摘要：Multiple tokens named 「Smudge」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.92 / 确认 5.04 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.64 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Retcatecoin | Solana | 降温中 | 强度 79.74 | 质量 71.18
-  - 主题摘要：RETCATE is a meme token inspired by internet cat culture, featuring a crying cat logo with tears streaming down its face. The token embraces the playful, emotional side of cat mem…
-  - 资金 100.00 / 广度 73.57 / 确认 5.04 / 脆弱性 14.00
+- Foot Bath Cat | Solana | 降温中 | 强度 82.33 | 质量 74.57
+  - 主题摘要：Multiple tokens named 「Ryder」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.86 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- President Croak | Solana | 降温中 | 强度 77.05 | 质量 66.75
-  - 主题摘要：CROAK is a satirical token inspired by the frog character from the 'The Muppets' TV show. The token's logo features a frog wearing a crown, embodying its 'President of the Blockch…
-  - 资金 100.00 / 广度 55.65 / 确认 9.36 / 脆弱性 14.00
+- Pump Trump | Solana | 点火期 | 强度 81.10 | 质量 76.95
+  - 主题摘要：Multiple tokens named 「USOX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.64 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Vanguard Oil Retirement Fund | Solana | 降温中 | 强度 80.36 | 质量 68.04
+  - 主题摘要：VORF (Vanguard Oil Retirement Fund) is a meme token inspired by the Vanguard Oil Fund, a real investment vehicle. The logo features a flame design, symbolizing energy and financia…
+  - 资金 100.00 / 广度 63.11 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Deborah Murphy Token | Solana | 降温中 | 强度 76.96 | 质量 67.14
-  - 主题摘要：According to Libs of TikTok's post, the account discusses the death of Deborah Murphy and mentions associated tokens named 'Justice for Deborah Murphy' and 'Justice for Murphy'. T…
-  - 资金 100.00 / 广度 61.40 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 齊天大聖 | BSC | 加速中 | 强度 76.89 | 质量 64.15
-  - 主题摘要：Multiple tokens named 「齊天大聖」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.84 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ANGRYBULL Online Meeting Promotion | BSC | 加速中 | 强度 75.61 | 质量 68.45
-  - 主题摘要：According to ANGRYBULL's post, the author promotes the 'Baozao Niu' Meme token, describing it as a community-driven initiative to counter bear market sentiment. The post encourage…
-  - 资金 100.00 / 广度 76.63 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Suggests MarsCoin | BSC | 加速中 | 强度 75.17 | 质量 77.91
+- CZ Suggests MarsCoin | BSC | 加速中 | 强度 79.83 | 质量 79.15
   - 主题摘要：According to CZ's post, he suggested the necessity of a token named MarsCoin. This information is unverified. Please exercise caution.
-  - 资金 83.12 / 广度 88.53 / 确认 23.76 / 脆弱性 24.00
+  - 资金 96.38 / 广度 88.94 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Mapalubnb Claims One姐 is Super Mon | BSC | 降温中 | 强度 69.11 | 质量 59.41
-  - 主题摘要：According to 马帕鲁.AI's post, the individual referred to as 'One姐' is identified as 'Super Mon'. This statement reflects a specific personal opinion or claim made by the author rega…
-  - 资金 100.00 / 广度 75.80 / 确认 7.92 / 脆弱性 14.00
+- United States Oil Supply | Solana | 降温中 | 强度 77.65 | 质量 66.09
+  - 主题摘要：Multiple tokens named 「USOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 56.59 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ on DCA | BSC | 加速中 | 强度 68.65 | 质量 63.97
-  - 主题摘要：CZ replies to a question about the best entry point for long-term holding by simply stating 'DCA' (Dollar Cost Averaging), advising users to learn basic financial terms to get ric…
-  - 资金 100.00 / 广度 78.28 / 确认 31.68 / 脆弱性 14.00
+- 齊天大聖 | BSC | 加速中 | 强度 77.41 | 质量 64.21
+  - 主题摘要：Multiple tokens named 「齊天大聖」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.88 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Kimi Ai一键金库生成 | BSC | 加速中 | 强度 67.98 | 质量 56.07
-  - 主题摘要：Multiple tokens named 「Kimi Ai」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.64 / 确认 24.48 / 脆弱性 14.00
+- ANGRYBULL Online Meeting Promotion | BSC | 加速中 | 强度 75.74 | 质量 68.61
+  - 主题摘要：According to ANGRYBULL's post, the author promotes the 'Baozao Niu' Meme token, describing it as a community-driven initiative to counter bear market sentiment. The post encourage…
+  - 资金 100.00 / 广度 76.60 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Pump.fun Allegedly Launches BI Token | Solana | 降温中 | 强度 75.41 | 质量 64.59
+  - 主题摘要：According to Pump.fun's post, the entity allegedly launched a token named "bi bi" (Symbol: BI). This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 78.12 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Polina Shares Ayu Ayu Meme Image | BSC | 降温中 | 强度 69.05 | 质量 60.32
+  - 主题摘要：Multiple tokens named 「阿尤阿尤」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 88.43 / 广度 71.82 / 确认 5.04 / 脆弱性 36.39
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ on DCA | BSC | 加速中 | 强度 68.98 | 质量 64.34
+  - 主题摘要：CZ replies to a question about the best entry point for long-term holding by simply stating 'DCA' (Dollar Cost Averaging), advising users to learn basic financial terms to get ric…
+  - 资金 100.00 / 广度 78.04 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- MODA | BSC | 加速中 | 强度 65.10 | 质量 61.86
+  - 主题摘要：MODA token draws inspiration from the legacy of DeFi流动性代币，如FIST、OSK和PGNLZ。其标志展示了一个戴着传统日本帽子的卡通人物，反映了其基于Four.meme平台的社区驱动特性。MODA旨在构建meme极深度的流动性池。
+  - 资金 100.00 / 广度 82.47 / 确认 31.68 / 脆弱性 100.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.87，其中已确认叙事 0 个。
-- Kimi Ai一键金库生成 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Pump Trump 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.63，其中已确认叙事 0 个。
+- MODA 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Untie Me 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Pump Trump | 质量 80.06 | 可交易性 100.00 | 风险 低
-- CZ Suggests MarsCoin | 质量 77.91 | 可交易性 93.74 | 风险 低
-- Global Oil Asset Plan | 质量 75.27 | 可交易性 100.00 | 风险 低
-- Smudge the Table Cat | 质量 74.28 | 可交易性 100.00 | 风险 低
-- Untie Me | 质量 73.43 | 可交易性 100.00 | 风险 低
-- Foot Bath Cat | 质量 73.08 | 可交易性 100.00 | 风险 低
-- Retcatecoin | 质量 71.18 | 可交易性 100.00 | 风险 低
-- ANGRYBULL Online Meeting Promotion | 质量 68.45 | 可交易性 100.00 | 风险 低
-- Alleged Deborah Murphy Token | 质量 67.14 | 可交易性 98.72 | 风险 低
-- President Croak | 质量 66.75 | 可交易性 100.00 | 风险 低
+- CZ Suggests MarsCoin | 质量 79.15 | 可交易性 94.83 | 风险 低
+- Pump Trump | 质量 76.95 | 可交易性 100.00 | 风险 低
+- Global Oil Asset Plan | 质量 75.54 | 可交易性 100.00 | 风险 低
+- Smudge the Table Cat | 质量 74.80 | 可交易性 100.00 | 风险 低
+- Foot Bath Cat | 质量 74.57 | 可交易性 100.00 | 风险 低
+- Untie Me | 质量 73.66 | 可交易性 100.00 | 风险 低
+- ANGRYBULL Online Meeting Promotion | 质量 68.61 | 可交易性 100.00 | 风险 低
+- Vanguard Oil Retirement Fund | 质量 68.04 | 可交易性 100.00 | 风险 低
+- United States Oil Supply | 质量 66.09 | 可交易性 100.00 | 风险 低
+- Pump.fun Allegedly Launches BI Token | 质量 64.59 | 可交易性 73.49 | 风险 低
 
 ## 伪叙事风险
 
-- Smudge the Table Cat | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
-- Pump Trump | 风险 42.13 | 原因：流动性偏薄、近 1 小时净流入转负
+- MODA | 风险 62.66 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
+- Polina Shares Ayu Ayu Meme Image | 风险 51.90 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
+- Pump Trump | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -134,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Pump Trump（Solana，分数 86.77）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Pump Trump 当前为“新出现”
+1. 当前最强叙事：Untie Me（Solana，分数 85.78）
+2. 共振最强代币：JIMOTHY（Solana，共振 100.0）
+3. 记忆层变化：Vanguard Oil Retirement Fund 当前为“新出现”
 4. 最新官方催化：Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading
 #Binance #NarrativeOS #OpenClaw
