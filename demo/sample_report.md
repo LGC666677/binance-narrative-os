@@ -1,103 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-27T22:50:52.203731+00:00
+- 生成时间：2026-07-27T23:50:28.205219+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：2
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Vanguard Oil Retirement Fund，所在链为 Solana，叙事强度 85.9。
-- 当前平均叙事强度为 82.89，其中已确认叙事 0 个。
+- 当前最强叙事是 USWR，所在链为 Solana，叙事强度 87.67。
+- 当前平均叙事强度为 83.18，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 AEON，来自 BSC，共振分数 100.0。
-- 记忆层显示 USWR 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 MODA，伪叙事风险 62.66。
+- 记忆层显示 bulltom 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading。
 
 ## 叙事雷达
 
+- USWR | Solana | 降温中 | 强度 87.67 | 质量 79.15
+  - 主题摘要：According to unusual_whales's post, Donald Trump stated that the Federal Reserve should cut interest rates.
+  - 资金 100.00 / 广度 96.97 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:US Senator Misnames CZ | BSC | 已确认 | 强度 86.28 | 质量 79.65
+  - 主题摘要：According to .'s post, a US senator mistakenly referred to Binance founder CZ as "CJ" during a broadcast at the 1:48:08 mark. The post highlights this verbal error with humorous c…
+  - 资金 100.00 / 广度 82.26 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
 - Vanguard Oil Retirement Fund | Solana | 降温中 | 强度 85.90 | 质量 74.67
   - 主题摘要：VORF (Vanguard Oil Retirement Fund) is a meme token inspired by the Vanguard Oil Fund, a real investment vehicle. The logo features a flame design, symbolizing energy and financia…
-  - 资金 100.00 / 广度 82.02 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 82.05 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USWR | Solana | 降温中 | 强度 85.74 | 质量 77.96
-  - 主题摘要：According to unusual_whales's post, Donald Trump stated that the Federal Reserve should cut interest rates.
-  - 资金 100.00 / 广度 93.01 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Senator Lummis Clarity Bill Meme | Solana | 加速中 | 强度 85.71 | 质量 81.43
-  - 主题摘要：According to Senator Cynthia Lummis's post, she shared a Meme image referencing the 'Clarity bill' with the text 'I’m the Clarity bill, on Capitol Hill'. This content utilizes a p…
-  - 资金 100.00 / 广度 96.66 / 确认 20.16 / 脆弱性 14.00
+- Alleged 'Looks at you' Meme Coin | Solana | 加速中 | 强度 84.32 | 质量 76.24
+  - 主题摘要：According to Adoneikam Marin's post, a token named 'Looks At You' is associated with a humorous social media image depicting a specific interpersonal scenario. The post references…
+  - 资金 100.00 / 广度 77.83 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged 'Looks at you' Meme Coin | Solana | 加速中 | 强度 85.50 | 质量 76.37
-  - 主题摘要：According to Adoneikam Marin's post, a token named 'Looks at you' is associated with a humorous social media image depicting a specific interpersonal scenario. The post references…
-  - 资金 100.00 / 广度 76.60 / 确认 24.48 / 脆弱性 14.00
+- bulltom | Solana | 加速中 | 强度 83.26 | 质量 73.88
+  - 主题摘要：Bulltom is a meme token inspired by the popular 'Bull' meme culture. The token features a cute, cartoon-style bull character with horns and a smiling expression, embodying the pla…
+  - 资金 100.00 / 广度 68.32 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:US Senator Misnames CZ | BSC | 已确认 | 强度 84.66 | 质量 79.58
-  - 主题摘要：According to .'s post, a US senator mistakenly referred to Binance founder CZ as "CJ" during a broadcast at the 1:48:08 mark. The post highlights this verbal error with humorous c…
-  - 资金 100.00 / 广度 82.03 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- DOGMASKE | Solana | 降温中 | 强度 81.66 | 质量 70.81
+- Senator Lummis Clarity Bill Meme | Solana | 加速中 | 强度 82.85 | 质量 81.41
+  - 主题摘要：According to Senator Cynthia Lummis's post, she shared a Meme image referencing the 'Clarity bill' with the text 'I’m the Clarity bill, on Capitol Hill'. This content utilizes int…
+  - 资金 100.00 / 广度 96.59 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- DOGMASKE | Solana | 降温中 | 强度 81.67 | 质量 70.83
   - 主题摘要：Multiple tokens named 「DOGMASKE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 63.89 / 确认 16.56 / 脆弱性 0.00
+  - 资金 100.00 / 广度 63.95 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Crash Criticizes Memecoin Investors | Solana | 降温中 | 强度 80.03 | 质量 68.51
+- Crash Criticizes Memecoin Investors | Solana | 加速中 | 强度 80.31 | 质量 71.28
   - 主题摘要：According to Crash's post, he criticizes individuals who believe memecoins are merely about "getting lucky," labeling such views as foolish. He emphasizes that successful memecoin…
-  - 资金 100.00 / 广度 79.84 / 确认 12.24 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Oil Supply | Solana | 降温中 | 强度 79.43 | 质量 69.70
-  - 主题摘要：Multiple tokens named 「USOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.36 / 确认 5.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Foot Bath Cat | Solana | 点火期 | 强度 79.14 | 质量 74.89
-  - 主题摘要：Multiple tokens named 「Ryder」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.94 / 确认 5.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 齊天大聖 | BSC | 加速中 | 强度 76.84 | 质量 64.30
-  - 主题摘要：Multiple tokens named 「齊天大聖」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.96 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.08 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Suggests MarsCoin | BSC | 加速中 | 强度 76.08 | 质量 78.90
+- CZ Suggests MarsCoin | BSC | 加速中 | 强度 79.88 | 质量 78.84
   - 主题摘要：According to CZ's post, he suggested the necessity of a token named MarsCoin. This information is unverified. Please exercise caution.
-  - 资金 86.70 / 广度 89.15 / 确认 27.36 / 脆弱性 24.00
+  - 资金 96.18 / 广度 89.15 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ANGRYBULL Online Meeting Promotion | BSC | 加速中 | 强度 75.42 | 质量 70.15
+- Pump.fun: Culture into Capital | Solana | 加速中 | 强度 79.48 | 质量 68.61
+  - 主题摘要：According to Pump.fun's post, the platform positions itself as a mechanism for converting internet culture into capital, referencing tokens such as 'Culture Capital' and 'Loooong…
+  - 资金 100.00 / 广度 79.41 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- ANGRYBULL Online Meeting Promotion | BSC | 加速中 | 强度 76.42 | 质量 69.82
   - 主题摘要：According to ANGRYBULL's post, the author promotes the 'Baozao Niu' Meme token, describing it as a community-driven initiative to counter bear market sentiment. The post encourage…
-  - 资金 100.00 / 广度 76.38 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.33 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Kimi Ai一键金库生成 | BSC | 加速中 | 强度 66.38 | 质量 54.49
+- 齊天大聖 | BSC | 加速中 | 强度 76.41 | 质量 64.26
+  - 主题摘要：Multiple tokens named 「齊天大聖」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.98 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ on DCA | BSC | 加速中 | 强度 66.31 | 质量 62.13
+  - 主题摘要：CZ replies to a question about the best entry point for long-term holding by simply stating 'DCA' (Dollar Cost Averaging), advising users to learn basic financial terms to get ric…
+  - 资金 100.00 / 广度 77.30 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Kimi Ai一键金库生成 | BSC | 加速中 | 强度 65.68 | 质量 53.19
   - 主题摘要：Multiple tokens named 「Kimi Ai」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.49 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MODA | BSC | 加速中 | 强度 65.39 | 质量 62.07
-  - 主题摘要：MODA token draws inspiration from the legacy of DeFi流动性代币，如FIST、OSK和PGNLZ。其标志展示了一个戴着传统日本帽子的卡通人物，反映了其基于Four.meme平台的社区驱动特性。MODA旨在构建meme极深度的流动性池。
-  - 资金 100.00 / 广度 82.84 / 确认 31.68 / 脆弱性 100.00
+  - 资金 100.00 / 广度 74.38 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.89，其中已确认叙事 0 个。
-- Kimi Ai一键金库生成 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Vanguard Oil Retirement Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.18，其中已确认叙事 0 个。
+- bulltom 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- USWR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Senator Lummis Clarity Bill Meme | 质量 81.43 | 可交易性 100.00 | 风险 低
-- Uncertain:US Senator Misnames CZ | 质量 79.58 | 可交易性 100.00 | 风险 低
-- CZ Suggests MarsCoin | 质量 78.90 | 可交易性 93.80 | 风险 低
-- USWR | 质量 77.96 | 可交易性 100.00 | 风险 低
-- Alleged 'Looks at you' Meme Coin | 质量 76.37 | 可交易性 100.00 | 风险 低
-- Foot Bath Cat | 质量 74.89 | 可交易性 100.00 | 风险 低
+- Senator Lummis Clarity Bill Meme | 质量 81.41 | 可交易性 100.00 | 风险 低
+- Uncertain:US Senator Misnames CZ | 质量 79.65 | 可交易性 100.00 | 风险 低
+- USWR | 质量 79.15 | 可交易性 100.00 | 风险 低
+- CZ Suggests MarsCoin | 质量 78.84 | 可交易性 93.57 | 风险 低
+- Alleged 'Looks at you' Meme Coin | 质量 76.24 | 可交易性 98.35 | 风险 低
 - Vanguard Oil Retirement Fund | 质量 74.67 | 可交易性 100.00 | 风险 低
-- DOGMASKE | 质量 70.81 | 可交易性 100.00 | 风险 低
-- ANGRYBULL Online Meeting Promotion | 质量 70.15 | 可交易性 100.00 | 风险 低
-- United States Oil Supply | 质量 69.70 | 可交易性 92.27 | 风险 低
+- bulltom | 质量 73.88 | 可交易性 100.00 | 风险 低
+- Crash Criticizes Memecoin Investors | 质量 71.28 | 可交易性 80.73 | 风险 低
+- DOGMASKE | 质量 70.83 | 可交易性 100.00 | 风险 低
+- ANGRYBULL Online Meeting Promotion | 质量 69.82 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- MODA | 风险 62.66 | 原因：流动性偏薄、龙头筹码集中度偏高
-- Foot Bath Cat | 风险 56.45 | 原因：流动性偏薄、近 1 小时净流入转负
-- United States Oil Supply | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
-- USWR | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,7 +100,7 @@
 - Z | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 富贵 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SEX | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- DCA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- DCA | BSC | 看多 | 新鲜度 100.00 | CZ on DCA
 - DCA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HEYI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Bruno | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -136,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Vanguard Oil Retirement Fund（Solana，分数 85.9）
+1. 当前最强叙事：USWR（Solana，分数 87.67）
 2. 共振最强代币：AEON（BSC，共振 100.0）
-3. 记忆层变化：USWR 当前为“新出现”
+3. 记忆层变化：bulltom 当前为“新出现”
 4. 最新官方催化：Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading
 #Binance #NarrativeOS #OpenClaw
