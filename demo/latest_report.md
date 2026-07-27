@@ -1,103 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-27T11:45:51.841206+00:00
+- 生成时间：2026-07-27T14:02:08.269012+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Tsutsuji，所在链为 Solana，叙事强度 88.05。
-- 当前平均叙事强度为 71.41，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TBB，来自 Solana，共振分数 100.0。
-- 记忆层显示 Tsutsuji 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Catecoin Donation to Animal Rescue，伪叙事风险 52.99。
-- 最新官方催化来自 新币上新：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-27)。
+- 当前最强叙事是 The Kitty Cat Dance，所在链为 Solana，叙事强度 84.34。
+- 当前平均叙事强度为 78.9，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
+- 记忆层显示 The Kitty Cat Dance 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Guinness World Records Post，伪叙事风险 56.45。
+- 最新官方催化来自 币安最新公告：Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading。
 
 ## 叙事雷达
 
-- Tsutsuji | Solana | 降温中 | 强度 88.05 | 质量 77.26
-  - 主题摘要：Multiple tokens named 「Tsujicoin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.68 / 确认 9.36 / 脆弱性 0.00
+- The Kitty Cat Dance | Solana | 降温中 | 强度 84.34 | 质量 78.34
+  - 主题摘要：According to hoodlland's post, artist Alec Monopoly created a new art piece titled "Kitty Coin." The post highlights his significant social media following and high-value artwork.…
+  - 资金 100.00 / 广度 89.53 / 确认 15.84 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Guinness World Records Post | Solana | 加速中 | 强度 80.84 | 质量 80.75
-  - 主题摘要：According to Guinness World Records's post, the organization expressed that the current week feels like a great opportunity to break a world record. The post does not mention any…
-  - 资金 100.00 / 广度 94.92 / 确认 19.44 / 脆弱性 14.00
+- The Smol Mole | Solana | 加速中 | 强度 82.35 | 质量 73.47
+  - 主题摘要：According to Milero's post, the original developer of SMOLE changed their handle, and Milero claims this individual is an Indian scammer. This statement follows the launch of a ne…
+  - 资金 100.00 / 广度 70.64 / 确认 19.44 / 脆弱性 18.59
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ANGRYBULL Online Meeting Promotion | BSC | 加速中 | 强度 77.77 | 质量 71.72
+- Orange Coin | Solana | 降温中 | 强度 80.57 | 质量 68.34
+  - 主题摘要：ORANGECOIN is a community-driven token inspired by the vibrant orange fruit. The logo features a stylized orange with a leaf, symbolizing freshness and positivity. The project emp…
+  - 资金 100.00 / 广度 60.95 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Untie Me | Solana | 降温中 | 强度 80.14 | 质量 70.36
+  - 主题摘要：According to Corporate Dudes's post, a humorous scenario is depicted involving passing Siren Island with a JBL Charge 4 playing 2016 rap music. This content is a cultural meme and…
+  - 资金 100.00 / 广度 70.85 / 确认 5.04 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Pole Raccoon | Solana | 降温中 | 强度 77.76 | 质量 68.06
+  - 主题摘要：Multiple tokens named 「POLRAC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.87 / 确认 0.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- ANGRYBULL Online Meeting Promotion | BSC | 加速中 | 强度 76.11 | 质量 70.92
   - 主题摘要：According to ANGRYBULL's post, the author promotes the 'Baozao Niu' Meme token, describing it as a community-driven initiative to counter bear market sentiment. The post encourage…
-  - 资金 100.00 / 广度 77.69 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.36 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Solana ◎ Symbol Meme | Solana | 加速中 | 强度 77.67 | 质量 64.20
-  - 主题摘要：According to ִֶָ's post, a viral Meme image of a cat with a ◎ symbol on its fur has sparked discussion about using ◎ for Solana tokens. The author claims to be launching a related…
-  - 资金 100.00 / 广度 79.94 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Penguin King Comments on CXMT IPO | Solana | 降温中 | 强度 77.53 | 质量 63.53
-  - 主题摘要：According to Penguin king's post, ChangXin Memory Technologies rose 700% since its IPO, surpassing SpaceX's growth. He identifies it as a 'meme stock' for RAM/DDR5 technology, des…
-  - 资金 100.00 / 广度 70.16 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CXMT IPO Market Impact | Solana | 降温中 | 强度 77.53 | 质量 63.18
-  - 主题摘要：According to Evan's post, CXMT has surpassed Intel in market value following its IPO, becoming the largest Chinese public company. The quoted content notes CXMT's 466% first-day s…
-  - 资金 100.00 / 广度 75.07 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Collects Catchphrase for BNB | BSC | 加速中 | 强度 77.05 | 质量 72.72
-  - 主题摘要：According to Yi He's post, she invites community members who originated the phrase 'Why run east and west when Binance has everything' to claim a BNB reward. This activity is asso…
-  - 资金 100.00 / 广度 87.20 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MONSTER BULL | Solana | 降温中 | 强度 75.48 | 质量 66.13
-  - 主题摘要：MONSEM (MONSTER BULL) draws inspiration from the iconic Monster Energy drink brand, featuring a cartoon bull logo with the Monster Energy logo. The token's slogan 'zero sugar bull…
-  - 资金 100.00 / 广度 60.44 / 确认 0.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Nala Meme Coin | Solana | 降温中 | 强度 75.27 | 质量 67.61
-  - 主题摘要：According to c's post, the Nala token is allegedly associated with the Guinness World Record-holding cat 'Nala', leveraging the current 'cat meta' trend. This information is unver…
-  - 资金 100.00 / 广度 60.92 / 确认 12.24 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Catecoin Donation to Animal Rescue | Solana | 点火期 | 强度 74.08 | 质量 73.16
-  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.95 / 确认 9.36 / 脆弱性 24.00
+- Guinness World Records Post | Solana | 点火期 | 强度 76.05 | 质量 77.00
+  - 主题摘要：According to Guinness World Records's post, the organization expressed that the current week feels like a great opportunity to break a world record. The post does not mention any…
+  - 资金 100.00 / 广度 92.98 / 确认 5.04 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 齐天大圣 | BSC | 点火期 | 强度 69.89 | 质量 69.21
-  - 主题摘要：Multiple tokens named 「齐天大圣」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 89.88 / 广度 79.60 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ on DCA | BSC | 加速中 | 强度 69.83 | 质量 64.75
-  - 主题摘要：CZ replies to a question about the best entry point for long-term holding by simply stating 'DCA' (Dollar Cost Averaging), advising users to learn basic financial terms to get ric…
-  - 资金 100.00 / 广度 83.58 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 金蝶人生 | BSC | 降温中 | 强度 67.34 | 质量 55.64
-  - 主题摘要：Multiple tokens named 「金蝶人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.91 / 确认 9.36 / 脆弱性 24.00
+- Neirocoin | Solana | 降温中 | 强度 75.88 | 质量 66.43
+  - 主题摘要：Multiple tokens named 「Neiro」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 61.42 / 确认 0.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Kimi Ai一键金库生成 | BSC | 加速中 | 强度 66.60 | 质量 57.90
+- 齊天大聖 | BSC | 加速中 | 强度 74.49 | 质量 63.88
+  - 主题摘要：Multiple tokens named 「齊天大聖」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.38 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- BULLYGUN | Solana | 降温中 | 强度 74.15 | 质量 69.32
+  - 主题摘要：Multiple tokens named 「BULLYGUN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 94.12 / 广度 59.98 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Mapalubnb Claims One姐 is Super Mon | BSC | 降温中 | 强度 71.98 | 质量 64.42
+  - 主题摘要：According to 马帕鲁.AI's post, the individual referred to as 'One姐' is identified as 'Super Mon'. This statement reflects a specific personal opinion or claim made by the author rega…
+  - 资金 100.00 / 广度 74.80 / 确认 7.92 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Kimi Ai一键金库生成 | BSC | 加速中 | 强度 69.37 | 质量 58.84
   - 主题摘要：Multiple tokens named 「Kimi Ai」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.12 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.46 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 金蝶人生 | BSC | 降温中 | 强度 69.35 | 质量 56.62
+  - 主题摘要：Multiple tokens named 「金蝶人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.76 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ on DCA | BSC | 加速中 | 强度 68.41 | 质量 64.98
+  - 主题摘要：CZ replies to a question about the best entry point for long-term holding by simply stating 'DCA' (Dollar Cost Averaging), advising users to learn basic financial terms to get ric…
+  - 资金 100.00 / 广度 80.35 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 71.41，其中已确认叙事 0 个。
-- Guinness World Records Post 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Tsutsuji 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.9，其中已确认叙事 0 个。
+- The Smol Mole 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- The Kitty Cat Dance 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Guinness World Records Post | 质量 80.75 | 可交易性 100.00 | 风险 低
-- Tsutsuji | 质量 77.26 | 可交易性 100.00 | 风险 低
-- Alleged Catecoin Donation to Animal Rescue | 质量 73.16 | 可交易性 100.00 | 风险 低
-- Yi He Collects Catchphrase for BNB | 质量 72.72 | 可交易性 100.00 | 风险 低
-- ANGRYBULL Online Meeting Promotion | 质量 71.72 | 可交易性 100.00 | 风险 低
-- 齐天大圣 | 质量 69.21 | 可交易性 90.61 | 风险 低
-- Alleged Nala Meme Coin | 质量 67.61 | 可交易性 95.47 | 风险 低
-- MONSTER BULL | 质量 66.13 | 可交易性 100.00 | 风险 低
-- CZ on DCA | 质量 64.75 | 可交易性 83.92 | 风险 低
-- Solana ◎ Symbol Meme | 质量 64.20 | 可交易性 56.12 | 风险 低
+- The Kitty Cat Dance | 质量 78.34 | 可交易性 100.00 | 风险 低
+- Guinness World Records Post | 质量 77.00 | 可交易性 100.00 | 风险 低
+- The Smol Mole | 质量 73.47 | 可交易性 100.00 | 风险 低
+- ANGRYBULL Online Meeting Promotion | 质量 70.92 | 可交易性 100.00 | 风险 低
+- Untie Me | 质量 70.36 | 可交易性 100.00 | 风险 低
+- BULLYGUN | 质量 69.32 | 可交易性 100.00 | 风险 低
+- Orange Coin | 质量 68.34 | 可交易性 100.00 | 风险 低
+- Pole Raccoon | 质量 68.06 | 可交易性 100.00 | 风险 低
+- Neirocoin | 质量 66.43 | 可交易性 100.00 | 风险 低
+- CZ on DCA | 质量 64.98 | 可交易性 84.04 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Catecoin Donation to Animal Rescue | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- 齐天大圣 | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- MONSTER BULL | 风险 43.28 | 原因：流动性偏薄
-- 金蝶人生 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Guinness World Records Post | 风险 56.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Pole Raccoon | 风险 43.28 | 原因：流动性偏薄
+- Neirocoin | 风险 43.28 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -107,13 +106,15 @@
 - DCA | BSC | 看多 | 新鲜度 100.00 | CZ on DCA
 - DCA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HEYI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- NALA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Bruno | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CATE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - speedrun | Solana | 看多 | 新鲜度 100.00 | Guinness World Records Post
 - EPIK | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Nongwan | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
+- [Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading](https://www.binance.com/zh-CN/support/announcement/detail/29fbef18add84302bda7d4ff98111262)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Materials not directed at users in restricted jurisdictions, including: US, UK, EEA…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-27)](https://www.binance.com/zh-CN/support/announcement/detail/a827177a387e4ebea830110ba222ca48)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
 - [Binance Capital Connect — Delisting & Access Criteria](https://www.binance.com/zh-CN/support/announcement/detail/5a8ae66176794fe79cd0f250b3ec05e5)
@@ -126,8 +127,6 @@
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Earn is excited to renew the…
 - [Binance Earn: Enjoy Up to 15% APR with AVA Flexible Products – 50,000 AVA Limit Available!](https://www.binance.com/zh-CN/support/announcement/detail/1468751ad70446698e95491a208a1a64)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Earn is excited to launch th…
-- [Binance Will Extend the Monitoring Tag to Include ACX, LSK & STX on 2026-07-24](https://www.binance.com/zh-CN/support/announcement/detail/12056a79b7f545a3aa03fa5031f77b16)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Based on recent reviews, Binance will extend the Monitoring Tag to include more tokens on 20…
 - [Binance Futures Will Launch POPMARTUSDT USDⓈ-Margined Perpetual Contract (2026-07-23)](https://www.binance.com/zh-CN/support/announcement/detail/fcdc949b45a644c78e341c88331a35ef)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
 - [Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets- 2026-07-22](https://www.binance.com/zh-CN/support/announcement/detail/dd18d9850f504666b7c91b5c74fe8c10)
@@ -136,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Tsutsuji（Solana，分数 88.05）
-2. 共振最强代币：TBB（Solana，共振 100.0）
-3. 记忆层变化：Tsutsuji 当前为“新出现”
-4. 最新官方催化：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-27)
+1. 当前最强叙事：The Kitty Cat Dance（Solana，分数 84.34）
+2. 共振最强代币：TROLL（Solana，共振 100.0）
+3. 记忆层变化：The Kitty Cat Dance 当前为“新出现”
+4. 最新官方催化：Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading
 #Binance #NarrativeOS #OpenClaw
