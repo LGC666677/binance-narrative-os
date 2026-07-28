@@ -1,104 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-28T17:05:19.624958+00:00
+- 生成时间：2026-07-28T18:40:04.033750+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：0
+- 已确认叙事：4
+- 高风险伪叙事：3
 
 ## 今日摘要
 
-- 当前最强叙事是 CZ Suggests MarsCoin，所在链为 BSC，叙事强度 87.37。
-- 当前平均叙事强度为 79.57，其中已确认叙事 0 个。
+- 当前最强叙事是 Eric Trump Praises Lifeguard，所在链为 Solana，叙事强度 87.77。
+- 当前平均叙事强度为 80.55，其中已确认叙事 2 个。
 - 注意力与资金共振最强的代币是 EPIK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Nugget The Cat Meme 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Nugget Cat Token，伪叙事风险 49.78。
+- 记忆层显示 Eric Trump Praises Lifeguard 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged BOUNCE CAT Meme，伪叙事风险 52.99。
 - 最新官方催化来自 币安最新公告：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-31)。
 
 ## 叙事雷达
 
-- CZ Suggests MarsCoin | BSC | 加速中 | 强度 87.37 | 质量 82.26
+- Eric Trump Praises Lifeguard | Solana | 已确认 | 强度 87.77 | 质量 82.46
+  - 主题摘要：According to Eric Trump's post, he praised a 16-year-old lifeguard, suggesting they receive the highest civilian honor. He described the act as representing the best of America an…
+  - 资金 100.00 / 广度 94.29 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- CZ Suggests MarsCoin | BSC | 已确认 | 强度 85.78 | 质量 83.26
   - 主题摘要：According to CZ's post, he suggested the necessity of a token named MarsCoin. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 94.14 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged BOUNCE CAT Meme | Solana | 降温中 | 强度 84.32 | 质量 77.34
-  - 主题摘要：According to JOON's post, a bouncing cat Meme image is viral and has high potential. JOON claims the token $BOUNCE (BOUNCE CAT) represents a return to simple memes without fake ut…
-  - 资金 100.00 / 广度 90.94 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.29 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Atsuko Sato | Solana | 降温中 | 强度 84.11 | 质量 74.52
+  - 主题摘要：Multiple tokens named 「SATO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 97.33 / 广度 87.20 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Hardest GIFs Meme | Solana | 降温中 | 强度 84.02 | 质量 77.11
-  - 主题摘要：Multiple tokens named 「BCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.17 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk: I will not forget about Mars | BSC | 加速中 | 强度 82.78 | 质量 74.73
+- Alleged Frank Ocean Meme Coin | Solana | 已确认 | 强度 82.97 | 质量 73.82
+  - 主题摘要：According to moon🦭's post, a viral video of a turtle named Frank Ocean has inspired community discussions regarding a potential token launch. The post suggests that the trending n…
+  - 资金 100.00 / 广度 86.98 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Elon Musk: I will not forget about Mars | BSC | 已确认 | 强度 81.08 | 质量 75.53
   - 主题摘要：Elon Musk replied to a photo from Mars taken by DogeDesigner, confirming his ongoing interest in the Red Planet. This interaction highlights the intersection of space exploration…
-  - 资金 100.00 / 广度 93.16 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Nugget The Cat Meme | Solana | 降温中 | 强度 81.83 | 质量 74.08
-  - 主题摘要：Multiple tokens named 「Nugget」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 92.93 / 广度 88.50 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.32 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged BOUNCE CAT Meme | Solana | 点火期 | 强度 78.62 | 质量 77.37
+  - 主题摘要：According to JOON's post, a bouncing cat Meme image is viral and has massive potential. JOON claims the BOUNCE CAT token represents a return to simple memes without fake utility,…
+  - 资金 100.00 / 广度 91.04 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Hardest GIFs Meme | Solana | 点火期 | 强度 78.45 | 质量 77.18
+  - 主题摘要：Multiple tokens named 「BCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.40 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- United States Oil Protocol | Solana | 降温中 | 强度 77.79 | 质量 65.70
+  - 主题摘要：Multiple tokens named 「USOP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 55.32 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Nugget Cat Meme Image | Solana | 降温中 | 强度 81.51 | 质量 74.08
-  - 主题摘要：Multiple tokens named 「Nugget」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 91.50 / 广度 88.50 / 确认 9.36 / 脆弱性 24.00
+- Sports Shares Dog Meme Image | Solana | 降温中 | 强度 77.75 | 质量 66.15
+  - 主题摘要：According to Sports's post, the user shared a Meme image featuring a dog at a ballpark, accompanied by a comment about fans bringing fans for fans. The post highlights a lighthear…
+  - 资金 100.00 / 广度 65.10 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Nugget Cat Token | Solana | 降温中 | 强度 81.51 | 质量 74.08
-  - 主题摘要：Multiple tokens named 「Nugget」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 91.50 / 广度 88.50 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Nugget Cat Token | Solana | 降温中 | 强度 81.23 | 质量 74.08
-  - 主题摘要：Multiple tokens named 「Nugget」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 90.23 / 广度 88.50 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Flying Ketamine Cat Meme | Solana | 降温中 | 强度 79.80 | 质量 73.28
-  - 主题摘要：Multiple tokens named 「Nugget」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 91.80 / 广度 88.27 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Elon Coin Launch | Solana | 降温中 | 强度 78.54 | 质量 70.60
-  - 主题摘要：According to Bymotionn's post, the user claims to have purchased the "Super Grok" tool to create the official Elon Coin. This involves an alleged launch of a token associated with…
-  - 资金 100.00 / 广度 80.65 / 确认 8.64 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 最新吉祥物logo | BSC | 加速中 | 强度 78.48 | 质量 77.96
-  - 主题摘要：According to Batman's post, Elon Musk provided inspiration for a Ferret-themed Meme image. The post suggests connecting this Meme with real stock markets via stonkfun.xyz, claimin…
-  - 资金 100.00 / 广度 85.81 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ANGRYBULL Online Meeting Promotion | BSC | 加速中 | 强度 76.80 | 质量 71.59
-  - 主题摘要：According to ANGRYBULL's post, the author promotes the 'Baozao Niu' Meme token, describing it as a community-driven initiative to counter bear market sentiment. The post encourage…
-  - 资金 100.00 / 广度 77.25 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Flap Launches SPCXb Stock-Paired Meme Pool | BSC | 降温中 | 强度 76.33 | 质量 63.60
+- Flap Launches SPCXb Stock-Paired Meme Pool | BSC | 降温中 | 强度 77.15 | 质量 63.71
   - 主题摘要：According to Flap 🦋's post, the SPCXb token is launching on BNB Chain, integrating RWA and Meme concepts via bStocks. It supports creator rewards, stock dividends, buyback & burn,…
-  - 资金 100.00 / 广度 75.98 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.06 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:US Senator Misnames CZ | BSC | 加速中 | 强度 75.64 | 质量 75.02
+- Devid Discusses CATE-1 and DOGE-1 | Solana | 点火期 | 强度 76.94 | 质量 72.05
+  - 主题摘要：According to Devid's post, Devid suggests that CATE-1 could serve as the best beta for DOGE-1, citing that CATE-1 ran recently. This statement reflects Devid's personal opinion on…
+  - 资金 100.00 / 广度 79.26 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- ANGRYBULL Online Meeting Promotion | BSC | 加速中 | 强度 76.07 | 质量 70.74
+  - 主题摘要：According to ANGRYBULL's post, the author promotes the 'Baozao Niu' Meme token, describing it as a community-driven initiative to counter bear market sentiment. The post encourage…
+  - 资金 100.00 / 广度 77.21 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 最新吉祥物logo | BSC | 点火期 | 强度 75.49 | 质量 74.01
+  - 主题摘要：According to Batman's post, Elon Musk provided inspiration for a Ferret-themed Meme image. The post suggests connecting this Meme with real stock markets via stonkfun.xyz, claimin…
+  - 资金 100.00 / 广度 86.13 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:US Senator Misnames CZ | BSC | 加速中 | 强度 75.25 | 质量 72.43
   - 主题摘要：According to .'s post, a US senator mistakenly referred to Binance founder CZ as "CJ" during a broadcast at the 1:48:08 mark. The post highlights this verbal error with humorous c…
-  - 资金 100.00 / 广度 82.11 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.19 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.57，其中已确认叙事 0 个。
-- 最新吉祥物logo 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged BOUNCE CAT Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.55，其中已确认叙事 2 个。
+- Eric Trump Praises Lifeguard 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Atsuko Sato 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ Suggests MarsCoin | 质量 82.26 | 可交易性 100.00 | 风险 低
-- 最新吉祥物logo | 质量 77.96 | 可交易性 99.27 | 风险 低
-- Alleged BOUNCE CAT Meme | 质量 77.34 | 可交易性 100.00 | 风险 低
-- Hardest GIFs Meme | 质量 77.11 | 可交易性 100.00 | 风险 低
-- Uncertain:US Senator Misnames CZ | 质量 75.02 | 可交易性 87.89 | 风险 低
-- Elon Musk: I will not forget about Mars | 质量 74.73 | 可交易性 78.52 | 风险 低
-- Alleged Nugget The Cat Meme | 质量 74.08 | 可交易性 92.84 | 风险 低
-- Alleged Nugget Cat Meme Image | 质量 74.08 | 可交易性 92.84 | 风险 低
-- Alleged Nugget Cat Token | 质量 74.08 | 可交易性 92.84 | 风险 低
-- Alleged Nugget Cat Token | 质量 74.08 | 可交易性 92.84 | 风险 低
+- CZ Suggests MarsCoin | 质量 83.26 | 可交易性 100.00 | 风险 低
+- Eric Trump Praises Lifeguard | 质量 82.46 | 可交易性 100.00 | 风险 低
+- Alleged BOUNCE CAT Meme | 质量 77.37 | 可交易性 100.00 | 风险 低
+- Hardest GIFs Meme | 质量 77.18 | 可交易性 100.00 | 风险 低
+- Elon Musk: I will not forget about Mars | 质量 75.53 | 可交易性 77.85 | 风险 低
+- Atsuko Sato | 质量 74.52 | 可交易性 97.50 | 风险 低
+- 最新吉祥物logo | 质量 74.01 | 可交易性 98.65 | 风险 低
+- Alleged Frank Ocean Meme Coin | 质量 73.82 | 可交易性 78.48 | 风险 低
+- Uncertain:US Senator Misnames CZ | 质量 72.43 | 可交易性 88.37 | 风险 低
+- Devid Discusses CATE-1 and DOGE-1 | 质量 72.05 | 可交易性 94.05 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Nugget Cat Token | 风险 49.78 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Nugget Cat Meme Image | 风险 48.64 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Nugget Cat Token | 风险 48.64 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Nugget The Cat Meme | 风险 47.35 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Flying Ketamine Cat Meme | 风险 42.19 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged BOUNCE CAT Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Hardest GIFs Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Devid Discusses CATE-1 and DOGE-1 | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- 最新吉祥物logo | 风险 42.03 | 原因：流动性偏薄
+- Atsuko Sato | 风险 41.65 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -137,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CZ Suggests MarsCoin（BSC，分数 87.37）
+1. 当前最强叙事：Eric Trump Praises Lifeguard（Solana，分数 87.77）
 2. 共振最强代币：EPIK（Solana，共振 100.0）
-3. 记忆层变化：Alleged Nugget The Cat Meme 当前为“新出现”
+3. 记忆层变化：Eric Trump Praises Lifeguard 当前为“新出现”
 4. 最新官方催化：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-31)
 #Binance #NarrativeOS #OpenClaw
