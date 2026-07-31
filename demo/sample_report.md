@@ -1,97 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-07-31T22:40:46.129422+00:00
+- 生成时间：2026-07-31T23:38:51.255641+00:00
 - 跟踪叙事：14
-- 已确认叙事：4
-- 高风险伪叙事：0
+- 已确认叙事：6
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 0，所在链为 BSC，叙事强度 87.92。
-- 当前平均叙事强度为 82.3，其中已确认叙事 4 个。
-- 注意力与资金共振最强的代币是 VENUSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 United States Oil Protocol 当前处于“新出现”状态。
+- 当前最强叙事是 TCC Inquires About ASTER Rewards，所在链为 BSC，叙事强度 88.04。
+- 当前平均叙事强度为 82.82，其中已确认叙事 5 个。
+- 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
+- 记忆层显示 TCC Inquires About ASTER Rewards 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 OnlyPump，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：August Affiliate Dual-Star Program: Refer & Trade to Share the 500,000 USDC Prize Pool!。
 
 ## 叙事雷达
 
-- 0 | BSC | 已确认 | 强度 87.92 | 质量 87.69
-  - 主题摘要：According to Flap 🦋's post, Flap BNB Chain 0-Tax tokens introduce holder rewards via DEX LP fees and cap bonding stage buys at 2% per wallet for fair distribution.
-  - 资金 100.00 / 广度 94.12 / 确认 52.08 / 脆弱性 25.36
+- TCC Inquires About ASTER Rewards | BSC | 已确认 | 强度 88.04 | 质量 82.85
+  - 主题摘要：According to TCC's post, the author inquired about the existence of any meme projects that reward holders with ASTER tokens. This inquiry highlights community interest in potentia…
+  - 资金 100.00 / 广度 90.30 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- United States Oil Protocol | Solana | 降温中 | 强度 86.27 | 质量 74.39
+- United States Oil Protocol | Solana | 降温中 | 强度 86.36 | 质量 74.54
   - 主题摘要：Multiple tokens named 「USOP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.26 / 确认 5.04 / 脆弱性 0.00
+  - 资金 100.00 / 广度 84.76 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- American Oil Relief Program | Solana | 降温中 | 强度 85.44 | 质量 73.28
+- He Yi's 7000+ Stocks Dream | BSC | 已确认 | 强度 86.35 | 质量 84.93
+  - 主题摘要：Binance Co-CEO Yi He promotes bStocks, claiming access to over 7,000 global stocks with 24/7 trading on Binance. This expands the definition of crypto exchange utility beyond trad…
+  - 资金 100.00 / 广度 94.59 / 确认 38.88 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- American Oil Relief Program | Solana | 降温中 | 强度 85.81 | 质量 73.65
   - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.57 / 确认 5.04 / 脆弱性 0.00
+  - 资金 100.00 / 广度 81.79 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Global Digital Water Reserve | Solana | 降温中 | 强度 84.42 | 质量 73.90
   - 主题摘要：Multiple tokens named 「GDWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 79.48 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Tax-Free $GME on BSC | BSC | 已确认 | 强度 84.03 | 质量 84.82
+- Uncertain:Alleged Tax-Free $GME on BSC | BSC | 已确认 | 强度 83.33 | 质量 84.82
   - 主题摘要：CZ suggests that GameStop should issue a utility token on the blockchain, preferably on the BNB Smart Chain (BSC).
   - 资金 100.00 / 广度 94.21 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Jensen Huang NVIDIA Story | BSC | 加速中 | 强度 83.52 | 质量 80.72
-  - 主题摘要：According to creatorsmediaworld's post, Jensen Huang, founder of NVIDIA, started the company with just a few thousand dollars as a pizza delivery worker. The post highlights how N…
-  - 资金 100.00 / 广度 89.00 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Comments on Temperature | BSC | 加速中 | 强度 83.03 | 质量 79.88
+- Elon Musk Comments on Temperature | BSC | 加速中 | 强度 83.02 | 质量 79.88
   - 主题摘要：Elon Musk posted a comment stating that the weather is still somewhat hot, accompanied by a link. This post is unrelated to the listed cryptocurrency tokens, including GPU and RWA.
   - 资金 100.00 / 广度 86.21 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OnlyPump | Solana | 降温中 | 强度 82.16 | 质量 75.33
-  - 主题摘要：Multiple tokens named 「OnlyPump」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.24 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dev Comments on GPU Meme Coin | BSC | 加速中 | 强度 81.96 | 质量 78.52
+- Dev Comments on GPU Meme Coin | BSC | 加速中 | 强度 81.95 | 质量 78.52
   - 主题摘要：According to Dev's post, the author commented on a viral Meme image involving a Graphics Card (GPU) and a water bottle, suggesting the content should be associated with a Meme coi…
   - 资金 100.00 / 广度 84.32 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- He Yi's 7000+ Stocks Dream | BSC | 已确认 | 强度 80.98 | 质量 78.94
-  - 主题摘要：Binance Co-CEO Yi He promotes bStocks, claiming access to over 7,000 global stocks with 24/7 trading on Binance. This expands the definition of crypto exchange utility beyond trad…
-  - 资金 100.00 / 广度 82.54 / 确认 28.08 / 脆弱性 24.00
+- Alleged Pibblepan Meme Coin Launch | Solana | 已确认 | 强度 80.37 | 质量 79.13
+  - 主题摘要：According to Pibblepan's post, the individual announced the launch of an alleged meme coin named PIBBLE to counter impersonators profiting from similar tokens. Pibblepan stated th…
+  - 资金 100.00 / 广度 83.18 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Rescue Dog Survival Story | Solana | 降温中 | 强度 80.64 | 质量 70.69
-  - 主题摘要：According to People's post, a 9-pound rescue dog survived for two weeks after being lost, enduring busy roads, coyotes, and a mountain lion encounter. The post highlights the anim…
-  - 资金 100.00 / 广度 79.39 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BSC Deterministic Finality Explained | BSC | 已确认 | 强度 79.00 | 质量 76.52
+- OnlyPump | Solana | 点火期 | 强度 79.49 | 质量 76.58
+  - 主题摘要：Multiple tokens named 「OnlyPump」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.41 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- BSC Deterministic Finality Explained | BSC | 已确认 | 强度 78.98 | 质量 76.46
   - 主题摘要：BNB Chain官方账号解释其区块链架构中‘活性’与‘安全性’分离的设计选择，强调BSC采用确定性终局机制，确保交易一旦确认便不可逆转，为应用提供明确的操作信号。
-  - 资金 100.00 / 广度 83.98 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.99 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Choice | BSC | 加速中 | 强度 77.92 | 质量 78.29
+- Binance Choice | BSC | 已确认 | 强度 78.07 | 质量 78.83
   - 主题摘要：Binance officially asks users for the primary reason behind choosing their platform. This interaction highlights brand loyalty and user preferences within the crypto exchange land…
-  - 资金 100.00 / 广度 89.36 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.38 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Krutzky Trades on OWU | Solana | 加速中 | 强度 77.58 | 质量 76.55
+  - 主题摘要：According to Krutzky Trades's post, the author suggests that the token OWU (one wallet uncs) should be organized as a clan on the @tryfomo platform. This statement reflects a pers…
+  - 资金 100.00 / 广度 84.18 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Pibblepan Meme Coin Launch | Solana | 加速中 | 强度 75.68 | 质量 65.08
-  - 主题摘要：According to Pibblepan's post, the individual claims to be launching an official meme coin named PIBBLE to combat impersonators profiting from unauthorized tokens. Pibblepan state…
-  - 资金 100.00 / 广度 80.00 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Rescue Dog Survival Story | Solana | 点火期 | 强度 76.76 | 质量 74.58
+  - 主题摘要：According to People's post, a 9-pound rescue dog survived for two weeks after being lost, enduring busy roads, coyotes, and a mountain lion encounter. The post highlights the anim…
+  - 资金 100.00 / 广度 88.85 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 82.3，其中已确认叙事 4 个。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 82.82，其中已确认叙事 5 个。
+- TCC Inquires About ASTER Rewards 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - United States Oil Protocol 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- 0 | 质量 87.69 | 可交易性 100.00 | 风险 低
+- He Yi's 7000+ Stocks Dream | 质量 84.93 | 可交易性 100.00 | 风险 低
 - Uncertain:Alleged Tax-Free $GME on BSC | 质量 84.82 | 可交易性 100.00 | 风险 低
-- Jensen Huang NVIDIA Story | 质量 80.72 | 可交易性 100.00 | 风险 低
+- TCC Inquires About ASTER Rewards | 质量 82.85 | 可交易性 100.00 | 风险 低
 - Elon Musk Comments on Temperature | 质量 79.88 | 可交易性 100.00 | 风险 低
-- He Yi's 7000+ Stocks Dream | 质量 78.94 | 可交易性 100.00 | 风险 低
+- Alleged Pibblepan Meme Coin Launch | 质量 79.13 | 可交易性 100.00 | 风险 低
+- Binance Choice | 质量 78.83 | 可交易性 100.00 | 风险 低
 - Dev Comments on GPU Meme Coin | 质量 78.52 | 可交易性 100.00 | 风险 低
-- Binance Choice | 质量 78.29 | 可交易性 100.00 | 风险 低
-- BSC Deterministic Finality Explained | 质量 76.52 | 可交易性 90.48 | 风险 低
-- OnlyPump | 质量 75.33 | 可交易性 100.00 | 风险 低
-- United States Oil Protocol | 质量 74.39 | 可交易性 100.00 | 风险 低
+- OnlyPump | 质量 76.58 | 可交易性 100.00 | 风险 低
+- Krutzky Trades on OWU | 质量 76.55 | 可交易性 100.00 | 风险 低
+- BSC Deterministic Finality Explained | 质量 76.46 | 可交易性 90.27 | 风险 低
 
 ## 伪叙事风险
 
+- OnlyPump | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Rescue Dog Survival Story | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -101,7 +105,7 @@
 - BSC | BSC | 看多 | 新鲜度 100.00 | BSC Deterministic Finality Explained
 - RTX | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币有 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SWOGE | BSC | 看多 | 新鲜度 100.00 | 0
+- SWOGE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PVE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PalletTown | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CALLCAT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -130,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：0（BSC，分数 87.92）
-2. 共振最强代币：VENUSCOIN（BSC，共振 100.0）
-3. 记忆层变化：United States Oil Protocol 当前为“新出现”
+1. 当前最强叙事：TCC Inquires About ASTER Rewards（BSC，分数 88.04）
+2. 共振最强代币：ASTER（BSC，共振 100.0）
+3. 记忆层变化：TCC Inquires About ASTER Rewards 当前为“新出现”
 4. 最新官方催化：August Affiliate Dual-Star Program: Refer & Trade to Share the 500,000 USDC Prize Pool!
 #Binance #NarrativeOS #OpenClaw
