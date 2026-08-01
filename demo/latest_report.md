@@ -1,106 +1,108 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-01T14:12:23.296032+00:00
+- 生成时间：2026-08-01T15:15:42.396447+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Transnational Oil Supply，所在链为 Solana，叙事强度 86.94。
-- 当前平均叙事强度为 82.72，其中已确认叙事 0 个。
+- 当前最强叙事是 United States Uranium Reserve，所在链为 Solana，叙事强度 87.39。
+- 当前平均叙事强度为 83.55，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ASTEROID，来自 BSC，共振分数 100.0。
-- 记忆层显示 United States Uranium Reserve 当前处于“新出现”状态。
+- 记忆层显示 ZBCN 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 United States Oil Exchange，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：August Affiliate Dual-Star Program: Refer & Trade to Share the 500,000 USDC Prize Pool!。
 
 ## 叙事雷达
 
-- Transnational Oil Supply | Solana | 降温中 | 强度 86.94 | 质量 77.97
-  - 主题摘要：Multiple tokens named 「TNOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.03 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Oil Exchange | Solana | 降温中 | 强度 86.28 | 质量 78.07
-  - 主题摘要：Multiple tokens named 「USOX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.37 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USWR | Solana | 降温中 | 强度 84.40 | 质量 72.10
-  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.46 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TCC Inquires About ASTER Rewards | BSC | 已确认 | 强度 83.91 | 质量 85.60
-  - 主题摘要：According to TCC's post, the user inquired about the existence of any meme projects that reward holders with ASTER tokens. This reflects community interest in potential meme coins…
-  - 资金 100.00 / 广度 100.00 / 确认 34.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Global Oil Asset Plan | Solana | 降温中 | 强度 83.82 | 质量 75.18
-  - 主题摘要：Multiple tokens named 「GOAP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.73 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Uranium Reserve | Solana | 降温中 | 强度 83.59 | 质量 72.87
+- United States Uranium Reserve | Solana | 降温中 | 强度 87.39 | 质量 76.80
   - 主题摘要：Multiple tokens named 「USUR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.05 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 89.15 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USOS | Solana | 降温中 | 强度 83.08 | 质量 73.04
+- Transnational Oil Supply | Solana | 降温中 | 强度 87.16 | 质量 78.32
+  - 主题摘要：Multiple tokens named 「TNOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 94.20 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- ZBCN | Solana | 降温中 | 强度 84.89 | 质量 74.87
+  - 主题摘要：Multiple tokens named 「ZBCN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.86 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Global Oil Asset Plan | Solana | 降温中 | 强度 84.83 | 质量 75.20
+  - 主题摘要：Multiple tokens named 「GOAP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.80 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- USWR | Solana | 降温中 | 强度 84.48 | 质量 72.11
+  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.51 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- USOS | Solana | 降温中 | 强度 83.09 | 质量 73.05
   - 主题摘要：Multiple tokens named 「USOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.61 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.64 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Giggle Academy Dog | BSC | 加速中 | 强度 81.78 | 质量 77.69
+- Simon👊顶尖发布ASTEROID中文Meme图 | BSC | 加速中 | 强度 81.20 | 质量 73.26
+  - 主题摘要：According to Simon👊顶尖's post, the author questions the absence of a Chinese version of ASTEROID and announces the launch of the first Chinese ASTEROID on Flap. This information is…
+  - 资金 100.00 / 广度 77.75 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Giggle Academy Dog | BSC | 加速中 | 强度 80.53 | 质量 77.68
   - 主题摘要：Binance posted an image of the sun with the caption 'Look at the sun!'. The post does not mention any specific cryptocurrency tokens or projects.
-  - 资金 100.00 / 广度 82.31 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.44 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon CumRocket Questions CumRocket Launch | BSC | 已确认 | 强度 78.49 | 质量 76.03
-  - 主题摘要：According to Elon CumRocket 💦🚀's post, the user addressed @gork with a message regarding the 'CumRocket' token, asking about its potential expansion to 'Uranus and Beyond'. The po…
-  - 资金 100.00 / 广度 82.49 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Contrapair Launchpad | Solana | 降温中 | 强度 77.78 | 质量 62.33
-  - 主题摘要：According to JAKEBOPS's post, Contrapair is introduced as a new launchpad that allows users to tie stocks to coins.
-  - 资金 100.00 / 广度 80.56 / 确认 13.00 / 脆弱性 14.00
+- United States Oil Exchange | Solana | 降温中 | 强度 78.70 | 质量 72.16
+  - 主题摘要：Multiple tokens named 「USOX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 94.77 / 广度 81.62 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- House of Doge: Dogecoin ETF Celebration | BSC | 加速中 | 强度 76.93 | 质量 76.02
-  - 主题摘要：According to House of Doge's post, the organization celebrated the Dogecoin ETF launch at the Nasdaq Exchange in NYC with partner 21Shares. The post highlights Kimchi, a #ChooseMy…
-  - 资金 100.00 / 广度 82.97 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AxTrades Allegedly Releases $COWDOG Meme Image | Solana | 加速中 | 强度 75.84 | 质量 65.61
+- AxTrades Allegedly Releases $COWDOG Meme Image | Solana | 加速中 | 强度 77.84 | 质量 66.14
   - 主题摘要：According to AxTrades's post, a viral video featuring a dog in a cow costume is associated with the $cowdog token. AxTrades claims the post has reached 1.1 million views. This inf…
-  - 资金 100.00 / 广度 78.07 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.41 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Max Meme Coin | BSC | 加速中 | 强度 75.08 | 质量 64.16
-  - 主题摘要：According to jamessmith's post, the content references a dog named Max, which is associated with the Max Dog token. This appears to be a Meme image sharing the name. This informat…
-  - 资金 100.00 / 广度 77.51 / 确认 24.48 / 脆弱性 14.00
+- Elon CumRocket Questions CumRocket Launch | BSC | 加速中 | 强度 77.68 | 质量 75.68
+  - 主题摘要：According to Elon CumRocket 💦🚀's post, the user addressed @gork with a message regarding the 'CumRocket' token, asking about its potential expansion to 'Uranus and Beyond'. The po…
+  - 资金 100.00 / 广度 82.35 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- sharkdog | BSC | 加速中 | 强度 75.06 | 质量 74.18
+- sharkdog | BSC | 加速中 | 强度 76.66 | 质量 74.46
   - 主题摘要：According to Chris Daniel🔶 买美股上币安's post, Chris Daniel suggests that Giggle should utilize the US S&P Index for educational purposes, drawing a parallel to Trump's account where a…
-  - 资金 100.00 / 广度 80.92 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 80.99 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- SpaceX Mascot Plushie Re-stock | BSC | 加速中 | 强度 75.82 | 质量 69.89
+  - 主题摘要：According to Tesla Owners Silicon Valley's post, the SpaceX mascot plushie named Asteroid Shiba is scheduled to be re-stocked in September. The post highlights the anticipation fo…
+  - 资金 100.00 / 广度 79.61 / 确认 18.72 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Max Meme Coin | BSC | 加速中 | 强度 73.07 | 质量 64.12
+  - 主题摘要：According to jamessmith's post, the content references a dog named Max, which is associated with the Max Dog token. This appears to be a Meme image sharing the name. This informat…
+  - 资金 100.00 / 广度 77.88 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.72，其中已确认叙事 0 个。
-- House of Doge: Dogecoin ETF Celebration 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Transnational Oil Supply 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.55，其中已确认叙事 0 个。
+- Simon👊顶尖发布ASTEROID中文Meme图 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- United States Uranium Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- TCC Inquires About ASTER Rewards | 质量 85.60 | 可交易性 100.00 | 风险 低
-- United States Oil Exchange | 质量 78.07 | 可交易性 100.00 | 风险 低
-- Transnational Oil Supply | 质量 77.97 | 可交易性 100.00 | 风险 低
-- Giggle Academy Dog | 质量 77.69 | 可交易性 98.72 | 风险 低
-- Elon CumRocket Questions CumRocket Launch | 质量 76.03 | 可交易性 90.34 | 风险 低
-- House of Doge: Dogecoin ETF Celebration | 质量 76.02 | 可交易性 91.50 | 风险 低
-- Global Oil Asset Plan | 质量 75.18 | 可交易性 100.00 | 风险 低
-- sharkdog | 质量 74.18 | 可交易性 88.38 | 风险 低
-- USOS | 质量 73.04 | 可交易性 100.00 | 风险 低
-- United States Uranium Reserve | 质量 72.87 | 可交易性 100.00 | 风险 低
+- Transnational Oil Supply | 质量 78.32 | 可交易性 100.00 | 风险 低
+- Giggle Academy Dog | 质量 77.68 | 可交易性 98.55 | 风险 低
+- United States Uranium Reserve | 质量 76.80 | 可交易性 100.00 | 风险 低
+- Elon CumRocket Questions CumRocket Launch | 质量 75.68 | 可交易性 89.86 | 风险 低
+- Global Oil Asset Plan | 质量 75.20 | 可交易性 100.00 | 风险 低
+- ZBCN | 质量 74.87 | 可交易性 100.00 | 风险 低
+- sharkdog | 质量 74.46 | 可交易性 89.27 | 风险 低
+- Simon👊顶尖发布ASTEROID中文Meme图 | 质量 73.26 | 可交易性 88.51 | 风险 低
+- USOS | 质量 73.05 | 可交易性 100.00 | 风险 低
+- United States Oil Exchange | 质量 72.16 | 可交易性 92.05 | 风险 低
 
 ## 伪叙事风险
 
+- United States Oil Exchange | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - ASTEROID | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- ASTEROID | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 小股东 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 潜力股 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币有 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- ASTEROID | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Max | BSC | 看多 | 新鲜度 100.00 | Alleged Max Meme Coin
 - PVE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PalletTown | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Transnational Oil Supply（Solana，分数 86.94）
+1. 当前最强叙事：United States Uranium Reserve（Solana，分数 87.39）
 2. 共振最强代币：ASTEROID（BSC，共振 100.0）
-3. 记忆层变化：United States Uranium Reserve 当前为“新出现”
+3. 记忆层变化：ZBCN 当前为“新出现”
 4. 最新官方催化：August Affiliate Dual-Star Program: Refer & Trade to Share the 500,000 USDC Prize Pool!
 #Binance #NarrativeOS #OpenClaw
