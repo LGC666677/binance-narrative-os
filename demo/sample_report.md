@@ -1,102 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-02T20:32:47.807288+00:00
+- 生成时间：2026-08-02T21:31:46.199977+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：1
+- 已确认叙事：2
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Uncertain:justadev Questions Binance People Token，所在链为 BSC，叙事强度 83.5。
-- 当前平均叙事强度为 76.72，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 BLESS，来自 BSC，共振分数 100.0。
-- 记忆层显示 United Global Oil Reserve 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 United States Oil Collective，伪叙事风险 52.99。
+- 当前最强叙事是 United States Uranium Reserve，所在链为 Solana，叙事强度 86.42。
+- 当前平均叙事强度为 80.5，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 CATE，来自 BSC，共振分数 100.0。
+- 记忆层显示 United States Uranium Reserve 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Shelby Meme Coin，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：August Affiliate Dual-Star Program: Refer & Trade to Share the 500,000 USDC Prize Pool!。
 
 ## 叙事雷达
 
-- Uncertain:justadev Questions Binance People Token | BSC | 已确认 | 强度 83.50 | 质量 83.61
+- United States Uranium Reserve | Solana | 降温中 | 强度 86.42 | 质量 79.07
+  - 主题摘要：Multiple tokens named 「USUR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 96.69 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- United Global Oil Reserve | Solana | 降温中 | 强度 84.47 | 质量 72.04
+  - 主题摘要：Multiple tokens named 「UGOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.27 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- American Oil Relief Program | Solana | 降温中 | 强度 83.46 | 质量 71.37
+  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.89 / 确认 0.00 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:justadev Questions Binance People Token | BSC | 已确认 | 强度 82.97 | 质量 83.31
   - 主题摘要：According to justadev's post, the author questions whether Binance users can receive token distributions similar to Mars inhabitants receiving Mars coins, referencing the 'Binance…
   - 资金 100.00 / 广度 96.91 / 确认 42.60 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- United Global Oil Reserve | Solana | 降温中 | 强度 83.27 | 质量 70.83
-  - 主题摘要：Multiple tokens named 「UGOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.25 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged CATECOIN Meme Image | Solana | 降温中 | 强度 83.19 | 质量 73.39
-  - 主题摘要：According to CATECOIN's post, a Meme image was shared depicting a cat sitting on gold, promoting the CATECOIN token. The post claims the token is 'minted in gold' and invites user…
-  - 资金 100.00 / 广度 77.77 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Shelby Meme Coin | Solana | 降温中 | 强度 81.95 | 质量 75.57
+- Alleged Shelby Meme Coin | Solana | 点火期 | 强度 79.42 | 质量 75.47
   - 主题摘要：According to TOM 🦞's post, a bear named Shelby was spotted in Alabama, sparking viral interest on Reddit. The post references the 'Shelby County Bear' token, linking the animal si…
-  - 资金 100.00 / 广度 82.11 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Sapijiju YouTube Link | Solana | 加速中 | 强度 80.21 | 质量 79.28
+  - 资金 100.00 / 广度 82.15 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Sapijiju YouTube Link | Solana | 加速中 | 强度 79.30 | 质量 79.18
   - 主题摘要：According to Sapijiju's post, a YouTube video link was shared. The specific content of the video is not provided in the text, and no relevant cryptocurrency tokens from the list a…
-  - 资金 100.00 / 广度 86.83 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.52 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Official Official Coin | Solana | 加速中 | 强度 78.54 | 质量 74.97
-  - 主题摘要：OFFICIAL is a self-deprecating meme token that positions itself as 'the official coin of all official coins.' The logo features a blue checkmark, symbolizing its self-awareness. T…
-  - 资金 100.00 / 广度 75.42 / 确认 20.16 / 脆弱性 50.15
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged ANSEM INU Token Launch | Solana | 降温中 | 强度 78.28 | 质量 65.98
-  - 主题摘要：According to ANSEM INU's post, the entity claims to be launching the ANSEM INU token on the Solana blockchain, describing it as a meme coin combining COPPERINU DNA and ANSEM energ…
-  - 资金 100.00 / 广度 67.93 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MLB Meowt Meme | Solana | 点火期 | 强度 78.15 | 质量 78.73
-  - 主题摘要：According to MLB's post, the official account shared a Meme image with the caption "Take Meowt to the Ballgame!", referencing the token symbol MEOWT. This content highlights a cro…
-  - 资金 100.00 / 广度 90.30 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:CZ Shares Bicasso NFT | BSC | 加速中 | 强度 77.40 | 质量 77.00
+- Uncertain:CZ Shares Bicasso NFT | BSC | 已确认 | 强度 79.26 | 质量 77.27
   - 主题摘要：CZ shared a Meme image in reply to a post announcing the return of the #BinanceBicasso campaign. The campaign allows users to mint AI-generated profile pictures for free, with a l…
-  - 资金 100.00 / 广度 90.38 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.36 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- MLB Meowt Meme | Solana | 加速中 | 强度 78.76 | 质量 79.49
+  - 主题摘要：According to MLB's post, the official account shared a Meme image with the caption "Take Meowt to the Ballgame!", referencing the token symbol MEOWT. This content highlights a cro…
+  - 资金 100.00 / 广度 90.17 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 404 Dev Claims Crypto Users Shift to Flap | BSC | 加速中 | 强度 75.41 | 质量 72.88
-  - 主题摘要：According to 404 Dev's post, the author claims that Crypto People United (CPU) has a CPU while Four has a GPU, and asserts that all crypto players are migrating to Flap and will n…
-  - 资金 100.00 / 广度 84.58 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged First Cat in Crypto | BSC | 加速中 | 强度 75.39 | 质量 70.09
+- Alleged Frogecoin Meme | Solana | 降温中 | 强度 76.10 | 质量 62.02
+  - 主题摘要：According to Armoski.Sol's post, the author speculates on the potential launch of a token named 'frogecoin' (FROGE), suggesting it should follow the success of 'Catecoin' which re…
+  - 资金 100.00 / 广度 79.91 / 确认 15.84 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged First DOGE Meme Origin | Solana | 降温中 | 强度 76.07 | 质量 66.40
+  - 主题摘要：According to Quant's post, the author claims to have identified the original Samoyed dog image as the very first DOGE meme, asserting that the DOGE brand appropriated this templat…
+  - 资金 100.00 / 广度 81.35 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged First Cat in Crypto | BSC | 加速中 | 强度 75.11 | 质量 70.04
   - 主题摘要：According to le /B // hit that gas so hard make it rotate's post, the author claims that Sirius is the first cat in cryptocurrency history, citing an image sent to 17 million peop…
-  - 资金 100.00 / 广度 76.40 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.44 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:justadev Comments on CZ's MIM Dividend | BSC | 加速中 | 强度 75.38 | 质量 68.71
+- 404 Dev Claims Crypto Users Shift to Flap | BSC | 加速中 | 强度 74.63 | 质量 73.55
+  - 主题摘要：According to 404 Dev's post, the author claims that Crypto People United (CPU) has a CPU while Four has a GPU, and asserts that all crypto players are migrating to Flap and will n…
+  - 资金 100.00 / 广度 84.58 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 共生 | BSC | 加速中 | 强度 73.46 | 质量 60.75
+  - 主题摘要：According to Wu Blockchain's post, the Central Bank of China announced Pan Gongsheng as its new head. The post highlights a 2017 statement by Pan, in which he remarked that one da…
+  - 资金 100.00 / 广度 71.88 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:justadev Comments on CZ's MIM Dividend | BSC | 加速中 | 强度 73.07 | 质量 68.35
   - 主题摘要：According to justadev's post, the author commented on CZ's reference to Bitcoin as "Magic internet money" and suggested sending it with BTCB dividends. The post quotes CZ's tweet…
-  - 资金 100.00 / 广度 79.30 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- United States Oil Collective | Solana | 点火期 | 强度 73.44 | 质量 71.22
-  - 主题摘要：Multiple tokens named 「USOC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.68 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Elon Musk Alleged Anime Bitcoin | BSC | 加速中 | 强度 73.24 | 质量 67.08
-  - 主题摘要：Elon Musk posted a reply to @Bitcoin asking about the price of 'anime Bitcoin' and shared a link, allegedly launching the ABTC token. This information is unverified. Please exerci…
-  - 资金 100.00 / 广度 81.71 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.30 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.72，其中已确认叙事 1 个。
-- Uncertain:justadev Comments on CZ's MIM Dividend 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- United Global Oil Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.5，其中已确认叙事 0 个。
+- 共生 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- United States Uranium Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:justadev Questions Binance People Token | 质量 83.61 | 可交易性 100.00 | 风险 低
-- Sapijiju YouTube Link | 质量 79.28 | 可交易性 100.00 | 风险 低
-- MLB Meowt Meme | 质量 78.73 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Shares Bicasso NFT | 质量 77.00 | 可交易性 83.07 | 风险 低
-- Alleged Shelby Meme Coin | 质量 75.57 | 可交易性 97.65 | 风险 低
-- Official Official Coin | 质量 74.97 | 可交易性 99.69 | 风险 低
-- Alleged CATECOIN Meme Image | 质量 73.39 | 可交易性 100.00 | 风险 低
-- 404 Dev Claims Crypto Users Shift to Flap | 质量 72.88 | 可交易性 96.76 | 风险 低
-- United States Oil Collective | 质量 71.22 | 可交易性 97.87 | 风险 低
-- United Global Oil Reserve | 质量 70.83 | 可交易性 100.00 | 风险 低
+- Uncertain:justadev Questions Binance People Token | 质量 83.31 | 可交易性 100.00 | 风险 低
+- MLB Meowt Meme | 质量 79.49 | 可交易性 100.00 | 风险 低
+- Sapijiju YouTube Link | 质量 79.18 | 可交易性 100.00 | 风险 低
+- United States Uranium Reserve | 质量 79.07 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Shares Bicasso NFT | 质量 77.27 | 可交易性 83.96 | 风险 低
+- Alleged Shelby Meme Coin | 质量 75.47 | 可交易性 97.27 | 风险 低
+- 404 Dev Claims Crypto Users Shift to Flap | 质量 73.55 | 可交易性 96.64 | 风险 低
+- United Global Oil Reserve | 质量 72.04 | 可交易性 100.00 | 风险 低
+- American Oil Relief Program | 质量 71.37 | 可交易性 100.00 | 风险 低
+- Alleged First Cat in Crypto | 质量 70.04 | 可交易性 76.43 | 风险 低
 
 ## 伪叙事风险
 
-- United States Oil Collective | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- MLB Meowt Meme | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Official Official Coin | 风险 45.95 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Alleged Shelby Meme Coin | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- United States Uranium Reserve | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -135,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Uncertain:justadev Questions Binance People Token（BSC，分数 83.5）
-2. 共振最强代币：BLESS（BSC，共振 100.0）
-3. 记忆层变化：United Global Oil Reserve 当前为“新出现”
+1. 当前最强叙事：United States Uranium Reserve（Solana，分数 86.42）
+2. 共振最强代币：CATE（BSC，共振 100.0）
+3. 记忆层变化：United States Uranium Reserve 当前为“新出现”
 4. 最新官方催化：August Affiliate Dual-Star Program: Refer & Trade to Share the 500,000 USDC Prize Pool!
 #Binance #NarrativeOS #OpenClaw
