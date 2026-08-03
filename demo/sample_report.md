@@ -1,114 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-03T22:45:16.875131+00:00
+- 生成时间：2026-08-03T23:55:00.137409+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
-- 高风险伪叙事：1
+- 已确认叙事：5
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Dino Anxious Dog Meme Image，所在链为 Solana，叙事强度 88.03。
-- 当前平均叙事强度为 82.69，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ON，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged CWS Token Launch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged $LMEOW Meme Coin，伪叙事风险 50.11。
+- 当前最强叙事是 United States Oil Collective，所在链为 Solana，叙事强度 85.68。
+- 当前平均叙事强度为 85.4，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TESTICLE，来自 Solana，共振分数 100.0。
+- 记忆层显示 United States Oil Collective 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：SAHARA Airdrop Carnival: Claim Your Share of 2,000,000 SAHARA。
 
 ## 叙事雷达
 
-- Alleged Dino Anxious Dog Meme Image | Solana | 降温中 | 强度 88.03 | 质量 79.55
-  - 主题摘要：According to Hughman's post, a dog named Dino was given a human doll to alleviate separation anxiety. This content is associated with tokens named Dino or The Anxious Dog. The ass…
-  - 资金 100.00 / 广度 95.65 / 确认 12.96 / 脆弱性 14.00
+- United States Oil Collective | Solana | 降温中 | 强度 85.68 | 质量 73.64
+  - 主题摘要：Multiple tokens named 「USOC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.32 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Uranium Reserve | Solana | 降温中 | 强度 85.71 | 质量 76.32
-  - 主题摘要：Multiple tokens named 「USUR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.52 / 确认 9.36 / 脆弱性 14.00
+- Grand Theft Auto VI | Solana | 降温中 | 强度 85.38 | 质量 73.11
+  - 主题摘要：Multiple tokens named 「GTAVI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.83 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- American Oil Relief Program | Solana | 降温中 | 强度 85.35 | 质量 75.40
-  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.46 / 确认 9.36 / 脆弱性 14.00
+- Alleged DOGE Dev poorgoat CATE Coin | Solana | 降温中 | 强度 85.36 | 质量 75.42
+  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.53 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MEGUSTA | Solana | 加速中 | 强度 81.81 | 质量 75.10
-  - 主题摘要：MEGUSTA is a meme token inspired by internet culture, featuring a simple, cartoon-style face logo with a neutral expression. The token embraces humor and community engagement thro…
-  - 资金 100.00 / 广度 75.54 / 确认 20.16 / 脆弱性 10.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged WOWCOIN Meme Launch | Solana | 降温中 | 强度 81.01 | 质量 73.02
-  - 主题摘要：According to migratoor's post, the author criticizes the repetitive nature of Doge memes and proposes a new concept called WOWCOIN, featuring the phrase 'Much Wow Such Virality Ma…
-  - 资金 100.00 / 广度 76.52 / 确认 9.36 / 脆弱性 24.00
+- Alleged PoorGoat CATE Coin Deployment | Solana | 降温中 | 强度 85.36 | 质量 75.42
+  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.53 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged CWS Token Launch | Solana | 降温中 | 强度 80.88 | 质量 70.58
-  - 主题摘要：According to miabow 🎀's post, the author claims to have identified a viral TikTok video featuring a cat and alleges that a token named CWS (Cat With Shoes) is being launched with…
-  - 资金 100.00 / 广度 63.13 / 确认 16.56 / 脆弱性 14.00
+- Alleged CATE Coin Fee Claim | Solana | 降温中 | 强度 85.36 | 质量 75.42
+  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.53 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nina Rong: TradFi Meets Memefi | BSC | 已确认 | 强度 80.77 | 质量 81.94
-  - 主题摘要：According to Nina Rong's post, she commented on the integration of traditional finance (TradFi) with Memefi, specifically referencing Flap bStocks on BNB Chain powered by PancakeS…
-  - 资金 100.00 / 广度 92.53 / 确认 28.08 / 脆弱性 24.00
+- ERROR Discusses CATE Token | Solana | 降温中 | 强度 85.36 | 质量 75.42
+  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.53 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged CATE Meme Coin | Solana | 降温中 | 强度 85.36 | 质量 75.42
+  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.53 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Poor Goat Cate Coin Manipulation | Solana | 降温中 | 强度 85.36 | 质量 75.42
+  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.53 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Nina Rong: TradFi Meets Memefi | BSC | 已确认 | 强度 82.31 | 质量 81.93
+  - 主题摘要：According to Nina Rong's post, she commented on the integration of traditional finance (TradFi) with Memefi within the BNB Chain ecosystem, specifically referencing Flap bStocks p…
+  - 资金 100.00 / 广度 92.52 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon's AI Tsunami | BSC | 已确认 | 强度 80.39 | 质量 81.76
+- Elon's AI Tsunami | BSC | 已确认 | 强度 79.19 | 质量 81.76
   - 主题摘要：Elon Musk describes AI as a 'supersonic tsunami,' highlighting the overwhelming and rapid impact of artificial intelligence on society. This powerful metaphor captures the urgency…
-  - 资金 100.00 / 广度 91.93 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.95 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Launch of Juying Meme Token | BSC | 已确认 | 强度 79.72 | 质量 80.92
+- Alleged Launch of Juying Meme Token | BSC | 已确认 | 强度 78.54 | 质量 80.93
   - 主题摘要：According to 链上角度王's post, the author claims that Elon Musk aims to create a company to compete with Microsoft, naming it MACROHARD (巨硬). The post urges followers to send the MACR…
-  - 资金 100.00 / 广度 86.51 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.55 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- SOUNDSBIG | Solana | 降温中 | 强度 79.69 | 质量 68.16
-  - 主题摘要：Multiple tokens named 「SOUNDSBIG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 60.32 / 确认 9.36 / 脆弱性 1.94
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $LMEOW Meme Coin | Solana | 点火期 | 强度 79.07 | 质量 78.94
-  - 主题摘要：According to guzillier's post, the user claims that the token $LMEOW is the meme prophesied to billions while CATE is running. This information is unverified. Please exercise caut…
-  - 资金 100.00 / 广度 95.38 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Franklin on BNB Chain | BSC | 加速中 | 强度 77.87 | 质量 75.61
-  - 主题摘要：BNB Chain 官方借 RWA Foundation 的数据，幽默引用本杰明·富兰克林的典故，调侃现实世界资产（RWA）在 BNB Chain 上的绝对统治地位，将其与死亡和税收并列。
-  - 资金 100.00 / 广度 92.07 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Robin Claims Butterfly Updated Google Stock Code | BSC | 加速中 | 强度 77.10 | 质量 74.60
-  - 主题摘要：According to robin's post, the Butterfly project has updated its Google stock code and added a stock pool. The post also references Microsoft tokens, suggesting a connection to Mi…
-  - 资金 100.00 / 广度 83.50 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ on Backup | BSC | 加速中 | 强度 76.58 | 质量 75.71
+- CZ on Backup | BSC | 已确认 | 强度 78.30 | 质量 76.19
   - 主题摘要：CZ分享了一篇关于如何安全备份助记词的长文，强调安全性但缺乏娱乐性或争议性，难以引发Meme传播。
-  - 资金 100.00 / 广度 92.61 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 92.65 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Franklin on BNB Chain | BSC | 已确认 | 强度 78.12 | 质量 75.70
+  - 主题摘要：BNB Chain 官方借 RWA Foundation 的数据，幽默引用本杰明·富兰克林的典故，调侃现实世界资产（RWA）在 BNB Chain 上的绝对统治地位，将其与死亡和税收并列。
+  - 资金 100.00 / 广度 92.11 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- REAL WORLD APPAREL | BSC | 加速中 | 强度 77.47 | 质量 66.22
+  - 主题摘要：Multiple tokens named 「JACKET」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.50 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.69，其中已确认叙事 0 个。
-- Robin Claims Butterfly Updated Google Stock Code 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged Dino Anxious Dog Meme Image 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.4，其中已确认叙事 0 个。
+- REAL WORLD APPAREL 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- United States Oil Collective 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Nina Rong: TradFi Meets Memefi | 质量 81.94 | 可交易性 100.00 | 风险 低
+- Nina Rong: TradFi Meets Memefi | 质量 81.93 | 可交易性 100.00 | 风险 低
 - Elon's AI Tsunami | 质量 81.76 | 可交易性 100.00 | 风险 低
-- Alleged Launch of Juying Meme Token | 质量 80.92 | 可交易性 100.00 | 风险 低
-- Alleged Dino Anxious Dog Meme Image | 质量 79.55 | 可交易性 100.00 | 风险 低
-- Alleged $LMEOW Meme Coin | 质量 78.94 | 可交易性 98.24 | 风险 低
-- United States Uranium Reserve | 质量 76.32 | 可交易性 100.00 | 风险 低
-- CZ on Backup | 质量 75.71 | 可交易性 100.00 | 风险 低
-- Franklin on BNB Chain | 质量 75.61 | 可交易性 100.00 | 风险 低
-- American Oil Relief Program | 质量 75.40 | 可交易性 100.00 | 风险 低
-- MEGUSTA | 质量 75.10 | 可交易性 100.00 | 风险 低
+- Alleged Launch of Juying Meme Token | 质量 80.93 | 可交易性 100.00 | 风险 低
+- CZ on Backup | 质量 76.19 | 可交易性 100.00 | 风险 低
+- Franklin on BNB Chain | 质量 75.70 | 可交易性 100.00 | 风险 低
+- Alleged DOGE Dev poorgoat CATE Coin | 质量 75.42 | 可交易性 100.00 | 风险 低
+- Alleged PoorGoat CATE Coin Deployment | 质量 75.42 | 可交易性 100.00 | 风险 低
+- Alleged CATE Coin Fee Claim | 质量 75.42 | 可交易性 100.00 | 风险 低
+- ERROR Discusses CATE Token | 质量 75.42 | 可交易性 100.00 | 风险 低
+- Alleged CATE Meme Coin | 质量 75.42 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged $LMEOW Meme Coin | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged WOWCOIN Meme Launch | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - GPU | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FRANKLIN | BSC | 看多 | 新鲜度 100.00 | Franklin on BNB Chain
-- CLIPPY | BSC | 看多 | 新鲜度 100.00 | Robin Claims Butterfly Updated Google Stock Code
+- CLIPPY | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MACROHARD | BSC | 看多 | 新鲜度 100.00 | Elon's AI Tsunami / Alleged Launch of Juying Meme Token
 - MEMEFI | BSC | 看多 | 新鲜度 100.00 | Nina Rong: TradFi Meets Memefi
-- CATE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Doom | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- lmeow | Solana | 看多 | 新鲜度 100.00 | Alleged $LMEOW Meme Coin
+- lmeow | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - NEKO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Cocoro | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Planet | Solana | 看多 | 新鲜度 97.43 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Dino Anxious Dog Meme Image（Solana，分数 88.03）
-2. 共振最强代币：ON（BSC，共振 100.0）
-3. 记忆层变化：Alleged CWS Token Launch 当前为“新出现”
+1. 当前最强叙事：United States Oil Collective（Solana，分数 85.68）
+2. 共振最强代币：TESTICLE（Solana，共振 100.0）
+3. 记忆层变化：United States Oil Collective 当前为“新出现”
 4. 最新官方催化：SAHARA Airdrop Carnival: Claim Your Share of 2,000,000 SAHARA
 #Binance #NarrativeOS #OpenClaw
