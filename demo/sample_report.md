@@ -1,114 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-04T21:42:52.180827+00:00
+- 生成时间：2026-08-04T22:42:48.617348+00:00
 - 跟踪叙事：14
 - 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged SisyphusCat Token，所在链为 Solana，叙事强度 88.66。
-- 当前平均叙事强度为 79.97，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged SisyphusCat Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 USUR，伪叙事风险 48.38。
+- 当前最强叙事是 USUR，所在链为 Solana，叙事强度 86.53。
+- 当前平均叙事强度为 83.76，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 JIMOTHY，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged JEFF Meme Coin 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged TikTok Coin Analysis，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Grvt (GRVT) and Share $200K Worth of Rewards (2026-08-04)。
 
 ## 叙事雷达
 
-- Alleged SisyphusCat Token | Solana | 已确认 | 强度 88.66 | 质量 81.95
-  - 主题摘要：According to slendermen3000's post, a viral video of a determined cat, dubbed the 'Sisyphus Cat,' has inspired the creation of related Meme images. Concurrently, multiple tokens w…
-  - 资金 100.00 / 广度 89.89 / 确认 31.72 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance 3B Users | BSC | 已确认 | 强度 86.13 | 质量 85.60
-  - 主题摘要：Binance official account teased a massive expansion goal targeting 3 billion users, positioning a single account as the hub for one's entire financial life, sparking curiosity abo…
-  - 资金 100.00 / 广度 100.00 / 确认 34.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- USUR | Solana | 降温中 | 强度 85.33 | 质量 80.06
+- USUR | Solana | 降温中 | 强度 86.53 | 质量 80.06
   - 主题摘要：Multiple tokens named 「USUR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 38.21
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 28.21
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He: Financial Infrastructure | BSC | 已确认 | 强度 83.58 | 质量 80.42
-  - 主题摘要：Binance Co-CEO Yi He publicly reaffirms Binance's ambition to become the world's financial infrastructure, emphasizing institutional-grade adoption and accessibility for the next…
-  - 资金 100.00 / 广度 87.47 / 确认 28.08 / 脆弱性 14.00
+- Alleged SisyphusCat Token | Solana | 已确认 | 强度 86.12 | 质量 81.60
+  - 主题摘要：According to slendermen3000's post, a viral video of a determined cat, dubbed the 'Sisyphus Cat,' has inspired the creation of related Meme images. Concurrently, multiple tokens w…
+  - 资金 100.00 / 广度 91.15 / 确认 35.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Commodity Options | BSC | 加速中 | 强度 80.50 | 质量 75.68
-  - 主题摘要：Binance officially announces the availability of Gold and Silver options trading directly on its platform, emphasizing the convenience of using existing accounts without needing n…
-  - 资金 100.00 / 广度 84.53 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Why Binance? | BSC | 加速中 | 强度 80.37 | 质量 74.61
-  - 主题摘要：Binance official account asks users to vote on the primary reason they choose the platform, highlighting security, compliance, innovation, support, and performance. This engagemen…
-  - 资金 100.00 / 广度 83.66 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Vanguard Oil Retirement Fund | Solana | 降温中 | 强度 78.88 | 质量 67.63
-  - 主题摘要：Multiple tokens named 「VORF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 58.58 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Jeff The Hog Meme | Solana | 加速中 | 强度 78.72 | 质量 67.91
+- Binance 3B Users | BSC | 已确认 | 强度 84.81 | 质量 85.60
+  - 主题摘要：Binance official account teased a massive expansion goal targeting 3 billion users, positioning a single account as the hub for one's entire financial life, sparking curiosity abo…
+  - 资金 100.00 / 广度 100.00 / 确认 34.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Yi He: Financial Infrastructure | BSC | 已确认 | 强度 83.72 | 质量 80.37
+  - 主题摘要：Binance Co-CEO Yi He publicly reaffirms Binance's ambition to become the world's financial infrastructure, emphasizing institutional-grade adoption and accessibility for the next…
+  - 资金 100.00 / 广度 87.32 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Jeff The Hog Meme | Solana | 加速中 | 强度 83.55 | 质量 77.85
   - 主题摘要：According to Sizzle Developer's post, a TikTok video featuring a beaver named Jeff has gone viral with nearly 100 million views. The author notes that comments mock the beaver as…
-  - 资金 99.28 / 广度 82.14 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.70 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bezos Files to Sell Amazon Shares | Solana | 加速中 | 强度 77.85 | 质量 67.12
+- Bezos Files to Sell Amazon Shares | Solana | 加速中 | 强度 83.32 | 质量 77.50
   - 主题摘要：According to tradfi news's post, Jeff Bezos has filed to sell Amazon shares valued at $4.07 billion. This financial disclosure regarding the Amazon co-founder's equity transaction…
-  - 资金 99.18 / 广度 80.77 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.56 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged TikTok Coin Failure and X Coin Promotion | Solana | 降温中 | 强度 77.46 | 质量 63.53
-  - 主题摘要：Multiple tokens named 「X」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.79 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged SPCX Token Launch | BSC | 加速中 | 强度 77.10 | 质量 78.19
-  - 主题摘要：According to tradfi news's post, SpaceX is partnering with NVIDIA, associated with the ticker #SPCX. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 82.84 / 确认 27.36 / 脆弱性 24.00
+- Alleged JEFF Meme Coin | Solana | 加速中 | 强度 83.23 | 质量 77.34
+  - 主题摘要：According to patch's post, a groundhog named Jeff has gained viral attention on TikTok for receiving homecooked meals, sparking widespread meme culture. This trend is associated w…
+  - 资金 100.00 / 广度 83.00 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged TikTok Coin Analysis | Solana | 点火期 | 强度 76.60 | 质量 68.34
-  - 主题摘要：According to the post, the alleged TikTok Coin has a market cap of 1.3 million, having risen from 4 million earlier. The post attributes the price surge to Jack Duval paying for p…
-  - 资金 100.00 / 广度 86.92 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- TMZ Reports Theater Evacuation | Solana | 加速中 | 强度 76.24 | 质量 63.30
+- Jeff Bezos Sells Amazon Stock | Solana | 加速中 | 强度 83.14 | 质量 77.34
+  - 主题摘要：According to Polymarket's post, Jeff Bezos reportedly sold $4,070,000,000.00 worth of Amazon stock. This significant financial transaction has been highlighted as breaking news by…
+  - 资金 100.00 / 广度 83.03 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- TMZ Reports Theater Evacuation | Solana | 加速中 | 强度 82.98 | 质量 77.35
   - 主题摘要：According to TMZ's post, fans of the movie "Spider-Man" evacuated a theater due to a moviegoer's smelly farts. The report cites JamPress as the source of the incident.
-  - 资金 99.41 / 广度 79.93 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.06 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Starmind Token | BSC | 加速中 | 强度 74.14 | 质量 67.54
-  - 主题摘要：Multiple tokens named 「STARMIND」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.31 / 确认 24.48 / 脆弱性 14.00
+- Alleged TikTok Coin Analysis | Solana | 点火期 | 强度 81.19 | 质量 77.07
+  - 主题摘要：According to the post, the alleged TikTok Coin has a market cap of 1.3 million, having risen from 4 million earlier. The post attributes the price increase to Jack Duval paying fo…
+  - 资金 100.00 / 广度 90.05 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance Commodity Options | BSC | 加速中 | 强度 80.67 | 质量 75.67
+  - 主题摘要：Binance officially announces the availability of Gold and Silver options trading directly on its platform, emphasizing the convenience of using existing accounts without needing n…
+  - 资金 100.00 / 广度 84.40 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- XBT as Bitcoin ISO Code | BSC | 加速中 | 强度 79.83 | 质量 75.13
+  - 主题摘要：According to doug smug's post, the author states that "XBT" is the ISO 4217 style currency code for Bitcoin, similar to how USD represents the US dollar and EUR represents the Eur…
+  - 资金 100.00 / 广度 75.66 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Why Binance? | BSC | 加速中 | 强度 79.59 | 质量 74.45
+  - 主题摘要：Binance official account asks users to vote on the primary reason they choose the platform, highlighting security, compliance, innovation, support, and performance. This engagemen…
+  - 资金 100.00 / 广度 83.67 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged SPCX Token Launch | BSC | 加速中 | 强度 76.96 | 质量 78.07
+  - 主题摘要：According to tradfi news's post, SpaceX is partnering with NVIDIA, associated with the ticker #SPCX. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 82.88 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.97，其中已确认叙事 1 个。
-- Alleged SisyphusCat Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.76，其中已确认叙事 1 个。
+- Alleged JEFF Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - USUR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Binance 3B Users | 质量 85.60 | 可交易性 100.00 | 风险 低
-- Alleged SisyphusCat Token | 质量 81.95 | 可交易性 100.00 | 风险 低
-- Yi He: Financial Infrastructure | 质量 80.42 | 可交易性 100.00 | 风险 低
+- Alleged SisyphusCat Token | 质量 81.60 | 可交易性 94.92 | 风险 低
+- Yi He: Financial Infrastructure | 质量 80.37 | 可交易性 100.00 | 风险 低
 - USUR | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Alleged SPCX Token Launch | 质量 78.19 | 可交易性 97.72 | 风险 低
-- Binance Commodity Options | 质量 75.68 | 可交易性 89.79 | 风险 低
-- Why Binance? | 质量 74.61 | 可交易性 87.61 | 风险 低
-- Alleged TikTok Coin Analysis | 质量 68.34 | 可交易性 74.00 | 风险 低
-- Alleged Jeff The Hog Meme | 质量 67.91 | 可交易性 66.80 | 风险 低
-- Vanguard Oil Retirement Fund | 质量 67.63 | 可交易性 100.00 | 风险 低
+- Alleged SPCX Token Launch | 质量 78.07 | 可交易性 97.28 | 风险 低
+- Alleged Jeff The Hog Meme | 质量 77.85 | 可交易性 100.00 | 风险 低
+- Bezos Files to Sell Amazon Shares | 质量 77.50 | 可交易性 100.00 | 风险 低
+- TMZ Reports Theater Evacuation | 质量 77.35 | 可交易性 100.00 | 风险 低
+- Alleged JEFF Meme Coin | 质量 77.34 | 可交易性 100.00 | 风险 低
+- Jeff Bezos Sells Amazon Stock | 质量 77.34 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- USUR | 风险 48.38 | 原因：近 1 小时净流入转负、龙头筹码集中度偏高
 - Alleged TikTok Coin Analysis | 风险 47.79 | 原因：流动性偏薄
+- USUR | 风险 43.18 | 原因：龙头筹码集中度偏高
 
 ## 信号台
 
-- STARMIND | BSC | 看多 | 新鲜度 100.00 | Alleged Starmind Token
+- STARMIND | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CHIP | BSC | 看多 | 新鲜度 100.00 | Alleged SPCX Token Launch
 - RTX | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MarsCoin | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币有 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- JEFF | Solana | 看多 | 新鲜度 100.00 | Alleged Jeff The Hog Meme / Bezos Files to Sell Amazon Shares / TMZ Reports Theater Evacuation
-- CATE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- JEFF | Solana | 看多 | 新鲜度 100.00 | Alleged Jeff The Hog Meme / Bezos Files to Sell Amazon Shares / Alleged JEFF Meme Coin / Jeff Bezos Sells Amazon Stock / TMZ Reports Theater Evacuation
 - CATTYBARA⁠ | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Doom | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Niggahouse | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- MYRAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged SisyphusCat Token（Solana，分数 88.66）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Alleged SisyphusCat Token 当前为“新出现”
+1. 当前最强叙事：USUR（Solana，分数 86.53）
+2. 共振最强代币：JIMOTHY（Solana，共振 100.0）
+3. 记忆层变化：Alleged JEFF Meme Coin 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Grvt (GRVT) and Share $200K Worth of Rewards (2026-08-04)
 #Binance #NarrativeOS #OpenClaw
