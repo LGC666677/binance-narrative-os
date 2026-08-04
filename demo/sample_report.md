@@ -1,49 +1,53 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-04T15:52:06.005442+00:00
+- 生成时间：2026-08-04T17:24:58.956988+00:00
 - 跟踪叙事：14
 - 已确认叙事：3
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance 3B Users，所在链为 BSC，叙事强度 89.49。
-- 当前平均叙事强度为 81.8，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 National Geographic Lion Documentary 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 FUTR，伪叙事风险 52.99。
+- 当前最强叙事是 Binance 3B Users，所在链为 BSC，叙事强度 88.91。
+- 当前平均叙事强度为 79.59，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 CUPSEY，来自 Solana，共振分数 100.0。
+- 记忆层显示 GDWR 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 RISE，伪叙事风险 44.45。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Grvt (GRVT) and Share $200K Worth of Rewards (2026-08-04)。
 
 ## 叙事雷达
 
-- Binance 3B Users | BSC | 已确认 | 强度 89.49 | 质量 87.35
+- Binance 3B Users | BSC | 已确认 | 强度 88.91 | 质量 85.76
   - 主题摘要：Binance official account teased a massive expansion goal targeting 3 billion users, positioning a single account as the hub for one's entire financial life, sparking curiosity abo…
-  - 资金 100.00 / 广度 100.00 / 确认 42.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- TNOS | Solana | 降温中 | 强度 88.60 | 质量 77.93
+- TNOS | Solana | 降温中 | 强度 86.24 | 质量 78.74
   - 主题摘要：TNOS is a community-driven token focused on decentralized finance and DeFi innovation. The logo features a stylized green leaf, symbolizing growth and sustainability in the crypto…
-  - 资金 100.00 / 广度 92.91 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 97.03 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- National Geographic Lion Documentary | Solana | 已确认 | 强度 82.59 | 质量 81.47
+- National Geographic Lion Documentary | Solana | 已确认 | 强度 84.81 | 质量 81.48
   - 主题摘要：According to National Geographic's post, the organization announced the new documentary series #NatGeoLION, following a lion cub named Kio. The series is executive produced by Jon…
-  - 资金 100.00 / 广度 90.95 / 确认 28.12 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.98 / 确认 28.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged GME Token Issuance | BSC | 加速中 | 强度 82.51 | 质量 79.17
-  - 主题摘要：According to FTmonster|tHRESIL's post, GME is alleged to issue a utility token on the blockchain, specifically mentioning BSC. This information is unverified. Please exercise caut…
-  - 资金 100.00 / 广度 87.01 / 确认 23.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He: Financial Infrastructure | BSC | 已确认 | 强度 81.57 | 质量 80.54
+- Yi He: Financial Infrastructure | BSC | 已确认 | 强度 84.78 | 质量 80.52
   - 主题摘要：Binance Co-CEO Yi He publicly reaffirms Binance's ambition to become the world's financial infrastructure, emphasizing institutional-grade adoption and accessibility for the next…
-  - 资金 100.00 / 广度 87.87 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.80 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- CHIBIGUY | Solana | 降温中 | 强度 81.52 | 质量 74.05
-  - 主题摘要：Multiple tokens named 「CHIBIGUY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.98 / 确认 9.36 / 脆弱性 14.00
+- GDWR | Solana | 降温中 | 强度 84.55 | 质量 72.30
+  - 主题摘要：Multiple tokens named 「GDWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.14 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Why Binance? | BSC | 加速中 | 强度 80.55 | 质量 74.53
-  - 主题摘要：Binance official account asks users to vote on the primary reason they choose the platform, highlighting security, compliance, innovation, support, and performance. This engagemen…
-  - 资金 100.00 / 广度 83.62 / 确认 23.76 / 脆弱性 14.00
+- RISE | Solana | 降温中 | 强度 82.69 | 质量 75.80
+  - 主题摘要：Multiple tokens named 「RISE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.98 / 确认 5.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Certainty | Solana | 加速中 | 强度 82.34 | 质量 73.55
+  - 主题摘要：Multiple tokens named 「Certainty」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.38 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- VanillaFunk | Solana | 降温中 | 强度 79.87 | 质量 71.10
+  - 主题摘要：Multiple tokens named 「V713」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.85 / 确认 16.56 / 脆弱性 28.29
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Banana Shiba | Solana | 降温中 | 强度 79.74 | 质量 68.06
   - 主题摘要：Multiple tokens named 「BNANA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 60.00 / 确认 9.36 / 脆弱性 2.14
@@ -52,62 +56,59 @@
   - 主题摘要：According to Mario Nawfal's post, the US Senate advanced a stopgap funding bill 89-4 in a procedural vote. Final passage requires a bipartisan time agreement before the August rec…
   - 资金 100.00 / 广度 78.86 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Meme Image Release | Solana | 降温中 | 强度 79.24 | 质量 73.72
-  - 主题摘要：According to Chin Quan's post, the author questions whether 'Shit on a Stick' represents a viable business idea, accompanied by a link to an article on LLMs. This content referenc…
-  - 资金 100.00 / 广度 78.86 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Swan Chicks and Down Quilt | Solana | 降温中 | 强度 79.19 | 质量 73.68
-  - 主题摘要：According to New China 中文's post, a video shows a swan baby hiding under its mother's down feathers. Netizens commented that the scene confirms the accuracy of illustrations seen…
-  - 资金 100.00 / 广度 78.73 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- American Oil Relief Program | Solana | 降温中 | 强度 79.06 | 质量 67.24
-  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 57.26 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Commodity Options | BSC | 加速中 | 强度 78.68 | 质量 76.12
-  - 主题摘要：Binance officially announces the availability of Gold and Silver options trading directly on its platform, emphasizing the convenience of using existing accounts without needing n…
-  - 资金 100.00 / 广度 84.54 / 确认 24.48 / 脆弱性 24.00
+- Why Binance? | BSC | 加速中 | 强度 79.23 | 质量 74.50
+  - 主题摘要：Binance official account asks users to vote on the primary reason they choose the platform, highlighting security, compliance, innovation, support, and performance. This engagemen…
+  - 资金 100.00 / 广度 83.62 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FUTR | BSC | 点火期 | 强度 77.98 | 质量 74.67
-  - 主题摘要：Binance announced a promotional campaign offering 625 BNB in rewards for completing specific tasks. The initiative targets new, returning, and active Futures traders, encouraging…
-  - 资金 100.00 / 广度 82.02 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Yi He on Industry Leader Effect | BSC | 加速中 | 强度 77.70 | 质量 69.89
+  - 主题摘要：Yi He argues that the head-effect applies to all industries, citing the 3Q War as an example where laggards attacked leaders to create parity illusions. She advises investing in i…
+  - 资金 100.00 / 广度 74.44 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Commodity Options | BSC | 加速中 | 强度 74.63 | 质量 64.61
+  - 主题摘要：Binance officially announces the availability of Gold and Silver options trading directly on its platform, emphasizing the convenience of using existing accounts without needing n…
+  - 资金 100.00 / 广度 78.10 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged GME Token Issuance | BSC | 加速中 | 强度 72.28 | 质量 70.57
+  - 主题摘要：According to FTmonster|tHRESIL's post, GME is alleged to issue a utility token on the blockchain, specifically mentioning BSC. This information is unverified. Please exercise caut…
+  - 资金 100.00 / 广度 82.52 / 确认 19.44 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 81.8，其中已确认叙事 2 个。
-- National Geographic Lion Documentary 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.59，其中已确认叙事 2 个。
+- Certainty 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - TNOS 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance 3B Users | 质量 87.35 | 可交易性 100.00 | 风险 低
-- National Geographic Lion Documentary | 质量 81.47 | 可交易性 100.00 | 风险 低
-- Yi He: Financial Infrastructure | 质量 80.54 | 可交易性 100.00 | 风险 低
-- Alleged GME Token Issuance | 质量 79.17 | 可交易性 100.00 | 风险 低
-- TNOS | 质量 77.93 | 可交易性 100.00 | 风险 低
-- Binance Commodity Options | 质量 76.12 | 可交易性 91.25 | 风险 低
-- FUTR | 质量 74.67 | 可交易性 100.00 | 风险 低
-- Why Binance? | 质量 74.53 | 可交易性 87.39 | 风险 低
-- CHIBIGUY | 质量 74.05 | 可交易性 100.00 | 风险 低
+- Binance 3B Users | 质量 85.76 | 可交易性 100.00 | 风险 低
+- National Geographic Lion Documentary | 质量 81.48 | 可交易性 100.00 | 风险 低
+- Yi He: Financial Infrastructure | 质量 80.52 | 可交易性 100.00 | 风险 低
+- TNOS | 质量 78.74 | 可交易性 98.58 | 风险 低
+- RISE | 质量 75.80 | 可交易性 100.00 | 风险 低
+- Why Binance? | 质量 74.50 | 可交易性 87.28 | 风险 低
 - US Senate Funding Vote | 质量 73.72 | 可交易性 100.00 | 风险 低
+- Certainty | 质量 73.55 | 可交易性 100.00 | 风险 低
+- GDWR | 质量 72.30 | 可交易性 100.00 | 风险 低
+- VanillaFunk | 质量 71.10 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- FUTR | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- RISE | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- TNOS | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- RTX | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MarsCoin | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币有 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- RTX | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 小股东 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 霸道总裁 | BSC | 看多 | 新鲜度 100.00 | Binance 3B Users
-- DRESS | BSC | 看多 | 新鲜度 100.00 | Binance 3B Users
 - PHENIX | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BEAR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FOMO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TikTok | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- MYRAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Ram | Solana | 看多 | 新鲜度 91.85 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance 3B Users（BSC，分数 89.49）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：National Geographic Lion Documentary 当前为“新出现”
+1. 当前最强叙事：Binance 3B Users（BSC，分数 88.91）
+2. 共振最强代币：CUPSEY（Solana，共振 100.0）
+3. 记忆层变化：GDWR 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Grvt (GRVT) and Share $200K Worth of Rewards (2026-08-04)
 #Binance #NarrativeOS #OpenClaw
