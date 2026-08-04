@@ -1,116 +1,116 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-04T11:51:45.120914+00:00
+- 生成时间：2026-08-04T13:28:21.376168+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：1
+- 已确认叙事：3
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Winch: TikTok Meme Coin Trend，所在链为 Solana，叙事强度 86.39。
-- 当前平均叙事强度为 81.2，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 CAGE，来自 Solana，共振分数 100.0。
-- 记忆层显示 TNOS 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 FUTR，伪叙事风险 53.0。
+- 当前最强叙事是 Binance 3B Users，所在链为 BSC，叙事强度 87.46。
+- 当前平均叙事强度为 80.72，其中已确认叙事 3 个。
+- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
+- 记忆层显示 Yi He: Financial Infrastructure 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 FUTR，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Grvt (GRVT) and Share $200K Worth of Rewards (2026-08-04)。
 
 ## 叙事雷达
 
-- Winch: TikTok Meme Coin Trend | Solana | 降温中 | 强度 86.39 | 质量 79.25
-  - 主题摘要：According to Winch's post, the author suggests launching a TikTok-themed Meme coin, citing the viral trend of crypto content on TikTok. This information is unverified. Please exer…
-  - 资金 100.00 / 广度 97.30 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TNOS | Solana | 降温中 | 强度 86.17 | 质量 74.02
-  - 主题摘要：TNOS is a community-driven token focused on decentralized finance and DeFi innovation. The logo features a stylized green leaf, symbolizing growth and sustainability in the crypto…
-  - 资金 100.00 / 广度 79.86 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance 3B Users | BSC | 已确认 | 强度 85.74 | 质量 83.79
+- Binance 3B Users | BSC | 已确认 | 强度 87.46 | 质量 85.73
   - 主题摘要：Binance official account teased a massive expansion goal targeting 3 billion users, positioning a single account as the hub for one's entire financial life, sparking curiosity abo…
-  - 资金 100.00 / 广度 96.06 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 99.91 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- SAOF | Solana | 降温中 | 强度 81.01 | 质量 69.96
-  - 主题摘要：SAOF (Strategic American Oil Fund) token represents a digital oil tokenization initiative. The logo features a stylized oil drop with American flag elements, symbolizing the proje…
-  - 资金 100.00 / 广度 66.35 / 确认 9.36 / 脆弱性 0.00
+- TNOS | Solana | 降温中 | 强度 86.18 | 质量 74.03
+  - 主题摘要：TNOS is a community-driven token focused on decentralized finance and DeFi innovation. The logo features a stylized green leaf, symbolizing growth and sustainability in the crypto…
+  - 资金 100.00 / 广度 79.90 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged TikTok Meme Coin | Solana | 加速中 | 强度 80.40 | 质量 68.67
-  - 主题摘要：According to Babby sokol's post, the author suggests launching a simple TikTok-themed coin, citing the viral trend of memecoins on TikTok. This information is unverified. Please e…
-  - 资金 100.00 / 广度 88.12 / 确认 24.48 / 脆弱性 14.00
+- Winch: TikTok Meme Coin Trend | Solana | 降温中 | 强度 85.17 | 质量 77.05
+  - 主题摘要：According to Winch's post, the author suggests launching a TikTok-themed coin due to the viral trend of memecoin content on the platform. Winch claims that new users are entering…
+  - 资金 100.00 / 广度 89.98 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Yi He: Financial Infrastructure | BSC | 已确认 | 强度 84.68 | 质量 80.43
+  - 主题摘要：Binance Co-CEO Yi He publicly reaffirms Binance's ambition to become the world's financial infrastructure, emphasizing institutional-grade adoption and accessibility for the next…
+  - 资金 100.00 / 广度 87.50 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Binance Commodity Options | BSC | 加速中 | 强度 81.99 | 质量 76.78
+  - 主题摘要：Binance officially announces the availability of Gold and Silver options trading directly on its platform, emphasizing the convenience of using existing accounts without needing n…
+  - 资金 100.00 / 广度 84.41 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Banana Shiba | Solana | 降温中 | 强度 79.61 | 质量 68.03
+- Banana Shiba | Solana | 降温中 | 强度 79.73 | 质量 68.06
   - 主题摘要：Multiple tokens named 「BNANA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 59.91 / 确认 9.36 / 脆弱性 2.14
+  - 资金 100.00 / 广度 60.01 / 确认 9.36 / 脆弱性 2.14
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon's AI Tsunami | BSC | 加速中 | 强度 79.59 | 质量 80.72
-  - 主题摘要：Elon Musk describes AI as a 'supersonic tsunami,' highlighting the overwhelming and rapid impact of artificial intelligence on society. This powerful metaphor captures the urgency…
-  - 资金 100.00 / 广度 91.13 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged X Coin Proposal | Solana | 点火期 | 强度 78.93 | 质量 75.86
-  - 主题摘要：According to 凌夜's post, the author suggests launching an $X coin, arguing that since X is the primary platform for crypto and meme narratives, it should have its own token. This i…
-  - 资金 100.00 / 广度 86.20 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- American Oil Relief Program | Solana | 降温中 | 强度 78.87 | 质量 67.07
-  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 56.71 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Bonk Meme Image Viral | Solana | 点火期 | 强度 78.22 | 质量 78.02
-  - 主题摘要：According to 0xsavage12's post, a viral TikTok video featuring a sheep ramming a man is being used to meme the Bonk token, with the author claiming this indicates an 'animal meta'…
-  - 资金 95.45 / 广度 87.93 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Why Binance? | BSC | 加速中 | 强度 77.34 | 质量 74.07
-  - 主题摘要：Binance official account asks users to vote on the primary reason they choose the platform, highlighting security, compliance, innovation, support, and performance. This engagemen…
-  - 资金 100.00 / 广度 83.39 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Shares Meme Image | BSC | 加速中 | 强度 77.03 | 质量 70.55
-  - 主题摘要：Elon Musk quoted a post containing a Meme image of a sunflower field, accompanied by the text 'Imagine with @Grok'. This action highlights the integration of visual media with AI-…
-  - 资金 100.00 / 广度 76.63 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yi He on Industry Leader Effect | BSC | 加速中 | 强度 76.93 | 质量 71.30
-  - 主题摘要：Yi He argues that the head-effect applies to all industries, citing the 3Q War as an example where laggards attacked leaders to create parity illusions. She advises investing in i…
-  - 资金 100.00 / 广度 75.87 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FUTR | BSC | 点火期 | 强度 76.90 | 质量 72.94
+- FUTR | BSC | 点火期 | 强度 79.54 | 质量 74.79
   - 主题摘要：Binance announced a promotional campaign offering 625 BNB in rewards for completing specific tasks. The initiative targets new, returning, and active Futures traders, encouraging…
-  - 资金 100.00 / 广度 82.40 / 确认 9.36 / 脆弱性 24.01
+  - 资金 100.00 / 广度 82.45 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- US Senate Funding Vote | Solana | 降温中 | 强度 79.24 | 质量 73.72
+  - 主题摘要：According to Mario Nawfal's post, the US Senate advanced a stopgap funding bill 89-4 in a procedural vote. Final passage requires a bipartisan time agreement before the August rec…
+  - 资金 100.00 / 广度 78.86 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Meme Image Release | Solana | 降温中 | 强度 79.24 | 质量 73.72
+  - 主题摘要：According to Chin Quan's post, the author questions whether 'Shit on a Stick' represents a viable business idea, accompanied by a link to an article on LLMs. This content referenc…
+  - 资金 100.00 / 广度 78.86 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Swan Chicks and Down Quilt | Solana | 降温中 | 强度 79.19 | 质量 73.68
+  - 主题摘要：According to New China 中文's post, a video shows a swan baby hiding under its mother's down feathers. Netizens commented that the scene confirms the accuracy of illustrations seen…
+  - 资金 100.00 / 广度 78.73 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- American Oil Relief Program | Solana | 降温中 | 强度 78.94 | 质量 67.13
+  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 56.91 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged SPCX Stock Logo | Solana | 降温中 | 强度 78.79 | 质量 70.01
+  - 主题摘要：According to manu's post, the author shared a Google search result displaying the logo for SPCX, referring to it as a stock logo. The post includes a direct link to the search pag…
+  - 资金 100.00 / 广度 69.67 / 确认 5.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Why Binance? | BSC | 已确认 | 强度 78.71 | 质量 75.24
+  - 主题摘要：Binance official account asks users to vote on the primary reason they choose the platform, highlighting security, compliance, innovation, support, and performance. This engagemen…
+  - 资金 100.00 / 广度 83.48 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- 宇宙之心 | BSC | 降温中 | 强度 71.93 | 质量 60.51
+  - 主题摘要：Multiple tokens named 「宇宙之心」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.65 / 确认 4.32 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.2，其中已确认叙事 0 个。
-- Alleged TikTok Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Winch: TikTok Meme Coin Trend 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.72，其中已确认叙事 3 个。
+- Yi He: Financial Infrastructure 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- TNOS 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance 3B Users | 质量 83.79 | 可交易性 100.00 | 风险 低
-- Elon's AI Tsunami | 质量 80.72 | 可交易性 100.00 | 风险 低
-- Winch: TikTok Meme Coin Trend | 质量 79.25 | 可交易性 100.00 | 风险 低
-- Alleged Bonk Meme Image Viral | 质量 78.02 | 可交易性 100.00 | 风险 低
-- Alleged X Coin Proposal | 质量 75.86 | 可交易性 99.81 | 风险 低
-- Why Binance? | 质量 74.07 | 可交易性 86.10 | 风险 低
-- TNOS | 质量 74.02 | 可交易性 100.00 | 风险 低
-- FUTR | 质量 72.94 | 可交易性 100.00 | 风险 低
-- Uncertain:Yi He on Industry Leader Effect | 质量 71.30 | 可交易性 84.48 | 风险 低
-- Elon Musk Shares Meme Image | 质量 70.55 | 可交易性 83.74 | 风险 低
+- Binance 3B Users | 质量 85.73 | 可交易性 100.00 | 风险 低
+- Yi He: Financial Infrastructure | 质量 80.43 | 可交易性 100.00 | 风险 低
+- Winch: TikTok Meme Coin Trend | 质量 77.05 | 可交易性 100.00 | 风险 低
+- Binance Commodity Options | 质量 76.78 | 可交易性 93.57 | 风险 低
+- Why Binance? | 质量 75.24 | 可交易性 86.72 | 风险 低
+- FUTR | 质量 74.79 | 可交易性 100.00 | 风险 低
+- TNOS | 质量 74.03 | 可交易性 100.00 | 风险 低
+- US Senate Funding Vote | 质量 73.72 | 可交易性 100.00 | 风险 低
+- Alleged Meme Image Release | 质量 73.72 | 可交易性 100.00 | 风险 低
+- Swan Chicks and Down Quilt | 质量 73.68 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- FUTR | 风险 53.00 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged X Coin Proposal | 风险 47.79 | 原因：流动性偏薄
-- Alleged Bonk Meme Image Viral | 风险 42.03 | 原因：流动性偏薄
+- FUTR | 风险 47.79 | 原因：流动性偏薄
+- 宇宙之心 | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged SPCX Stock Logo | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
 - Winch: TikTok Meme Coin Trend | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- RTX | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币有 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- RTX | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 小股东 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 霸道总裁 | BSC | 看多 | 新鲜度 100.00 | Binance 3B Users
 - DRESS | BSC | 看多 | 新鲜度 100.00 | Binance 3B Users
 - 霸总小何 | BSC | 看多 | 新鲜度 100.00 | Binance 3B Users
 - GoldenAge | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- GPU | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PHENIX | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BEAR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- FOMO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Winch: TikTok Meme Coin Trend（Solana，分数 86.39）
-2. 共振最强代币：CAGE（Solana，共振 100.0）
-3. 记忆层变化：TNOS 当前为“新出现”
+1. 当前最强叙事：Binance 3B Users（BSC，分数 87.46）
+2. 共振最强代币：ANSEM（Solana，共振 100.0）
+3. 记忆层变化：Yi He: Financial Infrastructure 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Grvt (GRVT) and Share $200K Worth of Rewards (2026-08-04)
 #Binance #NarrativeOS #OpenClaw
