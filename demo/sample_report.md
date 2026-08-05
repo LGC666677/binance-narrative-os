@@ -1,104 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-05T04:25:05.970034+00:00
+- 生成时间：2026-08-05T07:06:49.056893+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：1
+- 已确认叙事：2
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Yi He: Financial Infrastructure，所在链为 BSC，叙事强度 82.69。
-- 当前平均叙事强度为 79.1，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 CHIIKAWA，来自 Solana，共振分数 100.0。
-- 记忆层显示 Uncertain:Binance Announces Open Blockchain Project ‘Venus’ 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Jeff The Hog Meme，伪叙事风险 52.99。
+- 当前最强叙事是 DogeDesigner Posts Meme Image，所在链为 BSC，叙事强度 85.91。
+- 当前平均叙事强度为 79.97，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
+- 记忆层显示 DogeDesigner Posts Meme Image 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-06)。
 
 ## 叙事雷达
 
-- Yi He: Financial Infrastructure | BSC | 已确认 | 强度 82.69 | 质量 80.32
-  - 主题摘要：Binance Co-CEO Yi He publicly reaffirms Binance's ambition to become the world's financial infrastructure, emphasizing institutional-grade adoption and accessibility for the next…
-  - 资金 100.00 / 广度 87.14 / 确认 28.08 / 脆弱性 24.00
+- DogeDesigner Posts Meme Image | BSC | 已确认 | 强度 85.91 | 质量 78.38
+  - 主题摘要：According to DogeDesigner's post, the user shared a cigarette emoji, which is associated with the token '来根华子'.
+  - 资金 100.00 / 广度 80.66 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Binance Announces Open Blockchain Project ‘Venus’ | BSC | 加速中 | 强度 82.68 | 质量 76.64
-  - 主题摘要：According to Yi He's post, Binance announced the 'Venus' open blockchain project. Yi He stated that the vision is to achieve a borderless financial system, extending beyond typica…
-  - 资金 100.00 / 广度 77.51 / 确认 24.48 / 脆弱性 14.00
+- RockStar | Solana | 降温中 | 强度 85.16 | 质量 72.82
+  - 主题摘要：Multiple tokens named 「ROCKSTAR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.88 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged ANSEM Token Launch | Solana | 降温中 | 强度 82.24 | 质量 71.66
+  - 主题摘要：According to PoorGoat (re/tard)🐂🀄️'s post, @blknoiz06 is allegedly launching an ANSEM coin, with fees directed to a specific wallet. This follows a quoted tweet suggesting the tok…
+  - 资金 100.00 / 广度 79.51 / 确认 9.36 / 脆弱性 14.03
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Yi He: Financial Infrastructure | BSC | 加速中 | 强度 82.15 | 质量 79.34
+  - 主题摘要：Binance Co-CEO Yi He publicly reaffirms Binance's ambition to become the world's financial infrastructure, emphasizing institutional-grade adoption and accessibility for the next…
+  - 资金 100.00 / 广度 87.03 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged AFAO Token Launch | Solana | 加速中 | 强度 81.22 | 质量 79.40
+- Based Donates to Kody Fund | Solana | 加速中 | 强度 81.59 | 质量 72.27
+  - 主题摘要：According to Based's post, a GoFundMe campaign is active to donate 100% of proceeds for memorial and legal fees related to Kody. This activity coincides with the emergence of mult…
+  - 资金 100.00 / 广度 82.71 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Falcon9 Meme Coin Launch | Solana | 降温中 | 强度 80.92 | 质量 68.34
+  - 主题摘要：According to binancesuperman's post, a cryptocurrency token named Falcon9 is allegedly being promoted in connection with a SpaceX rocket mission. The post suggests the token is be…
+  - 资金 100.00 / 广度 83.38 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Rand Group Comments on SpaceX-NVIDIA Partnership | BSC | 已确认 | 强度 80.87 | 质量 68.98
+  - 主题摘要：According to Rand Group's post, the author expressed strong support for the partnership between SpaceX and NVIDIA, using the phrase 'Full send' to indicate full endorsement. The p…
+  - 资金 100.00 / 广度 80.03 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Peeko The Meerkat | Solana | 加速中 | 强度 80.64 | 质量 69.42
+  - 主题摘要：PEEKO is a meme token inspired by a meerkat character who remains calm and observant. The logo features a cartoon meerkat with a watchful expression, embodying the token's philoso…
+  - 资金 100.00 / 广度 79.11 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged AFAO Token Launch | Solana | 加速中 | 强度 79.94 | 质量 80.48
   - 主题摘要：According to Spongey 🔸 👀's post, Jason claims that Tucker is running for president and launching the AFAO token. Spongey characterizes this as a significant narrative, suggesting…
-  - 资金 100.00 / 广度 89.88 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.30 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon's Flamethrower Preference | BSC | 加速中 | 强度 80.43 | 质量 76.20
-  - 主题摘要：Elon Musk humorously comments on SpaceX merchandise, preferring a flamethrower over other items. This playful interaction highlights his quirky personality and interest in space-t…
-  - 资金 100.00 / 广度 80.88 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Commodity Options | BSC | 加速中 | 强度 79.58 | 质量 75.52
+- Binance Commodity Options | BSC | 加速中 | 强度 79.64 | 质量 75.33
   - 主题摘要：Binance officially announces the availability of Gold and Silver options trading directly on its platform, emphasizing the convenience of using existing accounts without needing n…
-  - 资金 100.00 / 广度 84.34 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.26 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bezos Files to Sell Amazon Shares | Solana | 点火期 | 强度 79.12 | 质量 75.60
-  - 主题摘要：According to tradfi news's post, Jeff Bezos has filed to sell Amazon shares valued at $4.07 billion. This financial disclosure regarding the Amazon co-founder's equity transaction…
-  - 资金 100.00 / 广度 85.12 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Unstable Oil Coin | Solana | 降温中 | 强度 78.83 | 质量 67.65
+- Unstable Oil Coin | Solana | 降温中 | 强度 78.85 | 质量 67.67
   - 主题摘要：Multiple tokens named 「USOC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 58.62 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 58.70 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon's Flamethrower Preference | Solana | 加速中 | 强度 78.59 | 质量 73.91
-  - 主题摘要：Elon Musk humorously comments on SpaceX merchandise, preferring a flamethrower over other items. This playful interaction highlights his quirky personality and interest in space-t…
-  - 资金 100.00 / 广度 85.29 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- King Questions Monkey Coin | BSC | 加速中 | 强度 78.59 | 质量 70.00
-  - 主题摘要：According to 把子's post, the user questions whether the token 'Monkey Coin' is indeed referred to as the 'Bitcoin of China'.
-  - 资金 100.00 / 广度 82.99 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Jeff The Hog Meme | Solana | 点火期 | 强度 77.59 | 质量 75.91
-  - 主题摘要：According to Sizzle Developer's post, a TikTok video featuring a beaver named Jeff has gone viral with nearly 100 million views. The author notes that comments mock the beaver as…
-  - 资金 97.53 / 广度 86.18 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged SPCX Token Launch | BSC | 加速中 | 强度 77.18 | 质量 76.61
+- Alleged SPCX Token Launch | BSC | 加速中 | 强度 77.81 | 质量 77.25
   - 主题摘要：According to tradfi news's post, SpaceX is partnering with NVIDIA, associated with the ticker #SPCX. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 82.55 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.82 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Mars Walking Man Meme | BSC | 加速中 | 强度 76.20 | 质量 60.64
-  - 主题摘要：According to Daily Star's post, a strange 'walking man' figure was reportedly spotted in a NASA space photo of Mars. The post links this visual anomaly to tokens named 'The Walkin…
-  - 资金 100.00 / 广度 74.23 / 确认 23.76 / 脆弱性 14.00
+- Nikita Bier Comments on Social Media | BSC | 加速中 | 强度 76.85 | 质量 62.37
+  - 主题摘要：According to Nikita Bier's post, he compared Twitter to the smoking area for social media, implying it serves as a space for candid or less filtered discourse compared to other pl…
+  - 资金 100.00 / 广度 76.68 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Mars Meme Coin | BSC | 加速中 | 强度 75.42 | 质量 60.35
-  - 主题摘要：According to theworldneedshelp's post, the author comments on a news report regarding a 'walking man' spotted on Mars, expressing that there is no cryptocurrency token associated…
-  - 资金 100.00 / 广度 73.62 / 确认 23.76 / 脆弱性 14.00
+- Uncertain:Binance Announces Open Blockchain Project ‘Venus’ | BSC | 加速中 | 强度 76.54 | 质量 66.54
+  - 主题摘要：According to Yi He's post, Binance announced the 'Venus' open blockchain project. Yi He stated that the vision is to achieve a borderless financial system, extending beyond typica…
+  - 资金 100.00 / 广度 77.12 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The ANSEM Thesis | Solana | 降温中 | 强度 74.22 | 质量 58.21
-  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 60.17 / 确认 9.36 / 脆弱性 14.02
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.1，其中已确认叙事 1 个。
-- Uncertain:Binance Announces Open Blockchain Project ‘Venus’ 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Unstable Oil Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.97，其中已确认叙事 2 个。
+- DogeDesigner Posts Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- RockStar 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Yi He: Financial Infrastructure | 质量 80.32 | 可交易性 100.00 | 风险 低
-- Alleged AFAO Token Launch | 质量 79.40 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Announces Open Blockchain Project ‘Venus’ | 质量 76.64 | 可交易性 100.00 | 风险 低
-- Alleged SPCX Token Launch | 质量 76.61 | 可交易性 92.75 | 风险 低
-- Elon's Flamethrower Preference | 质量 76.20 | 可交易性 93.05 | 风险 低
-- Alleged Jeff The Hog Meme | 质量 75.91 | 可交易性 100.00 | 风险 低
-- Bezos Files to Sell Amazon Shares | 质量 75.60 | 可交易性 100.00 | 风险 低
-- Binance Commodity Options | 质量 75.52 | 可交易性 89.44 | 风险 低
-- Elon's Flamethrower Preference | 质量 73.91 | 可交易性 86.81 | 风险 低
-- King Questions Monkey Coin | 质量 70.00 | 可交易性 91.50 | 风险 低
+- Alleged AFAO Token Launch | 质量 80.48 | 可交易性 100.00 | 风险 低
+- Yi He: Financial Infrastructure | 质量 79.34 | 可交易性 100.00 | 风险 低
+- DogeDesigner Posts Meme Image | 质量 78.38 | 可交易性 100.00 | 风险 低
+- Alleged SPCX Token Launch | 质量 77.25 | 可交易性 94.61 | 风险 低
+- Binance Commodity Options | 质量 75.33 | 可交易性 89.41 | 风险 低
+- RockStar | 质量 72.82 | 可交易性 100.00 | 风险 低
+- Based Donates to Kody Fund | 质量 72.27 | 可交易性 83.42 | 风险 低
+- Alleged ANSEM Token Launch | 质量 71.66 | 可交易性 92.48 | 风险 低
+- Peeko The Meerkat | 质量 69.42 | 可交易性 74.35 | 风险 低
+- Rand Group Comments on SpaceX-NVIDIA Partnership | 质量 68.98 | 可交易性 69.31 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Jeff The Hog Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Bezos Files to Sell Amazon Shares | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
+- 来根华子 | BSC | 看多 | 新鲜度 100.00 | DogeDesigner Posts Meme Image / Rand Group Comments on SpaceX-NVIDIA Partnership / Nikita Bier Comments on Social Media
 - STARMIND | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CHIP | BSC | 看多 | 新鲜度 100.00 | Alleged SPCX Token Launch
 - RTX | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -107,8 +105,7 @@
 - AFAO | Solana | 看多 | 新鲜度 100.00 | Alleged AFAO Token Launch
 - Kimchi | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Sovicat | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- JEFF | Solana | 看多 | 新鲜度 100.00 | Bezos Files to Sell Amazon Shares / Alleged Jeff The Hog Meme
-- CATTYBARA⁠ | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- JEFF | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Yi He: Financial Infrastructure（BSC，分数 82.69）
-2. 共振最强代币：CHIIKAWA（Solana，共振 100.0）
-3. 记忆层变化：Uncertain:Binance Announces Open Blockchain Project ‘Venus’ 当前为“新出现”
+1. 当前最强叙事：DogeDesigner Posts Meme Image（BSC，分数 85.91）
+2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
+3. 记忆层变化：DogeDesigner Posts Meme Image 当前为“新出现”
 4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-06)
 #Binance #NarrativeOS #OpenClaw
