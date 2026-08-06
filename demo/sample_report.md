@@ -1,111 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-05T23:34:07.315177+00:00
+- 生成时间：2026-08-06T01:00:34.819149+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Water Reserve，所在链为 Solana，叙事强度 88.44。
-- 当前平均叙事强度为 80.43，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 TCC Mistakenly Downloads GT4 当前处于“新出现”状态。
+- 当前最强叙事是 United States Water Reserve，所在链为 Solana，叙事强度 86.61。
+- 当前平均叙事强度为 79.14，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 SNDK，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged Tucker Carlson Meme Coin Proposal 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Tucker Carlson Meme Coin Proposal，伪叙事风险 42.03。
 - 最新官方催化来自 最新活动：South Asia Exclusive: BNB Button Game: Hit the Button, Countdown to 00:00, Win 10 BNB。
 
 ## 叙事雷达
 
-- United States Water Reserve | Solana | 降温中 | 强度 88.44 | 质量 80.22
+- United States Water Reserve | Solana | 降温中 | 强度 86.61 | 质量 79.41
   - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 97.88 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 98.36 / 确认 8.64 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He: Grasp Now | BSC | 已确认 | 强度 83.92 | 质量 85.06
+- Yi He: Grasp Now | BSC | 已确认 | 强度 84.42 | 质量 85.85
   - 主题摘要：Binance联合创始人何一回复关于2017年买入BNB的后悔帖，提出“人生没有假如，但可以把握现在”，鼓励社区抓住当下的投资机会。
-  - 资金 100.00 / 广度 97.69 / 确认 38.88 / 脆弱性 14.00
+  - 资金 100.00 / 广度 97.65 / 确认 38.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- The Black Bull Endorses WSOP Solana Showdown | Solana | 降温中 | 强度 82.65 | 质量 73.22
-  - 主题摘要：According to Donnie's post, he highlights a contradiction where an individual claims not to endorse micro-cap tokens receiving supply from them, yet the context implies such endor…
-  - 资金 100.00 / 广度 77.19 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Oil Protocol | Solana | 降温中 | 强度 81.96 | 质量 72.49
+- United States Oil Protocol | Solana | 降温中 | 强度 83.26 | 质量 72.54
   - 主题摘要：Multiple tokens named 「USOP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.77 / 确认 9.36 / 脆弱性 10.00
+  - 资金 100.00 / 广度 74.93 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- All at Binance | BSC | 已确认 | 强度 80.75 | 质量 81.89
+- The Black Bull Endorses WSOP Solana Showdown | Solana | 降温中 | 强度 83.14 | 质量 73.59
+  - 主题摘要：According to Donnie's post, he highlights a contradiction where an individual claims not to endorse micro-cap tokens receiving supply from them, yet the context implies such endor…
+  - 资金 100.00 / 广度 78.43 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- All at Binance | BSC | 已确认 | 强度 82.77 | 质量 81.87
   - 主题摘要：Binance前CEO CZ发布推文“何必东奔西走 币安全部都有”，以幽默自信的口吻宣示Binance平台的全面性，暗示用户无需寻找其他平台。
-  - 资金 100.00 / 广度 90.26 / 确认 30.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.18 / 确认 30.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon Musk Documentary at TIFF 2026 | BSC | 已确认 | 强度 80.09 | 质量 77.24
-  - 主题摘要：According to DogeDesigner's post, a nearly four-hour documentary titled "Musk," directed by Oscar winner Alex Gibney, is scheduled to be screened at the Toronto International Film…
-  - 资金 100.00 / 广度 88.89 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- TCC Mistakenly Downloads GT4 | BSC | 降温中 | 强度 79.61 | 质量 72.45
-  - 主题摘要：According to TCC's post, the user states that they mistakenly downloaded the wrong version of GT4. This statement refers to the digital token GT4, which is associated with meme cu…
-  - 资金 100.00 / 广度 78.68 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Launch of Binance Academy AI | BSC | 加速中 | 强度 79.33 | 质量 72.94
+- Uncertain:Alleged Launch of Binance Academy AI | BSC | 加速中 | 强度 81.37 | 质量 73.06
   - 主题摘要：According to jadedev's post, the author claims to be launching 'Binance Academy AI' and mentions sending 'summer'. This statement appears to be an unverified claim regarding a new…
-  - 资金 100.00 / 广度 80.35 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 80.38 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Palu Panic! Binance Day 606 | BSC | 加速中 | 强度 78.90 | 质量 78.10
-  - 主题摘要：币安华语官方账号发布推文，引用热门游戏《幻兽帕鲁》中的“帕鲁危”梗，配合倒计时“Day 606”引发社区互动。该推文利用游戏流行文化与交易所官方身份的反差，制造幽默感和紧迫感，鼓励用户点赞解锁后续内容。
-  - 资金 100.00 / 广度 87.20 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bill Collector Meme Trend | Solana | 降温中 | 强度 77.61 | 质量 67.51
-  - 主题摘要：According to Virtual Kuca's post, the Bill Collector meme is defined by the combination of a bill and a skull, rather than a specific dog image. Virtual Kuca identifies this image…
-  - 资金 100.00 / 广度 58.18 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 宇宙之心 | BSC | 加速中 | 强度 77.31 | 质量 64.17
-  - 主题摘要：宇宙之心 (Cosmic Heart) is a community-driven token inspired by the concept of cosmic unity. It aims to foster global collaboration through decentralized initiatives, with a focus on…
-  - 资金 100.00 / 广度 79.77 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Seamless Vision | BSC | 加速中 | 强度 76.08 | 质量 74.45
+- Binance Seamless Vision | BSC | 加速中 | 强度 78.28 | 质量 74.73
   - 主题摘要：Binance CEO Richard Teng emphasizes a vision of integrating diverse financial opportunities into a single, seamless user experience on the app. This corporate strategy focus lacks…
-  - 资金 100.00 / 广度 83.03 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.91 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged PPBP Token Launch | Solana | 加速中 | 强度 75.96 | 质量 74.93
-  - 主题摘要：According to Spongey 🔸 👀's post, the individual shared content referencing a political movement and FEC data, which is associated with the alleged launch of the PPBP (PuttingPeopl…
-  - 资金 100.00 / 广度 81.11 / 确认 20.16 / 脆弱性 14.00
+- Palu Panic! Binance Day 606 | BSC | 加速中 | 强度 78.01 | 质量 77.62
+  - 主题摘要：币安华语官方账号发布推文，引用热门游戏《幻兽帕鲁》中的“帕鲁危”梗，配合倒计时“Day 606”引发社区互动。该推文利用游戏流行文化与交易所官方身份的反差，制造幽默感和紧迫感，鼓励用户点赞解锁后续内容。
+  - 资金 100.00 / 广度 87.11 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of Mei Otter Meme Image | Solana | 降温中 | 强度 75.94 | 质量 66.22
-  - 主题摘要：According to Quantino's post, the user claims to have discovered a viral Meme image featuring an otter named Mei wearing a cone, comparing it to the 'Momosa' trend. The post highl…
-  - 资金 100.00 / 广度 57.56 / 确认 4.32 / 脆弱性 14.00
+- Elon Musk Documentary at TIFF 2026 | BSC | 加速中 | 强度 77.87 | 质量 75.30
+  - 主题摘要：According to DogeDesigner's post, a nearly four-hour documentary titled "Musk," directed by Oscar winner Alex Gibney, is scheduled to be screened at the Toronto International Film…
+  - 资金 100.00 / 广度 88.90 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Tucker Carlson Meme Coin Proposal | Solana | 点火期 | 强度 77.64 | 质量 75.58
+  - 主题摘要：Multiple tokens named 「CARLSON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.29 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Elon Musk Documentary at TIFF 2026 | Solana | 加速中 | 强度 76.00 | 质量 67.21
+  - 主题摘要：According to DogeDesigner's post, a nearly 4-hour documentary titled "Musk," directed by Oscar winner Alex Gibney, is scheduled to be screened at the Toronto International Film Fe…
+  - 资金 100.00 / 广度 84.60 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Guinea Meme Image | Solana | 降温中 | 强度 75.97 | 质量 64.93
+  - 主题摘要：According to Silver's post, the 'Guinea Pantry' is a meme concept featuring guinea pigs morphed into various foods. Silver claims this represents a unique animal/food meme trend,…
+  - 资金 100.00 / 广度 54.78 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Tardimals Meme Trend | Solana | 加速中 | 强度 75.35 | 质量 61.50
+  - 主题摘要：According to Vibez's post, a viral trend involving AI-generated images of children's drawings is discussed. Vibez claims this 'animal meta' narrative creates an opportunity for Ta…
+  - 资金 100.00 / 广度 76.38 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Smokey Bear Meme Image | Solana | 加速中 | 强度 75.13 | 质量 63.57
+  - 主题摘要：According to Boltricks Development's post, the author claims to have identified a token named 'Smokey' (referencing Smokey the Bear) in connection with political memes involving D…
+  - 资金 100.00 / 广度 81.68 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.43，其中已确认叙事 0 个。
-- 宇宙之心 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.14，其中已确认叙事 0 个。
+- Alleged Tucker Carlson Meme Coin Proposal 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - United States Water Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Yi He: Grasp Now | 质量 85.06 | 可交易性 100.00 | 风险 低
-- All at Binance | 质量 81.89 | 可交易性 100.00 | 风险 低
-- United States Water Reserve | 质量 80.22 | 可交易性 100.00 | 风险 低
-- Palu Panic! Binance Day 606 | 质量 78.10 | 可交易性 95.18 | 风险 低
-- Elon Musk Documentary at TIFF 2026 | 质量 77.24 | 可交易性 97.61 | 风险 低
-- Alleged PPBP Token Launch | 质量 74.93 | 可交易性 93.86 | 风险 低
-- Binance Seamless Vision | 质量 74.45 | 可交易性 90.35 | 风险 低
-- The Black Bull Endorses WSOP Solana Showdown | 质量 73.22 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Launch of Binance Academy AI | 质量 72.94 | 可交易性 84.82 | 风险 低
-- United States Oil Protocol | 质量 72.49 | 可交易性 100.00 | 风险 低
+- Yi He: Grasp Now | 质量 85.85 | 可交易性 100.00 | 风险 低
+- All at Binance | 质量 81.87 | 可交易性 100.00 | 风险 低
+- United States Water Reserve | 质量 79.41 | 可交易性 100.00 | 风险 低
+- Palu Panic! Binance Day 606 | 质量 77.62 | 可交易性 93.66 | 风险 低
+- Alleged Tucker Carlson Meme Coin Proposal | 质量 75.58 | 可交易性 96.49 | 风险 低
+- Elon Musk Documentary at TIFF 2026 | 质量 75.30 | 可交易性 96.70 | 风险 低
+- Binance Seamless Vision | 质量 74.73 | 可交易性 91.40 | 风险 低
+- The Black Bull Endorses WSOP Solana Showdown | 质量 73.59 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Launch of Binance Academy AI | 质量 73.06 | 可交易性 85.21 | 风险 低
+- United States Oil Protocol | 质量 72.54 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- Alleged Tucker Carlson Meme Coin Proposal | 风险 42.03 | 原因：流动性偏薄
+- United States Water Reserve | 风险 41.57 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - AOB | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SUMMER | BSC | 看多 | 新鲜度 100.00 | Uncertain:Alleged Launch of Binance Academy AI
-- 宇宙之心 | BSC | 看多 | 新鲜度 100.00 | 宇宙之心
+- 宇宙之心 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SCI6900 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - IF | BSC | 看多 | 新鲜度 100.00 | Yi He: Grasp Now
 - 来根华子 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - STARMIND | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - KIO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Doom | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- MUSK | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- MUSK | Solana | 看多 | 新鲜度 100.00 | Elon Musk Documentary at TIFF 2026
 
 ## 官方催化
 
@@ -131,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Water Reserve（Solana，分数 88.44）
-2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：TCC Mistakenly Downloads GT4 当前为“新出现”
+1. 当前最强叙事：United States Water Reserve（Solana，分数 86.61）
+2. 共振最强代币：SNDK（BSC，共振 100.0）
+3. 记忆层变化：Alleged Tucker Carlson Meme Coin Proposal 当前为“新出现”
 4. 最新官方催化：South Asia Exclusive: BNB Button Game: Hit the Button, Countdown to 00:00, Win 10 BNB
 #Binance #NarrativeOS #OpenClaw
