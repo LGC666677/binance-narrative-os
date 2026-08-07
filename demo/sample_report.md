@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-07T21:07:42.791726+00:00
+- 生成时间：2026-08-07T21:51:47.849239+00:00
 - 跟踪叙事：14
 - 已确认叙事：4
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance GM Menu，所在链为 BSC，叙事强度 92.1。
-- 当前平均叙事强度为 85.86，其中已确认叙事 4 个。
+- 当前最强叙事是 Binance GM Menu，所在链为 BSC，叙事强度 90.88。
+- 当前平均叙事强度为 84.47，其中已确认叙事 4 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 bonga inquires about Solana BNB coin 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 XST，伪叙事风险 40.13。
+- 记忆层显示 Kiro Discusses Pumpfun Legends 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Tanisha Token Distribution，伪叙事风险 42.03。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
-- Binance GM Menu | BSC | 已确认 | 强度 92.10 | 质量 88.54
+- Binance GM Menu | BSC | 已确认 | 强度 90.88 | 质量 88.55
   - 主题摘要：Binance华语账号发布日常问候“GM”并搭配薯条表情，宣传其bStocks全天候供应服务。该内容结合了社区文化问候与平台功能推广，缺乏强烈的Meme传播张力或争议性话题。
-  - 资金 100.00 / 广度 98.62 / 确认 49.80 / 脆弱性 14.00
+  - 资金 100.00 / 广度 98.65 / 确认 49.80 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 87.74 | 质量 86.44
-  - 主题摘要：Binance announces the rapid success of bStocks, a feature allowing users in emerging markets to access global equities. With 90%+ of users from emerging markets and 44% Gen Z, it…
-  - 资金 100.00 / 广度 94.26 / 确认 46.20 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- United States Water Reserve | Solana | 降温中 | 强度 87.67 | 质量 78.24
-  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.92 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Gold Trade | BSC | 已确认 | 强度 87.40 | 质量 85.69
-  - 主题摘要：Binance官方推文推广其黄金和白银交易功能，强调以USDT结算。内容偏向常规金融产品宣传，缺乏Meme代币所需的幽默、讽刺或病毒式传播元素。
-  - 资金 100.00 / 广度 94.39 / 确认 42.60 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- XST | Solana | 降温中 | 强度 87.00 | 质量 79.68
+- XST | Solana | 降温中 | 强度 89.57 | 质量 79.76
   - 主题摘要：Multiple tokens named 「XST」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 98.72 / 确认 9.36 / 脆弱性 22.35
+  - 资金 100.00 / 广度 99.01 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Gold Options Tutorial | BSC | 已确认 | 强度 86.45 | 质量 84.38
-  - 主题摘要：Binance official account posts a basic tutorial on how to trade Gold and Silver options, explaining the simple steps of setting price and amount to execute trades.
-  - 资金 100.00 / 广度 95.41 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Rave Cat | Solana | 加速中 | 强度 86.04 | 质量 77.03
+- United States Water Reserve | Solana | 降温中 | 强度 87.68 | 质量 78.24
+  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.94 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Rave Cat | Solana | 加速中 | 强度 86.71 | 质量 77.06
   - 主题摘要：Multiple tokens named 「RAVECAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.83 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 78.93 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- soliraw🇧🇷 Posts Meme Image | Solana | 加速中 | 强度 85.81 | 质量 79.16
+- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 86.63 | 质量 86.45
+  - 主题摘要：Binance announces the rapid success of bStocks, a feature allowing users in emerging markets to access global equities. With 90%+ of users from emerging markets and 44% Gen Z, it…
+  - 资金 100.00 / 广度 94.29 / 确认 46.20 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- soliraw🇧🇷 Posts Meme Image | Solana | 加速中 | 强度 86.36 | 质量 79.18
   - 主题摘要：According to soliraw🇧🇷's post, a Meme image was shared depicting an alarm ringing for 10 minutes and the user's reaction in their dreams. The content references tokens such as ALA…
-  - 资金 100.00 / 广度 85.93 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.98 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- bonga inquires about Solana BNB coin | Solana | 加速中 | 强度 84.98 | 质量 75.92
-  - 主题摘要：According to Debbie's post, she advocates rallying behind the PumpLife token, asserting that the crypto community and projects are increasingly centered on the Pump platform. She…
-  - 资金 100.00 / 广度 88.04 / 确认 24.48 / 脆弱性 14.00
+- Binance Gold Trade | BSC | 已确认 | 强度 86.07 | 质量 85.70
+  - 主题摘要：Binance官方推文推广其黄金和白银交易功能，强调以USDT结算。内容偏向常规金融产品宣传，缺乏Meme代币所需的幽默、讽刺或病毒式传播元素。
+  - 资金 100.00 / 广度 94.42 / 确认 42.60 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Binance Gold Options Tutorial | BSC | 已确认 | 强度 85.12 | 质量 84.39
+  - 主题摘要：Binance official account posts a basic tutorial on how to trade Gold and Silver options, explaining the simple steps of setting price and amount to execute trades.
+  - 资金 100.00 / 广度 95.44 / 确认 35.28 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Kiro Discusses Pumpfun Legends | Solana | 加速中 | 强度 83.42 | 质量 78.18
+  - 主题摘要：According to Kiro's post, the Pumpfun platform has established a community narrative where top traders on the leaderboard are crowned as legends. Kiro describes this narrative as…
+  - 资金 100.00 / 广度 88.43 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Tanisha Token Distribution | Solana | 点火期 | 强度 82.88 | 质量 79.77
+  - 主题摘要：According to The_COD_Slayer's post, Tanisha is recognized for onboarding new users to memecoins. The author claims to have sent 4% of the Tanisha token supply to her wallet to mak…
+  - 资金 100.00 / 广度 93.74 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 - Microsoft Corporation | Solana | 降温中 | 强度 82.66 | 质量 72.19
   - 主题摘要：Multiple tokens named 「MSFTB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 73.76 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Enes Kanter WNBA Draft Eligibility | Solana | 降温中 | 强度 82.02 | 质量 69.53
+- Enes Kanter WNBA Draft Eligibility | Solana | 降温中 | 强度 82.28 | 质量 69.98
   - 主题摘要：According to gettindevvy_'s post, former NBA player Enes Kanter Freedom has officially declared himself eligible for the 2027 WNBA Draft. The post highlights his height of 6-foot-…
-  - 资金 100.00 / 广度 81.96 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.10 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Shares Mars Cat Meme | BSC | 降温中 | 强度 81.73 | 质量 70.64
+- Elon Musk Shares Mars Cat Meme | BSC | 降温中 | 强度 79.88 | 质量 70.59
   - 主题摘要：Elon Musk posted a link to a new TV series on his social media account. The post includes a URL directing users to the content. The provided cryptocurrency token information is ir…
-  - 资金 100.00 / 广度 75.37 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.39 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USOX | Solana | 降温中 | 强度 81.51 | 质量 69.56
-  - 主题摘要：Multiple tokens named 「USOX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.99 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon's Terafab Texas | BSC | 加速中 | 强度 79.75 | 质量 71.46
+- Elon's Terafab Texas | BSC | 加速中 | 强度 78.24 | 质量 71.98
   - 主题摘要：Elon Musk announced the construction of Terafab Texas, claiming it will be the largest and most valuable building on Earth. This bold vision of massive industrial architecture dri…
-  - 资金 100.00 / 广度 80.02 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.99 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 85.86，其中已确认叙事 4 个。
-- bonga inquires about Solana BNB coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- United States Water Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 84.47，其中已确认叙事 4 个。
+- Kiro Discusses Pumpfun Legends 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- XST 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance GM Menu | 质量 88.54 | 可交易性 100.00 | 风险 低
-- Binance bStocks: Democratizing Global Equities | 质量 86.44 | 可交易性 100.00 | 风险 低
-- Binance Gold Trade | 质量 85.69 | 可交易性 100.00 | 风险 低
-- Binance Gold Options Tutorial | 质量 84.38 | 可交易性 100.00 | 风险 低
-- XST | 质量 79.68 | 可交易性 100.00 | 风险 低
-- soliraw🇧🇷 Posts Meme Image | 质量 79.16 | 可交易性 100.00 | 风险 低
+- Binance GM Menu | 质量 88.55 | 可交易性 100.00 | 风险 低
+- Binance bStocks: Democratizing Global Equities | 质量 86.45 | 可交易性 100.00 | 风险 低
+- Binance Gold Trade | 质量 85.70 | 可交易性 100.00 | 风险 低
+- Binance Gold Options Tutorial | 质量 84.39 | 可交易性 100.00 | 风险 低
+- Alleged Tanisha Token Distribution | 质量 79.77 | 可交易性 100.00 | 风险 低
+- XST | 质量 79.76 | 可交易性 100.00 | 风险 低
+- soliraw🇧🇷 Posts Meme Image | 质量 79.18 | 可交易性 100.00 | 风险 低
 - United States Water Reserve | 质量 78.24 | 可交易性 100.00 | 风险 低
-- Rave Cat | 质量 77.03 | 可交易性 100.00 | 风险 低
-- bonga inquires about Solana BNB coin | 质量 75.92 | 可交易性 87.06 | 风险 低
-- Microsoft Corporation | 质量 72.19 | 可交易性 100.00 | 风险 低
+- Kiro Discusses Pumpfun Legends | 质量 78.18 | 可交易性 97.37 | 风险 低
+- Rave Cat | 质量 77.06 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- XST | 风险 40.13 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Alleged Tanisha Token Distribution | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -102,12 +102,12 @@
 - bStocks | BSC | 看多 | 新鲜度 100.00 | Binance GM Menu
 - SUMMER | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GPU | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PUMPLIFE | Solana | 看多 | 新鲜度 100.00 | bonga inquires about Solana BNB coin
 - DUCKY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - chrome | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEMEHOUSE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Dave | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Dave | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- DUCK | Solana | 看多 | 新鲜度 97.72 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance GM Menu（BSC，分数 92.1）
+1. 当前最强叙事：Binance GM Menu（BSC，分数 90.88）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：bonga inquires about Solana BNB coin 当前为“新出现”
+3. 记忆层变化：Kiro Discusses Pumpfun Legends 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
