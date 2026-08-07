@@ -1,99 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-07T10:30:19.010583+00:00
+- 生成时间：2026-08-07T11:28:04.153735+00:00
 - 跟踪叙事：14
-- 已确认叙事：4
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance GM Menu，所在链为 BSC，叙事强度 91.74。
-- 当前平均叙事强度为 86.12，其中已确认叙事 4 个。
-- 记忆层显示 Binance Gold Trade 当前处于“新出现”状态。
+- 当前最强叙事是 Binance Gold Trade，所在链为 BSC，叙事强度 89.75。
+- 当前平均叙事强度为 82.23，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 PIPPIN，来自 Solana，共振分数 99.14。
+- 记忆层显示 Monkey Coin Douyin Promotion Claims 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Patecoin，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
-- Binance GM Menu | BSC | 已确认 | 强度 91.74 | 质量 88.96
-  - 主题摘要：Binance华语账号发布日常问候“GM”并搭配薯条表情，宣传其bStocks全天候供应服务。该内容结合了社区文化问候与平台功能推广，缺乏强烈的Meme传播张力或争议性话题。
-  - 资金 100.00 / 广度 100.00 / 确认 49.80 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Gold Options Tutorial | BSC | 已确认 | 强度 90.92 | 质量 87.27
-  - 主题摘要：Binance official account posts a basic tutorial on how to trade Gold and Silver options, explaining the simple steps of setting price and amount to execute trades.
-  - 资金 100.00 / 广度 97.02 / 确认 46.20 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Gold Trade | BSC | 已确认 | 强度 90.18 | 质量 86.67
+- Binance Gold Trade | BSC | 已确认 | 强度 89.75 | 质量 86.33
   - 主题摘要：Binance官方推文推广其黄金和白银交易功能，强调以USDT结算。内容偏向常规金融产品宣传，缺乏Meme代币所需的幽默、讽刺或病毒式传播元素。
-  - 资金 100.00 / 广度 95.02 / 确认 46.20 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.89 / 确认 46.20 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 89.58 | 质量 86.67
-  - 主题摘要：Binance announces the rapid success of bStocks, a feature allowing users in emerging markets to access global equities. With 90%+ of users from emerging markets and 44% Gen Z, it…
-  - 资金 100.00 / 广度 95.02 / 确认 46.20 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- USOF | Solana | 降温中 | 强度 88.70 | 质量 78.80
+- USOF | Solana | 降温中 | 强度 88.70 | 质量 78.81
   - 主题摘要：Multiple tokens named 「USOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.81 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 95.83 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Alleged Meme House Token | Solana | 降温中 | 强度 86.87 | 质量 77.68
   - 主题摘要：According to Chillhоusе Dеv's post, the White House is referred to as the 'Memehouse' due to its posting of Nintendo-themed memes, which Japan requested to stop. This terminology…
-  - 资金 100.00 / 广度 89.42 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.43 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MetaMask Discusses Robinhood's Origin | Solana | 降温中 | 强度 85.02 | 质量 73.74
+- MetaMask Discusses Robinhood's Origin | Solana | 降温中 | 强度 85.16 | 质量 73.82
   - 主题摘要：Multiple tokens named 「CASHCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.95 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 79.21 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Robinhood Lists $CASHCAT | Solana | 降温中 | 强度 83.84 | 质量 71.85
+- Binance GM Menu | BSC | 加速中 | 强度 84.66 | 质量 77.80
+  - 主题摘要：Binance华语账号发布日常问候“GM”并搭配薯条表情，宣传其bStocks全天候供应服务。该内容结合了社区文化问候与平台功能推广，缺乏强烈的Meme传播张力或争议性话题。
+  - 资金 100.00 / 广度 91.69 / 确认 27.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Robinhood Lists $CASHCAT | Solana | 降温中 | 强度 83.93 | 质量 71.85
   - 主题摘要：Multiple tokens named 「CASHCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.63 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 72.65 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Shares Morning Routine | BSC | 加速中 | 强度 82.56 | 质量 78.90
-  - 主题摘要：Elon Musk replied to a post about early morning routines, sharing that his dog, Marvin, woke him up at 5am. This interaction highlights his personal daily habits and pet ownership…
-  - 资金 100.00 / 广度 88.21 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- hacked post lol | Solana | 加速中 | 强度 81.79 | 质量 74.80
-  - 主题摘要：According to honest's post, a URL to a donation page on the rzss.org.uk domain was shared. The post contains no specific commentary on cryptocurrency tokens or market trends, serv…
-  - 资金 100.00 / 广度 83.32 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- RISE | Solana | 加速中 | 强度 80.80 | 质量 72.43
-  - 主题摘要：Multiple tokens named 「RISE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.91 / 确认 27.36 / 脆弱性 25.25
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Patecoin | Solana | 降温中 | 强度 80.34 | 质量 72.82
-  - 主题摘要：PATE is a meme token inspired by the Pepe the Frog internet culture. The logo features a frog character with a distinctive pink face, embodying the playful spirit of the original…
-  - 资金 100.00 / 广度 75.88 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cedric 🦋 Shares Cat Meme | BSC | 降温中 | 强度 79.01 | 质量 65.02
-  - 主题摘要：According to Cedric 🦋's post, the user shared a Meme image featuring cats, accompanied by the text 'Cats with cash, or cats with stocks?' and a quoted tweet suggesting 'Why not bo…
-  - 资金 100.00 / 广度 78.90 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon's Terafab Texas | BSC | 加速中 | 强度 78.83 | 质量 74.50
+- Elon's Terafab Texas | BSC | 加速中 | 强度 81.22 | 质量 75.41
   - 主题摘要：Elon Musk announced the construction of Terafab Texas, claiming it will be the largest and most valuable building on Earth. This bold vision of massive industrial architecture dri…
-  - 资金 100.00 / 广度 83.80 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.01 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk Shares Morning Routine | BSC | 加速中 | 强度 81.15 | 质量 78.88
+  - 主题摘要：Elon Musk replied to a post about early morning routines, sharing that his dog, Marvin, woke him up at 5am. This interaction highlights his personal daily habits and pet ownership…
+  - 资金 100.00 / 广度 88.15 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- RISE | Solana | 加速中 | 强度 80.89 | 质量 72.53
+  - 主题摘要：Multiple tokens named 「RISE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.90 / 确认 27.36 / 脆弱性 25.25
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Monkey Coin Douyin Promotion Claims | BSC | 降温中 | 强度 80.69 | 质量 72.46
+  - 主题摘要：According to 猴子币's post, the Monkey Coin token is claimed to be the only cryptocurrency permitted for legal promotion and advertising on Douyin, surpassing even Bitcoin in complia…
+  - 资金 100.00 / 广度 78.52 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- hacked post lol | Solana | 加速中 | 强度 80.42 | 质量 73.65
+  - 主题摘要：According to honest's post, a URL to a donation page on the rzss.org.uk domain was shared. The post contains no specific commentary on cryptocurrency tokens or market trends, serv…
+  - 资金 100.00 / 广度 83.30 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Patecoin | Solana | 降温中 | 强度 80.31 | 质量 72.77
+  - 主题摘要：PATE is a meme token inspired by the Pepe the Frog internet culture. The logo features a frog character with a distinctive pink face, embodying the playful spirit of the original…
+  - 资金 100.00 / 广度 75.69 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Mowgli | Solana | 加速中 | 强度 80.21 | 质量 70.58
+  - 主题摘要：According to RedOval93's post, the Mowgli token is associated with charity initiatives. The author highlights this charitable aspect as a key feature of the project.
+  - 资金 100.00 / 广度 71.65 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk Shares Mars Cat Meme | BSC | 降温中 | 强度 75.93 | 质量 68.31
+  - 主题摘要：Elon Musk posted a link to a new TV series on X. The post does not mention any cryptocurrency tokens or digital assets. The provided token information regarding 'Catalorian' is ir…
+  - 资金 100.00 / 广度 74.55 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 86.12，其中已确认叙事 4 个。
-- Binance Gold Trade 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 82.23，其中已确认叙事 1 个。
+- Mowgli 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - USOF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance GM Menu | 质量 88.96 | 可交易性 100.00 | 风险 低
-- Binance Gold Options Tutorial | 质量 87.27 | 可交易性 100.00 | 风险 低
-- Binance Gold Trade | 质量 86.67 | 可交易性 100.00 | 风险 低
-- Binance bStocks: Democratizing Global Equities | 质量 86.67 | 可交易性 100.00 | 风险 低
-- Elon Musk Shares Morning Routine | 质量 78.90 | 可交易性 100.00 | 风险 低
-- USOF | 质量 78.80 | 可交易性 100.00 | 风险 低
+- Binance Gold Trade | 质量 86.33 | 可交易性 100.00 | 风险 低
+- Elon Musk Shares Morning Routine | 质量 78.88 | 可交易性 100.00 | 风险 低
+- USOF | 质量 78.81 | 可交易性 100.00 | 风险 低
+- Binance GM Menu | 质量 77.80 | 可交易性 87.49 | 风险 低
 - Alleged Meme House Token | 质量 77.68 | 可交易性 100.00 | 风险 低
-- hacked post lol | 质量 74.80 | 可交易性 88.06 | 风险 低
-- Elon's Terafab Texas | 质量 74.50 | 可交易性 86.57 | 风险 低
-- MetaMask Discusses Robinhood's Origin | 质量 73.74 | 可交易性 100.00 | 风险 低
+- Elon's Terafab Texas | 质量 75.41 | 可交易性 89.39 | 风险 低
+- MetaMask Discusses Robinhood's Origin | 质量 73.82 | 可交易性 100.00 | 风险 低
+- hacked post lol | 质量 73.65 | 可交易性 87.42 | 风险 低
+- Patecoin | 质量 72.77 | 可交易性 100.00 | 风险 低
+- RISE | 质量 72.53 | 可交易性 89.80 | 风险 低
 
 ## 伪叙事风险
 
 - Patecoin | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon Musk Shares Mars Cat Meme | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -102,11 +104,11 @@
 - 月薪喵 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AOB | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 宇宙之心 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SCI6900 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEMEHOUSE | Solana | 看多 | 新鲜度 100.00 | Alleged Meme House Token
 - Dave | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Dave | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - fame | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Evo | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -132,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance GM Menu（BSC，分数 91.74）
-2. 共振最强代币：待确认（-，共振 -）
-3. 记忆层变化：Binance Gold Trade 当前为“新出现”
+1. 当前最强叙事：Binance Gold Trade（BSC，分数 89.75）
+2. 共振最强代币：PIPPIN（Solana，共振 99.14）
+3. 记忆层变化：Monkey Coin Douyin Promotion Claims 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
