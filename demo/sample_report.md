@@ -1,99 +1,97 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-08T16:02:26.971410+00:00
+- 生成时间：2026-08-08T16:49:03.895939+00:00
 - 跟踪叙事：14
 - 已确认叙事：6
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged TOADPEPE Meme Coin Launch，所在链为 Solana，叙事强度 88.81。
-- 当前平均叙事强度为 83.82，其中已确认叙事 0 个。
+- 当前最强叙事是 Alleged TOADPEPE Meme Coin Launch，所在链为 Solana，叙事强度 91.23。
+- 当前平均叙事强度为 83.98，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 SUMMER，来自 BSC，共振分数 100.0。
-- 记忆层显示 YOU'RE A WANKER 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 American Oil Relief Program，伪叙事风险 52.99。
+- 记忆层显示 TNOS 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
-- Alleged TOADPEPE Meme Coin Launch | Solana | 加速中 | 强度 88.81 | 质量 82.19
+- Alleged TOADPEPE Meme Coin Launch | Solana | 加速中 | 强度 91.23 | 质量 83.39
   - 主题摘要：According to zlin's post, the user claims to be launching an alleged TOADPEPE token, citing a narrative connection to the original Pepe frog character and Matt Furie. The post sug…
-  - 资金 100.00 / 广度 96.00 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 100.00 / 确认 24.48 / 脆弱性 10.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- claudius Autonomous Agent | Solana | 降温中 | 强度 86.54 | 质量 79.08
-  - 主题摘要：According to claudius's post, claudius is an autonomous agent equipped with its own X account, browser, persistent memory, and a budget to explore the real world independently. Th…
-  - 资金 100.00 / 广度 94.09 / 确认 12.96 / 脆弱性 24.00
+- claudius Autonomous Agent | Solana | 降温中 | 强度 87.76 | 质量 79.12
+  - 主题摘要：According to claudius's post, claudius is an autonomous agent equipped with its own X account, browser, persistent memory, and budget, designed to explore the real world and make…
+  - 资金 100.00 / 广度 94.23 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance GM Menu | BSC | 已确认 | 强度 86.15 | 质量 85.48
-  - 主题摘要：Binance华语账号发布日常问候“GM”并搭配薯条表情，宣传其bStocks全天候供应服务。该内容结合了社区文化问候与平台功能推广，缺乏强烈的Meme传播张力或争议性话题。
-  - 资金 100.00 / 广度 94.34 / 确认 49.80 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Gold Trade | BSC | 已确认 | 强度 85.53 | 质量 82.20
+- TNOS | Solana | 降温中 | 强度 86.87 | 质量 75.70
+  - 主题摘要：According to Degen Capital's post, the token TNOS experienced a 5.0X price increase within 9 hours, with its market capitalization rising from 56.2 million to 280.9 million. The p…
+  - 资金 100.00 / 广度 85.48 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Gold Trade | BSC | 已确认 | 强度 85.06 | 质量 81.38
   - 主题摘要：Binance官方推文推广其黄金和白银交易功能，强调以USDT结算。内容偏向常规金融产品宣传，缺乏Meme代币所需的幽默、讽刺或病毒式传播元素。
-  - 资金 100.00 / 广度 88.59 / 确认 46.20 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.51 / 确认 46.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 85.37 | 质量 82.10
+- Binance GM Menu | BSC | 已确认 | 强度 84.85 | 质量 84.15
+  - 主题摘要：Binance华语账号发布日常问候“GM”并搭配薯条表情，宣传其bStocks全天候供应服务。该内容结合了社区文化问候与平台功能推广，缺乏强烈的Meme传播张力或争议性话题。
+  - 资金 100.00 / 广度 94.17 / 确认 49.80 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alexander Yue Comments on Claudius Agent | Solana | 降温中 | 强度 84.80 | 质量 74.76
+  - 主题摘要：According to Alexander Yue's post, he expressed approval for the 'claudius' autonomous agent project. This agent features independent decision-making, real-world exploration capab…
+  - 资金 100.00 / 广度 82.32 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 84.75 | 质量 81.26
   - 主题摘要：Binance announces the rapid success of bStocks, a feature allowing users in emerging markets to access global equities. With 90%+ of users from emerging markets and 44% Gen Z, it…
-  - 资金 100.00 / 广度 88.50 / 确认 46.20 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.42 / 确认 46.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- PENGU1N | Solana | 加速中 | 强度 84.61 | 质量 80.17
-  - 主题摘要：According to dsadsadas's post, the user states that 'one running isnt sharing fees' in the context of the PENGU1N token. This comment suggests a discussion regarding fee distribut…
-  - 资金 100.00 / 广度 89.27 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alexander Yue Comments on Claudius Agent | Solana | 降温中 | 强度 84.57 | 质量 74.41
-  - 主题摘要：According to Alexander Yue's post, he expressed approval for the 'claudius' autonomous agent project. The project, originally described by @claudiuswrld, features an AI agent with…
-  - 资金 100.00 / 广度 81.18 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- National Trust Fund System | Solana | 降温中 | 强度 83.80 | 质量 73.83
-  - 主题摘要：Multiple tokens named 「NTFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.59 / 确认 12.96 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Gold Options Tutorial | BSC | 已确认 | 强度 83.75 | 质量 79.92
+- Binance Gold Options Tutorial | BSC | 已确认 | 强度 83.39 | 质量 79.20
   - 主题摘要：Binance official account posts a basic tutorial on how to trade Gold and Silver options, explaining the simple steps of setting price and amount to execute trades.
-  - 资金 100.00 / 广度 89.30 / 确认 35.28 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.24 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- American Oil Relief Program | Solana | 点火期 | 强度 80.12 | 质量 76.59
-  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.45 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- OG Comments on BNB Card Narrative | BSC | 已确认 | 强度 79.38 | 质量 74.71
-  - 主题摘要：According to OG's post, the user commented on the narrative surrounding the BNB Card, expressing enthusiasm with the phrase "send it." This statement reflects a positive sentiment…
-  - 资金 100.00 / 广度 90.19 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Racoonzilla Meme Image | BSC | 已确认 | 强度 79.06 | 质量 80.35
-  - 主题摘要：According to Planet Of Memes's post, the author shared a Meme image titled 'Racoonzilla' in a reply to Elon Musk. This content references the token symbol Racoonzilla. This inform…
-  - 资金 100.00 / 广度 87.23 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- YOU'RE A WANKER | Solana | 降温中 | 强度 78.32 | 质量 69.85
-  - 主题摘要：Multiple tokens named 「WANKER」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.96 / 确认 9.36 / 脆弱性 14.00
+- National Trust Fund System | Solana | 降温中 | 强度 81.42 | 质量 70.62
+  - 主题摘要：Multiple tokens named 「NTFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.11 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Golden Nailong Meme Image | BSC | 加速中 | 强度 77.31 | 质量 77.75
-  - 主题摘要：According to jadedev's post, the 'Nailong' character is described as 'golden' and identified as the 'best golden meme'. This content references the 'Nailong' token and promotes a…
-  - 资金 100.00 / 广度 80.40 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- USWR | Solana | 降温中 | 强度 80.36 | 质量 68.16
+  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 60.34 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Grok Imagine Agent Meme | Solana | 降温中 | 强度 79.91 | 质量 66.17
+  - 主题摘要：According to Dogan Ural's post, one of his Grok Imagine agents allegedly escaped the test environment and created a Meme image. This claim is unverified and requires caution.
+  - 资金 100.00 / 广度 82.04 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Retarded Bull Token Launch | Solana | 降温中 | 强度 79.52 | 质量 68.23
+  - 主题摘要：According to Ayush's post, Slingor allegedly developed a token with a 10M supply, holding 20% of the total. Ayush claims Slingor self-identified as the "retarded bull" in a previo…
+  - 资金 100.00 / 广度 76.52 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Racoonzilla Meme Image | BSC | 已确认 | 强度 79.04 | 质量 80.29
+  - 主题摘要：According to Planet Of Memes's post, the author shared a Meme image titled 'Racoonzilla' in a reply to Elon Musk. This content references the token symbol Racoonzilla. This inform…
+  - 资金 100.00 / 广度 87.05 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- OG Comments on BNB Card Narrative | BSC | 已确认 | 强度 78.54 | 质量 73.13
+  - 主题摘要：According to OG's post, the user commented on the narrative surrounding the BNB Card, expressing enthusiasm with the phrase "send it." This statement reflects a positive sentiment…
+  - 资金 100.00 / 广度 89.95 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.82，其中已确认叙事 0 个。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.98，其中已确认叙事 0 个。
 - claudius Autonomous Agent 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance GM Menu | 质量 85.48 | 可交易性 100.00 | 风险 低
-- Binance Gold Trade | 质量 82.20 | 可交易性 100.00 | 风险 低
-- Alleged TOADPEPE Meme Coin Launch | 质量 82.19 | 可交易性 100.00 | 风险 低
-- Binance bStocks: Democratizing Global Equities | 质量 82.10 | 可交易性 100.00 | 风险 低
-- Alleged Racoonzilla Meme Image | 质量 80.35 | 可交易性 100.00 | 风险 低
-- PENGU1N | 质量 80.17 | 可交易性 100.00 | 风险 低
-- Binance Gold Options Tutorial | 质量 79.92 | 可交易性 100.00 | 风险 低
-- claudius Autonomous Agent | 质量 79.08 | 可交易性 100.00 | 风险 低
-- Alleged Golden Nailong Meme Image | 质量 77.75 | 可交易性 100.00 | 风险 低
-- American Oil Relief Program | 质量 76.59 | 可交易性 100.00 | 风险 低
+- Binance GM Menu | 质量 84.15 | 可交易性 100.00 | 风险 低
+- Alleged TOADPEPE Meme Coin Launch | 质量 83.39 | 可交易性 100.00 | 风险 低
+- Binance Gold Trade | 质量 81.38 | 可交易性 100.00 | 风险 低
+- Binance bStocks: Democratizing Global Equities | 质量 81.26 | 可交易性 100.00 | 风险 低
+- Alleged Racoonzilla Meme Image | 质量 80.29 | 可交易性 100.00 | 风险 低
+- Binance Gold Options Tutorial | 质量 79.20 | 可交易性 100.00 | 风险 低
+- claudius Autonomous Agent | 质量 79.12 | 可交易性 100.00 | 风险 低
+- TNOS | 质量 75.70 | 可交易性 100.00 | 风险 低
+- Alexander Yue Comments on Claudius Agent | 质量 74.76 | 可交易性 100.00 | 风险 低
+- OG Comments on BNB Card Narrative | 质量 73.13 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- American Oil Relief Program | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -132,8 +130,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged TOADPEPE Meme Coin Launch（Solana，分数 88.81）
+1. 当前最强叙事：Alleged TOADPEPE Meme Coin Launch（Solana，分数 91.23）
 2. 共振最强代币：SUMMER（BSC，共振 100.0）
-3. 记忆层变化：YOU'RE A WANKER 当前为“新出现”
+3. 记忆层变化：TNOS 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
