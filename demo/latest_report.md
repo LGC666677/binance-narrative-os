@@ -1,96 +1,96 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-08T22:44:39.040025+00:00
+- 生成时间：2026-08-08T23:03:48.623414+00:00
 - 跟踪叙事：14
 - 已确认叙事：5
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Oil Holdings，所在链为 Solana，叙事强度 88.63。
-- 当前平均叙事强度为 85.74，其中已确认叙事 0 个。
+- 当前最强叙事是 Binance Gold Trade，所在链为 BSC，叙事强度 89.57。
+- 当前平均叙事强度为 84.55，其中已确认叙事 5 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Official Ronaldo 当前处于“新出现”状态。
+- 记忆层显示 Alleged Bullfrog Token Launch 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 PEPE Origin Story，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
+- Binance Gold Trade | BSC | 已确认 | 强度 89.57 | 质量 84.71
+  - 主题摘要：Binance官方推文推广其黄金和白银交易功能，强调以USDT结算。内容偏向常规金融产品宣传，缺乏Meme代币所需的幽默、讽刺或病毒式传播元素。
+  - 资金 100.00 / 广度 88.49 / 确认 46.20 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
 - United States Oil Holdings | Solana | 降温中 | 强度 88.63 | 质量 77.98
   - 主题摘要：Multiple tokens named 「USOH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.06 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 93.07 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - SAOF | Solana | 降温中 | 强度 88.19 | 质量 77.10
   - 主题摘要：Multiple tokens named 「SAOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 87.50 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PEPE Origin Story | Solana | 降温中 | 强度 87.04 | 质量 80.06
-  - 主题摘要：Multiple tokens named 「PEPE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Gold Trade | BSC | 已确认 | 强度 85.66 | 质量 81.98
-  - 主题摘要：Binance官方推文推广其黄金和白银交易功能，强调以USDT结算。内容偏向常规金融产品宣传，缺乏Meme代币所需的幽默、讽刺或病毒式传播元素。
-  - 资金 100.00 / 广度 88.48 / 确认 46.20 / 脆弱性 14.00
+- Binance Gold Options Tutorial | BSC | 已确认 | 强度 87.93 | 质量 82.52
+  - 主题摘要：Binance official account posts a basic tutorial on how to trade Gold and Silver options, explaining the simple steps of setting price and amount to execute trades.
+  - 资金 100.00 / 广度 89.21 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
 - Official Ronaldo | Solana | 降温中 | 强度 85.57 | 质量 75.76
   - 主题摘要：Multiple tokens named 「CR7」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.67 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.68 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Oil Collective | Solana | 降温中 | 强度 85.28 | 质量 72.87
-  - 主题摘要：Multiple tokens named 「USOC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.04 / 确认 9.36 / 脆弱性 0.00
+- PEPE Origin Story | Solana | 降温中 | 强度 85.22 | 质量 77.13
+  - 主题摘要：According to StarPlatinum's post, the real origin of the character Pepe dates back to 1988 on Argentine TV as El Sapo Pepe, predating Matt Furie's creation. This narrative is link…
+  - 资金 100.00 / 广度 90.23 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance GM Menu | BSC | 已确认 | 强度 84.79 | 质量 84.86
+- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 85.11 | 质量 81.81
+  - 主题摘要：Binance announces the rapid success of bStocks, a feature allowing users in emerging markets to access global equities. With 90%+ of users from emerging markets and 44% Gen Z, it…
+  - 资金 100.00 / 广度 88.45 / 确认 46.20 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Binance GM Menu | BSC | 已确认 | 强度 84.83 | 质量 85.29
   - 主题摘要：Binance华语账号发布日常问候“GM”并搭配薯条表情，宣传其bStocks全天候供应服务。该内容结合了社区文化问候与平台功能推广，缺乏强烈的Meme传播张力或争议性话题。
   - 资金 100.00 / 广度 94.03 / 确认 49.80 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 84.53 | 质量 80.94
-  - 主题摘要：Binance announces the rapid success of bStocks, a feature allowing users in emerging markets to access global equities. With 90%+ of users from emerging markets and 44% Gen Z, it…
-  - 资金 100.00 / 广度 88.44 / 确认 46.20 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Gold Options Tutorial | BSC | 已确认 | 强度 84.01 | 质量 79.79
-  - 主题摘要：Binance official account posts a basic tutorial on how to trade Gold and Silver options, explaining the simple steps of setting price and amount to execute trades.
-  - 资金 100.00 / 广度 89.19 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Chris Discusses OpenAI's 'Doug' Model | Solana | 降温中 | 强度 83.84 | 质量 77.84
-  - 主题摘要：According to Chris's post, Chris states that OpenAI's upcoming end-of-year model, codenamed 'Doug,' will be its largest pre-training run to date. Chris claims this model will sign…
-  - 资金 100.00 / 广度 89.96 / 确认 12.96 / 脆弱性 14.00
+- Alleged Pepe Vamp Meme Coin | Solana | 降温中 | 强度 83.60 | 质量 75.26
+  - 主题摘要：According to copperinu23✴️'s post, the official Pepe website features a 'Pepe Vamp' Meme image, which is associated with a token named 'ShibaCumGMElonKishuTurboAssFloki'. The post…
+  - 资金 100.00 / 广度 83.99 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Pepe Vamp Meme Coin | Solana | 降温中 | 强度 83.71 | 质量 75.37
-  - 主题摘要：Multiple tokens named 「PEPE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.37 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Hispanic Pepe Meme | Solana | 降温中 | 强度 83.66 | 质量 75.37
+- Alleged Hispanic Pepe Meme | Solana | 降温中 | 强度 83.60 | 质量 75.26
   - 主题摘要：According to 虹膜's post, the author claims that the official mascot of Bad Bunny reached a valuation of 40 million in 2024 and asserts that Pepe is currently the dominant meta. The…
-  - 资金 100.00 / 广度 84.37 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.99 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴富羊 | BSC | 已确认 | 强度 81.20 | 质量 74.62
+- Chris Discusses OpenAI's 'Doug' Model | Solana | 加速中 | 强度 82.58 | 质量 71.87
+  - 主题摘要：Multiple tokens named 「DOUG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.80 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 暴富羊 | BSC | 已确认 | 强度 82.18 | 质量 74.58
   - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.31 / 确认 30.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.32 / 确认 30.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- OG Comments on BNB Card Narrative | BSC | 加速中 | 强度 77.85 | 质量 72.71
-  - 主题摘要：According to OG's post, the user commented on the narrative surrounding the BNB Card, expressing enthusiasm with the phrase "send it". This statement reflects a positive sentiment…
-  - 资金 100.00 / 广度 89.15 / 确认 28.08 / 脆弱性 14.00
+- Alleged Bullfrog Token Launch | Solana | 降温中 | 强度 81.28 | 质量 72.22
+  - 主题摘要：According to z's post, the Bullfrog token is allegedly launched to send fees to Mr Frog, citing bullfrogs as the largest frog species. This information is unverified. Please exerc…
+  - 资金 100.00 / 广度 81.11 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Asian Games | BSC | 加速中 | 强度 77.71 | 质量 65.22
+  - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.60 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.74，其中已确认叙事 0 个。
-- OG Comments on BNB Card Narrative 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 84.55，其中已确认叙事 5 个。
+- Asian Games 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - United States Oil Holdings 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance GM Menu | 质量 84.86 | 可交易性 100.00 | 风险 低
-- Binance Gold Trade | 质量 81.98 | 可交易性 100.00 | 风险 低
-- Binance bStocks: Democratizing Global Equities | 质量 80.94 | 可交易性 100.00 | 风险 低
-- PEPE Origin Story | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Binance Gold Options Tutorial | 质量 79.79 | 可交易性 100.00 | 风险 低
+- Binance GM Menu | 质量 85.29 | 可交易性 100.00 | 风险 低
+- Binance Gold Trade | 质量 84.71 | 可交易性 100.00 | 风险 低
+- Binance Gold Options Tutorial | 质量 82.52 | 可交易性 100.00 | 风险 低
+- Binance bStocks: Democratizing Global Equities | 质量 81.81 | 可交易性 100.00 | 风险 低
 - United States Oil Holdings | 质量 77.98 | 可交易性 100.00 | 风险 低
-- Chris Discusses OpenAI's 'Doug' Model | 质量 77.84 | 可交易性 100.00 | 风险 低
+- PEPE Origin Story | 质量 77.13 | 可交易性 100.00 | 风险 低
 - SAOF | 质量 77.10 | 可交易性 100.00 | 风险 低
 - Official Ronaldo | 质量 75.76 | 可交易性 100.00 | 风险 低
-- Alleged Pepe Vamp Meme Coin | 质量 75.37 | 可交易性 100.00 | 风险 低
+- Alleged Pepe Vamp Meme Coin | 质量 75.26 | 可交易性 100.00 | 风险 低
+- Alleged Hispanic Pepe Meme | 质量 75.26 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -101,13 +101,13 @@
 ## 信号台
 
 - MEMEFI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- bStocks | BSC | 看多 | 新鲜度 100.00 | Binance GM Menu
+- bStocks | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CLIP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TOAD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Hypnotoad | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CATE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- bCard | BSC | 看多 | 新鲜度 99.40 | OG Comments on BNB Card Narrative
 - SAPU | Solana | 看多 | 新鲜度 95.13 | 暂无直接叙事映射
+- bCard | BSC | 看多 | 新鲜度 87.40 | 暂无直接叙事映射
 - Raccoonzilla | BSC | 看多 | 新鲜度 82.46 | 暂无直接叙事映射
 - bTO | BSC | 看多 | 新鲜度 80.44 | 暂无直接叙事映射
 
@@ -135,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Oil Holdings（Solana，分数 88.63）
+1. 当前最强叙事：Binance Gold Trade（BSC，分数 89.57）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Official Ronaldo 当前为“新出现”
+3. 记忆层变化：Alleged Bullfrog Token Launch 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
