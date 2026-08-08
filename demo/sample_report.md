@@ -1,101 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-08T00:03:40.882235+00:00
+- 生成时间：2026-08-08T02:17:45.590666+00:00
 - 跟踪叙事：14
 - 已确认叙事：4
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance GM Menu，所在链为 BSC，叙事强度 91.14。
-- 当前平均叙事强度为 84.79，其中已确认叙事 4 个。
+- 当前最强叙事是 Binance GM Menu，所在链为 BSC，叙事强度 90.29。
+- 当前平均叙事强度为 83.98，其中已确认叙事 4 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Biscotti 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Enes Kanter WNBA Draft Eligibility，伪叙事风险 44.91。
+- 记忆层显示 Ramen Plan 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
-- Binance GM Menu | BSC | 已确认 | 强度 91.14 | 质量 88.55
+- Binance GM Menu | BSC | 已确认 | 强度 90.29 | 质量 88.52
   - 主题摘要：Binance华语账号发布日常问候“GM”并搭配薯条表情，宣传其bStocks全天候供应服务。该内容结合了社区文化问候与平台功能推广，缺乏强烈的Meme传播张力或争议性话题。
-  - 资金 100.00 / 广度 98.64 / 确认 49.80 / 脆弱性 24.00
+  - 资金 100.00 / 广度 98.56 / 确认 49.80 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Gold Trade | BSC | 已确认 | 强度 88.03 | 质量 86.51
+- Ramen Plan | Solana | 加速中 | 强度 89.32 | 质量 78.36
+  - 主题摘要：According to Dan Crenshaw's post, he addresses the debate over the price of a $20 burrito, criticizing those who complain about costs. He advises individuals to manage their budge…
+  - 资金 100.00 / 广度 83.26 / 确认 24.48 / 脆弱性 0.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Gold Trade | BSC | 已确认 | 强度 87.22 | 质量 86.49
   - 主题摘要：Binance官方推文推广其黄金和白银交易功能，强调以USDT结算。内容偏向常规金融产品宣传，缺乏Meme代币所需的幽默、讽刺或病毒式传播元素。
-  - 资金 100.00 / 广度 94.50 / 确认 46.20 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.43 / 确认 46.20 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 87.98 | 质量 86.47
+- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 87.17 | 质量 86.45
   - 主题摘要：Binance announces the rapid success of bStocks, a feature allowing users in emerging markets to access global equities. With 90%+ of users from emerging markets and 44% Gen Z, it…
-  - 资金 100.00 / 广度 94.35 / 确认 46.20 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.28 / 确认 46.20 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- United States Water Reserve | Solana | 降温中 | 强度 87.60 | 质量 77.82
+- United States Water Reserve | Solana | 降温中 | 强度 86.60 | 质量 77.95
   - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.53 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 92.96 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Gold Options Tutorial | BSC | 已确认 | 强度 86.44 | 质量 84.38
+- Binance Gold Options Tutorial | BSC | 已确认 | 强度 85.64 | 质量 84.35
   - 主题摘要：Binance official account posts a basic tutorial on how to trade Gold and Silver options, explaining the simple steps of setting price and amount to execute trades.
-  - 资金 100.00 / 广度 95.41 / 确认 35.28 / 脆弱性 24.00
+  - 资金 100.00 / 广度 95.29 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Rave Cat | Solana | 加速中 | 强度 84.00 | 质量 77.12
+- XST | Solana | 降温中 | 强度 85.64 | 质量 76.05
+  - 主题摘要：According to XSolutAI AIRDROP's post, the $XST token airdrop is now live. The post includes a link to the distribution platform. This information is unverified. Please exercise ca…
+  - 资金 100.00 / 广度 86.62 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Rave Cat | Solana | 加速中 | 强度 85.24 | 质量 77.18
   - 主题摘要：Multiple tokens named 「RAVECAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.13 / 确认 24.48 / 脆弱性 10.00
+  - 资金 100.00 / 广度 79.33 / 确认 24.48 / 脆弱性 10.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- soliraw🇧🇷 Posts Meme Image | Solana | 加速中 | 强度 83.75 | 质量 79.13
-  - 主题摘要：According to soliraw🇧🇷's post, a Meme image was shared depicting an alarm ringing for 10 minutes and the user's reaction in their dreams. The content references tokens such as ALA…
-  - 资金 100.00 / 广度 85.90 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- USOX | Solana | 降温中 | 强度 81.47 | 质量 69.45
-  - 主题摘要：Multiple tokens named 「USOX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.62 / 确认 9.36 / 脆弱性 14.00
+- United States Food Reserve | Solana | 降温中 | 强度 83.66 | 质量 73.18
+  - 主题摘要：Multiple tokens named 「USFR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.06 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Esoteric: Nikita Boar Dev Creates Elon Meme | Solana | 加速中 | 强度 81.34 | 质量 79.46
+- USUR | Solana | 降温中 | 强度 82.67 | 质量 70.97
+  - 主题摘要：Multiple tokens named 「USUR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 96.20 / 广度 72.87 / 确认 5.04 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged WNBA Prospects Meme | Solana | 加速中 | 强度 82.65 | 质量 73.58
+  - 主题摘要：According to *PARODY* Ephraim "Shabbat Monster" Schindler's post, the "WNBA Prospects" narrative is criticized as nonsensical. Schindler suggests replacing it with a meme image, r…
+  - 资金 100.00 / 广度 85.20 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Esoteric: Nikita Boar Dev Creates Elon Meme | Solana | 加速中 | 强度 82.37 | 质量 79.55
   - 主题摘要：According to Esoteric's post, the developer of Nikita Boar created an Elon character Meme image. The content references a 'Hakuna Matata' theme featuring Nikita Boar, Elon Tusk, a…
-  - 资金 100.00 / 广度 86.92 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.23 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Enes Kanter WNBA Draft Eligibility | Solana | 点火期 | 强度 79.60 | 质量 74.67
-  - 主题摘要：According to gettindevvy_'s post, former NBA player Enes Kanter Freedom has officially declared himself eligible for the 2027 WNBA Draft. The post highlights his height of 6-foot-…
-  - 资金 100.00 / 广度 87.25 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Fomo Family Token Launch | Solana | 加速中 | 强度 79.58 | 质量 80.87
-  - 主题摘要：According to Trencher Bill's post, the Fomo Family token is currently valued at 100k on Pump.fun. The author claims this token represents the 'Fomo Family' brand and positions it…
-  - 资金 100.00 / 广度 92.15 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Shares Mars Cat Meme | BSC | 降温中 | 强度 78.54 | 质量 70.46
-  - 主题摘要：Elon Musk posted a link to a new TV series on X. The post does not mention any cryptocurrency tokens or digital assets. The provided token information regarding 'Catalorian' is ir…
-  - 资金 100.00 / 广度 75.46 / 确认 16.56 / 脆弱性 24.00
+- Elon Musk Shares Mars Cat Meme | BSC | 降温中 | 强度 77.45 | 质量 70.35
+  - 主题摘要：Elon Musk shared a link to a new TV series on X, which is associated with the Marscat token narrative. The post involves the sharing of a Meme image related to the Marscat brand,…
+  - 资金 100.00 / 广度 75.55 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Biscotti | Solana | 点火期 | 强度 77.13 | 质量 72.56
-  - 主题摘要：According to Spongey 🔸 👀's post, a dispute arose regarding the fee distribution of a token launched for @okpasquale. Spongey criticized the developer for locking fees to themselve…
-  - 资金 100.00 / 广度 69.72 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:CZ Allegedly Launches SaturnCoin | BSC | 降温中 | 强度 76.60 | 质量 67.72
+- Uncertain:CZ Allegedly Launches SaturnCoin | BSC | 降温中 | 强度 76.09 | 质量 66.87
   - 主题摘要：According to @cz_binance's post, CZ humorously claimed to be from Saturn in a reply to a tweet about Elon Musk. This statement coincides with the presence of a token named SaturnC…
-  - 资金 100.00 / 广度 75.90 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.76 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 84.79，其中已确认叙事 4 个。
-- Biscotti 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 83.98，其中已确认叙事 4 个。
+- Ramen Plan 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - United States Water Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance GM Menu | 质量 88.55 | 可交易性 100.00 | 风险 低
-- Binance Gold Trade | 质量 86.51 | 可交易性 100.00 | 风险 低
-- Binance bStocks: Democratizing Global Equities | 质量 86.47 | 可交易性 100.00 | 风险 低
-- Binance Gold Options Tutorial | 质量 84.38 | 可交易性 100.00 | 风险 低
-- Alleged Fomo Family Token Launch | 质量 80.87 | 可交易性 100.00 | 风险 低
-- Esoteric: Nikita Boar Dev Creates Elon Meme | 质量 79.46 | 可交易性 100.00 | 风险 低
-- soliraw🇧🇷 Posts Meme Image | 质量 79.13 | 可交易性 99.91 | 风险 低
-- United States Water Reserve | 质量 77.82 | 可交易性 100.00 | 风险 低
-- Rave Cat | 质量 77.12 | 可交易性 100.00 | 风险 低
-- Enes Kanter WNBA Draft Eligibility | 质量 74.67 | 可交易性 92.16 | 风险 低
+- Binance GM Menu | 质量 88.52 | 可交易性 100.00 | 风险 低
+- Binance Gold Trade | 质量 86.49 | 可交易性 100.00 | 风险 低
+- Binance bStocks: Democratizing Global Equities | 质量 86.45 | 可交易性 100.00 | 风险 低
+- Binance Gold Options Tutorial | 质量 84.35 | 可交易性 100.00 | 风险 低
+- Esoteric: Nikita Boar Dev Creates Elon Meme | 质量 79.55 | 可交易性 100.00 | 风险 低
+- Ramen Plan | 质量 78.36 | 可交易性 100.00 | 风险 低
+- United States Water Reserve | 质量 77.95 | 可交易性 100.00 | 风险 低
+- Rave Cat | 质量 77.18 | 可交易性 100.00 | 风险 低
+- XST | 质量 76.05 | 可交易性 100.00 | 风险 低
+- Alleged WNBA Prospects Meme | 质量 73.58 | 可交易性 82.12 | 风险 低
 
 ## 伪叙事风险
 
-- Enes Kanter WNBA Draft Eligibility | 风险 44.91 | 原因：流动性偏薄
-- Biscotti | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -104,11 +101,11 @@
 - SUMMER | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GPU | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DUCKY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- chrome | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DUCK | Solana | 看多 | 新鲜度 97.72 | 暂无直接叙事映射
 - Tusk | Solana | 看多 | 新鲜度 92.57 | Esoteric: Nikita Boar Dev Creates Elon Meme
 - SFN | Solana | 看多 | 新鲜度 91.33 | 暂无直接叙事映射
 - PUMPLIFE | Solana | 看多 | 新鲜度 77.16 | 暂无直接叙事映射
+- Legend | Solana | 看多 | 新鲜度 76.76 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance GM Menu（BSC，分数 91.14）
+1. 当前最强叙事：Binance GM Menu（BSC，分数 90.29）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Biscotti 当前为“新出现”
+3. 记忆层变化：Ramen Plan 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
