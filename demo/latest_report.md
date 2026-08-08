@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-08T11:18:30.921524+00:00
+- 生成时间：2026-08-08T11:49:03.206217+00:00
 - 跟踪叙事：14
-- 已确认叙事：6
+- 已确认叙事：5
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Ramen Plan，所在链为 Solana，叙事强度 89.69。
-- 当前平均叙事强度为 83.89，其中已确认叙事 0 个。
+- 当前最强叙事是 Binance Gold Trade，所在链为 BSC，叙事强度 88.97。
+- 当前平均叙事强度为 83.85，其中已确认叙事 5 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Liam Monkey Meme Image 当前处于“新出现”状态。
+- 记忆层显示 claudius Autonomous Agent 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
-- Ramen Plan | Solana | 加速中 | 强度 89.69 | 质量 79.10
-  - 主题摘要：According to Dan Crenshaw's post, he addresses the debate over the price of a $20 burrito, criticizing those who complain about costs. He advises individuals to manage their budge…
-  - 资金 100.00 / 广度 85.72 / 确认 24.48 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Gold Trade | BSC | 已确认 | 强度 88.66 | 质量 82.43
+- Binance Gold Trade | BSC | 已确认 | 强度 88.97 | 质量 84.30
   - 主题摘要：Binance官方推文推广其黄金和白银交易功能，强调以USDT结算。内容偏向常规金融产品宣传，缺乏Meme代币所需的幽默、讽刺或病毒式传播元素。
-  - 资金 100.00 / 广度 90.03 / 确认 46.20 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.29 / 确认 46.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 88.36 | 质量 82.20
+- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 88.92 | 质量 84.20
   - 主题摘要：Binance announces the rapid success of bStocks, a feature allowing users in emerging markets to access global equities. With 90%+ of users from emerging markets and 44% Gen Z, it…
-  - 资金 100.00 / 广度 89.07 / 确认 46.20 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.38 / 确认 46.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Gold Options Tutorial | BSC | 已确认 | 强度 88.26 | 质量 81.82
+- Ramen Plan | Solana | 加速中 | 强度 88.11 | 质量 79.04
+  - 主题摘要：According to Dan Crenshaw's post, he addresses the debate over the price of a $20 burrito, criticizing those who complain about costs. He advises individuals to manage their budge…
+  - 资金 100.00 / 广度 85.50 / 确认 24.48 / 脆弱性 10.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Gold Options Tutorial | BSC | 已确认 | 强度 87.45 | 质量 82.27
   - 主题摘要：Binance official account posts a basic tutorial on how to trade Gold and Silver options, explaining the simple steps of setting price and amount to execute trades.
-  - 资金 100.00 / 广度 90.91 / 确认 46.20 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance GM Menu | BSC | 已确认 | 强度 87.09 | 质量 84.35
-  - 主题摘要：Binance华语账号发布日常问候“GM”并搭配薯条表情，宣传其bStocks全天候供应服务。该内容结合了社区文化问候与平台功能推广，缺乏强烈的Meme传播张力或争议性话题。
-  - 资金 100.00 / 广度 96.02 / 确认 49.80 / 脆弱性 24.00
+  - 资金 100.00 / 广度 91.15 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
 - American Oil Relief Program | Solana | 降温中 | 强度 86.08 | 质量 76.59
   - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 88.42 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Food Reserve | Solana | 降温中 | 强度 84.29 | 质量 73.68
+- Binance GM Menu | BSC | 已确认 | 强度 85.28 | 质量 80.46
+  - 主题摘要：Binance华语账号发布日常问候“GM”并搭配薯条表情，宣传其bStocks全天候供应服务。该内容结合了社区文化问候与平台功能推广，缺乏强烈的Meme传播张力或争议性话题。
+  - 资金 100.00 / 广度 96.15 / 确认 49.80 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- United States Food Reserve | Solana | 降温中 | 强度 84.30 | 质量 73.69
   - 主题摘要：Multiple tokens named 「USFR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.75 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.78 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GRABY | Solana | 加速中 | 强度 83.51 | 质量 74.70
-  - 主题摘要：Multiple tokens named 「GRABY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.76 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Doom | Solana | 降温中 | 强度 83.45 | 质量 70.97
+- Doom | Solana | 降温中 | 强度 83.44 | 质量 70.97
   - 主题摘要：Multiple tokens named 「Doom」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 69.70 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Liam Monkey Meme Image | Solana | 降温中 | 强度 82.20 | 质量 74.19
-  - 主题摘要：According to bruh fish's post, a viral Meme image featuring a monkey named Liam (Capuchino) hugging a cat is circulating on social media. This content is associated with multiple…
-  - 资金 100.00 / 广度 92.15 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Esoteric: Nikita Boar Dev Creates Elon Meme | Solana | 加速中 | 强度 81.30 | 质量 77.45
-  - 主题摘要：According to Esoteric's post, the developer of Nikita Boar created a Meme image featuring characters named Nikita Boar, Elon Tusk, and Grok. This content highlights a creative out…
-  - 资金 100.00 / 广度 87.00 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Anti Shares Zoo Meme | Solana | 降温中 | 强度 80.62 | 质量 70.75
-  - 主题摘要：According to Anti's post, the Toronto Zoo announced the birth of a pygmy hippo calf named TinyTank, which is being compared to the viral Moo Deng. Anti shared this news alongside…
-  - 资金 100.00 / 广度 75.35 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Racoonzilla Meme Image | BSC | 已确认 | 强度 79.66 | 质量 80.24
+- Alleged Racoonzilla Meme Image | BSC | 已确认 | 强度 79.89 | 质量 80.26
   - 主题摘要：According to Planet Of Memes's post, the author shared a Meme image titled 'Racoonzilla' in a reply to Elon Musk. This content references the token symbol Racoonzilla. This inform…
-  - 资金 100.00 / 广度 86.89 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.94 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged MEOW Token | BSC | 已确认 | 强度 79.17 | 质量 75.75
-  - 主题摘要：According to jadedev's post, Binance previously issued a "meow" sound, and the MEOW token can be played on every chain. The post mentions sending qqqb pool. This information is un…
-  - 资金 100.00 / 广度 83.11 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- claudius Autonomous Agent | Solana | 降温中 | 强度 79.16 | 质量 64.72
+  - 主题摘要：According to claudius's post, claudius is an autonomous agent equipped with its own X account, a browser, persistent memory, and a budget, designed to explore the real world and m…
+  - 资金 100.00 / 广度 78.63 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Launch of MTOV Venture Narrative | BSC | 加速中 | 强度 79.03 | 质量 79.35
+  - 主题摘要：Multiple tokens named 「MTOV」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.55 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yishan's Reply on r/dog Mascot | Solana | 加速中 | 强度 78.99 | 质量 79.36
+  - 主题摘要：According to Yishan's post, in response to a suggestion regarding the mascot of r/dog, Yishan stated, "let me ask her mom." This comment reflects a humorous interaction concerning…
+  - 资金 100.00 / 广度 92.13 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Day 607: Intern Summer | BSC | 加速中 | 强度 77.42 | 质量 76.92
+  - 主题摘要：Binance Chinese account continues its daily meme series, transitioning from the previous 'Palu' theme to introducing 'Intern Summer'. This follows the popular internet culture of…
+  - 资金 100.00 / 广度 90.34 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Neegy Meme Coin Launch | Solana | 加速中 | 强度 77.30 | 质量 63.32
+  - 主题摘要：According to aztecbehbe's post, the user claims to have created the 'Neegy' Meme image and is allegedly launching a corresponding coin with the help of a friend. The post includes…
+  - 资金 100.00 / 广度 77.14 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.89，其中已确认叙事 0 个。
-- Uncertain:Alleged MEOW Token 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 83.85，其中已确认叙事 5 个。
+- Alleged Launch of MTOV Venture Narrative 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - American Oil Relief Program 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance GM Menu | 质量 84.35 | 可交易性 100.00 | 风险 低
-- Binance Gold Trade | 质量 82.43 | 可交易性 100.00 | 风险 低
-- Binance bStocks: Democratizing Global Equities | 质量 82.20 | 可交易性 100.00 | 风险 低
-- Binance Gold Options Tutorial | 质量 81.82 | 可交易性 100.00 | 风险 低
-- Alleged Racoonzilla Meme Image | 质量 80.24 | 可交易性 100.00 | 风险 低
-- Ramen Plan | 质量 79.10 | 可交易性 100.00 | 风险 低
-- Esoteric: Nikita Boar Dev Creates Elon Meme | 质量 77.45 | 可交易性 93.21 | 风险 低
+- Binance Gold Trade | 质量 84.30 | 可交易性 100.00 | 风险 低
+- Binance bStocks: Democratizing Global Equities | 质量 84.20 | 可交易性 100.00 | 风险 低
+- Binance Gold Options Tutorial | 质量 82.27 | 可交易性 100.00 | 风险 低
+- Binance GM Menu | 质量 80.46 | 可交易性 100.00 | 风险 低
+- Alleged Racoonzilla Meme Image | 质量 80.26 | 可交易性 100.00 | 风险 低
+- Yishan's Reply on r/dog Mascot | 质量 79.36 | 可交易性 100.00 | 风险 低
+- Alleged Launch of MTOV Venture Narrative | 质量 79.35 | 可交易性 100.00 | 风险 低
+- Ramen Plan | 质量 79.04 | 可交易性 100.00 | 风险 低
+- Day 607: Intern Summer | 质量 76.92 | 可交易性 100.00 | 风险 低
 - American Oil Relief Program | 质量 76.59 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged MEOW Token | 质量 75.75 | 可交易性 88.79 | 风险 低
-- GRABY | 质量 74.70 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -99,13 +99,13 @@
 - MEMEFI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bStocks | BSC | 看多 | 新鲜度 100.00 | Binance GM Menu
 - SUMMER | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- NEEGY | Solana | 看多 | 新鲜度 100.00 | Alleged Neegy Meme Coin Launch
 - DUCKY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PISSINU | Solana | 看多 | 新鲜度 97.48 | 暂无直接叙事映射
 - Raccoonzilla | BSC | 看多 | 新鲜度 94.46 | Alleged Racoonzilla Meme Image
-- Tusk | Solana | 看多 | 新鲜度 92.57 | Esoteric: Nikita Boar Dev Creates Elon Meme
-- bCard | BSC | 看多 | 新鲜度 83.49 | 暂无直接叙事映射
+- bCard | BSC | 看多 | 新鲜度 87.40 | 暂无直接叙事映射
+- Tusk | Solana | 看多 | 新鲜度 80.57 | 暂无直接叙事映射
 - bTO | BSC | 看多 | 新鲜度 80.44 | 暂无直接叙事映射
-- 猫 | BSC | 看多 | 新鲜度 78.47 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Ramen Plan（Solana，分数 89.69）
+1. 当前最强叙事：Binance Gold Trade（BSC，分数 88.97）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Alleged Liam Monkey Meme Image 当前为“新出现”
+3. 记忆层变化：claudius Autonomous Agent 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
