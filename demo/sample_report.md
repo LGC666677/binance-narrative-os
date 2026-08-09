@@ -1,111 +1,115 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-09T01:37:59.971289+00:00
+- 生成时间：2026-08-09T03:19:21.957460+00:00
 - 跟踪叙事：14
-- 已确认叙事：4
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance Gold Trade，所在链为 BSC，叙事强度 89.13。
-- 当前平均叙事强度为 83.87，其中已确认叙事 4 个。
+- 当前最强叙事是 SAOF，所在链为 Solana，叙事强度 88.22。
+- 当前平均叙事强度为 85.49，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 GM 当前处于“新出现”状态。
+- 记忆层显示 SAOF 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 LexLuthor Proposes Toad PFP Cult，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
-- Binance Gold Trade | BSC | 已确认 | 强度 89.13 | 质量 84.34
-  - 主题摘要：Binance官方推文推广其黄金和白银交易功能，强调以USDT结算。内容偏向常规金融产品宣传，缺乏Meme代币所需的幽默、讽刺或病毒式传播元素。
-  - 资金 100.00 / 广度 88.49 / 确认 46.20 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Gold Options Tutorial | BSC | 已确认 | 强度 87.57 | 质量 82.21
-  - 主题摘要：Binance official account posts a basic tutorial on how to trade Gold and Silver options, explaining the simple steps of setting price and amount to execute trades.
-  - 资金 100.00 / 广度 89.22 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- GM | Solana | 降温中 | 强度 86.98 | 质量 77.69
+- SAOF | Solana | 加速中 | 强度 88.22 | 质量 79.51
+  - 主题摘要：Multiple tokens named 「SAOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.24 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GM | Solana | 加速中 | 强度 87.25 | 质量 79.86
   - 主题摘要：Multiple tokens named 「TOAD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.07 / 确认 16.24 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.13 / 确认 20.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- LexLuthor Proposes Toad PFP Cult | Solana | 降温中 | 强度 85.75 | 质量 77.99
+  - 主题摘要：According to LexLuthor's post, the author proposes establishing a community PFP cult centered around 'toads'. This suggestion aligns with existing cryptocurrency tokens named 'toa…
+  - 资金 100.00 / 广度 93.10 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Oil Holdings | Solana | 降温中 | 强度 86.51 | 质量 76.60
-  - 主题摘要：Multiple tokens named 「USOH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.46 / 确认 9.36 / 脆弱性 10.00
+- Trencher Bill Proposes Meme Token Fusion | Solana | 降温中 | 强度 85.69 | 质量 77.88
+  - 主题摘要：According to Trencher Bill's post, the author proposes combining the 'Toad' and 'Cate' narratives into a single project with a 10 million market cap to maximize unity, suggesting…
+  - 资金 100.00 / 广度 92.73 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- LexLuthor Proposes Toad PFP Cult | Solana | 降温中 | 强度 86.50 | 质量 77.26
-  - 主题摘要：According to LexLuthor's post, LexLuthor proposes establishing a community PFP cult centered around 'toads'. This suggestion aligns with existing cryptocurrency tokens named 'toad…
-  - 资金 100.00 / 广度 90.67 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trencher Bill Proposes Meme Token Fusion | Solana | 降温中 | 强度 85.57 | 质量 75.96
-  - 主题摘要：Multiple tokens named 「TOAD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.50 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance bStocks: Democratizing Global Equities | BSC | 已确认 | 强度 85.10 | 质量 81.78
-  - 主题摘要：Binance announces the rapid success of bStocks, a feature allowing users in emerging markets to access global equities. With 90%+ of users from emerging markets and 44% Gen Z, it…
-  - 资金 100.00 / 广度 88.47 / 确认 46.20 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 暴富羊 | BSC | 已确认 | 强度 83.87 | 质量 76.75
-  - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.24 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Pump Guy Discusses Fee Token | Solana | 降温中 | 强度 83.59 | 质量 77.40
+- Pump Guy Discusses Fee Token | Solana | 降温中 | 强度 85.41 | 质量 77.86
   - 主题摘要：According to pump guy 🇮🇱's post, he responded to a suggestion regarding the creation of a token with fees directed to him, stating that users can do whatever they want with that w…
-  - 资金 100.00 / 广度 85.86 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.40 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged AI Agent Atlas | Solana | 加速中 | 强度 80.99 | 质量 79.93
-  - 主题摘要：According to Alexander Yue's post, he suggests that the Atlas token could potentially buy more credits using x402, possibly creating a loop to sustain itself. This comment was mad…
-  - 资金 100.00 / 广度 88.49 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Staticcs Launches ClipFarmToday | Solana | 加速中 | 强度 80.24 | 质量 79.20
-  - 主题摘要：According to Staticcs's post, the creator developed ClipFarmToday, a platform designed to simplify video clipping workflows and payments. Staticcs claims the platform offers a smo…
-  - 资金 100.00 / 广度 86.05 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- cs188 Recalls Dramatic Chipmunk Video | Solana | 降温中 | 强度 79.58 | 质量 68.72
-  - 主题摘要：According to cs188 💩's post, the author recalled that 18 years ago, the 'Dramatic Chipmunk' video was uploaded to YouTube. cs188 💩 shared that uploading edits of this video two we…
-  - 资金 100.00 / 广度 62.21 / 确认 9.36 / 脆弱性 14.00
+- United States Oil Holdings | Solana | 降温中 | 强度 85.40 | 质量 73.31
+  - 主题摘要：Multiple tokens named 「USOH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.50 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TCoin | BSC | 加速中 | 强度 79.13 | 质量 68.31
-  - 主题摘要：Multiple tokens named 「T」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.63 / 确认 20.16 / 脆弱性 14.00
+- 暴富羊 | BSC | 已确认 | 强度 83.93 | 质量 77.06
+  - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.28 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- MCX (MetaCortex) | Solana | 降温中 | 强度 83.49 | 质量 71.76
+  - 主题摘要：MCX (MetaCortex) draws inspiration from artificial intelligence and neural networks, as reflected in its logo featuring a rotating neural pathway and glowing blue eye. The token e…
+  - 资金 100.00 / 广度 72.33 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- United States Oil Holdings | Solana | 降温中 | 强度 82.71 | 质量 73.28
+  - 主题摘要：Multiple tokens named 「USOH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.41 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 79.61 | 质量 68.20
+  - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
+  - 资金 100.00 / 广度 77.14 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asian Games | BSC | 加速中 | 强度 78.44 | 质量 65.70
+- OG Comments on BNB Card Narrative | BSC | 加速中 | 强度 76.57 | 质量 72.99
+  - 主题摘要：According to OG's post, the user commented on the narrative surrounding the BNB Card, expressing enthusiasm with the phrase "send it". This statement reflects a positive sentiment…
+  - 资金 100.00 / 广度 88.41 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Asian Games | BSC | 加速中 | 强度 75.79 | 质量 65.55
   - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.44 / 确认 19.44 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.96 / 确认 18.72 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Golden Nailong Meme Image | BSC | 加速中 | 强度 74.37 | 质量 73.20
+  - 主题摘要：According to jadedev's post, the 'Nailong' character is described as 'golden' and identified as the 'best golden meme'. This content references the 'Nailong' token and promotes a…
+  - 资金 100.00 / 广度 79.52 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of MTOV Venture Narrative | BSC | 加速中 | 强度 74.10 | 质量 70.31
+  - 主题摘要：According to 67GUY's post, the author claims to have identified a major narrative involving Meme Taking Over Ventures (MTOV). 67GUY alleges that the official Farcaster account pre…
+  - 资金 100.00 / 广度 77.83 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 83.87，其中已确认叙事 4 个。
-- Staticcs Launches ClipFarmToday 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- GM 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.49，其中已确认叙事 0 个。
+- SAOF 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- LexLuthor Proposes Toad PFP Cult 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Gold Trade | 质量 84.34 | 可交易性 100.00 | 风险 低
-- Binance Gold Options Tutorial | 质量 82.21 | 可交易性 100.00 | 风险 低
-- Binance bStocks: Democratizing Global Equities | 质量 81.78 | 可交易性 100.00 | 风险 低
-- Alleged AI Agent Atlas | 质量 79.93 | 可交易性 100.00 | 风险 低
-- Staticcs Launches ClipFarmToday | 质量 79.20 | 可交易性 100.00 | 风险 低
-- GM | 质量 77.69 | 可交易性 100.00 | 风险 低
-- Pump Guy Discusses Fee Token | 质量 77.40 | 可交易性 100.00 | 风险 低
-- LexLuthor Proposes Toad PFP Cult | 质量 77.26 | 可交易性 100.00 | 风险 低
-- 暴富羊 | 质量 76.75 | 可交易性 100.00 | 风险 低
-- United States Oil Holdings | 质量 76.60 | 可交易性 100.00 | 风险 低
+- GM | 质量 79.86 | 可交易性 100.00 | 风险 低
+- SAOF | 质量 79.51 | 可交易性 100.00 | 风险 低
+- LexLuthor Proposes Toad PFP Cult | 质量 77.99 | 可交易性 100.00 | 风险 低
+- Trencher Bill Proposes Meme Token Fusion | 质量 77.88 | 可交易性 100.00 | 风险 低
+- Pump Guy Discusses Fee Token | 质量 77.86 | 可交易性 100.00 | 风险 低
+- 暴富羊 | 质量 77.06 | 可交易性 100.00 | 风险 低
+- United States Oil Holdings | 质量 73.31 | 可交易性 100.00 | 风险 低
+- United States Oil Holdings | 质量 73.28 | 可交易性 100.00 | 风险 低
+- Alleged Golden Nailong Meme Image | 质量 73.20 | 可交易性 97.43 | 风险 低
+- OG Comments on BNB Card Narrative | 质量 72.99 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- LexLuthor Proposes Toad PFP Cult | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Trencher Bill Proposes Meme Token Fusion | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- United States Oil Holdings | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- XchangetheWorld | BSC | 看多 | 新鲜度 100.00 | Uncertain:CZ Quote Binance Stocks
 - MEMEFI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- bStocks | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CLIP | Solana | 看多 | 新鲜度 100.00 | Staticcs Launches ClipFarmToday
+- se | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CLIP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TOAD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Hypnotoad | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CATE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- bCard | BSC | 看多 | 新鲜度 99.40 | OG Comments on BNB Card Narrative
 - SAPU | Solana | 看多 | 新鲜度 95.13 | 暂无直接叙事映射
-- bCard | BSC | 看多 | 新鲜度 87.40 | 暂无直接叙事映射
 - Raccoonzilla | BSC | 看多 | 新鲜度 82.46 | 暂无直接叙事映射
-- bTO | BSC | 看多 | 新鲜度 80.44 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance Gold Trade（BSC，分数 89.13）
+1. 当前最强叙事：SAOF（Solana，分数 88.22）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：GM 当前为“新出现”
+3. 记忆层变化：SAOF 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
