@@ -1,17 +1,16 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-09T07:28:17.803937+00:00
+- 生成时间：2026-08-09T08:06:16.963020+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
 - 当前最强叙事是 AORP，所在链为 Solana，叙事强度 91.71。
-- 当前平均叙事强度为 87.32，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TUT，来自 BSC，共振分数 100.0。
-- 记忆层显示 Bondoooor Proposes Wallet Spam Batting 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Bondoooor Proposes Wallet Spam Batting，伪叙事风险 41.16。
+- 当前平均叙事强度为 87.35，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BTW，来自 BSC，共振分数 100.0。
+- 记忆层显示 Pump Guy Discusses Fee Token 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
@@ -28,86 +27,85 @@
   - 主题摘要：According to Trencher Bill's post, the author proposes combining the 'Toad' and 'Cate' narratives into a single project with a 10 million market cap to maximize unity, suggesting…
   - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United Oil Trust Fund | Solana | 降温中 | 强度 87.44 | 质量 76.58
+- 币安城 | BSC | 已确认 | 强度 88.62 | 质量 82.07
+  - 主题摘要：According to @deltasociety's post, the author suggests that BNB should provide dividends to its holders. This statement reflects a specific opinion regarding the distribution of v…
+  - 资金 100.00 / 广度 92.97 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- United Oil Trust Fund | Solana | 降温中 | 强度 87.45 | 质量 76.58
   - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.40 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 88.41 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Oil Holdings | Solana | 降温中 | 强度 85.41 | 质量 73.32
+- United States Oil Holdings | Solana | 降温中 | 强度 85.36 | 质量 73.32
   - 主题摘要：Multiple tokens named 「USOH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 77.52 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MCX (MetaCortex) | Solana | 降温中 | 强度 85.05 | 质量 75.35
+- MCX (MetaCortex) | Solana | 降温中 | 强度 85.04 | 质量 75.35
   - 主题摘要：MCX (MetaCortex) draws inspiration from artificial intelligence and neural networks, as reflected in its logo featuring a rotating neural pathway and glowing blue eye. The token e…
-  - 资金 100.00 / 广度 84.30 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.31 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Rebecca Perrotto Shares Cat Meme | Solana | 降温中 | 强度 84.15 | 质量 74.29
-  - 主题摘要：According to Rebecca Perrotto's post, she celebrated International Cat Day by honoring her cats, Mao Mao and Yuki, who were the protectors and companions of her late daughter, Liv…
-  - 资金 100.00 / 广度 80.76 / 确认 9.36 / 脆弱性 14.00
+- Pump Guy Discusses Fee Token | Solana | 加速中 | 强度 84.44 | 质量 79.83
+  - 主题摘要：According to pump guy 🇮🇱's post, he responded to a suggestion regarding the creation of a token with fees directed to him, stating that users can do whatever they want with their…
+  - 资金 100.00 / 广度 88.69 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Cat pump paper shares YUKI cat Meme | Solana | 降温中 | 强度 84.09 | 质量 74.29
+  - 主题摘要：According to Cat pump paper's post, the author claims to have identified a Ghibli-style Yuki cat Meme image associated with the YUKI token on International Cat Day, suggesting a p…
+  - 资金 100.00 / 广度 80.78 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴富羊 | BSC | 已确认 | 强度 84.13 | 质量 77.42
+- 暴富羊 | BSC | 已确认 | 强度 81.92 | 质量 77.40
   - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.49 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.42 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Bondoooor Proposes Wallet Spam Batting | Solana | 降温中 | 强度 84.10 | 质量 75.39
-  - 主题摘要：According to Bondoooor's post, the author proposes a hypothetical scenario where tracked wallets purchase a specific coin to test herd theory. The post suggests using this action…
-  - 资金 99.81 / 广度 84.43 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 币安城 | BSC | 加速中 | 强度 83.40 | 质量 75.99
-  - 主题摘要：According to 我肯定会发财！'s post, Mars City is compared to a token named MarsCoin, which allegedly provides dividends. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 76.12 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Golden Nailong Meme Image | BSC | 已确认 | 强度 79.95 | 质量 79.93
+- Alleged Golden Nailong Meme Image | BSC | 已确认 | 强度 80.20 | 质量 79.76
   - 主题摘要：According to jadedev's post, the 'Nailong' character is described as 'golden' and identified as the 'best golden meme'. This content references the 'Nailong' token and promotes a…
-  - 资金 100.00 / 广度 83.20 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.15 / 确认 30.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Asian Games | BSC | 加速中 | 强度 77.65 | 质量 65.85
+- Asian Games | BSC | 加速中 | 强度 78.00 | 质量 65.92
   - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.31 / 确认 19.44 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.39 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 76.19 | 质量 68.01
+- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 76.42 | 质量 68.03
   - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
-  - 资金 100.00 / 广度 77.49 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.53 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OG Comments on BNB Card Narrative | BSC | 加速中 | 强度 76.16 | 质量 73.43
+- OG Comments on BNB Card Narrative | BSC | 加速中 | 强度 75.64 | 质量 72.52
   - 主题摘要：According to OG's post, the user commented on the narrative surrounding the BNB Card, expressing enthusiasm with the phrase "send it." This statement reflects a positive sentiment…
-  - 资金 100.00 / 广度 87.42 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.39 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 87.32，其中已确认叙事 0 个。
-- 币安城 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 87.35，其中已确认叙事 0 个。
+- Pump Guy Discusses Fee Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Trencher Bill Proposes Meme Token Fusion 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - GM | 质量 84.11 | 可交易性 100.00 | 风险 低
 - AORP | 质量 84.02 | 可交易性 100.00 | 风险 低
+- 币安城 | 质量 82.07 | 可交易性 100.00 | 风险 低
 - Trencher Bill Proposes Meme Token Fusion | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Alleged Golden Nailong Meme Image | 质量 79.93 | 可交易性 100.00 | 风险 低
-- 暴富羊 | 质量 77.42 | 可交易性 100.00 | 风险 低
+- Pump Guy Discusses Fee Token | 质量 79.83 | 可交易性 100.00 | 风险 低
+- Alleged Golden Nailong Meme Image | 质量 79.76 | 可交易性 100.00 | 风险 低
+- 暴富羊 | 质量 77.40 | 可交易性 100.00 | 风险 低
 - United Oil Trust Fund | 质量 76.58 | 可交易性 100.00 | 风险 低
-- 币安城 | 质量 75.99 | 可交易性 99.24 | 风险 低
-- Bondoooor Proposes Wallet Spam Batting | 质量 75.39 | 可交易性 100.00 | 风险 低
 - MCX (MetaCortex) | 质量 75.35 | 可交易性 100.00 | 风险 低
-- Rebecca Perrotto Shares Cat Meme | 质量 74.29 | 可交易性 100.00 | 风险 低
+- Cat pump paper shares YUKI cat Meme | 质量 74.29 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Bondoooor Proposes Wallet Spam Batting | 风险 41.16 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- 币安城 | BSC | 看多 | 新鲜度 100.00 | 币安城
 - XchangetheWorld | BSC | 看多 | 新鲜度 100.00 | Uncertain:CZ Quote Binance Stocks
 - MEMEFI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Sheep | Solana | 看多 | 新鲜度 100.00 | Bondoooor Proposes Wallet Spam Batting
+- Sheep | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Chibbi | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - se | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CLIP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TOAD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Hypnotoad | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bCard | BSC | 看多 | 新鲜度 99.40 | OG Comments on BNB Card Narrative
-- Raccoonzilla | BSC | 看多 | 新鲜度 82.46 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,7 +132,7 @@
 
 今日币安叙事中枢观察：
 1. 当前最强叙事：AORP（Solana，分数 91.71）
-2. 共振最强代币：TUT（BSC，共振 100.0）
-3. 记忆层变化：Bondoooor Proposes Wallet Spam Batting 当前为“新出现”
+2. 共振最强代币：BTW（BSC，共振 100.0）
+3. 记忆层变化：Pump Guy Discusses Fee Token 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
