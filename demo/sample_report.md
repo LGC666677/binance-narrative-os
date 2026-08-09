@@ -1,16 +1,17 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-09T12:19:32.446676+00:00
+- 生成时间：2026-08-09T13:26:29.145948+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
 - 当前最强叙事是 AORP，所在链为 Solana，叙事强度 92.91。
-- 当前平均叙事强度为 86.5，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TUT，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Drake Meme Coin 当前处于“新出现”状态。
+- 当前平均叙事强度为 83.75，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BTW，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged Chibbi Meme Coin 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Launch of Kadu Grieving Parrot Meme Coin，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
@@ -19,80 +20,81 @@
   - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 100.00 / 确认 27.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Drake Meme Coin | Solana | 加速中 | 强度 90.18 | 质量 82.46
-  - 主题摘要：According to Boltricks Development's post, a viral video of Drake barking on a dating show has inspired the creation of multiple tokens, including 'Bark' and 'drake'. These tokens…
-  - 资金 100.00 / 广度 96.91 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 - United Oil Trust Fund | Solana | 降温中 | 强度 88.71 | 质量 78.41
   - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.50 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 94.51 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Drake Meme Coin | Solana | 降温中 | 强度 86.67 | 质量 80.10
-  - 主题摘要：According to ardin's post, the author notes that while other celebrities like Bad Bunny and Cardi B have viral meme versions, Drake lacks one. The post implies the creation or exi…
-  - 资金 100.00 / 广度 95.39 / 确认 15.84 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 币安城 | BSC | 已确认 | 强度 85.64 | 质量 82.48
+- 币安城 | BSC | 已确认 | 强度 86.14 | 质量 82.53
   - 主题摘要：According to @deltasociety's post, the author suggests that BNB should provide dividends to its holders.
-  - 资金 100.00 / 广度 94.34 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.51 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Pump Guy Discusses Fee Token | Solana | 加速中 | 强度 84.47 | 质量 80.00
-  - 主题摘要：According to pump guy 🇮🇱's post, he responded to a suggestion regarding the creation of a token with fees directed to him, stating that users can do whatever they want with their…
-  - 资金 100.00 / 广度 88.72 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Toad Meme Image | Solana | 加速中 | 强度 83.83 | 质量 71.67
-  - 主题摘要：According to Tige's post, a new token named 'China PEPE' (symbol: 癞疙宝) is being promoted on the BNB Chain, with claims that it is the 'new Pepe'. Tige suggests that the 'Toad' (癞疙…
+- Alleged Toad Meme Image | Solana | 加速中 | 强度 83.65 | 质量 71.40
+  - 主题摘要：Multiple tokens named 「TOAD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 84.59 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Vanguard Oil Retirement Fund | Solana | 降温中 | 强度 83.45 | 质量 71.17
+- Vanguard Oil Retirement Fund | Solana | 降温中 | 强度 83.46 | 质量 71.18
   - 主题摘要：Multiple tokens named 「VORF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.36 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 70.39 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴富羊 | BSC | 已确认 | 强度 82.32 | 质量 77.49
-  - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.72 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Golden Nailong Meme Image | BSC | 已确认 | 强度 81.82 | 质量 79.92
-  - 主题摘要：According to jadedev's post, the 'Nailong' character is described as 'golden' and identified as the 'best golden meme'. This content references the 'Nailong' token and promotes a…
-  - 资金 100.00 / 广度 83.18 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Bondoooor Proposes Wallet Spam Batting | Solana | 加速中 | 强度 81.80 | 质量 79.59
-  - 主题摘要：According to Bondoooor's post, the author proposes a hypothesis to test herd theory by suggesting that all tracked wallets purchase a specific coin and engage in spam trading. Thi…
-  - 资金 100.00 / 广度 87.88 / 确认 23.76 / 脆弱性 24.00
+- Alleged Drake Meme Coin | Solana | 加速中 | 强度 83.42 | 质量 79.26
+  - 主题摘要：Multiple tokens named 「Bark」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.69 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asian Games | BSC | 加速中 | 强度 76.09 | 质量 66.01
-  - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.12 / 确认 19.44 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 75.04 | 质量 65.24
+- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 82.60 | 质量 71.51
   - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
-  - 资金 100.00 / 广度 77.78 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.97 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OG Comments on BNB Card Narrative | BSC | 加速中 | 强度 74.75 | 质量 71.49
-  - 主题摘要：According to OG's post, the user commented on the narrative surrounding the BNB Card, expressing enthusiasm with the phrase "send it". This statement reflects a positive sentiment…
-  - 资金 100.00 / 广度 86.42 / 确认 28.08 / 脆弱性 14.00
+- 暴富羊 | BSC | 已确认 | 强度 82.44 | 质量 77.46
+  - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.62 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Bondoooor Proposes Wallet Spam Batting | Solana | 加速中 | 强度 80.96 | 质量 79.86
+  - 主题摘要：According to Bondoooor's post, the author proposes a hypothesis to test herd theory by suggesting that all tracked wallets purchase a specific coin and engage in spam trading. Thi…
+  - 资金 100.00 / 广度 88.77 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Chibbi Meme Coin | Solana | 加速中 | 强度 80.13 | 质量 80.92
+  - 主题摘要：According to HimJames's post, a token named 'Justice for Chibbi' is associated with a viral narrative regarding a cat named Chibbi. The post alleges that the project is exploiting…
+  - 资金 100.00 / 广度 94.95 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Golden Nailong Meme Image | BSC | 加速中 | 强度 76.82 | 质量 75.57
+  - 主题摘要：According to jadedev's post, the 'Nailong' character is described as 'golden' and identified as the 'best golden meme'. This content references the 'Nailong' token and promotes a…
+  - 资金 100.00 / 广度 86.04 / 确认 35.28 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of Kadu Grieving Parrot Meme Coin | Solana | 点火期 | 强度 76.73 | 质量 77.92
+  - 主题摘要：According to Wugi's post, a token named 'Kadu The Grieving Parrot' is allegedly launched on a decentralized exchange. The narrative links the token to a viral parrot named Kadu th…
+  - 资金 90.61 / 广度 87.60 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Yi He on Binance's Vision | BSC | 加速中 | 强度 75.80 | 质量 62.55
+  - 主题摘要：Yi He stated that Binance's core mission is to "Exchange the world." She analyzed that CEXs must evolve from high-risk trading platforms to asset platforms by offering stable yiel…
+  - 资金 100.00 / 广度 75.93 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Asian Games | BSC | 加速中 | 强度 74.15 | 质量 63.16
+  - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.43 / 确认 18.72 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 86.5，其中已确认叙事 0 个。
-- Alleged Toad Meme Image 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.75，其中已确认叙事 0 个。
+- Alleged Chibbi Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - United Oil Trust Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - AORP | 质量 84.02 | 可交易性 100.00 | 风险 低
-- 币安城 | 质量 82.48 | 可交易性 100.00 | 风险 低
-- Alleged Drake Meme Coin | 质量 82.46 | 可交易性 100.00 | 风险 低
-- Alleged Drake Meme Coin | 质量 80.10 | 可交易性 100.00 | 风险 低
-- Pump Guy Discusses Fee Token | 质量 80.00 | 可交易性 100.00 | 风险 低
-- Alleged Golden Nailong Meme Image | 质量 79.92 | 可交易性 100.00 | 风险 低
-- Bondoooor Proposes Wallet Spam Batting | 质量 79.59 | 可交易性 100.00 | 风险 低
+- 币安城 | 质量 82.53 | 可交易性 100.00 | 风险 低
+- Alleged Chibbi Meme Coin | 质量 80.92 | 可交易性 100.00 | 风险 低
+- Bondoooor Proposes Wallet Spam Batting | 质量 79.86 | 可交易性 100.00 | 风险 低
+- Alleged Drake Meme Coin | 质量 79.26 | 可交易性 99.73 | 风险 低
 - United Oil Trust Fund | 质量 78.41 | 可交易性 100.00 | 风险 低
-- 暴富羊 | 质量 77.49 | 可交易性 100.00 | 风险 低
-- Alleged Toad Meme Image | 质量 71.67 | 可交易性 74.25 | 风险 低
+- Alleged Launch of Kadu Grieving Parrot Meme Coin | 质量 77.92 | 可交易性 100.00 | 风险 低
+- 暴富羊 | 质量 77.46 | 可交易性 100.00 | 风险 低
+- Alleged Golden Nailong Meme Image | 质量 75.57 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Quote Binance Stocks | 质量 71.51 | 可交易性 82.45 | 风险 低
 
 ## 伪叙事风险
 
+- Alleged Launch of Kadu Grieving Parrot Meme Coin | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -100,12 +102,12 @@
 - 币安城 | BSC | 看多 | 新鲜度 100.00 | 币安城
 - XchangetheWorld | BSC | 看多 | 新鲜度 100.00 | Uncertain:CZ Quote Binance Stocks
 - MEMEFI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- RURU | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Sheep | Solana | 看多 | 新鲜度 100.00 | Bondoooor Proposes Wallet Spam Batting
 - Chibbi | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - se | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CLIP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TOAD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- TUT | BSC | 看多 | 新鲜度 82.97 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -132,7 +134,7 @@
 
 今日币安叙事中枢观察：
 1. 当前最强叙事：AORP（Solana，分数 92.91）
-2. 共振最强代币：TUT（BSC，共振 100.0）
-3. 记忆层变化：Alleged Drake Meme Coin 当前为“新出现”
+2. 共振最强代币：BTW（BSC，共振 100.0）
+3. 记忆层变化：Alleged Chibbi Meme Coin 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
