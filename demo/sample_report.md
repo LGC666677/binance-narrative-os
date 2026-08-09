@@ -1,105 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-09T18:56:59.926592+00:00
+- 生成时间：2026-08-09T19:24:59.288496+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Oil Collective，所在链为 Solana，叙事强度 87.83。
-- 当前平均叙事强度为 82.31，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 UOTF 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Elon Musk Euler's Identity，伪叙事风险 47.79。
+- 当前最强叙事是 Alleged Launch of DEUS. MOEDAS. FAMÍLIA. BUCETA.，所在链为 Solana，叙事强度 87.37。
+- 当前平均叙事强度为 82.5，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TUT，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged PeePee Token Charity Claim 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 TNOS，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
-- United States Oil Collective | Solana | 降温中 | 强度 87.83 | 质量 76.69
-  - 主题摘要：Multiple tokens named 「USOC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.76 / 确认 9.36 / 脆弱性 0.00
+- Alleged Launch of DEUS. MOEDAS. FAMÍLIA. BUCETA. | Solana | 降温中 | 强度 87.37 | 质量 78.92
+  - 主题摘要：According to alon's post, the user allegedly launched a token named DEUS. MOEDAS. FAMÍLIA. BUCETA. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 96.20 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 币安城 | BSC | 已确认 | 强度 86.54 | 质量 82.49
+- Elon Musk Euler's Identity | Solana | 降温中 | 强度 86.97 | 质量 78.89
+  - 主题摘要：Elon Musk replies to a post about the most beautiful equation with 'This equation explains why e and pi are what they are', validating Euler's Identity as the ultimate mathematica…
+  - 资金 100.00 / 广度 96.11 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 币安城 | BSC | 已确认 | 强度 86.92 | 质量 82.49
   - 主题摘要：According to @deltasociety's post, the author suggests that BNB should provide dividends to its holders.
-  - 资金 100.00 / 广度 94.38 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.39 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- UOTF | Solana | 降温中 | 强度 85.72 | 质量 74.30
-  - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.51 / 确认 16.56 / 脆弱性 4.56
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TNOS | Solana | 降温中 | 强度 84.98 | 质量 74.80
+- TNOS | Solana | 降温中 | 强度 83.77 | 质量 74.77
   - 主题摘要：Multiple tokens named 「TNOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.12 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.05 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged GaryVee Meme Coin | Solana | 加速中 | 强度 81.91 | 质量 76.04
-  - 主题摘要：According to terry's post, a token named Gentle Giant is allegedly being launched with 80% of fees directed to Gary Vaynerchuk to secure his endorsement. The post claims this coul…
-  - 资金 100.00 / 广度 75.53 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- United States Oil Collective | Solana | 降温中 | 强度 82.90 | 质量 73.38
+  - 主题摘要：Multiple tokens named 「USOC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.75 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - 暴富羊 | BSC | 已确认 | 强度 81.85 | 质量 77.11
   - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 76.45 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon Musk Euler's Identity | Solana | 点火期 | 强度 80.22 | 质量 76.66
-  - 主题摘要：Elon Musk replies to a post about the most beautiful equation with 'This equation explains why e and pi are what they are', validating Euler's Identity as the ultimate mathematica…
-  - 资金 100.00 / 广度 94.48 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Launch of DEUS. MOEDAS. FAMÍLIA. BUCETA. | Solana | 点火期 | 强度 79.97 | 质量 76.59
-  - 主题摘要：According to alon's post, the user allegedly launched a token named DEUS. MOEDAS. FAMÍLIA. BUCETA. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 94.48 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alfe Allegedly Pepe's Origin | Solana | 加速中 | 强度 79.48 | 质量 80.10
+- Alleged GaryVee Meme Coin | Solana | 加速中 | 强度 80.68 | 质量 75.07
+  - 主题摘要：According to terry's post, a token named Gentle Giant is allegedly being launched with 80% of fees directed to Gary Vaynerchuk to secure his endorsement. The post claims this coul…
+  - 资金 100.00 / 广度 75.44 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alfe Allegedly Pepe's Origin | Solana | 加速中 | 强度 79.54 | 质量 80.17
   - 主题摘要：According to Alfe's post, Alfe claims that the character Alfe inspired Matt Furie to create Pepe, thereby shaping the memecoin space. Alfe asserts that without Alfe, tokens like $…
-  - 资金 100.00 / 广度 89.05 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.28 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 78.69 | 质量 69.83
-  - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
-  - 资金 100.00 / 广度 75.24 / 确认 24.48 / 脆弱性 14.00
+- Alleged PeePee Token Charity Claim | Solana | 加速中 | 强度 79.44 | 质量 65.57
+  - 主题摘要：According to terry's post, the PeePee token is allegedly utilizing a Solana wallet to facilitate donations to Matt Furie's charity, Save the Frogs. The post questions why the toke…
+  - 资金 100.00 / 广度 80.08 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Massive Glow Up | Solana | 加速中 | 强度 78.38 | 质量 77.58
-  - 主题摘要：According to Harry's post, he expressed an inability to stop watching a specific Meme image. The post highlights his engagement with this visual content, though the specific subje…
-  - 资金 100.00 / 广度 88.63 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 交流1048106404 | BSC | 加速中 | 强度 74.32 | 质量 59.26
-  - 主题摘要：Multiple tokens named 「火星战车」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.09 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Golden Nailong Meme Image | BSC | 加速中 | 强度 72.85 | 质量 71.35
-  - 主题摘要：According to jadedev's post, the 'Nailong' character is described as 'golden' and identified as the 'best golden meme'. This content references the 'Nailong' token and promotes a…
-  - 资金 100.00 / 广度 82.54 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asian Games | BSC | 降温中 | 强度 72.05 | 质量 59.40
-  - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.02 / 确认 15.12 / 脆弱性 14.00
+- pumpfun super cycle | Solana | 降温中 | 强度 79.31 | 质量 67.59
+  - 主题摘要：pumpcycle is a meme token inspired by the Pump.fun platform, featuring a cyclist logo symbolizing the 'cycle' of community-driven growth. It aims to foster a playful, inclusive co…
+  - 资金 100.00 / 广度 58.43 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 77.10 | 质量 70.31
+  - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
+  - 资金 100.00 / 广度 75.23 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Midnight Crypto Introduces Freya Meme | BSC | 加速中 | 强度 74.74 | 质量 69.74
+  - 主题摘要：According to Midnight Crypto's post, he introduced Freya, a mascot named after his daughter, representing curiosity, strength, knowledge, and independence for the tutorial:native…
+  - 资金 100.00 / 广度 79.15 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 保质期永久 | BSC | 加速中 | 强度 73.80 | 质量 59.12
+  - 主题摘要：Multiple tokens named 「野生狗奶」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.24 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Discussion on Binance User Terminology | BSC | 加速中 | 强度 73.27 | 质量 65.11
+  - 主题摘要：According to 我肯定会发财！'s post, the author discusses the terminology used for Binance users, suggesting 'binancians' as the term for users and 'bstocker' for those trading Binance st…
+  - 资金 100.00 / 广度 73.21 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.31，其中已确认叙事 0 个。
-- Alleged GaryVee Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- United States Oil Collective 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.5，其中已确认叙事 0 个。
+- Alleged PeePee Token Charity Claim 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Launch of DEUS. MOEDAS. FAMÍLIA. BUCETA. 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - 币安城 | 质量 82.49 | 可交易性 100.00 | 风险 低
-- Alfe Allegedly Pepe's Origin | 质量 80.10 | 可交易性 100.00 | 风险 低
-- Massive Glow Up | 质量 77.58 | 可交易性 95.17 | 风险 低
+- Alfe Allegedly Pepe's Origin | 质量 80.17 | 可交易性 100.00 | 风险 低
+- Alleged Launch of DEUS. MOEDAS. FAMÍLIA. BUCETA. | 质量 78.92 | 可交易性 100.00 | 风险 低
+- Elon Musk Euler's Identity | 质量 78.89 | 可交易性 100.00 | 风险 低
 - 暴富羊 | 质量 77.11 | 可交易性 100.00 | 风险 低
-- United States Oil Collective | 质量 76.69 | 可交易性 100.00 | 风险 低
-- Elon Musk Euler's Identity | 质量 76.66 | 可交易性 100.00 | 风险 低
-- Alleged Launch of DEUS. MOEDAS. FAMÍLIA. BUCETA. | 质量 76.59 | 可交易性 100.00 | 风险 低
-- Alleged GaryVee Meme Coin | 质量 76.04 | 可交易性 100.00 | 风险 低
-- TNOS | 质量 74.80 | 可交易性 99.35 | 风险 低
-- UOTF | 质量 74.30 | 可交易性 100.00 | 风险 低
+- Alleged GaryVee Meme Coin | 质量 75.07 | 可交易性 100.00 | 风险 低
+- TNOS | 质量 74.77 | 可交易性 99.33 | 风险 低
+- United States Oil Collective | 质量 73.38 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Quote Binance Stocks | 质量 70.31 | 可交易性 81.19 | 风险 低
+- Midnight Crypto Introduces Freya Meme | 质量 69.74 | 可交易性 75.36 | 风险 低
 
 ## 伪叙事风险
 
-- Elon Musk Euler's Identity | 风险 47.79 | 原因：流动性偏薄
-- Alleged Launch of DEUS. MOEDAS. FAMÍLIA. BUCETA. | 风险 47.79 | 原因：流动性偏薄
+- TNOS | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- United States Oil Collective | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- FREYA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- FREYA | BSC | 看多 | 新鲜度 100.00 | Midnight Crypto Introduces Freya Meme
 - 币安城 | BSC | 看多 | 新鲜度 100.00 | 币安城
 - XchangetheWorld | BSC | 看多 | 新鲜度 100.00 | Uncertain:CZ Quote Binance Stocks
 - ROOT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -108,7 +108,7 @@
 - HORACE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Theo | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Remus | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- TOAD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PUMP | Solana | 看多 | 新鲜度 99.84 | Alleged Launch of DEUS. MOEDAS. FAMÍLIA. BUCETA. / Elon Musk Euler's Identity
 
 ## 官方催化
 
@@ -134,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Oil Collective（Solana，分数 87.83）
-2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：UOTF 当前为“新出现”
+1. 当前最强叙事：Alleged Launch of DEUS. MOEDAS. FAMÍLIA. BUCETA.（Solana，分数 87.37）
+2. 共振最强代币：TUT（BSC，共振 100.0）
+3. 记忆层变化：Alleged PeePee Token Charity Claim 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
