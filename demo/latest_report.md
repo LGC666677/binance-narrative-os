@@ -1,113 +1,112 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-09T16:16:34.723681+00:00
+- 生成时间：2026-08-09T17:00:10.184926+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 toadtard，所在链为 Solana，叙事强度 87.06。
-- 当前平均叙事强度为 80.26，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 84.45。
-- 记忆层显示 Theo (Fomo Inu) Charity Discussion 当前处于“新出现”状态。
+- 当前最强叙事是 toadtard，所在链为 Solana，叙事强度 87.16。
+- 当前平均叙事强度为 81.01，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 97.93。
+- 记忆层显示 VyBlock Discusses Pepe and Horace 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Cowboy Comments on Bonk，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
-- toadtard | Solana | 加速中 | 强度 87.06 | 质量 75.64
+- toadtard | Solana | 加速中 | 强度 87.16 | 质量 77.21
   - 主题摘要：Multiple tokens named 「toadtard」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.71 / 确认 23.76 / 脆弱性 0.00
+  - 资金 100.00 / 广度 79.93 / 确认 23.76 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 币安城 | BSC | 已确认 | 强度 85.99 | 质量 82.49
+- Alleged Charity Token Launch | Solana | 降温中 | 强度 84.43 | 质量 74.58
+  - 主题摘要：According to Babby sokol's post, the user commented on a discussion regarding Seyong, suggesting that the runner at 300k should be the charity Seyong always wants. The post refere…
+  - 资金 100.00 / 广度 81.74 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 币安城 | BSC | 已确认 | 强度 84.21 | 质量 82.48
   - 主题摘要：According to @deltasociety's post, the author suggests that BNB should provide dividends to its holders.
-  - 资金 100.00 / 广度 94.37 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.33 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Charity Token Launch | Solana | 降温中 | 强度 83.12 | 质量 74.53
-  - 主题摘要：Multiple tokens named 「Remus」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.58 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Laughs | Solana | 降温中 | 强度 82.80 | 质量 71.34
+- Elon Musk Laughs | Solana | 降温中 | 强度 83.63 | 质量 72.48
   - 主题摘要：Elon Musk replied with a laughing emoji to Tim Pool's hysterical laughter, sparking curiosity about what was so funny in the crypto world.
-  - 资金 100.00 / 广度 84.36 / 确认 5.04 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.37 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cowboy Comments on Bonk | Solana | 点火期 | 强度 81.77 | 质量 78.05
-  - 主题摘要：According to cowboy's post, the author characterizes the current market environment as a competition between platforms and identifies Bonk as a suitable asset for the current cycl…
-  - 资金 100.00 / 广度 92.05 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 暴富羊 | BSC | 已确认 | 强度 81.07 | 质量 77.37
+- 暴富羊 | BSC | 已确认 | 强度 80.61 | 质量 77.13
   - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.31 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.52 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 79.28 | 质量 70.42
+- VyBlock Discusses Pepe and Horace | Solana | 加速中 | 强度 80.39 | 质量 75.52
+  - 主题摘要：According to VyBlock's post, the author references a statement claiming that the character Horace from comics resembles Pepe, suggesting Horace should lead due to inspiring Pepe.
+  - 资金 100.00 / 广度 80.56 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Cowboy Comments on Bonk | Solana | 点火期 | 强度 79.39 | 质量 77.66
+  - 主题摘要：According to cowboy's post, the author characterizes the current market environment as a competition between platforms and identifies Bonk as a suitable asset for the current cycl…
+  - 资金 100.00 / 广度 91.54 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- USWR | Solana | 降温中 | 强度 79.06 | 质量 67.72
+  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 58.88 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alfe Allegedly Pepe's Origin | Solana | 加速中 | 强度 78.69 | 质量 67.76
+  - 主题摘要：According to Alfe's post, Matt Furie cited the character Alfe as the inspiration for Pepe, which allegedly launched the memecoin era. Alfe claims to be the founding character behi…
+  - 资金 100.00 / 广度 80.81 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 78.03 | 质量 69.95
   - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
-  - 资金 100.00 / 广度 75.36 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.26 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- moan mentions FOMO and transfer fees | Solana | 加速中 | 强度 77.44 | 质量 76.18
+- moan mentions FOMO and transfer fees | Solana | 加速中 | 强度 75.30 | 质量 75.62
   - 主题摘要：According to moan's post, the author states that a specific individual created a sense of FOMO (Fear Of Missing Out), prompting the author to send funds to that individual along w…
-  - 资金 100.00 / 广度 79.14 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.93 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Theo (Fomo Inu) Charity Discussion | Solana | 加速中 | 强度 77.28 | 质量 67.18
-  - 主题摘要：According to Faith's post, Theo (Fomo Inu) has reached a market cap of 100k without charity initiatives. Faith questions why the project has not yet sent Seyyong's dog, suggesting…
-  - 资金 100.00 / 广度 81.81 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Golden Nailong Meme Image | BSC | 加速中 | 强度 73.06 | 质量 71.48
+- Alleged Golden Nailong Meme Image | BSC | 加速中 | 强度 73.71 | 质量 70.60
   - 主题摘要：According to jadedev's post, the 'Nailong' character is described as 'golden' and identified as the 'best golden meme'. This content references the 'Nailong' token and promotes a…
-  - 资金 100.00 / 广度 82.75 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.49 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- se Confirms Remus as Mascot | Solana | 加速中 | 强度 72.36 | 质量 73.74
-  - 主题摘要：According to se's post, the user confirmed that Remus is the mascot. This statement was made in a reply to a query regarding the name of the mascot associated with the Remus proje…
-  - 资金 92.02 / 广度 94.65 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OG Comments on BNB Card Narrative | BSC | 加速中 | 强度 72.34 | 质量 69.08
-  - 主题摘要：According to OG's post, the user commented on the narrative surrounding the BNB Card, expressing enthusiasm with the phrase "send it". This statement reflects a positive sentiment…
-  - 资金 100.00 / 广度 83.06 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Discussion on Binance User Terminology | BSC | 加速中 | 强度 72.14 | 质量 65.43
-  - 主题摘要：According to 我肯定会发财！'s post, the author discusses the terminology used for Binance users, suggesting 'binancians' as the term for users and 'bstocker' for those trading Binance st…
-  - 资金 100.00 / 广度 73.57 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asian Games | BSC | 降温中 | 强度 71.49 | 质量 60.18
-  - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.25 / 确认 15.12 / 脆弱性 24.00
+- Apple TV Sugar Meme | BSC | 降温中 | 强度 72.91 | 质量 57.59
+  - 主题摘要：According to Apple TV's post, the account shared a Meme image captioned "Two very good boys" with the hashtag #Sugar. This content references the token symbol SUGAR but does not p…
+  - 资金 100.00 / 广度 69.94 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- QQ群73342539 | BSC | 降温中 | 强度 72.17 | 质量 58.67
+  - 主题摘要：Multiple tokens named 「战备兄弟」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.29 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.26，其中已确认叙事 0 个。
-- Theo (Fomo Inu) Charity Discussion 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.01，其中已确认叙事 0 个。
+- VyBlock Discusses Pepe and Horace 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Alleged Charity Token Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- 币安城 | 质量 82.49 | 可交易性 100.00 | 风险 低
-- Cowboy Comments on Bonk | 质量 78.05 | 可交易性 98.62 | 风险 低
-- 暴富羊 | 质量 77.37 | 可交易性 100.00 | 风险 低
-- moan mentions FOMO and transfer fees | 质量 76.18 | 可交易性 100.00 | 风险 低
-- toadtard | 质量 75.64 | 可交易性 100.00 | 风险 低
-- Alleged Charity Token Launch | 质量 74.53 | 可交易性 100.00 | 风险 低
-- se Confirms Remus as Mascot | 质量 73.74 | 可交易性 100.00 | 风险 低
-- Alleged Golden Nailong Meme Image | 质量 71.48 | 可交易性 100.00 | 风险 低
-- Elon Musk Laughs | 质量 71.34 | 可交易性 89.75 | 风险 低
-- Uncertain:CZ Quote Binance Stocks | 质量 70.42 | 可交易性 82.14 | 风险 低
+- 币安城 | 质量 82.48 | 可交易性 100.00 | 风险 低
+- Cowboy Comments on Bonk | 质量 77.66 | 可交易性 97.82 | 风险 低
+- toadtard | 质量 77.21 | 可交易性 100.00 | 风险 低
+- 暴富羊 | 质量 77.13 | 可交易性 100.00 | 风险 低
+- moan mentions FOMO and transfer fees | 质量 75.62 | 可交易性 100.00 | 风险 低
+- VyBlock Discusses Pepe and Horace | 质量 75.52 | 可交易性 93.21 | 风险 低
+- Alleged Charity Token Launch | 质量 74.58 | 可交易性 100.00 | 风险 低
+- Elon Musk Laughs | 质量 72.48 | 可交易性 90.37 | 风险 低
+- Alleged Golden Nailong Meme Image | 质量 70.60 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Quote Binance Stocks | 质量 69.95 | 可交易性 81.75 | 风险 低
 
 ## 伪叙事风险
 
 - Cowboy Comments on Bonk | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Charity Token Launch | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - FREYA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币安城 | BSC | 看多 | 新鲜度 100.00 | 币安城
 - XchangetheWorld | BSC | 看多 | 新鲜度 100.00 | Uncertain:CZ Quote Binance Stocks
-- Remus | Solana | 看多 | 新鲜度 100.00 | Cowboy Comments on Bonk
+- Alfe | Solana | 看多 | 新鲜度 100.00 | Alfe Allegedly Pepe's Origin
+- Theo | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Remus | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TOAD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Theo | Solana | 看多 | 新鲜度 100.00 | Theo (Fomo Inu) Charity Discussion
 - Remus | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RURU | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Sheep | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Remus | Solana | 看多 | 新鲜度 88.62 | 暂无直接叙事映射
 
 ## 官方催化
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：toadtard（Solana，分数 87.06）
-2. 共振最强代币：ANSEM（Solana，共振 84.45）
-3. 记忆层变化：Theo (Fomo Inu) Charity Discussion 当前为“新出现”
+1. 当前最强叙事：toadtard（Solana，分数 87.16）
+2. 共振最强代币：MARSCOIN（BSC，共振 97.93）
+3. 记忆层变化：VyBlock Discusses Pepe and Horace 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
