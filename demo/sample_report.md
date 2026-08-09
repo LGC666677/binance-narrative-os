@@ -1,6 +1,6 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-09T17:43:31.087204+00:00
+- 生成时间：2026-08-09T18:03:52.095854+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
@@ -8,9 +8,9 @@
 ## 今日摘要
 
 - 当前最强叙事是 United States Oil Collective，所在链为 Solana，叙事强度 87.83。
-- 当前平均叙事强度为 81.16，其中已确认叙事 0 个。
+- 当前平均叙事强度为 82.47，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 United States Oil Collective 当前处于“新出现”状态。
+- 记忆层显示 Massive Glow Up 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Cowboy Comments on Bonk，伪叙事风险 44.91。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
@@ -20,77 +20,77 @@
   - 主题摘要：Multiple tokens named 「USOC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 88.76 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- toadtard | Solana | 加速中 | 强度 87.10 | 质量 78.26
+- toadtard | Solana | 加速中 | 强度 86.35 | 质量 78.40
   - 主题摘要：Multiple tokens named 「toadtard」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.93 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 83.38 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 币安城 | BSC | 已确认 | 强度 85.38 | 质量 82.48
+- 币安城 | BSC | 已确认 | 强度 85.85 | 质量 82.49
   - 主题摘要：According to @deltasociety's post, the author suggests that BNB should provide dividends to its holders.
-  - 资金 100.00 / 广度 94.35 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.39 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- VyBlock Discusses Pepe and Horace | Solana | 加速中 | 强度 85.15 | 质量 77.32
-  - 主题摘要：According to VyBlock's post, the author references a statement claiming that the character Horace from comics resembles Pepe, suggesting Horace should lead due to inspiring Pepe.
-  - 资金 100.00 / 广度 83.20 / 确认 24.48 / 脆弱性 14.00
+- Massive Glow Up | Solana | 加速中 | 强度 84.74 | 质量 79.85
+  - 主题摘要：According to Harry's post, he expressed an inability to stop watching a specific Meme image. The post highlights his engagement with this visual content, though the specific subje…
+  - 资金 100.00 / 广度 88.23 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 暴富羊 | BSC | 已确认 | 强度 80.63 | 质量 77.12
-  - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.48 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Cowboy Comments on Bonk | Solana | 点火期 | 强度 80.48 | 质量 77.73
+- Alleged Charity Token Launch | Solana | 降温中 | 强度 84.35 | 质量 74.31
+  - 主题摘要：According to Babby sokol's post, the user comments on Seyong's preference for a charity-related project, noting that while another option is the runner-up, Seyong consistently fav…
+  - 资金 100.00 / 广度 82.53 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Cowboy Comments on Bonk | Solana | 点火期 | 强度 80.74 | 质量 77.75
   - 主题摘要：According to cowboy's post, the author characterizes the current market environment as a competition between platforms and identifies Bonk as a suitable asset for the current cycl…
-  - 资金 100.00 / 广度 91.77 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.83 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- john comments on FEPE token | Solana | 降温中 | 强度 80.02 | 质量 69.09
-  - 主题摘要：According to john's post, john commented on the FOMO Pepe ($FEPE) token, referencing a Meme image posted by @seyong. john expressed strong bullish sentiment, claiming the token co…
-  - 资金 100.00 / 广度 72.38 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USWR | Solana | 降温中 | 强度 79.15 | 质量 67.80
+- 暴富羊 | BSC | 已确认 | 强度 80.62 | 质量 77.12
+  - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.46 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- VyBlock Discusses Pepe and Horace | Solana | 加速中 | 强度 80.23 | 质量 67.00
+  - 主题摘要：According to VyBlock's post, the author references a statement claiming that the character Horace from comics resembles Pepe, suggesting Horace should lead due to inspiring Pepe.
+  - 资金 100.00 / 广度 83.26 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- USWR | Solana | 降温中 | 强度 79.25 | 质量 67.89
   - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 59.13 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 59.42 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 77.84 | 质量 70.21
+- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 76.83 | 质量 69.25
   - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
-  - 资金 100.00 / 广度 75.23 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.21 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Golden Nailong Meme Image | BSC | 加速中 | 强度 75.20 | 质量 72.43
-  - 主题摘要：According to jadedev's post, the 'Nailong' character is described as 'golden' and identified as the 'best golden meme'. This content references the 'Nailong' token and promotes a…
-  - 资金 100.00 / 广度 82.42 / 确认 31.68 / 脆弱性 14.00
+- Rhizome | Solana | 加速中 | 强度 76.28 | 质量 74.50
+  - 主题摘要：Rhizome (ROOT) is a decentralized platform focused on community-driven innovation. The token powers a network of decentralized applications that enable secure, transparent transac…
+  - 资金 100.00 / 广度 70.90 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- White House Quote & NDITB Token | Solana | 降温中 | 强度 75.12 | 质量 65.92
-  - 主题摘要：The White House posted an inspirational quote about future ambitions. This content is associated with cryptocurrency tokens named 'No Dream Is Too Big' (NDITB) and 'DREAM'. These…
-  - 资金 100.00 / 广度 76.02 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- moan mentions FOMO and transfer fees | Solana | 加速中 | 强度 74.43 | 质量 74.37
-  - 主题摘要：According to moan's post, the author states that a specific individual created a sense of FOMO (Fear Of Missing Out), prompting the author to send funds to that individual along w…
-  - 资金 100.00 / 广度 78.94 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 交流1048106404 | BSC | 加速中 | 强度 73.94 | 质量 58.93
+- 交流1048106404 | BSC | 加速中 | 强度 74.11 | 质量 58.98
   - 主题摘要：Multiple tokens named 「火星战车」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.04 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 68.03 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OG Comments on BNB Card Narrative | BSC | 加速中 | 强度 72.18 | 质量 70.63
+- Uncertain:Discussion on Binance User Terminology | BSC | 加速中 | 强度 73.29 | 质量 65.35
+  - 主题摘要：According to 我肯定会发财！'s post, the author discusses the terminology used for Binance users, suggesting 'binancians' as the term for users and 'bstocker' for those trading Binance st…
+  - 资金 100.00 / 广度 73.53 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- OG Comments on BNB Card Narrative | BSC | 加速中 | 强度 72.90 | 质量 69.94
   - 主题摘要：According to OG's post, the user commented on the narrative surrounding the BNB Card, expressing enthusiasm with the phrase "send it". This statement reflects a positive sentiment…
-  - 资金 100.00 / 广度 82.75 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.68 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.16，其中已确认叙事 0 个。
-- 交流1048106404 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.47，其中已确认叙事 0 个。
+- Massive Glow Up 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - United States Oil Collective 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- 币安城 | 质量 82.48 | 可交易性 100.00 | 风险 低
-- toadtard | 质量 78.26 | 可交易性 100.00 | 风险 低
-- Cowboy Comments on Bonk | 质量 77.73 | 可交易性 97.82 | 风险 低
-- VyBlock Discusses Pepe and Horace | 质量 77.32 | 可交易性 96.58 | 风险 低
+- 币安城 | 质量 82.49 | 可交易性 100.00 | 风险 低
+- Massive Glow Up | 质量 79.85 | 可交易性 100.00 | 风险 低
+- toadtard | 质量 78.40 | 可交易性 100.00 | 风险 低
+- Cowboy Comments on Bonk | 质量 77.75 | 可交易性 97.82 | 风险 低
 - 暴富羊 | 质量 77.12 | 可交易性 100.00 | 风险 低
 - United States Oil Collective | 质量 76.69 | 可交易性 100.00 | 风险 低
-- moan mentions FOMO and transfer fees | 质量 74.37 | 可交易性 100.00 | 风险 低
-- Alleged Golden Nailong Meme Image | 质量 72.43 | 可交易性 100.00 | 风险 低
-- OG Comments on BNB Card Narrative | 质量 70.63 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Quote Binance Stocks | 质量 70.21 | 可交易性 81.58 | 风险 低
+- Rhizome | 质量 74.50 | 可交易性 100.00 | 风险 低
+- Alleged Charity Token Launch | 质量 74.31 | 可交易性 98.30 | 风险 低
+- OG Comments on BNB Card Narrative | 质量 69.94 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Quote Binance Stocks | 质量 69.25 | 可交易性 81.42 | 风险 低
 
 ## 伪叙事风险
 
@@ -101,13 +101,13 @@
 - FREYA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币安城 | BSC | 看多 | 新鲜度 100.00 | 币安城
 - XchangetheWorld | BSC | 看多 | 新鲜度 100.00 | Uncertain:CZ Quote Binance Stocks
+- ROOT | Solana | 看多 | 新鲜度 100.00 | Rhizome
 - RODRI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Alfe | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HORACE | Solana | 看多 | 新鲜度 100.00 | VyBlock Discusses Pepe and Horace
 - Theo | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Remus | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TOAD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Remus | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -135,6 +135,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：United States Oil Collective（Solana，分数 87.83）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：United States Oil Collective 当前为“新出现”
+3. 记忆层变化：Massive Glow Up 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
