@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-09T21:22:17.723898+00:00
+- 生成时间：2026-08-09T21:53:52.444227+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 NVIDIA MEME Token，所在链为 Solana，叙事强度 87.79。
-- 当前平均叙事强度为 79.19，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 PUMP，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Bot Meme Image 当前处于“新出现”状态。
+- 当前最强叙事是 Owen Sparks on Grok Meme，所在链为 Solana，叙事强度 88.33。
+- 当前平均叙事强度为 84.59，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
+- 记忆层显示 Owen Sparks on Grok Meme 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
-- NVIDIA MEME Token | Solana | 降温中 | 强度 87.79 | 质量 79.33
-  - 主题摘要：Multiple tokens named 「NVIDIA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 97.57 / 确认 9.36 / 脆弱性 14.00
+- Owen Sparks on Grok Meme | Solana | 降温中 | 强度 88.33 | 质量 78.68
+  - 主题摘要：According to 9's post, the author shared a Meme image referencing 'Grok Bot,' an X-AI product, and questioned if this constitutes confirmation of a related token. The post highlig…
+  - 资金 100.00 / 广度 95.41 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 币安城 | BSC | 已确认 | 强度 86.29 | 质量 82.47
+- Alleged Grok Bot Meme Image | Solana | 降温中 | 强度 87.83 | 质量 79.30
+  - 主题摘要：According to TrillyDev's post, Cursor may rebrand an upcoming agent as 'Grok Bot' following a potential SpaceX acquisition. TrillyDev shared this news alongside references to toke…
+  - 资金 100.00 / 广度 97.47 / 确认 9.36 / 脆弱性 10.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Cursor Acquisition by SpaceX and Grok Bot Branding | Solana | 降温中 | 强度 87.80 | 质量 79.32
+  - 主题摘要：According to The Information's post, Cursor informed staff that SpaceX could complete its $60 billion acquisition as soon as next week, with employees to be folded into SpaceXAI t…
+  - 资金 100.00 / 广度 97.55 / 确认 9.36 / 脆弱性 10.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- terry Mentions SAND Token | Solana | 降温中 | 强度 87.62 | 质量 79.12
+  - 主题摘要：According to terry's post, the user references an article stating that a specific entity or project is called 'sand'. The post also includes a link to a finance news article and q…
+  - 资金 100.00 / 广度 96.86 / 确认 9.36 / 脆弱性 10.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged SpaceX Employee BOT Token | Solana | 降温中 | 强度 87.18 | 质量 78.76
+  - 主题摘要：Multiple tokens named 「BOT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 95.68 / 确认 9.36 / 脆弱性 10.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 币安城 | BSC | 已确认 | 强度 84.42 | 质量 82.46
   - 主题摘要：According to @deltasociety's post, the author suggests that BNB should provide dividends to its holders.
-  - 资金 100.00 / 广度 94.32 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.29 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged GaryVee Meme Coin | Solana | 加速中 | 强度 81.58 | 质量 75.83
-  - 主题摘要：According to terry's post, a token named Gentle Giant is allegedly being launched with 80% of fees directed to Gary Vaynerchuk to secure his endorsement. The post claims this coul…
-  - 资金 100.00 / 广度 74.83 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Bot Meme Image | Solana | 降温中 | 强度 79.95 | 质量 67.74
-  - 主题摘要：According to Chun I Mooda's post, the AI bot @bot allegedly uploaded a 2D pixel hedgehog image named "botidea1.png" to the XAI GitHub repository over two months ago. This image is…
-  - 资金 100.00 / 广度 76.53 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Grok Bot Token | BSC | 加速中 | 强度 79.77 | 质量 78.09
+- Alleged Grok Bot Token | BSC | 已确认 | 强度 83.75 | 质量 85.83
   - 主题摘要：According to TrillyDev's post, Cursor may rebrand an upcoming agent as Grok Bot following a potential SpaceX acquisition. TrillyDev shared this news alongside references to a toke…
-  - 资金 100.00 / 广度 88.14 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 79.77 | 质量 70.51
-  - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
-  - 资金 100.00 / 广度 75.26 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- XST | Solana | 降温中 | 强度 79.76 | 质量 70.44
-  - 主题摘要：XST token powers a marketplace for tokenized AI infrastructure assets, including data centers, power generation, cooling, semiconductors, and construction materials. The logo feat…
-  - 资金 100.00 / 广度 67.93 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴富羊 | BSC | 已确认 | 强度 78.38 | 质量 71.92
-  - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.01 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 98.10 / 确认 38.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Clevr Discusses TOADHOUSE | Solana | 加速中 | 强度 77.08 | 质量 71.58
-  - 主题摘要：According to Clevr's post, the author poses a question regarding the appropriate name for an entity associated with the TOADHOUSE token, indicating uncertainty about its designati…
-  - 资金 100.00 / 广度 71.51 / 确认 20.16 / 脆弱性 14.00
+- TOADLINE | Solana | 降温中 | 强度 81.30 | 质量 72.15
+  - 主题摘要：Multiple tokens named 「TOADLINE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.62 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- XST | Solana | 降温中 | 强度 80.15 | 质量 70.47
+  - 主题摘要：XST token powers a marketplace for tokenized AI infrastructure assets, including data centers, power generation, cooling, semiconductors, and construction materials. The logo feat…
+  - 资金 100.00 / 广度 68.02 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 77.11 | 质量 69.40
+  - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
+  - 资金 100.00 / 广度 75.26 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- hexumlite Shares Solana Wallet | Solana | 降温中 | 强度 77.07 | 质量 65.54
+- Cursor Developing AI Agent Sand | BSC | 加速中 | 强度 76.84 | 质量 74.28
+  - 主题摘要：According to The Information's post, Cursor is developing a general-purpose AI agent named Sand. This initiative aims to expand the company's capabilities beyond its current codin…
+  - 资金 100.00 / 广度 76.63 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- hexumlite Shares Solana Wallet | Solana | 降温中 | 强度 76.54 | 质量 65.10
   - 主题摘要：According to hexumlite's post, the user shared a Solana wallet address in reply to a request for donations. This action provides a direct channel for community contributions to th…
-  - 资金 100.00 / 广度 68.59 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 67.04 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ACAF Autonomous Buyback Protocol | Solana | 降温中 | 强度 75.44 | 质量 62.26
-  - 主题摘要：According to All Coins Are Food's post, the ACAF protocol on Solana launches new @pumpfun coins every 15 seconds. Creator fees from all coins accrue to a single vault, which autom…
-  - 资金 99.22 / 广度 56.04 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged DONATE BOT Meme Image | Solana | 加速中 | 强度 74.81 | 质量 65.80
-  - 主题摘要：According to john's post, the author questions the logic of a referenced image labeled as a 'DONATE BOT' Meme image, noting it contradicts the context of 'pvping duck and epik'. T…
-  - 资金 100.00 / 广度 84.01 / 确认 24.48 / 脆弱性 24.00
+- 暴富羊 | BSC | 加速中 | 强度 75.91 | 质量 70.35
+  - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.79 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged DONATE BOT Meme | BSC | 加速中 | 强度 73.51 | 质量 67.39
-  - 主题摘要：According to john's post, a Meme image circulating online labels the 'DONATE BOT' token as a 'DONATE BOT'. john questions the logic of this classification, noting that the project…
-  - 资金 100.00 / 广度 80.34 / 确认 28.08 / 脆弱性 24.00
+- Uncertain:Discussion on Binance User Terminology | BSC | 加速中 | 强度 73.51 | 质量 65.16
+  - 主题摘要：According to 我肯定会发财！'s post, the author discusses the terminology used for Binance users, suggesting 'binancians' as the term for users and 'bstocker' for those trading Binance st…
+  - 资金 100.00 / 广度 73.24 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asian Games | BSC | 降温中 | 强度 73.16 | 质量 61.17
-  - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.75 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.19，其中已确认叙事 0 个。
-- Clevr Discusses TOADHOUSE 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- NVIDIA MEME Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.59，其中已确认叙事 0 个。
+- Cursor Developing AI Agent Sand 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Owen Sparks on Grok Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- 币安城 | 质量 82.47 | 可交易性 100.00 | 风险 低
-- NVIDIA MEME Token | 质量 79.33 | 可交易性 100.00 | 风险 低
-- Alleged Grok Bot Token | 质量 78.09 | 可交易性 92.09 | 风险 低
-- Alleged GaryVee Meme Coin | 质量 75.83 | 可交易性 100.00 | 风险 低
-- 暴富羊 | 质量 71.92 | 可交易性 100.00 | 风险 低
-- Clevr Discusses TOADHOUSE | 质量 71.58 | 可交易性 92.30 | 风险 低
-- Uncertain:CZ Quote Binance Stocks | 质量 70.51 | 可交易性 81.82 | 风险 低
-- XST | 质量 70.44 | 可交易性 100.00 | 风险 低
-- Alleged Bot Meme Image | 质量 67.74 | 可交易性 82.40 | 风险 低
-- Alleged DONATE BOT Meme | 质量 67.39 | 可交易性 63.70 | 风险 低
+- Alleged Grok Bot Token | 质量 85.83 | 可交易性 100.00 | 风险 低
+- 币安城 | 质量 82.46 | 可交易性 100.00 | 风险 低
+- Cursor Acquisition by SpaceX and Grok Bot Branding | 质量 79.32 | 可交易性 100.00 | 风险 低
+- Alleged Grok Bot Meme Image | 质量 79.30 | 可交易性 100.00 | 风险 低
+- terry Mentions SAND Token | 质量 79.12 | 可交易性 100.00 | 风险 低
+- Alleged SpaceX Employee BOT Token | 质量 78.76 | 可交易性 100.00 | 风险 低
+- Owen Sparks on Grok Meme | 质量 78.68 | 可交易性 100.00 | 风险 低
+- Cursor Developing AI Agent Sand | 质量 74.28 | 可交易性 90.89 | 风险 低
+- TOADLINE | 质量 72.15 | 可交易性 100.00 | 风险 低
+- XST | 质量 70.47 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -99,13 +99,13 @@
 - FREYA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币安城 | BSC | 看多 | 新鲜度 100.00 | 币安城
 - XchangetheWorld | BSC | 看多 | 新鲜度 100.00 | Uncertain:CZ Quote Binance Stocks
-- BLACKSHEEP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HORACE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BOT | Solana | 看多 | 新鲜度 100.00 | Alleged DONATE BOT Meme Image
+- BOT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ROOT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RODRI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- GENTLE | Solana | 看多 | 新鲜度 96.56 | Alleged GaryVee Meme Coin
+- BLACKSHEEP | Solana | 看多 | 新鲜度 95.32 | 暂无直接叙事映射
 - PUMP | Solana | 看多 | 新鲜度 87.84 | 暂无直接叙事映射
+- GENTLE | Solana | 看多 | 新鲜度 84.56 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：NVIDIA MEME Token（Solana，分数 87.79）
-2. 共振最强代币：PUMP（Solana，共振 100.0）
-3. 记忆层变化：Alleged Bot Meme Image 当前为“新出现”
+1. 当前最强叙事：Owen Sparks on Grok Meme（Solana，分数 88.33）
+2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
+3. 记忆层变化：Owen Sparks on Grok Meme 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
