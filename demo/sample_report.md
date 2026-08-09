@@ -1,117 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-09T22:48:51.274319+00:00
+- 生成时间：2026-08-09T23:16:26.954355+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
 - 当前最强叙事是 币安城，所在链为 BSC，叙事强度 86.38。
-- 当前平均叙事强度为 78.48，其中已确认叙事 2 个。
+- 当前平均叙事强度为 79.33，其中已确认叙事 2 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 OpenAI Official coin 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Grok Bot Meme Image，伪叙事风险 44.45。
+- 记忆层显示 Alleged Meme Image Publication 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged 'i'm just a girl' Meme Token，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
 - 币安城 | BSC | 已确认 | 强度 86.38 | 质量 82.47
   - 主题摘要：According to @deltasociety's post, the author suggests that BNB should provide dividends to its holders.
-  - 资金 100.00 / 广度 94.30 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.32 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- PRONOUNS | Solana | 降温中 | 强度 85.71 | 质量 77.74
-  - 主题摘要：ALL/IN token, named PRONOUNS, draws inspiration from gambling culture, as reflected in its logo featuring a cat wearing sunglasses and holding a drink. Created by iamallinsol, who…
-  - 资金 100.00 / 广度 89.63 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Grok Bot Token | BSC | 已确认 | 强度 84.17 | 质量 86.02
+- Alleged Grok Bot Token | BSC | 已确认 | 强度 85.74 | 质量 86.05
   - 主题摘要：According to TrillyDev's post, Cursor may rebrand an upcoming agent as Grok Bot following a potential SpaceX acquisition. TrillyDev shared this news alongside references to a toke…
-  - 资金 100.00 / 广度 98.23 / 确认 38.88 / 脆弱性 24.00
+  - 资金 100.00 / 广度 98.32 / 确认 38.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- OpenAI Official coin | Solana | 降温中 | 强度 83.70 | 质量 71.26
+- Alleged Meme Image Publication | Solana | 加速中 | 强度 85.40 | 质量 81.59
+  - 主题摘要：According to *PARODY* Ephraim "Shabbat Monster" Schindler's post, the individual shared a Meme image accompanied by a link to a horse racing profile, stating they were "finding th…
+  - 资金 100.00 / 广度 94.02 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- OpenAI Official coin | Solana | 降温中 | 强度 84.51 | 质量 72.08
   - 主题摘要：Multiple tokens named 「OpenAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.66 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 73.41 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged SpaceX Employee BOT Token | Solana | 降温中 | 强度 83.65 | 质量 75.33
-  - 主题摘要：According to dead's post, an alleged BOT token is associated with a SpaceX employee. The post references GitHub repositories and other social media links, suggesting a connection…
-  - 资金 100.00 / 广度 84.23 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Owen Sparks on Grok Meme | Solana | 降温中 | 强度 83.41 | 质量 74.95
-  - 主题摘要：According to 9's post, the author shared a Meme image referencing 'Grok Bot,' an X-AI product, and questioned if this constitutes confirmation of a related token. The post highlig…
-  - 资金 100.00 / 广度 82.98 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Bot Meme Image | Solana | 降温中 | 强度 83.35 | 质量 74.91
+- Alleged Bot Meme Image | Solana | 降温中 | 强度 83.60 | 质量 74.74
   - 主题摘要：According to Chun I Mooda's post, the AI bot @bot allegedly uploaded a 2D pixel hedgehog image named "botidea1.png" to the XAI GitHub repository over two months ago. This image is…
-  - 资金 100.00 / 广度 82.84 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.30 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cursor Acquisition by SpaceX and Grok Bot Branding | Solana | 降温中 | 强度 82.95 | 质量 75.71
-  - 主题摘要：According to The Information's post, Cursor informed staff that SpaceX could complete its $60 billion acquisition as soon as next week, with employees to be folded into SpaceXAI t…
-  - 资金 100.00 / 广度 85.51 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Grok Bot Meme Image | Solana | 降温中 | 强度 82.13 | 质量 74.83
-  - 主题摘要：According to TrillyDev's post, Cursor may rebrand an upcoming agent as Grok Bot following a potential SpaceX acquisition. TrillyDev shared this news alongside references to tokens…
-  - 资金 100.00 / 广度 85.74 / 确认 5.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- terry Mentions SAND Token | Solana | 降温中 | 强度 81.96 | 质量 74.68
-  - 主题摘要：According to terry's post, the user references an article stating that a specific entity or project is called 'sand'. The post also includes a question regarding 'genny', potentia…
-  - 资金 100.00 / 广度 85.24 / 确认 5.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 80.44 | 质量 70.60
+- Alleged BILL Token Launch | Solana | 加速中 | 强度 82.09 | 质量 77.12
+  - 主题摘要：According to BSW/Crow Bloodstock's post, the entity is associated with the alleged launch of the Onebigbeautfulbill token, referencing a racehorse named Onebigbeautfulbill. This i…
+  - 资金 100.00 / 广度 79.12 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- KingChill Discusses Viral TikTok Dog Meme | Solana | 加速中 | 强度 81.78 | 质量 74.00
+  - 主题摘要：According to KingChill's post, a specific dog video on TikTok has garnered 5 million views in less than a day, with comments actively creating memes. KingChill compares this viral…
+  - 资金 100.00 / 广度 81.40 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 81.11 | 质量 70.67
   - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
-  - 资金 100.00 / 广度 75.22 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.21 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 暴富羊 | BSC | 加速中 | 强度 74.69 | 质量 66.83
-  - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.59 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asian Games | BSC | 降温中 | 强度 72.64 | 质量 60.46
-  - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.67 / 确认 15.12 / 脆弱性 14.00
+- Alleged 'i'm just a girl' Meme Token | Solana | 点火期 | 强度 79.87 | 质量 76.82
+  - 主题摘要：Multiple tokens named 「GIRL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.55 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Triangle and Circle Meme | Solana | 降温中 | 强度 78.78 | 质量 69.26
+  - 主题摘要：According to the post, a joke is shared featuring a dialogue between a triangle and a circle. The triangle tells the circle it is 'pointless,' playing on the geometric fact that c…
+  - 资金 100.00 / 广度 59.15 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cursor Developing AI Agent Sand | BSC | 加速中 | 强度 72.55 | 质量 69.18
-  - 主题摘要：According to The Information's post, Cursor is developing a general-purpose AI agent named Sand. This initiative aims to expand the company's capabilities beyond its current codin…
-  - 资金 100.00 / 广度 76.21 / 确认 23.76 / 脆弱性 24.00
+- intelligent dog comments on OpenAI Doug meme | Solana | 降温中 | 强度 78.02 | 质量 68.06
+  - 主题摘要：According to intelligent dog's post, the user questions the identity of an image associated with the new OpenAI model, specifically asking what the image is that is not a potato,…
+  - 资金 100.00 / 广度 81.47 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Asian Games | BSC | 降温中 | 强度 74.50 | 质量 62.55
+  - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.68 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 暴富羊 | BSC | 加速中 | 强度 74.22 | 质量 68.00
+  - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.51 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged DONATE BOT Meme | BSC | 加速中 | 强度 74.01 | 质量 67.35
+  - 主题摘要：According to john's post, a Meme image circulating online labels the 'DONATE BOT' token as a 'DONATE BOT'. john questions the logic of this classification, noting that the project…
+  - 资金 100.00 / 广度 81.00 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.48，其中已确认叙事 2 个。
-- PRONOUNS 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.33，其中已确认叙事 2 个。
+- Alleged Meme Image Publication 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- OpenAI Official coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Grok Bot Token | 质量 86.02 | 可交易性 100.00 | 风险 低
+- Alleged Grok Bot Token | 质量 86.05 | 可交易性 100.00 | 风险 低
 - 币安城 | 质量 82.47 | 可交易性 100.00 | 风险 低
-- PRONOUNS | 质量 77.74 | 可交易性 100.00 | 风险 低
-- Cursor Acquisition by SpaceX and Grok Bot Branding | 质量 75.71 | 可交易性 100.00 | 风险 低
-- Alleged SpaceX Employee BOT Token | 质量 75.33 | 可交易性 100.00 | 风险 低
-- Owen Sparks on Grok Meme | 质量 74.95 | 可交易性 100.00 | 风险 低
-- Alleged Bot Meme Image | 质量 74.91 | 可交易性 100.00 | 风险 低
-- Alleged Grok Bot Meme Image | 质量 74.83 | 可交易性 100.00 | 风险 低
-- terry Mentions SAND Token | 质量 74.68 | 可交易性 100.00 | 风险 低
-- OpenAI Official coin | 质量 71.26 | 可交易性 100.00 | 风险 低
+- Alleged Meme Image Publication | 质量 81.59 | 可交易性 100.00 | 风险 低
+- Alleged BILL Token Launch | 质量 77.12 | 可交易性 100.00 | 风险 低
+- Alleged 'i'm just a girl' Meme Token | 质量 76.82 | 可交易性 100.00 | 风险 低
+- Alleged Bot Meme Image | 质量 74.74 | 可交易性 97.96 | 风险 低
+- KingChill Discusses Viral TikTok Dog Meme | 质量 74.00 | 可交易性 87.83 | 风险 低
+- OpenAI Official coin | 质量 72.08 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Quote Binance Stocks | 质量 70.67 | 可交易性 82.41 | 风险 低
+- Triangle and Circle Meme | 质量 69.26 | 可交易性 99.57 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Grok Bot Meme Image | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
-- terry Mentions SAND Token | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged SpaceX Employee BOT Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Owen Sparks on Grok Meme | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged 'i'm just a girl' Meme Token | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
 - Alleged Bot Meme Image | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Cursor Acquisition by SpaceX and Grok Bot Branding | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - FREYA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币安城 | BSC | 看多 | 新鲜度 100.00 | 币安城
 - XchangetheWorld | BSC | 看多 | 新鲜度 100.00 | Uncertain:CZ Quote Binance Stocks
+- BILL | Solana | 看多 | 新鲜度 100.00 | Alleged Meme Image Publication / Alleged BILL Token Launch
 - BOT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- ROOT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HORACE | Solana | 看多 | 新鲜度 95.34 | 暂无直接叙事映射
 - BLACKSHEEP | Solana | 看多 | 新鲜度 95.32 | 暂无直接叙事映射
 - PUMP | Solana | 看多 | 新鲜度 87.84 | 暂无直接叙事映射
-- GENTLE | Solana | 看多 | 新鲜度 84.56 | 暂无直接叙事映射
 - TUT | BSC | 看多 | 新鲜度 82.97 | 暂无直接叙事映射
+- Raccoonzilla | BSC | 看多 | 新鲜度 82.46 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -139,6 +136,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：币安城（BSC，分数 86.38）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：OpenAI Official coin 当前为“新出现”
+3. 记忆层变化：Alleged Meme Image Publication 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
