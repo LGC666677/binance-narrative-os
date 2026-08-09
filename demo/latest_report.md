@@ -1,111 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-09T15:17:16.722084+00:00
+- 生成时间：2026-08-09T15:52:48.750783+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Cowboy Comments on Bonk，所在链为 Solana，叙事强度 88.07。
-- 当前平均叙事强度为 82.97，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 toadtard 当前处于“新出现”状态。
+- 当前最强叙事是 Cowboy Comments on Bonk，所在链为 Solana，叙事强度 89.24。
+- 当前平均叙事强度为 80.99，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 PIZZA，来自 BSC，共振分数 100.0。
+- 记忆层显示 moan mentions FOMO and transfer fees 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Daniel Kuhn on BWA Fee Policy，伪叙事风险 60.17。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
-- Cowboy Comments on Bonk | Solana | 加速中 | 强度 88.07 | 质量 80.07
-  - 主题摘要：Multiple tokens named 「Remus」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.94 / 确认 24.48 / 脆弱性 14.00
+- Cowboy Comments on Bonk | Solana | 加速中 | 强度 89.24 | 质量 80.94
+  - 主题摘要：According to cowboy's post, the author characterizes the current market environment as a competition between platforms and identifies Bonk as a suitable asset for the current cycl…
+  - 资金 100.00 / 广度 91.85 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- toadtard | Solana | 加速中 | 强度 85.67 | 质量 74.20
+- toadtard | Solana | 加速中 | 强度 84.83 | 质量 75.31
   - 主题摘要：Multiple tokens named 「toadtard」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.38 / 确认 24.48 / 脆弱性 0.00
+  - 资金 100.00 / 广度 73.08 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 币安城 | BSC | 已确认 | 强度 84.24 | 质量 82.53
-  - 主题摘要：According to @deltasociety's post, the author suggests that BNB should provide dividends to its holders.
-  - 资金 100.00 / 广度 94.51 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Charity Token Launch | Solana | 降温中 | 强度 83.36 | 质量 73.45
+- Alleged Charity Token Launch | Solana | 降温中 | 强度 84.35 | 质量 74.65
   - 主题摘要：According to Babby sokol's post, the user commented on a discussion regarding Seyong, suggesting that the runner at 300k should be the charity Seyong always wants. The post refere…
-  - 资金 100.00 / 广度 80.14 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.96 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Trumpepe Meme Coin | Solana | 降温中 | 强度 83.31 | 质量 79.92
-  - 主题摘要：According to Jeffrey A Sites's post, he criticizes the 'Trumpepe' meme, describing it as a green cartoon frog representing a 'strongman' dictator. He asserts that MAGA supporters…
-  - 资金 100.00 / 广度 94.24 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Laughs | Solana | 降温中 | 强度 82.62 | 质量 71.05
+- 币安城 | BSC | 已确认 | 强度 84.31 | 质量 82.51
+  - 主题摘要：According to @deltasociety's post, the author suggests that BNB should provide dividends to its holders.
+  - 资金 100.00 / 广度 94.45 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Elon Musk Laughs | Solana | 降温中 | 强度 82.73 | 质量 71.23
   - 主题摘要：Elon Musk replied with a laughing emoji to Tim Pool's hysterical laughter, sparking curiosity about what was so funny in the crypto world.
   - 资金 100.00 / 广度 84.34 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Official 67 Toad Coin | Solana | 降温中 | 强度 81.49 | 质量 72.32
-  - 主题摘要：Multiple tokens named 「67TOAD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.20 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴富羊 | BSC | 已确认 | 强度 81.20 | 质量 77.44
+- 暴富羊 | BSC | 已确认 | 强度 81.20 | 质量 77.43
   - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.53 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.52 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 80.89 | 质量 70.48
+- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 79.19 | 质量 69.51
   - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
-  - 资金 100.00 / 广度 75.65 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.44 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $Ruru Meme Coin | Solana | 加速中 | 强度 80.64 | 质量 79.49
-  - 主题摘要：According to DECRYPT's post, the author comments on the $Ruru token, referencing it as 'the kangaroo' and using crypto slang such as 'og', 'feed', and 'yolo' to describe market se…
-  - 资金 99.50 / 广度 87.01 / 确认 24.48 / 脆弱性 24.00
+- moan mentions FOMO and transfer fees | Solana | 加速中 | 强度 79.10 | 质量 77.20
+  - 主题摘要：According to moan's post, the author states that a specific individual created a sense of FOMO (Fear Of Missing Out), prompting the author to send funds to that individual along w…
+  - 资金 100.00 / 广度 79.39 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- toadtard | Solana | 降温中 | 强度 78.56 | 质量 70.35
+- se Confirms Remus as Mascot | Solana | 加速中 | 强度 77.29 | 质量 79.62
+  - 主题摘要：According to se's post, the user confirmed that Remus is the mascot. This statement was made in a reply to a query regarding the name of the mascot associated with the Remus proje…
+  - 资金 91.61 / 广度 95.09 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- toadtard | Solana | 点火期 | 强度 75.88 | 质量 73.54
   - 主题摘要：Multiple tokens named 「TOADTARD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.32 / 确认 4.32 / 脆弱性 0.00
+  - 资金 100.00 / 广度 74.03 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Daniel Kuhn on BWA Fee Policy | Solana | 降温中 | 强度 74.51 | 质量 69.68
+  - 主题摘要：According to Daniel Kuhn's post, he quoted a tweet stating that BWA is keeping fees and relaunching with all fees directed to charity. Kuhn's commentary suggests that BWA is steal…
+  - 资金 100.00 / 广度 65.40 / 确认 9.36 / 脆弱性 60.89
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Discussion on Binance User Terminology | BSC | 加速中 | 强度 76.36 | 质量 65.95
-  - 主题摘要：According to 我肯定会发财！'s post, the author discusses the terminology used for Binance users, suggesting 'binancians' as the term for users and 'bstocker' for those trading Binance st…
-  - 资金 100.00 / 广度 73.53 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Golden Nailong Meme Image | BSC | 加速中 | 强度 73.84 | 质量 72.42
+- Alleged Golden Nailong Meme Image | BSC | 加速中 | 强度 73.35 | 质量 72.09
   - 主题摘要：According to jadedev's post, the 'Nailong' character is described as 'golden' and identified as the 'best golden meme'. This content references the 'Nailong' token and promotes a…
-  - 资金 100.00 / 广度 83.60 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.39 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Midnight Crypto Introduces Freya Meme | BSC | 加速中 | 强度 73.23 | 质量 67.87
-  - 主题摘要：According to Midnight Crypto's post, he introduced Freya, a mascot named after his daughter, representing curiosity, strength, knowledge, and independence for the tutorial:native…
-  - 资金 100.00 / 广度 79.62 / 确认 20.16 / 脆弱性 14.00
+- 💁‍♀️ | BSC | 加速中 | 强度 73.19 | 质量 62.17
+  - 主题摘要：According to elone1126's post, Yi He frequently uses a specific Meme image, yet no recognized token has been established for this angle. The post claims that Meme images equal Mem…
+  - 资金 100.00 / 广度 72.64 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Asian Games | BSC | 降温中 | 强度 73.03 | 质量 60.54
+  - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.31 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.97，其中已确认叙事 0 个。
-- toadtard 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.99，其中已确认叙事 0 个。
+- moan mentions FOMO and transfer fees 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Alleged Charity Token Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- 币安城 | 质量 82.53 | 可交易性 100.00 | 风险 低
-- Cowboy Comments on Bonk | 质量 80.07 | 可交易性 100.00 | 风险 低
-- Alleged Trumpepe Meme Coin | 质量 79.92 | 可交易性 100.00 | 风险 低
-- Alleged $Ruru Meme Coin | 质量 79.49 | 可交易性 100.00 | 风险 低
-- 暴富羊 | 质量 77.44 | 可交易性 100.00 | 风险 低
-- toadtard | 质量 74.20 | 可交易性 100.00 | 风险 低
-- Alleged Charity Token Launch | 质量 73.45 | 可交易性 97.83 | 风险 低
-- Alleged Golden Nailong Meme Image | 质量 72.42 | 可交易性 100.00 | 风险 低
-- The Official 67 Toad Coin | 质量 72.32 | 可交易性 100.00 | 风险 低
-- Elon Musk Laughs | 质量 71.05 | 可交易性 88.80 | 风险 低
+- 币安城 | 质量 82.51 | 可交易性 100.00 | 风险 低
+- Cowboy Comments on Bonk | 质量 80.94 | 可交易性 100.00 | 风险 低
+- se Confirms Remus as Mascot | 质量 79.62 | 可交易性 100.00 | 风险 低
+- 暴富羊 | 质量 77.43 | 可交易性 100.00 | 风险 低
+- moan mentions FOMO and transfer fees | 质量 77.20 | 可交易性 100.00 | 风险 低
+- toadtard | 质量 75.31 | 可交易性 100.00 | 风险 低
+- Alleged Charity Token Launch | 质量 74.65 | 可交易性 100.00 | 风险 低
+- toadtard | 质量 73.54 | 可交易性 100.00 | 风险 低
+- Alleged Golden Nailong Meme Image | 质量 72.09 | 可交易性 100.00 | 风险 低
+- Elon Musk Laughs | 质量 71.23 | 可交易性 89.39 | 风险 低
 
 ## 伪叙事风险
 
+- Daniel Kuhn on BWA Fee Policy | 风险 60.17 | 原因：龙头筹码集中度偏高
+- toadtard | 风险 43.18 | 原因：流动性偏薄
 
 ## 信号台
 
-- FREYA | BSC | 看多 | 新鲜度 100.00 | Midnight Crypto Introduces Freya Meme
+- FREYA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 币安城 | BSC | 看多 | 新鲜度 100.00 | 币安城
 - XchangetheWorld | BSC | 看多 | 新鲜度 100.00 | Uncertain:CZ Quote Binance Stocks
+- TOAD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Remus | Solana | 看多 | 新鲜度 100.00 | Cowboy Comments on Bonk
 - Remus | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- RURU | Solana | 看多 | 新鲜度 100.00 | Alleged $Ruru Meme Coin
+- RURU | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Sheep | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Chibbi | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Remus | Solana | 看多 | 新鲜度 88.62 | 暂无直接叙事映射
-- TUT | BSC | 看多 | 新鲜度 82.97 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Cowboy Comments on Bonk（Solana，分数 88.07）
-2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：toadtard 当前为“新出现”
+1. 当前最强叙事：Cowboy Comments on Bonk（Solana，分数 89.24）
+2. 共振最强代币：PIZZA（BSC，共振 100.0）
+3. 记忆层变化：moan mentions FOMO and transfer fees 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
