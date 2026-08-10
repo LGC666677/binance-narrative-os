@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-09T23:53:09.889654+00:00
+- 生成时间：2026-08-10T00:39:41.062162+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Grok Bot Token，所在链为 BSC，叙事强度 86.02。
-- 当前平均叙事强度为 79.55，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 CBS News Golden Retriever Story 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Bot Meme Image，伪叙事风险 40.99。
+- 当前最强叙事是 币安城，所在链为 BSC，叙事强度 86.33。
+- 当前平均叙事强度为 79.04，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 TUT，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged SpaceX Companion Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Diggon Meme Token，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Extension to the USD1 Airdrop Campaign (2026-08-07)。
 
 ## 叙事雷达
 
-- Alleged Grok Bot Token | BSC | 已确认 | 强度 86.02 | 质量 85.97
-  - 主题摘要：According to TrillyDev's post, Cursor may rebrand an upcoming agent as Grok Bot following a potential SpaceX acquisition. TrillyDev shared this news alongside references to a toke…
-  - 资金 100.00 / 广度 98.59 / 确认 38.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- CBS News Golden Retriever Story | Solana | 降温中 | 强度 85.33 | 质量 76.91
-  - 主题摘要：According to CBS Evening News with Tony Dokoupil's post, a golden retriever suffering from seizures reportedly regained its spirit after being paired with a duck named Louie. This…
-  - 资金 100.00 / 广度 84.21 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 币安城 | BSC | 已确认 | 强度 85.02 | 质量 82.46
+- 币安城 | BSC | 已确认 | 强度 86.33 | 质量 82.46
   - 主题摘要：According to @deltasociety's post, the author suggests that BNB should provide dividends to its holders.
-  - 资金 100.00 / 广度 94.29 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.27 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- OpenAI Official coin | Solana | 降温中 | 强度 84.56 | 质量 72.13
+- OpenAI Official coin | Solana | 降温中 | 强度 85.79 | 质量 73.75
   - 主题摘要：Multiple tokens named 「OpenAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.56 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 73.70 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Bot Meme Image | Solana | 降温中 | 强度 83.63 | 质量 74.76
-  - 主题摘要：According to Chun I Mooda's post, the AI bot @bot allegedly uploaded a 2D pixel hedgehog image named "botidea1.png" to the XAI GitHub repository over two months ago. This image is…
-  - 资金 100.00 / 广度 84.38 / 确认 9.36 / 脆弱性 24.00
+- Alleged Grok Bot Token | BSC | 已确认 | 强度 84.90 | 质量 86.18
+  - 主题摘要：According to Q's post, Q speculates that 'Grokkybara' is xAI's new GitHub agent, based on an image asset found in the spacexai-org repository. Q suggests this explains why commits…
+  - 资金 100.00 / 广度 98.75 / 确认 38.88 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged SpaceX Companion Token | Solana | 降温中 | 强度 84.53 | 质量 74.91
+  - 主题摘要：According to jasonlar's post, a token named Spacebot (BOT) is allegedly the new companion to SpaceX. This claim is unverified. This information is unverified. Please exercise caut…
+  - 资金 100.00 / 广度 82.82 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Meme Image Publication | Solana | 加速中 | 强度 83.31 | 质量 81.51
+- OGGLO | Solana | 降温中 | 强度 80.93 | 质量 72.09
+  - 主题摘要：Multiple tokens named 「OGGLO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.44 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Meme Image Publication | Solana | 加速中 | 强度 80.42 | 质量 81.57
   - 主题摘要：According to *PARODY* Ephraim "Shabbat Monster" Schindler's post, the individual shared a Meme image accompanied by a link to a horse racing profile, stating they were "finding th…
-  - 资金 100.00 / 广度 94.26 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.48 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged BILL Token Launch | Solana | 加速中 | 强度 80.27 | 质量 77.34
+- KingChill Discusses Viral TikTok Dog Meme | Solana | 加速中 | 强度 79.07 | 质量 73.79
+  - 主题摘要：According to KingChill's post, a specific dog video on TikTok has garnered 5 million views in less than a day, with comments actively creating memes. KingChill compares this viral…
+  - 资金 100.00 / 广度 81.90 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 78.33 | 质量 69.61
+  - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This phrase matches the name of the token "Xchanget…
+  - 资金 100.00 / 广度 75.11 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged BILL Token Launch | Solana | 加速中 | 强度 77.43 | 质量 77.45
   - 主题摘要：According to BSW/Crow Bloodstock's post, the entity is associated with the alleged launch of the Onebigbeautfulbill token, referencing a racehorse named Onebigbeautfulbill. This i…
-  - 资金 100.00 / 广度 80.36 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.73 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- intelligent dog comments on OpenAI Doug meme | Solana | 降温中 | 强度 79.77 | 质量 66.79
-  - 主题摘要：According to intelligent dog's post, the user questions the identity of an image associated with the new OpenAI model, specifically asking what the image is that is not a potato,…
-  - 资金 100.00 / 广度 80.50 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ Quote Binance Stocks | BSC | 加速中 | 强度 79.75 | 质量 69.30
-  - 主题摘要：According to CZ's post, he shared a quote promoting Binance's new stock trading features with the phrase "Exchange the world!". This text matches the name of the token "Xchangethe…
-  - 资金 100.00 / 广度 75.19 / 确认 24.48 / 脆弱性 14.00
+- Alleged MrBeast 2028 Presidential Candidacy | Solana | 加速中 | 强度 77.38 | 质量 71.06
+  - 主题摘要：According to john's post, Polymarket allegedly added MrBeast as a presidential candidate for the 2028 election with a 13% probability. This information is unverified. Please exerc…
+  - 资金 100.00 / 广度 82.80 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CBS News: Dog Cured by Duck | Solana | 降温中 | 强度 78.69 | 质量 66.58
-  - 主题摘要：According to CBS News's post, a golden retriever suffering from seizures regained its spirit after its owners brought home a duck named Louie as a companion. This heartwarming sto…
-  - 资金 100.00 / 广度 73.22 / 确认 9.36 / 脆弱性 14.00
+- Alleged Diggon Meme Token | Solana | 降温中 | 强度 76.80 | 质量 75.54
+  - 主题摘要：According to Milero's post, the user claims that a cat named Diggon has never been tokenized and could be the next viral meme coin. Milero states that posts featuring Diggon are v…
+  - 资金 85.50 / 广度 84.94 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alekzandrini's 1k to 100k Coin Inquiry | Solana | 降温中 | 强度 77.48 | 质量 63.24
-  - 主题摘要：According to Alekzandrini's post, the user inquired about cryptocurrency tokens capable of generating a 100x return on a $1,000 investment. The post reflects a search for high-gro…
-  - 资金 100.00 / 广度 82.61 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 暴富羊 | BSC | 加速中 | 强度 76.35 | 质量 72.19
+- 暴富羊 | BSC | 加速中 | 强度 76.42 | 质量 72.06
   - 主题摘要：Multiple tokens named 「暴富羊」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.45 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.47 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asian Games | BSC | 降温中 | 强度 75.79 | 质量 63.45
+- Asian Games | BSC | 降温中 | 强度 74.18 | 质量 60.94
   - 主题摘要：Multiple tokens named 「Asian games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.56 / 确认 15.12 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.36 / 确认 15.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 交流1048106404 | BSC | 加速中 | 强度 74.35 | 质量 59.44
-  - 主题摘要：Multiple tokens named 「火星战车」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.12 / 确认 23.76 / 脆弱性 14.00
+- Alleged DONATE BOT Meme | BSC | 加速中 | 强度 74.06 | 质量 66.99
+  - 主题摘要：According to john's post, a Meme image circulating online labels the 'DONATE BOT' token as a 'DONATE BOT'. john questions the logic of this classification, noting that the project…
+  - 资金 100.00 / 广度 81.32 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.55，其中已确认叙事 2 个。
-- 交流1048106404 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- CBS News Golden Retriever Story 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.04，其中已确认叙事 2 个。
+- KingChill Discusses Viral TikTok Dog Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- OpenAI Official coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Grok Bot Token | 质量 85.97 | 可交易性 100.00 | 风险 低
+- Alleged Grok Bot Token | 质量 86.18 | 可交易性 100.00 | 风险 低
 - 币安城 | 质量 82.46 | 可交易性 100.00 | 风险 低
-- Alleged Meme Image Publication | 质量 81.51 | 可交易性 100.00 | 风险 低
-- Alleged BILL Token Launch | 质量 77.34 | 可交易性 100.00 | 风险 低
-- CBS News Golden Retriever Story | 质量 76.91 | 可交易性 100.00 | 风险 低
-- Alleged Bot Meme Image | 质量 74.76 | 可交易性 97.96 | 风险 低
-- 暴富羊 | 质量 72.19 | 可交易性 100.00 | 风险 低
-- OpenAI Official coin | 质量 72.13 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Quote Binance Stocks | 质量 69.30 | 可交易性 82.24 | 风险 低
-- intelligent dog comments on OpenAI Doug meme | 质量 66.79 | 可交易性 78.43 | 风险 低
+- Alleged Meme Image Publication | 质量 81.57 | 可交易性 100.00 | 风险 低
+- Alleged BILL Token Launch | 质量 77.45 | 可交易性 100.00 | 风险 低
+- Alleged Diggon Meme Token | 质量 75.54 | 可交易性 100.00 | 风险 低
+- Alleged SpaceX Companion Token | 质量 74.91 | 可交易性 100.00 | 风险 低
+- KingChill Discusses Viral TikTok Dog Meme | 质量 73.79 | 可交易性 86.12 | 风险 低
+- OpenAI Official coin | 质量 73.75 | 可交易性 100.00 | 风险 低
+- OGGLO | 质量 72.09 | 可交易性 100.00 | 风险 低
+- 暴富羊 | 质量 72.06 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Bot Meme Image | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Diggon Meme Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -106,7 +106,7 @@
 - BOT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HORACE | Solana | 看多 | 新鲜度 95.34 | 暂无直接叙事映射
 - BLACKSHEEP | Solana | 看多 | 新鲜度 95.32 | 暂无直接叙事映射
-- TUT | BSC | 看多 | 新鲜度 82.97 | 暂无直接叙事映射
+- TUT | BSC | 看多 | 新鲜度 93.56 | 暂无直接叙事映射
 - Raccoonzilla | BSC | 看多 | 新鲜度 82.46 | 暂无直接叙事映射
 
 ## 官方催化
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Grok Bot Token（BSC，分数 86.02）
-2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：CBS News Golden Retriever Story 当前为“新出现”
+1. 当前最强叙事：币安城（BSC，分数 86.33）
+2. 共振最强代币：TUT（BSC，共振 100.0）
+3. 记忆层变化：Alleged SpaceX Companion Token 当前为“新出现”
 4. 最新官方催化：Extension to the USD1 Airdrop Campaign (2026-08-07)
 #Binance #NarrativeOS #OpenClaw
