@@ -1,100 +1,99 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-10T19:29:11.635387+00:00
+- 生成时间：2026-08-10T20:07:17.150078+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 BULLWHALE，所在链为 Solana，叙事强度 87.07。
-- 当前平均叙事强度为 84.62，其中已确认叙事 0 个。
+- 当前最强叙事是 Alleged Zeus Meme Coin Proposal，所在链为 Solana，叙事强度 89.76。
+- 当前平均叙事强度为 86.05，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 BULLWHALE 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Adam Back's Reply，伪叙事风险 51.48。
+- 记忆层显示 Alleged Zeus Token Direction 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 BULLWHALE，伪叙事风险 42.14。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-11)。
 
 ## 叙事雷达
 
-- BULLWHALE | Solana | 降温中 | 强度 87.07 | 质量 79.74
-  - 主题摘要：Multiple tokens named 「BULLWHALE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 7.92 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FROG.OS | Solana | 降温中 | 强度 85.80 | 质量 76.12
-  - 主题摘要：Multiple tokens named 「FROGOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.87 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- RAKO | Solana | 降温中 | 强度 85.18 | 质量 73.45
-  - 主题摘要：Multiple tokens named 「RAKO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.87 / 确认 12.24 / 脆弱性 3.74
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ4 | Solana | 降温中 | 强度 84.47 | 质量 72.05
-  - 主题摘要：Multiple tokens named 「CZ4」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.29 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Zeus Meme Coin Proposal | Solana | 降温中 | 强度 84.33 | 质量 75.38
+- Alleged Zeus Meme Coin Proposal | Solana | 加速中 | 强度 89.76 | 质量 81.79
   - 主题摘要：According to mucca's post, the author proposes launching a token in honor of Zeus, a dog whose deteriorating health was announced by its owner. The post references Zeus's previous…
-  - 资金 100.00 / 广度 84.70 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TUZKI | Solana | 降温中 | 强度 84.12 | 质量 76.88
-  - 主题摘要：Multiple tokens named 「TUZKI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.13 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Rabbi Dong Quoted Pepe Charity Meme | Solana | 降温中 | 强度 83.49 | 质量 77.00
+  - 资金 100.00 / 广度 94.68 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Rabbi Dong Quoted Pepe Charity Meme | Solana | 降温中 | 强度 87.81 | 质量 79.41
   - 主题摘要：According to Rabbi Dong's post, Rabbi Dong shared a Meme image regarding Pepe charity, stating that fees are being sent to an official charity recipient. The post includes a quote…
-  - 资金 93.68 / 广度 89.79 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 98.35 / 确认 8.64 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Adam Back's Reply | Solana | 加速中 | 强度 82.51 | 质量 80.42
-  - 主题摘要：Multiple tokens named 「TOAD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.60 / 确认 24.48 / 脆弱性 67.44
+- Alleged Zeus Token Direction | Solana | 降温中 | 强度 87.03 | 质量 78.15
+  - 主题摘要：According to Felix's post, he criticizes the Zeus project, stating that it is heading in the wrong direction and appears to be looking to the right. This commentary reflects a neg…
+  - 资金 100.00 / 广度 94.15 / 确认 8.64 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- BULLWHALE | Solana | 降温中 | 强度 85.94 | 质量 79.74
+  - 主题摘要：Multiple tokens named 「BULLWHALE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 100.00 / 确认 7.92 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- RAKO | Solana | 降温中 | 强度 85.27 | 质量 73.49
+  - 主题摘要：Multiple tokens named 「RAKO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.98 / 确认 12.24 / 脆弱性 3.74
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- jagged seeks donations for pet dog Zeus | Solana | 降温中 | 强度 85.04 | 质量 75.45
+  - 主题摘要：According to jagged's post, jagged is seeking financial donations via a Solana address to cover medical expenses for his dog, Zeus, who is undergoing ultrasounds. jagged stated he…
+  - 资金 100.00 / 广度 85.15 / 确认 8.64 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ4 | Solana | 降温中 | 强度 84.36 | 质量 72.06
+  - 主题摘要：Multiple tokens named 「CZ4」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.32 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- NTFS | Solana | 降温中 | 强度 83.16 | 质量 71.97
+  - 主题摘要：Multiple tokens named 「NTFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.02 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- AdAstra | BSC | 加速中 | 强度 78.80 | 质量 77.89
+  - 主题摘要：According to bruce's post, Elon Musk wrote "AdAstra" to Jensen Huang, which bruce interprets as "To The Moon." This post references a quoted tweet by Jensen Huang regarding DGX-1…
+  - 资金 100.00 / 广度 84.58 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AdAstra | BSC | 加速中 | 强度 78.65 | 质量 77.81
-  - 主题摘要：According to bruce's post, Elon Musk wrote "AdAstra" to Jensen Huang, which bruce interprets as "To The Moon." This post references a quoted tweet by Jensen Huang regarding the DG…
-  - 资金 100.00 / 广度 84.56 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Prometheus Statue | BSC | 加速中 | 强度 76.94 | 质量 68.62
-  - 主题摘要：According to JNC's post, an artist is creating a large statue of Elon Musk, referred to as Prometheus, in Starbase, Texas. This content references the Prometheus token. This infor…
-  - 资金 100.00 / 广度 72.18 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Stock Transfer | BSC | 加速中 | 强度 76.23 | 质量 63.22
-  - 主题摘要：Binance announces the launch of zero-fee share transfers for stock portfolios on its platform, integrating traditional finance features into crypto trading. This move aims to simp…
-  - 资金 100.00 / 广度 70.62 / 确认 23.84 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:BNB Chain S5 Trading Competition | BSC | 加速中 | 强度 75.58 | 质量 74.62
+- Uncertain:BNB Chain S5 Trading Competition | BSC | 加速中 | 强度 77.00 | 质量 74.75
   - 主题摘要：According to 以太坊老张.eth's post, BNB Chain is intensifying its support for the Binance Wallet S5 Trading Competition. Participants can qualify for a share of an additional 50,000 US…
-  - 资金 100.00 / 广度 85.02 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.02 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He: TradFi Meets Crypto | BSC | 加速中 | 强度 73.91 | 质量 70.51
-  - 主题摘要：Binance Co-CEO Yi He reinforces the narrative that the future of financial markets lies in the convergence of traditional finance (TradFi) and cryptocurrency. This aligns with Bin…
-  - 资金 100.00 / 广度 91.70 / 确认 20.16 / 脆弱性 14.00
+- Alleged Prometheus Statue | BSC | 加速中 | 强度 75.62 | 质量 67.27
+  - 主题摘要：According to JNC's post, an artist is creating a large statue of Elon Musk, referred to as Prometheus, in Starbase, Texas. This content references the Prometheus token. This infor…
+  - 资金 100.00 / 广度 72.30 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Huabei Dividend | BSC | 加速中 | 强度 73.60 | 质量 71.19
+- Alleged Huabei Dividend | BSC | 加速中 | 强度 73.59 | 质量 71.21
   - 主题摘要：According to lucky's post, the user claims to be launching a project named 'Huabei' (花呗) that offers dividends for deposits. This information is unverified. Please exercise cautio…
-  - 资金 100.00 / 广度 78.42 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.43 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Bobby | BSC | 降温中 | 强度 72.68 | 质量 58.39
+  - 主题摘要：Multiple tokens named 「Bobby」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.71 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Yi He: TradFi Meets Crypto | BSC | 加速中 | 强度 71.80 | 质量 69.17
+  - 主题摘要：Binance Co-CEO Yi He reinforces the narrative that the future of financial markets lies in the convergence of traditional finance (TradFi) and cryptocurrency. This aligns with Bin…
+  - 资金 100.00 / 广度 91.70 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.62，其中已确认叙事 0 个。
-- Binance Stock Transfer 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- BULLWHALE 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 86.05，其中已确认叙事 0 个。
+- Rabbi Dong Quoted Pepe Charity Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Adam Back's Reply | 质量 80.42 | 可交易性 99.53 | 风险 低
+- Alleged Zeus Meme Coin Proposal | 质量 81.79 | 可交易性 100.00 | 风险 低
 - BULLWHALE | 质量 79.74 | 可交易性 100.00 | 风险 低
-- AdAstra | 质量 77.81 | 可交易性 94.74 | 风险 低
-- Rabbi Dong Quoted Pepe Charity Meme | 质量 77.00 | 可交易性 100.00 | 风险 低
-- TUZKI | 质量 76.88 | 可交易性 100.00 | 风险 低
-- FROG.OS | 质量 76.12 | 可交易性 100.00 | 风险 低
-- Alleged Zeus Meme Coin Proposal | 质量 75.38 | 可交易性 99.69 | 风险 低
-- Uncertain:BNB Chain S5 Trading Competition | 质量 74.62 | 可交易性 85.76 | 风险 低
-- RAKO | 质量 73.45 | 可交易性 100.00 | 风险 低
-- CZ4 | 质量 72.05 | 可交易性 100.00 | 风险 低
+- Rabbi Dong Quoted Pepe Charity Meme | 质量 79.41 | 可交易性 100.00 | 风险 低
+- Alleged Zeus Token Direction | 质量 78.15 | 可交易性 100.00 | 风险 低
+- AdAstra | 质量 77.89 | 可交易性 94.98 | 风险 低
+- jagged seeks donations for pet dog Zeus | 质量 75.45 | 可交易性 100.00 | 风险 低
+- Uncertain:BNB Chain S5 Trading Competition | 质量 74.75 | 可交易性 86.19 | 风险 低
+- RAKO | 质量 73.49 | 可交易性 100.00 | 风险 低
+- CZ4 | 质量 72.06 | 可交易性 100.00 | 风险 低
+- NTFS | 质量 71.97 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Adam Back's Reply | 风险 51.48 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
+- BULLWHALE | 风险 42.14 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +132,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：BULLWHALE（Solana，分数 87.07）
+1. 当前最强叙事：Alleged Zeus Meme Coin Proposal（Solana，分数 89.76）
 2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：BULLWHALE 当前为“新出现”
+3. 记忆层变化：Alleged Zeus Token Direction 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-11)
 #Binance #NarrativeOS #OpenClaw
