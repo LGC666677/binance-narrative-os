@@ -1,101 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-10T23:47:29.906067+00:00
+- 生成时间：2026-08-11T00:39:45.438168+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 NVIDIA MEME Token，所在链为 Solana，叙事强度 87.67。
-- 当前平均叙事强度为 82.96，其中已确认叙事 0 个。
+- 当前最强叙事是 Alleged Launch of SeAlon Token，所在链为 Solana，叙事强度 88.02。
+- 当前平均叙事强度为 83.43，其中已确认叙事 2 个。
 - 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Launch of SeAlon Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Flap 🦋: $SPCXB Dividends to $MARSCOIN，伪叙事风险 42.03。
+- 记忆层显示 Alleged OpenLiving Meme 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-11)。
 
 ## 叙事雷达
 
-- NVIDIA MEME Token | Solana | 降温中 | 强度 87.67 | 质量 79.14
-  - 主题摘要：Multiple tokens named 「NVIDIA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 96.95 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of SeAlon Token | Solana | 加速中 | 强度 85.76 | 质量 76.04
+- Alleged Launch of SeAlon Token | Solana | 已确认 | 强度 88.02 | 质量 80.74
   - 主题摘要：According to Schoen's post, a user named 0xrusty_ allegedly launched the SeAlon token, mentioning plans for X-comms, DEX payments, and official branding. This information is unver…
-  - 资金 100.00 / 广度 83.67 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nebius | Solana | 降温中 | 强度 84.78 | 质量 72.36
-  - 主题摘要：Nebius, an AI infrastructure company backed by NVIDIA and valued at $10B, is launching its token $NBIS on Solana. The project is a major battleground in the AI trade, highlighted…
-  - 资金 100.00 / 广度 74.33 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged SeAlon Meme | Solana | 降温中 | 强度 84.43 | 质量 75.72
-  - 主题摘要：According to rusty's post, the author claims to have created a 'SeAlⁱon' Meme image, combining the names of crypto personalities @seyong and @a1lon9. This alleged release is descr…
-  - 资金 100.00 / 广度 82.57 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Googly Eyes Cult Meme | Solana | 加速中 | 强度 81.16 | 质量 70.97
-  - 主题摘要：According to Frank's post, the Fomo3d logo features googly eyes, which he compares to the 'clout glasses' trend. Frank identifies this as the 'Googly Eyes Cult' and associates it…
-  - 资金 100.00 / 广度 78.14 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged FOMO-themed Meme image | Solana | 加速中 | 强度 80.77 | 质量 70.49
-  - 主题摘要：According to d's post, a Meme image featuring a hamster with FOMO logos as eyes and a vanity contract address ending in 'fomo' is shared. This content relates to the FOMOSTER toke…
-  - 资金 100.00 / 广度 79.03 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Jeff Sitton Comments on PATE Coin Removal | Solana | 降温中 | 强度 80.28 | 质量 66.84
-  - 主题摘要：According to Jeff Sitton's post, a coin named PATE on the FOMO platform was removed due to excessive scams on TikTok. Jeff Sitton expressed frustration with this decision and advo…
-  - 资金 100.00 / 广度 80.62 / 确认 16.56 / 脆弱性 16.36
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AdAstra | BSC | 已确认 | 强度 78.87 | 质量 76.29
-  - 主题摘要：According to bruce's post, Elon Musk wrote "AdAstra" to Jensen Huang, which bruce interprets as "To The Moon." This post references a quoted tweet by Jensen Huang regarding DGX-1…
-  - 资金 100.00 / 广度 82.81 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.55 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Oscar the Walrus Meme | Solana | 加速中 | 强度 78.82 | 质量 78.69
-  - 主题摘要：According to Rusty's post, a video of a walrus named Oscar whistling at Zhengzhou Haichang Ocean Park has gained significant attention, with 1.4 million views on X. The post highl…
-  - 资金 100.00 / 广度 84.86 / 确认 23.76 / 脆弱性 24.00
+- NVIDIA MEME Token | Solana | 降温中 | 强度 87.69 | 质量 79.18
+  - 主题摘要：Multiple tokens named 「NVIDIA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 97.07 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged OpenLiving Meme | Solana | 加速中 | 强度 85.85 | 质量 79.10
+  - 主题摘要：According to Trenchcity's post, Sam Altman is allegedly showing 'OpenLiving,' described as a data center for living, which is generating significant viral engagement on X. The pos…
+  - 资金 100.00 / 广度 85.72 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:BNB Chain S5 Trading Competition | BSC | 加速中 | 强度 76.00 | 质量 74.79
+- Nebius | Solana | 降温中 | 强度 84.97 | 质量 72.57
+  - 主题摘要：Nebius, an AI infrastructure company backed by NVIDIA and valued at $10B, is launching its token $NBIS on Solana. The project is a major battleground in the AI trade, highlighted…
+  - 资金 100.00 / 广度 75.02 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged SeAlon Meme | Solana | 已确认 | 强度 82.15 | 质量 80.73
+  - 主题摘要：According to rusty's post, the author claims to have created a 'SeAlⁱon' Meme image, combining the names of crypto personalities @seyong and @a1lon9. This alleged release is descr…
+  - 资金 100.00 / 广度 88.50 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Oscar the Walrus Meme | Solana | 加速中 | 强度 81.17 | 质量 78.72
+  - 主题摘要：According to Rusty's post, a video of a walrus named Oscar whistling at Zhengzhou Haichang Ocean Park has gained significant attention, with 1.4 million views on X. The post highl…
+  - 资金 100.00 / 广度 84.96 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Jensen Huang AI Article | BSC | 降温中 | 强度 80.82 | 质量 69.93
+  - 主题摘要：According to Jensen Huang's post, the author shared an article discussing artificial intelligence topics. The content focuses on AI developments, referencing the NVIDIA AI Factory…
+  - 资金 100.00 / 广度 82.16 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Jeff Sitton Comments on PATE Coin Removal | Solana | 降温中 | 强度 80.37 | 质量 67.00
+  - 主题摘要：According to Jeff Sitton's post, a coin named PATE on the FOMO platform was removed due to excessive scams on TikTok. Jeff Sitton expressed frustration with this decision and advo…
+  - 资金 100.00 / 广度 80.63 / 确认 16.56 / 脆弱性 16.36
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- AdAstra | BSC | 已确认 | 强度 79.45 | 质量 76.42
+  - 主题摘要：According to bruce's post, Elon Musk wrote "AdAstra" to Jensen Huang, which bruce interprets as "To The Moon." This post references a quoted tweet by Jensen Huang regarding DGX-1…
+  - 资金 100.00 / 广度 82.52 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged BABYTOAD Token Relaunch | Solana | 降温中 | 强度 77.22 | 质量 65.97
+  - 主题摘要：According to trencher's post, the developer of $BABYTOAD allegedly decided to relaunch the token due to concerns over whale concentration. The post claims 10% of the relaunch supp…
+  - 资金 100.00 / 广度 56.22 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:BNB Chain S5 Trading Competition | BSC | 加速中 | 强度 75.94 | 质量 74.75
   - 主题摘要：According to 以太坊老张.eth's post, BNB Chain is intensifying its support for the Binance Wallet S5 Trading Competition. Participants can qualify for a share of an additional 50,000 US…
   - 资金 100.00 / 广度 85.05 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Huabei Dividend | BSC | 加速中 | 强度 73.71 | 质量 70.98
+- Alleged Prometheus Statue | BSC | 加速中 | 强度 74.06 | 质量 64.68
+  - 主题摘要：According to JNC's post, an artist is creating a large statue of Elon Musk, referred to as Prometheus, in Starbase, Texas. This content references the Prometheus token. This infor…
+  - 资金 100.00 / 广度 72.31 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Huabei Dividend | BSC | 加速中 | 强度 73.69 | 质量 70.80
   - 主题摘要：According to lucky's post, the user claims to be launching a project named 'Huabei' (花呗) that offers dividends for deposits. This information is unverified. Please exercise cautio…
-  - 资金 100.00 / 广度 78.45 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.47 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He: TradFi Meets Crypto | BSC | 加速中 | 强度 73.41 | 质量 69.62
+- Yi He: TradFi Meets Crypto | BSC | 加速中 | 强度 72.49 | 质量 70.16
   - 主题摘要：Binance Co-CEO Yi He reinforces the narrative that the future of financial markets lies in the convergence of traditional finance (TradFi) and cryptocurrency. This aligns with Bin…
-  - 资金 100.00 / 广度 91.61 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.55 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Flap 🦋: $SPCXB Dividends to $MARSCOIN | BSC | 点火期 | 强度 72.11 | 质量 62.10
-  - 主题摘要：According to Flap 🦋's post, over $1,567,777 worth of $SPCXB has been distributed to $MARSCOIN holders as dividends. This announcement highlights the distribution mechanism associa…
-  - 资金 100.00 / 广度 76.50 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Principal Jason Shares Meme Image | BSC | 点火期 | 强度 71.87 | 质量 61.68
-  - 主题摘要：According to 校长 Jason| Flap🦋's post, the author expresses that sending memecoins to Mars with friends represents peak happiness. The post is accompanied by a Meme image illustrati…
-  - 资金 100.00 / 广度 75.11 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.96，其中已确认叙事 0 个。
-- Alleged Launch of SeAlon Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.43，其中已确认叙事 2 个。
+- Alleged OpenLiving Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - NVIDIA MEME Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- NVIDIA MEME Token | 质量 79.14 | 可交易性 100.00 | 风险 低
-- Alleged Oscar the Walrus Meme | 质量 78.69 | 可交易性 100.00 | 风险 低
-- AdAstra | 质量 76.29 | 可交易性 90.91 | 风险 低
-- Alleged Launch of SeAlon Token | 质量 76.04 | 可交易性 95.02 | 风险 低
-- Alleged SeAlon Meme | 质量 75.72 | 可交易性 97.68 | 风险 低
-- Uncertain:BNB Chain S5 Trading Competition | 质量 74.79 | 可交易性 86.30 | 风险 低
-- Nebius | 质量 72.36 | 可交易性 100.00 | 风险 低
-- Alleged Huabei Dividend | 质量 70.98 | 可交易性 78.76 | 风险 低
-- Alleged Googly Eyes Cult Meme | 质量 70.97 | 可交易性 80.48 | 风险 低
-- Alleged FOMO-themed Meme image | 质量 70.49 | 可交易性 77.97 | 风险 低
+- Alleged Launch of SeAlon Token | 质量 80.74 | 可交易性 100.00 | 风险 低
+- Alleged SeAlon Meme | 质量 80.73 | 可交易性 100.00 | 风险 低
+- NVIDIA MEME Token | 质量 79.18 | 可交易性 100.00 | 风险 低
+- Alleged OpenLiving Meme | 质量 79.10 | 可交易性 100.00 | 风险 低
+- Alleged Oscar the Walrus Meme | 质量 78.72 | 可交易性 100.00 | 风险 低
+- AdAstra | 质量 76.42 | 可交易性 91.61 | 风险 低
+- Uncertain:BNB Chain S5 Trading Competition | 质量 74.75 | 可交易性 86.15 | 风险 低
+- Nebius | 质量 72.57 | 可交易性 100.00 | 风险 低
+- Alleged Huabei Dividend | 质量 70.80 | 可交易性 78.94 | 风险 低
+- Yi He: TradFi Meets Crypto | 质量 70.16 | 可交易性 98.20 | 风险 低
 
 ## 伪叙事风险
 
-- Flap 🦋: $SPCXB Dividends to $MARSCOIN | 风险 42.03 | 原因：流动性偏薄
-- Principal Jason Shares Meme Image | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：NVIDIA MEME Token（Solana，分数 87.67）
+1. 当前最强叙事：Alleged Launch of SeAlon Token（Solana，分数 88.02）
 2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Alleged Launch of SeAlon Token 当前为“新出现”
+3. 记忆层变化：Alleged OpenLiving Meme 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-11)
 #Binance #NarrativeOS #OpenClaw
