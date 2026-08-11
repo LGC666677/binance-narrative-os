@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-11T05:19:08.813943+00:00
+- 生成时间：2026-08-11T06:09:58.091100+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 TikTok Special Meme，所在链为 Solana，叙事强度 86.13。
-- 当前平均叙事强度为 82.53，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 MCX 当前处于“新出现”状态。
+- 当前最强叙事是 UOTF，所在链为 Solana，叙事强度 87.52。
+- 当前平均叙事强度为 83.33，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 记忆层显示 Oringold_ Mentions Wanwu Shanglian 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-11)。
 
 ## 叙事雷达
 
-- TikTok Special Meme | Solana | 降温中 | 强度 86.13 | 质量 76.49
-  - 主题摘要：According to ABC7 News's post, a Bay Area barber is experiencing high demand for haircuts, referred to as the "TikTok Special," to boost student confidence for the new school year…
-  - 资金 100.00 / 广度 85.46 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MCX | Solana | 降温中 | 强度 84.63 | 质量 72.48
-  - 主题摘要：Multiple tokens named 「MCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.92 / 确认 5.04 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged 'Just a regular dude' Meme | Solana | 加速中 | 强度 83.89 | 质量 81.23
-  - 主题摘要：According to Cat's post, the "Just a regular dude" Meme image has gone viral. Multiple tokens with this name have been created on platforms like rapidlaunch.io and Discord. This i…
-  - 资金 100.00 / 广度 92.82 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- UOTF | Solana | 降温中 | 强度 82.55 | 质量 72.25
+- UOTF | Solana | 降温中 | 强度 87.52 | 质量 79.09
   - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.97 / 确认 9.36 / 脆弱性 0.11
+  - 资金 100.00 / 广度 96.76 / 确认 9.36 / 脆弱性 10.11
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged SeAlon Meme | Solana | 已确认 | 强度 81.61 | 质量 81.23
-  - 主题摘要：Multiple tokens named 「SeAlⁱon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.17 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Jeff Sitton Comments on PATE Coin Removal | Solana | 降温中 | 强度 80.79 | 质量 67.72
+- Alleged 'Just a regular dude' Meme | Solana | 加速中 | 强度 86.85 | 质量 81.29
+  - 主题摘要：According to Cat's post, the "Just a regular dude" Meme image has gone viral. Multiple tokens with this name have been created on platforms like rapidlaunch.io and Discord. This i…
+  - 资金 100.00 / 广度 93.02 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- TikTok Special Meme | Solana | 降温中 | 强度 86.11 | 质量 76.46
+  - 主题摘要：According to ABC7 News's post, a Bay Area barber is experiencing high demand for haircuts, referred to as the "TikTok Special," to boost student confidence for the new school year…
+  - 资金 100.00 / 广度 85.35 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- MCX | Solana | 降温中 | 强度 85.57 | 质量 73.65
+  - 主题摘要：Multiple tokens named 「MCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.63 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Jeff Sitton Comments on PATE Coin Removal | Solana | 降温中 | 强度 80.85 | 质量 67.82
   - 主题摘要：According to Jeff Sitton's post, a coin named PATE on the FOMO platform was removed due to excessive scams on TikTok. Jeff Sitton expressed frustration with this decision and advo…
-  - 资金 100.00 / 广度 80.68 / 确认 16.56 / 脆弱性 16.36
+  - 资金 100.00 / 广度 80.69 / 确认 16.56 / 脆弱性 16.36
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged OpenLiving Meme | Solana | 加速中 | 强度 80.49 | 质量 79.06
-  - 主题摘要：According to Trenchcity's post, Sam Altman is allegedly showing 'OpenLiving,' described as a data center for living, which is generating significant viral engagement on X. The pos…
-  - 资金 100.00 / 广度 85.57 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of SeAlon Token | Solana | 已确认 | 强度 80.17 | 质量 81.10
-  - 主题摘要：Multiple tokens named 「SeAlon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.73 / 确认 28.08 / 脆弱性 24.00
+- Alleged SeAlon Meme | Solana | 已确认 | 强度 80.27 | 质量 81.23
+  - 主题摘要：Multiple tokens named 「SeAlⁱon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.19 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- AdAstra | BSC | 加速中 | 强度 78.16 | 质量 72.58
-  - 主题摘要：According to bruce's post, Elon Musk wrote "AdAstra" to Jensen Huang, which bruce interprets as "To The Moon." This post references a quoted tweet by Jensen Huang regarding DGX-1…
-  - 资金 100.00 / 广度 82.00 / 确认 24.48 / 脆弱性 14.00
+- Alleged Launch of SeAlon Token | Solana | 已确认 | 强度 80.04 | 质量 81.06
+  - 主题摘要：Multiple tokens named 「SeAlon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.61 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged OpenLiving Meme | Solana | 加速中 | 强度 79.43 | 质量 79.07
+  - 主题摘要：According to Trenchcity's post, Sam Altman is allegedly showing 'OpenLiving,' described as a data center for living, which is generating significant viral engagement on X. The pos…
+  - 资金 100.00 / 广度 85.60 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:BNB Chain S5 Trading Competition | BSC | 加速中 | 强度 77.21 | 质量 74.75
+- Uncertain:BNB Chain S5 Trading Competition | BSC | 加速中 | 强度 77.31 | 质量 74.80
   - 主题摘要：According to 以太坊老张.eth's post, BNB Chain is intensifying its support for the Binance Wallet S5 Trading Competition. Participants can qualify for a share of an additional 50,000 US…
-  - 资金 100.00 / 广度 84.95 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.96 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He: TradFi Meets Crypto | BSC | 加速中 | 强度 73.53 | 质量 71.72
+- AdAstra | BSC | 加速中 | 强度 76.34 | 质量 72.41
+  - 主题摘要：According to bruce's post, Elon Musk wrote "AdAstra" to Jensen Huang, which bruce interprets as "To The Moon." This post references a quoted tweet by Jensen Huang regarding DGX-1…
+  - 资金 100.00 / 广度 82.02 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Oringold_ Mentions Wanwu Shanglian | BSC | 加速中 | 强度 73.96 | 质量 68.80
+  - 主题摘要：According to 我肯定会发财！'s post, the author identified a post where 'ab' received a tip, linking the mention of 'everything on-chain' to the current B.Stocks concept. The post analyze…
+  - 资金 100.00 / 广度 74.90 / 确认 18.72 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He: TradFi Meets Crypto | BSC | 加速中 | 强度 71.84 | 质量 69.36
   - 主题摘要：Binance Co-CEO Yi He reinforces the narrative that the future of financial markets lies in the convergence of traditional finance (TradFi) and cryptocurrency. This aligns with Bin…
-  - 资金 100.00 / 广度 91.52 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 91.46 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Huabei Dividend | BSC | 加速中 | 强度 72.31 | 质量 69.48
+- Alleged Huabei Dividend | BSC | 加速中 | 强度 71.51 | 质量 68.44
   - 主题摘要：According to lucky's post, the user claims to be launching a project named 'Huabei' (花呗) that offers dividends for deposits. This information is unverified. Please exercise cautio…
   - 资金 100.00 / 广度 78.54 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Release of 'Sliding Ancestor' Meme Image | BSC | 降温中 | 强度 70.29 | 质量 58.25
-  - 主题摘要：According to chen du's post, the author created a Meme image titled 'Sliding Ancestor' (滑动变祖器) out of boredom. Token information indicates this is a meme project unrelated to ance…
-  - 资金 100.00 / 广度 64.17 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Yushu Technology Meme Token | BSC | 加速中 | 强度 70.12 | 质量 59.43
-  - 主题摘要：According to 0xTT's post, the author claims that Unitree Technology will list on the A-share market in three days and proposes launching a BNB-based token with dividends. The post…
-  - 资金 100.00 / 广度 72.73 / 确认 19.44 / 脆弱性 14.00
+- Uncertain:kele Speculates Binance May Launch Stock Analysis Agent | BSC | 加速中 | 强度 69.69 | 质量 57.98
+  - 主题摘要：According to kele's post, kele speculates that Binance may launch a token named 'Stock Analysis Agent' (SAA), citing the platform's previous naming of 'Binance AI Pro' as preceden…
+  - 资金 100.00 / 广度 71.14 / 确认 23.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.53，其中已确认叙事 2 个。
-- Alleged OpenLiving Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- TikTok Special Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.33，其中已确认叙事 2 个。
+- Oringold_ Mentions Wanwu Shanglian 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- UOTF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged 'Just a regular dude' Meme | 质量 81.23 | 可交易性 100.00 | 风险 低
+- Alleged 'Just a regular dude' Meme | 质量 81.29 | 可交易性 100.00 | 风险 低
 - Alleged SeAlon Meme | 质量 81.23 | 可交易性 100.00 | 风险 低
-- Alleged Launch of SeAlon Token | 质量 81.10 | 可交易性 100.00 | 风险 低
-- Alleged OpenLiving Meme | 质量 79.06 | 可交易性 100.00 | 风险 低
-- TikTok Special Meme | 质量 76.49 | 可交易性 100.00 | 风险 低
-- Uncertain:BNB Chain S5 Trading Competition | 质量 74.75 | 可交易性 86.27 | 风险 低
-- AdAstra | 质量 72.58 | 可交易性 81.99 | 风险 低
-- MCX | 质量 72.48 | 可交易性 100.00 | 风险 低
-- UOTF | 质量 72.25 | 可交易性 100.00 | 风险 低
-- Yi He: TradFi Meets Crypto | 质量 71.72 | 可交易性 98.12 | 风险 低
+- Alleged Launch of SeAlon Token | 质量 81.06 | 可交易性 100.00 | 风险 低
+- UOTF | 质量 79.09 | 可交易性 100.00 | 风险 低
+- Alleged OpenLiving Meme | 质量 79.07 | 可交易性 100.00 | 风险 低
+- TikTok Special Meme | 质量 76.46 | 可交易性 100.00 | 风险 低
+- Uncertain:BNB Chain S5 Trading Competition | 质量 74.80 | 可交易性 86.42 | 风险 低
+- MCX | 质量 73.65 | 可交易性 100.00 | 风险 低
+- AdAstra | 质量 72.41 | 可交易性 81.41 | 风险 低
+- Yi He: TradFi Meets Crypto | 质量 69.36 | 可交易性 97.79 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：TikTok Special Meme（Solana，分数 86.13）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：MCX 当前为“新出现”
+1. 当前最强叙事：UOTF（Solana，分数 87.52）
+2. 共振最强代币：STONK（Solana，共振 100.0）
+3. 记忆层变化：Oringold_ Mentions Wanwu Shanglian 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-11)
 #Binance #NarrativeOS #OpenClaw
