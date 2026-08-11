@@ -1,113 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-11T14:03:21.450914+00:00
+- 生成时间：2026-08-11T15:13:24.678741+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 MCX，所在链为 Solana，叙事强度 90.52。
-- 当前平均叙事强度为 85.89，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 XST，来自 Solana，共振分数 100.0。
-- 记忆层显示 Keith Mahoney Discloses FOMO Foundation Address 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Keith Mahoney Discloses FOMO Foundation Address，伪叙事风险 42.5。
+- 当前最强叙事是 NTDA，所在链为 Solana，叙事强度 87.52。
+- 当前平均叙事强度为 82.22，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged MemeMind AI Project 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined DOSUSDT Perpetual Contract (2026-08-11)。
 
 ## 叙事雷达
 
-- MCX | Solana | 降温中 | 强度 90.52 | 质量 80.85
-  - 主题摘要：Multiple tokens named 「MCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Sami AI Agent Survival Experiment | Solana | 加速中 | 强度 88.69 | 质量 82.45
-  - 主题摘要：According to Nate's post, the University of Tokyo's AI agent 'Sami' survived a budget experiment by earning income. Nate claims to have found a token named 'Sami' and intends to d…
-  - 资金 100.00 / 广度 96.89 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- UOTF | Solana | 降温中 | 强度 88.43 | 质量 78.48
-  - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.73 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USWR | Solana | 降温中 | 强度 85.08 | 质量 72.96
-  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.33 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NTDA | Solana | 降温中 | 强度 84.94 | 质量 74.04
+- NTDA | Solana | 降温中 | 强度 87.52 | 质量 75.95
   - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.28 / 确认 12.96 / 脆弱性 10.00
+  - 资金 100.00 / 广度 81.03 / 确认 16.56 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- USWR | Solana | 降温中 | 强度 85.09 | 质量 72.96
+  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.35 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Donnie on Micro Cap Endorsement | Solana | 降温中 | 强度 84.86 | 质量 75.15
   - 主题摘要：According to Donnie's post, he highlights a contradiction where an individual claims not to endorse micro-cap tokens receiving supply from them, yet the context implies such endor…
   - 资金 100.00 / 广度 83.63 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Keith Mahoney Discloses FOMO Foundation Address | Solana | 已确认 | 强度 83.97 | 质量 80.71
-  - 主题摘要：According to Keith Mahoney's post, he identified the FOMO Foundation wallet address via the affiliated account @RiskOnPod. The post outlines a tradition where users contributing 1…
-  - 资金 81.68 / 广度 88.43 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Kung Fu Capybara | Solana | 加速中 | 强度 80.67 | 质量 76.79
+- Kung Fu Capybara | Solana | 加速中 | 强度 83.96 | 质量 77.73
   - 主题摘要：Multiple tokens named 「KUNGFU」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.03 / 确认 24.48 / 脆弱性 10.00
+  - 资金 100.00 / 广度 81.14 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 币安金钻 | BSC | 降温中 | 强度 77.07 | 质量 70.91
-  - 主题摘要：币安金钻 (Binance Gold Diamond) is a premium membership token offering exclusive access to exclusive features and benefits. It aims to enhance user engagement through exclusive conten…
-  - 资金 100.00 / 广度 64.23 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Soon | BSC | 加速中 | 强度 76.26 | 质量 69.46
-  - 主题摘要：Binance官方账号发布简短的'Soon'推文，通常暗示重大公告或新产品上线，引发社区强烈FOMO和猜测。
-  - 资金 100.00 / 广度 68.24 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance bStocks Brainstorm Challenge | BSC | 加速中 | 强度 75.18 | 质量 75.47
-  - 主题摘要：币安华语社区发起bStocks主题创意造句活动，邀请用户结合图片关键词发挥想象力，以互动抽奖形式激发社区对Binance Stocks产品的趣味讨论。
-  - 资金 98.94 / 广度 93.69 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- COCO Announces Launch of CBurn Ecosystem Project | BSC | 加速中 | 强度 75.10 | 质量 65.47
-  - 主题摘要：According to COCO's post, the account announced the upcoming launch of a new ecosystem project named $cburn, described as the next project built on the COCO ecosystem. The token i…
-  - 资金 100.00 / 广度 73.58 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Delta Comments on bStocks Index BSTX | BSC | 加速中 | 强度 75.10 | 质量 73.60
+- Delta Comments on bStocks Index BSTX | BSC | 已确认 | 强度 81.19 | 质量 81.99
   - 主题摘要：According to 德尔塔's post, the author expressed strong excitement regarding the recent demonstration of the bStocks index, specifically noting the ticker BSTX. The post highlights t…
-  - 资金 100.00 / 广度 90.10 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.08 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged MemeMind AI Project | Solana | 降温中 | 强度 80.05 | 质量 73.27
+  - 主题摘要：According to Babby sokol's post, researchers from Bilibili and Fudan University developed an AI named MemeMind to understand meme culture. Babby sokol shared GitHub and HuggingFac…
+  - 资金 100.00 / 广度 83.92 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Dogettecoin Meme | Solana | 加速中 | 强度 79.31 | 质量 81.11
+  - 主题摘要：According to Hackoor's post, a Meme image related to Dogettecoin is allegedly going viral, with claims of 1.2 million views in three hours. The post references a female version of…
+  - 资金 93.97 / 广度 92.95 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AdAstra | BSC | 加速中 | 强度 74.17 | 质量 71.10
+- Ramin Nasibov Posts 'Scientific Fact' | Solana | 降温中 | 强度 78.74 | 质量 68.86
+  - 主题摘要：According to Ramin Nasibov's post, the author shared the phrase 'scientific fact' as the main content of the tweet. This statement is associated with the SCIENCE CAT token, which…
+  - 资金 96.89 / 广度 84.94 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- USOR | Solana | 降温中 | 强度 78.19 | 质量 66.59
+  - 主题摘要：Multiple tokens named 「USOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 55.10 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 币安金钻 | BSC | 降温中 | 强度 77.55 | 质量 70.81
+  - 主题摘要：币安金钻 (Binance Gold Diamond) is a premium membership token offering exclusive access to exclusive features and benefits. It aims to enhance user engagement through exclusive conten…
+  - 资金 100.00 / 广度 64.44 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- AdAstra | BSC | 加速中 | 强度 74.13 | 质量 71.06
   - 主题摘要：According to bruce's post, Elon Musk wrote "AdAstra" to Jensen Huang, which bruce interprets as "To The Moon." This interpretation is linked to the AdAstra token. This information…
-  - 资金 100.00 / 广度 81.73 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.74 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- COCO Announces Launch of CBurn Ecosystem Project | BSC | 加速中 | 强度 73.61 | 质量 64.87
+  - 主题摘要：According to COCO's post, the account announced the upcoming launch of a new ecosystem project named $cburn, described as the next project built on the COCO ecosystem. The token i…
+  - 资金 100.00 / 广度 74.16 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance bStocks Brainstorm Challenge | BSC | 加速中 | 强度 73.49 | 质量 73.99
+  - 主题摘要：币安华语社区发起bStocks主题创意造句活动，邀请用户结合图片关键词发挥想象力，以互动抽奖形式激发社区对Binance Stocks产品的趣味讨论。
+  - 资金 96.45 / 广度 93.47 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 梗王 | BSC | 加速中 | 强度 70.20 | 质量 69.55
+  - 主题摘要：Multiple tokens named 「梗王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.13 / 确认 22.32 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.89，其中已确认叙事 1 个。
-- Keith Mahoney Discloses FOMO Foundation Address 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- MCX 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.22，其中已确认叙事 0 个。
+- Alleged Dogettecoin Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- NTDA 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Sami AI Agent Survival Experiment | 质量 82.45 | 可交易性 100.00 | 风险 低
-- MCX | 质量 80.85 | 可交易性 100.00 | 风险 低
-- Keith Mahoney Discloses FOMO Foundation Address | 质量 80.71 | 可交易性 100.00 | 风险 低
-- UOTF | 质量 78.48 | 可交易性 100.00 | 风险 低
-- Kung Fu Capybara | 质量 76.79 | 可交易性 100.00 | 风险 低
-- Binance bStocks Brainstorm Challenge | 质量 75.47 | 可交易性 100.00 | 风险 低
+- Delta Comments on bStocks Index BSTX | 质量 81.99 | 可交易性 100.00 | 风险 低
+- Alleged Dogettecoin Meme | 质量 81.11 | 可交易性 100.00 | 风险 低
+- Kung Fu Capybara | 质量 77.73 | 可交易性 100.00 | 风险 低
+- NTDA | 质量 75.95 | 可交易性 100.00 | 风险 低
 - Donnie on Micro Cap Endorsement | 质量 75.15 | 可交易性 100.00 | 风险 低
-- NTDA | 质量 74.04 | 可交易性 100.00 | 风险 低
-- Delta Comments on bStocks Index BSTX | 质量 73.60 | 可交易性 99.70 | 风险 低
+- Binance bStocks Brainstorm Challenge | 质量 73.99 | 可交易性 99.67 | 风险 低
+- Alleged MemeMind AI Project | 质量 73.27 | 可交易性 93.45 | 风险 低
 - USWR | 质量 72.96 | 可交易性 100.00 | 风险 低
+- AdAstra | 质量 71.06 | 可交易性 77.71 | 风险 低
+- 币安金钻 | 质量 70.81 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Keith Mahoney Discloses FOMO Foundation Address | 风险 42.50 | 原因：流动性偏薄、近 1 小时净流入转负、热度领先于资金
 
 ## 信号台
 
 - BSTX | BSC | 看多 | 新鲜度 100.00 | Delta Comments on bStocks Index BSTX
 - 范小勤 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SplashDog | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- sami | Solana | 看多 | 新鲜度 100.00 | Alleged Sami AI Agent Survival Experiment
+- sami | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GENTLE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - STABLE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Iphigenia | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 1% | Solana | 看多 | 新鲜度 97.73 | Keith Mahoney Discloses FOMO Foundation Address
 - 黄袍 | BSC | 看多 | 新鲜度 87.51 | 暂无直接叙事映射
 - 闲鱼币 | BSC | 看多 | 新鲜度 85.13 | 暂无直接叙事映射
+- 1% | Solana | 看多 | 新鲜度 85.13 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：MCX（Solana，分数 90.52）
-2. 共振最强代币：XST（Solana，共振 100.0）
-3. 记忆层变化：Keith Mahoney Discloses FOMO Foundation Address 当前为“新出现”
+1. 当前最强叙事：NTDA（Solana，分数 87.52）
+2. 共振最强代币：STONK（Solana，共振 100.0）
+3. 记忆层变化：Alleged MemeMind AI Project 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined DOSUSDT Perpetual Contract (2026-08-11)
 #Binance #NarrativeOS #OpenClaw
