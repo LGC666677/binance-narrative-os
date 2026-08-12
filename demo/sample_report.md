@@ -1,113 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-12T05:00:41.750911+00:00
+- 生成时间：2026-08-12T06:38:41.362578+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Artificial Inu Claims $AI Top 5 on FOMO，所在链为 Solana，叙事强度 88.08。
-- 当前平均叙事强度为 82.61，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ALON，来自 Solana，共振分数 100.0。
-- 记忆层显示 Artificial Inu Claims $AI Top 5 on FOMO 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 The Zapper，伪叙事风险 40.99。
+- 当前最强叙事是 United States Oil Collective，所在链为 Solana，叙事强度 89.48。
+- 当前平均叙事强度为 83.84，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
+- 记忆层显示 United States Oil Collective 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Grok Bot AI Teammate，伪叙事风险 50.11。
 - 最新官方催化来自 新币上新：Binance Will Add 1 bStocks Tokenized Securities as Collateral Asset - 2026-08-12。
 
 ## 叙事雷达
 
-- Artificial Inu Claims $AI Top 5 on FOMO | Solana | 降温中 | 强度 88.08 | 质量 77.45
+- United States Oil Collective | Solana | 降温中 | 强度 89.48 | 质量 79.21
+  - 主题摘要：Multiple tokens named 「USOC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 95.07 / 确认 12.24 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Artificial Inu Claims $AI Top 5 on FOMO | Solana | 降温中 | 强度 88.10 | 质量 77.47
   - 主题摘要：According to Artificial Inu's post, the $AI token (Artificial Inu) has reached the Top 5 on the FOMO platform. The author also notes that $AI is paired with Nvidia (NVDA).
-  - 资金 100.00 / 广度 86.03 / 确认 16.56 / 脆弱性 0.00
+  - 资金 100.00 / 广度 86.09 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Unstable FOMO | Solana | 降温中 | 强度 86.84 | 质量 75.10
+- Unstable FOMO | Solana | 降温中 | 强度 85.78 | 质量 75.32
   - 主题摘要：USDUF (Unstable FOMO) is a meme token inspired by the psychological phenomenon of FOMO (Fear Of Missing Out). The logo features a simple, minimalist design with a circular shape,…
-  - 资金 100.00 / 广度 83.47 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 84.20 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mayne Questions Plumber Token Identity | Solana | 降温中 | 强度 84.97 | 质量 76.55
+- Nikolai comments on Plumber token | Solana | 降温中 | 强度 83.11 | 质量 72.64
+  - 主题摘要：According to Nikolai's post, he expressed strong skepticism and disdain regarding the Plumber token, describing it as 'dogshit' and stating it has no chance of success. The post i…
+  - 资金 100.00 / 广度 81.50 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Genny Meme Cat Token | Solana | 降温中 | 强度 81.36 | 质量 74.94
+  - 主题摘要：According to NarrativeDevor's post, a Meme image featuring a cat is being promoted as the "Dogecoin of cats," with claims of viral success on TikTok. The post references the token…
+  - 资金 100.00 / 广度 86.90 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Launch of $peach64 Token | Solana | 降温中 | 强度 81.12 | 质量 74.61
+  - 主题摘要：According to Onchain's post, the author claims that Trump has kidnapped Princess Peach and states that Luigi and Mario are running. The post announces the launch of $peach64. This…
+  - 资金 100.00 / 广度 87.24 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Toad Punk | Solana | 降温中 | 强度 81.09 | 质量 71.71
+  - 主题摘要：Emerging from the swamp of $TOAD, $TOADPUNK is the darker, cooler, and unapologetically rebellious evolution—complete with a mohawk, cigar, and throne. Drawing inspiration from me…
+  - 资金 100.00 / 广度 81.84 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Mayne Questions Plumber Token Identity | Solana | 降温中 | 强度 80.67 | 质量 75.78
   - 主题摘要：According to International Jobs Recruitment's post, the account is advertising an entry-level plumber position at J-Berd Mechanical Contractors, Inc. in the USA, with a pay rate o…
-  - 资金 100.00 / 广度 83.02 / 确认 16.56 / 脆弱性 24.00
+  - 资金 99.60 / 广度 84.00 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Lenny | Solana | 加速中 | 强度 81.04 | 质量 78.09
-  - 主题摘要：Lenny is a meme token inspired by the iconic 'Lenny' meme, featuring a simple face with a raised eyebrow. The token embraces internet culture and humor, with its minimalist logo r…
-  - 资金 100.00 / 广度 82.34 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Solana Never Stops | Solana | 加速中 | 强度 80.88 | 质量 80.24
-  - 主题摘要：Solana官方发布极简口号“Never stop clicking”，既指代用户持续参与生态的互动行为，也隐喻Solana高吞吐量、永不宕机的技术特性，引发社区对持续活跃和速度优势的共鸣。
-  - 资金 100.00 / 广度 87.40 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Zapper | Solana | 降温中 | 强度 80.52 | 质量 69.46
-  - 主题摘要：According to Tim Brannigan's post, a narrative emerged regarding a woman with a button on her belly, dubbed 'The Zapper,' who allegedly wakes a sleeping individual. This story is…
-  - 资金 100.00 / 广度 73.35 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Grok Bot AI Teammate | BSC | 降温中 | 强度 79.34 | 质量 73.13
-  - 主题摘要：According to Grok Bot's post, the entity introduces Grok Bot, an AI agent currently in early beta. The post describes these bots as AI teammates that sign into user tools, perform…
-  - 资金 100.00 / 广度 76.89 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of Plumber Meme Image | Solana | 降温中 | 强度 79.30 | 质量 73.20
-  - 主题摘要：According to Connor's post, the first-ever OG $PLUMBER Meme image was released on Pump.fun. The post highlights that the top 15% holder is a major whale trader on the main platfor…
-  - 资金 96.24 / 广度 78.13 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Creator Capital Platform Promotion | Solana | 加速中 | 强度 79.22 | 质量 79.76
-  - 主题摘要：According to creator capital's post, the entity promotes a platform enabling users to trade the value of any social media account. The post directs users to the website creatorcap…
-  - 资金 100.00 / 广度 87.91 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 币安金钻 | BSC | 降温中 | 强度 78.63 | 质量 71.82
+- 币安金钻 | BSC | 降温中 | 强度 77.22 | 质量 71.86
   - 主题摘要：币安金钻 (Binance Gold Diamond) is a premium membership token offering exclusive access to exclusive features and benefits. It aims to enhance user engagement through exclusive conten…
-  - 资金 100.00 / 广度 67.27 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 67.38 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Delta Comments on bStocks Index BSTX | BSC | 加速中 | 强度 77.76 | 质量 77.19
-  - 主题摘要：According to 德尔塔's post, the author expressed strong excitement regarding the recent demonstration of the bStocks index, specifically noting the ticker BSTX. The post highlights t…
-  - 资金 100.00 / 广度 89.93 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged bot Meme Image | BSC | 加速中 | 强度 75.73 | 质量 76.47
-  - 主题摘要：Multiple tokens named 「BOT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.19 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nvidia Website Robot Easter Egg | BSC | 加速中 | 强度 75.71 | 质量 76.43
+- Nvidia Website Robot Easter Egg | BSC | 加速中 | 强度 75.73 | 质量 74.65
   - 主题摘要：According to _'s post, Nvidia's official website features an unnamed robot image that appears when browsing damaged or unupdated pages, serving as an Easter egg.
-  - 资金 100.00 / 广度 93.24 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.33 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Filipino Malone Lam Meme | BSC | 加速中 | 强度 72.32 | 质量 71.24
-  - 主题摘要：According to NIK's post, SpaceXAI has launched Grok Bot, an AI tool in early beta designed to function as digital coworkers. These bots are described as AI teammates capable of si…
-  - 资金 100.00 / 广度 84.45 / 确认 31.68 / 脆弱性 24.00
+- Grok Bot AI Teammate | BSC | 点火期 | 强度 75.72 | 质量 74.18
+  - 主题摘要：According to Grok Bot's post, the entity introduces Grok Bot, an AI teammate currently in early beta. These bots are designed to sign into user tools, perform tasks autonomously,…
+  - 资金 100.00 / 广度 77.76 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged bot Meme Image | BSC | 加速中 | 强度 75.72 | 质量 74.65
+  - 主题摘要：Multiple tokens named 「BOT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.28 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Delta Comments on bStocks Index BSTX | BSC | 加速中 | 强度 74.35 | 质量 74.10
+  - 主题摘要：According to 德尔塔's post, the author expressed strong excitement regarding the recent demonstration of the bStocks index, specifically noting the ticker BSTX. The post highlights t…
+  - 资金 100.00 / 广度 89.84 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance bStocks Brainstorm Challenge | BSC | 加速中 | 强度 73.99 | 质量 71.72
+  - 主题摘要：币安华语社区发起bStocks主题创意造句活动，邀请用户结合图片关键词发挥想象力，以互动抽奖形式激发社区对Binance Stocks产品的趣味讨论。
+  - 资金 100.00 / 广度 93.01 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.61，其中已确认叙事 0 个。
-- Lenny 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Artificial Inu Claims $AI Top 5 on FOMO 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.84，其中已确认叙事 0 个。
+- Binance bStocks Brainstorm Challenge 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- United States Oil Collective 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Solana Never Stops | 质量 80.24 | 可交易性 100.00 | 风险 低
-- Creator Capital Platform Promotion | 质量 79.76 | 可交易性 100.00 | 风险 低
-- Lenny | 质量 78.09 | 可交易性 100.00 | 风险 低
-- Artificial Inu Claims $AI Top 5 on FOMO | 质量 77.45 | 可交易性 100.00 | 风险 低
-- Delta Comments on bStocks Index BSTX | 质量 77.19 | 可交易性 100.00 | 风险 低
-- Mayne Questions Plumber Token Identity | 质量 76.55 | 可交易性 100.00 | 风险 低
-- Alleged bot Meme Image | 质量 76.47 | 可交易性 100.00 | 风险 低
-- Nvidia Website Robot Easter Egg | 质量 76.43 | 可交易性 100.00 | 风险 低
-- Unstable FOMO | 质量 75.10 | 可交易性 100.00 | 风险 低
-- Alleged Launch of Plumber Meme Image | 质量 73.20 | 可交易性 99.00 | 风险 低
+- United States Oil Collective | 质量 79.21 | 可交易性 100.00 | 风险 低
+- Artificial Inu Claims $AI Top 5 on FOMO | 质量 77.47 | 可交易性 100.00 | 风险 低
+- Mayne Questions Plumber Token Identity | 质量 75.78 | 可交易性 99.08 | 风险 低
+- Unstable FOMO | 质量 75.32 | 可交易性 100.00 | 风险 低
+- Alleged Genny Meme Cat Token | 质量 74.94 | 可交易性 90.74 | 风险 低
+- Nvidia Website Robot Easter Egg | 质量 74.65 | 可交易性 100.00 | 风险 低
+- Alleged bot Meme Image | 质量 74.65 | 可交易性 100.00 | 风险 低
+- Alleged Launch of $peach64 Token | 质量 74.61 | 可交易性 89.30 | 风险 低
+- Grok Bot AI Teammate | 质量 74.18 | 可交易性 100.00 | 风险 低
+- Delta Comments on bStocks Index BSTX | 质量 74.10 | 可交易性 99.43 | 风险 低
 
 ## 伪叙事风险
 
-- The Zapper | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Grok Bot AI Teammate | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Launch of Plumber Meme Image | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Grok Bot AI Teammate | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - BOT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BSTX | BSC | 看多 | 新鲜度 100.00 | Delta Comments on bStocks Index BSTX
 - PGUY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CLICKING | Solana | 看多 | 新鲜度 100.00 | Solana Never Stops
 - MOS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MIM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BOT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BOT | BSC | 看多 | 新鲜度 92.17 | Alleged bot Meme Image / Nvidia Website Robot Easter Egg / Alleged Filipino Malone Lam Meme
+- BOT | BSC | 看多 | 新鲜度 92.17 | Nvidia Website Robot Easter Egg / Alleged bot Meme Image
+- CLICKING | Solana | 看多 | 新鲜度 89.20 | 暂无直接叙事映射
 - 黄袍 | BSC | 看多 | 新鲜度 87.51 | 暂无直接叙事映射
 - DGX-1 | BSC | 看多 | 新鲜度 81.90 | 暂无直接叙事映射
 
@@ -135,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Artificial Inu Claims $AI Top 5 on FOMO（Solana，分数 88.08）
-2. 共振最强代币：ALON（Solana，共振 100.0）
-3. 记忆层变化：Artificial Inu Claims $AI Top 5 on FOMO 当前为“新出现”
+1. 当前最强叙事：United States Oil Collective（Solana，分数 89.48）
+2. 共振最强代币：ANSEM（Solana，共振 100.0）
+3. 记忆层变化：United States Oil Collective 当前为“新出现”
 4. 最新官方催化：Binance Will Add 1 bStocks Tokenized Securities as Collateral Asset - 2026-08-12
 #Binance #NarrativeOS #OpenClaw
