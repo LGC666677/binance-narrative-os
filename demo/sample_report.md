@@ -1,111 +1,109 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-12T16:31:06.249511+00:00
+- 生成时间：2026-08-12T17:36:39.593963+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：5
 - 高风险伪叙事：0
 
 ## 今日摘要
 
 - 当前最强叙事是 MCX，所在链为 Solana，叙事强度 88.58。
-- 当前平均叙事强度为 82.78，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 PLUMBER，来自 Solana，共振分数 100.0。
-- 记忆层显示 United States Oil Collective 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Steve Meme Coin，伪叙事风险 42.79。
+- 当前平均叙事强度为 83.42，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
+- 记忆层显示 United States Oil Holdings 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Dota 2 The International Activity: Trade to Share a 100,000 USDT Prize Pool and 5M Predict Points Rewards。
 
 ## 叙事雷达
 
 - MCX | Solana | 降温中 | 强度 88.58 | 质量 77.90
   - 主题摘要：Multiple tokens named 「MCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.80 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 92.81 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Apes Token Launch | Solana | 降温中 | 强度 86.76 | 质量 77.46
+- Alleged Apes Token Launch | Solana | 降温中 | 强度 85.50 | 质量 77.37
   - 主题摘要：According to Chillhоusе Dеv's post, the developer of @chillhousesol claims Pumpfun users are called "apes" and has created a Meme image by turning the Pumpfun avatar into an ape P…
-  - 资金 100.00 / 广度 90.77 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.48 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Character Growth | BSC | 加速中 | 强度 86.70 | 质量 81.79
-  - 主题摘要：Binance official account posts about 'character development' with a link, likely referring to personal growth or project updates. The vague nature makes it difficult to create a s…
-  - 资金 100.00 / 广度 92.57 / 确认 27.36 / 脆弱性 16.07
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Steve Meme Coin | Solana | 降温中 | 强度 84.37 | 质量 78.17
-  - 主题摘要：According to Spongey 🔸 👀's post, the Steve the penguin narrative is viral, and multiple tokens named 'Steve' have been deployed. Spongey comments on the trend, suggesting the focu…
-  - 资金 100.00 / 广度 91.51 / 确认 16.56 / 脆弱性 38.53
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- HONOR | Solana | 降温中 | 强度 84.14 | 质量 72.31
-  - 主题摘要：HONOR token draws inspiration from the concept of honor and legacy, as reflected in its dark, regal logo. Created by honorboundsol, it embodies the theme of enduring honor in the…
-  - 资金 100.00 / 广度 74.16 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ Predicts MarsCoin Launch | BSC | 加速中 | 强度 83.83 | 质量 75.11
-  - 主题摘要：According to CZ's post, he predicts the inevitable launch of MarsCoin, stating that it is inevitable in foresight. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 76.86 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OG Posts GME Meme Image | BSC | 加速中 | 强度 83.60 | 质量 78.78
-  - 主题摘要：According to OG's post, GME is identified as a meme stock in the US stock market, characterized by direct launch dynamics.
-  - 资金 100.00 / 广度 85.69 / 确认 23.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Digital Optimus | BSC | 已确认 | 强度 83.29 | 质量 84.17
-  - 主题摘要：Elon Musk highlights the unique capabilities of Grok's 'Digital Optimus,' emphasizing its real-time video human emulation technology. This pushes the boundaries of AI interaction,…
-  - 资金 100.00 / 广度 97.32 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- United States Oil Collective | Solana | 降温中 | 强度 82.73 | 质量 70.19
-  - 主题摘要：USOC (United States Oil Collective) token draws inspiration from the concept of a national oil reserve for future generations. The logo features a silhouette against a cityscape b…
-  - 资金 100.00 / 广度 67.10 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Soon | BSC | 已确认 | 强度 81.41 | 质量 80.16
-  - 主题摘要：Binance官方账号发布简短的'Soon'推文，通常暗示重大公告或新产品上线，引发社区强烈FOMO和猜测。
-  - 资金 100.00 / 广度 86.60 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged K-HOLE Meme Coin | Solana | 加速中 | 强度 78.65 | 质量 78.29
-  - 主题摘要：According to mario's post, Korea's top economy news reported on a viral plan to use buses as housing for youth, which included discussing a memecoin named "K-HOLE". This informati…
-  - 资金 100.00 / 广度 83.54 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged BusHouse Meme Coin | Solana | 加速中 | 强度 78.52 | 质量 78.14
-  - 主题摘要：According to thedevrrrrrr's post, a memecoin named BusHouse is allegedly linked to Rep. Hwang Hee's 'Bus House' concept. The author shared articles discussing this connection and…
-  - 资金 100.00 / 广度 83.04 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GameStop Promotes Demon Slayer Pre-order | BSC | 加速中 | 强度 78.49 | 质量 73.74
+- GameStop Promotes Demon Slayer Pre-order | BSC | 已确认 | 强度 85.29 | 质量 76.01
   - 主题摘要：According to GameStop's post, the retailer is promoting pre-orders for the 'Demon Slayer' product. Customers who purchase the item are offered a $10 incentive in Game Coin. The po…
-  - 资金 100.00 / 广度 78.78 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.12 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Binance Soon | BSC | 已确认 | 强度 84.50 | 质量 80.96
+  - 主题摘要：Binance官方账号发布简短的'Soon'推文，通常暗示重大公告或新产品上线，引发社区强烈FOMO和猜测。
+  - 资金 100.00 / 广度 86.65 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- United States Oil Holdings | Solana | 降温中 | 强度 83.31 | 质量 71.10
+  - 主题摘要：Multiple tokens named 「USOH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.15 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Character Growth | BSC | 已确认 | 强度 83.17 | 质量 86.55
+  - 主题摘要：Binance official account posts about 'character development' with a link, likely referring to personal growth or project updates. The vague nature makes it difficult to create a s…
+  - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 24.44
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Digital Optimus | BSC | 已确认 | 强度 83.15 | 质量 86.55
+  - 主题摘要：Elon Musk highlights the unique capabilities of Grok's 'Digital Optimus,' emphasizing its real-time video human emulation technology. This pushes the boundaries of AI interaction,…
+  - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 24.44
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- HONOR | Solana | 降温中 | 强度 83.05 | 质量 73.07
+  - 主题摘要：HONOR token draws inspiration from the concept of honor and legacy, as reflected in its dark, regal logo. Created by honorboundsol, it embodies the theme of enduring honor in the…
+  - 资金 100.00 / 广度 76.69 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Grok Bot AI Teammate | BSC | 降温中 | 强度 83.01 | 质量 72.26
+  - 主题摘要：According to Grok Bot's post, the entity introduces Grok Bot, an AI agent currently in early beta. The post describes these bots as AI teammates that sign into user tools, perform…
+  - 资金 100.00 / 广度 85.42 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- PIPE DOGE | Solana | 降温中 | 强度 82.89 | 质量 71.70
+  - 主题摘要：Multiple tokens named 「PIPEDOGE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 94.07 / 广度 72.12 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged WSB Token Launch | BSC | 加速中 | 强度 82.86 | 质量 72.84
+  - 主题摘要：According to Driss's post, the WallStreetBets (WSB) IP is allegedly renamed to WallStreetBinance, with a token launched using the SPY pool. This information is unverified. Please…
+  - 资金 100.00 / 广度 78.62 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Coherence | Solana | 加速中 | 强度 78.46 | 质量 70.95
-  - 主题摘要：COHERENCE token draws inspiration from the concept of mental clarity and focus, as reflected in its octopus logo symbolizing complexity and connectivity. The token's slogan 'Set m…
-  - 资金 100.00 / 广度 59.08 / 确认 23.76 / 脆弱性 14.00
+- OG Posts GME Meme Image | BSC | 加速中 | 强度 81.50 | 质量 79.27
+  - 主题摘要：According to OG's post, GME is identified as a meme stock in the US stock market, characterized by direct launch dynamics.
+  - 资金 100.00 / 广度 87.35 / 确认 23.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Flap Stock Meme Rewards | BSC | 已确认 | 强度 80.06 | 质量 85.26
+  - 主题摘要：According to Cedric 🦋's post, Flap Stock Meme traders allegedly received $7,975,779 in bStock rewards within two weeks. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 98.33 / 确认 35.28 / 脆弱性 38.44
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged K-HOLE Meme Coin | Solana | 加速中 | 强度 77.19 | 质量 78.30
+  - 主题摘要：According to mario's post, Korea's top economy news reported on a viral plan to use buses as housing for youth, which included discussing a memecoin named "K-HOLE". This informati…
+  - 资金 99.10 / 广度 83.56 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.78，其中已确认叙事 0 个。
-- GameStop Promotes Demon Slayer Pre-order 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.42，其中已确认叙事 0 个。
+- Uncertain:Alleged WSB Token Launch 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - MCX 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Digital Optimus | 质量 84.17 | 可交易性 100.00 | 风险 低
-- Binance Character Growth | 质量 81.79 | 可交易性 100.00 | 风险 低
-- Binance Soon | 质量 80.16 | 可交易性 100.00 | 风险 低
-- OG Posts GME Meme Image | 质量 78.78 | 可交易性 100.00 | 风险 低
-- Alleged K-HOLE Meme Coin | 质量 78.29 | 可交易性 100.00 | 风险 低
-- Alleged Steve Meme Coin | 质量 78.17 | 可交易性 96.91 | 风险 低
-- Alleged BusHouse Meme Coin | 质量 78.14 | 可交易性 100.00 | 风险 低
+- Binance Character Growth | 质量 86.55 | 可交易性 100.00 | 风险 低
+- Digital Optimus | 质量 86.55 | 可交易性 100.00 | 风险 低
+- Alleged Flap Stock Meme Rewards | 质量 85.26 | 可交易性 100.00 | 风险 低
+- Binance Soon | 质量 80.96 | 可交易性 100.00 | 风险 低
+- OG Posts GME Meme Image | 质量 79.27 | 可交易性 100.00 | 风险 低
+- Alleged K-HOLE Meme Coin | 质量 78.30 | 可交易性 100.00 | 风险 低
 - MCX | 质量 77.90 | 可交易性 100.00 | 风险 低
-- Alleged Apes Token Launch | 质量 77.46 | 可交易性 97.94 | 风险 低
-- Uncertain:CZ Predicts MarsCoin Launch | 质量 75.11 | 可交易性 96.07 | 风险 低
+- Alleged Apes Token Launch | 质量 77.37 | 可交易性 97.93 | 风险 低
+- GameStop Promotes Demon Slayer Pre-order | 质量 76.01 | 可交易性 93.66 | 风险 低
+- HONOR | 质量 73.07 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Steve Meme Coin | 风险 42.79 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
 
+- GME | BSC | 看多 | 新鲜度 100.00 | Binance Character Growth / Digital Optimus
 - GME | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- GME | BSC | 看多 | 新鲜度 100.00 | Digital Optimus
 - BOT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GTA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - STORM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SAM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BSTX | BSC | 看多 | 新鲜度 95.43 | 暂无直接叙事映射
-- GME | BSC | 看多 | 新鲜度 83.93 | Uncertain:CZ Predicts MarsCoin Launch
+- utility | BSC | 看多 | 新鲜度 92.16 | Binance Character Growth / Digital Optimus
+- GME | BSC | 看多 | 新鲜度 83.93 | Alleged Flap Stock Meme Rewards
 - Alisa | Solana | 看多 | 新鲜度 83.69 | 暂无直接叙事映射
 - BOT | BSC | 看多 | 新鲜度 80.17 | 暂无直接叙事映射
 
@@ -134,7 +132,7 @@
 
 今日币安叙事中枢观察：
 1. 当前最强叙事：MCX（Solana，分数 88.58）
-2. 共振最强代币：PLUMBER（Solana，共振 100.0）
-3. 记忆层变化：United States Oil Collective 当前为“新出现”
+2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
+3. 记忆层变化：United States Oil Holdings 当前为“新出现”
 4. 最新官方催化：Dota 2 The International Activity: Trade to Share a 100,000 USDT Prize Pool and 5M Predict Points Rewards
 #Binance #NarrativeOS #OpenClaw
