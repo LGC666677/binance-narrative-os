@@ -1,123 +1,120 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-13T12:05:22.017201+00:00
+- 生成时间：2026-08-13T13:40:06.107857+00:00
 - 跟踪叙事：14
-- 已确认叙事：5
+- 已确认叙事：6
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Digital Optimus，所在链为 BSC，叙事强度 93.32。
-- 当前平均叙事强度为 83.98，其中已确认叙事 5 个。
+- 当前最强叙事是 Digital Optimus，所在链为 BSC，叙事强度 92.42。
+- 当前平均叙事强度为 85.65，其中已确认叙事 6 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 NVIDIA MEME Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Jumbo Capy Meme，伪叙事风险 47.23。
-- 最新官方催化来自 最新活动：Binance Square: Join CreatorPad for 480,000 DUSK Reward and Stream for an Additional 40,000 USDC!。
+- 记忆层显示 Uncertain:CZ Suggests GME Issue Utility Token 当前处于“新出现”状态。
+- 最新官方催化来自 最新活动：Pakistan Exclusive: Independence Trading Tournament: Trade More for a Bigger Share of the 20,000 USDT Prize Pool!。
 
 ## 叙事雷达
 
-- Digital Optimus | BSC | 已确认 | 强度 93.32 | 质量 87.35
+- Digital Optimus | BSC | 已确认 | 强度 92.42 | 质量 87.35
   - 主题摘要：Elon Musk highlights the unique capabilities of Grok's 'Digital Optimus,' emphasizing its real-time video human emulation technology. This pushes the boundaries of AI interaction,…
-  - 资金 100.00 / 广度 100.00 / 确认 42.48 / 脆弱性 10.00
+  - 资金 100.00 / 广度 100.00 / 确认 42.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- STONK | Solana | 加速中 | 强度 88.47 | 质量 77.52
+- Uncertain:CZ Suggests GME Issue Utility Token | BSC | 已确认 | 强度 92.13 | 质量 86.46
+  - 主题摘要：According to CZ's post, he suggests that GameStop (GME) should issue a utility token on the blockchain, preferably on the BNB Smart Chain (BSC).
+  - 资金 100.00 / 广度 99.69 / 确认 38.88 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- STONK | Solana | 降温中 | 强度 87.28 | 质量 75.93
   - 主题摘要：Multiple tokens named 「STONK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.60 / 确认 20.16 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He: Pay with Binance | BSC | 已确认 | 强度 87.19 | 质量 85.30
-  - 主题摘要：Binance联合创始人何一在回应另一位开发者在不丹旅行受阻的推文时，幽默地建议直接使用Binance Pay进行支付。这一互动结合了名人效应与实用功能推广，展现了币安生态的便捷性。
-  - 资金 100.00 / 广度 95.81 / 确认 38.88 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.60 / 确认 12.96 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Flap bBroker Vault Launch | BSC | 已确认 | 强度 84.65 | 质量 83.23
+  - 主题摘要：According to Flap 🦋's post, the Flap bBroker Vault on BNB Chain, powered by bstocksfinance, allows users to mint NFTs using tax tokens. These NFTs generate passive dividends from…
+  - 资金 100.00 / 广度 91.56 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Character Growth | BSC | 已确认 | 强度 86.76 | 质量 83.43
+- Alleged Modi Meme Coin | Solana | 降温中 | 强度 84.07 | 质量 78.91
+  - 主题摘要：According to Washywash's post, the '56-inch small monkey' symbolizing India's political opposition is trending. This narrative is associated with multiple tokens named 'Modi' (e.g…
+  - 资金 100.00 / 广度 93.54 / 确认 12.96 / 脆弱性 17.25
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Character Growth | BSC | 已确认 | 强度 83.76 | 质量 82.93
   - 主题摘要：Binance official account posts about 'character development' with a link, likely referring to personal growth or project updates. The vague nature makes it difficult to create a s…
-  - 资金 100.00 / 广度 94.87 / 确认 31.68 / 脆弱性 16.53
+  - 资金 100.00 / 广度 93.20 / 确认 31.68 / 脆弱性 27.38
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- NVIDIA MEME Token | Solana | 降温中 | 强度 86.28 | 质量 79.12
-  - 主题摘要：Multiple tokens named 「NVIDIA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 96.88 / 确认 9.36 / 脆弱性 25.44
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Claims 'Binance Has It All' | BSC | 已确认 | 强度 86.07 | 质量 84.39
+- Yi He: Pay with Binance | BSC | 已确认 | 强度 83.55 | 质量 83.48
+  - 主题摘要：Binance联合创始人何一在回应另一位开发者在不丹旅行受阻的推文时，幽默地建议直接使用Binance Pay进行支付。这一互动结合了名人效应与实用功能推广，展现了币安生态的便捷性。
+  - 资金 100.00 / 广度 95.56 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Yi He Claims 'Binance Has It All' | BSC | 已确认 | 强度 82.91 | 质量 84.34
   - 主题摘要：Binance CEO Yi He responded to a viral Chinese crypto meme claiming 'Binance has everything.' Her engagement turned a casual joke into a community narrative about Binance's expand…
-  - 资金 100.00 / 广度 92.79 / 确认 38.88 / 脆弱性 24.00
+  - 资金 100.00 / 广度 92.61 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Scientist Claims Dogs Can Be Autistic | Solana | 降温中 | 强度 84.48 | 质量 76.74
-  - 主题摘要：According to the post, a scientist claims dogs can be autistic like humans. This content is associated with tokens such as AUTISTIC (Autistic Dog) and AI (Autistic Inu). The post…
-  - 资金 100.00 / 广度 90.00 / 确认 7.92 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MOS | Solana | 降温中 | 强度 82.24 | 质量 69.98
+- MOS | Solana | 降温中 | 强度 82.15 | 质量 69.98
   - 主题摘要：Multiple tokens named 「MOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 66.39 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Flap Stock Meme Rewards | BSC | 已确认 | 强度 81.35 | 质量 84.43
-  - 主题摘要：According to Cedric 🦋's post, Flap Stock Meme traders allegedly received $7,975,779 in bStock rewards within two weeks. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 98.72 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- OG Posts GME Meme Image | BSC | 加速中 | 强度 81.05 | 质量 79.64
-  - 主题摘要：According to OG's post, GME is identified as a meme stock in the US stock market, characterized by direct launch dynamics.
-  - 资金 100.00 / 广度 88.57 / 确认 23.04 / 脆弱性 24.00
+- White House Fraud Map Meme | Solana | 加速中 | 强度 81.71 | 质量 77.95
+  - 主题摘要：According to 莉兹🔶BNB's post, the White House added a fraud map to its website, featuring an image of Donald Trump as Spider-Man as the mascot. This content highlights a specific vi…
+  - 资金 100.00 / 广度 85.06 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged WSB Token Launch | BSC | 加速中 | 强度 78.10 | 质量 72.46
-  - 主题摘要：According to Driss's post, the WallStreetBets (WSB) IP is allegedly being renamed to WallStreetBinance, with a token launched using the SPY pool. This information is unverified. P…
-  - 资金 89.90 / 广度 81.31 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He: No 9 to 5 | BSC | 加速中 | 强度 77.97 | 质量 77.22
-  - 主题摘要：Binance Co-CEO Yi He emphasizes that crypto markets operate continuously, contrasting with traditional 9-to-5 finance. This highlights the unique 24/7 nature of the industry.
-  - 资金 100.00 / 广度 89.05 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- TOADBF | Solana | 降温中 | 强度 77.84 | 质量 68.01
-  - 主题摘要：Multiple tokens named 「TOADBF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.86 / 确认 4.32 / 脆弱性 14.00
+- TROLLNEGY | Solana | 降温中 | 强度 80.92 | 质量 69.95
+  - 主题摘要：TROLLNEGY is a chaotic meme project inspired by internet troll culture. The token's logo features a cartoon character with a mischievous expression, embodying the project's playfu…
+  - 资金 100.00 / 广度 66.30 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Jumbo Capy Meme | Solana | 点火期 | 强度 76.76 | 质量 77.12
-  - 主题摘要：According to Mario Presidente's post, the Jumbo Capybara plush from Costco is experiencing widespread sell-outs and viral popularity, with users creating related Meme images. This…
-  - 资金 88.22 / 广度 84.91 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- OG Posts GME Meme Image | BSC | 加速中 | 强度 80.14 | 质量 79.60
+  - 主题摘要：According to OG's post, GME is identified as a meme stock in the US stock market, characterized by direct launch dynamics.
+  - 资金 100.00 / 广度 88.43 / 确认 23.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Anime Black Bull | Solana | 降温中 | 强度 79.90 | 质量 71.40
+  - 主题摘要：Multiple tokens named 「ABB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.13 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ansem Alleged Token | Solana | 加速中 | 强度 79.13 | 质量 64.91
+  - 主题摘要：According to Ansem 🐂🀄️'s post, Ansem allegedly launched the ANSEM token, described as a 'tokenized attention network' for the creator economy. He classifies it as a meme category…
+  - 资金 100.00 / 广度 76.46 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 83.98，其中已确认叙事 5 个。
-- Yi He Claims 'Binance Has It All' 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- NVIDIA MEME Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 85.65，其中已确认叙事 6 个。
+- Uncertain:CZ Suggests GME Issue Utility Token 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- STONK 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Digital Optimus | 质量 87.35 | 可交易性 100.00 | 风险 低
-- Yi He: Pay with Binance | 质量 85.30 | 可交易性 100.00 | 风险 低
-- Alleged Flap Stock Meme Rewards | 质量 84.43 | 可交易性 100.00 | 风险 低
-- Yi He Claims 'Binance Has It All' | 质量 84.39 | 可交易性 100.00 | 风险 低
-- Binance Character Growth | 质量 83.43 | 可交易性 100.00 | 风险 低
-- OG Posts GME Meme Image | 质量 79.64 | 可交易性 100.00 | 风险 低
-- NVIDIA MEME Token | 质量 79.12 | 可交易性 100.00 | 风险 低
-- STONK | 质量 77.52 | 可交易性 100.00 | 风险 低
-- Yi He: No 9 to 5 | 质量 77.22 | 可交易性 100.00 | 风险 低
-- Alleged Jumbo Capy Meme | 质量 77.12 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Suggests GME Issue Utility Token | 质量 86.46 | 可交易性 100.00 | 风险 低
+- Yi He Claims 'Binance Has It All' | 质量 84.34 | 可交易性 100.00 | 风险 低
+- Yi He: Pay with Binance | 质量 83.48 | 可交易性 100.00 | 风险 低
+- Flap bBroker Vault Launch | 质量 83.23 | 可交易性 100.00 | 风险 低
+- Binance Character Growth | 质量 82.93 | 可交易性 100.00 | 风险 低
+- OG Posts GME Meme Image | 质量 79.60 | 可交易性 100.00 | 风险 低
+- Alleged Modi Meme Coin | 质量 78.91 | 可交易性 100.00 | 风险 低
+- White House Fraud Map Meme | 质量 77.95 | 可交易性 100.00 | 风险 低
+- STONK | 质量 75.93 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Jumbo Capy Meme | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- NVIDIA MEME Token | 风险 41.74 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- utility | BSC | 看多 | 新鲜度 100.00 | Digital Optimus
-- GME | BSC | 看多 | 新鲜度 100.00 | Digital Optimus
+- bBroker | BSC | 看多 | 新鲜度 100.00 | Flap bBroker Vault Launch
+- utility | BSC | 看多 | 新鲜度 100.00 | Digital Optimus / Uncertain:CZ Suggests GME Issue Utility Token
+- GME | BSC | 看多 | 新鲜度 100.00 | Digital Optimus / Uncertain:CZ Suggests GME Issue Utility Token
 - GME | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BOT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- RAPEDOG | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - K-HOME | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BOIÚNA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BOIÚNA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- gaylordfuk | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BOIÚNA | Solana | 看多 | 新鲜度 99.36 | 暂无直接叙事映射
-- AFP | Solana | 看多 | 新鲜度 84.03 | 暂无直接叙事映射
+- BOIÚNA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
+- [Pakistan Exclusive: Independence Trading Tournament: Trade More for a Bigger Share of the 20,000 USDT Prize Pool!](https://www.binance.com/zh-CN/support/announcement/detail/e605e25953d848fb911693376345302b)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Get ready for the Pakistan Independence Trading Tournament. Celebrate Independence Month by…
 - [Binance Square: Join CreatorPad for 480,000 DUSK Reward and Stream for an Additional 40,000 USDC!](https://www.binance.com/zh-CN/support/announcement/detail/a07227f11c5345e091c8f0118d403806)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Square is launching a new CreatorPad campaign. Verified users can complete sim…
 - [PLUME Trading Tournament: Trade to Share Up to 500 BNB Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/228dec8830ec468e81696d4b1afae124)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users in the EEA. Fellow Binancians, Binance…
-- [Binance Earn: Enjoy Up to 11.5% APR with KGST Flexible Products – 100,000 KGST Limit Available! (2026-08-14)](https://www.binance.com/zh-CN/support/announcement/detail/6371efabeb6f4efbb5141bd4b842695a)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Earn is excited to renew the…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-14)](https://www.binance.com/zh-CN/support/announcement/detail/343eff2647754fb1bd0664bba24e9a36)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of tradin…
 - [Introducing VIP Earn: Up to 20% Higher APR and Larger Quotas](https://www.binance.com/zh-CN/support/announcement/detail/ce999f3625724037900d8627255b1164)
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Digital Optimus（BSC，分数 93.32）
+1. 当前最强叙事：Digital Optimus（BSC，分数 92.42）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：NVIDIA MEME Token 当前为“新出现”
-4. 最新官方催化：Binance Square: Join CreatorPad for 480,000 DUSK Reward and Stream for an Additional 40,000 USDC!
+3. 记忆层变化：Uncertain:CZ Suggests GME Issue Utility Token 当前为“新出现”
+4. 最新官方催化：Pakistan Exclusive: Independence Trading Tournament: Trade More for a Bigger Share of the 20,000 USDT Prize Pool!
 #Binance #NarrativeOS #OpenClaw
