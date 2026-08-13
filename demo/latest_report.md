@@ -1,109 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-13T15:34:22.790550+00:00
+- 生成时间：2026-08-13T16:30:38.698129+00:00
 - 跟踪叙事：14
-- 已确认叙事：8
+- 已确认叙事：7
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Digital Optimus，所在链为 BSC，叙事强度 92.77。
-- 当前平均叙事强度为 85.11，其中已确认叙事 7 个。
+- 当前最强叙事是 Binance Character Growth，所在链为 BSC，叙事强度 91.81。
+- 当前平均叙事强度为 85.6，其中已确认叙事 6 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 Binance Character Growth 当前处于“强化”状态。
-- 当前最需要防止误判的叙事是 SIGMAGOON Shares FOMO Foundation Transfer，伪叙事风险 40.99。
+- 记忆层显示 Ansem 🐂🀄️ Discusses COINING Token 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Binance Expands Tokenized Securities Access with bStocks。
 
 ## 叙事雷达
 
-- Digital Optimus | BSC | 已确认 | 强度 92.77 | 质量 87.35
-  - 主题摘要：Elon Musk highlights the unique capabilities of Grok's 'Digital Optimus,' emphasizing its real-time video human emulation technology. This pushes the boundaries of AI interaction,…
-  - 资金 100.00 / 广度 100.00 / 确认 42.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Character Growth | BSC | 已确认 | 强度 91.79 | 质量 87.35
+- Binance Character Growth | BSC | 已确认 | 强度 91.81 | 质量 87.35
   - 主题摘要：Binance official account posts about 'character development' with a link, likely referring to personal growth or project updates. The vague nature makes it difficult to create a s…
   - 资金 100.00 / 广度 100.00 / 确认 42.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:CZ Suggests GME Issue Utility Token | BSC | 已确认 | 强度 90.67 | 质量 85.40
-  - 主题摘要：According to CZ's post, he suggests that GameStop (GME) should issue a utility token on the blockchain, preferably on the BNB Smart Chain (BSC).
-  - 资金 100.00 / 广度 98.79 / 确认 35.28 / 脆弱性 14.00
+- Digital Optimus | BSC | 已确认 | 强度 89.97 | 质量 87.35
+  - 主题摘要：Elon Musk highlights the unique capabilities of Grok's 'Digital Optimus,' emphasizing its real-time video human emulation technology. This pushes the boundaries of AI interaction,…
+  - 资金 100.00 / 广度 100.00 / 确认 42.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- USWR | Solana | 降温中 | 强度 88.56 | 质量 80.06
+- Uncertain:CZ Suggests GME Issue Utility Token | BSC | 已确认 | 强度 89.32 | 质量 85.46
+  - 主题摘要：According to CZ's post, he suggests that GameStop (GME) should issue a utility token on the blockchain, preferably on the BNB Smart Chain (BSC).
+  - 资金 100.00 / 广度 98.98 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- USWR | Solana | 降温中 | 强度 88.72 | 质量 80.06
   - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- alon Mentions Pump.fun App | Solana | 已确认 | 强度 88.05 | 质量 82.73
-  - 主题摘要：According to alon's post, the author stated that the content was sent from the Pumpfun App. The post references a discussion regarding 'the great onboarding' in the context of the…
-  - 资金 100.00 / 广度 92.97 / 确认 31.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
 - US Trust Fund | Solana | 降温中 | 强度 87.52 | 质量 76.19
   - 主题摘要：Multiple tokens named 「USTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 87.11 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Claims 'Binance Has It All' | BSC | 已确认 | 强度 82.52 | 质量 83.94
-  - 主题摘要：Binance CEO Yi He responded to a viral Chinese crypto meme claiming 'Binance has everything.' Her engagement turned a casual joke into a community narrative about Binance's expand…
-  - 资金 100.00 / 广度 92.17 / 确认 38.88 / 脆弱性 24.00
+- Ansem 🐂🀄️ Discusses COINING Token | Solana | 已确认 | 强度 86.92 | 质量 83.64
+  - 主题摘要：According to alon's post, the co-founder of Pump.fun expressed surprise regarding the onboarding of four specific users (@ottabag, @CookerFlips, @ilyunow, @sapphycrypto) to the Pu…
+  - 资金 100.00 / 广度 90.20 / 确认 39.00 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Flap bBroker Vault Launch | BSC | 已确认 | 强度 82.40 | 质量 82.72
-  - 主题摘要：According to Flap 🦋's post, the Flap bBroker Vault on BNB Chain, powered by bstocksfinance, allows users to mint NFTs using tax tokens. These NFTs generate passive dividends from…
-  - 资金 100.00 / 广度 92.50 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- OG Posts GME Meme Image | BSC | 加速中 | 强度 80.95 | 质量 78.83
-  - 主题摘要：According to OG's post, GME is identified as a meme stock in the US stock market, characterized by direct launch dynamics.
-  - 资金 100.00 / 广度 85.95 / 确认 23.04 / 脆弱性 14.00
+- Alleged Pnut Meme Coin | Solana | 加速中 | 强度 86.51 | 质量 79.64
+  - 主题摘要：According to NarrativeDevor's post, a Meme image depicting squirrels is claimed to be perfectly suited for the name "Pnut," suggesting a potential association with the Pnut token.…
+  - 资金 100.00 / 广度 88.05 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SIGMAGOON Shares FOMO Foundation Transfer | Solana | 降温中 | 强度 80.56 | 质量 74.73
-  - 主题摘要：According to SIGMAGOON's post, the user transferred 1% of their holdings to the FOMO Foundation wallet. This action aligns with a tradition described in a quoted tweet, where user…
-  - 资金 98.00 / 广度 82.24 / 确认 9.36 / 脆弱性 24.00
+- Organoid brAIn | Solana | 降温中 | 强度 85.65 | 质量 73.17
+  - 主题摘要：BRAINOID token draws inspiration from the concept of organoids, which are three-dimensional tissue-like structures grown in the lab. The logo features a cartoon brain with a surpr…
+  - 资金 100.00 / 广度 77.04 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Flap Stock Meme Rewards | BSC | 已确认 | 强度 80.31 | 质量 83.40
-  - 主题摘要：According to Cedric 🦋's post, Flap Stock Meme traders allegedly received $7,975,779 in bStock rewards within two weeks. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 95.30 / 确认 30.96 / 脆弱性 38.61
+- United States Oil Collective | Solana | 降温中 | 强度 84.86 | 质量 72.94
+  - 主题摘要：USOC (United States Oil Collective) token draws inspiration from the concept of a national oil reserve for future generations. The logo features a silhouette against a cityscape b…
+  - 资金 100.00 / 广度 76.27 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Flap bBroker Vault Launch | BSC | 已确认 | 强度 82.82 | 质量 82.72
+  - 主题摘要：According to Flap 🦋's post, the Flap bBroker Vault on BNB Chain, powered by bstocksfinance, allows users to mint NFTs using tax tokens. These NFTs generate passive dividends from…
+  - 资金 100.00 / 广度 92.49 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Yi He: Pay with Binance | BSC | 已确认 | 强度 79.44 | 质量 79.23
+- alon Mentions Pump.fun App | Solana | 加速中 | 强度 82.78 | 质量 81.63
+  - 主题摘要：According to alon's post, the user stated that the content was sent from the Pumpfun App. The post references a discussion regarding 'the great onboarding' in the context of the a…
+  - 资金 100.00 / 广度 91.95 / 确认 27.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- grubbyhat Launches Callout Arena | Solana | 加速中 | 强度 82.48 | 质量 76.92
+  - 主题摘要：According to grubbyhat's post, grubbyhat launched Callout Arena, an automated trading system on Solana comparing Pump and Fomo platforms. Two wallets trade top callers' positions,…
+  - 资金 100.00 / 广度 81.56 / 确认 20.24 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He Claims 'Binance Has It All' | BSC | 已确认 | 强度 81.40 | 质量 82.72
+  - 主题摘要：Binance CEO Yi He responded to a viral Chinese crypto meme claiming 'Binance has everything.' Her engagement turned a casual joke into a community narrative about Binance's expand…
+  - 资金 100.00 / 广度 92.09 / 确认 38.88 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Yi He: Pay with Binance | BSC | 已确认 | 强度 78.26 | 质量 77.91
   - 主题摘要：Binance联合创始人何一在回应另一位开发者在不丹旅行受阻的推文时，幽默地建议直接使用Binance Pay进行支付。这一互动结合了名人效应与实用功能推广，展现了币安生态的便捷性。
-  - 资金 100.00 / 广度 94.94 / 确认 30.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.89 / 确认 30.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Grog Flugman Comments on FOMO | Solana | 降温中 | 强度 78.87 | 质量 71.99
-  - 主题摘要：Multiple tokens named 「FOMO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 97.62 / 广度 82.24 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- se Clarifies FOMO 2026 Token Name | Solana | 降温中 | 强度 78.41 | 质量 71.58
-  - 主题摘要：Multiple tokens named 「FOMO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 96.31 / 广度 81.14 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 85.11，其中已确认叙事 7 个。
-- Binance Character Growth 正在向主线升级: BSC 上该叙事处于“强化”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 85.6，其中已确认叙事 6 个。
+- Ansem 🐂🀄️ Discusses COINING Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - USWR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Digital Optimus | 质量 87.35 | 可交易性 100.00 | 风险 低
 - Binance Character Growth | 质量 87.35 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Suggests GME Issue Utility Token | 质量 85.40 | 可交易性 100.00 | 风险 低
-- Yi He Claims 'Binance Has It All' | 质量 83.94 | 可交易性 100.00 | 风险 低
-- Alleged Flap Stock Meme Rewards | 质量 83.40 | 可交易性 100.00 | 风险 低
-- alon Mentions Pump.fun App | 质量 82.73 | 可交易性 100.00 | 风险 低
+- Digital Optimus | 质量 87.35 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Suggests GME Issue Utility Token | 质量 85.46 | 可交易性 100.00 | 风险 低
+- Ansem 🐂🀄️ Discusses COINING Token | 质量 83.64 | 可交易性 100.00 | 风险 低
 - Flap bBroker Vault Launch | 质量 82.72 | 可交易性 100.00 | 风险 低
+- Yi He Claims 'Binance Has It All' | 质量 82.72 | 可交易性 100.00 | 风险 低
+- alon Mentions Pump.fun App | 质量 81.63 | 可交易性 100.00 | 风险 低
 - USWR | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Yi He: Pay with Binance | 质量 79.23 | 可交易性 100.00 | 风险 低
-- OG Posts GME Meme Image | 质量 78.83 | 可交易性 100.00 | 风险 低
+- Alleged Pnut Meme Coin | 质量 79.64 | 可交易性 100.00 | 风险 低
+- Yi He: Pay with Binance | 质量 77.91 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- SIGMAGOON Shares FOMO Foundation Transfer | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Grog Flugman Comments on FOMO | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- se Clarifies FOMO 2026 Token Name | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- utility | BSC | 看多 | 新鲜度 100.00 | Digital Optimus / Binance Character Growth / Uncertain:CZ Suggests GME Issue Utility Token
+- utility | BSC | 看多 | 新鲜度 100.00 | Binance Character Growth / Digital Optimus / Uncertain:CZ Suggests GME Issue Utility Token
 - FlapBuddy | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bBroker | BSC | 看多 | 新鲜度 100.00 | Flap bBroker Vault Launch
-- GME | BSC | 看多 | 新鲜度 100.00 | Digital Optimus / Binance Character Growth / Uncertain:CZ Suggests GME Issue Utility Token
+- GME | BSC | 看多 | 新鲜度 100.00 | Binance Character Growth / Digital Optimus / Uncertain:CZ Suggests GME Issue Utility Token
 - GME | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BOT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Niles | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -135,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Digital Optimus（BSC，分数 92.77）
+1. 当前最强叙事：Binance Character Growth（BSC，分数 91.81）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：Binance Character Growth 当前为“强化”
+3. 记忆层变化：Ansem 🐂🀄️ Discusses COINING Token 当前为“新出现”
 4. 最新官方催化：Binance Expands Tokenized Securities Access with bStocks
 #Binance #NarrativeOS #OpenClaw
