@@ -1,81 +1,82 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-13T18:32:57.757059+00:00
+- 生成时间：2026-08-13T19:40:37.314816+00:00
 - 跟踪叙事：14
-- 已确认叙事：6
+- 已确认叙事：5
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance Character Growth，所在链为 BSC，叙事强度 92.4。
-- 当前平均叙事强度为 86.44，其中已确认叙事 5 个。
+- 当前最强叙事是 Binance Character Growth，所在链为 BSC，叙事强度 92.89。
+- 当前平均叙事强度为 88.1，其中已确认叙事 5 个。
 - 注意力与资金共振最强的代币是 BSTOCKS，来自 BSC，共振分数 100.0。
-- 记忆层显示 United Oil Trust Fund 当前处于“新出现”状态。
+- 记忆层显示 XTAL 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Rocket Bob Meme Image，伪叙事风险 40.99。
 - 最新官方催化来自 币安最新公告：Binance Expands Tokenized Securities Access with bStocks。
 
 ## 叙事雷达
 
-- Binance Character Growth | BSC | 已确认 | 强度 92.40 | 质量 87.35
+- Binance Character Growth | BSC | 已确认 | 强度 92.89 | 质量 87.35
   - 主题摘要：Binance official account posts about 'character development' with a link, likely referring to personal growth or project updates. The vague nature makes it difficult to create a s…
   - 资金 100.00 / 广度 100.00 / 确认 42.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Digital Optimus | BSC | 已确认 | 强度 92.38 | 质量 87.35
+- Digital Optimus | BSC | 已确认 | 强度 91.00 | 质量 87.35
   - 主题摘要：Elon Musk highlights the unique capabilities of Grok's 'Digital Optimus,' emphasizing its real-time video human emulation technology. This pushes the boundaries of AI interaction,…
-  - 资金 100.00 / 广度 100.00 / 确认 42.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 42.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:CZ Suggests GME Issue Utility Token | BSC | 已确认 | 强度 91.61 | 质量 86.55
+- Uncertain:CZ Suggests GME Issue Utility Token | BSC | 已确认 | 强度 90.40 | 质量 86.55
   - 主题摘要：According to CZ's post, he suggests that GameStop (GME) should issue a utility token on the blockchain, preferably on the BNB Smart Chain (BSC).
-  - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- United Oil Trust Fund | Solana | 降温中 | 强度 89.92 | 质量 80.06
+- Flap bBroker Vault Launch | BSC | 已确认 | 强度 88.58 | 质量 83.01
+  - 主题摘要：According to Flap 🦋's post, the Flap bBroker Vault on BNB Chain, powered by bstocksfinance, allows users to mint bBroker NFTs using tax tokens. The vault splits swap fees into div…
+  - 资金 100.00 / 广度 93.47 / 确认 31.68 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- United Oil Trust Fund | Solana | 降温中 | 强度 87.73 | 质量 80.06
   - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
+  - 资金 98.75 / 广度 100.00 / 确认 9.36 / 脆弱性 15.92
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USWR | Solana | 降温中 | 强度 89.32 | 质量 80.85
-  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 10.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- US Trust Fund | Solana | 降温中 | 强度 87.52 | 质量 76.19
-  - 主题摘要：Multiple tokens named 「USTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.11 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Rocket Bob | Solana | 加速中 | 强度 86.92 | 质量 80.95
-  - 主题摘要：Multiple tokens named 「BOB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.87 / 确认 24.48 / 脆弱性 14.00
+- XTAL | Solana | 加速中 | 强度 87.57 | 质量 76.18
+  - 主题摘要：Multiple tokens named 「XTAL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.15 / 确认 20.16 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ansem 🐂🀄️ Discusses COINING Token | Solana | 已确认 | 强度 86.00 | 质量 83.69
-  - 主题摘要：According to alon's post, the co-founder of Pump.fun expressed surprise regarding the onboarding of four specific users (@ottabag, @CookerFlips, @ilyunow, @sapphycrypto) to the Pu…
-  - 资金 100.00 / 广度 90.37 / 确认 39.00 / 脆弱性 24.00
+- Alleged Rocket Bob Meme | Solana | 降温中 | 强度 84.38 | 质量 74.37
+  - 主题摘要：According to Flavius Belisarius's post, the individual explains that 'BOB' refers to the movement of a Rocket PNG asset, specifically describing an animation where the figure bobs…
+  - 资金 100.00 / 广度 81.04 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Rocket Bob | Solana | 加速中 | 强度 84.21 | 质量 81.36
+  - 主题摘要：Multiple tokens named 「BOB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.25 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He Claims 'Binance Has It All' | BSC | 已确认 | 强度 84.16 | 质量 84.19
+  - 主题摘要：Binance CEO Yi He responded to a viral Chinese crypto meme claiming 'Binance has everything.' Her engagement turned a casual joke into a community narrative about Binance's expand…
+  - 资金 100.00 / 广度 92.12 / 确认 38.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Flap bBroker Vault Launch | BSC | 已确认 | 强度 85.27 | 质量 82.81
-  - 主题摘要：According to Flap 🦋's post, the Flap bBroker Vault on BNB Chain, powered by bstocksfinance, allows users to mint NFTs using tax tokens. These NFTs generate passive dividends from…
-  - 资金 100.00 / 广度 92.80 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged XST Meme Token Launch | Solana | 降温中 | 强度 83.72 | 质量 73.99
+- Alleged XST Meme Token Launch | Solana | 降温中 | 强度 83.67 | 质量 73.90
   - 主题摘要：According to XST's post, the author claims to be launching a Meme version of the XST token on pump.fun. This alleged project purportedly utilizes creator rewards to purchase NVIDI…
-  - 资金 100.00 / 广度 77.60 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.29 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Rocket Bob Meme Image | Solana | 降温中 | 强度 83.15 | 质量 75.62
+  - 主题摘要：According to The Quant's post, the user shared a Meme image referencing 'rocket bob' and provided a link to a pump.fun landing page. This action suggests the potential launch or p…
+  - 资金 100.00 / 广度 85.19 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Pump.fun $BOB Token | Solana | 降温中 | 强度 83.00 | 质量 72.03
+  - 主题摘要：According to asdfghdev's post, the official Pump.fun rocket is identified as $BOB, and the author questions why it has not yet been tokenized, urging for its creation. This inform…
+  - 资金 100.00 / 广度 81.02 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - United States Oil Collective | Solana | 降温中 | 强度 82.84 | 质量 71.90
   - 主题摘要：USOC (United States Oil Collective) token draws inspiration from the concept of a national oil reserve for future generations. The logo features a silhouette against a cityscape b…
   - 资金 100.00 / 广度 72.80 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Pnut Meme Coin | Solana | 加速中 | 强度 81.61 | 质量 79.72
-  - 主题摘要：According to NarrativeDevor's post, a Meme image depicting squirrels is claimed to be perfectly suited for the name "Pnut," suggesting a potential association with the Pnut token.…
-  - 资金 100.00 / 广度 88.30 / 确认 23.76 / 脆弱性 24.00
+- FlapBuddy | BSC | 加速中 | 强度 81.56 | 质量 69.40
+  - 主题摘要：According to Davianhox's post, the author emphasized the importance of using the correct name for the NFT. The post serves as a clarification or correction regarding the specific…
+  - 资金 100.00 / 广度 79.39 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He: No 9 to 5 | BSC | 加速中 | 强度 78.50 | 质量 77.42
-  - 主题摘要：Binance Co-CEO Yi He emphasizes that crypto markets operate continuously, contrasting with traditional 9-to-5 finance. This highlights the unique 24/7 nature of the industry.
-  - 资金 100.00 / 广度 89.08 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He: Pay with Binance | BSC | 已确认 | 强度 78.49 | 质量 77.92
-  - 主题摘要：Binance联合创始人何一在回应另一位开发者在不丹旅行受阻的推文时，幽默地建议直接使用Binance Pay进行支付。这一互动结合了名人效应与实用功能推广，展现了币安生态的便捷性。
-  - 资金 100.00 / 广度 95.06 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 86.44，其中已确认叙事 5 个。
-- Rocket Bob 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 88.1，其中已确认叙事 5 个。
+- XTAL 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - United Oil Trust Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
@@ -83,29 +84,30 @@
 - Binance Character Growth | 质量 87.35 | 可交易性 100.00 | 风险 低
 - Digital Optimus | 质量 87.35 | 可交易性 100.00 | 风险 低
 - Uncertain:CZ Suggests GME Issue Utility Token | 质量 86.55 | 可交易性 100.00 | 风险 低
-- Ansem 🐂🀄️ Discusses COINING Token | 质量 83.69 | 可交易性 100.00 | 风险 低
-- Flap bBroker Vault Launch | 质量 82.81 | 可交易性 100.00 | 风险 低
-- Rocket Bob | 质量 80.95 | 可交易性 100.00 | 风险 低
-- USWR | 质量 80.85 | 可交易性 100.00 | 风险 低
+- Yi He Claims 'Binance Has It All' | 质量 84.19 | 可交易性 100.00 | 风险 低
+- Flap bBroker Vault Launch | 质量 83.01 | 可交易性 100.00 | 风险 低
+- Rocket Bob | 质量 81.36 | 可交易性 100.00 | 风险 低
 - United Oil Trust Fund | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Alleged Pnut Meme Coin | 质量 79.72 | 可交易性 100.00 | 风险 低
-- Yi He: Pay with Binance | 质量 77.92 | 可交易性 100.00 | 风险 低
+- XTAL | 质量 76.18 | 可交易性 100.00 | 风险 低
+- Alleged Rocket Bob Meme Image | 质量 75.62 | 可交易性 100.00 | 风险 低
+- Alleged Rocket Bob Meme | 质量 74.37 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- Alleged Rocket Bob Meme Image | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - utility | BSC | 看多 | 新鲜度 100.00 | Binance Character Growth / Digital Optimus / Uncertain:CZ Suggests GME Issue Utility Token
-- FlapBuddy | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- FlapBuddy | BSC | 看多 | 新鲜度 100.00 | FlapBuddy
 - bBroker | BSC | 看多 | 新鲜度 100.00 | Flap bBroker Vault Launch
 - GME | BSC | 看多 | 新鲜度 100.00 | Binance Character Growth / Digital Optimus / Uncertain:CZ Suggests GME Issue Utility Token
 - GME | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BOT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BOB | Solana | 看多 | 新鲜度 100.00 | Rocket Bob
 - Niles | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RAPEDOG | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - K-HOME | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BOIÚNA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance Character Growth（BSC，分数 92.4）
+1. 当前最强叙事：Binance Character Growth（BSC，分数 92.89）
 2. 共振最强代币：BSTOCKS（BSC，共振 100.0）
-3. 记忆层变化：United Oil Trust Fund 当前为“新出现”
+3. 记忆层变化：XTAL 当前为“新出现”
 4. 最新官方催化：Binance Expands Tokenized Securities Access with bStocks
 #Binance #NarrativeOS #OpenClaw
