@@ -1,102 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-14T19:52:25.116182+00:00
+- 生成时间：2026-08-14T20:17:38.423333+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Launch of SEED ALPHA Token，所在链为 BSC，叙事强度 85.44。
-- 当前平均叙事强度为 80.11，其中已确认叙事 1 个。
+- 当前最强叙事是 Alleged Launch of SEED ALPHA Token，所在链为 BSC，叙事强度 85.0。
+- 当前平均叙事强度为 78.94，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 GMEB，来自 BSC，共振分数 100.0。
-- 记忆层显示 Bonkstrike 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Flying Tesla Roadster Meme，伪叙事风险 40.07。
+- 记忆层显示 Alleged Jimothy Meme Coin 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Mumu i Mentions Niu Lai Narrative，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)。
 
 ## 叙事雷达
 
-- Alleged Launch of SEED ALPHA Token | BSC | 已确认 | 强度 85.44 | 质量 82.93
+- Alleged Launch of SEED ALPHA Token | BSC | 已确认 | 强度 85.00 | 质量 82.92
   - 主题摘要：According to Flap 🦋's post, the project is allegedly launching a new token named Seed Alpha. The post suggests the token is in early stages and hints at upcoming availability on F…
-  - 资金 100.00 / 广度 93.21 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.17 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- HYPEX Shares GTA 6 Cover Art | Solana | 降温中 | 强度 83.68 | 质量 72.92
+- HYPEX Shares GTA 6 Cover Art | Solana | 降温中 | 强度 83.70 | 质量 72.95
   - 主题摘要：According to HYPEX's post, the official cover art for Grand Theft Auto VI was shared, with pre-orders scheduled to begin on June 25. The post highlights the game's release details…
-  - 资金 100.00 / 广度 79.37 / 确认 5.04 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.47 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bonkstrike | Solana | 降温中 | 强度 83.33 | 质量 74.63
-  - 主题摘要：Multiple tokens named 「BSTK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.89 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Flying Tesla Roadster Meme | Solana | 降温中 | 强度 82.98 | 质量 73.10
+- Alleged Flying Tesla Roadster Meme | Solana | 降温中 | 强度 82.53 | 质量 72.34
   - 主题摘要：According to Quant 💻's post, Elon Musk shared a Meme image regarding a flying Tesla Roadster, which Quant 💻 suggests has become a real topic. The post references a potential unvei…
-  - 资金 100.00 / 广度 81.55 / 确认 9.36 / 脆弱性 22.23
+  - 资金 100.00 / 广度 81.15 / 确认 9.36 / 脆弱性 22.23
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Sony New Mascot NEMU | Solana | 加速中 | 强度 82.78 | 质量 71.78
-  - 主题摘要：According to JNC's post, Sony is reportedly replacing its mascot with a stuffed plushie bear named Nemu from Japan. JNC predicts this item will become a major trend similar to Lab…
-  - 资金 100.00 / 广度 80.31 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Flying Tesla Roadster | Solana | 降温中 | 强度 81.85 | 质量 71.40
-  - 主题摘要：According to DogeDesigner's post, Tesla and Elon Musk are reportedly set to unveil a flying Roadster as soon as this month, based on a report by The Information. However, neither…
-  - 资金 100.00 / 广度 78.44 / 确认 9.36 / 脆弱性 22.23
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Tesla Flying Car Token | Solana | 降温中 | 强度 81.83 | 质量 71.40
+- Alleged Tesla Flying Car Token | Solana | 降温中 | 强度 81.93 | 质量 71.49
   - 主题摘要：According to Wall St Engine's post, Tesla plans to unveil a redesigned Roadster with SpaceX-assisted hovering capabilities. Concurrently, tokens such as TFC and FTR, named 'Tesla…
+  - 资金 100.00 / 广度 78.50 / 确认 9.36 / 脆弱性 22.23
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Flying Tesla Roadster | Solana | 降温中 | 强度 81.91 | 质量 71.49
+  - 主题摘要：According to DogeDesigner's post, Tesla and Elon Musk are reportedly set to unveil a flying Roadster as soon as this month, based on a report by The Information. However, neither…
+  - 资金 100.00 / 广度 78.49 / 确认 9.36 / 脆弱性 22.23
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Launch of FTR Token | Solana | 降温中 | 强度 81.90 | 质量 71.47
+  - 主题摘要：According to Coinbase Markets 🛡️'s post, the account questioned the relevance of a report regarding Tesla preparing to unveil a "flying" Roadster. This inquiry is associated with…
   - 资金 100.00 / 广度 78.45 / 确认 9.36 / 脆弱性 22.23
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of FTR Token | Solana | 降温中 | 强度 81.79 | 质量 71.39
-  - 主题摘要：According to Coinbase Markets 🛡️'s post, the account questioned the relevance of a report regarding Tesla preparing to unveil a "flying" Roadster. This inquiry is associated with…
-  - 资金 100.00 / 广度 78.41 / 确认 9.36 / 脆弱性 22.23
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Diamond Hands Definition | BSC | 加速中 | 强度 81.28 | 质量 78.15
-  - 主题摘要：Multiple tokens named 「HODL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.55 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 - SAOF | Solana | 降温中 | 强度 80.88 | 质量 69.84
   - 主题摘要：Multiple tokens named 「SAOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 65.95 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Flap bBroker Vault Launch | BSC | 加速中 | 强度 79.44 | 质量 75.77
+- Uncertain:Diamond Hands Definition | BSC | 加速中 | 强度 78.96 | 质量 78.08
+  - 主题摘要：Multiple tokens named 「HODL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.56 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Flap bBroker Vault Launch | BSC | 加速中 | 强度 78.58 | 质量 74.45
   - 主题摘要：According to Flap 🦋's post, the Flap bBroker Vault on BNB Chain, powered by bstocksfinance, allows users to mint NFTs using tax tokens. These NFTs generate passive dividends from…
-  - 资金 100.00 / 广度 89.32 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.10 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mumu i Mentions Niu Lai Narrative | BSC | 加速中 | 强度 79.33 | 质量 75.24
-  - 主题摘要：According to 木木i's post, the user highlights 'Niu Lai' as a dominant narrative in the current market, describing it as invincible. The post emphasizes the strength of this specifi…
-  - 资金 100.00 / 广度 79.09 / 确认 20.16 / 脆弱性 14.00
+- Alleged Sony New Mascot NEMU | Solana | 加速中 | 强度 78.14 | 质量 66.07
+  - 主题摘要：According to JNC's post, Sony is replacing its mascot with a stuffed plushie bear named Nemu from Japan. JNC claims this will become the next Labubu, driving demand for orders fro…
+  - 资金 100.00 / 广度 80.03 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 奶蛙 | BSC | 加速中 | 强度 77.63 | 质量 72.04
-  - 主题摘要：According to 奶蛙's post, the individual is launching the bBroker NFT on the FLAP platform, utilizing the $奶蛙 token. The mechanism involves burning tokens to mint NFTs, with swap fe…
-  - 资金 100.00 / 广度 78.78 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance on Gen Z Finance | BSC | 加速中 | 强度 77.51 | 质量 64.24
+- Binance on Gen Z Finance | BSC | 加速中 | 强度 77.70 | 质量 64.55
   - 主题摘要：Binance posted that every generation reshapes finance, stating that Gen Z is not merely adapting to the system but redefining their expectations from it.
-  - 资金 100.00 / 广度 79.70 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.76 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 奶蛙 | BSC | 加速中 | 强度 77.31 | 质量 72.07
+  - 主题摘要：According to 奶蛙's post, the individual is launching the bBroker NFT on the FLAP platform, utilizing the $奶蛙 token. The mechanism involves burning tokens to mint NFTs, with swap fe…
+  - 资金 100.00 / 广度 78.87 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Mumu i Mentions Niu Lai Narrative | BSC | 点火期 | 强度 76.10 | 质量 74.10
+  - 主题摘要：According to 木木i's post, the user highlights 'Niu Lai' as a dominant narrative in the current market, describing it as invincible. The post emphasizes the strength of this specifi…
+  - 资金 100.00 / 广度 79.12 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Jimothy Meme Coin | Solana | 降温中 | 强度 76.01 | 质量 61.72
+  - 主题摘要：According to Dudes Posting Their W’s's post, a raccoon named Jimothy with a rare congenital condition was mistaken for a chupacabra in Seattle. This incident has inspired the crea…
+  - 资金 100.00 / 广度 75.05 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.11，其中已确认叙事 1 个。
-- Alleged Sony New Mascot NEMU 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.94，其中已确认叙事 1 个。
 - HYPEX Shares GTA 6 Cover Art 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Launch of SEED ALPHA Token | 质量 82.93 | 可交易性 100.00 | 风险 低
-- Uncertain:Diamond Hands Definition | 质量 78.15 | 可交易性 100.00 | 风险 低
-- Flap bBroker Vault Launch | 质量 75.77 | 可交易性 100.00 | 风险 低
-- Mumu i Mentions Niu Lai Narrative | 质量 75.24 | 可交易性 96.93 | 风险 低
-- Bonkstrike | 质量 74.63 | 可交易性 100.00 | 风险 低
-- Alleged Flying Tesla Roadster Meme | 质量 73.10 | 可交易性 95.26 | 风险 低
-- HYPEX Shares GTA 6 Cover Art | 质量 72.92 | 可交易性 100.00 | 风险 低
-- 奶蛙 | 质量 72.04 | 可交易性 83.94 | 风险 低
-- Alleged Sony New Mascot NEMU | 质量 71.78 | 可交易性 81.02 | 风险 低
-- Alleged Flying Tesla Roadster | 质量 71.40 | 可交易性 92.69 | 风险 低
+- Alleged Launch of SEED ALPHA Token | 质量 82.92 | 可交易性 100.00 | 风险 低
+- Uncertain:Diamond Hands Definition | 质量 78.08 | 可交易性 99.75 | 风险 低
+- Flap bBroker Vault Launch | 质量 74.45 | 可交易性 100.00 | 风险 低
+- Mumu i Mentions Niu Lai Narrative | 质量 74.10 | 可交易性 95.72 | 风险 低
+- HYPEX Shares GTA 6 Cover Art | 质量 72.95 | 可交易性 100.00 | 风险 低
+- Alleged Flying Tesla Roadster Meme | 质量 72.34 | 可交易性 93.12 | 风险 低
+- 奶蛙 | 质量 72.07 | 可交易性 83.95 | 风险 低
+- Alleged Tesla Flying Car Token | 质量 71.49 | 可交易性 92.93 | 风险 低
+- Alleged Flying Tesla Roadster | 质量 71.49 | 可交易性 92.93 | 风险 低
+- Alleged Launch of FTR Token | 质量 71.47 | 可交易性 92.93 | 风险 低
 
 ## 伪叙事风险
 
+- Mumu i Mentions Niu Lai Narrative | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Jimothy Meme Coin | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - Alleged Flying Tesla Roadster Meme | 风险 40.07 | 原因：流动性偏薄、龙头筹码集中度偏高
-- Alleged Flying Tesla Roadster | 风险 40.07 | 原因：流动性偏薄、龙头筹码集中度偏高
 - Alleged Tesla Flying Car Token | 风险 40.07 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Alleged Flying Tesla Roadster | 风险 40.07 | 原因：流动性偏薄、龙头筹码集中度偏高
 - Alleged Launch of FTR Token | 风险 40.07 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
@@ -136,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Launch of SEED ALPHA Token（BSC，分数 85.44）
+1. 当前最强叙事：Alleged Launch of SEED ALPHA Token（BSC，分数 85.0）
 2. 共振最强代币：GMEB（BSC，共振 100.0）
-3. 记忆层变化：Bonkstrike 当前为“新出现”
+3. 记忆层变化：Alleged Jimothy Meme Coin 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)
 #Binance #NarrativeOS #OpenClaw
