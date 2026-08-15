@@ -1,100 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-15T15:53:26.192913+00:00
+- 生成时间：2026-08-15T16:07:39.677432+00:00
 - 跟踪叙事：14
 - 已确认叙事：4
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Mumu i Mentions Niu Lai Narrative，所在链为 BSC，叙事强度 92.55。
-- 当前平均叙事强度为 82.44，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Polina Shares Calico Cat Article 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Launch of The Nietzschean Dog Meme Image，伪叙事风险 47.79。
+- 当前最强叙事是 Mumu i Mentions Niu Lai Narrative，所在链为 BSC，叙事强度 92.06。
+- 当前平均叙事强度为 81.66，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 CETS，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged Solana AI Lifeform Charlie 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)。
 
 ## 叙事雷达
 
-- Mumu i Mentions Niu Lai Narrative | BSC | 已确认 | 强度 92.55 | 质量 85.76
+- Mumu i Mentions Niu Lai Narrative | BSC | 已确认 | 强度 92.06 | 质量 85.76
   - 主题摘要：According to 木木i's post, the user expressed a bullish sentiment regarding the 'Niu Lai' narrative, describing it as invincible. The post highlights a strong positive outlook on th…
   - 资金 100.00 / 广度 100.00 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Polina Shares Calico Cat Article | Solana | 已确认 | 强度 85.71 | 质量 84.90
-  - 主题摘要：According to Polina's post, she shared an article link related to the CALICO token. The post directs readers to external content for further details regarding this specific crypto…
-  - 资金 95.39 / 广度 99.76 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Launch of SEED ALPHA Token | BSC | 已确认 | 强度 85.29 | 质量 78.67
+- Alleged Launch of SEED ALPHA Token | BSC | 已确认 | 强度 86.57 | 质量 81.12
   - 主题摘要：According to Flap 🦋's post, the project is allegedly launching a new token named Seed Alpha. The post suggests the token is in early stages and hints at upcoming availability on F…
-  - 资金 100.00 / 广度 91.10 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.57 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged WOFL Meme Image | Solana | 降温中 | 强度 84.93 | 质量 74.43
+- Polina Shares Calico Cat Article | Solana | 已确认 | 强度 85.57 | 质量 84.89
+  - 主题摘要：According to Polina's post, she shared an article link related to the CALICO token. The post directs readers to external content for further details regarding this specific crypto…
+  - 资金 91.95 / 广度 99.74 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged WOFL Meme Image | Solana | 降温中 | 强度 84.94 | 质量 74.45
   - 主题摘要：According to Memers12's post, the author shares an OG pfp image associated with the 'Wofl' meme, claiming it was created on 4chan as a successor to Pepe. The post suggests Wofl sh…
-  - 资金 100.00 / 广度 86.26 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.30 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Luna the Lioness Viral Meme | Solana | 已确认 | 强度 84.84 | 质量 82.77
+- Luna the Lioness Viral Meme | Solana | 已确认 | 强度 84.76 | 质量 82.76
   - 主题摘要：According to Sir.Devorski's post, the user shared a link to an Instagram profile identified as 'Catsa', directing followers to check the bio for a name. The post does not mention…
-  - 资金 100.00 / 广度 95.30 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.28 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged PF Employee Token Launch | Solana | 降温中 | 强度 84.03 | 质量 73.17
+- Alleged PF Employee Token Launch | Solana | 降温中 | 强度 84.12 | 质量 73.30
   - 主题摘要：Multiple tokens named 「[|]」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.08 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.10 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: Bitcoin is Deflationary | BSC | 加速中 | 强度 83.73 | 质量 82.08
-  - 主题摘要：CZ tweets about Bitcoin's supply cap, noting that with 20.07 million mined and significant lost coins, Bitcoin acts as a deflationary asset. This aligns with traditional 'hard mon…
-  - 资金 100.00 / 广度 95.65 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- USWR | Solana | 降温中 | 强度 82.80 | 质量 71.39
+- USWR | Solana | 降温中 | 强度 82.80 | 质量 71.40
   - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.09 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 71.14 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of The Nietzschean Dog Meme Image | Solana | 点火期 | 强度 80.50 | 质量 76.11
-  - 主题摘要：According to The GeoRipper®20 MiniTrencher 🪚's post, a Meme image was shared depicting a dog named Apollo climbing the Great Pyramid, described as a Sisyphean narrative. This cont…
-  - 资金 100.00 / 广度 87.29 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Werner Herzog Documentary on Nuisance Animals | Solana | 降温中 | 强度 80.42 | 质量 68.88
+- CZ: Bitcoin is Deflationary | BSC | 加速中 | 强度 82.19 | 质量 82.08
+  - 主题摘要：CZ tweets about Bitcoin's supply cap, noting that with 20.07 million mined and significant lost coins, Bitcoin acts as a deflationary asset. This aligns with traditional 'hard mon…
+  - 资金 100.00 / 广度 95.66 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Solana AI Lifeform Charlie | Solana | 加速中 | 强度 80.56 | 质量 78.21
+  - 主题摘要：According to Nate's post, a Japanese researcher at Hokkaido University allegedly created the first AI lifeform on Solana, named Charlie, with a permanent identity and survival nee…
+  - 资金 100.00 / 广度 85.93 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Werner Herzog Documentary on Nuisance Animals | Solana | 加速中 | 强度 80.28 | 质量 70.26
   - 主题摘要：According to DarthMiaul's post, Werner Herzog is producing a documentary featuring an unnamed "Nuisance Bear" and comparing it to viral animals like Jimothy the Raccoon and Neil t…
-  - 资金 100.00 / 广度 81.50 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance bStocks Update | BSC | 加速中 | 强度 80.06 | 质量 76.27
-  - 主题摘要：Binance华语官方账号发布本周TradFi产品更新，重点介绍支持DTC转入转出及第三方代币化证券1:1转换bStocks的功能，旨在提升交易体验。
-  - 资金 100.00 / 广度 83.98 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.70 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Grok Bot Merchandise | Solana | 降温中 | 强度 77.51 | 质量 62.90
+- Alleged Grok Bot Merchandise | Solana | 降温中 | 强度 77.91 | 质量 63.77
   - 主题摘要：According to S.E. Robinson, Jr.'s post, the ElonChron shop is selling merchandise featuring a 'Grok Bot' design, including a t-shirt and cap. This content references the 'Grok Bot…
-  - 资金 100.00 / 广度 77.53 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.56 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance Wallet Domain Transfer | BSC | 加速中 | 强度 77.15 | 质量 75.61
-  - 主题摘要：Binance Wallet has updated its features to support transfers using domain names, enhancing transaction convenience. This functionality is now available on both the mobile App and…
-  - 资金 100.00 / 广度 86.34 / 确认 20.16 / 脆弱性 24.00
+- Binance bStocks Update | BSC | 加速中 | 强度 76.58 | 质量 76.10
+  - 主题摘要：Binance华语官方账号发布本周TradFi产品更新，重点介绍支持DTC转入转出及第三方代币化证券1:1转换bStocks的功能，旨在提升交易体验。
+  - 资金 92.24 / 广度 83.99 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He's Article Pick | BSC | 降温中 | 强度 75.88 | 质量 64.86
-  - 主题摘要：Binance联合创始人何一转发并推荐了一篇长文。由于缺乏具体的上下文、幽默元素或强烈的社区共鸣点，该内容较为平淡，难以独立形成具有广泛传播力的Meme叙事。
-  - 资金 100.00 / 广度 75.17 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Binance Wallet Domain Transfer | BSC | 加速中 | 强度 76.48 | 质量 74.62
+  - 主题摘要：Binance Wallet has updated its features to support transfers using domain names, enhancing transaction convenience. This functionality is now available on both the mobile App and…
+  - 资金 100.00 / 广度 86.21 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 不对劲 | BSC | 加速中 | 强度 76.08 | 质量 63.98
+  - 主题摘要：Multiple tokens named 「不对劲」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.66 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 82.44，其中已确认叙事 2 个。
-- Polina Shares Calico Cat Article 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 81.66，其中已确认叙事 2 个。
+- Alleged Solana AI Lifeform Charlie 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Alleged WOFL Meme Image 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Mumu i Mentions Niu Lai Narrative | 质量 85.76 | 可交易性 100.00 | 风险 低
-- Polina Shares Calico Cat Article | 质量 84.90 | 可交易性 100.00 | 风险 低
-- Luna the Lioness Viral Meme | 质量 82.77 | 可交易性 100.00 | 风险 低
+- Polina Shares Calico Cat Article | 质量 84.89 | 可交易性 100.00 | 风险 低
+- Luna the Lioness Viral Meme | 质量 82.76 | 可交易性 100.00 | 风险 低
 - CZ: Bitcoin is Deflationary | 质量 82.08 | 可交易性 100.00 | 风险 低
-- Alleged Launch of SEED ALPHA Token | 质量 78.67 | 可交易性 100.00 | 风险 低
-- Binance bStocks Update | 质量 76.27 | 可交易性 92.30 | 风险 低
-- Alleged Launch of The Nietzschean Dog Meme Image | 质量 76.11 | 可交易性 99.55 | 风险 低
-- Uncertain:Binance Wallet Domain Transfer | 质量 75.61 | 可交易性 97.54 | 风险 低
-- Alleged WOFL Meme Image | 质量 74.43 | 可交易性 92.35 | 风险 低
-- Alleged PF Employee Token Launch | 质量 73.17 | 可交易性 92.66 | 风险 低
+- Alleged Launch of SEED ALPHA Token | 质量 81.12 | 可交易性 100.00 | 风险 低
+- Alleged Solana AI Lifeform Charlie | 质量 78.21 | 可交易性 100.00 | 风险 低
+- Binance bStocks Update | 质量 76.10 | 可交易性 91.72 | 风险 低
+- Uncertain:Binance Wallet Domain Transfer | 质量 74.62 | 可交易性 96.82 | 风险 低
+- Alleged WOFL Meme Image | 质量 74.45 | 可交易性 92.35 | 风险 低
+- Alleged PF Employee Token Launch | 质量 73.30 | 可交易性 92.66 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Launch of The Nietzschean Dog Meme Image | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Mumu i Mentions Niu Lai Narrative（BSC，分数 92.55）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Polina Shares Calico Cat Article 当前为“新出现”
+1. 当前最强叙事：Mumu i Mentions Niu Lai Narrative（BSC，分数 92.06）
+2. 共振最强代币：CETS（BSC，共振 100.0）
+3. 记忆层变化：Alleged Solana AI Lifeform Charlie 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)
 #Binance #NarrativeOS #OpenClaw
