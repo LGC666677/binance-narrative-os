@@ -1,101 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-15T05:38:05.268833+00:00
+- 生成时间：2026-08-15T05:57:02.898018+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 TNOS，所在链为 Solana，叙事强度 86.99。
-- 当前平均叙事强度为 81.47，其中已确认叙事 0 个。
+- 当前最强叙事是 Mumu i Mentions Niu Lai Narrative，所在链为 BSC，叙事强度 87.52。
+- 当前平均叙事强度为 82.07，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 CETS，来自 BSC，共振分数 100.0。
-- 记忆层显示 Dior Discusses Lockin Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Xiaotu Meme Image Gains Traction，伪叙事风险 57.4。
+- 记忆层显示 Uncertain:Binance Wallet Domain Transfer 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Xiaotu Meme Image Gains Traction，伪叙事风险 57.41。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)。
 
 ## 叙事雷达
 
+- Mumu i Mentions Niu Lai Narrative | BSC | 加速中 | 强度 87.52 | 质量 78.98
+  - 主题摘要：According to 木木i's post, the user highlights 'Niu Lai' as a dominant narrative in the current market, describing it as invincible. The post emphasizes the strength of this specifi…
+  - 资金 100.00 / 广度 85.32 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 - TNOS | Solana | 降温中 | 强度 86.99 | 质量 79.98
   - 主题摘要：Multiple tokens named 「TNOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 99.75 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- El Sapo Pepe Origin | Solana | 降温中 | 强度 85.52 | 质量 75.67
-  - 主题摘要：According to Sharuk L'Meow 🦈🐱, 🐸's post, El Sapo Pepe is identified as the original toad that initiated the Pepe meme phenomenon. The post distinguishes this specific cultural ico…
-  - 资金 100.00 / 广度 85.38 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of SEED ALPHA Token | BSC | 已确认 | 强度 85.51 | 质量 82.92
+- Alleged Launch of SEED ALPHA Token | BSC | 已确认 | 强度 85.14 | 质量 82.93
   - 主题摘要：According to Flap 🦋's post, the project is allegedly launching a new token named SEED ALPHA. The post suggests the token is in an early, unnoticed stage, describing it as 'Seed Al…
-  - 资金 100.00 / 广度 93.17 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.20 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Mumu i Mentions Niu Lai Narrative | BSC | 加速中 | 强度 84.90 | 质量 79.29
-  - 主题摘要：According to 木木i's post, the user highlights 'Niu Lai' as a dominant narrative in the current market, describing it as invincible. The post emphasizes the strength of this specifi…
-  - 资金 100.00 / 广度 86.34 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Grok 4.6 Gauntlet | Solana | 加速中 | 强度 83.48 | 质量 77.14
-  - 主题摘要：Elon Musk's AI Grok 4.6 demonstrates its capability by building a shooter game in 48 hours, highlighting the rapid advancement of AI in content creation.
-  - 资金 100.00 / 广度 87.89 / 确认 20.16 / 脆弱性 14.00
+- Uncertain:Binance Wallet Domain Transfer | BSC | 加速中 | 强度 84.80 | 质量 78.87
+  - 主题摘要：Binance Wallet has updated its features to support transfers using domain names on ETH and BSC chains. This functionality is now available on both the mobile app and browser exten…
+  - 资金 100.00 / 广度 84.94 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 - World Water Reserve | Solana | 降温中 | 强度 82.84 | 质量 73.11
   - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.83 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.85 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Xiaotu Meme Image Gains Traction | Solana | 降温中 | 强度 81.01 | 质量 76.58
+- Uncertain:Diamond Hands Definition | BSC | 加速中 | 强度 81.39 | 质量 78.32
+  - 主题摘要：According to Binance India's post, the term 'Diamond Hands' refers to the ability to hold assets through extreme volatility without panic selling, contrasting with 'paper hands'.…
+  - 资金 100.00 / 广度 83.11 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Xiaotu Meme Image Gains Traction | Solana | 降温中 | 强度 81.04 | 质量 76.58
   - 主题摘要：According to castillo69 💹🧲's post, the Xiaotu character is trending on X and TikTok due to its distinctive hopping animation, which resembles a person going to school or work. The…
-  - 资金 100.00 / 广度 88.41 / 确认 9.36 / 脆弱性 55.56
+  - 资金 100.00 / 广度 88.41 / 确认 9.36 / 脆弱性 55.57
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Trading Culture Trend | Solana | 降温中 | 强度 80.20 | 质量 67.59
   - 主题摘要：According to gettindevvy_'s post, the author observes that trading is becoming a popular and 'cool' pursuit, noting that even rappers aspire to be traders. This highlights a cultu…
   - 资金 100.00 / 广度 87.38 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Diamond Hands Definition | BSC | 加速中 | 强度 80.00 | 质量 78.32
-  - 主题摘要：According to Binance India's post, the term 'Diamond Hands' refers to the ability to hold assets through extreme volatility without panic selling, contrasting with 'paper hands'.…
-  - 资金 100.00 / 广度 83.10 / 确认 24.48 / 脆弱性 24.00
+- Grok 4.6 Gauntlet | Solana | 加速中 | 强度 80.01 | 质量 79.34
+  - 主题摘要：Elon Musk's AI Grok 4.6 demonstrates its capability by building a shooter game in 48 hours, highlighting the rapid advancement of AI in content creation.
+  - 资金 100.00 / 广度 89.69 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dior Discusses Lockin Token | Solana | 降温中 | 强度 76.52 | 质量 67.31
-  - 主题摘要：According to Dior's post, the Lockin token is identified as one of the best coins ever deployed. Dior highlights it as a significant early call, noting its price appreciation from…
-  - 资金 100.00 / 广度 57.49 / 确认 9.36 / 脆弱性 25.33
+- ChillFindooor Comments on .bitcoin Domain | BSC | 加速中 | 强度 79.25 | 质量 68.39
+  - 主题摘要：According to ChillFindooor's post, the operator of Mempool.Space is securing the .bitcoin top-level domain for the Bitcoin community. ChillFindooor describes this initiative as a…
+  - 资金 100.00 / 广度 73.55 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- El Sapo Pepe Origin | Solana | 点火期 | 强度 77.10 | 质量 77.16
+  - 主题摘要：According to intelligent dog's post, the user shared a link to a tweet by Elon Musk accompanied by a laughing emoji. The post serves as a reaction or commentary on the referenced…
+  - 资金 100.00 / 广度 90.34 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- собака | Solana | 降温中 | 强度 76.95 | 质量 71.13
+  - 主题摘要：Multiple tokens named 「sovietdog」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.95 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Tamara Giglio Analyzes Niu Lai Meme | BSC | 加速中 | 强度 76.44 | 质量 64.35
-  - 主题摘要：According to 神灵🔥dev's post, the user discusses the viral "Niu Lai" (Bull Come) internet meme, which is phonetically associated with "semiconductor" (Ban Dao Ti). The post highligh…
-  - 资金 100.00 / 广度 73.67 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- creb | Solana | 降温中 | 强度 75.20 | 质量 65.72
+- creb | Solana | 降温中 | 强度 75.19 | 质量 65.89
   - 主题摘要：creb is a community-driven token inspired by the concept of 'creativity' in the crypto space. It aims to foster innovation through decentralized collaboration, with a focus on sup…
-  - 资金 92.35 / 广度 63.02 / 确认 16.56 / 脆弱性 24.00
+  - 资金 92.53 / 广度 62.95 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 不对劲 | BSC | 加速中 | 强度 74.73 | 质量 65.27
+- 不对劲 | BSC | 加速中 | 强度 74.32 | 质量 65.20
   - 主题摘要：Multiple tokens named 「不对劲」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 80.98 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:danny Posts Binance Ambition Meme | BSC | 加速中 | 强度 73.39 | 质量 64.45
-  - 主题摘要：According to danny's post, the user shared a Meme image titled "Binance Ambition" (Binance之野望). The content reflects a specific perspective or sentiment within the community regar…
-  - 资金 100.00 / 广度 77.19 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.47，其中已确认叙事 0 个。
-- Tamara Giglio Analyzes Niu Lai Meme 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 82.07，其中已确认叙事 1 个。
+- Uncertain:Binance Wallet Domain Transfer 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - TNOS 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Launch of SEED ALPHA Token | 质量 82.92 | 可交易性 100.00 | 风险 低
+- Alleged Launch of SEED ALPHA Token | 质量 82.93 | 可交易性 100.00 | 风险 低
 - TNOS | 质量 79.98 | 可交易性 100.00 | 风险 低
-- Mumu i Mentions Niu Lai Narrative | 质量 79.29 | 可交易性 100.00 | 风险 低
+- Grok 4.6 Gauntlet | 质量 79.34 | 可交易性 100.00 | 风险 低
+- Mumu i Mentions Niu Lai Narrative | 质量 78.98 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance Wallet Domain Transfer | 质量 78.87 | 可交易性 100.00 | 风险 低
 - Uncertain:Diamond Hands Definition | 质量 78.32 | 可交易性 100.00 | 风险 低
-- Grok 4.6 Gauntlet | 质量 77.14 | 可交易性 94.47 | 风险 低
+- El Sapo Pepe Origin | 质量 77.16 | 可交易性 100.00 | 风险 低
 - Xiaotu Meme Image Gains Traction | 质量 76.58 | 可交易性 100.00 | 风险 低
-- El Sapo Pepe Origin | 质量 75.67 | 可交易性 100.00 | 风险 低
 - World Water Reserve | 质量 73.11 | 可交易性 100.00 | 风险 低
-- Trading Culture Trend | 质量 67.59 | 可交易性 93.46 | 风险 低
-- Dior Discusses Lockin Token | 质量 67.31 | 可交易性 100.00 | 风险 低
+- собака | 质量 71.13 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Xiaotu Meme Image Gains Traction | 风险 57.40 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
-- Dior Discusses Lockin Token | 风险 41.68 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Xiaotu Meme Image Gains Traction | 风险 57.41 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
+- El Sapo Pepe Origin | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- creb | 风险 41.36 | 原因：流动性偏薄、近 1 小时净流入转负
 - TNOS | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -135,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：TNOS（Solana，分数 86.99）
+1. 当前最强叙事：Mumu i Mentions Niu Lai Narrative（BSC，分数 87.52）
 2. 共振最强代币：CETS（BSC，共振 100.0）
-3. 记忆层变化：Dior Discusses Lockin Token 当前为“新出现”
+3. 记忆层变化：Uncertain:Binance Wallet Domain Transfer 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)
 #Binance #NarrativeOS #OpenClaw
