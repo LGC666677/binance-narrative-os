@@ -1,54 +1,50 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-15T21:53:03.931650+00:00
+- 生成时间：2026-08-15T22:04:19.283846+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Mumu i Mentions Niu Lai Narrative，所在链为 BSC，叙事强度 91.95。
-- 当前平均叙事强度为 81.37，其中已确认叙事 1 个。
+- 当前最强叙事是 Mumu i Mentions Niu Lai Narrative，所在链为 BSC，叙事强度 92.9。
+- 当前平均叙事强度为 80.37，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Cloutcat Meme 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Gunicorn，伪叙事风险 56.24。
+- 记忆层显示 Yi He's Article Pick 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Gunicorn，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)。
 
 ## 叙事雷达
 
-- Mumu i Mentions Niu Lai Narrative | BSC | 已确认 | 强度 91.95 | 质量 86.55
+- Mumu i Mentions Niu Lai Narrative | BSC | 已确认 | 强度 92.90 | 质量 86.55
   - 主题摘要：According to 木木i's post, the user expressed a bullish sentiment towards the 'Niu Lai' narrative, describing it as invincible. The post highlights a strong positive outlook on this…
-  - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 24.00
+  - 资金 100.00 / 广度 100.00 / 确认 38.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- XTAL | Solana | 降温中 | 强度 87.57 | 质量 76.27
+- XTAL | Solana | 降温中 | 强度 85.98 | 质量 73.84
   - 主题摘要：Multiple tokens named 「XTAL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.37 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 87.44 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Niu Lai Meme Image | Solana | 降温中 | 强度 85.30 | 质量 76.00
+- Alleged Niu Lai Meme Image | Solana | 降温中 | 强度 85.32 | 质量 76.00
   - 主题摘要：According to esoteric's post, the Niu Lai token on BNB Chain is alleged to have reached a market cap of 15 million. The author claims it has not been properly promoted on Solana a…
   - 资金 100.00 / 广度 86.47 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - CZ & FrankDeGods: Already Done? | BSC | 降温中 | 强度 85.06 | 质量 78.31
   - 主题摘要：Binance CEO CZ humorously replies to NFT artist FrankDeGods, implying that his support for the project or community is something he has already done, creating a playful meme narra…
-  - 资金 100.00 / 广度 91.53 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.54 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Gunna Wif Kimchi Meme | Solana | 降温中 | 强度 83.07 | 质量 73.62
-  - 主题摘要：According to NarrativeDevor's post, the 'Gunna Wif Kimchi' Meme is trending on X, driven by a real Instagram story featuring rapper Gunna and memecoin trader Genny. The post claim…
-  - 资金 100.00 / 广度 78.53 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Gunicorn | Solana | 降温中 | 强度 82.95 | 质量 80.02
-  - 主题摘要：According to Dr.Doofinsmurtz's post, the developer funding wallet for the GUNICORN token allegedly sent SOL to a GitHub address seven days ago to claim a farm. The author urges ve…
-  - 资金 100.00 / 广度 99.12 / 确认 12.96 / 脆弱性 58.87
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: Bitcoin is Deflationary | BSC | 加速中 | 强度 82.84 | 质量 82.11
+- CZ: Bitcoin is Deflationary | BSC | 加速中 | 强度 82.56 | 质量 82.11
   - 主题摘要：CZ tweets about Bitcoin's supply cap, noting that with 20.07 million mined and significant lost coins, Bitcoin acts as a deflationary asset. This aligns with traditional 'hard mon…
   - 资金 100.00 / 广度 95.76 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance bStocks Update | BSC | 加速中 | 强度 79.14 | 质量 76.37
+- Gunicorn | Solana | 点火期 | 强度 81.38 | 质量 80.63
+  - 主题摘要：According to Dr.Doofinsmurtz's post, the developer funding wallet for the GUNICORN token allegedly sent SOL to a GitHub address seven days ago to claim a farm. The author urges ve…
+  - 资金 100.00 / 广度 99.26 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance bStocks Update | BSC | 加速中 | 强度 78.75 | 质量 76.28
   - 主题摘要：Binance华语官方账号发布本周TradFi产品更新，重点介绍支持DTC转入转出及第三方代币化证券1:1转换bStocks的功能，旨在提升交易体验。
-  - 资金 100.00 / 广度 84.21 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.22 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Michael Saylor Shares Bitcoin Article | BSC | 加速中 | 强度 78.37 | 质量 76.18
+- Michael Saylor Shares Bitcoin Article | BSC | 加速中 | 强度 78.40 | 质量 76.21
   - 主题摘要：According to Michael Saylor's post, he shared a link to an article hosted on X. The post does not contain specific textual commentary or analysis within the tweet body itself, ser…
   - 资金 100.00 / 广度 87.06 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
@@ -56,45 +52,48 @@
   - 主题摘要：According to PurpleBull's post, a token named John is allegedly launched, leveraging a viral TikTok dog video. The post claims the creator fees support the token and directs users…
   - 资金 100.00 / 广度 85.66 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of SEED ALPHA Token | BSC | 加速中 | 强度 77.58 | 质量 75.48
+- Alleged Launch of SEED ALPHA Token | BSC | 加速中 | 强度 77.25 | 质量 74.82
   - 主题摘要：According to Flap 🦋's post, the project is allegedly launching a new token named Seed Alpha. The post suggests the token is in early stages and hints at upcoming availability on t…
-  - 资金 100.00 / 广度 88.86 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.83 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- StonkMarket | Solana | 降温中 | 强度 75.11 | 质量 60.14
+- StonkMarket | Solana | 降温中 | 强度 75.12 | 质量 60.17
   - 主题摘要：Multiple tokens named 「STONK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.23 / 确认 9.36 / 脆弱性 17.12
+  - 资金 100.00 / 广度 73.25 / 确认 9.36 / 脆弱性 17.12
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance Wallet Domain Transfer | BSC | 加速中 | 强度 74.67 | 质量 72.19
+- Uncertain:Binance Wallet Domain Transfer | BSC | 加速中 | 强度 74.65 | 质量 72.17
   - 主题摘要：Binance Wallet has updated its features to support transfers using domain names, enhancing transaction convenience. This functionality is now available on both the mobile App and…
   - 资金 100.00 / 广度 86.02 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Cloutcat Meme | Solana | 点火期 | 强度 73.40 | 质量 66.48
+- Yi He's Article Pick | BSC | 降温中 | 强度 73.39 | 质量 60.20
+  - 主题摘要：Binance联合创始人何一转发并推荐了一篇长文。由于缺乏具体的上下文、幽默元素或强烈的社区共鸣点，该内容较为平淡，难以独立形成具有广泛传播力的Meme叙事。
+  - 资金 100.00 / 广度 75.21 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Cloutcat Meme | Solana | 点火期 | 强度 73.09 | 质量 66.02
   - 主题摘要：According to Sir.Devorski's post, the author claims to have identified a new cat-themed Meme image for the Pump platform, citing its high view count and comparison to other popula…
   - 资金 100.00 / 广度 89.88 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 81.37，其中已确认叙事 1 个。
-- Alleged Cloutcat Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.37，其中已确认叙事 1 个。
 - XTAL 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Mumu i Mentions Niu Lai Narrative | 质量 86.55 | 可交易性 100.00 | 风险 低
 - CZ: Bitcoin is Deflationary | 质量 82.11 | 可交易性 100.00 | 风险 低
-- Gunicorn | 质量 80.02 | 可交易性 98.10 | 风险 低
+- Gunicorn | 质量 80.63 | 可交易性 100.00 | 风险 低
 - CZ & FrankDeGods: Already Done? | 质量 78.31 | 可交易性 100.00 | 风险 低
-- Binance bStocks Update | 质量 76.37 | 可交易性 92.40 | 风险 低
-- XTAL | 质量 76.27 | 可交易性 100.00 | 风险 低
-- Michael Saylor Shares Bitcoin Article | 质量 76.18 | 可交易性 97.59 | 风险 低
+- Binance bStocks Update | 质量 76.28 | 可交易性 92.11 | 风险 低
+- Michael Saylor Shares Bitcoin Article | 质量 76.21 | 可交易性 97.59 | 风险 低
 - Alleged Niu Lai Meme Image | 质量 76.00 | 可交易性 100.00 | 风险 低
-- Alleged Launch of SEED ALPHA Token | 质量 75.48 | 可交易性 100.00 | 风险 低
-- Alleged Gunna Wif Kimchi Meme | 质量 73.62 | 可交易性 100.00 | 风险 低
+- Alleged Launch of SEED ALPHA Token | 质量 74.82 | 可交易性 100.00 | 风险 低
+- XTAL | 质量 73.84 | 可交易性 94.99 | 风险 低
+- Uncertain:Binance Wallet Domain Transfer | 质量 72.17 | 可交易性 96.02 | 风险 低
 
 ## 伪叙事风险
 
-- Gunicorn | 风险 56.24 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Gunicorn | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
 - Alleged Cloutcat Meme | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Mumu i Mentions Niu Lai Narrative（BSC，分数 91.95）
+1. 当前最强叙事：Mumu i Mentions Niu Lai Narrative（BSC，分数 92.9）
 2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Alleged Cloutcat Meme 当前为“新出现”
+3. 记忆层变化：Yi He's Article Pick 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)
 #Binance #NarrativeOS #OpenClaw
