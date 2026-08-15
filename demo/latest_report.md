@@ -1,96 +1,96 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-15T23:31:08.110192+00:00
+- 生成时间：2026-08-15T23:53:06.389375+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 CZ & FrankDeGods: Already Done?，所在链为 BSC，叙事强度 87.92。
-- 当前平均叙事强度为 80.04，其中已确认叙事 0 个。
+- 当前最强叙事是 XTAL，所在链为 Solana，叙事强度 88.84。
+- 当前平均叙事强度为 80.21，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 TBB，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Bull Stock Meme Image 当前处于“新出现”状态。
+- 记忆层显示 Binance bStocks Update 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Gunicorn，伪叙事风险 44.91。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)。
 
 ## 叙事雷达
 
-- CZ & FrankDeGods: Already Done? | BSC | 加速中 | 强度 87.92 | 质量 82.55
-  - 主题摘要：Binance CEO CZ humorously replies to NFT artist FrankDeGods, implying that his support for the project or community is something he has already done, creating a playful meme narra…
-  - 资金 100.00 / 广度 97.74 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- XTAL | Solana | 降温中 | 强度 87.75 | 质量 76.56
+- XTAL | Solana | 降温中 | 强度 88.84 | 质量 78.33
   - 主题摘要：Multiple tokens named 「XTAL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.35 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 94.23 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ & FrankDeGods: Already Done? | BSC | 加速中 | 强度 88.02 | 质量 82.63
+  - 主题摘要：Binance CEO CZ humorously replies to NFT artist FrankDeGods, implying that his support for the project or community is something he has already done, creating a playful meme narra…
+  - 资金 100.00 / 广度 98.01 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 - United Oil Trust Fund | Solana | 降温中 | 强度 86.04 | 质量 76.51
   - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 88.16 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Bull Stock Meme Image | BSC | 加速中 | 强度 82.44 | 质量 79.59
-  - 主题摘要：According to 我肯定会发财！'s post, the user shared an image labeled as a 'Meme图' referring to '牛股' (Bull Stock). The post characterizes this subject as a 'true bull stock'. This informa…
-  - 资金 100.00 / 广度 87.88 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of Meme Image 'Niu Lai' | BSC | 降温中 | 强度 82.36 | 质量 74.86
-  - 主题摘要：According to 噎 🔶BNB's post, the user claims to have launched a Meme image titled 'Niu Lai' (Bull Come), described as a domestic animated film from 2026. The post characterizes thi…
-  - 资金 100.00 / 广度 81.64 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: Bitcoin is Deflationary | BSC | 加速中 | 强度 82.12 | 质量 82.10
+- CZ: Bitcoin is Deflationary | BSC | 加速中 | 强度 83.50 | 质量 82.10
   - 主题摘要：CZ tweets about Bitcoin's supply cap, noting that with 20.07 million mined and significant lost coins, Bitcoin acts as a deflationary asset. This aligns with traditional 'hard mon…
-  - 资金 100.00 / 广度 95.71 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 95.71 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Gunicorn | Solana | 点火期 | 强度 78.25 | 质量 73.04
-  - 主题摘要：According to Dr.Doofinsmurtz's post, the developer funding wallet for the GUNICORN token transferred SOL to a GitHub address seven days prior to claim a farm. The author warns of…
-  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged John Meme Image Release | Solana | 降温中 | 强度 77.71 | 质量 63.29
-  - 主题摘要：According to PurpleBull's post, a token named John is allegedly launched, leveraging a viral TikTok dog video. The post claims the creator fees support the token and directs users…
-  - 资金 100.00 / 广度 85.67 / 确认 9.36 / 脆弱性 14.00
+- Alleged Bull Stock Meme Image | BSC | 加速中 | 强度 82.63 | 质量 79.60
+  - 主题摘要：According to 我肯定会发财！'s post, the user shared an image labeled as a 'Meme图' referring to '牛股' (Bull Stock). The post characterizes this subject as a 'true bull stock'. This informa…
+  - 资金 100.00 / 广度 87.90 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of Meme Image 'Niu Lai' | BSC | 降温中 | 强度 82.56 | 质量 75.03
+  - 主题摘要：According to 噎 🔶BNB's post, the user claims to have launched a Meme image titled 'Niu Lai' (Bull Come), described as a domestic animated film from 2026. The post characterizes thi…
+  - 资金 100.00 / 广度 82.20 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Michael Saylor Shares Bitcoin Article | BSC | 加速中 | 强度 77.08 | 质量 74.55
-  - 主题摘要：According to Michael Saylor's post, he shared a link to an article hosted on X. The post does not contain specific textual commentary or analysis within the tweet body itself, ser…
-  - 资金 100.00 / 广度 87.06 / 确认 27.36 / 脆弱性 14.00
+- Gunicorn | Solana | 点火期 | 强度 82.05 | 质量 80.09
+  - 主题摘要：According to Dr.Doofinsmurtz's post, the developer funding wallet for the GUNICORN token transferred SOL to a GitHub address seven days prior to claim a farm. The author warns of…
+  - 资金 100.00 / 广度 99.39 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance bStocks Update | BSC | 加速中 | 强度 79.64 | 质量 76.20
+  - 主题摘要：Binance华语官方账号发布本周TradFi产品更新，重点介绍支持DTC转入转出及第三方代币化证券1:1转换bStocks的功能，旨在提升交易体验。
+  - 资金 100.00 / 广度 84.26 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He's Article Pick | BSC | 降温中 | 强度 76.46 | 质量 63.77
+- Yi He's Article Pick | BSC | 降温中 | 强度 77.49 | 质量 63.87
   - 主题摘要：Binance联合创始人何一转发并推荐了一篇长文。由于缺乏具体的上下文、幽默元素或强烈的社区共鸣点，该内容较为平淡，难以独立形成具有广泛传播力的Meme叙事。
   - 资金 100.00 / 广度 75.22 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance Wallet Domain Transfer | BSC | 加速中 | 强度 76.02 | 质量 72.23
-  - 主题摘要：Binance Wallet has updated its features to support transfers using domain names, enhancing transaction convenience. This functionality is now available on both the mobile App and…
-  - 资金 100.00 / 广度 86.03 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 豹拉 | BSC | 加速中 | 强度 75.91 | 质量 68.00
+- 豹拉 | BSC | 加速中 | 强度 77.46 | 质量 68.06
   - 主题摘要：Multiple tokens named 「豹拉」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.45 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.46 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- StonkMarket | Solana | 降温中 | 强度 75.19 | 质量 60.27
-  - 主题摘要：Multiple tokens named 「STONK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.27 / 确认 9.36 / 脆弱性 17.12
+- Uncertain:Binance Wallet Domain Transfer | BSC | 加速中 | 强度 76.55 | 质量 72.84
+  - 主题摘要：Binance Wallet has updated its features to support transfers using domain names, enhancing transaction convenience. This functionality is now available on both the mobile App and…
+  - 资金 100.00 / 广度 86.04 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged John Meme Image Release | Solana | 降温中 | 强度 75.71 | 质量 60.39
+  - 主题摘要：According to PurpleBull's post, a token named John is allegedly launched, leveraging a viral TikTok dog video. The post claims the creator fees support the dog and directs users t…
+  - 资金 100.00 / 广度 87.12 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Duus dot fuun | Solana | 降温中 | 强度 73.99 | 质量 58.20
-  - 主题摘要：According to Shaw (spirit/acc)'s post, the author shared a link to an X Article containing Meme content. The post reflects the author's self-described persona of engaging in shitp…
-  - 资金 100.00 / 广度 71.22 / 确认 9.36 / 脆弱性 14.00
+- StonkMarket | Solana | 降温中 | 强度 75.20 | 质量 60.29
+  - 主题摘要：Multiple tokens named 「STONK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.27 / 确认 9.36 / 脆弱性 17.14
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Pumpfun Dealer | Solana | 降温中 | 强度 73.45 | 质量 59.61
+  - 主题摘要：Multiple tokens named 「Dealer」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 97.57 / 广度 71.53 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.04，其中已确认叙事 0 个。
-- Alleged Bull Stock Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.21，其中已确认叙事 0 个。
+- Binance bStocks Update 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - XTAL 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ & FrankDeGods: Already Done? | 质量 82.55 | 可交易性 100.00 | 风险 低
+- CZ & FrankDeGods: Already Done? | 质量 82.63 | 可交易性 100.00 | 风险 低
 - CZ: Bitcoin is Deflationary | 质量 82.10 | 可交易性 100.00 | 风险 低
-- Alleged Bull Stock Meme Image | 质量 79.59 | 可交易性 100.00 | 风险 低
-- XTAL | 质量 76.56 | 可交易性 100.00 | 风险 低
+- Gunicorn | 质量 80.09 | 可交易性 98.08 | 风险 低
+- Alleged Bull Stock Meme Image | 质量 79.60 | 可交易性 100.00 | 风险 低
+- XTAL | 质量 78.33 | 可交易性 100.00 | 风险 低
 - United Oil Trust Fund | 质量 76.51 | 可交易性 100.00 | 风险 低
-- Alleged Launch of Meme Image 'Niu Lai' | 质量 74.86 | 可交易性 95.76 | 风险 低
-- Michael Saylor Shares Bitcoin Article | 质量 74.55 | 可交易性 97.28 | 风险 低
-- Gunicorn | 质量 73.04 | 可交易性 73.95 | 风险 低
-- Uncertain:Binance Wallet Domain Transfer | 质量 72.23 | 可交易性 96.28 | 风险 低
-- 豹拉 | 质量 68.00 | 可交易性 62.64 | 风险 低
+- Binance bStocks Update | 质量 76.20 | 可交易性 91.79 | 风险 低
+- Alleged Launch of Meme Image 'Niu Lai' | 质量 75.03 | 可交易性 95.76 | 风险 低
+- Uncertain:Binance Wallet Domain Transfer | 质量 72.84 | 可交易性 96.52 | 风险 低
+- 豹拉 | 质量 68.06 | 可交易性 62.80 | 风险 低
 
 ## 伪叙事风险
 
@@ -98,7 +98,7 @@
 
 ## 信号台
 
-- DTC | BSC | 看多 | 新鲜度 100.00 | CZ: Bitcoin is Deflationary
+- DTC | BSC | 看多 | 新鲜度 100.00 | CZ: Bitcoin is Deflationary / Binance bStocks Update
 - .bnb | BSC | 看多 | 新鲜度 100.00 | Uncertain:Binance Wallet Domain Transfer
 - 旺旺 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SpaceXcoin | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CZ & FrankDeGods: Already Done?（BSC，分数 87.92）
+1. 当前最强叙事：XTAL（Solana，分数 88.84）
 2. 共振最强代币：TBB（Solana，共振 100.0）
-3. 记忆层变化：Alleged Bull Stock Meme Image 当前为“新出现”
+3. 记忆层变化：Binance bStocks Update 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)
 #Binance #NarrativeOS #OpenClaw
