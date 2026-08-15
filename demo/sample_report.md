@@ -1,111 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-15T17:10:52.725766+00:00
+- 生成时间：2026-08-15T17:32:01.108313+00:00
 - 跟踪叙事：14
 - 已确认叙事：4
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Mumu i Mentions Niu Lai Narrative，所在链为 BSC，叙事强度 90.54。
-- 当前平均叙事强度为 83.43，其中已确认叙事 2 个。
+- 当前最强叙事是 Mumu i Mentions Niu Lai Narrative，所在链为 BSC，叙事强度 92.55。
+- 当前平均叙事强度为 84.09，其中已确认叙事 3 个。
 - 注意力与资金共振最强的代币是 CETS，来自 BSC，共振分数 100.0。
-- 记忆层显示 Werner Herzog Documentary on Nuisance Animals 当前处于“新出现”状态。
+- 记忆层显示 CZ & FrankDeGods: Already Done? 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)。
 
 ## 叙事雷达
 
-- Mumu i Mentions Niu Lai Narrative | BSC | 已确认 | 强度 90.54 | 质量 85.76
+- Mumu i Mentions Niu Lai Narrative | BSC | 已确认 | 强度 92.55 | 质量 85.76
   - 主题摘要：According to 木木i's post, the user expressed a bullish sentiment regarding the 'Niu Lai' narrative, describing it as invincible. The post highlights a strong positive outlook on th…
-  - 资金 100.00 / 广度 100.00 / 确认 35.28 / 脆弱性 24.00
+  - 资金 100.00 / 广度 100.00 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Polina Shares Calico Cat Article | Solana | 已确认 | 强度 87.28 | 质量 84.97
-  - 主题摘要：According to Polina's post, she shared an article link related to the CALICO token. The post directs readers to external content for further details regarding this specific crypto…
+- Polina Shares Calico Cat Article | Solana | 已确认 | 强度 86.94 | 质量 84.97
+  - 主题摘要：Multiple tokens named 「LUNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Luna the Lioness Viral Meme | Solana | 已确认 | 强度 86.58 | 质量 82.93
-  - 主题摘要：According to Sir.Devorski's post, the user shared a link to an Instagram profile identified as 'Catsa', directing followers to check the bio for a name. The post does not mention…
-  - 资金 100.00 / 广度 95.83 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged WOFL Meme Image | Solana | 降温中 | 强度 84.97 | 质量 74.49
-  - 主题摘要：According to Memers12's post, the author shares an OG pfp image associated with the 'Wofl' meme, claiming it was created on 4chan as a successor to Pepe. The post suggests Wofl sh…
-  - 资金 100.00 / 广度 86.44 / 确认 12.96 / 脆弱性 14.00
+- CZ & FrankDeGods: Already Done? | BSC | 降温中 | 强度 86.61 | 质量 78.24
+  - 主题摘要：Binance CEO CZ humorously replies to NFT artist FrankDeGods, implying that his support for the project or community is something he has already done, creating a playful meme narra…
+  - 资金 100.00 / 广度 91.29 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: Bitcoin is Deflationary | BSC | 加速中 | 强度 84.81 | 质量 82.09
-  - 主题摘要：CZ tweets about Bitcoin's supply cap, noting that with 20.07 million mined and significant lost coins, Bitcoin acts as a deflationary asset. This aligns with traditional 'hard mon…
-  - 资金 100.00 / 广度 95.69 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged WIF Meme Image | Solana | 加速中 | 强度 83.38 | 质量 78.91
+- Alleged WIF Meme Image | Solana | 加速中 | 强度 86.46 | 质量 79.11
   - 主题摘要：According to d's post, a new Meme image featuring a landmark on Google Maps, referred to as "fatdogwithhat" or "WITH", is going viral on TikTok. This content is associated with to…
-  - 资金 100.00 / 广度 88.77 / 确认 19.44 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.43 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- USWR | Solana | 降温中 | 强度 82.87 | 质量 71.42
-  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.19 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged PF Employee Token Launch | Solana | 降温中 | 强度 82.79 | 质量 71.41
-  - 主题摘要：Multiple tokens named 「[|]」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.18 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Michael Saylor Shares Bitcoin Article | BSC | 加速中 | 强度 82.28 | 质量 80.04
-  - 主题摘要：According to Michael Saylor's post, he shared a link to an article hosted on X. The post does not contain specific textual commentary or analysis within the tweet body itself, ser…
-  - 资金 100.00 / 广度 87.03 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of SEED ALPHA Token | BSC | 已确认 | 强度 81.42 | 质量 78.78
-  - 主题摘要：According to Flap 🦋's post, the project is allegedly launching a new token named Seed Alpha. The post suggests the token is in early stages and hints at upcoming availability on t…
-  - 资金 100.00 / 广度 89.83 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance bStocks Update | BSC | 加速中 | 强度 81.15 | 质量 76.55
-  - 主题摘要：Binance华语官方账号发布本周TradFi产品更新，重点介绍支持DTC转入转出及第三方代币化证券1:1转换bStocks的功能，旨在提升交易体验。
-  - 资金 100.00 / 广度 84.08 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Werner Herzog Documentary on Nuisance Animals | Solana | 加速中 | 强度 81.14 | 质量 71.70
-  - 主题摘要：According to DarthMiaul's post, Werner Herzog is producing a documentary featuring an unnamed "Nuisance Bear" and comparing it to viral animals like Jimothy the Raccoon and Neil t…
-  - 资金 100.00 / 广度 82.56 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SMUDGE | Solana | 降温中 | 强度 80.56 | 质量 70.73
+- SMUDGE | Solana | 降温中 | 强度 84.20 | 质量 71.55
   - 主题摘要：Multiple tokens named 「SMUDGE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.90 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.62 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance Wallet Domain Transfer | BSC | 加速中 | 强度 80.35 | 质量 77.45
+- USWR | Solana | 降温中 | 强度 82.90 | 质量 71.48
+  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.39 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged WOFL Token Launch | Solana | 降温中 | 强度 82.63 | 质量 71.79
+  - 主题摘要：According to x✴️'s post, the user discusses the WOFL token, claiming that the original version lacks cashback features while a newer version offers returns. The post references WO…
+  - 资金 100.00 / 广度 80.33 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ: Bitcoin is Deflationary | BSC | 加速中 | 强度 82.57 | 质量 82.09
+  - 主题摘要：CZ tweets about Bitcoin's supply cap, noting that with 20.07 million mined and significant lost coins, Bitcoin acts as a deflationary asset. This aligns with traditional 'hard mon…
+  - 资金 100.00 / 广度 95.68 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Michael Saylor Shares Bitcoin Article | BSC | 加速中 | 强度 81.75 | 质量 79.89
+  - 主题摘要：According to Michael Saylor's post, he shared a link to an article hosted on X. The post does not contain specific textual commentary or analysis within the tweet body itself, ser…
+  - 资金 100.00 / 广度 87.04 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of SEED ALPHA Token | BSC | 已确认 | 强度 80.85 | 质量 77.56
+  - 主题摘要：According to Flap 🦋's post, the project is allegedly launching a new token named Seed Alpha. The post suggests the token is in early stages and hints at upcoming availability on t…
+  - 资金 100.00 / 广度 89.74 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Uncertain:Binance Wallet Domain Transfer | BSC | 已确认 | 强度 80.22 | 质量 79.51
   - 主题摘要：Binance Wallet has updated its features to support transfers using domain names, enhancing transaction convenience. This functionality is now available on both the mobile App and…
-  - 资金 100.00 / 广度 85.97 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.98 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Werner Herzog Documentary on Nuisance Animals | Solana | 加速中 | 强度 79.31 | 质量 71.55
+  - 主题摘要：According to DarthMiaul's post, Werner Herzog is producing a documentary featuring an unnamed "Nuisance Bear" and comparing it to viral animals like Jimothy the Raccoon and Neil t…
+  - 资金 100.00 / 广度 82.62 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Toad Wif Hat | Solana | 降温中 | 强度 79.20 | 质量 67.94
+  - 主题摘要：ToadWifHat is a meme token inspired by internet culture, featuring a green frog character wearing a pink knitted hat. The token embraces playful humor and community engagement thr…
+  - 资金 100.00 / 广度 59.59 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- YESBOT | Solana | 加速中 | 强度 79.11 | 质量 65.90
+  - 主题摘要：According to Popmemes by Jon 🚀's post, a Meme image featuring a robot press secretary named Jayme Leagh Franklin was published. This content relates to the YESBOT token narrative.…
+  - 资金 100.00 / 广度 77.94 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 83.43，其中已确认叙事 2 个。
-- Werner Herzog Documentary on Nuisance Animals 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged WOFL Meme Image 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 84.09，其中已确认叙事 3 个。
+- YESBOT 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- CZ & FrankDeGods: Already Done? 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Mumu i Mentions Niu Lai Narrative | 质量 85.76 | 可交易性 100.00 | 风险 低
 - Polina Shares Calico Cat Article | 质量 84.97 | 可交易性 100.00 | 风险 低
-- Luna the Lioness Viral Meme | 质量 82.93 | 可交易性 100.00 | 风险 低
 - CZ: Bitcoin is Deflationary | 质量 82.09 | 可交易性 100.00 | 风险 低
-- Michael Saylor Shares Bitcoin Article | 质量 80.04 | 可交易性 99.70 | 风险 低
-- Alleged WIF Meme Image | 质量 78.91 | 可交易性 100.00 | 风险 低
-- Alleged Launch of SEED ALPHA Token | 质量 78.78 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Wallet Domain Transfer | 质量 77.45 | 可交易性 97.42 | 风险 低
-- Binance bStocks Update | 质量 76.55 | 可交易性 93.13 | 风险 低
-- Alleged WOFL Meme Image | 质量 74.49 | 可交易性 92.35 | 风险 低
+- Michael Saylor Shares Bitcoin Article | 质量 79.89 | 可交易性 99.20 | 风险 低
+- Uncertain:Binance Wallet Domain Transfer | 质量 79.51 | 可交易性 98.46 | 风险 低
+- Alleged WIF Meme Image | 质量 79.11 | 可交易性 100.00 | 风险 低
+- CZ & FrankDeGods: Already Done? | 质量 78.24 | 可交易性 100.00 | 风险 低
+- Alleged Launch of SEED ALPHA Token | 质量 77.56 | 可交易性 100.00 | 风险 低
+- Alleged WOFL Token Launch | 质量 71.79 | 可交易性 92.35 | 风险 低
+- SMUDGE | 质量 71.55 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
 
 ## 信号台
 
-- DTC | BSC | 看多 | 新鲜度 100.00 | CZ: Bitcoin is Deflationary / Binance bStocks Update
+- DTC | BSC | 看多 | 新鲜度 100.00 | CZ: Bitcoin is Deflationary
 - .bnb | BSC | 看多 | 新鲜度 100.00 | Uncertain:Binance Wallet Domain Transfer
 - 旺旺 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SpaceXcoin | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - utility | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- LUNA | Solana | 看多 | 新鲜度 100.00 | Polina Shares Calico Cat Article / Luna the Lioness Viral Meme
+- LUNA | Solana | 看多 | 新鲜度 100.00 | Polina Shares Calico Cat Article
 - UtilityRWANFT | BSC | 看多 | 新鲜度 95.07 | 暂无直接叙事映射
 - FATNOOB | Solana | 看多 | 新鲜度 91.58 | 暂无直接叙事映射
 - 巨兽BEHEMOTH | BSC | 看多 | 新鲜度 85.47 | 暂无直接叙事映射
-- Chinamaxxing | BSC | 看多 | 新鲜度 81.91 | 暂无直接叙事映射
+- fatdog | Solana | 看多 | 新鲜度 82.74 | Alleged WIF Meme Image
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Mumu i Mentions Niu Lai Narrative（BSC，分数 90.54）
+1. 当前最强叙事：Mumu i Mentions Niu Lai Narrative（BSC，分数 92.55）
 2. 共振最强代币：CETS（BSC，共振 100.0）
-3. 记忆层变化：Werner Herzog Documentary on Nuisance Animals 当前为“新出现”
+3. 记忆层变化：CZ & FrankDeGods: Already Done? 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)
 #Binance #NarrativeOS #OpenClaw
