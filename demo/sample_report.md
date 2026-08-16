@@ -1,6 +1,6 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-16T04:22:48.932247+00:00
+- 生成时间：2026-08-16T04:55:02.254350+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
@@ -8,104 +8,104 @@
 ## 今日摘要
 
 - 当前最强叙事是 National Trump Digital Accounts，所在链为 Solana，叙事强度 88.49。
-- 当前平均叙事强度为 83.43，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 TBB，来自 Solana，共振分数 98.86。
-- 记忆层显示 Alleged Relaxed Toad Meme 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged PumpBot Trading Bot，伪叙事风险 44.91。
+- 当前平均叙事强度为 83.61，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 TBB，来自 Solana，共振分数 98.27。
+- 记忆层显示 Mike Dudas Rejects Coins 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged $bih Meme Coin Promotion，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)。
 
 ## 叙事雷达
 
 - National Trump Digital Accounts | Solana | 降温中 | 强度 88.49 | 质量 77.76
   - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.33 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 92.34 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ & FrankDeGods: Already Done? | BSC | 降温中 | 强度 86.44 | 质量 79.03
+- CZ & FrankDeGods: Already Done? | BSC | 降温中 | 强度 86.44 | 质量 79.04
   - 主题摘要：Binance CEO CZ humorously replies to NFT artist FrankDeGods, implying that his support for the project or community is something he has already done, creating a playful meme narra…
-  - 资金 100.00 / 广度 93.94 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.97 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $bih Meme Coin Promotion | Solana | 降温中 | 强度 85.57 | 质量 75.76
-  - 主题摘要：According to Suted's post, the viral "Bonsai Fish" meme has gained significant traction with high view counts. Suted advocates for the promotion of the $bih token, allegedly assoc…
-  - 资金 100.00 / 广度 85.67 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of Meme Image 'Niu Lai' | BSC | 降温中 | 强度 85.36 | 质量 77.11
+- Alleged Launch of Meme Image 'Niu Lai' | BSC | 降温中 | 强度 85.89 | 质量 77.80
   - 主题摘要：According to 噎 🔶BNB's post, the user claims to have launched a Meme image titled 'Niu Lai' (Bull Come), described as a domestic animated film from 2026. The post characterizes thi…
-  - 资金 100.00 / 广度 84.88 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.19 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Relaxed Toad Meme | Solana | 降温中 | 强度 84.51 | 质量 74.63
+- Alleged Relaxed Toad Meme | Solana | 降温中 | 强度 85.66 | 质量 75.99
   - 主题摘要：According to rt29's post, a video of a toad watching daylight has gained over 500k views and is being memed in the comments. The content is described as a relaxed toad, potentiall…
-  - 资金 100.00 / 广度 81.90 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.43 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Transnational Oil Supply | Solana | 降温中 | 强度 83.84 | 质量 73.36
-  - 主题摘要：Multiple tokens named 「TNOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.68 / 确认 9.36 / 脆弱性 14.00
+- Mike Dudas Rejects Coins | Solana | 降温中 | 强度 85.14 | 质量 75.33
+  - 主题摘要：According to Mike Dudas's post, he explicitly requests that people stop sending him cryptocurrency tokens, stating that he does not want them. This statement serves as a direct re…
+  - 资金 100.00 / 广度 84.25 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: Bitcoin is Deflationary | BSC | 加速中 | 强度 82.02 | 质量 81.05
-  - 主题摘要：CZ tweets about Bitcoin's supply cap, noting that with 20.07 million mined and significant lost coins, Bitcoin acts as a deflationary asset. This aligns with traditional 'hard mon…
-  - 资金 100.00 / 广度 92.23 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged PumpBot Trading Bot | Solana | 点火期 | 强度 81.76 | 质量 77.01
-  - 主题摘要：According to Capy's post, Capy claims to have developed $PumpBot, an automated trading bot that monitors the @pumpfun callout feed and buys tokens in real time. Profits are distri…
-  - 资金 100.00 / 广度 87.21 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Walruse Meme Coin | Solana | 加速中 | 强度 81.66 | 质量 79.36
-  - 主题摘要：According to patch's post, the Walruse character, a seal/walrus meme from 2013, is identified as a potential challenger to Doge. The post details its history on 4chan and Reddit,…
-  - 资金 100.00 / 广度 86.59 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Danny Duncan Blue Ball Bull Meme Image | Solana | 已确认 | 强度 80.92 | 质量 82.86
-  - 主题摘要：According to Bymotionn's post, YouTuber Danny Duncan allegedly spray-painted the Charging Bull's testicles blue in NYC, an act described as significant due to his 20M+ followers.…
-  - 资金 100.00 / 广度 95.61 / 确认 28.08 / 脆弱性 24.00
+- Alleged $bih Meme Coin Promotion | Solana | 降温中 | 强度 84.39 | 质量 75.79
+  - 主题摘要：According to Suted's post, the viral "Bonsai Fish" meme has gained significant traction with high view counts. Suted advocates for the promotion of the $bih token, allegedly assoc…
+  - 资金 100.00 / 广度 85.76 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Danny Duncan Blue Ball Bull Meme Image | Solana | 已确认 | 强度 82.46 | 质量 82.90
+  - 主题摘要：According to Bymotionn's post, YouTuber Danny Duncan allegedly spray-painted the Charging Bull's testicles blue in NYC, claiming it signifies a bull market. This event is associat…
+  - 资金 100.00 / 广度 95.73 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- United States Oil Collective | Solana | 降温中 | 强度 80.71 | 质量 67.95
+- United States Oil Collective | Solana | 降温中 | 强度 82.42 | 质量 69.77
   - 主题摘要：Multiple tokens named 「USOC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.79 / 确认 5.04 / 脆弱性 0.00
+  - 资金 100.00 / 广度 68.87 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Yi He Posts Bull-Horse Meme | BSC | 加速中 | 强度 80.17 | 质量 81.25
+- CZ: Bitcoin is Deflationary | BSC | 加速中 | 强度 81.13 | 质量 82.10
+  - 主题摘要：CZ tweets about Bitcoin's supply cap, noting that with 20.07 million mined and significant lost coins, Bitcoin acts as a deflationary asset. This aligns with traditional 'hard mon…
+  - 资金 100.00 / 广度 95.70 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Walruse Meme Coin | Solana | 加速中 | 强度 81.02 | 质量 79.29
+  - 主题摘要：According to patch's post, the Walruse character, a seal/walrus meme from 2013, is identified as a potential challenger to Doge. The post details its history on 4chan and Reddit,…
+  - 资金 100.00 / 广度 86.87 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- US Trust Fund | Solana | 降温中 | 强度 79.33 | 质量 67.82
+  - 主题摘要：Multiple tokens named 「USTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 59.21 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Yi He Posts Bull-Horse Meme | BSC | 加速中 | 强度 79.25 | 质量 80.06
   - 主题摘要：Yi He shared a Meme image asking how to Photoshop a horse into a bull, referencing the anticipated bull market. The post reflects a humorous take on market expectations.
-  - 资金 100.00 / 广度 93.40 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 92.92 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Bull Stock Meme Image | BSC | 加速中 | 强度 79.16 | 质量 80.14
-  - 主题摘要：Multiple tokens named 「牛逼」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.34 / 确认 20.16 / 脆弱性 24.00
+- Alleged Niu Lai Offline | BSC | 加速中 | 强度 78.76 | 质量 69.38
+  - 主题摘要：According to Gutierrez's post, the token 'Niu Lai Xiaxian' (Symbol: Niu Mei) is allegedly being delisted. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 72.19 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Michael Saylor Shares Bitcoin Article | BSC | 加速中 | 强度 78.60 | 质量 76.53
+- Michael Saylor Shares Bitcoin Article | BSC | 加速中 | 强度 78.15 | 质量 75.96
   - 主题摘要：According to Michael Saylor's post, he shared a link to an article hosted on X. The post does not contain specific textual commentary or analysis within the tweet body itself, ser…
-  - 资金 100.00 / 广度 87.02 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.02 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.43，其中已确认叙事 1 个。
-- Alleged PumpBot Trading Bot 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.61，其中已确认叙事 1 个。
+- Alleged Niu Lai Offline 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - National Trump Digital Accounts 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Danny Duncan Blue Ball Bull Meme Image | 质量 82.86 | 可交易性 100.00 | 风险 低
-- Uncertain:Yi He Posts Bull-Horse Meme | 质量 81.25 | 可交易性 100.00 | 风险 低
-- CZ: Bitcoin is Deflationary | 质量 81.05 | 可交易性 100.00 | 风险 低
-- Alleged Bull Stock Meme Image | 质量 80.14 | 可交易性 100.00 | 风险 低
-- Alleged Walruse Meme Coin | 质量 79.36 | 可交易性 100.00 | 风险 低
-- CZ & FrankDeGods: Already Done? | 质量 79.03 | 可交易性 100.00 | 风险 低
+- Alleged Danny Duncan Blue Ball Bull Meme Image | 质量 82.90 | 可交易性 100.00 | 风险 低
+- CZ: Bitcoin is Deflationary | 质量 82.10 | 可交易性 100.00 | 风险 低
+- Uncertain:Yi He Posts Bull-Horse Meme | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Alleged Walruse Meme Coin | 质量 79.29 | 可交易性 100.00 | 风险 低
+- CZ & FrankDeGods: Already Done? | 质量 79.04 | 可交易性 100.00 | 风险 低
+- Alleged Launch of Meme Image 'Niu Lai' | 质量 77.80 | 可交易性 100.00 | 风险 低
 - National Trump Digital Accounts | 质量 77.76 | 可交易性 100.00 | 风险 低
-- Alleged Launch of Meme Image 'Niu Lai' | 质量 77.11 | 可交易性 100.00 | 风险 低
-- Alleged PumpBot Trading Bot | 质量 77.01 | 可交易性 100.00 | 风险 低
-- Michael Saylor Shares Bitcoin Article | 质量 76.53 | 可交易性 97.27 | 风险 低
+- Alleged Relaxed Toad Meme | 质量 75.99 | 可交易性 100.00 | 风险 低
+- Michael Saylor Shares Bitcoin Article | 质量 75.96 | 可交易性 97.41 | 风险 低
+- Alleged $bih Meme Coin Promotion | 质量 75.79 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged PumpBot Trading Bot | 风险 44.91 | 原因：流动性偏薄
+- Alleged $bih Meme Coin Promotion | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - DTC | BSC | 看多 | 新鲜度 100.00 | CZ: Bitcoin is Deflationary
 - 旺旺 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SpaceXcoin | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- utility | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LUNA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - fatdog | Solana | 看多 | 新鲜度 95.57 | 暂无直接叙事映射
 - UtilityRWANFT | BSC | 看多 | 新鲜度 95.07 | 暂无直接叙事映射
 - .bnb | BSC | 看多 | 新鲜度 94.23 | 暂无直接叙事映射
+- MEOW | Base | 看多 | 新鲜度 86.58 | 暂无直接叙事映射
 - 巨兽BEHEMOTH | BSC | 看多 | 新鲜度 85.47 | 暂无直接叙事映射
 - Chinamaxxing | BSC | 看多 | 新鲜度 81.91 | 暂无直接叙事映射
 
@@ -134,7 +134,7 @@
 
 今日币安叙事中枢观察：
 1. 当前最强叙事：National Trump Digital Accounts（Solana，分数 88.49）
-2. 共振最强代币：TBB（Solana，共振 98.86）
-3. 记忆层变化：Alleged Relaxed Toad Meme 当前为“新出现”
+2. 共振最强代币：TBB（Solana，共振 98.27）
+3. 记忆层变化：Mike Dudas Rejects Coins 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)
 #Binance #NarrativeOS #OpenClaw
