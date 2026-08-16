@@ -1,96 +1,96 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-16T17:52:16.219981+00:00
+- 生成时间：2026-08-16T18:08:31.722181+00:00
 - 跟踪叙事：14
 - 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Shanghai Daily: Film 'Niu Lai' Box Office，所在链为 BSC，叙事强度 84.97。
-- 当前平均叙事强度为 80.99，其中已确认叙事 2 个。
+- 当前最强叙事是 STOADS，所在链为 Solana，叙事强度 84.19。
+- 当前平均叙事强度为 82.54，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 Z，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Moo Meme Image 当前处于“新出现”状态。
+- 记忆层显示 Wqa3O Shares Meme Image of Chinese Animation 'Niu Lai' 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Uncertain:Alleged Giggle Token Launch，伪叙事风险 44.45。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)。
 
 ## 叙事雷达
 
-- Shanghai Daily: Film 'Niu Lai' Box Office | BSC | 已确认 | 强度 84.97 | 质量 80.17
-  - 主题摘要：According to Shanghai Daily's post, the film 'Niu Lai' crossed ¥50,000 in 11 days, with over 300 screenings. The production company, Dalian Jingyuan Culture & Film Media, was prev…
-  - 资金 100.00 / 广度 89.07 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged Giggle Token Launch | Solana | 降温中 | 强度 83.01 | 质量 74.03
-  - 主题摘要：According to DUVELOPER's post, the author claims that users can donate to Giggle on Solana and makes an offensive remark about CZ. This suggests an alleged launch of the Giggle to…
-  - 资金 100.00 / 广度 83.06 / 确认 5.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 中本聪 | Solana | 降温中 | 强度 82.98 | 质量 71.40
-  - 主题摘要：Multiple tokens named 「中本聪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.82 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Frock Meme Image Launch | Solana | 已确认 | 强度 82.77 | 质量 81.39
-  - 主题摘要：According to DarthMiaul's post, the creator behind OpenAI's DALL·E 2 image generation model allegedly created a custom meme image named "Frock" (a combination of "frog" and "rock"…
-  - 资金 100.00 / 广度 90.72 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Moo Meme Image | BSC | 加速中 | 强度 82.58 | 质量 74.37
-  - 主题摘要：According to 我肯定会发财！'s post, the author draws a parallel between the high market capitalization of cat-themed tokens (Meow) and dog-themed tokens (Wolf), and questions the valuati…
-  - 资金 100.00 / 广度 76.83 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged MarsCoin Launch on Solana | Solana | 降温中 | 强度 82.56 | 质量 73.18
-  - 主题摘要：According to Babby sokol's post, MarsCoin is allegedly launching on the Solana blockchain. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 83.93 / 确认 0.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Hughman Comments on Solana | Solana | 降温中 | 强度 82.29 | 质量 73.15
-  - 主题摘要：According to CZ's post, he suggested the name 'MarsCoin' in a reply to a discussion regarding Mars. This comment references the token MarsCoin. The suggestion appears to be a casu…
-  - 资金 100.00 / 广度 80.14 / 确认 5.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- STOADS | Solana | 加速中 | 强度 82.22 | 质量 74.03
+- STOADS | Solana | 加速中 | 强度 84.19 | 质量 75.06
   - 主题摘要：Multiple tokens named 「STOADS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.82 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.25 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Tamara Giglio Analyzes Niu Lai Meme | BSC | 加速中 | 强度 81.98 | 质量 72.29
-  - 主题摘要：According to 神灵🔥dev's post, the viral 'Niu Lai' (Bull Come) internet meme, which sounds like 'semiconductor' (半导体), originates from a clumsy special effect in a movie where a char…
-  - 资金 100.00 / 广度 76.87 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Niu Lai Meme Image | Solana | 降温中 | 强度 81.42 | 质量 71.38
+- Shanghai Daily: Film 'Niu Lai' Box Office | BSC | 已确认 | 强度 83.52 | 质量 79.91
+  - 主题摘要：According to Shanghai Daily's post, the film 'Niu Lai' crossed ¥50,000 in 11 days, with over 300 screenings. The production company, Dalian Jingyuan Culture & Film Media, was prev…
+  - 资金 100.00 / 广度 89.10 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- 中本聪 | Solana | 降温中 | 强度 83.09 | 质量 71.51
+  - 主题摘要：Multiple tokens named 「中本聪」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.21 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged Giggle Token Launch | Solana | 降温中 | 强度 83.04 | 质量 74.05
+  - 主题摘要：According to DUVELOPER's post, the author claims that users can donate to Giggle on Solana and makes an offensive remark about CZ. This suggests an alleged launch of the Giggle to…
+  - 资金 100.00 / 广度 83.15 / 确认 5.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Frock Meme Image Launch | Solana | 已确认 | 强度 82.79 | 质量 81.41
+  - 主题摘要：According to DarthMiaul's post, the creator behind OpenAI's DALL·E 2 image generation model allegedly created a custom meme image named "Frock" (a combination of "frog" and "rock"…
+  - 资金 100.00 / 广度 90.78 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged MarsCoin Launch on Solana | Solana | 降温中 | 强度 82.59 | 质量 73.20
+  - 主题摘要：According to Babby sokol's post, MarsCoin is allegedly launching on the Solana blockchain. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 84.01 / 确认 0.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Hughman Comments on Solana | Solana | 降温中 | 强度 82.33 | 质量 73.18
+  - 主题摘要：According to CZ's post, he suggested the name 'MarsCoin' in a reply to a discussion regarding Mars. This comment references the token MarsCoin. The suggestion appears to be a casu…
+  - 资金 100.00 / 广度 80.25 / 确认 5.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Niu Lai Meme Image | Solana | 降温中 | 强度 81.43 | 质量 71.39
   - 主题摘要：According to dash's post, a Meme image is shared linking the Chinese film 'Niu Lai' to a bull market narrative. The author claims the film's unexpected success rivals major box of…
-  - 资金 100.00 / 广度 76.94 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.98 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- multicolor Qenis | Solana | 降温中 | 强度 80.82 | 质量 69.48
+- multicolor Qenis | Solana | 降温中 | 强度 80.84 | 质量 69.49
   - 主题摘要：Multiple tokens named 「Qenis」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.72 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 64.78 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ignore Coin | BSC | 已确认 | 强度 79.78 | 质量 80.85
+- Ignore Coin | BSC | 已确认 | 强度 79.90 | 质量 80.85
   - 主题摘要：According to 德尔塔's post, the author stated that a specific individual instructed others to donate Giggle. The post highlights this directive regarding the Giggle token without pro…
   - 资金 100.00 / 广度 88.92 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Launch of 'Niu Lai Le' Meme Image | BSC | 加速中 | 强度 78.54 | 质量 70.63
-  - 主题摘要：According to 招财猫🔶BNB's post, the user shared a Meme image depicting a horse photoshopped into a bull, referencing the incoming bull market. The post comments on the 'number one si…
-  - 资金 100.00 / 广度 76.16 / 确认 24.48 / 脆弱性 14.00
+- Alleged Moo Meme Image | BSC | 加速中 | 强度 79.25 | 质量 72.77
+  - 主题摘要：According to 我肯定会发财！'s post, the author draws a parallel between the high market capitalization of cat-themed tokens (Meow) and dog-themed tokens (Wolf), and questions the valuati…
+  - 资金 100.00 / 广度 75.94 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $memecoin Launch | BSC | 加速中 | 强度 78.10 | 质量 78.13
-  - 主题摘要：According to fent's post, the author claims to be recreating a viral trend on-chain by launching a token named $memecoin, symbolized as 🐸 + 🪙, with a DEX liquidity target of 20k.…
-  - 资金 100.00 / 广度 90.17 / 确认 20.16 / 脆弱性 14.00
+- Wqa3O Shares Meme Image of Chinese Animation 'Niu Lai' | BSC | 加速中 | 强度 78.93 | 质量 79.61
+  - 主题摘要：According to 噎 🔶BNB's post, the user praises the Chinese animation 'Niu Lai' for its viral success despite zero marketing. The post highlights the 'hand-crafted' promotional poste…
+  - 资金 100.00 / 广度 90.57 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- White House Promotes Freedom 250 Grand Prix | BSC | 加速中 | 强度 78.05 | 质量 79.82
+  - 主题摘要：The White House announced the upcoming Freedom 250 Grand Prix event in Washington D.C., emphasizing themes of American speed and greatness. This promotion coincides with the relea…
+  - 资金 100.00 / 广度 89.17 / 确认 23.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of 'Niu Lai Le' Meme Image | BSC | 加速中 | 强度 77.44 | 质量 70.56
+  - 主题摘要：According to 招财猫🔶BNB's post, the user shared a Meme image depicting a horse photoshopped into a bull, referencing the incoming bull market. The post comments on the 'number one si…
+  - 资金 100.00 / 广度 76.34 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.99，其中已确认叙事 2 个。
-- Alleged Moo Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Uncertain:Alleged Giggle Token Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.54，其中已确认叙事 1 个。
+- Wqa3O Shares Meme Image of Chinese Animation 'Niu Lai' 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- 中本聪 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Frock Meme Image Launch | 质量 81.39 | 可交易性 100.00 | 风险 低
+- Alleged Frock Meme Image Launch | 质量 81.41 | 可交易性 100.00 | 风险 低
 - Ignore Coin | 质量 80.85 | 可交易性 100.00 | 风险 低
-- Shanghai Daily: Film 'Niu Lai' Box Office | 质量 80.17 | 可交易性 97.57 | 风险 低
-- Alleged $memecoin Launch | 质量 78.13 | 可交易性 95.47 | 风险 低
-- Alleged Moo Meme Image | 质量 74.37 | 可交易性 93.11 | 风险 低
-- Uncertain:Alleged Giggle Token Launch | 质量 74.03 | 可交易性 100.00 | 风险 低
-- STOADS | 质量 74.03 | 可交易性 100.00 | 风险 低
-- Alleged MarsCoin Launch on Solana | 质量 73.18 | 可交易性 100.00 | 风险 低
-- Hughman Comments on Solana | 质量 73.15 | 可交易性 100.00 | 风险 低
-- Tamara Giglio Analyzes Niu Lai Meme | 质量 72.29 | 可交易性 89.83 | 风险 低
+- Shanghai Daily: Film 'Niu Lai' Box Office | 质量 79.91 | 可交易性 96.66 | 风险 低
+- White House Promotes Freedom 250 Grand Prix | 质量 79.82 | 可交易性 100.00 | 风险 低
+- Wqa3O Shares Meme Image of Chinese Animation 'Niu Lai' | 质量 79.61 | 可交易性 100.00 | 风险 低
+- STOADS | 质量 75.06 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Giggle Token Launch | 质量 74.05 | 可交易性 100.00 | 风险 低
+- Alleged MarsCoin Launch on Solana | 质量 73.20 | 可交易性 100.00 | 风险 低
+- Hughman Comments on Solana | 质量 73.18 | 可交易性 100.00 | 风险 低
+- Alleged Moo Meme Image | 质量 72.77 | 可交易性 88.69 | 风险 低
 
 ## 伪叙事风险
 
@@ -102,8 +102,8 @@
 
 - ELMO | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MarsCoin | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- IgnoreCoin | BSC | 看多 | 新鲜度 100.00 | Ignore Coin
-- 牛来 | BSC | 看多 | 新鲜度 100.00 | Alleged $memecoin Launch
+- IgnoreCoin | BSC | 看多 | 新鲜度 100.00 | Ignore Coin / White House Promotes Freedom 250 Grand Prix
+- 牛来 | BSC | 看多 | 新鲜度 100.00 | Wqa3O Shares Meme Image of Chinese Animation 'Niu Lai'
 - utility | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 巨兽BEHEMOTH | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Frock | Solana | 看多 | 新鲜度 100.00 | Alleged Frock Meme Image Launch
@@ -135,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Shanghai Daily: Film 'Niu Lai' Box Office（BSC，分数 84.97）
+1. 当前最强叙事：STOADS（Solana，分数 84.19）
 2. 共振最强代币：Z（BSC，共振 100.0）
-3. 记忆层变化：Alleged Moo Meme Image 当前为“新出现”
+3. 记忆层变化：Wqa3O Shares Meme Image of Chinese Animation 'Niu Lai' 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)
 #Binance #NarrativeOS #OpenClaw
