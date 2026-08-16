@@ -1,101 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-16T23:30:51.244435+00:00
+- 生成时间：2026-08-16T23:52:43.113000+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged 4680 Meme Coin，所在链为 Solana，叙事强度 88.2。
-- 当前平均叙事强度为 84.47，其中已确认叙事 0 个。
+- 当前最强叙事是 Alleged Bibble Meme Coin，所在链为 Solana，叙事强度 86.57。
+- 当前平均叙事强度为 81.92，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged 4680 Meme Coin 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 CCTV Abstract Mascot Meme Image，伪叙事风险 47.23。
+- 记忆层显示 Javier Olivan Comments on Suspected Meme Image 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Sidiora Markets，伪叙事风险 43.38。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)。
 
 ## 叙事雷达
 
-- Alleged 4680 Meme Coin | Solana | 降温中 | 强度 88.20 | 质量 79.83
-  - 主题摘要：According to JAY's post, Abdul El-Sayed is accused of overseeing the euthanasia of 4,680 animals, sparking viral discussions and calls for prosecution. This controversy has allege…
-  - 资金 100.00 / 广度 96.59 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged 4680 Meme Coin | Solana | 降温中 | 强度 86.51 | 质量 78.96
-  - 主题摘要：Multiple tokens named 「4680」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.03 / 确认 16.60 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Water Reserve | Solana | 降温中 | 强度 86.17 | 质量 74.16
-  - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.33 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged PLM Token Launch | Solana | 降温中 | 强度 85.75 | 质量 76.05
-  - 主题摘要：According to JNC's post, the nonprofit organization Protect Life Michigan is allegedly launching a token named PLM. JNC claims the project has incorrect fees and states that they…
-  - 资金 100.00 / 广度 86.65 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Bibble Meme Coin | Solana | 加速中 | 强度 84.68 | 质量 78.49
+- Alleged Bibble Meme Coin | Solana | 加速中 | 强度 86.57 | 质量 78.51
   - 主题摘要：According to ENJOYOOR ⛾'s post, the user shared a comment regarding 'Bibble,' which is identified as a meme coin. The post implies a discussion about the token's potential or stat…
-  - 资金 100.00 / 广度 86.85 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.91 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Charity Fund Misuse | Solana | 降温中 | 强度 83.75 | 质量 75.36
-  - 主题摘要：According to виолетта's post, the author claims that a specific charity discussed and held a board meeting regarding the misallocation of funds intended for animal welfare, sugges…
-  - 资金 100.00 / 广度 84.35 / 确认 9.36 / 脆弱性 14.00
+- World Water Reserve | Solana | 降温中 | 强度 86.14 | 质量 74.16
+  - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.35 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ignore Coin | BSC | 已确认 | 强度 81.76 | 质量 81.01
+- Alleged 4680 Meme Coin | Solana | 降温中 | 强度 85.68 | 质量 75.76
+  - 主题摘要：According to JAY's post, Abdul El-Sayed is accused of overseeing the euthanasia of 4,680 animals, sparking viral discussions and calls for prosecution. This controversy has allege…
+  - 资金 100.00 / 广度 93.96 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ignore Coin | BSC | 已确认 | 强度 81.67 | 质量 81.02
   - 主题摘要：According to 德尔塔's post, the author stated that a specific individual instructed others to donate Giggle. The post highlights this directive regarding the Giggle token without pro…
-  - 资金 100.00 / 广度 89.45 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.46 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Shanghai Daily: Film 'Niu Lai' Box Office | BSC | 加速中 | 强度 81.33 | 质量 75.55
+- Shanghai Daily: Film 'Niu Lai' Box Office | BSC | 加速中 | 强度 80.53 | 质量 74.23
   - 主题摘要：According to Shanghai Daily's post, the film 'Niu Lai' crossed ¥50,000 in 11 days, with over 300 screenings. The production company, Dalian Jingyuan Culture & Film Media, was prev…
   - 资金 100.00 / 广度 88.99 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- USWR | Solana | 降温中 | 强度 80.43 | 质量 68.37
+- USWR | Solana | 降温中 | 强度 80.50 | 质量 68.43
   - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 61.04 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 61.25 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Sidiora Markets | Solana | 降温中 | 强度 80.23 | 质量 70.55
+- Sidiora Markets | Solana | 降温中 | 强度 80.10 | 质量 70.55
   - 主题摘要：Multiple tokens named 「SID」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 96.80 / 广度 68.29 / 确认 9.36 / 脆弱性 24.00
+  - 资金 96.21 / 广度 68.30 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- White House Promotes Freedom 250 Grand Prix | BSC | 加速中 | 强度 79.89 | 质量 79.95
+- White House Promotes Freedom 250 Grand Prix | BSC | 加速中 | 强度 79.80 | 质量 79.95
   - 主题摘要：The White House announced the upcoming Freedom 250 Grand Prix event in Washington D.C., emphasizing themes of American speed and greatness. This promotion coincides with the relea…
-  - 资金 100.00 / 广度 89.59 / 确认 23.04 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.60 / 确认 23.04 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Wqa3O Shares Meme Image of Chinese Animation 'Niu Lai' | BSC | 加速中 | 强度 78.62 | 质量 80.82
+- Javier Olivan Comments on Suspected Meme Image | Solana | 降温中 | 强度 79.59 | 质量 69.48
+  - 主题摘要：According to Javier Olivan's post, he shared a Meme image related to a 'meta coin' on pump.fun, expressing amusement at the concept of trading fees directed to a wallet. The conte…
+  - 资金 100.00 / 广度 64.75 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged PLM Token Launch | Solana | 降温中 | 强度 79.35 | 质量 66.25
+  - 主题摘要：According to JNC's post, the nonprofit organization Protect Life Michigan is allegedly launching a token named PLM. JNC claims the project has incorrect fees and states that they…
+  - 资金 100.00 / 广度 86.12 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Wqa3O Shares Meme Image of Chinese Animation 'Niu Lai' | BSC | 加速中 | 强度 78.56 | 质量 80.83
   - 主题摘要：According to 噎 🔶BNB's post, the user praises the Chinese animation 'Niu Lai' for its viral success despite zero marketing. The post highlights the 'hand-crafted' promotional poste…
-  - 资金 100.00 / 广度 94.62 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.65 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $memecoin Launch | BSC | 加速中 | 强度 76.33 | 质量 76.99
-  - 主题摘要：According to fent's post, the author claims to be recreating a viral trend on-chain by launching a token named $memecoin, symbolized as 🐸 + 🪙. The post highlights the trend's popu…
-  - 资金 100.00 / 广度 87.09 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CCTV Abstract Mascot Meme Image | BSC | 点火期 | 强度 74.92 | 质量 71.80
+- WENCORE | Solana | 降温中 | 强度 77.42 | 质量 69.54
+  - 主题摘要：Multiple tokens named 「WENCORE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.95 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CCTV Abstract Mascot Meme Image | BSC | 点火期 | 强度 76.66 | 质量 71.93
   - 主题摘要：According to Wall's post, CCTV has released an abstract mascot Meme image, which has been named and described as highly abstract and addictive.
-  - 资金 100.00 / 广度 79.53 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.56 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged $memecoin Launch | BSC | 加速中 | 强度 76.22 | 质量 76.91
+  - 主题摘要：According to fent's post, the author claims to be recreating a viral trend on-chain by launching a token named $memecoin, symbolized as 🐸 + 🪙. The post highlights the trend's popu…
+  - 资金 100.00 / 广度 87.27 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.47，其中已确认叙事 0 个。
-- CCTV Abstract Mascot Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged 4680 Meme Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.92，其中已确认叙事 0 个。
+- World Water Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Ignore Coin | 质量 81.01 | 可交易性 100.00 | 风险 低
-- Wqa3O Shares Meme Image of Chinese Animation 'Niu Lai' | 质量 80.82 | 可交易性 100.00 | 风险 低
+- Ignore Coin | 质量 81.02 | 可交易性 100.00 | 风险 低
+- Wqa3O Shares Meme Image of Chinese Animation 'Niu Lai' | 质量 80.83 | 可交易性 100.00 | 风险 低
 - White House Promotes Freedom 250 Grand Prix | 质量 79.95 | 可交易性 100.00 | 风险 低
-- Alleged 4680 Meme Coin | 质量 79.83 | 可交易性 100.00 | 风险 低
-- Alleged 4680 Meme Coin | 质量 78.96 | 可交易性 100.00 | 风险 低
-- Alleged Bibble Meme Coin | 质量 78.49 | 可交易性 100.00 | 风险 低
-- Alleged $memecoin Launch | 质量 76.99 | 可交易性 94.75 | 风险 低
-- Alleged PLM Token Launch | 质量 76.05 | 可交易性 100.00 | 风险 低
-- Shanghai Daily: Film 'Niu Lai' Box Office | 质量 75.55 | 可交易性 90.91 | 风险 低
-- Alleged Charity Fund Misuse | 质量 75.36 | 可交易性 100.00 | 风险 低
+- Alleged Bibble Meme Coin | 质量 78.51 | 可交易性 100.00 | 风险 低
+- Alleged $memecoin Launch | 质量 76.91 | 可交易性 94.32 | 风险 低
+- Alleged 4680 Meme Coin | 质量 75.76 | 可交易性 93.02 | 风险 低
+- Shanghai Daily: Film 'Niu Lai' Box Office | 质量 74.23 | 可交易性 87.52 | 风险 低
+- World Water Reserve | 质量 74.16 | 可交易性 100.00 | 风险 低
+- CCTV Abstract Mascot Meme Image | 质量 71.93 | 可交易性 88.06 | 风险 低
+- Sidiora Markets | 质量 70.55 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- CCTV Abstract Mascot Meme Image | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Sidiora Markets | 风险 42.85 | 原因：流动性偏薄、近 1 小时净流入转负
+- Sidiora Markets | 风险 43.38 | 原因：流动性偏薄、近 1 小时净流入转负
+- CCTV Abstract Mascot Meme Image | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged 4680 Meme Coin（Solana，分数 88.2）
+1. 当前最强叙事：Alleged Bibble Meme Coin（Solana，分数 86.57）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：Alleged 4680 Meme Coin 当前为“新出现”
+3. 记忆层变化：Javier Olivan Comments on Suspected Meme Image 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)
 #Binance #NarrativeOS #OpenClaw
