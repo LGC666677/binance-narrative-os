@@ -1,104 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-16T06:16:16.942310+00:00
+- 生成时间：2026-08-16T07:05:13.661953+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 CZ & FrankDeGods: Already Done?，所在链为 BSC，叙事强度 87.59。
-- 当前平均叙事强度为 80.99，其中已确认叙事 0 个。
+- 当前最强叙事是 Mike Dudas Rejects Coins，所在链为 Solana，叙事强度 88.84。
+- 当前平均叙事强度为 84.89，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Walruse Meme Coin 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Mark Cuban: Chips as New Crypto，伪叙事风险 44.91。
+- 记忆层显示 Solana All-day 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)。
 
 ## 叙事雷达
 
-- CZ & FrankDeGods: Already Done? | BSC | 降温中 | 强度 87.59 | 质量 79.08
-  - 主题摘要：Binance CEO CZ humorously replies to NFT artist FrankDeGods, implying that his support for the project or community is something he has already done, creating a playful meme narra…
-  - 资金 100.00 / 广度 94.08 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Relaxed Toad Meme | Solana | 降温中 | 强度 87.31 | 质量 78.39
-  - 主题摘要：According to rt29's post, a video of a toad watching daylight has gained over 500k views and is being memed in the comments. The content is described as a relaxed toad, potentiall…
-  - 资金 100.00 / 广度 91.79 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mike Dudas Rejects Coins | Solana | 降温中 | 强度 87.24 | 质量 78.27
+- Mike Dudas Rejects Coins | Solana | 降温中 | 强度 88.84 | 质量 80.85
   - 主题摘要：According to Mike Dudas's post, he explicitly requests that people stop sending him cryptocurrency tokens, stating that he does not want them. This statement serves as a direct re…
-  - 资金 100.00 / 广度 91.41 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of Meme Image 'Niu Lai' | BSC | 降温中 | 强度 86.34 | 质量 76.97
-  - 主题摘要：According to 噎 🔶BNB's post, the user released a Meme image titled 'Niu Lai' (Cow Come), comparing its green color and wild growth to early-stage crypto assets. The post claims the…
-  - 资金 100.00 / 广度 84.42 / 确认 16.56 / 脆弱性 14.00
+- Alleged Relaxed Toad Meme | Solana | 降温中 | 强度 87.45 | 质量 78.61
+  - 主题摘要：According to rt29's post, a video of a toad watching daylight has gained over 500k views and is being memed in the comments. The content is described as a relaxed toad, potentiall…
+  - 资金 100.00 / 广度 92.52 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $bih Meme Coin Promotion | Solana | 降温中 | 强度 86.18 | 质量 76.57
+- CZ & FrankDeGods: Already Done? | BSC | 降温中 | 强度 86.72 | 质量 79.09
+  - 主题摘要：Binance CEO CZ humorously replies to NFT artist FrankDeGods, implying that his support for the project or community is something he has already done, creating a playful meme narra…
+  - 资金 100.00 / 广度 94.13 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged $bih Meme Coin Promotion | Solana | 降温中 | 强度 86.19 | 质量 76.58
   - 主题摘要：According to Suted's post, the viral "Bonsai Fish" meme has gained significant traction with high view counts. Suted advocates for the promotion of the $bih token, allegedly assoc…
-  - 资金 100.00 / 广度 85.72 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.77 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jerry Lewis Discusses Solcat | Solana | 降温中 | 强度 85.29 | 质量 75.30
-  - 主题摘要：According to Jerry Lewis's post, he mentions Solcat in the context of Basecat reaching 800k, stating that they have Solcat on Solana. The post references a quoted tweet regarding…
-  - 资金 100.00 / 广度 84.13 / 确认 9.36 / 脆弱性 14.00
+- Solana All-day | Solana | 降温中 | 强度 84.99 | 质量 76.18
+  - 主题摘要：Solana官方账号回复关于其代币化股票交易创纪录的新闻，强调其网络24/7/365不间断运行的特性。这一简洁有力的回应突显了Solana在高性能和稳定性上的自信，适合作为象征‘永不停歇’或‘极致效率’的Meme主题。
+  - 资金 100.00 / 广度 87.07 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: Bitcoin is Deflationary | BSC | 加速中 | 强度 82.59 | 质量 82.09
-  - 主题摘要：CZ tweets about Bitcoin's supply cap, noting that with 20.07 million mined and significant lost coins, Bitcoin acts as a deflationary asset. This aligns with traditional 'hard mon…
-  - 资金 100.00 / 广度 95.68 / 确认 24.48 / 脆弱性 14.00
+- Solana Engagement | Solana | 降温中 | 强度 84.86 | 质量 76.18
+  - 主题摘要：Solana官方账号以极简风格提问关于互动率低的问题，暗示Solana生态的活力。这种官方自黑或挑战式的营销极易引发社区玩梗，生成以Solana吉祥物或相关生态符号为主的Meme代币。
+  - 资金 100.00 / 广度 87.07 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Launch of Meme Image 'Niu Lai' | BSC | 降温中 | 强度 83.96 | 质量 76.98
+  - 主题摘要：Multiple tokens named 「牛来」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.45 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Mandate of Heaven Token | Solana | 降温中 | 强度 83.45 | 质量 73.46
+  - 主题摘要：According to DUVELOPER's post, a token named 'MANDATE OF HEAVEN' with the symbol 'SpaceX' was deployed. The post references the phrase 'SpaceX has the Mandate of Heaven now' and m…
+  - 资金 100.00 / 广度 81.17 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- all roads lead to solana | Solana | 降温中 | 强度 82.49 | 质量 72.13
+  - 主题摘要：The official Solana account posted a statement highlighting the distinct nature of artists within the Solana ecosystem, emphasizing their unique characteristics and contributions…
+  - 资金 100.00 / 广度 85.20 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Bold Comments on Crypto Meme | Solana | 降温中 | 强度 80.86 | 质量 73.95
+  - 主题摘要：According to Bold's post, the user commented on a tweet regarding a Solana community meme about transitioning from a single wallet to multiple side wallets. Bold described the ref…
+  - 资金 100.00 / 广度 80.52 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Abstract World Rendering Contest Work | BSC | 加速中 | 强度 79.79 | 质量 73.23
+  - 主题摘要：According to 斯塔克's post, an abstract artwork from the 13th World Rendering Contest has garnered over 700,000 likes. The creator previously ranked first in popularity at the 11th e…
+  - 资金 100.00 / 广度 75.78 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Yi He Posts Bull-Horse Meme | BSC | 加速中 | 强度 80.75 | 质量 80.97
+- Alleged Biaoyan Panda Meme Image | BSC | 已确认 | 强度 78.98 | 质量 69.17
+  - 主题摘要：According to x10000Cri's post, a Meme image of a rare giant panda born without black eyepatches is being compared to 'Biao', a notable runner on Binance Coin. This information is…
+  - 资金 100.00 / 广度 75.98 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- CZ Clarifies BNB Token Details | BSC | 已确认 | 强度 78.56 | 质量 74.82
+  - 主题摘要：According to CZ's post, in response to a query about favorite memes, CZ clarified that BNB is the native coin and does not have a contract address (CA).
+  - 资金 100.00 / 广度 83.11 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Uncertain:Yi He Posts Bull-Horse Meme | BSC | 加速中 | 强度 76.45 | 质量 76.28
   - 主题摘要：Yi He shared a Meme image asking how to Photoshop a horse into a bull, referencing the anticipated bull market. The post reflects a humorous take on market expectations using inte…
-  - 资金 100.00 / 广度 92.49 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Walruse Meme Coin | Solana | 加速中 | 强度 79.40 | 质量 79.65
-  - 主题摘要：According to patch's post, the Walruse character, a seal/walrus meme from 2013, is identified as a potential challenger to Doge. The post details its history on 4chan and Reddit,…
-  - 资金 100.00 / 广度 88.06 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Bull Stock Meme Image | BSC | 加速中 | 强度 78.99 | 质量 78.37
-  - 主题摘要：Multiple tokens named 「牛逼」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.41 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mark Cuban: Chips as New Crypto | Solana | 点火期 | 强度 78.62 | 质量 77.75
-  - 主题摘要：According to Mark Cuban's post, he asserts that chips will become the new crypto asset class. This statement positions semiconductor technology as a significant investment categor…
-  - 资金 100.00 / 广度 89.65 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Binance bStocks Update | BSC | 加速中 | 强度 77.84 | 质量 75.65
-  - 主题摘要：Binance华语官方账号发布本周TradFi产品更新，重点介绍支持DTC转入转出及第三方代币化证券1:1转换bStocks的功能，旨在提升交易体验。
-  - 资金 97.35 / 广度 83.98 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Michael Saylor Shares Bitcoin Article | BSC | 加速中 | 强度 77.36 | 质量 76.54
-  - 主题摘要：According to Michael Saylor's post, he shared a link to an article hosted on X. The post does not contain specific textual commentary or analysis within the tweet body itself, ser…
-  - 资金 100.00 / 广度 87.03 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mark Cuban: Chips as New Crypto | BSC | 加速中 | 强度 76.47 | 质量 76.10
-  - 主题摘要：According to Mark Cuban's post, he asserts that chips will become the new crypto asset class. This statement positions semiconductor technology as a significant investment categor…
-  - 资金 100.00 / 广度 90.13 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 92.27 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.99，其中已确认叙事 0 个。
-- Alleged Walruse Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- CZ & FrankDeGods: Already Done? 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.89，其中已确认叙事 0 个。
+- Abstract World Rendering Contest Work 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Mike Dudas Rejects Coins 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ: Bitcoin is Deflationary | 质量 82.09 | 可交易性 100.00 | 风险 低
-- Uncertain:Yi He Posts Bull-Horse Meme | 质量 80.97 | 可交易性 100.00 | 风险 低
-- Alleged Walruse Meme Coin | 质量 79.65 | 可交易性 100.00 | 风险 低
-- CZ & FrankDeGods: Already Done? | 质量 79.08 | 可交易性 100.00 | 风险 低
-- Alleged Relaxed Toad Meme | 质量 78.39 | 可交易性 100.00 | 风险 低
-- Alleged Bull Stock Meme Image | 质量 78.37 | 可交易性 96.52 | 风险 低
-- Mike Dudas Rejects Coins | 质量 78.27 | 可交易性 100.00 | 风险 低
-- Mark Cuban: Chips as New Crypto | 质量 77.75 | 可交易性 100.00 | 风险 低
-- Alleged Launch of Meme Image 'Niu Lai' | 质量 76.97 | 可交易性 100.00 | 风险 低
-- Alleged $bih Meme Coin Promotion | 质量 76.57 | 可交易性 100.00 | 风险 低
+- Mike Dudas Rejects Coins | 质量 80.85 | 可交易性 100.00 | 风险 低
+- CZ & FrankDeGods: Already Done? | 质量 79.09 | 可交易性 100.00 | 风险 低
+- Alleged Relaxed Toad Meme | 质量 78.61 | 可交易性 100.00 | 风险 低
+- Alleged Launch of Meme Image 'Niu Lai' | 质量 76.98 | 可交易性 100.00 | 风险 低
+- Alleged $bih Meme Coin Promotion | 质量 76.58 | 可交易性 100.00 | 风险 低
+- Uncertain:Yi He Posts Bull-Horse Meme | 质量 76.28 | 可交易性 98.65 | 风险 低
+- Solana All-day | 质量 76.18 | 可交易性 100.00 | 风险 低
+- Solana Engagement | 质量 76.18 | 可交易性 100.00 | 风险 低
+- CZ Clarifies BNB Token Details | 质量 74.82 | 可交易性 85.70 | 风险 低
+- Bold Comments on Crypto Meme | 质量 73.95 | 可交易性 99.13 | 风险 低
 
 ## 伪叙事风险
 
-- Mark Cuban: Chips as New Crypto | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
-- DTC | BSC | 看多 | 新鲜度 100.00 | CZ: Bitcoin is Deflationary / Binance bStocks Update
+- DTC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 旺旺 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SpaceXcoin | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LUNA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CZ & FrankDeGods: Already Done?（BSC，分数 87.59）
+1. 当前最强叙事：Mike Dudas Rejects Coins（Solana，分数 88.84）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：Alleged Walruse Meme Coin 当前为“新出现”
+3. 记忆层变化：Solana All-day 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)
 #Binance #NarrativeOS #OpenClaw
