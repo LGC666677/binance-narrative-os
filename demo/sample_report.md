@@ -1,96 +1,96 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-17T05:03:00.996545+00:00
+- 生成时间：2026-08-17T05:46:32.729204+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Superman Comments on CRASHIUS Project，所在链为 Solana，叙事强度 84.92。
-- 当前平均叙事强度为 80.24，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 牛来，来自 BSC，共振分数 100.0。
-- 记忆层显示 Niu Lai's "Mama" Meme Goes Viral 当前处于“新出现”状态。
+- 当前最强叙事是 Shibetoshi Nakamoto on Meme Coins，所在链为 Solana，叙事强度 88.17。
+- 当前平均叙事强度为 81.24，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 UTILITY，来自 BSC，共振分数 100.0。
+- 记忆层显示 GANADI 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 CCTV Abstract Mascot Meme Image，伪叙事风险 47.23。
 - 最新官方催化来自 币安最新公告：Binance Will Support the Applied Materials (AMAT) and Microsoft (MSFT) Cash Dividend Distribution via bStocks。
 
 ## 叙事雷达
 
-- Superman Comments on CRASHIUS Project | Solana | 降温中 | 强度 84.92 | 质量 76.06
-  - 主题摘要：According to Superman's post, he quoted a tweet regarding the token CRASHIUS, describing the subject as "giga" and stating he is holding the dev supply until a wallet drop occurs.
-  - 资金 100.00 / 广度 84.02 / 确认 12.96 / 脆弱性 16.42
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Moo Meme Image | BSC | 已确认 | 强度 83.70 | 质量 72.50
-  - 主题摘要：According to 我肯定会发财！'s post, the author suggests that 'Moo' is the sound of a cow, analogous to 'Meow' for cats and 'Wolf' for dogs, implying a potential narrative for a token wit…
-  - 资金 100.00 / 广度 80.23 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- National Trump Digital Accounts | Solana | 降温中 | 强度 82.55 | 质量 73.09
+- Shibetoshi Nakamoto on Meme Coins | Solana | 加速中 | 强度 88.17 | 质量 80.60
+  - 主题摘要：According to Shibetoshi Nakamoto's post, the author expresses gratitude for meme coins, arguing that the cryptocurrency landscape would be boring without them. Shibetoshi Nakamoto…
+  - 资金 100.00 / 广度 90.70 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- National Trump Digital Accounts | Solana | 降温中 | 强度 84.96 | 质量 76.71
   - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.78 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.84 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Radon Project Clarification | Solana | 降温中 | 强度 81.97 | 质量 70.91
-  - 主题摘要：Multiple tokens named 「RADON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.69 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ignore Coin | BSC | 已确认 | 强度 81.24 | 质量 81.05
+- Ignore Coin | BSC | 已确认 | 强度 84.32 | 质量 81.20
   - 主题摘要：According to 德尔塔's post, the author stated that a specific individual instructed others to donate Giggle. The post highlights this directive regarding the Giggle token without pro…
-  - 资金 100.00 / 广度 89.59 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.07 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Shibetoshi Nakamoto on Meme Coins | Solana | 加速中 | 强度 80.62 | 质量 77.66
-  - 主题摘要：According to Shibetoshi Nakamoto's post, the author expresses gratitude for meme coins, arguing that the cryptocurrency landscape would be boring without them. This statement high…
-  - 资金 100.00 / 广度 84.08 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Niu Lai's "Mama" Meme Goes Viral | BSC | 加速中 | 强度 80.26 | 质量 75.25
-  - 主题摘要：According to _'s post, a viral video clip featuring a cow making a 'Mama~' sound has gained significant attention on Douyin, accumulating 180,000 likes. This content is associated…
-  - 资金 100.00 / 广度 78.93 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alpix.io | Solana | 降温中 | 强度 79.90 | 质量 69.55
-  - 主题摘要：Multiple tokens named 「Alpix」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.97 / 确认 9.36 / 脆弱性 14.00
+- Superman Comments on CRASHIUS Project | Solana | 降温中 | 强度 83.13 | 质量 76.02
+  - 主题摘要：According to Superman's post, he quoted a tweet regarding the token CRASHIUS, describing the subject as "giga" and stating he is holding the dev supply until a wallet drop occurs.
+  - 资金 91.93 / 广度 83.91 / 确认 12.96 / 脆弱性 16.44
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- White House Promotes Freedom 250 Grand Prix | BSC | 加速中 | 强度 79.38 | 质量 79.96
+- White House Promotes Freedom 250 Grand Prix | BSC | 加速中 | 强度 82.69 | 质量 80.10
   - 主题摘要：The White House announced the upcoming Freedom 250 Grand Prix event in Washington D.C., using patriotic slogans such as 'American Speed' and 'American Greatness' to generate excit…
-  - 资金 100.00 / 广度 89.63 / 确认 23.04 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.10 / 确认 23.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $Mist Token Launch | Solana | 加速中 | 强度 76.77 | 质量 65.65
+- Alleged Moo Meme Image | BSC | 已确认 | 强度 82.13 | 质量 72.85
+  - 主题摘要：According to 我肯定会发财！'s post, the author suggests that 'Moo' is the sound of a cow, analogous to 'Meow' for cats and 'Wolf' for dogs, implying a potential narrative for a token wit…
+  - 资金 100.00 / 广度 80.31 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- GANADI | Solana | 降温中 | 强度 81.10 | 质量 71.54
+  - 主题摘要：Multiple tokens named 「GANADI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.83 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged $Mist Token Launch | Solana | 加速中 | 强度 80.23 | 质量 72.00
   - 主题摘要：According to Riro Arc (リロ)'s post, the author claims to have discovered a viral TikTok dog named $Mist and alleges that this character has never been tokenized before, implying a…
-  - 资金 100.00 / 广度 65.77 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.86 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CCTV Abstract Mascot Meme Image | BSC | 点火期 | 强度 75.52 | 质量 71.88
+- Alpix.io | Solana | 降温中 | 强度 80.06 | 质量 69.78
+  - 主题摘要：Multiple tokens named 「Alpix」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.72 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Niu Lai's "Mama" Meme Goes Viral | BSC | 加速中 | 强度 76.71 | 质量 71.07
+  - 主题摘要：According to _'s post, a viral video clip featuring a cow making a 'Mama~' sound has gained significant attention on Douyin, accumulating 180,000 likes. This content is associated…
+  - 资金 100.00 / 广度 78.86 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Pringles Meme Coin | Solana | 降温中 | 强度 76.26 | 质量 67.06
+  - 主题摘要：According to Esoteric's post, a TikTok trend involving a '3-layer dip stack' meme is being cited as the first company-fabricated meme for free advertisement. This content is assoc…
+  - 资金 100.00 / 广度 59.31 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged ignorecat Meme Image | BSC | 加速中 | 强度 76.10 | 质量 66.76
+  - 主题摘要：According to Gutierrez's post, the official entity is releasing an ignorecat Meme image, claiming 100% token destruction and a return to meme status. This information is unverifie…
+  - 资金 100.00 / 广度 77.99 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- loans.ventures Launchpad | Solana | 降温中 | 强度 76.00 | 质量 68.35
+  - 主题摘要：According to loans's post, loans.ventures is introduced as a launchpad that pools creator rewards from memecoin launches into a shared lending liquidity pool via Aave. The platfor…
+  - 资金 100.00 / 广度 62.00 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CCTV Abstract Mascot Meme Image | BSC | 点火期 | 强度 74.78 | 质量 71.70
   - 主题摘要：According to Wall's post, CCTV has released an abstract Meme image featuring a mascot named 'Zhou Yilai'. The post highlights the novelty and viral nature of this newly released c…
-  - 资金 100.00 / 广度 80.42 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 80.49 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- liv bloom shares wallet address | Solana | 降温中 | 强度 74.98 | 质量 66.19
-  - 主题摘要：According to liv bloom's post, she shared her Solana wallet address (E8cP6Ez5DybDA55jgdH4TeBNC9Zdb72z8pexZqPNiBJj) in response to a request. She stated that this is her first nati…
-  - 资金 100.00 / 广度 82.05 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Hongchenfei Posts Meme Image | BSC | 加速中 | 强度 74.18 | 质量 64.19
-  - 主题摘要：Multiple tokens named 「红尘飞」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.00 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Asks: 4-bit Processor on BNB Chain? | BSC | 降温中 | 强度 73.91 | 质量 65.33
-  - 主题摘要：Developer Blonskr created a functional 4-bit processor on BNB Chain where each token acts as a transistor, mimicking the Intel 4004. CZ replied with interest, asking about its use…
-  - 资金 100.00 / 广度 72.35 / 确认 9.36 / 脆弱性 17.38
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.24，其中已确认叙事 0 个。
-- Niu Lai's "Mama" Meme Goes Viral 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Superman Comments on CRASHIUS Project 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.24，其中已确认叙事 0 个。
+- Alleged ignorecat Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- National Trump Digital Accounts 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Ignore Coin | 质量 81.05 | 可交易性 100.00 | 风险 低
-- White House Promotes Freedom 250 Grand Prix | 质量 79.96 | 可交易性 100.00 | 风险 低
-- Shibetoshi Nakamoto on Meme Coins | 质量 77.66 | 可交易性 100.00 | 风险 低
-- Superman Comments on CRASHIUS Project | 质量 76.06 | 可交易性 100.00 | 风险 低
-- Niu Lai's "Mama" Meme Goes Viral | 质量 75.25 | 可交易性 98.61 | 风险 低
-- National Trump Digital Accounts | 质量 73.09 | 可交易性 100.00 | 风险 低
-- Alleged Moo Meme Image | 质量 72.50 | 可交易性 80.83 | 风险 低
-- CCTV Abstract Mascot Meme Image | 质量 71.88 | 可交易性 87.05 | 风险 低
-- Radon Project Clarification | 质量 70.91 | 可交易性 98.00 | 风险 低
-- Alpix.io | 质量 69.55 | 可交易性 100.00 | 风险 低
+- Ignore Coin | 质量 81.20 | 可交易性 100.00 | 风险 低
+- Shibetoshi Nakamoto on Meme Coins | 质量 80.60 | 可交易性 100.00 | 风险 低
+- White House Promotes Freedom 250 Grand Prix | 质量 80.10 | 可交易性 100.00 | 风险 低
+- National Trump Digital Accounts | 质量 76.71 | 可交易性 100.00 | 风险 低
+- Superman Comments on CRASHIUS Project | 质量 76.02 | 可交易性 100.00 | 风险 低
+- Alleged Moo Meme Image | 质量 72.85 | 可交易性 81.94 | 风险 低
+- Alleged $Mist Token Launch | 质量 72.00 | 可交易性 95.34 | 风险 低
+- CCTV Abstract Mascot Meme Image | 质量 71.70 | 可交易性 86.37 | 风险 低
+- GANADI | 质量 71.54 | 可交易性 88.55 | 风险 低
+- Niu Lai's "Mama" Meme Goes Viral | 质量 71.07 | 可交易性 96.86 | 风险 低
 
 ## 伪叙事风险
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Superman Comments on CRASHIUS Project（Solana，分数 84.92）
-2. 共振最强代币：牛来（BSC，共振 100.0）
-3. 记忆层变化：Niu Lai's "Mama" Meme Goes Viral 当前为“新出现”
+1. 当前最强叙事：Shibetoshi Nakamoto on Meme Coins（Solana，分数 88.17）
+2. 共振最强代币：UTILITY（BSC，共振 100.0）
+3. 记忆层变化：GANADI 当前为“新出现”
 4. 最新官方催化：Binance Will Support the Applied Materials (AMAT) and Microsoft (MSFT) Cash Dividend Distribution via bStocks
 #Binance #NarrativeOS #OpenClaw
