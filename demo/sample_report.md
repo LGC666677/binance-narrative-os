@@ -1,101 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-17T15:22:38.877771+00:00
+- 生成时间：2026-08-17T15:45:17.750676+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Jia Shi Ben IP Narrative，所在链为 BSC，叙事强度 86.35。
-- 当前平均叙事强度为 79.68，其中已确认叙事 2 个。
+- 当前最强叙事是 Alleged Jia Shi Ben IP Narrative，所在链为 BSC，叙事强度 85.47。
+- 当前平均叙事强度为 80.19，其中已确认叙事 2 个。
 - 注意力与资金共振最强的代币是 牛来，来自 BSC，共振分数 100.0。
-- 记忆层显示 宇树科技股份有限公司 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Binance BBW，伪叙事风险 48.38。
+- 记忆层显示 United States Water Supply 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance VIP 6 for Six: Skip the Climb, Trade at VIP 6。
 
 ## 叙事雷达
 
-- Alleged Jia Shi Ben IP Narrative | BSC | 已确认 | 强度 86.35 | 质量 86.16
+- Alleged Jia Shi Ben IP Narrative | BSC | 已确认 | 强度 85.47 | 质量 86.17
   - 主题摘要：According to Mikuklk's post, the IP 'Jia Shi Ben' is described as the strongest domestic IP, with global branches and a 'cult-like' narrative on Douyin. The post urges buying into…
-  - 资金 100.00 / 广度 98.70 / 确认 38.88 / 脆弱性 24.00
+  - 资金 100.00 / 广度 98.72 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Rune Mentions Solcatana | Solana | 降温中 | 强度 84.58 | 质量 78.90
+- Rune Mentions Solcatana | Solana | 降温中 | 强度 84.59 | 质量 78.90
   - 主题摘要：According to Rune's post, the user mentioned the token Solcatana in a reply to a discussion about cats. The post references the Solcatana token, which is associated with the Solan…
-  - 资金 100.00 / 广度 97.47 / 确认 7.92 / 脆弱性 14.00
+  - 资金 100.00 / 广度 97.33 / 确认 7.92 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MANLET | Solana | 降温中 | 强度 82.26 | 质量 70.73
+- MANLET | Solana | 降温中 | 强度 82.46 | 质量 70.85
   - 主题摘要：Multiple tokens named 「MANLET」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.59 / 确认 4.32 / 脆弱性 0.00
+  - 资金 100.00 / 广度 73.00 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- lucky's Post on Haoyunlai | BSC | 加速中 | 强度 80.96 | 质量 80.22
-  - 主题摘要：According to 我肯定会发财！'s post, the author shared a Meme image related to the token 'Hao Yun Lai' (好运来), suggesting it deserves a status comparable to 'Niu' (Bull). The post referenc…
-  - 资金 100.00 / 广度 89.44 / 确认 24.48 / 脆弱性 24.00
+- United States Water Supply | Solana | 加速中 | 强度 81.50 | 质量 70.84
+  - 主题摘要：Multiple tokens named 「USWS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 62.40 / 确认 18.72 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of Qianlai Meme Coin | BSC | 已确认 | 强度 80.77 | 质量 79.56
+- lucky's Post on Haoyunlai | BSC | 加速中 | 强度 80.87 | 质量 80.24
+  - 主题摘要：According to 我肯定会发财！'s post, the author shared a Meme image related to the token 'Hao Yun Lai' (好运来), suggesting it deserves a status comparable to 'Niu' (Bull). The post referenc…
+  - 资金 100.00 / 广度 89.51 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of Qianlai Meme Coin | BSC | 已确认 | 强度 80.66 | 质量 79.55
   - 主题摘要：According to MGGA's post, Yi He is associated with the alleged launch of a token named 'Qianlai' (Money Comes). This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 85.87 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.93 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- ONYX COIN | Solana | 降温中 | 强度 79.76 | 质量 69.16
+- ONYX COIN | Solana | 降温中 | 强度 79.78 | 质量 69.17
   - 主题摘要：Multiple tokens named 「ONYX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.35 / 确认 4.32 / 脆弱性 0.00
+  - 资金 100.00 / 广度 67.39 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Four.meme-華語 Posts Meme Image | BSC | 加速中 | 强度 79.48 | 质量 79.79
+- Four.meme-華語 Posts Meme Image | BSC | 加速中 | 强度 79.28 | 质量 79.79
   - 主题摘要：According to Four.meme-華語's post, the user shared a Meme image featuring a 'freshly launched stock meme' and popcorn, indicating ongoing activity on the BNB Chain platform. The po…
   - 资金 100.00 / 广度 88.00 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 宇树科技股份有限公司 | Solana | 降温中 | 强度 79.33 | 质量 68.21
-  - 主题摘要：Multiple tokens named 「宇树科技」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.20 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Oringold_ Questions Analyst vs Agent | BSC | 加速中 | 强度 78.79 | 质量 79.19
+- Oringold_ Questions Analyst vs Agent | BSC | 加速中 | 强度 78.28 | 质量 78.71
   - 主题摘要：According to 我肯定会发财！'s post, the author questions whether the role of a market analyst is being replaced by or confused with an analysis agent, highlighting a distinction between…
   - 资金 100.00 / 广度 89.14 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Esoteric Comments on Fruit Fly Minecraft Video | Solana | 加速中 | 强度 78.23 | 质量 79.12
-  - 主题摘要：According to franklin's post, he shared download links for the 'Conscious' mod created by an individual identified as 'ro0oney1' on Instagram and 'Lixis9' on GitHub. The post prov…
-  - 资金 100.00 / 广度 92.14 / 确认 18.72 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Base Ecosystem Meme Coin Promotion | Solana | 加速中 | 强度 77.64 | 质量 66.45
+- Alleged Base Ecosystem Meme Coin Promotion | Solana | 加速中 | 强度 77.91 | 质量 66.43
   - 主题摘要：According to d's post, Marcell is suspected of releasing a Meme image. The post references a discussion regarding the Base ecosystem and the $BASECAT token, suggesting that Marcel…
-  - 资金 100.00 / 广度 80.43 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.56 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged US Version Niu Lai Meme Image | BSC | 加速中 | 强度 76.98 | 质量 77.52
-  - 主题摘要：Multiple tokens named 「Joshua」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.65 / 确认 23.76 / 脆弱性 24.00
+- Esoteric Comments on Fruit Fly Minecraft Video | Solana | 加速中 | 强度 77.63 | 质量 78.24
+  - 主题摘要：According to franklin's post, he shared download links for the 'Conscious' mod created by an individual identified as 'ro0oney1' on Instagram and 'Lixis9' on GitHub. The post prov…
+  - 资金 100.00 / 广度 92.02 / 确认 18.72 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cat Charlie Returns Home | Solana | 点火期 | 强度 75.79 | 质量 70.38
-  - 主题摘要：According to 000's post, a cat named Charlie returned home after being missing for 10 years, sparking widespread online attention and news coverage. The post highlights the viral…
-  - 资金 100.00 / 广度 82.12 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Binance BBW | BSC | 点火期 | 强度 74.43 | 质量 72.63
-  - 主题摘要：Binance official account replied to a user's request for a 'BBW' token with a confirming salute emoji, sparking speculation about a potential new listing or meme trend.
-  - 资金 100.00 / 广度 84.58 / 确认 15.12 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- The First Cat | Solana | 降温中 | 强度 77.38 | 质量 65.48
+  - 主题摘要：Multiple tokens named 「PROAILURUS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 55.11 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged US Version Niu Lai Meme Image | BSC | 加速中 | 强度 76.58 | 质量 77.08
+  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, a Meme image referred to as the "US version of Niu Lai" has gained significant attention, with views exceeding 10,000. This content is associate…
+  - 资金 100.00 / 广度 87.85 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged LIFE IF MEME Token | Solana | 降温中 | 强度 75.89 | 质量 66.79
+  - 主题摘要：According to and emotions's post, the entity Meta allegedly released a token named LIFE IF MEME. This information is unverified. Please exercise caution.
+  - 资金 96.08 / 广度 57.31 / 确认 11.52 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.68，其中已确认叙事 2 个。
-- Binance BBW 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.19，其中已确认叙事 2 个。
+- United States Water Supply 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Rune Mentions Solcatana 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Jia Shi Ben IP Narrative | 质量 86.16 | 可交易性 100.00 | 风险 低
-- lucky's Post on Haoyunlai | 质量 80.22 | 可交易性 100.00 | 风险 低
+- Alleged Jia Shi Ben IP Narrative | 质量 86.17 | 可交易性 100.00 | 风险 低
+- lucky's Post on Haoyunlai | 质量 80.24 | 可交易性 100.00 | 风险 低
 - Four.meme-華語 Posts Meme Image | 质量 79.79 | 可交易性 100.00 | 风险 低
-- Alleged Launch of Qianlai Meme Coin | 质量 79.56 | 可交易性 98.74 | 风险 低
-- Oringold_ Questions Analyst vs Agent | 质量 79.19 | 可交易性 100.00 | 风险 低
-- Esoteric Comments on Fruit Fly Minecraft Video | 质量 79.12 | 可交易性 100.00 | 风险 低
-- Rune Mentions Solcatana | 质量 78.90 | 可交易性 99.73 | 风险 低
-- Alleged US Version Niu Lai Meme Image | 质量 77.52 | 可交易性 100.00 | 风险 低
-- Binance BBW | 质量 72.63 | 可交易性 86.43 | 风险 低
-- MANLET | 质量 70.73 | 可交易性 100.00 | 风险 低
+- Alleged Launch of Qianlai Meme Coin | 质量 79.55 | 可交易性 98.65 | 风险 低
+- Rune Mentions Solcatana | 质量 78.90 | 可交易性 99.87 | 风险 低
+- Oringold_ Questions Analyst vs Agent | 质量 78.71 | 可交易性 100.00 | 风险 低
+- Esoteric Comments on Fruit Fly Minecraft Video | 质量 78.24 | 可交易性 100.00 | 风险 低
+- Alleged US Version Niu Lai Meme Image | 质量 77.08 | 可交易性 100.00 | 风险 低
+- MANLET | 质量 70.85 | 可交易性 100.00 | 风险 低
+- United States Water Supply | 质量 70.84 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Binance BBW | 风险 48.38 | 原因：流动性偏薄、近 1 小时净流入转负
-- Cat Charlie Returns Home | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,10 +102,10 @@
 - ELMO | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - IgnoreCoin | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 牛来 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- utility | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BILLY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ANIMALS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RADON | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CRASHIUS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Jia Shi Ben IP Narrative（BSC，分数 86.35）
+1. 当前最强叙事：Alleged Jia Shi Ben IP Narrative（BSC，分数 85.47）
 2. 共振最强代币：牛来（BSC，共振 100.0）
-3. 记忆层变化：宇树科技股份有限公司 当前为“新出现”
+3. 记忆层变化：United States Water Supply 当前为“新出现”
 4. 最新官方催化：Binance VIP 6 for Six: Skip the Climb, Trade at VIP 6
 #Binance #NarrativeOS #OpenClaw
