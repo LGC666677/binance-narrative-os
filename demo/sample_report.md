@@ -1,17 +1,17 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-17T21:56:05.222167+00:00
+- 生成时间：2026-08-17T22:11:10.292744+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
 - 当前最强叙事是 Misterbilly Discusses $EYE Token，所在链为 Solana，叙事强度 89.43。
-- 当前平均叙事强度为 84.31，其中已确认叙事 0 个。
+- 当前平均叙事强度为 81.86，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 BONK.fun Monday Vibes 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Ferrari CZ26，伪叙事风险 50.11。
+- 记忆层显示 Aliens Meme Tab 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Ferrari CZ26，伪叙事风险 44.91。
 - 最新官方催化来自 最新活动：Binance VIP 6 for Six: Skip the Climb, Trade at VIP 6。
 
 ## 叙事雷达
@@ -20,81 +20,81 @@
   - 主题摘要：According to Connor's post, he referenced a tweet containing the text 'BULL'S $EYE' and the image 'CDUvV5NgiHUchBU5jwQ3Guot2JgbXJ9wiEZLeXuomfVP', while also asking about the spell…
   - 资金 100.00 / 广度 100.00 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of $Bullshit Meme Token | Solana | 降温中 | 强度 86.87 | 质量 79.45
+- Alleged Launch of $Bullshit Meme Token | Solana | 降温中 | 强度 86.86 | 质量 79.43
   - 主题摘要：According to Shitoshi's post, the artist created a physical 'Bullshit Coin' inspired by the Black Bull and dedicated it to @blknoiz06. Shitoshi shared the associated Meme image an…
-  - 资金 100.00 / 广度 92.68 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 92.61 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BONK.fun Monday Vibes | Solana | 加速中 | 强度 85.91 | 质量 79.95
-  - 主题摘要：According to BONK.fun's post, the account shared a message expressing "Monday vibes," likely referencing the associated MONDAY token. The content is brief and lacks specific detai…
-  - 资金 100.00 / 广度 89.08 / 确认 23.76 / 脆弱性 14.00
+- Aliens Meme Tab | BSC | 加速中 | 强度 84.47 | 质量 77.34
+  - 主题摘要：According to //Devquant's post, X has introduced a new 'Memes' tab located next to the 'For You' and 'Following' tabs. The icon for this feature is an alien emoji. //Devquant clar…
+  - 资金 100.00 / 广度 77.73 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- nana.moon Comments on Olive | Solana | 加速中 | 强度 85.84 | 质量 80.30
-  - 主题摘要：According to alon's post, the majority of top holders for $BASECAT purchased the token via the Pumpfun app. This retweet highlights cross-chain whale tracking capabilities on the…
-  - 资金 100.00 / 广度 90.24 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WWR | Solana | 降温中 | 强度 84.30 | 质量 73.81
+- WWR | Solana | 降温中 | 强度 82.18 | 质量 71.34
   - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.54 / 确认 12.96 / 脆弱性 10.00
+  - 资金 100.00 / 广度 68.31 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Z500 Token Launch | Solana | 加速中 | 强度 84.15 | 质量 74.38
-  - 主题摘要：According to onzhainmozart's post, the user claims that Z500 is the only Diamond Coin on Z500 and shares a link to ansem.io/z500. This information is unverified. Please exercise c…
-  - 资金 100.00 / 广度 78.25 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- lucky's Post on Haoyunlai | BSC | 加速中 | 强度 80.84 | 质量 81.16
+- lucky's Post on Haoyunlai | BSC | 加速中 | 强度 82.04 | 质量 81.18
   - 主题摘要：According to 我肯定会发财！'s post, the user shared a Meme image associated with the token 'Haoyunlai' (好运来), referencing its cultural recognition through song lyrics. This information i…
-  - 资金 100.00 / 广度 92.59 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 92.65 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hobbes | Solana | 加速中 | 强度 80.37 | 质量 79.92
-  - 主题摘要：According to Ansem 🐂🀄️'s post, a Meme image depicts a fictional 'Ansem world' where tokens like Ansem and Hobbes Cat Coin are central to daily life and trading. This narrative des…
-  - 资金 100.00 / 广度 88.46 / 确认 24.48 / 脆弱性 24.00
+- BONK.fun Monday Vibes | Solana | 加速中 | 强度 81.59 | 质量 79.99
+  - 主题摘要：According to BONK.fun's post, the account shared a message expressing "Monday vibes," likely referencing the associated MONDAY token. The content is brief and lacks specific detai…
+  - 资金 100.00 / 广度 91.86 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of Qianlai Meme Coin | BSC | 已确认 | 强度 79.22 | 质量 78.22
+- Alleged Launch of Qianlai Meme Coin | BSC | 已确认 | 强度 80.32 | 质量 78.21
   - 主题摘要：According to MGGA's post, Yi He is associated with the alleged launch of a token named 'Qianlai' (Money Comes). This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 85.56 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.56 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Ferrari CZ26 | BSC | 点火期 | 强度 79.15 | 质量 78.97
+- Hobbes | Solana | 加速中 | 强度 80.29 | 质量 79.93
+  - 主题摘要：According to Ansem 🐂🀄️'s post, a Meme image depicts a fictional 'Ansem world' where tokens like Ansem and Hobbes Cat Coin are central to daily life and trading. This narrative des…
+  - 资金 100.00 / 广度 88.49 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ferrari CZ26 | BSC | 点火期 | 强度 80.23 | 质量 78.93
   - 主题摘要：Binance CEO CZ humorously acknowledges a visual similarity between his name and the new Ferrari F1 car model 'CZ26'. This crossover between luxury automotive culture and crypto le…
-  - 资金 100.00 / 广度 94.86 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.90 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Panda Cat Meme Image Gains Popularity | BSC | 已确认 | 强度 78.15 | 质量 77.15
+- nana.moon Comments on Olive | Solana | 加速中 | 强度 79.55 | 质量 76.30
+  - 主题摘要：According to alon's post, the majority of top holders for $BASECAT purchased the token via the Pumpfun app. This retweet highlights cross-chain whale tracking capabilities on the…
+  - 资金 100.00 / 广度 89.48 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Panda Cat Meme Image Gains Popularity | BSC | 已确认 | 强度 78.68 | 质量 77.34
   - 主题摘要：According to jaseem's post, a new Panda Cat Meme image has recently gone viral on TikTok, garnering over 110,000 likes. Many users have adopted it as their profile picture, indica…
-  - 资金 100.00 / 广度 81.28 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.33 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- RST | Solana | 降温中 | 强度 77.64 | 质量 65.14
+- RST | Solana | 降温中 | 强度 77.65 | 质量 65.14
   - 主题摘要：RST token powers Resolut, a project focused on AI infrastructure. The logo features a stylized 'R' in orange, symbolizing resilience and innovation. RST aims to revolutionize AI d…
   - 资金 100.00 / 广度 50.27 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Ansem Publishes INDEX Article | Solana | 降温中 | 强度 77.33 | 质量 61.99
+  - 主题摘要：According to Ansem 🐂🀄️'s post, the author published an article discussing the concept of an onchain index. The content references token projects such as 'The index' and 'Z500', wh…
+  - 资金 100.00 / 广度 76.03 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Oringold_ Questions Analyst vs Agent | BSC | 加速中 | 强度 75.87 | 质量 75.30
   - 主题摘要：According to 我肯定会发财！'s post, the author questions whether the role of a market analyst is being replaced by or confused with an analysis agent, highlighting a distinction between…
   - 资金 100.00 / 广度 89.08 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Panda Meme Image | BSC | 加速中 | 强度 73.85 | 质量 73.82
-  - 主题摘要：According to bnb agent's post, a Meme image featuring a panda with BTC pairs was shared. This content relates to the 'Panda' token. This information is unverified. Please exercise…
-  - 资金 100.00 / 广度 68.13 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.31，其中已确认叙事 0 个。
-- BONK.fun Monday Vibes 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.86，其中已确认叙事 0 个。
+- Aliens Meme Tab 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Alleged Launch of $Bullshit Meme Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Misterbilly Discusses $EYE Token | 质量 83.23 | 可交易性 100.00 | 风险 低
-- lucky's Post on Haoyunlai | 质量 81.16 | 可交易性 100.00 | 风险 低
-- nana.moon Comments on Olive | 质量 80.30 | 可交易性 100.00 | 风险 低
-- BONK.fun Monday Vibes | 质量 79.95 | 可交易性 100.00 | 风险 低
-- Hobbes | 质量 79.92 | 可交易性 100.00 | 风险 低
-- Alleged Launch of $Bullshit Meme Token | 质量 79.45 | 可交易性 100.00 | 风险 低
-- Ferrari CZ26 | 质量 78.97 | 可交易性 98.86 | 风险 低
-- Alleged Launch of Qianlai Meme Coin | 质量 78.22 | 可交易性 94.57 | 风险 低
-- Panda Cat Meme Image Gains Popularity | 质量 77.15 | 可交易性 95.31 | 风险 低
-- Oringold_ Questions Analyst vs Agent | 质量 75.30 | 可交易性 99.14 | 风险 低
+- lucky's Post on Haoyunlai | 质量 81.18 | 可交易性 100.00 | 风险 低
+- BONK.fun Monday Vibes | 质量 79.99 | 可交易性 100.00 | 风险 低
+- Hobbes | 质量 79.93 | 可交易性 100.00 | 风险 低
+- Alleged Launch of $Bullshit Meme Token | 质量 79.43 | 可交易性 100.00 | 风险 低
+- Ferrari CZ26 | 质量 78.93 | 可交易性 98.71 | 风险 低
+- Alleged Launch of Qianlai Meme Coin | 质量 78.21 | 可交易性 94.55 | 风险 低
+- Aliens Meme Tab | 质量 77.34 | 可交易性 100.00 | 风险 低
+- Panda Cat Meme Image Gains Popularity | 质量 77.34 | 可交易性 95.87 | 风险 低
+- nana.moon Comments on Olive | 质量 76.30 | 可交易性 90.07 | 风险 低
 
 ## 伪叙事风险
 
-- Ferrari CZ26 | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Ferrari CZ26 | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -135,6 +135,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：Misterbilly Discusses $EYE Token（Solana，分数 89.43）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：BONK.fun Monday Vibes 当前为“新出现”
+3. 记忆层变化：Aliens Meme Tab 当前为“新出现”
 4. 最新官方催化：Binance VIP 6 for Six: Skip the Climb, Trade at VIP 6
 #Binance #NarrativeOS #OpenClaw
