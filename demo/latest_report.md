@@ -1,99 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-17T10:45:32.441890+00:00
+- 生成时间：2026-08-17T11:12:29.063275+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Jia Shi Ben IP Narrative，所在链为 BSC，叙事强度 88.32。
-- 当前平均叙事强度为 80.81，其中已确认叙事 2 个。
+- 当前最强叙事是 XTAL，所在链为 Solana，叙事强度 88.27。
+- 当前平均叙事强度为 82.22，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 Solana Heats Up 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Simon Comments on Jim Lion Video，伪叙事风险 41.3。
+- 记忆层显示 United States Oil Network 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Indie Dev Purged by Sony，伪叙事风险 42.03。
 - 最新官方催化来自 最新活动：Binance VIP 6 for Six: Skip the Climb, Trade at VIP 6。
 
 ## 叙事雷达
 
-- Alleged Jia Shi Ben IP Narrative | BSC | 已确认 | 强度 88.32 | 质量 86.21
-  - 主题摘要：According to Mikuklk's post, the entity 'Jia Shi Ben' is described as the strongest IP in China with global branches, characterized as a 'cult narrative' on Douyin. Mikuklk claims…
-  - 资金 100.00 / 广度 98.84 / 确认 38.88 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
 - XTAL | Solana | 降温中 | 强度 88.27 | 质量 77.23
   - 主题摘要：XTAL token represents a specialized AI hardware development project. The logo features a circuit board design, symbolizing the token's focus on tokenizing computing power for AI a…
   - 资金 100.00 / 广度 87.92 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Simon Comments on Jim Lion Video | Solana | 降温中 | 强度 84.88 | 质量 77.58
-  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, he commented on a video by Jim Lion, noting that the content has been referred to as the American version of 'Niu Lai' and has already exceeded…
-  - 资金 100.00 / 广度 89.11 / 确认 12.96 / 脆弱性 30.13
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of Qianlai Meme Coin | BSC | 已确认 | 强度 83.31 | 质量 78.19
-  - 主题摘要：According to MGGA's post, the user shared a link referencing 'Yi He' and the token 'Qianlai' (Money Comes), implying the alleged launch of a Meme coin. This information is unverif…
-  - 资金 100.00 / 广度 83.12 / 确认 28.08 / 脆弱性 24.00
+- Alleged Jia Shi Ben IP Narrative | BSC | 已确认 | 强度 87.25 | 质量 86.22
+  - 主题摘要：According to Mikuklk's post, the entity 'Jia Shi Ben' is described as the strongest IP in China with global branches, characterized as a 'cult narrative' on Douyin. Mikuklk claims…
+  - 资金 100.00 / 广度 98.89 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Launch of Qianlai Meme Coin | BSC | 已确认 | 强度 87.09 | 质量 78.60
+  - 主题摘要：According to MGGA's post, the user shared a link referencing 'Yi He' and the token 'Qianlai' (Money Comes), implying the alleged launch of a Meme coin. This information is unverif…
+  - 资金 100.00 / 广度 83.31 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- lucky's Post on Haoyunlai | BSC | 加速中 | 强度 85.33 | 质量 75.40
+  - 主题摘要：According to 我肯定会发财！'s post, the user shared a Meme image related to the token 'Haoyunlai' (好运来), describing it as having a status comparable to 'Niu' (Bull) and noting its recogn…
+  - 资金 100.00 / 广度 81.49 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Simon Comments on Jim Lion Video | Solana | 降温中 | 强度 84.88 | 质量 77.59
+  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, he commented on a video by Jim Lion, noting that the content has been referred to as the American version of 'Niu Lai' and has already exceeded…
+  - 资金 100.00 / 广度 89.12 / 确认 12.96 / 脆弱性 30.13
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - USWR | Solana | 降温中 | 强度 82.48 | 质量 70.55
   - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.29 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 68.30 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Indie Dev Purged by Sony | Solana | 加速中 | 强度 82.43 | 质量 79.09
-  - 主题摘要：According to Juan Latino's post, an indie developer's PS5 game repositories were purged by Sony without reason after years of porting. The community is raising funds to help resto…
-  - 资金 100.00 / 广度 89.24 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alpix.io | Solana | 降温中 | 强度 81.30 | 质量 69.55
+- United States Oil Network | Solana | 降温中 | 强度 81.78 | 质量 70.43
+  - 主题摘要：Multiple tokens named 「USON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.33 / 确认 11.52 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- US Trust Fund | Solana | 降温中 | 强度 81.64 | 质量 70.04
+  - 主题摘要：Multiple tokens named 「USTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.31 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alpix.io | Solana | 降温中 | 强度 81.29 | 质量 69.55
   - 主题摘要：Multiple tokens named 「Alpix」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.97 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 64.98 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- lucky's Post on Haoyunlai | BSC | 加速中 | 强度 80.79 | 质量 75.13
-  - 主题摘要：According to 我肯定会发财！'s post, the user shared a Meme image related to the token 'Haoyunlai' (好运来), describing it as having a status comparable to 'Niu' (Bull) and noting its recogn…
-  - 资金 100.00 / 广度 81.55 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Four.meme-華語 Posts Meme Image | BSC | 加速中 | 强度 80.70 | 质量 79.86
+- Four.meme-華語 Posts Meme Image | BSC | 加速中 | 强度 80.73 | 质量 79.87
   - 主题摘要：According to Four.meme-華語's post, the user shared a Meme image featuring a 'freshly launched stock meme' and popcorn, indicating ongoing activity on the BNB Chain platform. The po…
-  - 资金 100.00 / 广度 88.26 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.27 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Oringold_ Questions Analyst vs Agent | BSC | 加速中 | 强度 79.44 | 质量 80.10
+- Indie Dev Purged by Sony | Solana | 点火期 | 强度 79.35 | 质量 74.58
+  - 主题摘要：According to Juan Latino's post, an indie developer's PS5 game repositories were purged by Sony without reason after years of porting. The community is raising funds to help resto…
+  - 资金 100.00 / 广度 89.31 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Oringold_ Questions Analyst vs Agent | BSC | 加速中 | 强度 78.42 | 质量 78.87
   - 主题摘要：According to 我肯定会发财！'s post, the author questions whether the role of a market analyst is being replaced by or confused with an analysis agent, highlighting a distinction between…
-  - 资金 100.00 / 广度 89.04 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.89 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Drake Meme Coin | Solana | 降温中 | 强度 78.62 | 质量 70.65
-  - 主题摘要：According to The GeoRipper®20 MiniTrencher's post, a viral Instagram image featuring Drake on a leash has gained significant attention, potentially fueling interest in related tok…
-  - 资金 100.00 / 广度 83.47 / 确认 16.56 / 脆弱性 14.00
+- Cat Charlie Returns Home | Solana | 降温中 | 强度 78.08 | 质量 68.90
+  - 主题摘要：According to 000's post, a cat named Charlie returned home after being missing for 10 years, sparking widespread online attention and news coverage. The post highlights the viral…
+  - 资金 100.00 / 广度 81.36 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Solana Heats Up | Solana | 降温中 | 强度 78.03 | 质量 67.90
-  - 主题摘要：Solana官方账号转发了Phantom钱包关于网络热度上升的推文。虽然内容简洁，但暗示了链上活动的增加，适合打造与热度、火焰相关的Meme代币。
-  - 资金 100.00 / 广度 79.84 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance Introduces 'Explorer' User Label | BSC | 加速中 | 强度 77.28 | 质量 74.13
-  - 主题摘要：According to 利群's post, Binance has assigned a new title, "Explorer," to its users. This designation appears to be part of a platform initiative or campaign, as indicated by the s…
-  - 资金 100.00 / 广度 78.18 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:User _ comments on BNB price | BSC | 加速中 | 强度 75.82 | 质量 75.34
-  - 主题摘要：According to _'s post, the author expresses an opinion regarding the presentation or status of BNB, accompanied by a link to the BNB price page on Binance.
-  - 资金 96.58 / 广度 84.18 / 确认 27.36 / 脆弱性 24.00
+- Uncertain:Yi He Responds to Merchandise Discussion | BSC | 加速中 | 强度 77.69 | 质量 62.53
+  - 主题摘要：Yi He replied to a user's post expressing amusement over cryptocurrency merchandise, using emojis to convey a positive and supportive attitude towards the community's engagement w…
+  - 资金 100.00 / 广度 77.46 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.81，其中已确认叙事 2 个。
-- Uncertain:Binance Introduces 'Explorer' User Label 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.22，其中已确认叙事 0 个。
+- Uncertain:Yi He Responds to Merchandise Discussion 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - XTAL 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Jia Shi Ben IP Narrative | 质量 86.21 | 可交易性 100.00 | 风险 低
-- Oringold_ Questions Analyst vs Agent | 质量 80.10 | 可交易性 100.00 | 风险 低
-- Four.meme-華語 Posts Meme Image | 质量 79.86 | 可交易性 100.00 | 风险 低
-- Indie Dev Purged by Sony | 质量 79.09 | 可交易性 99.62 | 风险 低
-- Alleged Launch of Qianlai Meme Coin | 质量 78.19 | 可交易性 96.92 | 风险 低
-- Simon Comments on Jim Lion Video | 质量 77.58 | 可交易性 100.00 | 风险 低
+- Alleged Jia Shi Ben IP Narrative | 质量 86.22 | 可交易性 100.00 | 风险 低
+- Four.meme-華語 Posts Meme Image | 质量 79.87 | 可交易性 100.00 | 风险 低
+- Oringold_ Questions Analyst vs Agent | 质量 78.87 | 可交易性 100.00 | 风险 低
+- Alleged Launch of Qianlai Meme Coin | 质量 78.60 | 可交易性 98.11 | 风险 低
+- Simon Comments on Jim Lion Video | 质量 77.59 | 可交易性 100.00 | 风险 低
 - XTAL | 质量 77.23 | 可交易性 100.00 | 风险 低
-- Uncertain:User _ comments on BNB price | 质量 75.34 | 可交易性 95.07 | 风险 低
-- lucky's Post on Haoyunlai | 质量 75.13 | 可交易性 90.92 | 风险 低
-- Uncertain:Binance Introduces 'Explorer' User Label | 质量 74.13 | 可交易性 91.49 | 风险 低
+- lucky's Post on Haoyunlai | 质量 75.40 | 可交易性 91.89 | 风险 低
+- Indie Dev Purged by Sony | 质量 74.58 | 可交易性 99.54 | 风险 低
+- USWR | 质量 70.55 | 可交易性 100.00 | 风险 低
+- United States Oil Network | 质量 70.43 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- Indie Dev Purged by Sony | 风险 42.03 | 原因：流动性偏薄
 - Simon Comments on Jim Lion Video | 风险 41.30 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Jia Shi Ben IP Narrative（BSC，分数 88.32）
+1. 当前最强叙事：XTAL（Solana，分数 88.27）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：Solana Heats Up 当前为“新出现”
+3. 记忆层变化：United States Oil Network 当前为“新出现”
 4. 最新官方催化：Binance VIP 6 for Six: Skip the Climb, Trade at VIP 6
 #Binance #NarrativeOS #OpenClaw
