@@ -1,105 +1,106 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-18T17:41:30.531159+00:00
+- 生成时间：2026-08-18T17:58:55.466324+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 CATK猫王，所在链为 BSC，叙事强度 86.47。
-- 当前平均叙事强度为 77.97，其中已确认叙事 1 个。
+- 当前最强叙事是 CATK猫王，所在链为 BSC，叙事强度 86.7。
+- 当前平均叙事强度为 78.17，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 SNAPCHAT 当前处于“新出现”状态。
+- 记忆层显示 Ansem Season 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Stellantis Worker Killed by Robot，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade KiiChain (KII) and Share $200K Worth of Rewards (2026-08-18)。
 
 ## 叙事雷达
 
-- CATK猫王 | BSC | 加速中 | 强度 86.47 | 质量 80.41
+- CATK猫王 | BSC | 加速中 | 强度 86.70 | 质量 80.41
   - 主题摘要：Binance Chinese announced a VIP invitation program for its 9th anniversary. Eligible traders can apply based on external trading volume to receive a 60-day VIP+1 trial and exclusi…
   - 资金 100.00 / 广度 90.62 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Superplanet | Solana | 降温中 | 强度 85.54 | 质量 73.17
+- Superplanet | Solana | 降温中 | 强度 85.56 | 质量 73.20
   - 主题摘要：According to Coinpedia's post, Metaplanet plans to invest 2,100 BTC to launch Superplanet, a new U.S.-focused Bitcoin treasury platform via Super League. This initiative aims to e…
-  - 资金 100.00 / 广度 77.05 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 77.13 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Official 67 Bull | Solana | 降温中 | 强度 84.42 | 质量 80.06
-  - 主题摘要：Multiple tokens named 「67BULL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Gork Nguyen Comments on Cash App Phone Plan | Solana | 降温中 | 强度 84.24 | 质量 73.35
-  - 主题摘要：According to Gork Nguyen's post, he commented on a Cash App announcement regarding a new $40/month unlimited 5G mobile plan on the AT&T network. He noted that the ticker for this…
-  - 资金 100.00 / 广度 80.47 / 确认 13.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SNAPCHAT | Solana | 降温中 | 强度 83.33 | 质量 72.73
-  - 主题摘要：SNAP token draws inspiration from the iconic Snapchat logo featuring the ghost face on yellow background. The token's slogan 'Say it in a Snap' reflects Snapchat's messaging platf…
-  - 资金 100.00 / 广度 78.74 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- US Trust Fund | Solana | 降温中 | 强度 83.19 | 质量 71.07
+- US Trust Fund | Solana | 降温中 | 强度 84.35 | 质量 72.24
   - 主题摘要：Multiple tokens named 「USTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.75 / 确认 16.56 / 脆弱性 0.00
+  - 资金 100.00 / 广度 68.65 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Responds to Sun Xue | BSC | 已确认 | 强度 82.94 | 质量 84.68
+- Gork Nguyen Comments on Cash App Phone Plan | Solana | 降温中 | 强度 84.30 | 质量 73.46
+  - 主题摘要：According to Gork Nguyen's post, he commented on a Cash App announcement regarding a new $40/month unlimited 5G mobile plan on the AT&T network. He noted that the ticker for this…
+  - 资金 100.00 / 广度 80.49 / 确认 13.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- SNAPCHAT | Solana | 降温中 | 强度 83.27 | 质量 72.80
+  - 主题摘要：SNAP token draws inspiration from the iconic Snapchat logo featuring the ghost face on yellow background. The token's slogan 'Say it in a Snap' reflects Snapchat's messaging platf…
+  - 资金 100.00 / 广度 78.96 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Yi He Responds to Sun Xue | BSC | 已确认 | 强度 82.97 | 质量 84.71
   - 主题摘要：Binance Co-CEO Yi He jokingly claims to be studying "Sun Studies" in response to Justin Sun, creating a humorous crossover between the two crypto giants' leadership. This interact…
-  - 资金 100.00 / 广度 93.75 / 确认 38.88 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.86 / 确认 38.88 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- The Official 67 Bull | Solana | 降温中 | 强度 82.76 | 质量 75.87
+  - 主题摘要：Multiple tokens named 「67BULL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.05 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Stellantis Worker Killed by Robot | Solana | 点火期 | 强度 80.65 | 质量 75.81
   - 主题摘要：According to Daily Mail's post, a worker at a Stellantis car factory in Detroit was killed by a robot while retooling the facility. The incident highlights safety concerns in indu…
   - 资金 100.00 / 广度 85.82 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Google Japan Gemini Meme Character | Solana | 降温中 | 强度 79.89 | 质量 70.62
-  - 主题摘要：According to Míriam Figueiredo da Silveira's post, Google Japan has adopted a Slime character as the new visual template for its Gemini AI meme content. This change integrates the…
-  - 资金 100.00 / 广度 63.27 / 确认 16.56 / 脆弱性 14.00
+- Ansem Season | Solana | 降温中 | 强度 80.33 | 质量 74.63
+  - 主题摘要：According to Ansem 🐂🀄️'s post, the 'Ansem Season' narrative is highlighted by referencing the Ansem.io leaderboard. The post invites engagement by asking for user picks regarding…
+  - 资金 100.00 / 广度 81.89 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged CASH Meme Coin | Solana | 降温中 | 强度 79.89 | 质量 66.29
-  - 主题摘要：According to patch's post, a rescued lion named 'CASH' is featured in a Meme image, with the author drawing a parallel to the pursuit of cryptocurrency. This content references to…
-  - 资金 100.00 / 广度 79.88 / 确认 13.00 / 脆弱性 14.00
+- WISPO | Solana | 降温中 | 强度 80.20 | 质量 71.71
+  - 主题摘要：Multiple tokens named 「WISPO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.34 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 牛来 | BSC | 降温中 | 强度 75.34 | 质量 67.15
+- 牛来 | BSC | 降温中 | 强度 75.24 | 质量 67.17
   - 主题摘要：NiuLai (牛来) is a meme token inspired by the Chinese character '牛' (ox), symbolizing strength and prosperity. The logo features a cartoon ox with blue horns, embodying the token's…
-  - 资金 100.00 / 广度 56.98 / 确认 9.36 / 脆弱性 10.00
+  - 资金 100.00 / 广度 57.05 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- jadedev Shares 'Ji Ni Tai Mei' Meme Image | BSC | 加速中 | 强度 74.96 | 质量 68.18
-  - 主题摘要：According to jadedev's post, the user shares a Meme image related to the 'Ji Ni Tai Mei' (Chicken You Are So Beautiful) internet meme, claiming it is currently trending. The post…
-  - 资金 100.00 / 广度 73.66 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 - Alleged Launch of Real-Life Niu Lai Meme Image | BSC | 降温中 | 强度 74.83 | 质量 60.05
   - 主题摘要：According to just a little dev's post, the official account of Futu NiuNiu published information regarding the US stock pool.
   - 资金 100.00 / 广度 86.47 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Mars Bucks Meme | BSC | 加速中 | 强度 73.28 | 质量 73.24
-  - 主题摘要：According to VIOLETTA's post, the user speculated about the potential use of 'Mars Bucks' for future transactions, referencing a Goldman Sachs forecast on the space economy. This…
-  - 资金 100.00 / 广度 89.01 / 确认 20.16 / 脆弱性 24.00
+- jadedev Shares 'Ji Ni Tai Mei' Meme Image | BSC | 加速中 | 强度 74.71 | 质量 68.16
+  - 主题摘要：According to jadedev's post, the user shares a Meme image related to the 'Ji Ni Tai Mei' (Chicken You Are So Beautiful) internet meme, claiming it is currently trending. The post…
+  - 资金 100.00 / 广度 73.66 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Giantcutie666 Posts Glueball Meme Image | BSC | 加速中 | 强度 74.60 | 质量 71.38
+  - 主题摘要：According to 大漂亮| C Labs's post, the author claims that gluons, composed entirely of force without quarks, provide scientific support for the cultivation concept of 'gathering ene…
+  - 资金 100.00 / 广度 87.88 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.97，其中已确认叙事 1 个。
-- jadedev Shares 'Ji Ni Tai Mei' Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.17，其中已确认叙事 1 个。
+- Giantcutie666 Posts Glueball Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Superplanet 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Yi He Responds to Sun Xue | 质量 84.68 | 可交易性 100.00 | 风险 低
+- Yi He Responds to Sun Xue | 质量 84.71 | 可交易性 100.00 | 风险 低
 - CATK猫王 | 质量 80.41 | 可交易性 100.00 | 风险 低
-- The Official 67 Bull | 质量 80.06 | 可交易性 100.00 | 风险 低
+- The Official 67 Bull | 质量 75.87 | 可交易性 100.00 | 风险 低
 - Stellantis Worker Killed by Robot | 质量 75.81 | 可交易性 100.00 | 风险 低
-- Gork Nguyen Comments on Cash App Phone Plan | 质量 73.35 | 可交易性 94.50 | 风险 低
-- Alleged Mars Bucks Meme | 质量 73.24 | 可交易性 100.00 | 风险 低
-- Superplanet | 质量 73.17 | 可交易性 100.00 | 风险 低
-- SNAPCHAT | 质量 72.73 | 可交易性 100.00 | 风险 低
-- US Trust Fund | 质量 71.07 | 可交易性 100.00 | 风险 低
-- Google Japan Gemini Meme Character | 质量 70.62 | 可交易性 100.00 | 风险 低
+- Ansem Season | 质量 74.63 | 可交易性 100.00 | 风险 低
+- Gork Nguyen Comments on Cash App Phone Plan | 质量 73.46 | 可交易性 94.83 | 风险 低
+- Superplanet | 质量 73.20 | 可交易性 100.00 | 风险 低
+- SNAPCHAT | 质量 72.80 | 可交易性 100.00 | 风险 低
+- US Trust Fund | 质量 72.24 | 可交易性 100.00 | 风险 低
+- WISPO | 质量 71.71 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
 - Stellantis Worker Killed by Robot | 风险 47.79 | 原因：流动性偏薄
 - The Official 67 Bull | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Ansem Season | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- MARSBUCKS | BSC | 看多 | 新鲜度 100.00 | Alleged Mars Bucks Meme
+- MARSBUCKS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 牛来 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MOO Charity | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 人生副本 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -134,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CATK猫王（BSC，分数 86.47）
+1. 当前最强叙事：CATK猫王（BSC，分数 86.7）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：SNAPCHAT 当前为“新出现”
+3. 记忆层变化：Ansem Season 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade KiiChain (KII) and Share $200K Worth of Rewards (2026-08-18)
 #Binance #NarrativeOS #OpenClaw
