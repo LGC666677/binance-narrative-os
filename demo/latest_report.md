@@ -1,16 +1,17 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-18T06:18:20.522023+00:00
+- 生成时间：2026-08-18T07:10:21.451753+00:00
 - 跟踪叙事：14
 - 已确认叙事：5
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
 - 当前最强叙事是 United States Water Supply，所在链为 Solana，叙事强度 91.12。
-- 当前平均叙事强度为 85.05，其中已确认叙事 0 个。
+- 当前平均叙事强度为 84.23，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 Aliens Meme Tab 当前处于“新出现”状态。
+- 记忆层显示 Cupsey Bull 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged BULLION Token Bullish Narrative，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Binance RWUSD: VIP Exclusive Promotion Extended – Enjoy Up to 4.12% APR on RWUSD!。
 
 ## 叙事雷达
@@ -19,93 +20,94 @@
   - 主题摘要：According to Lumorae Voyagers's post, the account is urging its community to vote for the token $USWS (United States Water Supply) to secure a spot on the Moonshot Top 100 Leaderb…
   - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Samsung Electronics | Solana | 加速中 | 强度 87.05 | 质量 77.44
-  - 主题摘要：Multiple tokens named 「Samsung」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.72 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged BULLION Token Bullish Narrative | Solana | 降温中 | 强度 86.20 | 质量 77.69
-  - 主题摘要：According to Delstory's post, the author identifies a new 'bull meta' narrative initiated by Ansem. Delstory defines 'Bullion' as pure gold, suggesting a thematic connection to th…
-  - 资金 100.00 / 广度 94.10 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- RedBull official | Solana | 降温中 | 强度 85.59 | 质量 75.97
+- RedBull official | Solana | 降温中 | 强度 85.49 | 质量 75.79
   - 主题摘要：Multiple tokens named 「Redbull」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.89 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.32 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- NTDA | Solana | 降温中 | 强度 84.45 | 质量 74.05
+  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.66 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - United States Oil Network | Solana | 降温中 | 强度 84.16 | 质量 72.21
   - 主题摘要：Multiple tokens named 「USON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 71.19 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bullsack | Solana | 降温中 | 强度 83.44 | 质量 72.34
+- Bullsack | Solana | 降温中 | 强度 83.21 | 质量 72.01
   - 主题摘要：BULLSACK is a meme token inspired by the 'bull sack' internet slang term, featuring a green, cartoon-style bull's testicles logo. The token embraces humor and community engagement…
-  - 资金 100.00 / 广度 75.36 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.26 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NTDA | Solana | 降温中 | 强度 82.47 | 质量 71.43
-  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.94 / 确认 4.32 / 脆弱性 0.00
+- Alleged BULLION Token Bullish Narrative | Solana | 点火期 | 强度 81.89 | 质量 77.75
+  - 主题摘要：According to Delstory's post, the author identifies a new 'bull meta' narrative initiated by Ansem. Delstory defines 'Bullion' as pure gold, suggesting a thematic connection to th…
+  - 资金 100.00 / 广度 94.50 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Cupsey Bull | Solana | 降温中 | 强度 81.82 | 质量 72.47
+  - 主题摘要：Multiple tokens named 「BULLSEY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.41 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Panda Cat Meme Image Gains Popularity | BSC | 已确认 | 强度 80.91 | 质量 82.95
-  - 主题摘要：According to jaseem's post, a new Panda Cat Meme image has gained significant popularity on TikTok, with over 110,000 likes. Many users have adopted it as their profile picture, i…
-  - 资金 100.00 / 广度 93.27 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged Pandas Meme | BSC | 已确认 | 强度 80.90 | 质量 82.95
+- RONIN | Solana | 降温中 | 强度 81.74 | 质量 70.18
+  - 主题摘要：Multiple tokens named 「RONIN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.75 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged Pandas Meme | BSC | 已确认 | 强度 80.98 | 质量 82.87
   - 主题摘要：According to Bitfinex'ed 🔥🐧 Κασσάνδρα 🏺's post, the scarcity of pandas is compared to Bitcoin's limited supply, implying high value. This content references a Meme image related t…
-  - 资金 100.00 / 广度 93.26 / 确认 31.68 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.00 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Youbao Meme Image | Solana | 加速中 | 强度 80.40 | 质量 73.79
-  - 主题摘要：According to Shakespeare's post, the Youbao Meme image references the naming of a giant panda cub born in South Korea, with 'Youbao' cited as the leading name in public voting. Th…
-  - 资金 100.00 / 广度 84.19 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ferrari CZ26 | BSC | 已确认 | 强度 80.07 | 质量 79.84
-  - 主题摘要：Binance CEO CZ humorously acknowledges a visual similarity between his name and the new Ferrari F1 car model 'CZ26'. This crossover between luxury automotive culture and crypto le…
-  - 资金 100.00 / 广度 89.46 / 确认 28.08 / 脆弱性 24.00
+- Panda Cat Meme Image Gains Popularity | BSC | 已确认 | 强度 80.96 | 质量 82.87
+  - 主题摘要：According to jaseem's post, a new Panda Cat Meme image has gained significant popularity on TikTok, with over 110,000 likes. Many users have adopted it as their profile picture, i…
+  - 资金 100.00 / 广度 93.01 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Pandacat Meme Image | BSC | 已确认 | 强度 80.05 | 质量 81.76
+- Alleged Pandacat Meme Image | BSC | 已确认 | 强度 80.14 | 质量 81.75
   - 主题摘要：According to 我肯定会发财！'s post, a viral TikTok Meme image featuring a hybrid cat-panda character is being discussed. The author claims this image represents a 'real panda' and sugges…
-  - 资金 100.00 / 广度 91.93 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 91.92 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Panda-Head Cat Meme Image | BSC | 已确认 | 强度 80.04 | 质量 81.76
+- Alleged Panda-Head Cat Meme Image | BSC | 已确认 | 强度 80.14 | 质量 81.75
   - 主题摘要：According to ying's post, a Meme image of a cat resembling the 'Panda Head' avatar is shared. The author claims this is the authentic 'Panda' rather than a photoshopped image, ref…
-  - 资金 100.00 / 广度 91.93 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 91.92 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Aliens Meme Tab | BSC | 加速中 | 强度 76.94 | 质量 76.48
-  - 主题摘要：According to //Devquant's post, X has introduced a new 'Memes' tab located next to the 'For You' and 'Following' tabs. The icon for this feature is an alien emoji. This update all…
-  - 资金 100.00 / 广度 82.64 / 确认 28.08 / 脆弱性 14.00
+- Ferrari CZ26 | BSC | 已确认 | 强度 79.90 | 质量 79.79
+  - 主题摘要：Binance CEO CZ humorously acknowledges a visual similarity between his name and the new Ferrari F1 car model 'CZ26'. This crossover between luxury automotive culture and crypto le…
+  - 资金 100.00 / 广度 89.34 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Elsharnoub4370 Claims 100% Tax for Charity | BSC | 加速中 | 强度 77.89 | 质量 76.53
+  - 主题摘要：According to 魔丸's post, the author claims that a 100% tax rate is designated for charitable purposes. This statement reflects a specific policy proposal or assertion made by the u…
+  - 资金 100.00 / 广度 85.47 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.05，其中已确认叙事 0 个。
-- Aliens Meme Tab 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.23，其中已确认叙事 0 个。
+- Elsharnoub4370 Claims 100% Tax for Charity 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - United States Water Supply 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Panda Cat Meme Image Gains Popularity | 质量 82.95 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Pandas Meme | 质量 82.95 | 可交易性 100.00 | 风险 低
-- Alleged Pandacat Meme Image | 质量 81.76 | 可交易性 100.00 | 风险 低
-- Alleged Panda-Head Cat Meme Image | 质量 81.76 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Pandas Meme | 质量 82.87 | 可交易性 100.00 | 风险 低
+- Panda Cat Meme Image Gains Popularity | 质量 82.87 | 可交易性 100.00 | 风险 低
+- Alleged Pandacat Meme Image | 质量 81.75 | 可交易性 100.00 | 风险 低
+- Alleged Panda-Head Cat Meme Image | 质量 81.75 | 可交易性 100.00 | 风险 低
 - United States Water Supply | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Ferrari CZ26 | 质量 79.84 | 可交易性 96.09 | 风险 低
-- Alleged BULLION Token Bullish Narrative | 质量 77.69 | 可交易性 95.37 | 风险 低
-- Samsung Electronics | 质量 77.44 | 可交易性 100.00 | 风险 低
-- Aliens Meme Tab | 质量 76.48 | 可交易性 99.95 | 风险 低
-- RedBull official | 质量 75.97 | 可交易性 98.06 | 风险 低
+- Ferrari CZ26 | 质量 79.79 | 可交易性 96.05 | 风险 低
+- Alleged BULLION Token Bullish Narrative | 质量 77.75 | 可交易性 95.17 | 风险 低
+- Elsharnoub4370 Claims 100% Tax for Charity | 质量 76.53 | 可交易性 94.86 | 风险 低
+- RedBull official | 质量 75.79 | 可交易性 98.06 | 风险 低
+- NTDA | 质量 74.05 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- Alleged BULLION Token Bullish Narrative | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - MOO Charity | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 人生副本 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 熊猫 | BSC | 看多 | 新鲜度 100.00 | Panda Cat Meme Image Gains Popularity / Uncertain:Alleged Pandas Meme / Alleged Pandacat Meme Image / Alleged Panda-Head Cat Meme Image
+- 熊猫 | BSC | 看多 | 新鲜度 100.00 | Uncertain:Alleged Pandas Meme / Panda Cat Meme Image Gains Popularity / Alleged Pandacat Meme Image / Alleged Panda-Head Cat Meme Image
 - CZ26 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 金融便利店 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 绊倒体 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SEMAN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - EYE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BULLSHIT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Z500 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,6 +135,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：United States Water Supply（Solana，分数 91.12）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：Aliens Meme Tab 当前为“新出现”
+3. 记忆层变化：Cupsey Bull 当前为“新出现”
 4. 最新官方催化：Binance RWUSD: VIP Exclusive Promotion Extended – Enjoy Up to 4.12% APR on RWUSD!
 #Binance #NarrativeOS #OpenClaw
