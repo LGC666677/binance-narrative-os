@@ -1,111 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-18T08:18:50.765138+00:00
+- 生成时间：2026-08-18T08:58:42.055091+00:00
 - 跟踪叙事：14
-- 已确认叙事：5
+- 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
 - 当前最强叙事是 United States Water Supply，所在链为 Solana，叙事强度 90.52。
-- 当前平均叙事强度为 84.73，其中已确认叙事 0 个。
+- 当前平均叙事强度为 85.02，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 SpaceXAI Promotes Whop Connector 当前处于“新出现”状态。
+- 记忆层显示 Binance VIP 6 Perks 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance RWUSD: VIP Exclusive Promotion Extended – Enjoy Up to 4.12% APR on RWUSD!。
 
 ## 叙事雷达
 
 - United States Water Supply | Solana | 降温中 | 强度 90.52 | 质量 80.85
-  - 主题摘要：According to Lumorae Voyagers's post, the account is urging its community to vote for the token $USWS (United States Water Supply) to secure a spot on the Moonshot Top 100 Leaderb…
+  - 主题摘要：According to Solana Memes Scanner's post, the token United States Water Supply ($USWS) is analyzed for migration readiness, showing failed CTO and DEX status. The post highlights…
   - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged SpaceXAI Token Launch | Solana | 加速中 | 强度 85.92 | 质量 75.81
+- Alleged SpaceXAI Token Launch | Solana | 加速中 | 强度 85.96 | 质量 75.87
   - 主题摘要：According to Kiraj's post, SpaceXAI is alleged to have partnered with Whop to help users convert tokens into economic value. This information is unverified. Please exercise cautio…
-  - 资金 100.00 / 广度 77.90 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.10 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 - RedBull official | Solana | 降温中 | 强度 85.49 | 质量 75.79
   - 主题摘要：Multiple tokens named 「Redbull」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 95.32 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cupsey Bull | Solana | 降温中 | 强度 85.17 | 质量 75.12
-  - 主题摘要：Multiple tokens named 「BULLSEY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.52 / 确认 9.36 / 脆弱性 14.00
+- NTDA | Solana | 降温中 | 强度 85.44 | 质量 77.34
+  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 94.64 / 确认 4.32 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - United States Oil Network | Solana | 降温中 | 强度 84.16 | 质量 72.21
   - 主题摘要：Multiple tokens named 「USON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 71.19 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NTDA | Solana | 降温中 | 强度 83.34 | 质量 73.99
-  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.46 / 确认 4.32 / 脆弱性 10.00
+- Cupsey Bull | Solana | 降温中 | 强度 83.32 | 质量 75.16
+  - 主题摘要：Multiple tokens named 「BULLSEY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.68 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Giantcutie666 Posts Glueball Meme Image | BSC | 已确认 | 强度 83.17 | 质量 81.98
-  - 主题摘要：According to 大漂亮| C Labs's post, the author claims that gluons, composed entirely of force without quarks, provide scientific support for the concept of 'gathering energy to form…
-  - 资金 100.00 / 广度 90.56 / 确认 30.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Bullsack | Solana | 降温中 | 强度 83.04 | 质量 71.73
+- Bullsack | Solana | 降温中 | 强度 83.01 | 质量 71.69
   - 主题摘要：BULLSACK is a meme token inspired by the 'bull sack' internet slang term, featuring a green, cartoon-style bull's testicles logo. The token embraces humor and community engagement…
-  - 资金 100.00 / 广度 74.93 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.81 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Panda-Head Cat Meme Image | BSC | 已确认 | 强度 81.29 | 质量 81.76
-  - 主题摘要：According to ying's post, a Meme image of a cat resembling the 'Panda Head' avatar is shared. The author claims this is the authentic 'Panda' rather than a photoshopped image, ref…
-  - 资金 100.00 / 广度 91.95 / 确认 28.08 / 脆弱性 14.00
+- Giantcutie666 Posts Glueball Meme Image | BSC | 已确认 | 强度 82.54 | 质量 81.83
+  - 主题摘要：According to 大漂亮| C Labs's post, the author claims that gluons, composed entirely of force without quarks, provide scientific support for the concept of 'gathering energy to form…
+  - 资金 100.00 / 广度 90.06 / 确认 30.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged Pandas Meme | BSC | 已确认 | 强度 80.89 | 质量 82.84
-  - 主题摘要：According to Bitfinex'ed 🔥🐧 Κασσάνδρα 🏺's post, the scarcity of pandas is compared to Bitcoin's limited supply, implying that pandas are worth millions. This content is associated…
-  - 资金 100.00 / 广度 92.90 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- SpaceXAI Promotes Whop Connector | Solana | 加速中 | 强度 80.23 | 质量 69.64
+- SpaceXAI Promotes Whop Connector | Solana | 加速中 | 强度 82.29 | 质量 69.69
   - 主题摘要：According to SpaceXAI's post, the account announced a partnership with Whop, stating that Whop is now live as a native connector in Grok to help users turn tokens into economic va…
-  - 资金 89.88 / 广度 79.28 / 确认 23.80 / 脆弱性 14.00
+  - 资金 99.10 / 广度 79.48 / 确认 23.80 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Pandacat Meme Image | BSC | 已确认 | 强度 80.09 | 质量 81.76
-  - 主题摘要：According to 我肯定会发财！'s post, a viral TikTok Meme image featuring a hybrid cat-panda character is being discussed. The author claims this image represents a 'real panda' and sugges…
-  - 资金 100.00 / 广度 91.95 / 确认 28.08 / 脆弱性 24.00
+- Uncertain:Alleged Pandas Meme | BSC | 已确认 | 强度 81.11 | 质量 82.82
+  - 主题摘要：According to Bitfinex'ed 🔥🐧 Κασσάνδρα 🏺's post, the scarcity of pandas is compared to Bitcoin's limited supply, implying that pandas are worth millions. This content is associated…
+  - 资金 100.00 / 广度 92.84 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Mimi Mouse Meme Image | BSC | 降温中 | 强度 79.41 | 质量 69.42
+- Aliens Meme Tab | BSC | 已确认 | 强度 79.90 | 质量 78.97
+  - 主题摘要：According to //Devquant's post, X has introduced a new 'Memes' tab located next to the 'For You' and 'Following' tabs. The icon for this feature is an alien emoji. //Devquant clar…
+  - 资金 100.00 / 广度 82.63 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Mimi Mouse Meme Image | BSC | 降温中 | 强度 77.62 | 质量 69.19
   - 主题摘要：According to molly🩷's post, a Meme image of 'Mi Laoshu' (Cat Mouse) is circulating online with significant traffic. The post claims the content is trending and abstract, sharing a…
-  - 资金 100.00 / 广度 75.65 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.80 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Aliens Meme Tab | BSC | 已确认 | 强度 79.25 | 质量 78.95
-  - 主题摘要：According to //Devquant's post, X has introduced a new 'Memes' tab located next to the 'For You' and 'Following' tabs. The icon for this feature is an alien emoji. This update all…
-  - 资金 100.00 / 广度 82.59 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Binance VIP 6 Perks | BSC | 加速中 | 强度 77.00 | 质量 75.39
+  - 主题摘要：Binance Chinese account promotes its VIP 6 tier benefits, offering users up to 6 months of status with additional bonuses upon return. The post highlights trading advantages and e…
+  - 资金 100.00 / 广度 91.10 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of Real-Life Niu Lai Meme Image | BSC | 降温中 | 强度 76.52 | 质量 64.53
+  - 主题摘要：According to just a little dev's post, the official account of Futu NiuNiu published information regarding the US stock pool.
+  - 资金 100.00 / 广度 82.61 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.73，其中已确认叙事 0 个。
-- SpaceXAI Promotes Whop Connector 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.02，其中已确认叙事 0 个。
+- Binance VIP 6 Perks 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - United States Water Supply 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:Alleged Pandas Meme | 质量 82.84 | 可交易性 100.00 | 风险 低
-- Giantcutie666 Posts Glueball Meme Image | 质量 81.98 | 可交易性 100.00 | 风险 低
-- Alleged Panda-Head Cat Meme Image | 质量 81.76 | 可交易性 100.00 | 风险 低
-- Alleged Pandacat Meme Image | 质量 81.76 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Pandas Meme | 质量 82.82 | 可交易性 100.00 | 风险 低
+- Giantcutie666 Posts Glueball Meme Image | 质量 81.83 | 可交易性 100.00 | 风险 低
 - United States Water Supply | 质量 80.85 | 可交易性 100.00 | 风险 低
-- Aliens Meme Tab | 质量 78.95 | 可交易性 100.00 | 风险 低
-- Alleged SpaceXAI Token Launch | 质量 75.81 | 可交易性 100.00 | 风险 低
+- Aliens Meme Tab | 质量 78.97 | 可交易性 100.00 | 风险 低
+- NTDA | 质量 77.34 | 可交易性 100.00 | 风险 低
+- Alleged SpaceXAI Token Launch | 质量 75.87 | 可交易性 100.00 | 风险 低
 - RedBull official | 质量 75.79 | 可交易性 98.06 | 风险 低
-- Cupsey Bull | 质量 75.12 | 可交易性 100.00 | 风险 低
-- NTDA | 质量 73.99 | 可交易性 100.00 | 风险 低
+- Binance VIP 6 Perks | 质量 75.39 | 可交易性 99.91 | 风险 低
+- Cupsey Bull | 质量 75.16 | 可交易性 100.00 | 风险 低
+- United States Oil Network | 质量 72.21 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
 
 ## 信号台
 
+- 牛来 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MOO Charity | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 人生副本 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 熊猫 | BSC | 看多 | 新鲜度 100.00 | Alleged Panda-Head Cat Meme Image / Uncertain:Alleged Pandas Meme / Alleged Pandacat Meme Image
+- 熊猫 | BSC | 看多 | 新鲜度 100.00 | Uncertain:Alleged Pandas Meme
 - CZ26 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 犇犇 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 金融便利店 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 绊倒体 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SEMAN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - EYE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BULLSHIT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,6 +133,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：United States Water Supply（Solana，分数 90.52）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：SpaceXAI Promotes Whop Connector 当前为“新出现”
+3. 记忆层变化：Binance VIP 6 Perks 当前为“新出现”
 4. 最新官方催化：Binance RWUSD: VIP Exclusive Promotion Extended – Enjoy Up to 4.12% APR on RWUSD!
 #Binance #NarrativeOS #OpenClaw
