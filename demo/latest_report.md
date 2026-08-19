@@ -1,95 +1,94 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-19T23:14:20.402463+00:00
+- 生成时间：2026-08-19T23:35:07.966165+00:00
 - 跟踪叙事：14
 - 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United Oil Trust Fund，所在链为 Solana，叙事强度 89.04。
-- 当前平均叙事强度为 85.52，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Trump-SEC Hyperliquid Deal 当前处于“新出现”状态。
+- 当前最强叙事是 Binance New Mode，所在链为 BSC，叙事强度 86.68。
+- 当前平均叙事强度为 82.95，其中已确认叙事 2 个。
+- 注意力与资金共振最强的代币是 HBULL，来自 Solana，共振分数 100.0。
+- 记忆层显示 Trump Shares 'Lion Among Sheep' Meme 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers。
 
 ## 叙事雷达
 
-- United Oil Trust Fund | Solana | 降温中 | 强度 89.04 | 质量 78.47
-  - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.05 / 确认 12.96 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Troopet Coin | Solana | 降温中 | 强度 87.51 | 质量 78.71
-  - 主题摘要：According to Momo's post, the author questions the nature of $TROOPET Coin in relation to President Trump. As the content involves an unverified claim about a token, this informat…
-  - 资金 100.00 / 广度 92.87 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- White House Quoted Tweet | Solana | 降温中 | 强度 87.37 | 质量 78.32
-  - 主题摘要：According to The White House's post, the phrase "A lion among sheep" is associated with the launch of multiple tokens named LION, including one described as "A lion among sheep."…
-  - 资金 100.00 / 广度 88.91 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance New Mode | BSC | 已确认 | 强度 86.63 | 质量 84.90
+- Binance New Mode | BSC | 已确认 | 强度 86.68 | 质量 84.90
   - 主题摘要：Binance official account teases a major update or feature launch within 24 hours, creating anticipation and FOMO among the community for the 'new mode'.
   - 资金 100.00 / 广度 97.14 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged $TROOPET Coin | Solana | 降温中 | 强度 86.52 | 质量 77.28
-  - 主题摘要：According to Tobias Jochike's post, the author questions the authenticity of a token named $TROOPET, suggesting it is a psyop rather than reflecting President Trump's actual state…
-  - 资金 100.00 / 广度 91.00 / 确认 9.36 / 脆弱性 14.00
+- Pumpfun is Everything | Solana | 降温中 | 强度 86.02 | 质量 73.79
+  - 主题摘要：Multiple tokens named 「PUMPTHING」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.11 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ's Yearly Horizon Advice | BSC | 加速中 | 强度 85.17 | 质量 80.64
+- Trump Shares 'Lion Among Sheep' Meme | Solana | 降温中 | 强度 85.90 | 质量 75.95
+  - 主题摘要：According to President Donald J. Trump's post, he retweeted the phrase "A lion among sheep," which is associated with the $LION token. This token is described as capturing the spi…
+  - 资金 100.00 / 广度 81.01 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ's Yearly Horizon Advice | BSC | 加速中 | 强度 84.59 | 质量 80.64
   - 主题摘要：CZ advises investors to look at the yearly horizon rather than trying to call market bottoms, emphasizing long-term appreciation over short-term volatility.
   - 资金 100.00 / 广度 88.74 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Trump-SEC Hyperliquid Deal | Solana | 降温中 | 强度 85.16 | 质量 75.18
-  - 主题摘要：According to hyperworld's post, President Trump and CFTC Chairman Mike Selig are working with the SEC to bring Hyperliquid into the United States. This alleged initiative aims to…
-  - 资金 100.00 / 广度 83.72 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Kirk Floyd Coin Casino Game | Solana | 降温中 | 强度 84.33 | 质量 75.80
-  - 主题摘要：According to Ace's post, an online casino game involving a coin flip between Kirk and Floyd has gained millions of views on Instagram. This content is associated with the token na…
-  - 资金 100.00 / 广度 85.81 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Scaramucci and CZ at SALT Conference | BSC | 加速中 | 强度 83.72 | 质量 79.11
+- Uncertain:Scaramucci and CZ at SALT Conference | BSC | 加速中 | 强度 83.20 | 质量 79.14
   - 主题摘要：According to Anthony Scaramucci's post, he and CZ are scheduled to take the stage at the SALT Conference Wyoming Blockchain Symposium. The post provides a live stream link for vie…
-  - 资金 100.00 / 广度 83.65 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.72 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dip Wheeler Proposes Launchpad for Launchpads | Solana | 加速中 | 强度 83.54 | 质量 74.35
-  - 主题摘要：According to Dip Wheeler's post, the author proposes a conceptual framework for building a launchpad specifically designed for other launchpads. This suggestion highlights a poten…
-  - 资金 100.00 / 广度 75.60 / 确认 20.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ's 5h Coincidence | BSC | 加速中 | 强度 83.49 | 质量 78.82
-  - 主题摘要：CZ jokingly suggests that investors should look at market movements over a 5-hour horizon rather than years to appreciate their actions, highlighting the absurdity of short-term s…
-  - 资金 100.00 / 广度 85.30 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Premieres Inside Binance | BSC | 已确认 | 强度 81.81 | 质量 82.55
-  - 主题摘要：Binance announced the premiere of 'Inside Binance,' an unfiltered series hosted by Kevin Susanto. The show aims to address community questions by featuring special guests and behi…
-  - 资金 100.00 / 广度 92.46 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Pumpfun is Everything | Solana | 降温中 | 强度 80.66 | 质量 73.40
-  - 主题摘要：Multiple tokens named 「PUMPTHING」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.81 / 确认 9.36 / 脆弱性 14.00
+- Alleged Moderna Meme Coin | Solana | 降温中 | 强度 83.12 | 质量 77.39
+  - 主题摘要：According to megger's post, the user identifies MODERNA as a prominent runner in the current market meta, citing its stock performance and potential cure for Hantavirus. The post…
+  - 资金 100.00 / 广度 88.45 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Qixi Mysterious Day 615 | BSC | 加速中 | 强度 77.97 | 质量 75.41
+- Alleged MRNA Meme Token Launch | Solana | 降温中 | 强度 82.81 | 质量 77.38
+  - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.43 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged MRNA Token Launch | Solana | 降温中 | 强度 82.81 | 质量 77.37
+  - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.41 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Moderna Cancer Vaccine Trial | Solana | 降温中 | 强度 82.80 | 质量 77.38
+  - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.42 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Moderna Share Price Doubles | Solana | 降温中 | 强度 82.69 | 质量 77.39
+  - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.45 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ's 5h Coincidence | BSC | 加速中 | 强度 82.47 | 质量 78.81
+  - 主题摘要：CZ jokingly suggests that investors should look at market movements over a 5-hour horizon rather than years to appreciate their actions, highlighting the absurdity of short-term s…
+  - 资金 100.00 / 广度 85.27 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Moderna Stock Surges on Vaccine Results | Solana | 降温中 | 强度 82.08 | 质量 77.28
+  - 主题摘要：According to The Kobeissi Letter's post, Moderna stock surged over 110% after the company announced the first-ever positive Phase 3 results for a personalized cancer vaccine.
+  - 资金 100.00 / 广度 91.79 / 确认 7.92 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Premieres Inside Binance | BSC | 已确认 | 强度 81.34 | 质量 82.56
+  - 主题摘要：Binance announced the premiere of 'Inside Binance,' an unfiltered series hosted by Kevin Susanto. The show aims to address community questions by featuring special guests and behi…
+  - 资金 100.00 / 广度 92.51 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Binance Qixi Mysterious Day 615 | BSC | 加速中 | 强度 79.40 | 质量 78.93
   - 主题摘要：Binance华语账号在七夕节前夕发布推文，暗示距离‘完美七夕’还差一个点赞，并提及‘Day 615’这一特定天数。该内容利用节日氛围和未解悬念吸引社区互动，虽无明确发币信息，但具备节日营销的潜在传播力。
-  - 资金 100.00 / 广度 94.05 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.04 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.52，其中已确认叙事 0 个。
-- Dip Wheeler Proposes Launchpad for Launchpads 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- United Oil Trust Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 82.95，其中已确认叙事 2 个。
+- Pumpfun is Everything 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Binance New Mode | 质量 84.90 | 可交易性 100.00 | 风险 低
-- Binance Premieres Inside Binance | 质量 82.55 | 可交易性 100.00 | 风险 低
+- Binance Premieres Inside Binance | 质量 82.56 | 可交易性 100.00 | 风险 低
 - CZ's Yearly Horizon Advice | 质量 80.64 | 可交易性 100.00 | 风险 低
-- Uncertain:Scaramucci and CZ at SALT Conference | 质量 79.11 | 可交易性 100.00 | 风险 低
-- CZ's 5h Coincidence | 质量 78.82 | 可交易性 100.00 | 风险 低
-- Troopet Coin | 质量 78.71 | 可交易性 100.00 | 风险 低
-- United Oil Trust Fund | 质量 78.47 | 可交易性 100.00 | 风险 低
-- White House Quoted Tweet | 质量 78.32 | 可交易性 100.00 | 风险 低
-- Alleged $TROOPET Coin | 质量 77.28 | 可交易性 99.74 | 风险 低
-- Alleged Kirk Floyd Coin Casino Game | 质量 75.80 | 可交易性 100.00 | 风险 低
+- Uncertain:Scaramucci and CZ at SALT Conference | 质量 79.14 | 可交易性 100.00 | 风险 低
+- Binance Qixi Mysterious Day 615 | 质量 78.93 | 可交易性 100.00 | 风险 低
+- CZ's 5h Coincidence | 质量 78.81 | 可交易性 100.00 | 风险 低
+- Alleged Moderna Meme Coin | 质量 77.39 | 可交易性 100.00 | 风险 低
+- Moderna Share Price Doubles | 质量 77.39 | 可交易性 100.00 | 风险 低
+- Alleged MRNA Meme Token Launch | 质量 77.38 | 可交易性 100.00 | 风险 低
+- Moderna Cancer Vaccine Trial | 质量 77.38 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -131,8 +130,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United Oil Trust Fund（Solana，分数 89.04）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Alleged Trump-SEC Hyperliquid Deal 当前为“新出现”
+1. 当前最强叙事：Binance New Mode（BSC，分数 86.68）
+2. 共振最强代币：HBULL（Solana，共振 100.0）
+3. 记忆层变化：Trump Shares 'Lion Among Sheep' Meme 当前为“新出现”
 4. 最新官方催化：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers
 #Binance #NarrativeOS #OpenClaw
