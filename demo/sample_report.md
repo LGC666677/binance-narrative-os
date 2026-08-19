@@ -1,105 +1,106 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-19T19:45:04.897733+00:00
+- 生成时间：2026-08-19T19:59:07.014474+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance New Mode，所在链为 BSC，叙事强度 86.55。
-- 当前平均叙事强度为 77.6，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 Z，来自 Solana，共振分数 100.0。
-- 记忆层显示 Dip Wheeler Proposes Launchpad for Launchpads 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Korean Dog Ganadi Meme Image，伪叙事风险 50.11。
+- 当前最强叙事是 Troopet Coin，所在链为 Solana，叙事强度 87.62。
+- 当前平均叙事强度为 85.21，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BTW，来自 BSC，共振分数 100.0。
+- 记忆层显示 Troopet Coin 当前处于“强化”状态。
+- 当前最需要防止误判的叙事是 Alleged Korean Dog Ganadi Meme Image，伪叙事风险 44.91。
 - 最新官方催化来自 最新活动：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers。
 
 ## 叙事雷达
 
-- Binance New Mode | BSC | 已确认 | 强度 86.55 | 质量 84.92
-  - 主题摘要：Binance official account teases a major update or feature launch within 24 hours, creating anticipation and FOMO among the community for the 'new mode'.
-  - 资金 100.00 / 广度 97.18 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- NASA | Solana | 加速中 | 强度 86.52 | 质量 76.60
+- Troopet Coin | Solana | 加速中 | 强度 87.62 | 质量 80.05
+  - 主题摘要：According to Momo's post, the author questions the nature of $TROOPET Coin in relation to President Trump. As the content involves an unverified claim about a token, this informat…
+  - 资金 100.00 / 广度 88.88 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- United Oil Trust Fund | Solana | 降温中 | 强度 87.49 | 质量 76.30
+  - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.84 / 确认 12.96 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- NASA | Solana | 加速中 | 强度 86.52 | 质量 76.59
   - 主题摘要：Multiple tokens named 「NASA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.90 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.87 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 - World Water Reserve | Solana | 降温中 | 强度 86.46 | 质量 75.09
   - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 83.43 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- National Trump Digital Accounts | Solana | 降温中 | 强度 85.02 | 质量 73.03
+- Binance New Mode | BSC | 已确认 | 强度 86.30 | 质量 84.92
+  - 主题摘要：Binance official account teases a major update or feature launch within 24 hours, creating anticipation and FOMO among the community for the 'new mode'.
+  - 资金 100.00 / 广度 97.19 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- National Trump Digital Accounts | Solana | 降温中 | 强度 84.93 | 质量 72.85
   - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.57 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 75.98 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dip Wheeler Proposes Launchpad for Launchpads | Solana | 加速中 | 强度 83.92 | 质量 75.19
+- Dip Wheeler Proposes Launchpad for Launchpads | Solana | 加速中 | 强度 84.08 | 质量 75.32
   - 主题摘要：According to Dip Wheeler's post, the author proposes a conceptual framework for building a launchpad specifically designed for other launchpads. This suggestion highlights a poten…
-  - 资金 100.00 / 广度 75.77 / 确认 20.28 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.19 / 确认 20.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged PUBG In-Game Currency BRAINROTS | Solana | 加速中 | 强度 82.41 | 质量 69.88
+- Alleged PUBG In-Game Currency BRAINROTS | Solana | 加速中 | 强度 82.33 | 质量 69.94
   - 主题摘要：According to maz1's post, the PUBG Brainrot Royal collaboration features an in-game currency called Brainrots. This information is unverified. Please exercise caution.
   - 资金 100.00 / 广度 78.65 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ChillDeer Comments on Interfold Launch on Cyrene | Solana | 降温中 | 强度 82.26 | 质量 72.59
+- ChillDeer Comments on Interfold Launch on Cyrene | Solana | 降温中 | 强度 82.27 | 质量 72.59
   - 主题摘要：According to ChillDeer's post, ChillDeer commented on the launch of Interfold (FOLD) on the Cyrene platform, characterizing the event as "Cope play for Fold." The post includes li…
-  - 资金 100.00 / 广度 75.09 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.11 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Troopet Coin | Solana | 加速中 | 强度 79.43 | 质量 76.60
-  - 主题摘要：According to Momo's post, the author questions the nature of $TROOPET Coin in relation to President Trump. As the content involves an unverified claim about a token, this informat…
-  - 资金 100.00 / 广度 81.76 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Babby sokol on Clarity Act | Solana | 降温中 | 强度 78.58 | 质量 66.72
-  - 主题摘要：According to Babby sokol's post, the Clarity Act has only a 20% chance of passing according to Polymarket. Babby sokol argues that the recent market activity is driven by the Whit…
-  - 资金 100.00 / 广度 83.78 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Qixi Mysterious Day 615 | BSC | 加速中 | 强度 77.97 | 质量 76.36
-  - 主题摘要：Binance华语账号在七夕节前夕发布推文，暗示距离‘完美七夕’还差一个点赞，并提及‘Day 615’这一特定天数。该内容利用节日氛围和未解悬念吸引社区互动，虽无明确发币信息，但具备节日营销的潜在传播力。
-  - 资金 100.00 / 广度 94.15 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Cancer Vaccine Token | BSC | 加速中 | 强度 76.79 | 质量 75.20
+- Alleged Cancer Vaccine Token | BSC | 加速中 | 强度 76.69 | 质量 75.12
   - 主题摘要：According to James Bonder's post, Moderna's cancer vaccine 'intismeran' has passed Phase 3 trials. Bonder highlights the stock surge and links the term to trending topics, referen…
-  - 资金 100.00 / 广度 82.43 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.48 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Jack_019822 Posts Bull Return Meme | BSC | 加速中 | 强度 76.39 | 质量 74.91
+- Uncertain:Jack_019822 Posts Bull Return Meme | BSC | 加速中 | 强度 76.19 | 质量 74.82
   - 主题摘要：According to 杰克🔶BNB's post, the user created and shared a Meme image titled "NiuHui" (Bull Return) to align with other exchanges' bull market promotions, inviting users to visit B…
   - 资金 100.00 / 广度 82.46 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Summer Posts Simba Meme Image | BSC | 加速中 | 强度 75.47 | 质量 73.15
+- Summer Posts Simba Meme Image | BSC | 加速中 | 强度 75.50 | 质量 73.17
   - 主题摘要：According to Summer's post, the user introduced a character named Simba, designated as the 'Chief Cat bStocks Officer,' accompanied by a Meme image. This content highlights a spec…
-  - 资金 100.00 / 广度 75.82 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 75.84 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Korean Dog Ganadi Meme Image | BSC | 点火期 | 强度 72.41 | 质量 70.38
+- Alleged Korean Dog Ganadi Meme Image | BSC | 点火期 | 强度 74.58 | 质量 70.39
   - 主题摘要：According to Simon👊顶尖（牛来版）'s post, the Korean dog Ganadi has recently become very popular due to its abstract nature, likened to a Korean version of the 'Panda Head' meme. The pos…
-  - 资金 95.81 / 广度 90.39 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.40 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Troopet Coin | BSC | 降温中 | 强度 74.19 | 质量 64.03
+  - 主题摘要：According to Momo's post, the author questions the legitimacy of $TROOPET Coin in relation to President Trump. As the token's issuance is unverified, this information is unverifie…
+  - 资金 97.67 / 广度 67.95 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.6，其中已确认叙事 1 个。
-- Dip Wheeler Proposes Launchpad for Launchpads 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- World Water Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.21，其中已确认叙事 0 个。
+- Troopet Coin 正在向主线升级: Solana 上该叙事处于“强化”状态，值得持续跟踪。
+- United Oil Trust Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Binance New Mode | 质量 84.92 | 可交易性 100.00 | 风险 低
-- NASA | 质量 76.60 | 可交易性 100.00 | 风险 低
-- Troopet Coin | 质量 76.60 | 可交易性 95.61 | 风险 低
-- Binance Qixi Mysterious Day 615 | 质量 76.36 | 可交易性 100.00 | 风险 低
-- Alleged Cancer Vaccine Token | 质量 75.20 | 可交易性 90.80 | 风险 低
-- Dip Wheeler Proposes Launchpad for Launchpads | 质量 75.19 | 可交易性 100.00 | 风险 低
+- Troopet Coin | 质量 80.05 | 可交易性 100.00 | 风险 低
+- NASA | 质量 76.59 | 可交易性 100.00 | 风险 低
+- United Oil Trust Fund | 质量 76.30 | 可交易性 100.00 | 风险 低
+- Dip Wheeler Proposes Launchpad for Launchpads | 质量 75.32 | 可交易性 100.00 | 风险 低
+- Alleged Cancer Vaccine Token | 质量 75.12 | 可交易性 90.48 | 风险 低
 - World Water Reserve | 质量 75.09 | 可交易性 100.00 | 风险 低
-- Uncertain:Jack_019822 Posts Bull Return Meme | 质量 74.91 | 可交易性 87.18 | 风险 低
-- Summer Posts Simba Meme Image | 质量 73.15 | 可交易性 93.24 | 风险 低
-- National Trump Digital Accounts | 质量 73.03 | 可交易性 100.00 | 风险 低
+- Uncertain:Jack_019822 Posts Bull Return Meme | 质量 74.82 | 可交易性 86.88 | 风险 低
+- Summer Posts Simba Meme Image | 质量 73.17 | 可交易性 93.28 | 风险 低
+- National Trump Digital Accounts | 质量 72.85 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Korean Dog Ganadi Meme Image | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Korean Dog Ganadi Meme Image | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
 - 가나디 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MARSBUCKS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- TROOPET | Solana | 看多 | 新鲜度 100.00 | Troopet Coin
 - BUY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MACHINE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - VPN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -107,7 +108,6 @@
 - HODL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEOW | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BBROKERS | Base | 看多 | 新鲜度 99.66 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance New Mode（BSC，分数 86.55）
-2. 共振最强代币：Z（Solana，共振 100.0）
-3. 记忆层变化：Dip Wheeler Proposes Launchpad for Launchpads 当前为“新出现”
+1. 当前最强叙事：Troopet Coin（Solana，分数 87.62）
+2. 共振最强代币：BTW（BSC，共振 100.0）
+3. 记忆层变化：Troopet Coin 当前为“强化”
 4. 最新官方催化：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers
 #Binance #NarrativeOS #OpenClaw
