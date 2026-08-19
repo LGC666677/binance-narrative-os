@@ -1,98 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-19T00:24:25.534248+00:00
+- 生成时间：2026-08-19T01:56:29.101118+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：2
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 UOTF，所在链为 Solana，叙事强度 89.92。
-- 当前平均叙事强度为 83.47，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 Z，来自 Solana，共振分数 100.0。
-- 记忆层显示 Yi He Responds to Sun Xue 当前处于“强化”状态。
+- 当前最强叙事是 Jack Clark Comments on Clug Meme，所在链为 Solana，叙事强度 91.49。
+- 当前平均叙事强度为 84.94，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
+- 记忆层显示 Jack Clark Comments on Clug Meme 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 UOTF，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade KiiChain (KII) and Share $200K Worth of Rewards (2026-08-18)。
 
 ## 叙事雷达
 
-- UOTF | Solana | 降温中 | 强度 89.92 | 质量 80.06
-  - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Water Reserve | Solana | 降温中 | 强度 88.66 | 质量 78.03
-  - 主题摘要：WWR token represents the World Water Reserve, inspired by global water scarcity concerns. The logo features a globe surrounded by an eagle, symbolizing protection and sovereignty…
-  - 资金 100.00 / 广度 93.22 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cowherd Rides Bull to Heaven | BSC | 加速中 | 强度 88.29 | 质量 83.04
-  - 主题摘要：According to Cynthia Wiik's post, the topic involves the Cowherd riding a bull to heaven to meet the Weaver Girl, referencing the Qixi Festival legend. This content is rooted in C…
-  - 资金 100.00 / 广度 98.84 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged Launch of 'Cowherd' Meme Image | BSC | 加速中 | 强度 88.26 | 质量 83.05
-  - 主题摘要：According to _'s post, CZ previously replied with a 'riding a horse' image, which has now changed to 'riding a cow'. The post associates this with the Qixi Festival, naming it 'Co…
-  - 资金 100.00 / 广度 98.87 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CATK猫王 | BSC | 加速中 | 强度 86.71 | 质量 80.47
-  - 主题摘要：Binance Chinese announced a VIP invitation program for its 9th anniversary. Eligible traders can apply based on external trading volume to receive a 60-day VIP+1 trial and exclusi…
-  - 资金 100.00 / 广度 90.80 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Qixi Festival Astronomical Origins | BSC | 加速中 | 强度 84.64 | 质量 76.56
-  - 主题摘要：According to DAFF - 中文搭子🇨🇳's post, the Qixi Festival, falling on August 19, is originally a romanticized astronomical phenomenon. The post explains that the figures of Zhinv and N…
-  - 资金 100.00 / 广度 82.60 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- United States Uranium Reserve | Solana | 降温中 | 强度 83.93 | 质量 71.60
-  - 主题摘要：Multiple tokens named 「USUR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.80 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Responds to Sun Xue | BSC | 已确认 | 强度 83.86 | 质量 83.91
-  - 主题摘要：Binance Co-CEO Yi He jokingly claims to be studying "Sun Studies" in response to Justin Sun, creating a humorous crossover between the two crypto giants' leadership. This interact…
-  - 资金 100.00 / 广度 93.84 / 确认 35.28 / 脆弱性 14.00
+- Jack Clark Comments on Clug Meme | Solana | 已确认 | 强度 91.49 | 质量 84.97
+  - 主题摘要：Multiple tokens named 「CLUG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged PSYCHOSIS Token | Solana | 加速中 | 强度 82.63 | 质量 80.28
+- World Water Reserve | Solana | 降温中 | 强度 89.65 | 质量 79.62
+  - 主题摘要：WWR token represents the World Water Reserve, inspired by global water scarcity concerns. The logo features a globe surrounded by an eagle, symbolizing protection and sovereignty…
+  - 资金 100.00 / 广度 98.54 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CATK猫王 | BSC | 加速中 | 强度 86.52 | 质量 80.50
+  - 主题摘要：Binance Chinese announced a VIP invitation program for its 9th anniversary. Eligible traders can apply based on external trading volume to receive a 60-day VIP+1 trial and exclusi…
+  - 资金 100.00 / 广度 90.90 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- UOTF | Solana | 降温中 | 强度 85.61 | 质量 77.75
+  - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.21 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Yi He Responds to Sun Xue | BSC | 已确认 | 强度 83.93 | 质量 83.92
+  - 主题摘要：Binance Co-CEO Yi He jokingly claims to be studying "Sun Studies" in response to Justin Sun, creating a humorous crossover between the two crypto giants' leadership. This interact…
+  - 资金 100.00 / 广度 93.86 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Claundle Holder Meme | Solana | 降温中 | 强度 83.69 | 质量 73.84
+  - 主题摘要：According to w̸͕͂͂a̷͔̗͐t̴̙͗e̵̬̔̕r̴̰̓̊m̵͙͖̓̽a̵̢̗̓͒r̸̲̽ķ̷͔́͝'s post, the user claims to be creating a 'claundle holder' Meme image while referencing 'Clug' and 'Claude's Mug'. This…
+  - 资金 100.00 / 广度 80.41 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CyberTrump | Solana | 降温中 | 强度 83.25 | 质量 71.61
+  - 主题摘要：Multiple tokens named 「CYBERTRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.85 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Fomo The Cat Meme Image | Solana | 降温中 | 强度 83.24 | 质量 76.50
+  - 主题摘要：According to Viltrum's post, a cat named Fomo is going viral with its own YouTube and Instagram channels. Viltrum claims this cat is the best candidate for a 'Fomo cult animal run…
+  - 资金 100.00 / 广度 85.51 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged Launch of 'Cowherd' Meme Image | BSC | 加速中 | 强度 81.70 | 质量 83.06
+  - 主题摘要：According to _'s post, CZ previously replied with a 'riding a horse' image, which has now changed to 'riding a cow'. The post associates this with the Qixi Festival, naming it 'Co…
+  - 资金 100.00 / 广度 98.91 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Cowherd Rides Bull to Heaven | BSC | 加速中 | 强度 81.69 | 质量 83.05
+  - 主题摘要：According to Cynthia Wiik's post, the topic involves the Cowherd riding a bull to heaven to meet the Weaver Girl, referencing the Qixi Festival legend. This content is rooted in C…
+  - 资金 100.00 / 广度 98.88 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged CLUG Token Wallet | Solana | 降温中 | 强度 81.37 | 质量 71.67
+  - 主题摘要：Multiple tokens named 「CLUG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.04 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged PSYCHOSIS Token | Solana | 加速中 | 强度 81.25 | 质量 80.27
   - 主题摘要：According to shoe's post, the term 'psychosis' is used in a social commentary regarding a viral true crime case and TikTok trends. The token 'PSYCHOSIS' (Foid Psychosis) shares th…
-  - 资金 100.00 / 广度 90.17 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.15 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Dr. Axius Token | Solana | 加速中 | 强度 81.38 | 质量 79.14
-  - 主题摘要：According to Pump.fun's post, Dr. Axius claims to be launching a token, positioning himself as an 'anti-hero' against 'Trench Dweebs' on Solana. He urges followers to support his…
-  - 资金 100.00 / 广度 89.02 / 确认 20.16 / 脆弱性 14.00
+- Alleged Launch of Huang Dun Dun Meme Image | BSC | 加速中 | 强度 76.23 | 质量 71.51
+  - 主题摘要：According to nzn's post, the Douyin viral IP 'Huang Dun Dun' gained nearly 1 million followers in one week. The author expressed intent to launch an associated Meme image. This in…
+  - 资金 100.00 / 广度 77.24 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Method to Defeat AI | BSC | 加速中 | 强度 80.02 | 质量 73.50
-  - 主题摘要：According to pp's post, Ke Jie allegedly discovered a method to defeat AI by feigning incompetence, a claim supported by references to AlphaGo. This narrative is associated with t…
-  - 资金 100.00 / 广度 76.27 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Caturn Meme Image Launch | Solana | 加速中 | 强度 78.93 | 质量 76.98
-  - 主题摘要：According to animaldevvvrr's post, a cat meme named Caturn is trending on TikTok, and the author allegedly launched a token with the same name. This information is unverified. Ple…
-  - 资金 100.00 / 广度 85.45 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- alon Comments on Dr. Axius Return to Pump.fun | Solana | 加速中 | 强度 78.85 | 质量 78.14
-  - 主题摘要：According to alon's post, the individual known as Dr. Axius is ending public retirement to dominate the Pump.fun app. alon highlights this return as a significant event, referenci…
-  - 资金 100.00 / 广度 85.67 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- se Predicts PEPE Price Trend | BSC | 加速中 | 强度 78.39 | 质量 72.44
-  - 主题摘要：According to se's post, the Chinese version of PeiPei is expected to experience significant upward momentum if it breaks out of its current trading range. This analysis reflects s…
-  - 资金 100.00 / 广度 79.25 / 确认 24.48 / 脆弱性 14.00
+- YOUTOK | BSC | 加速中 | 强度 74.83 | 质量 60.07
+  - 主题摘要：Multiple tokens named 「YOUTOK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.60 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.47，其中已确认叙事 0 个。
-- Qixi Festival Astronomical Origins 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- UOTF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.94，其中已确认叙事 1 个。
+- Jack Clark Comments on Clug Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- World Water Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Yi He Responds to Sun Xue | 质量 83.91 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Launch of 'Cowherd' Meme Image | 质量 83.05 | 可交易性 100.00 | 风险 低
-- Cowherd Rides Bull to Heaven | 质量 83.04 | 可交易性 100.00 | 风险 低
-- CATK猫王 | 质量 80.47 | 可交易性 100.00 | 风险 低
-- Alleged PSYCHOSIS Token | 质量 80.28 | 可交易性 100.00 | 风险 低
-- UOTF | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Alleged Dr. Axius Token | 质量 79.14 | 可交易性 100.00 | 风险 低
-- alon Comments on Dr. Axius Return to Pump.fun | 质量 78.14 | 可交易性 100.00 | 风险 低
-- World Water Reserve | 质量 78.03 | 可交易性 100.00 | 风险 低
-- Alleged Caturn Meme Image Launch | 质量 76.98 | 可交易性 96.36 | 风险 低
+- Jack Clark Comments on Clug Meme | 质量 84.97 | 可交易性 100.00 | 风险 低
+- Yi He Responds to Sun Xue | 质量 83.92 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Launch of 'Cowherd' Meme Image | 质量 83.06 | 可交易性 100.00 | 风险 低
+- Cowherd Rides Bull to Heaven | 质量 83.05 | 可交易性 100.00 | 风险 低
+- CATK猫王 | 质量 80.50 | 可交易性 100.00 | 风险 低
+- Alleged PSYCHOSIS Token | 质量 80.27 | 可交易性 100.00 | 风险 低
+- World Water Reserve | 质量 79.62 | 可交易性 100.00 | 风险 低
+- UOTF | 质量 77.75 | 可交易性 99.08 | 风险 低
+- Alleged Fomo The Cat Meme Image | 质量 76.50 | 可交易性 100.00 | 风险 低
+- Alleged Claundle Holder Meme | 质量 73.84 | 可交易性 93.59 | 风险 低
 
 ## 伪叙事风险
 
+- UOTF | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -102,10 +104,10 @@
 - 人生副本 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 熊猫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CZ26 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CLUG | Solana | 看多 | 新鲜度 100.00 | Jack Clark Comments on Clug Meme
 - BULLSHIT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ngl | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEMESTONK | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- AXE | Solana | 看多 | 新鲜度 100.00 | Alleged Dr. Axius Token / alon Comments on Dr. Axius Return to Pump.fun
 
 ## 官方催化
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：UOTF（Solana，分数 89.92）
-2. 共振最强代币：Z（Solana，共振 100.0）
-3. 记忆层变化：Yi He Responds to Sun Xue 当前为“强化”
+1. 当前最强叙事：Jack Clark Comments on Clug Meme（Solana，分数 91.49）
+2. 共振最强代币：ANSEM（Solana，共振 100.0）
+3. 记忆层变化：Jack Clark Comments on Clug Meme 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade KiiChain (KII) and Share $200K Worth of Rewards (2026-08-18)
 #Binance #NarrativeOS #OpenClaw
