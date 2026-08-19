@@ -1,96 +1,96 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-19T08:18:57.841233+00:00
+- 生成时间：2026-08-19T08:59:42.746513+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Chris Discusses Humanoid Subsidies，所在链为 Solana，叙事强度 91.13。
-- 当前平均叙事强度为 86.71，其中已确认叙事 0 个。
+- 当前最强叙事是 Chris Discusses Humanoid Subsidies，所在链为 Solana，叙事强度 89.93。
+- 当前平均叙事强度为 86.38，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Launch of Huang Dun Dun Meme Image 当前处于“新出现”状态。
+- 记忆层显示 Devvy Discusses Flock Cameras 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Uncertain:Alleged Launch of 'Cowherd' Meme Image，伪叙事风险 47.23。
 - 最新官方催化来自 币安最新公告：Important Updates on the Funding Rate of USDⓈ-M UNITREEUSDT Perpetual Contract (2026-08-19)。
 
 ## 叙事雷达
 
-- Chris Discusses Humanoid Subsidies | Solana | 降温中 | 强度 91.13 | 质量 81.66
+- Chris Discusses Humanoid Subsidies | Solana | 降温中 | 强度 89.93 | 质量 81.66
   - 主题摘要：According to CNBC's post, investors are anticipating a significant first-day price increase for Unitree Robotics, a leading Chinese humanoid robot manufacturer known for its advan…
-  - 资金 100.00 / 广度 100.00 / 确认 16.64 / 脆弱性 0.00
+  - 资金 100.00 / 广度 100.00 / 确认 16.64 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Lumorae Voyagers Calls for $USWS Votes | Solana | 加速中 | 强度 89.14 | 质量 78.32
+- Lumorae Voyagers Calls for $USWS Votes | Solana | 降温中 | 强度 87.95 | 质量 76.74
   - 主题摘要：According to Lumorae Voyagers's post, the account urges its community to vote for the $USWS token to secure a spot on the Moonshot Top 100 Leaderboard. The post specifies that few…
-  - 资金 100.00 / 广度 86.29 / 确认 20.16 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged UNITREE Meme Coin | Solana | 降温中 | 强度 86.75 | 质量 77.31
+  - 资金 100.00 / 广度 86.30 / 确认 12.96 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged UNITREE Meme Coin | Solana | 降温中 | 强度 86.76 | 质量 77.32
   - 主题摘要：According to Sir.Devorski's post, the author claims that a token named UNITREE is experiencing significant price volatility, described as 'WICKING up 60%,' following a live IPO ev…
-  - 资金 100.00 / 广度 85.50 / 确认 16.64 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.54 / 确认 16.64 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged UNITREE Meme Coin | Solana | 降温中 | 强度 86.74 | 质量 77.29
+- Alleged UNITREE Meme Coin | Solana | 降温中 | 强度 86.74 | 质量 77.30
   - 主题摘要：According to VIOLETTA's post, the author comments on Unitree's significant market surge and expresses regret over the absence of a corresponding cryptocurrency. This statement rel…
-  - 资金 100.00 / 广度 85.43 / 确认 16.64 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.46 / 确认 16.64 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Unitree Robotics IPO | Solana | 降温中 | 强度 86.71 | 质量 77.24
+- Unitree Robotics IPO | Solana | 降温中 | 强度 86.71 | 质量 77.25
   - 主题摘要：According to CNBC's post, Unitree Robotics shares surged 542% in early trading upon its Shanghai stock market debut, raising approximately 6.1 billion yuan ($905 million). The Han…
-  - 资金 100.00 / 广度 85.25 / 确认 16.64 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.29 / 确认 16.64 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CATK猫王 | BSC | 降温中 | 强度 86.38 | 质量 79.66
-  - 主题摘要：Binance Chinese announced a VIP invitation program for its 9th anniversary. Eligible traders can apply based on external trading volume to receive a 60-day VIP+1 trial and exclusi…
-  - 资金 100.00 / 广度 93.40 / 确认 16.56 / 脆弱性 24.00
+- Devvy Discusses Flock Cameras | Solana | 降温中 | 强度 84.41 | 质量 74.63
+  - 主题摘要：According to Devvy's post, a website allowing users to view live Flock cameras in Japan has gone viral, accumulating over 2.1 million views in a single day. Devvy characterizes th…
+  - 资金 100.00 / 广度 76.59 / 确认 16.60 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Claundle Holder Meme | Solana | 降温中 | 强度 84.68 | 质量 75.16
-  - 主题摘要：According to w̸͕͂͂a̷͔̗͐t̴̙͗e̵̬̔̕r̴̰̓̊m̵͙͖̓̽a̵̢̗̓͒r̸̲̽ķ̷͔́͝'s post, the individual claims to be creating a Claundle holder Meme image while typing. This statement references a conc…
-  - 资金 100.00 / 广度 83.66 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Jack_019822 Posts Bull Return Meme | BSC | 已确认 | 强度 84.29 | 质量 79.12
-  - 主题摘要：According to 杰克🔶BNB's post, the author created a Meme image featuring the phrase "Niu Hui" (Bull Market Return) to align with other exchanges' promotional content. The post tags B…
-  - 资金 100.00 / 广度 83.13 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Esoteric Allegedly Launches CLUG Token | Solana | 降温中 | 强度 84.29 | 质量 74.81
-  - 主题摘要：Multiple tokens named 「CLUG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.50 / 确认 9.36 / 脆弱性 14.00
+- Alleged CLUG Meme Coin Launch | Solana | 降温中 | 强度 84.30 | 质量 75.12
+  - 主题摘要：According to nostalgicgareth's post, the author claims to be the sole supporter of the project since last year and asserts that creators deserve fees for developing AI aspects. no…
+  - 资金 100.00 / 广度 83.52 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Alleged CLUG Token Wallet | Solana | 降温中 | 强度 84.21 | 质量 74.76
   - 主题摘要：Multiple tokens named 「CLUG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.32 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.33 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of Huang Dun Dun Meme Image | BSC | 加速中 | 强度 82.14 | 质量 72.96
-  - 主题摘要：According to nzn's post, the Douyin viral IP 'Huang Dun Dun' gained nearly 1 million followers in one week. nzn shared a Meme image to celebrate this growth, referring to the IP a…
-  - 资金 100.00 / 广度 78.43 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ansem Compares Crypto to WoW | BSC | 降温中 | 强度 80.01 | 质量 73.04
+- Uncertain:Jack_019822 Posts Bull Return Meme | BSC | 已确认 | 强度 80.85 | 质量 79.16
+  - 主题摘要：According to 杰克🔶BNB's post, the author created a Meme image featuring the phrase "Niu Hui" (Bull Market Return) to align with other exchanges' promotional content. The post tags B…
+  - 资金 100.00 / 广度 83.28 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Ansem Compares Crypto to WoW | BSC | 降温中 | 强度 80.05 | 质量 73.06
   - 主题摘要：According to Ansem 🐂🀄️'s post, the author draws a comparison between cryptocurrency and the game World of Warcraft, suggesting that achieving success in crypto allows one to retir…
-  - 资金 100.00 / 广度 77.91 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.99 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Launch of 'Cowherd' Meme Image | BSC | 点火期 | 强度 79.81 | 质量 80.37
+- Alleged Launch of Huang Dun Dun Meme Image | BSC | 加速中 | 强度 79.82 | 质量 72.83
+  - 主题摘要：According to nzn's post, the Douyin viral IP 'Huang Dun Dun' gained nearly 1 million followers in one week. nzn shared a Meme image to celebrate this growth, referring to the IP a…
+  - 资金 100.00 / 广度 78.50 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged Launch of 'Cowherd' Meme Image | BSC | 点火期 | 强度 79.59 | 质量 80.25
   - 主题摘要：According to _'s post, CZ previously shared a 'horse riding' image, which has now evolved into a 'cow riding' image. _ named this new Meme image 'Cowherd' (Niu Lang) in anticipati…
-  - 资金 100.00 / 广度 99.37 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 99.13 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Cowherd Rides Bull to Heaven | BSC | 点火期 | 强度 79.10 | 质量 79.17
+- Cowherd Rides Bull to Heaven | BSC | 点火期 | 强度 78.87 | 质量 79.06
   - 主题摘要：According to Cynthia Wiik's post, the Cowherd is scheduled to ride the bull to heaven to meet the Weaver Girl in two days, referencing the traditional Chinese Qixi Festival legend.
-  - 资金 100.00 / 广度 99.35 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 99.11 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- YOUTOK | BSC | 加速中 | 强度 75.21 | 质量 60.20
+  - 主题摘要：Multiple tokens named 「YOUTOK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.66 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 86.71，其中已确认叙事 0 个。
-- Alleged Launch of Huang Dun Dun Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 86.38，其中已确认叙事 0 个。
+- YOUTOK 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Chris Discusses Humanoid Subsidies 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Chris Discusses Humanoid Subsidies | 质量 81.66 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Launch of 'Cowherd' Meme Image | 质量 80.37 | 可交易性 96.39 | 风险 低
-- CATK猫王 | 质量 79.66 | 可交易性 100.00 | 风险 低
-- Cowherd Rides Bull to Heaven | 质量 79.17 | 可交易性 92.41 | 风险 低
-- Uncertain:Jack_019822 Posts Bull Return Meme | 质量 79.12 | 可交易性 100.00 | 风险 低
-- Lumorae Voyagers Calls for $USWS Votes | 质量 78.32 | 可交易性 100.00 | 风险 低
-- Alleged UNITREE Meme Coin | 质量 77.31 | 可交易性 100.00 | 风险 低
-- Alleged UNITREE Meme Coin | 质量 77.29 | 可交易性 100.00 | 风险 低
-- Unitree Robotics IPO | 质量 77.24 | 可交易性 100.00 | 风险 低
-- Alleged Claundle Holder Meme | 质量 75.16 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Launch of 'Cowherd' Meme Image | 质量 80.25 | 可交易性 96.22 | 风险 低
+- Uncertain:Jack_019822 Posts Bull Return Meme | 质量 79.16 | 可交易性 100.00 | 风险 低
+- Cowherd Rides Bull to Heaven | 质量 79.06 | 可交易性 92.27 | 风险 低
+- Alleged UNITREE Meme Coin | 质量 77.32 | 可交易性 100.00 | 风险 低
+- Alleged UNITREE Meme Coin | 质量 77.30 | 可交易性 100.00 | 风险 低
+- Unitree Robotics IPO | 质量 77.25 | 可交易性 100.00 | 风险 低
+- Lumorae Voyagers Calls for $USWS Votes | 质量 76.74 | 可交易性 100.00 | 风险 低
+- Alleged CLUG Meme Coin Launch | 质量 75.12 | 可交易性 100.00 | 风险 低
+- Alleged CLUG Token Wallet | 质量 74.76 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -102,7 +102,6 @@
 
 - MARSBUCKS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 牛来 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- MOO Charity | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BULLSHIT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CLUG | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ngl | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -110,6 +109,7 @@
 - AXE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CYBERLEEK | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DONALD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- meaningless | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -135,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Chris Discusses Humanoid Subsidies（Solana，分数 91.13）
+1. 当前最强叙事：Chris Discusses Humanoid Subsidies（Solana，分数 89.93）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Alleged Launch of Huang Dun Dun Meme Image 当前为“新出现”
+3. 记忆层变化：Devvy Discusses Flock Cameras 当前为“新出现”
 4. 最新官方催化：Important Updates on the Funding Rate of USDⓈ-M UNITREEUSDT Perpetual Contract (2026-08-19)
 #Binance #NarrativeOS #OpenClaw
