@@ -1,104 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-19T21:13:00.870600+00:00
+- 生成时间：2026-08-19T21:37:44.395984+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United Oil Trust Fund，所在链为 Solana，叙事强度 87.95。
-- 当前平均叙事强度为 83.86，其中已确认叙事 0 个。
+- 当前最强叙事是 United Oil Trust Fund，所在链为 Solana，叙事强度 87.99。
+- 当前平均叙事强度为 84.15，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 BTW，来自 BSC，共振分数 100.0。
-- 记忆层显示 Craig Newmark Philanthropies 当前处于“新出现”状态。
+- 记忆层显示 Alleged $TROOPET Coin 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Troopet Coin，伪叙事风险 43.59。
 - 最新官方催化来自 最新活动：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers。
 
 ## 叙事雷达
 
-- United Oil Trust Fund | Solana | 降温中 | 强度 87.95 | 质量 76.74
+- United Oil Trust Fund | Solana | 降温中 | 强度 87.99 | 质量 76.78
   - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.31 / 确认 12.96 / 脆弱性 0.00
+  - 资金 100.00 / 广度 86.42 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- National Trump Digital Accounts | Solana | 降温中 | 强度 87.24 | 质量 76.34
+- National Trump Digital Accounts | Solana | 降温中 | 强度 87.36 | 质量 76.53
   - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.60 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 88.24 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NASA | Solana | 加速中 | 强度 87.09 | 质量 77.51
-  - 主题摘要：Multiple tokens named 「NASA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.95 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Troopet Coin | Solana | 降温中 | 强度 87.01 | 质量 78.55
-  - 主题摘要：According to Momo's post, the author questions the nature of $TROOPET Coin in relation to President Trump. As the content involves an unverified claim about a token, this informat…
-  - 资金 100.00 / 广度 92.34 / 确认 12.96 / 脆弱性 17.38
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Premieres Inside Binance | BSC | 加速中 | 强度 86.35 | 质量 80.63
+- Binance Premieres Inside Binance | BSC | 加速中 | 强度 86.60 | 质量 81.69
   - 主题摘要：Binance officially premiered the series 'Inside Binance' today. Hosted by Kevin Susanto, the show features special guests and addresses community questions about the platform dire…
-  - 资金 100.00 / 广度 91.34 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 92.25 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance New Mode | BSC | 已确认 | 强度 84.77 | 质量 84.90
-  - 主题摘要：Binance official account teases a major update or feature launch within 24 hours, creating anticipation and FOMO among the community for the 'new mode'.
-  - 资金 100.00 / 广度 97.12 / 确认 35.28 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Dip Wheeler Proposes Launchpad for Launchpads | Solana | 加速中 | 强度 82.41 | 质量 74.48
-  - 主题摘要：According to Dip Wheeler's post, the author proposes a conceptual framework for building a launchpad specifically designed for other launchpads. This suggestion highlights a poten…
-  - 资金 100.00 / 广度 76.12 / 确认 20.28 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Craig Newmark Philanthropies | Solana | 加速中 | 强度 80.58 | 质量 71.26
-  - 主题摘要：Craig token represents Craig Newmark Philanthropies, inspired by Craigslist co-founder Craig Newmark's commitment to social impact. The logo features a star with interconnected do…
-  - 资金 100.00 / 广度 60.11 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Qixi Mysterious Day 615 | BSC | 加速中 | 强度 79.73 | 质量 78.48
-  - 主题摘要：Binance华语账号在七夕节前夕发布推文，暗示距离‘完美七夕’还差一个点赞，并提及‘Day 615’这一特定天数。该内容利用节日氛围和未解悬念吸引社区互动，虽无明确发币信息，但具备节日营销的潜在传播力。
-  - 资金 100.00 / 广度 94.06 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- US Debt Surpasses $40T | Solana | 降温中 | 强度 79.64 | 质量 67.51
-  - 主题摘要：According to meechie's post, the US national debt officially surpassed $40 trillion. The author commented on this event, imagining an investment opportunity in a chart that is 'li…
-  - 资金 100.00 / 广度 87.15 / 确认 8.68 / 脆弱性 14.00
+- Alleged $TROOPET Coin | Solana | 降温中 | 强度 85.65 | 质量 76.04
+  - 主题摘要：According to Tobias Jochike's post, the author questions the authenticity of a token named $TROOPET, suggesting it is a psyop rather than reflecting President Trump's actual state…
+  - 资金 100.00 / 广度 86.60 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- White House Quoted Tweet | Solana | 加速中 | 强度 78.95 | 质量 78.01
-  - 主题摘要：According to The White House's post, the phrase "A lion among sheep" is associated with the launch of multiple tokens named LION, including one described as "A lion among sheep."…
-  - 资金 100.00 / 广度 85.25 / 确认 20.16 / 脆弱性 14.00
+- Troopet Coin | Solana | 降温中 | 强度 84.89 | 质量 78.54
+  - 主题摘要：According to Momo's post, the author questions the nature of $TROOPET Coin in relation to President Trump. As the content involves an unverified claim about a token, this informat…
+  - 资金 95.87 / 广度 92.29 / 确认 12.96 / 脆弱性 27.38
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance New Mode | BSC | 已确认 | 强度 84.51 | 质量 84.89
+  - 主题摘要：Binance official account teases a major update or feature launch within 24 hours, creating anticipation and FOMO among the community for the 'new mode'.
+  - 资金 100.00 / 广度 97.10 / 确认 35.28 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Kirk Floyd Coin Casino Game | Solana | 降温中 | 强度 84.38 | 质量 75.89
+  - 主题摘要：According to Ace's post, an online casino game involving a coin flip between Kirk and Floyd has gained millions of views on Instagram. This content is associated with the token na…
+  - 资金 100.00 / 广度 86.10 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Dip Wheeler Proposes Launchpad for Launchpads | Solana | 加速中 | 强度 82.45 | 质量 74.51
+  - 主题摘要：According to Dip Wheeler's post, the author proposes a conceptual framework for building a launchpad specifically designed for other launchpads. This suggestion highlights a poten…
+  - 资金 100.00 / 广度 76.15 / 确认 20.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Summer Posts Simba Meme Image | BSC | 加速中 | 强度 78.75 | 质量 73.06
-  - 主题摘要：According to Summer's post, the user introduced a character named Simba, designated as the 'Chief Cat bStocks Officer,' accompanied by a Meme image. This content highlights a spec…
-  - 资金 100.00 / 广度 75.96 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Jack_019822 Posts Bull Return Meme | BSC | 加速中 | 强度 78.09 | 质量 75.14
+- Uncertain:Jack_019822 Posts Bull Return Meme | BSC | 加速中 | 强度 81.09 | 质量 78.95
   - 主题摘要：According to 杰克🔶BNB's post, the user created and shared a Meme image titled "Niu Hui" (Bull Return) to align with other exchanges' bull market promotions. The post invites users t…
-  - 资金 100.00 / 广度 82.47 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.10 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 翻身币税助力凉兮翻身 | BSC | 加速中 | 强度 74.98 | 质量 64.08
+- Small puddle. Big splash | Solana | 降温中 | 强度 80.57 | 质量 69.56
+  - 主题摘要：PUDDLE token celebrates the concept of small beginnings leading to big success. The logo features a frog in a rain puddle, symbolizing how even small moments can create significan…
+  - 资金 100.00 / 广度 65.00 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- White House Quoted Tweet | Solana | 加速中 | 强度 79.93 | 质量 79.29
+  - 主题摘要：Multiple tokens named 「LION」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.88 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Qixi Mysterious Day 615 | BSC | 加速中 | 强度 76.96 | 质量 73.90
+  - 主题摘要：Binance华语账号在七夕节前夕发布推文，暗示距离‘完美七夕’还差一个点赞，并提及‘Day 615’这一特定天数。该内容利用节日氛围和未解悬念吸引社区互动，虽无明确发币信息，但具备节日营销的潜在传播力。
+  - 资金 100.00 / 广度 94.03 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Summer Posts Simba Meme Image | BSC | 加速中 | 强度 76.94 | 质量 72.95
+  - 主题摘要：According to Summer's post, the user introduced a character named Simba, designated as the 'Chief Cat bStocks Officer,' accompanied by a Meme image. This content highlights a spec…
+  - 资金 100.00 / 广度 75.97 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 翻身币税助力凉兮翻身 | BSC | 加速中 | 强度 75.58 | 质量 64.17
   - 主题摘要：Multiple tokens named 「翻身币」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.54 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.58 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.86，其中已确认叙事 0 个。
-- Craig Newmark Philanthropies 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.15，其中已确认叙事 0 个。
 - United Oil Trust Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance New Mode | 质量 84.90 | 可交易性 100.00 | 风险 低
-- Binance Premieres Inside Binance | 质量 80.63 | 可交易性 100.00 | 风险 低
-- Troopet Coin | 质量 78.55 | 可交易性 100.00 | 风险 低
-- Binance Qixi Mysterious Day 615 | 质量 78.48 | 可交易性 100.00 | 风险 低
-- White House Quoted Tweet | 质量 78.01 | 可交易性 100.00 | 风险 低
-- NASA | 质量 77.51 | 可交易性 100.00 | 风险 低
-- United Oil Trust Fund | 质量 76.74 | 可交易性 100.00 | 风险 低
-- National Trump Digital Accounts | 质量 76.34 | 可交易性 100.00 | 风险 低
-- Uncertain:Jack_019822 Posts Bull Return Meme | 质量 75.14 | 可交易性 87.92 | 风险 低
-- Dip Wheeler Proposes Launchpad for Launchpads | 质量 74.48 | 可交易性 97.28 | 风险 低
+- Binance New Mode | 质量 84.89 | 可交易性 100.00 | 风险 低
+- Binance Premieres Inside Binance | 质量 81.69 | 可交易性 100.00 | 风险 低
+- White House Quoted Tweet | 质量 79.29 | 可交易性 100.00 | 风险 低
+- Uncertain:Jack_019822 Posts Bull Return Meme | 质量 78.95 | 可交易性 100.00 | 风险 低
+- Troopet Coin | 质量 78.54 | 可交易性 100.00 | 风险 低
+- United Oil Trust Fund | 质量 76.78 | 可交易性 100.00 | 风险 低
+- National Trump Digital Accounts | 质量 76.53 | 可交易性 100.00 | 风险 低
+- Alleged $TROOPET Coin | 质量 76.04 | 可交易性 100.00 | 风险 低
+- Alleged Kirk Floyd Coin Casino Game | 质量 75.89 | 可交易性 100.00 | 风险 低
+- Dip Wheeler Proposes Launchpad for Launchpads | 质量 74.51 | 可交易性 97.36 | 风险 低
 
 ## 伪叙事风险
 
+- Troopet Coin | 风险 43.59 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - 가나디 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MARSBUCKS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- USDC | Solana | 看多 | 新鲜度 100.00 | US Debt Surpasses $40T
+- USDC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TROOPET | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BUY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MACHINE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -131,8 +132,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United Oil Trust Fund（Solana，分数 87.95）
+1. 当前最强叙事：United Oil Trust Fund（Solana，分数 87.99）
 2. 共振最强代币：BTW（BSC，共振 100.0）
-3. 记忆层变化：Craig Newmark Philanthropies 当前为“新出现”
+3. 记忆层变化：Alleged $TROOPET Coin 当前为“新出现”
 4. 最新官方催化：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers
 #Binance #NarrativeOS #OpenClaw
