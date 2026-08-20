@@ -1,101 +1,106 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-20T06:20:17.970684+00:00
+- 生成时间：2026-08-20T07:12:21.126170+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
-- 高风险伪叙事：0
+- 已确认叙事：2
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 10,000x coin，所在链为 Solana，叙事强度 85.32。
-- 当前平均叙事强度为 81.38，其中已确认叙事 0 个。
+- 当前最强叙事是 Telegram Coin，所在链为 Solana，叙事强度 85.02。
+- 当前平均叙事强度为 79.45，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 Z，来自 Solana，共振分数 100.0。
-- 记忆层显示 Uncertain:Alleged Hafu Coin 当前处于“新出现”状态。
+- 记忆层显示 Telegram Coin 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Moderna Stock Surge on Hantavirus Outbreak，伪叙事风险 54.14。
 - 最新官方催化来自 最新活动：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers。
 
 ## 叙事雷达
 
-- 10,000x coin | Solana | 降温中 | 强度 85.32 | 质量 72.96
-  - 主题摘要：Multiple tokens named 「万倍币」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.33 / 确认 9.36 / 脆弱性 0.00
+- Telegram Coin | Solana | 降温中 | 强度 85.02 | 质量 74.15
+  - 主题摘要：Multiple tokens named 「Telegram」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.08 / 确认 15.12 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ's 5h Coincidence | BSC | 已确认 | 强度 82.14 | 质量 85.62
-  - 主题摘要：CZ jokingly suggests that investors should look at market movements over a 5-hour horizon rather than years to appreciate their actions, highlighting the absurdity of short-term s…
-  - 资金 100.00 / 广度 100.00 / 确认 34.64 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged Hafu Coin | BSC | 加速中 | 强度 82.06 | 质量 75.01
-  - 主题摘要：According to 我肯定会发财！'s post, the user claims that 'Hafu Coin' is the most popular cryptocurrency in China, featuring daily market trends, professional OTC merchants, and a platfor…
-  - 资金 100.00 / 广度 81.67 / 确认 23.04 / 脆弱性 14.00
+- 真正的现金猫 | BSC | 加速中 | 强度 84.15 | 质量 80.51
+  - 主题摘要：According to 仔牛's post, a Meme image titled 'Cash Cat' was shared, claiming to reveal a hidden secret within the RMB design. The post asserts that a cat figure is visible upon mag…
+  - 资金 100.00 / 广度 91.48 / 确认 23.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Machi Big Brother Comments on $Machi | Solana | 降温中 | 强度 81.89 | 质量 70.54
+- Uncertain:Alleged Hafu Coin | BSC | 加速中 | 强度 83.56 | 质量 75.32
+  - 主题摘要：According to 我肯定会发财！'s post, the user claims that 'Hafu Coin' is the most popular cryptocurrency in China, featuring daily market trends, professional OTC merchants, and a platfor…
+  - 资金 100.00 / 广度 82.10 / 确认 23.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ's 5h Coincidence | BSC | 已确认 | 强度 82.87 | 质量 86.57
+  - 主题摘要：CZ jokingly suggests that investors should look at market movements over a 5-hour horizon rather than years to appreciate their actions, highlighting the absurdity of short-term s…
+  - 资金 100.00 / 广度 100.00 / 确认 38.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Machi Big Brother Comments on $Machi | Solana | 降温中 | 强度 81.91 | 质量 70.54
   - 主题摘要：According to Machi Big Brother's post, he stated that the $Machi token cannot be vamped. This comment was made in reply to a discussion regarding the potential for coins to be vam…
   - 资金 100.00 / 广度 71.95 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Intismeran Token | Solana | 降温中 | 强度 81.68 | 质量 70.99
-  - 主题摘要：According to buy's post, the user claims that Moderna has successfully created a cancer vaccine named 'intismeran' which has passed phase 3 trials. The post alleges that a related…
-  - 资金 100.00 / 广度 78.89 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 958262988 | BSC | 降温中 | 强度 81.33 | 质量 76.52
+- 958262988 | BSC | 降温中 | 强度 80.59 | 质量 76.59
   - 主题摘要：SnowBallCoin (958262988) is a meme token inspired by the viral 'Snowball' meme, featuring a snowman character. It gained popularity through social media, particularly on X, where…
-  - 资金 100.00 / 广度 82.92 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.14 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Meme Token $Duky Launch | Solana | 降温中 | 强度 80.47 | 质量 73.31
-  - 主题摘要：According to Pen the Artist ✏️'s post, the creator of Pudgy Penguins is launching a new Meme token, $Duky. He describes the character as a duck aiming to get rich, representing re…
-  - 资金 100.00 / 广度 73.27 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Tiktok DM Cash Feature | Solana | 降温中 | 强度 79.51 | 质量 65.87
-  - 主题摘要：According to plug's post, TikTok is reportedly building a feature to send cash directly through direct messages. This news is associated with various tokens such as Tcash, TK, and…
-  - 资金 100.00 / 广度 78.54 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Sir Doge Releases X Censorship Dashboard | Solana | 降温中 | 强度 79.42 | 质量 65.08
-  - 主题摘要：According to Sir Doge of the Coin ⚔️'s post, he developed a dashboard tracking internet freedom and government intervention on 𝕏 using Grok Build. The tool ranks entities based on…
-  - 资金 100.00 / 广度 83.42 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Almost Walked on Stage | BSC | 已确认 | 强度 79.26 | 质量 81.47
+- CZ Almost Walked on Stage | BSC | 已确认 | 强度 79.16 | 质量 81.25
   - 主题摘要：CZ posted a cryptic tweet saying he was "this close" to walking on stage with a specific item, referencing a past event or meme moment. This ambiguity triggers community speculati…
-  - 资金 100.00 / 广度 88.68 / 确认 35.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.70 / 确认 35.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Google Japan Pixel 11 Launch | BSC | 已确认 | 强度 78.55 | 质量 79.61
-  - 主题摘要：According to Google Japan's post, the company announced the release of the Google Pixel 11 series. The post also featured a Meme image referencing 'Nuinui (tentative)', suggesting…
-  - 资金 100.00 / 广度 89.97 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Solana Rises Due to White House Crypto Event | BSC | 加速中 | 强度 78.39 | 质量 73.27
-  - 主题摘要：According to Kiro's post, Kiro criticized the design style of the digital theme on the White House website's crypto section, stating that if the site is to be run, it should be ex…
-  - 资金 100.00 / 广度 82.04 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Black Myth Zhongkui Meme Image | BSC | 加速中 | 强度 78.28 | 质量 73.20
-  - 主题摘要：According to 🔮Mikasa Ackerman_AI's post, the user shared a Meme image referencing the game 'Black Myth: Zhongkui', claiming it as the second title in the Black Myth series. This c…
-  - 资金 100.00 / 广度 81.39 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 翻身币税助力凉兮翻身 | BSC | 加速中 | 强度 77.23 | 质量 64.28
+- Moderna Stock Surge on Hantavirus Outbreak | Solana | 点火期 | 强度 78.06 | 质量 79.48
+  - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 99.12 / 确认 7.92 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Bullish Tokenized Equity on Solana | Solana | 点火期 | 强度 77.89 | 质量 77.87
+  - 主题摘要：Solana官方宣布Bullish在Solana上完成了首次受监管的数字资产交易所代币化股票交易。这标志着传统金融与区块链结合的里程碑事件，突显了Solana在合规金融应用上的能力。
+  - 资金 100.00 / 广度 92.70 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 翻身币税助力凉兮翻身 | BSC | 加速中 | 强度 77.87 | 质量 64.45
   - 主题摘要：Multiple tokens named 「翻身币」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.18 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.42 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Black Myth Zhongkui Meme Image | BSC | 加速中 | 强度 77.24 | 质量 73.20
+  - 主题摘要：According to 🔮Mikasa Ackerman_AI's post, the user shared a Meme image referencing the game 'Black Myth: Zhongkui', claiming it as the second title in the Black Myth series. This c…
+  - 资金 100.00 / 广度 81.50 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- okina hiyoko | Solana | 降温中 | 强度 76.98 | 质量 66.62
+  - 主题摘要：hiyoko is a community-driven token inspired by the playful duck character Okina Hiyoko. The logo features a cartoon duck with a cheerful expression, embodying the token's descript…
+  - 资金 100.00 / 广度 75.11 / 确认 0.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- AI Runner Meme | Solana | 加速中 | 强度 76.81 | 质量 70.75
+  - 主题摘要：According to rob's post, a viral TikTok video featuring an AI robot runner performing stunts has gained significant attention, with 5.3 million views in 12 hours. The content high…
+  - 资金 100.00 / 广度 62.90 / 确认 18.72 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Summer Posts Simba Meme Image | BSC | 加速中 | 强度 76.67 | 质量 74.10
+  - 主题摘要：According to Summer's post, the user introduced a character named Simba, designated as the 'Chief Cat bStocks Officer,' accompanied by a Meme image. This content highlights a spec…
+  - 资金 100.00 / 广度 77.41 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.38，其中已确认叙事 0 个。
-- Uncertain:Alleged Hafu Coin 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- 10,000x coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.45，其中已确认叙事 0 个。
+- 真正的现金猫 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Telegram Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ's 5h Coincidence | 质量 85.62 | 可交易性 100.00 | 风险 低
-- CZ Almost Walked on Stage | 质量 81.47 | 可交易性 96.95 | 风险 低
-- Google Japan Pixel 11 Launch | 质量 79.61 | 可交易性 100.00 | 风险 低
-- 958262988 | 质量 76.52 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Hafu Coin | 质量 75.01 | 可交易性 91.46 | 风险 低
-- Alleged Meme Token $Duky Launch | 质量 73.31 | 可交易性 100.00 | 风险 低
-- Solana Rises Due to White House Crypto Event | 质量 73.27 | 可交易性 87.41 | 风险 低
-- Alleged Black Myth Zhongkui Meme Image | 质量 73.20 | 可交易性 87.83 | 风险 低
-- 10,000x coin | 质量 72.96 | 可交易性 100.00 | 风险 低
-- Alleged Intismeran Token | 质量 70.99 | 可交易性 100.00 | 风险 低
+- CZ's 5h Coincidence | 质量 86.57 | 可交易性 100.00 | 风险 低
+- CZ Almost Walked on Stage | 质量 81.25 | 可交易性 96.21 | 风险 低
+- 真正的现金猫 | 质量 80.51 | 可交易性 100.00 | 风险 低
+- Moderna Stock Surge on Hantavirus Outbreak | 质量 79.48 | 可交易性 100.00 | 风险 低
+- Bullish Tokenized Equity on Solana | 质量 77.87 | 可交易性 100.00 | 风险 低
+- 958262988 | 质量 76.59 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Hafu Coin | 质量 75.32 | 可交易性 92.07 | 风险 低
+- Telegram Coin | 质量 74.15 | 可交易性 100.00 | 风险 低
+- Summer Posts Simba Meme Image | 质量 74.10 | 可交易性 94.80 | 风险 低
+- Alleged Black Myth Zhongkui Meme Image | 质量 73.20 | 可交易性 87.73 | 风险 低
 
 ## 伪叙事风险
 
+- Moderna Stock Surge on Hantavirus Outbreak | 风险 54.14 | 原因：流动性偏薄、近 1 小时净流入转负
+- Bullish Tokenized Equity on Solana | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- okina hiyoko | 风险 43.28 | 原因：流动性偏薄
 
 ## 信号台
 
+- 现金猫 | BSC | 看多 | 新鲜度 100.00 | 真正的现金猫
 - 가나디 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Iqbal | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TROOPET | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -105,7 +110,6 @@
 - PAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEOW | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BBROKERS | Base | 看多 | 新鲜度 99.66 | 暂无直接叙事映射
-- 机灵灵 | BSC | 看多 | 新鲜度 98.32 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：10,000x coin（Solana，分数 85.32）
+1. 当前最强叙事：Telegram Coin（Solana，分数 85.02）
 2. 共振最强代币：Z（Solana，共振 100.0）
-3. 记忆层变化：Uncertain:Alleged Hafu Coin 当前为“新出现”
+3. 记忆层变化：Telegram Coin 当前为“新出现”
 4. 最新官方催化：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers
 #Binance #NarrativeOS #OpenClaw
