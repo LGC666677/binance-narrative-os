@@ -1,112 +1,115 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-20T15:53:49.761664+00:00
+- 生成时间：2026-08-20T16:17:15.733128+00:00
 - 跟踪叙事：14
-- 已确认叙事：3
+- 已确认叙事：2
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Federal Trust Fund System，所在链为 Solana，叙事强度 88.77。
-- 当前平均叙事强度为 84.37，其中已确认叙事 0 个。
+- 当前最强叙事是 Federal Trust Fund System，所在链为 Solana，叙事强度 87.83。
+- 当前平均叙事强度为 82.3，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Council Cult Narrative 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 958262988，伪叙事风险 52.99。
+- 记忆层显示 Run1ooooo1 Inquires About Penglai 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 se Discusses FOMO Language Support，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-08-20)。
 
 ## 叙事雷达
 
-- Federal Trust Fund System | Solana | 降温中 | 强度 88.77 | 质量 79.86
+- Federal Trust Fund System | Solana | 降温中 | 强度 87.83 | 质量 80.10
   - 主题摘要：FTFS (Federal Trust Fund System) is a fixed-supply token with revocable mint, freeze, and metadata mutability controls. The logo features a stylized American flag design, suggesti…
-  - 资金 100.00 / 广度 95.10 / 确认 15.12 / 脆弱性 0.00
+  - 资金 100.00 / 广度 95.91 / 确认 15.12 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- XTAL | Solana | 加速中 | 强度 87.25 | 质量 76.88
+- Alleged Official Kirk Coin | Solana | 加速中 | 强度 87.63 | 质量 83.07
+  - 主题摘要：According to Bymotionn's post, TPUSA added a SOL wallet for donations, prompting the suggestion to create an official Charlie Kirk currency with fees supporting his company. This…
+  - 资金 100.00 / 广度 100.00 / 确认 23.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- XTAL | Solana | 加速中 | 强度 87.24 | 质量 76.88
   - 主题摘要：XTAL token represents a specialized AI hardware development project. The logo features a circuit board design, symbolizing the token's focus on tokenizing computing power for AI a…
   - 资金 100.00 / 广度 82.00 / 确认 19.44 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Official Kirk Coin | Solana | 加速中 | 强度 86.00 | 质量 80.63
-  - 主题摘要：According to Bymotionn's post, TPUSA added a SOL wallet for donations, prompting the suggestion to create an official Charlie Kirk currency with fees supporting his company. This…
-  - 资金 100.00 / 广度 92.39 / 确认 22.32 / 脆弱性 14.00
+- Run1ooooo1 Inquires About Penglai | BSC | 加速中 | 强度 82.48 | 质量 73.60
+  - 主题摘要：According to 降雨幾率's post, the user inquired whether the token 'Penglai' is related to 'Bilai'. The post references content from another user discussing 'Bilai' and 'Niu Lai' in th…
+  - 资金 100.00 / 广度 76.11 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Ansem's Bull Meme Coin Opinion | Solana | 加速中 | 强度 84.70 | 质量 78.49
-  - 主题摘要：According to Ansem 🐂🀄️'s post, the author argues that a bull-themed memecoin has never successfully emerged and suggests it would be a better representation of bull markets than d…
-  - 资金 100.00 / 广度 86.86 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Council Cult Narrative | Solana | 降温中 | 强度 83.59 | 质量 77.61
-  - 主题摘要：According to Chinese Soloxbt's post, a narrative regarding a 'cult' called 'The Council' is allegedly going viral, with claims that millions are being onboarded and YouTube commen…
-  - 资金 100.00 / 广度 87.62 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jotchua Trump | Solana | 降温中 | 强度 81.93 | 质量 71.47
-  - 主题摘要：Multiple tokens named 「JotchuaTrump」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.08 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TWO HOOVES | Solana | 降温中 | 强度 81.45 | 质量 74.05
-  - 主题摘要：HOOVES is a meme coin inspired by the humorous concept of two cows and one bull. Created by X user @twohooves, it embodies the absurd idea of two cows chasing one bull, symbolized…
-  - 资金 100.00 / 广度 83.65 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Prestige Meme Coin | Solana | 降温中 | 强度 81.29 | 质量 72.95
-  - 主题摘要：According to Esoteric's post, the token 'Prestige' is gaining attention as a potential bull market theme, with the name derived from the concept of losing and recovering assets. E…
-  - 资金 100.00 / 广度 76.30 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Agent OS | BSC | 已确认 | 强度 81.25 | 质量 81.27
-  - 主题摘要：Binance Co-CEO Yi He promotes the launch of 'Binance Agent OS,' a platform for building and deploying AI agents, signaling the exchange's deep integration of artificial intelligen…
-  - 资金 100.00 / 广度 89.31 / 确认 29.44 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- CZ Almost Walked on Stage | BSC | 已确认 | 强度 80.12 | 质量 82.70
+- CZ Almost Walked on Stage | BSC | 已确认 | 强度 81.33 | 质量 82.71
   - 主题摘要：CZ posted a cryptic tweet saying he was "this close" to walking on stage with a specific item, referencing a past event or meme moment. This ambiguity triggers community speculati…
-  - 资金 100.00 / 广度 95.04 / 确认 28.12 / 脆弱性 24.00
+  - 资金 100.00 / 广度 95.08 / 确认 28.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Launch of Niu Nai Du Du Wa Meme Image | BSC | 加速中 | 强度 79.81 | 质量 79.43
-  - 主题摘要：According to bStocks's post, the account promotes its trading platform, bStocks, highlighting its 24/7 availability and accessibility. The content encourages users to view stocks…
-  - 资金 100.00 / 广度 90.50 / 确认 19.44 / 脆弱性 14.00
+- Robot Speed Record Meme | Solana | 加速中 | 强度 80.34 | 质量 78.66
+  - 主题摘要：According to Eren Chen's post, a robot has reportedly broken the human speed record while simultaneously breaking an electrical box. This event highlights advancements in embodied…
+  - 资金 100.00 / 广度 84.79 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Meme Season | BSC | 已确认 | 强度 78.18 | 质量 79.20
+- BNB Meme Season | BSC | 已确认 | 强度 80.17 | 质量 80.38
   - 主题摘要：BNB Chain官方宣布Meme季节回归，并邀请社区进入BNB战壕参与新兴Meme项目，预示着链上Meme活动的新一轮爆发。
-  - 资金 100.00 / 广度 90.73 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.74 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Black Myth Zhongkui Meme Image | BSC | 加速中 | 强度 77.21 | 质量 74.37
-  - 主题摘要：According to 🔮Mikasa Ackerman_AI's post, the user shared a Meme image referencing the game 'Black Myth: Zhongkui', claiming it as the second title in the Black Myth series. This c…
-  - 资金 100.00 / 广度 83.51 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 958262988 | BSC | 点火期 | 强度 76.72 | 质量 75.26
+- Alleged Council Cult Narrative | Solana | 点火期 | 强度 78.89 | 质量 77.44
+  - 主题摘要：According to Chinese Soloxbt's post, a narrative regarding a 'cult' called 'The Council' is allegedly going viral, with claims that millions are being onboarded and YouTube commen…
+  - 资金 100.00 / 广度 87.04 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Solana Official Endorses PhoenixTrade | Solana | 降温中 | 强度 78.74 | 质量 67.67
+  - 主题摘要：Solana官方账号直接回复并点赞了PhoenixTrade关于前四名交易者单日获利超10万美元的推文，这一举动被解读为官方背书，引发社区对PhoenixTrade代币化或新生态项目的强烈猜测与投机热情。
+  - 资金 100.00 / 广度 75.02 / 确认 7.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 958262988 | BSC | 点火期 | 强度 77.75 | 质量 74.82
   - 主题摘要：SnowBallCoin (958262988) is a meme token inspired by the viral 'Snowball' meme, featuring a snowman character. It gained popularity through social media, particularly on X, where…
-  - 资金 100.00 / 广度 84.00 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.04 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Launch of Niu Nai Du Du Wa Meme Image | BSC | 加速中 | 强度 77.59 | 质量 79.43
+  - 主题摘要：According to bStocks's post, the account promotes its trading platform, bStocks, highlighting its 24/7 availability and accessibility. The content encourages users to view stocks…
+  - 资金 100.00 / 广度 90.51 / 确认 19.44 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Black Myth Zhongkui Meme Image | BSC | 加速中 | 强度 77.06 | 质量 74.34
+  - 主题摘要：According to 🔮Mikasa Ackerman_AI's post, the user shared a Meme image referencing the game 'Black Myth: Zhongkui', claiming it as the second title in the Black Myth series. This c…
+  - 资金 100.00 / 广度 83.52 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged Hafu Coin | BSC | 加速中 | 强度 75.92 | 质量 75.24
+  - 主题摘要：According to 我肯定会发财！'s post, the user claims that 'Hafu Coin' is the most popular cryptocurrency in China, featuring daily market trends, professional OTC merchants, and a platfor…
+  - 资金 100.00 / 广度 85.96 / 确认 22.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- se Discusses FOMO Language Support | Solana | 点火期 | 强度 75.40 | 质量 71.20
+  - 主题摘要：According to se's post, the FOMO co-founder inquired about the next language to be supported on the platform, following the recent addition of Spanish. The post seeks community in…
+  - 资金 100.00 / 广度 86.06 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.37，其中已确认叙事 0 个。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.3，其中已确认叙事 0 个。
+- Run1ooooo1 Inquires About Penglai 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Federal Trust Fund System 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ Almost Walked on Stage | 质量 82.70 | 可交易性 100.00 | 风险 低
-- Binance Agent OS | 质量 81.27 | 可交易性 100.00 | 风险 低
-- Alleged Official Kirk Coin | 质量 80.63 | 可交易性 100.00 | 风险 低
-- Federal Trust Fund System | 质量 79.86 | 可交易性 100.00 | 风险 低
+- Alleged Official Kirk Coin | 质量 83.07 | 可交易性 100.00 | 风险 低
+- CZ Almost Walked on Stage | 质量 82.71 | 可交易性 100.00 | 风险 低
+- BNB Meme Season | 质量 80.38 | 可交易性 100.00 | 风险 低
+- Federal Trust Fund System | 质量 80.10 | 可交易性 100.00 | 风险 低
 - Alleged Launch of Niu Nai Du Du Wa Meme Image | 质量 79.43 | 可交易性 100.00 | 风险 低
-- BNB Meme Season | 质量 79.20 | 可交易性 100.00 | 风险 低
-- Ansem's Bull Meme Coin Opinion | 质量 78.49 | 可交易性 100.00 | 风险 低
-- Alleged Council Cult Narrative | 质量 77.61 | 可交易性 100.00 | 风险 低
+- Robot Speed Record Meme | 质量 78.66 | 可交易性 100.00 | 风险 低
+- Alleged Council Cult Narrative | 质量 77.44 | 可交易性 100.00 | 风险 低
 - XTAL | 质量 76.88 | 可交易性 100.00 | 风险 低
-- 958262988 | 质量 75.26 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Hafu Coin | 质量 75.24 | 可交易性 88.46 | 风险 低
+- 958262988 | 质量 74.82 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- 958262988 | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- se Discusses FOMO Language Support | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- 958262988 | 风险 47.79 | 原因：流动性偏薄
+- Alleged Council Cult Narrative | 风险 43.18 | 原因：流动性偏薄
 
 ## 信号台
 
 - sauce | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bAOS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 金融便利店 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 哈夫币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Iqbal | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 哈夫币 | BSC | 看多 | 新鲜度 100.00 | Uncertain:Alleged Hafu Coin
 - PAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEOW | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BBROKERS | Base | 看多 | 新鲜度 99.66 | 暂无直接叙事映射
 - HAT | BSC | 看多 | 新鲜度 99.18 | CZ Almost Walked on Stage
-- Council | Solana | 看多 | 新鲜度 89.84 | Alleged Council Cult Narrative
+- 🐂 | BSC | 看多 | 新鲜度 88.04 | 暂无直接叙事映射
+- Council | Solana | 看多 | 新鲜度 88.04 | Alleged Council Cult Narrative
 
 ## 官方催化
 
@@ -132,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Federal Trust Fund System（Solana，分数 88.77）
+1. 当前最强叙事：Federal Trust Fund System（Solana，分数 87.83）
 2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Alleged Council Cult Narrative 当前为“新出现”
+3. 记忆层变化：Run1ooooo1 Inquires About Penglai 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-08-20)
 #Binance #NarrativeOS #OpenClaw
