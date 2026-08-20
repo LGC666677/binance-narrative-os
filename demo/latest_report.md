@@ -1,105 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-20T03:34:08.959400+00:00
+- 生成时间：2026-08-20T04:18:52.090228+00:00
 - 跟踪叙事：14
 - 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Unitree Robot Superman Meme，所在链为 Solana，叙事强度 85.95。
-- 当前平均叙事强度为 81.59，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Binance New Mode 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 SAOF，伪叙事风险 40.99。
+- 当前最强叙事是 CZ's 5h Coincidence，所在链为 BSC，叙事强度 89.73。
+- 当前平均叙事强度为 82.65，其中已确认叙事 3 个。
+- 注意力与资金共振最强的代币是 Z，来自 Solana，共振分数 100.0。
+- 记忆层显示 CZ's 5h Coincidence 当前处于“强化”状态。
 - 最新官方催化来自 最新活动：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers。
 
 ## 叙事雷达
 
-- Unitree Robot Superman Meme | Solana | 加速中 | 强度 85.95 | 质量 75.81
-  - 主题摘要：Multiple tokens named 「Superman」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.88 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance New Mode | BSC | 已确认 | 强度 83.85 | 质量 83.29
-  - 主题摘要：Binance official account teases a major update or feature launch within 24 hours, creating anticipation and FOMO among the community for the 'new mode'.
-  - 资金 100.00 / 广度 97.05 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- USWS | Solana | 降温中 | 强度 83.35 | 质量 70.97
-  - 主题摘要：Multiple tokens named 「USWS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.87 / 确认 5.04 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Black Myth Zhongkui Meme Image | BSC | 加速中 | 强度 83.01 | 质量 75.82
-  - 主题摘要：According to 🔮Mikasa Ackerman_AI's post, the user shared a Meme image regarding the release of 'Black Myth Zhongkui', the second title in the Black Myth series. The post reference…
-  - 资金 100.00 / 广度 80.93 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Craig Newmark Philanthropies | Solana | 加速中 | 强度 82.78 | 质量 74.05
-  - 主题摘要：Craig token represents Craig Newmark Philanthropies, inspired by Craigslist co-founder Craig Newmark's commitment to social impact. The logo features a star with interconnected do…
-  - 资金 100.00 / 广度 69.41 / 确认 23.76 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Kekius Odysseus | Solana | 加速中 | 强度 82.01 | 质量 72.65
-  - 主题摘要：Multiple tokens named 「KEKODYSSEUS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.75 / 确认 23.76 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ's Yearly Horizon Advice | BSC | 已确认 | 强度 81.53 | 质量 80.81
-  - 主题摘要：CZ advises investors to look at the yearly horizon rather than trying to call market bottoms, emphasizing long-term appreciation over short-term volatility.
-  - 资金 100.00 / 广度 88.77 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 2025 Emoji Trends | Solana | 已确认 | 强度 80.66 | 质量 75.65
-  - 主题摘要：According to p's post, the SOB token (symbol: 😭) is described as the 'MOST OG SOB ON PUMPFUN'. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 87.46 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- SAOF | Solana | 降温中 | 强度 79.58 | 质量 70.35
-  - 主题摘要：Multiple tokens named 「SAOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 96.47 / 广度 67.63 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bullpiss Coin | Solana | 降温中 | 强度 79.49 | 质量 69.73
-  - 主题摘要：Multiple tokens named 「BULLPISS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.26 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Unitree Robot Speed Record | Solana | 加速中 | 强度 78.90 | 质量 63.93
-  - 主题摘要：According to Massimo's post, a Chinese humanoid robot named "Superman" by Unitree Robotics reportedly surpassed Usain Bolt's speed record. This post is associated with tokens name…
-  - 资金 100.00 / 广度 77.82 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Premieres Inside Binance | BSC | 加速中 | 强度 78.64 | 质量 80.41
-  - 主题摘要：Binance announced the premiere of 'Inside Binance,' an unfiltered series hosted by Kevin Susanto. The show aims to address community questions by featuring special guests and behi…
-  - 资金 100.00 / 广度 92.34 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ's 5h Coincidence | BSC | 加速中 | 强度 78.25 | 质量 77.74
+- CZ's 5h Coincidence | BSC | 已确认 | 强度 89.73 | 质量 86.57
   - 主题摘要：CZ jokingly suggests that investors should look at market movements over a 5-hour horizon rather than years to appreciate their actions, highlighting the absurdity of short-term s…
-  - 资金 100.00 / 广度 86.43 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 100.00 / 确认 38.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Unitree Robot Superman Meme | Solana | 加速中 | 强度 86.74 | 质量 77.37
+  - 主题摘要：Multiple tokens named 「Superman」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.04 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Summer Posts Simba Meme Image | BSC | 加速中 | 强度 78.14 | 质量 70.87
+- CZ Almost Walked on Stage | BSC | 已确认 | 强度 86.18 | 质量 82.14
+  - 主题摘要：CZ posted a cryptic tweet saying he was "this close" to walking on stage with a specific item, referencing a past event or meme moment. This ambiguity triggers community speculati…
+  - 资金 100.00 / 广度 87.86 / 确认 35.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- 10,000x coin | Solana | 降温中 | 强度 84.67 | 质量 72.33
+  - 主题摘要：Multiple tokens named 「万倍币」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.24 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Bullpiss Coin | Solana | 降温中 | 强度 84.25 | 质量 74.39
+  - 主题摘要：Multiple tokens named 「BULLPISS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.09 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- USWS | Solana | 降温中 | 强度 84.02 | 质量 71.68
+  - 主题摘要：Multiple tokens named 「USWS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.23 / 确认 5.04 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Superman Token | Solana | 加速中 | 强度 83.94 | 质量 73.11
+  - 主题摘要：According to Shah's post, a robot named 'superman' has gone viral for beating Usain Bolt's 100m dash record. This event is associated with the 'Superman' token, which is allegedly…
+  - 资金 100.00 / 广度 68.91 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance New Mode | BSC | 已确认 | 强度 82.92 | 质量 83.30
+  - 主题摘要：Binance official account teases a major update or feature launch within 24 hours, creating anticipation and FOMO among the community for the 'new mode'.
+  - 资金 100.00 / 广度 97.06 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Elon Musk Space Karen Meme | Solana | 降温中 | 强度 82.75 | 质量 74.49
+  - 主题摘要：Multiple tokens named 「ELON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.79 / 确认 12.96 / 脆弱性 17.54
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Binance Africa Greeting | BSC | 加速中 | 强度 81.99 | 质量 78.04
+  - 主题摘要：According to Binance Africa's post, the official account shared a greeting message featuring a cat image, referencing the '#Binance cat' theme. The post serves as a community enga…
+  - 资金 100.00 / 广度 82.18 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Elon Musk Meme Image | Solana | 降温中 | 强度 81.88 | 质量 73.46
+  - 主题摘要：Multiple tokens named 「ELON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.00 / 确认 9.36 / 脆弱性 17.54
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk Tesla Documentary | Solana | 降温中 | 强度 81.85 | 质量 73.30
+  - 主题摘要：According to Jeff Sitton's post, Elon Musk has produced a documentary about Tesla, which is expected to achieve significant viral popularity. The post includes a link to the docum…
+  - 资金 100.00 / 广度 77.46 / 确认 9.36 / 脆弱性 17.54
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Summer Posts Simba Meme Image | BSC | 加速中 | 强度 78.16 | 质量 70.90
   - 主题摘要：According to Summer's post, the user introduced a Meme image featuring a character named Simba, designated as the 'Chief Cat bStocks Officer'. This content highlights a specific M…
-  - 资金 100.00 / 广度 74.85 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.84 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Guangxi Chenguang Shares Meme | BSC | 降温中 | 强度 76.91 | 质量 72.16
+  - 主题摘要：Multiple tokens named 「苗」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.64 / 确认 11.52 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.59，其中已确认叙事 1 个。
-- Binance New Mode 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- USWS 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 82.65，其中已确认叙事 3 个。
+- CZ's 5h Coincidence 正在向主线升级: BSC 上该叙事处于“强化”状态，值得持续跟踪。
+- 10,000x coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance New Mode | 质量 83.29 | 可交易性 100.00 | 风险 低
-- CZ's Yearly Horizon Advice | 质量 80.81 | 可交易性 100.00 | 风险 低
-- Binance Premieres Inside Binance | 质量 80.41 | 可交易性 100.00 | 风险 低
-- CZ's 5h Coincidence | 质量 77.74 | 可交易性 94.74 | 风险 低
-- Alleged Black Myth Zhongkui Meme Image | 质量 75.82 | 可交易性 93.86 | 风险 低
-- Unitree Robot Superman Meme | 质量 75.81 | 可交易性 92.38 | 风险 低
-- 2025 Emoji Trends | 质量 75.65 | 可交易性 84.12 | 风险 低
-- Craig Newmark Philanthropies | 质量 74.05 | 可交易性 100.00 | 风险 低
-- Kekius Odysseus | 质量 72.65 | 可交易性 100.00 | 风险 低
-- USWS | 质量 70.97 | 可交易性 100.00 | 风险 低
+- CZ's 5h Coincidence | 质量 86.57 | 可交易性 100.00 | 风险 低
+- Binance New Mode | 质量 83.30 | 可交易性 100.00 | 风险 低
+- CZ Almost Walked on Stage | 质量 82.14 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance Africa Greeting | 质量 78.04 | 可交易性 100.00 | 风险 低
+- Unitree Robot Superman Meme | 质量 77.37 | 可交易性 97.42 | 风险 低
+- Elon Musk Space Karen Meme | 质量 74.49 | 可交易性 100.00 | 风险 低
+- Bullpiss Coin | 质量 74.39 | 可交易性 100.00 | 风险 低
+- Alleged Elon Musk Meme Image | 质量 73.46 | 可交易性 100.00 | 风险 低
+- Elon Musk Tesla Documentary | 质量 73.30 | 可交易性 100.00 | 风险 低
+- Alleged Superman Token | 质量 73.11 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- SAOF | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - 가나디 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- MARSBUCKS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Iqbal | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TROOPET | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HOTDOG | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -108,6 +105,7 @@
 - PAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEOW | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BBROKERS | Base | 看多 | 新鲜度 99.66 | 暂无直接叙事映射
+- 机灵灵 | BSC | 看多 | 新鲜度 98.32 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Unitree Robot Superman Meme（Solana，分数 85.95）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Binance New Mode 当前为“新出现”
+1. 当前最强叙事：CZ's 5h Coincidence（BSC，分数 89.73）
+2. 共振最强代币：Z（Solana，共振 100.0）
+3. 记忆层变化：CZ's 5h Coincidence 当前为“强化”
 4. 最新官方催化：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers
 #Binance #NarrativeOS #OpenClaw
