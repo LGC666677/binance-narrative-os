@@ -1,103 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-20T00:25:02.364485+00:00
+- 生成时间：2026-08-20T01:55:25.285606+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Moderna Cancer Vaccine Trial，所在链为 Solana，叙事强度 87.37。
-- 当前平均叙事强度为 87.24，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Achi Questions $Intismeran Deployment 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Korean Dog Ganadi Meme Image，伪叙事风险 44.91。
+- 当前最强叙事是 Alleged Cancer Cure Token on Solana，所在链为 Solana，叙事强度 84.52。
+- 当前平均叙事强度为 83.5，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 SNDK，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged Moderna Meme Coin 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers。
 
 ## 叙事雷达
 
-- Moderna Cancer Vaccine Trial | Solana | 降温中 | 强度 87.37 | 质量 78.49
+- Alleged Cancer Cure Token on Solana | Solana | 降温中 | 强度 84.52 | 质量 78.81
   - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.12 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.18 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Achi Questions $Intismeran Deployment | Solana | 降温中 | 强度 87.37 | 质量 78.49
+- Moderna Cancer Vaccine Trial | Solana | 降温中 | 强度 84.39 | 质量 78.81
   - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.12 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.18 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged MRNA Meme Token Launch | Solana | 降温中 | 强度 87.37 | 质量 78.49
+- Alleged Moderna Meme Coin | Solana | 降温中 | 强度 83.32 | 质量 78.81
+  - 主题摘要：According to megger's post, the user identifies MODERNA as a prominent runner in the current market meta, citing its stock performance and potential cure for Hantavirus. The post…
+  - 资金 100.00 / 广度 93.19 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged MRNA Token Launch | Solana | 降温中 | 强度 83.24 | 质量 78.81
   - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.13 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.18 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged MRNA Token Launch | Solana | 降温中 | 强度 87.37 | 质量 78.49
+- Alleged MRNA Meme Token Launch | Solana | 降温中 | 强度 83.18 | 质量 78.81
   - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.12 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.19 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Toly Comments on $MRNA | Solana | 降温中 | 强度 87.37 | 质量 78.49
-  - 主题摘要：Toly, Co-Founder of Solana Labs, posted a statement regarding the token $MRNA, characterizing it with the phrase 'Socialists hate this.' The post references the ticker symbol $MRN…
-  - 资金 100.00 / 广度 92.13 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged MRNA Meme Coin | Solana | 降温中 | 强度 87.34 | 质量 78.49
+- Achi Questions $Intismeran Deployment | Solana | 降温中 | 强度 83.14 | 质量 78.81
   - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.14 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.18 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Moderna Share Price Doubles | Solana | 降温中 | 强度 87.00 | 质量 78.49
+- Alleged MRNA Meme Coin | Solana | 降温中 | 强度 83.11 | 质量 78.81
   - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.14 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.19 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Cancer Cure Token on Solana | Solana | 降温中 | 强度 86.73 | 质量 78.49
+- Moderna Share Price Doubles | Solana | 降温中 | 强度 83.11 | 质量 78.81
   - 主题摘要：Multiple tokens named 「MRNA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.12 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.19 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance New Mode | BSC | 已确认 | 强度 84.49 | 质量 84.12
-  - 主题摘要：Binance official account teases a major update or feature launch within 24 hours, creating anticipation and FOMO among the community for the 'new mode'.
-  - 资金 100.00 / 广度 97.17 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Premieres Inside Binance | BSC | 加速中 | 强度 82.29 | 质量 81.77
-  - 主题摘要：Binance announced the premiere of 'Inside Binance,' an unfiltered series hosted by Kevin Susanto. The show aims to address community questions by featuring special guests and behi…
-  - 资金 100.00 / 广度 92.49 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ's Yearly Horizon Advice | BSC | 加速中 | 强度 81.48 | 质量 80.70
+- CZ's Yearly Horizon Advice | BSC | 加速中 | 强度 80.29 | 质量 80.63
   - 主题摘要：CZ advises investors to look at the yearly horizon rather than trying to call market bottoms, emphasizing long-term appreciation over short-term volatility.
-  - 资金 100.00 / 广度 88.92 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.69 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Scaramucci and CZ at SALT Conference | BSC | 加速中 | 强度 79.60 | 质量 77.19
-  - 主题摘要：Multiple tokens named 「CZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.03 / 确认 27.36 / 脆弱性 24.00
+- Binance Premieres Inside Binance | BSC | 加速中 | 强度 80.03 | 质量 81.73
+  - 主题摘要：Binance announced the premiere of 'Inside Binance,' an unfiltered series hosted by Kevin Susanto. The show aims to address community questions by featuring special guests and behi…
+  - 资金 100.00 / 广度 92.36 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Summer Posts Simba Meme Image | BSC | 加速中 | 强度 79.01 | 质量 72.38
+- Summer Posts Simba Meme Image | BSC | 加速中 | 强度 78.59 | 质量 71.64
   - 主题摘要：According to Summer's post, the user introduced a Meme image featuring a character named Simba, designated as the 'Chief Cat bStocks Officer'. This content highlights a specific M…
-  - 资金 100.00 / 广度 75.13 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.20 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Korean Dog Ganadi Meme Image | BSC | 点火期 | 强度 74.47 | 质量 69.92
-  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, the Ganadi meme image featuring a Korean puppy has gained significant popularity due to its abstract style, which is compared to the Chinese 'Pa…
-  - 资金 100.00 / 广度 90.26 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Scaramucci and CZ at SALT Conference | BSC | 加速中 | 强度 78.19 | 质量 76.29
+  - 主题摘要：According to Anthony Scaramucci's post, he and CZ are scheduled to take the stage at the SALT Conference Wyoming Blockchain Symposium. The post provides a live stream link for vie…
+  - 资金 100.00 / 广度 82.01 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Issuance of Robot Mascot Token | BSC | 加速中 | 强度 77.09 | 质量 66.16
+  - 主题摘要：According to 角度挖掘机's post, the 2026 World Robot Conference mascot has not yet been tokenized. The author suggests that due to the event's popularity and media coverage, the mascot…
+  - 资金 100.00 / 广度 74.80 / 确认 18.72 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ's 5h Coincidence | BSC | 加速中 | 强度 76.99 | 质量 75.98
+  - 主题摘要：CZ jokingly suggests that investors should look at market movements over a 5-hour horizon rather than years to appreciate their actions, highlighting the absurdity of short-term s…
+  - 资金 100.00 / 广度 83.59 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 87.24，其中已确认叙事 0 个。
-- Summer Posts Simba Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Moderna Cancer Vaccine Trial 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.5，其中已确认叙事 0 个。
+- Alleged Issuance of Robot Mascot Token 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Cancer Cure Token on Solana 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance New Mode | 质量 84.12 | 可交易性 100.00 | 风险 低
-- Binance Premieres Inside Binance | 质量 81.77 | 可交易性 100.00 | 风险 低
-- CZ's Yearly Horizon Advice | 质量 80.70 | 可交易性 100.00 | 风险 低
-- Moderna Cancer Vaccine Trial | 质量 78.49 | 可交易性 100.00 | 风险 低
-- Achi Questions $Intismeran Deployment | 质量 78.49 | 可交易性 100.00 | 风险 低
-- Alleged MRNA Meme Token Launch | 质量 78.49 | 可交易性 100.00 | 风险 低
-- Alleged MRNA Token Launch | 质量 78.49 | 可交易性 100.00 | 风险 低
-- Toly Comments on $MRNA | 质量 78.49 | 可交易性 100.00 | 风险 低
-- Alleged MRNA Meme Coin | 质量 78.49 | 可交易性 100.00 | 风险 低
-- Moderna Share Price Doubles | 质量 78.49 | 可交易性 100.00 | 风险 低
+- Binance Premieres Inside Binance | 质量 81.73 | 可交易性 100.00 | 风险 低
+- CZ's Yearly Horizon Advice | 质量 80.63 | 可交易性 100.00 | 风险 低
+- Alleged Cancer Cure Token on Solana | 质量 78.81 | 可交易性 100.00 | 风险 低
+- Moderna Cancer Vaccine Trial | 质量 78.81 | 可交易性 100.00 | 风险 低
+- Alleged Moderna Meme Coin | 质量 78.81 | 可交易性 100.00 | 风险 低
+- Alleged MRNA Token Launch | 质量 78.81 | 可交易性 100.00 | 风险 低
+- Alleged MRNA Meme Token Launch | 质量 78.81 | 可交易性 100.00 | 风险 低
+- Achi Questions $Intismeran Deployment | 质量 78.81 | 可交易性 100.00 | 风险 低
+- Alleged MRNA Meme Coin | 质量 78.81 | 可交易性 100.00 | 风险 低
+- Moderna Share Price Doubles | 质量 78.81 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Korean Dog Ganadi Meme Image | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
+- 机灵灵 | BSC | 看多 | 新鲜度 100.00 | Alleged Issuance of Robot Mascot Token
 - 가나디 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MARSBUCKS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Iqbal | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -105,7 +104,6 @@
 - HOTDOG | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - USDC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BUY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- MACHINE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEOW | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Moderna Cancer Vaccine Trial（Solana，分数 87.37）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Achi Questions $Intismeran Deployment 当前为“新出现”
+1. 当前最强叙事：Alleged Cancer Cure Token on Solana（Solana，分数 84.52）
+2. 共振最强代币：SNDK（BSC，共振 100.0）
+3. 记忆层变化：Alleged Moderna Meme Coin 当前为“新出现”
 4. 最新官方催化：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers
 #Binance #NarrativeOS #OpenClaw
