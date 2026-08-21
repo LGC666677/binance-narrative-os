@@ -1,103 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-21T17:50:59.523926+00:00
+- 生成时间：2026-08-21T18:16:37.110775+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 Uncertain:Binance Bull Meme Image Spread，所在链为 BSC，叙事强度 83.39。
-- 当前平均叙事强度为 76.92，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged HYPE Token Launch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Trump Photo with Aura Token，伪叙事风险 71.08。
+- 当前最强叙事是 RST，所在链为 Solana，叙事强度 84.41。
+- 当前平均叙事强度为 77.41，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
+- 记忆层显示 Solana Incinerator Meme 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Trump Photo with Aura Token，伪叙事风险 72.55。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
 
-- Uncertain:Binance Bull Meme Image Spread | BSC | 降温中 | 强度 83.39 | 质量 72.70
-  - 主题摘要：According to 角度挖掘机's post, the 'Binance Bull' Meme image has gained significant popularity, with domestic news media reporting on videos featuring Yi He and Biao Ge pulling ropes…
-  - 资金 100.00 / 广度 89.07 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ginnancoin | Solana | 降温中 | 强度 83.27 | 质量 73.60
-  - 主题摘要：Multiple tokens named 「GINNAN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.15 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- RST | Solana | 降温中 | 强度 83.14 | 质量 72.31
+- RST | Solana | 降温中 | 强度 84.41 | 质量 74.01
   - 主题摘要：RST token powers Resolut, a project focused on AI infrastructure. The logo features a stylized 'R' in orange, symbolizing resilience and innovation. RST aims to revolutionize AI d…
-  - 资金 100.00 / 广度 81.05 / 确认 0.00 / 脆弱性 0.00
+  - 资金 100.00 / 广度 86.69 / 确认 0.00 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Conk | Solana | 加速中 | 强度 80.49 | 质量 78.83
+- Uncertain:Binance Bull Meme Image Spread | BSC | 降温中 | 强度 83.40 | 质量 72.71
+  - 主题摘要：According to 角度挖掘机's post, the 'Binance Bull' Meme image has gained significant popularity, with domestic news media reporting on videos featuring Yi He and Biao Ge pulling ropes…
+  - 资金 100.00 / 广度 89.13 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Conk | Solana | 加速中 | 强度 79.44 | 质量 78.70
   - 主题摘要：Multiple tokens named 「CONK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.34 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.90 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged CatGPT Meme | Solana | 加速中 | 强度 79.11 | 质量 79.52
+- Alleged CatGPT Meme | Solana | 加速中 | 强度 78.99 | 质量 81.07
   - 主题摘要：Multiple tokens named 「CatGPT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.30 / 确认 18.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.84 / 确认 22.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk's AI Struggle | BSC | 降温中 | 强度 77.29 | 质量 68.19
-  - 主题摘要：Elon Musk comments on the book 'The Bitter Struggle,' which explores the high-stakes competition between superpowers and the race for artificial superintelligence.
-  - 资金 100.00 / 广度 80.05 / 确认 9.36 / 脆弱性 32.17
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged HYPE Token Launch | Solana | 降温中 | 强度 77.06 | 质量 66.49
-  - 主题摘要：Multiple tokens named 「HYPE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 61.75 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Apple Releases Sneaky Sasquatch Stickers | BSC | 降温中 | 强度 76.94 | 质量 65.37
-  - 主题摘要：According to Aaron's post, Apple has released version 1.1.1 of the Sneaky Sasquatch application, which includes 11 new iMessage stickers. This update expands the available sticker…
-  - 资金 100.00 / 广度 67.67 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Priceless | BSC | 加速中 | 强度 76.67 | 质量 62.90
-  - 主题摘要：Multiple tokens named 「Priceless」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.46 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ: Bitcoin Price Prediction | BSC | 降温中 | 强度 76.09 | 质量 66.60
-  - 主题摘要：CZ commented on a discussion regarding millionaire demographics, stating that soon millionaires will not be able to afford one full Bitcoin. This remark highlights a perspective o…
-  - 资金 100.00 / 广度 71.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump Photo with Aura Token | Solana | 降温中 | 强度 74.31 | 质量 71.43
-  - 主题摘要：According to Eric Daugherty's post, a photo featuring President Trump alongside the Aura token symbol was released by Getty Images. Daugherty describes the image as iconic and que…
-  - 资金 100.00 / 广度 83.12 / 确认 9.36 / 脆弱性 81.87
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Comments on Binance Trading Volume Surge | BSC | 降温中 | 强度 74.12 | 质量 61.13
-  - 主题摘要：CZ quoted a post highlighting Binance's 24-hour trading volume reached $14.6 billion, significantly exceeding the combined volume of its top three competitors. He attributed this…
-  - 资金 100.00 / 广度 84.74 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Agent Sophie | BSC | 降温中 | 强度 73.92 | 质量 59.28
-  - 主题摘要：Multiple tokens named 「SOPHIE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.34 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- dogwifpixels | Solana | 点火期 | 强度 73.24 | 质量 71.27
-  - 主题摘要：According to Amjad Masad's post, the author shared a link to 1milllionpixels.com. This action is associated with the token named 1milllionpixels ($PIXELS). The post serves as a di…
-  - 资金 100.00 / 广度 91.73 / 确认 9.36 / 脆弱性 14.00
+- Ginnancoin | Solana | 点火期 | 强度 76.32 | 质量 73.64
+  - 主题摘要：Multiple tokens named 「GINNAN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.29 / 确认 4.32 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Solana Incinerator Meme | Solana | 降温中 | 强度 75.73 | 质量 61.55
+  - 主题摘要：Multiple tokens named 「CHARLIE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.04 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Posts Useless Tweet | BSC | 降温中 | 强度 75.03 | 质量 62.26
+  - 主题摘要：CZ posted a tweet stating it was useless, accompanied by a link. The post references tokens named 'Useless'.
+  - 资金 100.00 / 广度 66.61 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Priceless | BSC | 加速中 | 强度 74.53 | 质量 62.81
+  - 主题摘要：Multiple tokens named 「Priceless」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.54 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Agent Sophie | BSC | 降温中 | 强度 73.62 | 质量 59.28
+  - 主题摘要：Multiple tokens named 「SOPHIE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.37 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trump Photo with Aura Token | Solana | 降温中 | 强度 73.56 | 质量 70.72
+  - 主题摘要：According to Eric Daugherty's post, a photo featuring President Trump alongside the Aura token symbol was released by Getty Images. Daugherty describes the image as iconic and que…
+  - 资金 100.00 / 广度 83.13 / 确认 9.36 / 脆弱性 84.69
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Frank Shares Bull-Horse PS Meme | BSC | 点火期 | 强度 73.55 | 质量 71.46
+  - 主题摘要：According to Frank's post, he shared a Meme image created by @heyibinance (Yi He) in response to a query about photoshopping a horse into a bull to symbolize the upcoming bull mar…
+  - 资金 100.00 / 广度 88.21 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged U Sure Kid Meme Token | Solana | 降温中 | 强度 73.41 | 质量 61.90
+  - 主题摘要：According to blank's post, the 'U Sure Kid' meme, originating from a TikTok interaction, has gained viral traction. blank claims that tokens named 'U SURE' and 'U sure? Kid' have…
+  - 资金 100.00 / 广度 54.52 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Comments on Binance Trading Volume Surge | BSC | 降温中 | 强度 72.84 | 质量 57.45
+  - 主题摘要：CZ quoted a post highlighting Binance's 24-hour trading volume reached $14.6 billion, significantly exceeding the combined volume of its top three competitors. He attributed this…
+  - 资金 100.00 / 广度 84.75 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- BRICK BY BRICK | BSC | 降温中 | 强度 72.79 | 质量 58.59
+  - 主题摘要：BRIX (BRICK BY BRICK) is a community-driven token inspired by the concept of building a decentralized ecosystem. It focuses on fostering innovation through decentralized governanc…
+  - 资金 100.00 / 广度 73.47 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.92，其中已确认叙事 0 个。
-- dogwifpixels 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Uncertain:Binance Bull Meme Image Spread 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.41，其中已确认叙事 0 个。
+- Frank Shares Bull-Horse PS Meme 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- RST 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged CatGPT Meme | 质量 79.52 | 可交易性 100.00 | 风险 低
-- Conk | 质量 78.83 | 可交易性 100.00 | 风险 低
-- Ginnancoin | 质量 73.60 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Bull Meme Image Spread | 质量 72.70 | 可交易性 88.03 | 风险 低
-- RST | 质量 72.31 | 可交易性 100.00 | 风险 低
-- Trump Photo with Aura Token | 质量 71.43 | 可交易性 88.10 | 风险 低
-- dogwifpixels | 质量 71.27 | 可交易性 100.00 | 风险 低
-- Elon Musk's AI Struggle | 质量 68.19 | 可交易性 80.37 | 风险 低
-- CZ: Bitcoin Price Prediction | 质量 66.60 | 可交易性 78.86 | 风险 低
-- Alleged HYPE Token Launch | 质量 66.49 | 可交易性 93.02 | 风险 低
+- Alleged CatGPT Meme | 质量 81.07 | 可交易性 100.00 | 风险 低
+- Conk | 质量 78.70 | 可交易性 100.00 | 风险 低
+- RST | 质量 74.01 | 可交易性 100.00 | 风险 低
+- Ginnancoin | 质量 73.64 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance Bull Meme Image Spread | 质量 72.71 | 可交易性 88.03 | 风险 低
+- Frank Shares Bull-Horse PS Meme | 质量 71.46 | 可交易性 100.00 | 风险 低
+- Trump Photo with Aura Token | 质量 70.72 | 可交易性 85.74 | 风险 低
+- Priceless | 质量 62.81 | 可交易性 53.89 | 风险 低
+- CZ Posts Useless Tweet | 质量 62.26 | 可交易性 68.77 | 风险 低
+- Alleged U Sure Kid Meme Token | 质量 61.90 | 可交易性 92.57 | 风险 低
 
 ## 伪叙事风险
 
-- Trump Photo with Aura Token | 风险 71.08 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
-- dogwifpixels | 风险 47.79 | 原因：流动性偏薄
-- Elon Musk's AI Struggle | 风险 45.24 | 原因：流动性偏薄、龙头筹码集中度偏高
-- CZ Comments on Binance Trading Volume Surge | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Trump Photo with Aura Token | 风险 72.55 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
+- Ginnancoin | 风险 57.02 | 原因：流动性偏薄、近 1 小时净流入转负
+- Frank Shares Bull-Horse PS Meme | 风险 42.03 | 原因：流动性偏薄
+- BRICK BY BRICK | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -136,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Uncertain:Binance Bull Meme Image Spread（BSC，分数 83.39）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Alleged HYPE Token Launch 当前为“新出现”
+1. 当前最强叙事：RST（Solana，分数 84.41）
+2. 共振最强代币：ASTER（BSC，共振 100.0）
+3. 记忆层变化：Solana Incinerator Meme 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
