@@ -1,102 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-21T22:13:17.918056+00:00
+- 生成时间：2026-08-21T22:39:36.450521+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：2
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 $UOTF，所在链为 Solana，叙事强度 91.12。
-- 当前平均叙事强度为 81.14，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Elon roasts Mark Cuban 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Polina Shares SOLCAT Article，伪叙事风险 52.99。
+- 当前最强叙事是 $UOTF，所在链为 Solana，叙事强度 89.83。
+- 当前平均叙事强度为 76.3，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 KIRK，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged UP Token Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Elon roasts Mark Cuban，伪叙事风险 51.25。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
 
-- $UOTF | Solana | 降温中 | 强度 91.12 | 质量 81.64
+- $UOTF | Solana | 降温中 | 强度 89.83 | 质量 81.51
   - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 0.00
+  - 资金 100.00 / 广度 99.55 / 确认 16.56 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Uncertain:Binance Bull Meme Image Spread | BSC | 降温中 | 强度 83.39 | 质量 72.69
   - 主题摘要：According to 角度挖掘机's post, the 'Binance Bull' Meme image has gained significant popularity, with domestic news media reporting on videos featuring Yi He and Biao Ge pulling ropes…
   - 资金 100.00 / 广度 89.07 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Basecat on Pump | Solana | 降温中 | 强度 83.28 | 质量 73.93
+- Alleged UP Token Launch | Solana | 降温中 | 强度 83.18 | 质量 79.00
+  - 主题摘要：According to Trencher Bill's post, the author claims that Solana is rising and asserts that 'UP is the thesis,' implying the launch of a token named UP. This information is unveri…
+  - 资金 100.00 / 广度 91.73 / 确认 15.84 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Basecat on Pump | Solana | 降温中 | 强度 82.64 | 质量 74.48
   - 主题摘要：According to d's post, the user inquired whether the Basecat token can be operated on the Pump.fun platform, referencing a quoted tweet that claimed Base had been added to the bac…
-  - 资金 100.00 / 广度 79.58 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.41 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- yungshelby Comments on Base/Solana Tokens Listing on Coinbase | Solana | 降温中 | 强度 82.65 | 质量 73.19
+- yungshelby Comments on Base/Solana Tokens Listing on Coinbase | Solana | 降温中 | 强度 82.33 | 质量 74.21
   - 主题摘要：According to yungshelby's post, the user questions whether the immediate listing of tokens from @base and @solana on the main @coinbase app represents the greatest psyop ever. The…
-  - 资金 100.00 / 广度 77.10 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.49 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Coin Alleged Meme Token Launch | Solana | 降温中 | 强度 81.24 | 质量 68.92
+- Elon Musk Coin Alleged Meme Token Launch | Solana | 降温中 | 强度 81.20 | 质量 68.86
   - 主题摘要：According to Elon Musk Coin's post, the account claims to have launched $ELONCOIN, distinguishing it from 'drawer coins' by describing it as 'meme certified' and 'wind-tunnel test…
-  - 资金 100.00 / 广度 84.45 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.25 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon roasts Mark Cuban | Solana | 点火期 | 强度 78.77 | 质量 74.70
+- Alleged Roaring Kitty Meme Coin | Solana | 降温中 | 强度 79.31 | 质量 70.14
+  - 主题摘要：According to big honest's post, the user confirmed that Roaring Kitty joined Pump.fun and that Pump.fun retweeted him. big honest agreed with the suggestion to promote the meme as…
+  - 资金 100.00 / 广度 71.83 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon roasts Mark Cuban | Solana | 点火期 | 强度 78.47 | 质量 75.62
   - 主题摘要：Elon Musk publicly mocked Mark Cuban's appearance, comparing him to a 'butch lesbian' in response to Cuban's criticism of Texas. This unexpected insult between two high-profile bi…
-  - 资金 100.00 / 广度 89.19 / 确认 5.04 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.38 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Simon Comments on FIST and Pangu DeFi Model | BSC | 加速中 | 强度 78.18 | 质量 65.73
+- Simon Comments on FIST and Pangu DeFi Model | BSC | 加速中 | 强度 78.23 | 质量 65.79
   - 主题摘要：According to Simon👊顶尖（牛来版）'s post, he criticized the lack of understanding regarding the Pangu model, claiming that FIST is the first and most successful token of this DeGi model.…
-  - 资金 100.00 / 广度 74.40 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.45 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged SOLDOG Token Launch | Solana | 降温中 | 强度 77.60 | 质量 62.14
-  - 主题摘要：According to StillTrades's post, the user claims to be launching an alleged Solana-based token named $SOLDOG, positioning it as a counterpart to the successful $SOLCAT meme. The p…
-  - 资金 100.00 / 广度 87.25 / 确认 9.36 / 脆弱性 14.00
+- F8888 Discusses Solana and UP Token | Solana | 降温中 | 强度 77.97 | 质量 66.18
+  - 主题摘要：According to F8888's post, the author shared a quoted tweet discussing Solana's market performance and the need for a 'runner' token. The quoted content highlights the UP token, c…
+  - 资金 100.00 / 广度 73.40 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Brogan Meme Coin | Solana | 降温中 | 强度 77.49 | 质量 65.30
-  - 主题摘要：According to Max's post, a token named Brogan is allegedly associated with a Buttercow sculpture in Iowa. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 55.41 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Polina Shares SOLCAT Article | Solana | 点火期 | 强度 77.01 | 质量 71.72
-  - 主题摘要：According to Polina's post, she shared an article discussing the SOLCAT token. The content focuses on the token's context within the cryptocurrency market.
-  - 资金 100.00 / 广度 89.92 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- NIU LAI CREATOR SHIBA INU | BSC | 降温中 | 强度 76.99 | 质量 63.94
-  - 主题摘要：According to reatz's post, a Chinese news outlet interviewed the creator of NIU LAI, revealing a Shiba Inu named Baozi. reatz questions the absence of a related token on BNB and t…
-  - 资金 100.00 / 广度 74.07 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Octo Deploys AgentOS on Flap.sh | BSC | 降温中 | 强度 75.04 | 质量 63.02
+- Uncertain:Octo Deploys AgentOS on Flap.sh | BSC | 降温中 | 强度 75.01 | 质量 62.99
   - 主题摘要：According to Octo's post, the user has successfully utilized AgentOS to deploy on the Flap.sh platform and intends to provide video proof shortly.
-  - 资金 100.00 / 广度 78.46 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.44 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged BNBdog Launch | BSC | 降温中 | 强度 73.39 | 质量 58.21
-  - 主题摘要：According to DOMINO on Bags's post, the author claims that Binance has launched an official BNB dog token, citing the presence of a dog image on Binance's banner. This information…
-  - 资金 100.00 / 广度 72.50 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: It's time... | BSC | 点火期 | 强度 73.01 | 质量 67.42
+- CZ: It's time... | BSC | 点火期 | 强度 74.61 | 质量 69.40
   - 主题摘要：Binance前CEO CZ回复Bruce Fenton的'It's time...'推文，引发社区对Binance未来动向、监管和解或新市场机遇的强烈猜测和FOMO情绪。
   - 资金 100.00 / 广度 95.88 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Frank Shares Bull-Horse PS Meme | BSC | 点火期 | 强度 73.35 | 质量 71.05
+  - 主题摘要：According to Frank's post, he shared a Meme image in reply to a discussion about Photoshop skills, humorously suggesting the transformation of a horse into a bull to symbolize the…
+  - 资金 100.00 / 广度 87.93 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- CZ Comments on Binance Trading Volume Surge | BSC | 降温中 | 强度 73.21 | 质量 57.91
+  - 主题摘要：CZ quoted a post highlighting Binance's 24-hour trading volume reached $14.6 billion, significantly exceeding the combined volume of three competitors. He attributed this surge to…
+  - 资金 100.00 / 广度 84.92 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.14，其中已确认叙事 0 个。
-- Elon roasts Mark Cuban 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.3，其中已确认叙事 0 个。
+- Frank Shares Bull-Horse PS Meme 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - $UOTF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- $UOTF | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Elon roasts Mark Cuban | 质量 74.70 | 可交易性 96.10 | 风险 低
-- Alleged Basecat on Pump | 质量 73.93 | 可交易性 100.00 | 风险 低
-- yungshelby Comments on Base/Solana Tokens Listing on Coinbase | 质量 73.19 | 可交易性 100.00 | 风险 低
+- $UOTF | 质量 81.51 | 可交易性 100.00 | 风险 低
+- Alleged UP Token Launch | 质量 79.00 | 可交易性 100.00 | 风险 低
+- Elon roasts Mark Cuban | 质量 75.62 | 可交易性 100.00 | 风险 低
+- Alleged Basecat on Pump | 质量 74.48 | 可交易性 100.00 | 风险 低
+- yungshelby Comments on Base/Solana Tokens Listing on Coinbase | 质量 74.21 | 可交易性 100.00 | 风险 低
 - Uncertain:Binance Bull Meme Image Spread | 质量 72.69 | 可交易性 88.01 | 风险 低
-- Polina Shares SOLCAT Article | 质量 71.72 | 可交易性 82.27 | 风险 低
-- Elon Musk Coin Alleged Meme Token Launch | 质量 68.92 | 可交易性 78.42 | 风险 低
-- CZ: It's time... | 质量 67.42 | 可交易性 96.18 | 风险 低
-- Simon Comments on FIST and Pangu DeFi Model | 质量 65.73 | 可交易性 69.90 | 风险 低
-- Alleged Brogan Meme Coin | 质量 65.30 | 可交易性 98.36 | 风险 低
+- Frank Shares Bull-Horse PS Meme | 质量 71.05 | 可交易性 100.00 | 风险 低
+- Alleged Roaring Kitty Meme Coin | 质量 70.14 | 可交易性 100.00 | 风险 低
+- CZ: It's time... | 质量 69.40 | 可交易性 96.18 | 风险 低
+- Elon Musk Coin Alleged Meme Token Launch | 质量 68.86 | 可交易性 78.41 | 风险 低
 
 ## 伪叙事风险
 
-- Polina Shares SOLCAT Article | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - Elon roasts Mark Cuban | 风险 51.25 | 原因：流动性偏薄
 - CZ: It's time... | 风险 42.03 | 原因：流动性偏薄
+- Frank Shares Bull-Horse PS Meme | 风险 42.03 | 原因：流动性偏薄
+- Alleged Basecat on Pump | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- yungshelby Comments on Base/Solana Tokens Listing on Coinbase | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - Uncertain:Octo Deploys AgentOS on Flap.sh | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -136,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：$UOTF（Solana，分数 91.12）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Elon roasts Mark Cuban 当前为“新出现”
+1. 当前最强叙事：$UOTF（Solana，分数 89.83）
+2. 共振最强代币：KIRK（Solana，共振 100.0）
+3. 记忆层变化：Alleged UP Token Launch 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
