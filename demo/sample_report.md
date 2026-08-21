@@ -1,114 +1,115 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-21T02:10:49.886048+00:00
+- 生成时间：2026-08-21T03:13:14.611243+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Paul Graham Discusses Feature，所在链为 Solana，叙事强度 88.25。
-- 当前平均叙事强度为 81.91，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Paul Graham Discusses Feature 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Paul Graham on YC Mascot，伪叙事风险 47.23。
+- 当前最强叙事是 USWR，所在链为 Solana，叙事强度 88.94。
+- 当前平均叙事强度为 80.92，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 DEALER，来自 Solana，共振分数 100.0。
+- 记忆层显示 Uncertain:Binance Bull Meme Image Spread 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 WHY NOT US?，伪叙事风险 48.47。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-08-20)。
 
 ## 叙事雷达
 
-- Paul Graham Discusses Feature | Solana | 降温中 | 强度 88.25 | 质量 79.74
-  - 主题摘要：According to Paul Graham's post, he identified the name of a concept as "Feature," describing it as obvious upon reflection. This statement was made in reply to a discussion regar…
-  - 资金 100.00 / 广度 93.65 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USWR | Solana | 降温中 | 强度 87.40 | 质量 77.92
+- USWR | Solana | 降温中 | 强度 88.94 | 质量 78.14
   - 主题摘要：USWR token draws inspiration from the United States Water Reserve concept, featuring a logo resembling the U.S. Treasury seal with a water droplet symbol. The token aims to suppor…
-  - 资金 100.00 / 广度 87.59 / 确认 16.56 / 脆弱性 11.76
+  - 资金 100.00 / 广度 88.33 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Stock Cat | Solana | 降温中 | 强度 85.72 | 质量 75.99
-  - 主题摘要：Multiple tokens named 「STOCKCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.44 / 确认 9.36 / 脆弱性 14.00
+- Paul Graham Discusses Feature | Solana | 降温中 | 强度 85.64 | 质量 76.75
+  - 主题摘要：According to Paul Graham's post, he identified the name of a concept as "Feature," describing it as obvious upon reflection. This statement was made in reply to a discussion regar…
+  - 资金 100.00 / 广度 87.09 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USTF | Solana | 降温中 | 强度 83.06 | 质量 70.68
+- USTF | Solana | 降温中 | 强度 83.86 | 质量 71.83
   - 主题摘要：Multiple tokens named 「USTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.75 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 72.58 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: Tokenize Everything | BSC | 已确认 | 强度 81.34 | 质量 82.32
+- Uncertain:Binance Bull Meme Image Spread | BSC | 降温中 | 强度 83.75 | 质量 73.31
+  - 主题摘要：According to 角度挖掘机's post, the 'Binance Bull' Meme image has gained significant popularity, with domestic news media reporting on videos featuring Yi He and Biao Ge pulling ropes…
+  - 资金 100.00 / 广度 89.85 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ: Tokenize Everything | BSC | 已确认 | 强度 83.07 | 质量 84.97
   - 主题摘要：CZ responds to BNB Chain's RWA dominance by advocating for the tokenization of all assets to attract global investment, framing it as a strategic move for countries and companies.
-  - 资金 100.00 / 广度 93.80 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Agent OS | BSC | 加速中 | 强度 80.15 | 质量 79.81
-  - 主题摘要：Binance Co-CEO Yi He promotes the launch of 'Binance Agent OS,' a platform for building and deploying AI agents, signaling the exchange's deep integration of artificial intelligen…
-  - 资金 100.00 / 广度 87.07 / 确认 25.84 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $SuperCat Meme | Solana | 降温中 | 强度 78.97 | 质量 64.67
+- Alleged $SuperCat Meme | Solana | 降温中 | 强度 79.21 | 质量 64.92
   - 主题摘要：According to Warkes's post, a TikTok video featuring a cat flying like Superman has garnered significant attention. Warkes claims that a $SuperCat token has not yet been launched,…
-  - 资金 100.00 / 广度 78.44 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.54 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Paul Graham on YC Mascot | Solana | 点火期 | 强度 78.35 | 质量 79.41
+- Binance Agent OS | BSC | 加速中 | 强度 78.53 | 质量 79.81
+  - 主题摘要：Binance Co-CEO Yi He promotes the launch of 'Binance Agent OS,' a platform for building and deploying AI agents, signaling the exchange's deep integration of artificial intelligen…
+  - 资金 100.00 / 广度 87.08 / 确认 25.84 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Paul Graham on YC Mascot | Solana | 点火期 | 强度 77.66 | 质量 78.18
   - 主题摘要：According to Paul Graham's post, he responded to a 14-year-old's question about Y Combinator's mascot, suggesting it would be a cockroach. This comment sparked discussion regardin…
-  - 资金 100.00 / 广度 92.87 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 92.77 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Gutierrez Claims Snow King Animation Confirmed | BSC | 降温中 | 强度 78.25 | 质量 70.78
-  - 主题摘要：According to Gutierrez's post, the animation for 'Snow King' has been officially confirmed, with expectations that it will surpass 'Niu'.
-  - 资金 100.00 / 广度 63.78 / 确认 16.56 / 脆弱性 14.00
+- Trump White House Eagle Meme | Solana | 降温中 | 强度 77.53 | 质量 64.35
+  - 主题摘要：According to Babby sokol's post, a video is referenced where an individual refers to an image as the "eagle of the united states." This content is associated with multiple cryptoc…
+  - 资金 100.00 / 广度 75.65 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $dogalyst Follows $catalyst | Solana | 降温中 | 强度 77.94 | 质量 65.80
+- Alleged $dogalyst Follows $catalyst | Solana | 降温中 | 强度 77.49 | 质量 66.07
   - 主题摘要：According to trencher 🍼🐂's post, the alleged Dogalyst token is expected to follow the trajectory of the Catalyst token. This statement reflects the author's personal market predic…
-  - 资金 100.00 / 广度 76.99 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.22 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Shenron Comments on BNB Bull | BSC | 降温中 | 强度 76.86 | 质量 68.62
-  - 主题摘要：According to Shenron 🐉's post, the author questions whether the logo on the 'Binance Bull' (币安牛) figure is the official BNB logo. This comment was made in response to reports that…
-  - 资金 100.00 / 广度 75.57 / 确认 16.56 / 脆弱性 14.00
+- WHY NOT US? | Solana | 降温中 | 强度 77.04 | 质量 69.31
+  - 主题摘要：Multiple tokens named 「US」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.85 / 确认 4.32 / 脆弱性 30.63
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NoLimit Allegedly Launches Ground Beef Token | Solana | 点火期 | 强度 75.56 | 质量 68.04
-  - 主题摘要：According to NoLimit's post, the author claims that Ground Beef is experiencing parabolic growth and suggests focusing on 'stacking cows' rather than stocks or crypto. This statem…
-  - 资金 100.00 / 广度 85.92 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Run1ooooo1 Inquires About Penglai | BSC | 加速中 | 强度 75.47 | 质量 69.06
+- Run1ooooo1 Inquires About Penglai | BSC | 加速中 | 强度 76.60 | 质量 68.13
   - 主题摘要：According to 降雨幾率's post, the user inquired whether the token 'Penglai' is related to 'Bilai'. The post references content from another user discussing 'Bilai' and 'Niu Lai' in th…
-  - 资金 100.00 / 广度 78.28 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.86 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Li Qun Mentions chillguy and NiulaiHouse | BSC | 加速中 | 强度 75.19 | 质量 70.48
-  - 主题摘要：According to 利群's post, chillguy has a chillhouse, and Niulai has a NiulaiHouse (牛棚).
-  - 资金 100.00 / 广度 75.90 / 确认 20.16 / 脆弱性 14.00
+- Orange AI Releases Ox Model | BSC | 加速中 | 强度 75.22 | 质量 70.24
+  - 主题摘要：According to Orange AI's post, the entity launched a new multimodal AI model named Ox, characterized by small parameters, strong post-training capabilities, and high speed. The be…
+  - 资金 100.00 / 广度 77.02 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged 😭 Emoji Token | BSC | 点火期 | 强度 73.98 | 质量 71.99
+  - 主题摘要：CZ shared a post highlighting that Binance recorded $14.6 billion in 24-hour trading volume, significantly exceeding the combined volume of its top three competitors. He attribute…
+  - 资金 100.00 / 广度 82.04 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.91，其中已确认叙事 0 个。
-- NoLimit Allegedly Launches Ground Beef Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Paul Graham Discusses Feature 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.92，其中已确认叙事 0 个。
+- Orange AI Releases Ox Model 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- USWR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ: Tokenize Everything | 质量 82.32 | 可交易性 100.00 | 风险 低
+- CZ: Tokenize Everything | 质量 84.97 | 可交易性 100.00 | 风险 低
 - Binance Agent OS | 质量 79.81 | 可交易性 100.00 | 风险 低
-- Paul Graham Discusses Feature | 质量 79.74 | 可交易性 100.00 | 风险 低
-- Paul Graham on YC Mascot | 质量 79.41 | 可交易性 100.00 | 风险 低
-- USWR | 质量 77.92 | 可交易性 100.00 | 风险 低
-- Stock Cat | 质量 75.99 | 可交易性 100.00 | 风险 低
-- Gutierrez Claims Snow King Animation Confirmed | 质量 70.78 | 可交易性 100.00 | 风险 低
-- USTF | 质量 70.68 | 可交易性 100.00 | 风险 低
-- Li Qun Mentions chillguy and NiulaiHouse | 质量 70.48 | 可交易性 84.25 | 风险 低
-- Run1ooooo1 Inquires About Penglai | 质量 69.06 | 可交易性 71.34 | 风险 低
+- Paul Graham on YC Mascot | 质量 78.18 | 可交易性 100.00 | 风险 低
+- USWR | 质量 78.14 | 可交易性 100.00 | 风险 低
+- Paul Graham Discusses Feature | 质量 76.75 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance Bull Meme Image Spread | 质量 73.31 | 可交易性 89.30 | 风险 低
+- Alleged 😭 Emoji Token | 质量 71.99 | 可交易性 96.51 | 风险 低
+- USTF | 质量 71.83 | 可交易性 100.00 | 风险 低
+- Orange AI Releases Ox Model | 质量 70.24 | 可交易性 82.85 | 风险 低
+- WHY NOT US? | 质量 69.31 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- WHY NOT US? | 风险 48.47 | 原因：流动性偏薄、龙头筹码集中度偏高
 - Paul Graham on YC Mascot | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- NoLimit Allegedly Launches Ground Beef Token | 风险 42.03 | 原因：流动性偏薄
+- Alleged 😭 Emoji Token | 风险 43.18 | 原因：流动性偏薄
 
 ## 信号台
 
 - EVERYTHING | BSC | 看多 | 新鲜度 100.00 | CZ: Tokenize Everything
 - sauce | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bAOS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 金融便利店 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Lingo | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - apple | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEOW | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BBROKERS | Base | 看多 | 新鲜度 99.66 | 暂无直接叙事映射
 - 🐂 | BSC | 看多 | 新鲜度 88.04 | 暂无直接叙事映射
+- HAT | BSC | 看多 | 新鲜度 87.18 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Paul Graham Discusses Feature（Solana，分数 88.25）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Paul Graham Discusses Feature 当前为“新出现”
+1. 当前最强叙事：USWR（Solana，分数 88.94）
+2. 共振最强代币：DEALER（Solana，共振 100.0）
+3. 记忆层变化：Uncertain:Binance Bull Meme Image Spread 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-08-20)
 #Binance #NarrativeOS #OpenClaw
