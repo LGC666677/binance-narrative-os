@@ -1,116 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-21T19:02:31.985274+00:00
+- 生成时间：2026-08-21T19:33:28.769087+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：2
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 RST，所在链为 Solana，叙事强度 85.51。
-- 当前平均叙事强度为 76.94，其中已确认叙事 0 个。
+- 当前最强叙事是 Troll Bull，所在链为 Solana，叙事强度 85.72。
+- 当前平均叙事强度为 80.79，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 Binance Academy Stock Guide 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Trump Photo with Aura Token，伪叙事风险 69.55。
+- 记忆层显示 Troll Bull 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Frank Shares Bull-Horse PS Meme，伪叙事风险 42.03。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
 
-- RST | Solana | 降温中 | 强度 85.51 | 质量 75.37
+- Troll Bull | Solana | 降温中 | 强度 85.72 | 质量 73.29
+  - 主题摘要：TRULL is a meme token inspired by internet troll culture, featuring a devil-like bull logo with a mischievous expression. Created by TrollBuuull, it embraces the playful, rebellio…
+  - 资金 100.00 / 广度 77.45 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged KIMCHI Token Narrative | Solana | 加速中 | 强度 85.61 | 质量 78.73
+  - 主题摘要：According to c's post, large traders use 'Kimchi' as slang for 40 million, creating a trending narrative. c claims to be able to launch a KIMCHI token based on this trend. This in…
+  - 资金 100.00 / 广度 89.70 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- RST | Solana | 降温中 | 强度 85.58 | 质量 75.47
   - 主题摘要：RST token powers Resolut, a project focused on AI infrastructure. The logo features a stylized 'R' in orange, symbolizing resilience and innovation. RST aims to revolutionize AI d…
-  - 资金 100.00 / 广度 88.08 / 确认 4.32 / 脆弱性 0.00
+  - 资金 100.00 / 广度 88.40 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Uncertain:Binance Bull Meme Image Spread | BSC | 降温中 | 强度 83.38 | 质量 72.68
   - 主题摘要：According to 角度挖掘机's post, the 'Binance Bull' Meme image has gained significant popularity, with domestic news media reporting on videos featuring Yi He and Biao Ge pulling ropes…
   - 资金 100.00 / 广度 89.07 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged CatGPT Meme | Solana | 加速中 | 强度 78.95 | 质量 80.99
-  - 主题摘要：Multiple tokens named 「CatGPT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.58 / 确认 22.36 / 脆弱性 24.00
+- DebtReliefBot | Solana | 降温中 | 强度 82.22 | 质量 70.61
+  - 主题摘要：According to Moontok Listing Alert's post, the token DebtReliefBot ($DRB) has been listed on the Moontok platform. The post provides the contract address on the Base network and r…
+  - 资金 100.00 / 广度 68.50 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Faith Shares Pump.fun Squads Feature | Solana | 加速中 | 强度 78.61 | 质量 69.10
+  - 主题摘要：According to Faith's post, the Pump.fun platform is introducing a 'Squads' feature, described as a clan system similar to FOMO's. Faith shared a link to the live UI and noted that…
+  - 资金 100.00 / 广度 78.14 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Conk | Solana | 加速中 | 强度 78.39 | 质量 78.71
-  - 主题摘要：Multiple tokens named 「CONK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.95 / 确认 23.76 / 脆弱性 24.00
+- Simon Comments on FIST and Pangu DeFi Model | BSC | 加速中 | 强度 78.04 | 质量 65.57
+  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, he criticized the lack of understanding regarding the Pangu model, claiming that FIST is the first and most successful token of this DeGi model.…
+  - 资金 100.00 / 广度 74.14 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Solana Incinerator Meme | Solana | 降温中 | 强度 74.56 | 质量 61.65
+- $UOTF | Solana | 降温中 | 强度 76.28 | 质量 64.77
+  - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 49.03 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Solana Incinerator Meme | Solana | 降温中 | 强度 76.22 | 质量 62.67
   - 主题摘要：Multiple tokens named 「CHARLIE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.30 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.63 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump Photo with Aura Token | Solana | 降温中 | 强度 73.66 | 质量 69.73
-  - 主题摘要：According to Eric Daugherty's post, a photo featuring President Trump alongside the Aura token symbol was released by Getty Images. Daugherty describes the image as iconic and que…
-  - 资金 100.00 / 广度 83.36 / 确认 9.36 / 脆弱性 78.92
+- Conk | Solana | 加速中 | 强度 76.05 | 质量 75.94
+  - 主题摘要：Multiple tokens named 「CONK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.69 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged BNBdog Launch | BSC | 降温中 | 强度 73.60 | 质量 60.79
+  - 主题摘要：According to DOMINO on Bags's post, the author claims that Binance has launched an official BNB dog token, citing the presence of a dog image on Binance's banner. This information…
+  - 资金 100.00 / 广度 66.85 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Agent Sophie | BSC | 降温中 | 强度 73.15 | 质量 59.40
-  - 主题摘要：Multiple tokens named 「SOPHIE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.41 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Frank Shares Bull-Horse PS Meme | BSC | 点火期 | 强度 73.02 | 质量 70.56
+- Frank Shares Bull-Horse PS Meme | BSC | 点火期 | 强度 72.91 | 质量 70.40
   - 主题摘要：According to Frank's post, he shared a Meme image created by @heyibinance (Yi He) in response to a query about photoshopping a horse into a bull to symbolize the upcoming bull mar…
-  - 资金 100.00 / 广度 88.18 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.07 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ Comments on Binance Trading Volume Surge | BSC | 降温中 | 强度 72.85 | 质量 57.45
-  - 主题摘要：CZ quoted a post highlighting Binance's 24-hour trading volume reached $14.6 billion, significantly exceeding the combined volume of its top three competitors. He attributed this…
-  - 资金 100.00 / 广度 84.77 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Priceless | BSC | 加速中 | 强度 71.92 | 质量 62.47
-  - 主题摘要：Multiple tokens named 「Priceless」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.61 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Academy Stock Guide | BSC | 点火期 | 强度 71.37 | 质量 70.15
+- Binance Academy Stock Guide | BSC | 点火期 | 强度 72.54 | 质量 69.88
   - 主题摘要：Binance Chinese account posts an educational article explaining different types of stocks like dividend and growth stocks, aiming to simplify financial concepts for beginners. It…
-  - 资金 100.00 / 广度 89.87 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.88 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 币安一站全包 何必另寻他处 | BSC | 加速中 | 强度 71.23 | 质量 67.09
-  - 主题摘要：According to 想吃鸡腿🍗's post, the user claims that the 'Binance Station' token has ended and provided a specific contract address (0x2b17e0c54b81d5a8094a9f5c484a2697211d7777). This i…
-  - 资金 100.00 / 广度 81.95 / 确认 18.72 / 脆弱性 14.00
+- Priceless | BSC | 加速中 | 强度 70.98 | 质量 62.27
+  - 主题摘要：Multiple tokens named 「Priceless」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.68 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- NANDmine | BSC | 加速中 | 强度 71.15 | 质量 63.71
-  - 主题摘要：According to 小鬼's post, the user stated that taxes are distributed to the X account. The post includes a link to another X user's profile. No specific token or project details wer…
-  - 资金 100.00 / 广度 82.48 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- QUOKKA | Solana | 点火期 | 强度 70.59 | 质量 63.15
-  - 主题摘要：Multiple tokens named 「QUOKKA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 50.87 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.94，其中已确认叙事 0 个。
-- Binance Academy Stock Guide 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- RST 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.79，其中已确认叙事 0 个。
+- Alleged KIMCHI Token Narrative 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Troll Bull 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged CatGPT Meme | 质量 80.99 | 可交易性 100.00 | 风险 低
-- Conk | 质量 78.71 | 可交易性 100.00 | 风险 低
-- RST | 质量 75.37 | 可交易性 100.00 | 风险 低
+- Alleged KIMCHI Token Narrative | 质量 78.73 | 可交易性 97.95 | 风险 低
+- Conk | 质量 75.94 | 可交易性 100.00 | 风险 低
+- RST | 质量 75.47 | 可交易性 100.00 | 风险 低
+- Troll Bull | 质量 73.29 | 可交易性 100.00 | 风险 低
 - Uncertain:Binance Bull Meme Image Spread | 质量 72.68 | 可交易性 87.98 | 风险 低
-- Frank Shares Bull-Horse PS Meme | 质量 70.56 | 可交易性 100.00 | 风险 低
-- Binance Academy Stock Guide | 质量 70.15 | 可交易性 100.00 | 风险 低
-- Trump Photo with Aura Token | 质量 69.73 | 可交易性 82.20 | 风险 低
-- 币安一站全包 何必另寻他处 | 质量 67.09 | 可交易性 71.92 | 风险 低
-- NANDmine | 质量 63.71 | 可交易性 51.95 | 风险 低
-- QUOKKA | 质量 63.15 | 可交易性 100.00 | 风险 低
+- DebtReliefBot | 质量 70.61 | 可交易性 100.00 | 风险 低
+- Frank Shares Bull-Horse PS Meme | 质量 70.40 | 可交易性 100.00 | 风险 低
+- Binance Academy Stock Guide | 质量 69.88 | 可交易性 100.00 | 风险 低
+- Faith Shares Pump.fun Squads Feature | 质量 69.10 | 可交易性 77.40 | 风险 低
+- Simon Comments on FIST and Pangu DeFi Model | 质量 65.57 | 可交易性 69.65 | 风险 低
 
 ## 伪叙事风险
 
-- Trump Photo with Aura Token | 风险 69.55 | 原因：流动性偏薄、龙头筹码集中度偏高
-- Binance Academy Stock Guide | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- QUOKKA | 风险 44.54 | 原因：确认层仍然偏薄
 - Frank Shares Bull-Horse PS Meme | 风险 42.03 | 原因：流动性偏薄
+- Binance Academy Stock Guide | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
 - 仙股 | BSC | 看多 | 新鲜度 100.00 | Binance Academy Stock Guide
 - EVERYTHING | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - sauce | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CatGPT | Solana | 看多 | 新鲜度 100.00 | Alleged CatGPT Meme
 - PANTS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Grompany | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BPAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEOW | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BBROKERS | Base | 看多 | 新鲜度 99.66 | 暂无直接叙事映射
-- CONK | Solana | 看多 | 新鲜度 92.16 | Conk
+- CatGPT | Solana | 看多 | 新鲜度 92.25 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：RST（Solana，分数 85.51）
+1. 当前最强叙事：Troll Bull（Solana，分数 85.72）
 2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：Binance Academy Stock Guide 当前为“新出现”
+3. 记忆层变化：Troll Bull 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
