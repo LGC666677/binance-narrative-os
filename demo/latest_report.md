@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-21T21:13:47.402706+00:00
+- 生成时间：2026-08-21T21:36:23.053258+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged KIMCHI Token Narrative，所在链为 Solana，叙事强度 89.33。
-- 当前平均叙事强度为 83.64，其中已确认叙事 0 个。
+- 当前最强叙事是 $UOTF，所在链为 Solana，叙事强度 90.52。
+- 当前平均叙事强度为 82.85，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 CATE，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Basecat on Pump 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Binance Academy Stock Guide，伪叙事风险 42.03。
+- 记忆层显示 Alleged Vampcat Token Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Binance Academy Stock Guide，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
 
-- Alleged KIMCHI Token Narrative | Solana | 加速中 | 强度 89.33 | 质量 81.30
-  - 主题摘要：According to c's post, large traders use 'Kimchi' as slang for 40 million, creating a trending narrative. c claims to be able to launch a KIMCHI token based on this trend. This in…
-  - 资金 100.00 / 广度 96.23 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- $UOTF | Solana | 降温中 | 强度 86.74 | 质量 77.77
+- $UOTF | Solana | 降温中 | 强度 90.52 | 质量 80.85
   - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.72 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Polina Shares SOLCAT Article | Solana | 降温中 | 强度 84.18 | 质量 75.07
+  - 主题摘要：According to Polina's post, she shared an article discussing the SOLCAT token. The content focuses on the token's context within the cryptocurrency market.
+  - 资金 100.00 / 广度 87.95 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Uncertain:Binance Bull Meme Image Spread | BSC | 降温中 | 强度 83.40 | 质量 72.71
   - 主题摘要：According to 角度挖掘机's post, the 'Binance Bull' Meme image has gained significant popularity, with domestic news media reporting on videos featuring Yi He and Biao Ge pulling ropes…
   - 资金 100.00 / 广度 89.13 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Polina Shares SOLCAT Article | Solana | 降温中 | 强度 83.21 | 质量 74.32
-  - 主题摘要：According to Polina's post, she shared an article discussing the SOLCAT token. The content focuses on the token's context within the cryptocurrency market.
-  - 资金 100.00 / 广度 85.89 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Basecat on Pump | Solana | 降温中 | 强度 82.99 | 质量 73.52
+- Alleged Basecat on Pump | Solana | 降温中 | 强度 83.01 | 质量 73.53
   - 主题摘要：According to d's post, the user inquired whether the Basecat token can be operated on the Pump.fun platform. This inquiry was made in response to a quoted tweet claiming that Base…
-  - 资金 100.00 / 广度 78.21 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.25 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- yungshelby Comments on Base/Solana Tokens Listing on Coinbase | Solana | 降温中 | 强度 82.61 | 质量 73.16
+- yungshelby Comments on Base/Solana Tokens Listing on Coinbase | Solana | 降温中 | 强度 82.63 | 质量 73.17
   - 主题摘要：According to yungshelby's post, the user questions whether the immediate listing of tokens on Base and Solana on the Coinbase app represents the greatest psyop ever. The quoted co…
-  - 资金 100.00 / 广度 77.00 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.05 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jesse Pollak on Base/Solana Token Listings | Solana | 降温中 | 强度 82.20 | 质量 71.15
-  - 主题摘要：According to jesse.base.eth's post, Jesse Pollak states that every token on @base and @solana is now immediately listed on the main @coinbase app. He argues that the centralized l…
-  - 资金 100.00 / 广度 84.47 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Coin Alleged Meme Token Launch | Solana | 降温中 | 强度 81.83 | 质量 70.07
+- Elon Musk Coin Alleged Meme Token Launch | Solana | 降温中 | 强度 81.37 | 质量 69.14
   - 主题摘要：According to Elon Musk Coin's post, the account claims to have launched $ELONCOIN, distinguishing it from 'drawer coins' by describing it as 'meme certified' and 'wind-tunnel test…
-  - 资金 100.00 / 广度 87.74 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.09 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jeff Barnwell Allegedly Launching Okayeg Meme | Solana | 降温中 | 强度 80.24 | 质量 69.60
-  - 主题摘要：According to Jeff Barnwell's post, he intends to launch an alleged Okayeg Meme image, citing the 'wplace' perpetual r/place project as inspiration due to its use of Okayeg derivat…
-  - 资金 100.00 / 广度 65.14 / 确认 9.36 / 脆弱性 14.00
+- Alleged Vampcat Token Launch | Solana | 降温中 | 强度 81.28 | 质量 69.81
+  - 主题摘要：According to franklin's post, the author claims that Basecat has been listed with a $30m valuation and argues for a derivative on Solana. Consequently, franklin calls for the laun…
+  - 资金 100.00 / 广度 87.32 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Simon Comments on FIST and Pangu DeFi Model | BSC | 加速中 | 强度 78.11 | 质量 65.64
-  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, he criticized the lack of understanding regarding the Pangu model, claiming that FIST is the first and most successful token of this DeGi model.…
-  - 资金 100.00 / 广度 74.30 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Comments on Binance Trading Volume Surge | BSC | 降温中 | 强度 73.51 | 质量 58.37
-  - 主题摘要：CZ quoted a post highlighting Binance's 24-hour trading volume reached $14.6 billion, significantly exceeding the combined volume of three competitors. He attributed this surge to…
-  - 资金 100.00 / 广度 84.84 / 确认 9.36 / 脆弱性 14.00
+- Jesse Pollak on Base/Solana Token Listings | Solana | 降温中 | 强度 80.22 | 质量 68.24
+  - 主题摘要：According to jesse.base.eth's post, Jesse Pollak states that every token on @base and @solana is now immediately listed on the main @coinbase app. He argues that the centralized l…
+  - 资金 100.00 / 广度 86.31 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Priceless | BSC | 加速中 | 强度 73.17 | 质量 62.53
-  - 主题摘要：Multiple tokens named 「Priceless」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.78 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Academy Stock Guide | BSC | 点火期 | 强度 72.14 | 质量 69.28
-  - 主题摘要：Binance Chinese account posts an educational article explaining different types of stocks like dividend and growth stocks, aiming to simplify financial concepts for beginners. It…
-  - 资金 100.00 / 广度 89.89 / 确认 16.56 / 脆弱性 14.00
+- Alleged KIMCHI Token Narrative | Solana | 点火期 | 强度 79.61 | 质量 76.70
+  - 主题摘要：According to c's post, large traders use 'Kimchi' as slang for 40 million, creating a trending narrative. c claims to be able to launch a KIMCHI token based on this trend. This in…
+  - 资金 100.00 / 广度 94.85 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- NANDmine | BSC | 加速中 | 强度 70.96 | 质量 63.65
-  - 主题摘要：According to 小鬼's post, the user stated that taxes are distributed to the X account. The post includes a link to another X user's profile. No specific token or project details wer…
-  - 资金 100.00 / 广度 82.50 / 确认 24.48 / 脆弱性 14.00
+- Simon Comments on FIST and Pangu DeFi Model | BSC | 加速中 | 强度 78.09 | 质量 65.61
+  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, he criticized the lack of understanding regarding the Pangu model, claiming that FIST is the first and most successful token of this DeGi model.…
+  - 资金 100.00 / 广度 74.31 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of Grass Cow Meme Image | BSC | 降温中 | 强度 75.21 | 质量 66.10
+  - 主题摘要：According to 看者发财｜只玩真角度's post, the author discusses the 'Caodiniu' (Grass Cow) Meme image, describing it as a classic internet meme recognized by post-00s. The author claims that…
+  - 资金 100.00 / 广度 75.14 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Comments on Binance Trading Volume Surge | BSC | 降温中 | 强度 73.52 | 质量 58.38
+  - 主题摘要：CZ quoted a post highlighting Binance's 24-hour trading volume reached $14.6 billion, significantly exceeding the combined volume of three competitors. He attributed this surge to…
+  - 资金 100.00 / 广度 84.86 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- NIU LAI CREATOR SHIBA INU | BSC | 降温中 | 强度 72.83 | 质量 65.43
+  - 主题摘要：According to reatz's post, a Chinese news outlet interviewed the creator of NIU LAI, revealing a Shiba Inu named Baozi. reatz questions the absence of a related token on BNB and t…
+  - 资金 100.00 / 广度 65.80 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Academy Stock Guide | BSC | 点火期 | 强度 72.56 | 质量 71.73
+  - 主题摘要：Binance Chinese account posts an educational article explaining different types of stocks like dividend and growth stocks, aiming to simplify financial concepts for beginners. It…
+  - 资金 100.00 / 广度 89.89 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.64，其中已确认叙事 0 个。
-- NANDmine 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.85，其中已确认叙事 0 个。
 - $UOTF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged KIMCHI Token Narrative | 质量 81.30 | 可交易性 100.00 | 风险 低
-- $UOTF | 质量 77.77 | 可交易性 100.00 | 风险 低
-- Polina Shares SOLCAT Article | 质量 74.32 | 可交易性 94.97 | 风险 低
-- Alleged Basecat on Pump | 质量 73.52 | 可交易性 100.00 | 风险 低
-- yungshelby Comments on Base/Solana Tokens Listing on Coinbase | 质量 73.16 | 可交易性 100.00 | 风险 低
+- $UOTF | 质量 80.85 | 可交易性 100.00 | 风险 低
+- Alleged KIMCHI Token Narrative | 质量 76.70 | 可交易性 96.79 | 风险 低
+- Polina Shares SOLCAT Article | 质量 75.07 | 可交易性 95.43 | 风险 低
+- Alleged Basecat on Pump | 质量 73.53 | 可交易性 100.00 | 风险 低
+- yungshelby Comments on Base/Solana Tokens Listing on Coinbase | 质量 73.17 | 可交易性 100.00 | 风险 低
 - Uncertain:Binance Bull Meme Image Spread | 质量 72.71 | 可交易性 88.01 | 风险 低
-- Jesse Pollak on Base/Solana Token Listings | 质量 71.15 | 可交易性 85.84 | 风险 低
-- Elon Musk Coin Alleged Meme Token Launch | 质量 70.07 | 可交易性 78.96 | 风险 低
-- Jeff Barnwell Allegedly Launching Okayeg Meme | 质量 69.60 | 可交易性 100.00 | 风险 低
-- Binance Academy Stock Guide | 质量 69.28 | 可交易性 100.00 | 风险 低
+- Binance Academy Stock Guide | 质量 71.73 | 可交易性 100.00 | 风险 低
+- Alleged Vampcat Token Launch | 质量 69.81 | 可交易性 78.52 | 风险 低
+- Elon Musk Coin Alleged Meme Token Launch | 质量 69.14 | 可交易性 78.50 | 风险 低
+- Jesse Pollak on Base/Solana Token Listings | 质量 68.24 | 可交易性 74.29 | 风险 低
 
 ## 伪叙事风险
 
-- Binance Academy Stock Guide | 风险 42.03 | 原因：流动性偏薄
+- Binance Academy Stock Guide | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged KIMCHI Token Narrative | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged KIMCHI Token Narrative（Solana，分数 89.33）
+1. 当前最强叙事：$UOTF（Solana，分数 90.52）
 2. 共振最强代币：CATE（Solana，共振 100.0）
-3. 记忆层变化：Alleged Basecat on Pump 当前为“新出现”
+3. 记忆层变化：Alleged Vampcat Token Launch 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
