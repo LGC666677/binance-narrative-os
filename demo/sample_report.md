@@ -1,103 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-21T03:58:22.152702+00:00
+- 生成时间：2026-08-21T04:31:48.978537+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 USWR，所在链为 Solana，叙事强度 89.01。
-- 当前平均叙事强度为 79.7，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Robin Hanson Discusses Futarchy and Archon 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Paul Graham Discusses Feature，伪叙事风险 50.11。
+- 当前最强叙事是 USWR，所在链为 Solana，叙事强度 89.05。
+- 当前平均叙事强度为 80.67，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 CUPSEY，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged Reinvest Token Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Launch of $LONGBOI Token，伪叙事风险 48.37。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-08-20)。
 
 ## 叙事雷达
 
-- USWR | Solana | 降温中 | 强度 89.01 | 质量 78.25
+- USWR | Solana | 降温中 | 强度 89.05 | 质量 78.31
   - 主题摘要：USWR token draws inspiration from the United States Water Reserve concept, featuring a logo resembling the U.S. Treasury seal with a water droplet symbol. The token aims to suppor…
-  - 资金 100.00 / 广度 88.69 / 确认 16.56 / 脆弱性 0.00
+  - 资金 100.00 / 广度 88.89 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: Tokenize Everything | BSC | 降温中 | 强度 86.90 | 质量 81.64
+- CZ: Tokenize Everything | BSC | 降温中 | 强度 86.28 | 质量 81.64
   - 主题摘要：CZ responds to BNB Chain's RWA dominance by advocating for the tokenization of all assets to attract global investment, framing it as a strategic move for countries and companies.
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 20.20
+  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 16.43
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USTF | Solana | 降温中 | 强度 84.62 | 质量 72.61
+- USTF | Solana | 降温中 | 强度 85.04 | 质量 73.06
   - 主题摘要：Multiple tokens named 「USTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.16 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 76.67 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance Bull Meme Image Spread | BSC | 降温中 | 强度 83.69 | 质量 73.20
+- Uncertain:Binance Bull Meme Image Spread | BSC | 降温中 | 强度 83.65 | 质量 73.13
   - 主题摘要：According to 角度挖掘机's post, the 'Binance Bull' Meme image has gained significant popularity, with domestic news media reporting on videos featuring Yi He and Biao Ge pulling ropes…
-  - 资金 100.00 / 广度 89.81 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.72 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Robin Hanson Discusses Futarchy and Archon | Solana | 降温中 | 强度 81.71 | 质量 69.48
-  - 主题摘要：According to Robin Hanson's post, he advocates for betting on the efficacy of community choices rather than merely voting on actions, citing better incentives. He mentions testing…
-  - 资金 100.00 / 广度 64.75 / 确认 9.36 / 脆弱性 0.00
+- Alleged Reinvest Token Launch | Solana | 降温中 | 强度 80.59 | 质量 73.59
+  - 主题摘要：According to Nini's post, the Reinvest token (symbol: $reinvest, full name: Retard In Vest) is being promoted with a target market cap of 3 million. The post characterizes the inv…
+  - 资金 100.00 / 广度 73.16 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Agent OS | BSC | 加速中 | 强度 79.43 | 质量 79.54
+- Dog Carl Cliff Rescue | Solana | 加速中 | 强度 80.38 | 质量 74.51
+  - 主题摘要：According to Pubity's post, a dog named Carl survived a 120-foot fall from a cliff, hanging on a ledge for 17 hours before being rescued with minor injuries. This viral story high…
+  - 资金 100.00 / 广度 83.91 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Agent OS | BSC | 加速中 | 强度 79.39 | 质量 79.49
   - 主题摘要：Binance Co-CEO Yi He promotes the launch of 'Binance Agent OS,' a platform for building and deploying AI agents, signaling the exchange's deep integration of artificial intelligen…
-  - 资金 100.00 / 广度 86.20 / 确认 25.84 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.01 / 确认 25.84 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump White House Eagle Meme | Solana | 降温中 | 强度 77.61 | 质量 64.49
-  - 主题摘要：According to Babby sokol's post, a video is referenced where an individual refers to an image as the "eagle of the united states." This content is associated with multiple cryptoc…
-  - 资金 100.00 / 广度 75.65 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $dogalyst Follows $catalyst | Solana | 降温中 | 强度 77.00 | 质量 66.29
+- Alleged $dogalyst Follows $catalyst | Solana | 降温中 | 强度 79.22 | 质量 66.49
   - 主题摘要：According to trencher 🍼🐂's post, the alleged Dogalyst token is expected to follow the trajectory of the Catalyst token. This statement reflects the author's personal market predic…
-  - 资金 100.00 / 广度 78.95 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.35 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Paul Graham Discusses Feature | Solana | 点火期 | 强度 76.31 | 质量 72.41
-  - 主题摘要：According to Paul Graham's post, he identified the name of a concept as "Feature," describing it as obvious upon reflection. This statement was made in reply to a discussion regar…
-  - 资金 100.00 / 广度 87.16 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Paul Graham on YC Mascot | Solana | 点火期 | 强度 75.98 | 质量 75.93
-  - 主题摘要：According to Paul Graham's post, he responded to a 14-year-old's question about Y Combinator's mascot, suggesting it would be a cockroach. This comment sparked discussion regardin…
-  - 资金 100.00 / 广度 92.70 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- United States Oil Exchange | Solana | 降温中 | 强度 75.40 | 质量 65.95
-  - 主题摘要：USOX (United States Oil Exchange) is a token inspired by the oil industry, featuring a logo with an American flag and a person in a suit. The token positions itself as a modern ex…
-  - 资金 100.00 / 广度 56.65 / 确认 4.32 / 脆弱性 14.00
+- Trump White House Eagle Meme | Solana | 降温中 | 强度 77.69 | 质量 64.62
+  - 主题摘要：According to Babby sokol's post, a video is referenced where an individual refers to an image as the "eagle of the united states." This content is associated with multiple cryptoc…
+  - 资金 100.00 / 广度 75.88 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Run1ooooo1 Inquires About Penglai | BSC | 加速中 | 强度 73.20 | 质量 67.66
-  - 主题摘要：According to 降雨幾率's post, the user inquired whether the token 'Penglai' is related to 'Bilai'. The post references content from another user discussing 'Bilai' and 'Niu Lai' in th…
-  - 资金 100.00 / 广度 76.91 / 确认 28.08 / 脆弱性 24.00
+- Alleged Launch of $LONGBOI Token | Solana | 点火期 | 强度 77.01 | 质量 73.51
+  - 主题摘要：According to Armoski.Sol's post, the individual is launching a token named $LONGBOI on PumpSwap via uselongshot.xyz. The project allegedly allocates 40% of funds to open long posi…
+  - 资金 100.00 / 广度 78.69 / 确认 8.64 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- WHY NOT US? | Solana | 降温中 | 强度 76.41 | 质量 68.95
+  - 主题摘要：Multiple tokens named 「US」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.65 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Release of Fei Dudu Meme Image | BSC | 加速中 | 强度 73.90 | 质量 60.79
+  - 主题摘要：According to 凌临🔶 BNB's post, the Douyin trending Meme image "Fei Dudu" originated from a dialogue between delivery riders and merchants, with the Meituan kangaroo as its prototype…
+  - 资金 100.00 / 广度 72.44 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Gutierrez Claims Snow King Animation Confirmed | BSC | 点火期 | 强度 72.24 | 质量 65.28
-  - 主题摘要：According to Gutierrez's post, the animation for 'Snow King' has been officially confirmed, with expectations that it will surpass 'Niu'.
-  - 资金 100.00 / 广度 64.85 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Flap 🦋 Replies to OKX | BSC | 降温中 | 强度 70.54 | 质量 67.19
+- Run1ooooo1 Inquires About Penglai | BSC | 加速中 | 强度 73.25 | 质量 67.77
+  - 主题摘要：According to 降雨幾率's post, the user inquired whether the token 'Penglai' is related to 'Bilai'. The post references content from another user discussing 'Bilai' and 'Niu Lai' in th…
+  - 资金 100.00 / 广度 76.94 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Flap 🦋 Replies to OKX | BSC | 降温中 | 强度 70.90 | 质量 67.49
   - 主题摘要：Multiple tokens named 「牛来」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.33 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.37 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.7，其中已确认叙事 0 个。
-- Gutierrez Claims Snow King Animation Confirmed 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.67，其中已确认叙事 0 个。
+- Dog Carl Cliff Rescue 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - USWR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - CZ: Tokenize Everything | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Binance Agent OS | 质量 79.54 | 可交易性 100.00 | 风险 低
-- USWR | 质量 78.25 | 可交易性 100.00 | 风险 低
-- Paul Graham on YC Mascot | 质量 75.93 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Bull Meme Image Spread | 质量 73.20 | 可交易性 88.97 | 风险 低
-- USTF | 质量 72.61 | 可交易性 100.00 | 风险 低
-- Paul Graham Discusses Feature | 质量 72.41 | 可交易性 100.00 | 风险 低
-- Robin Hanson Discusses Futarchy and Archon | 质量 69.48 | 可交易性 100.00 | 风险 低
-- Run1ooooo1 Inquires About Penglai | 质量 67.66 | 可交易性 68.02 | 风险 低
-- Flap 🦋 Replies to OKX | 质量 67.19 | 可交易性 79.76 | 风险 低
+- Binance Agent OS | 质量 79.49 | 可交易性 100.00 | 风险 低
+- USWR | 质量 78.31 | 可交易性 100.00 | 风险 低
+- Dog Carl Cliff Rescue | 质量 74.51 | 可交易性 86.52 | 风险 低
+- Alleged Reinvest Token Launch | 质量 73.59 | 可交易性 100.00 | 风险 低
+- Alleged Launch of $LONGBOI Token | 质量 73.51 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance Bull Meme Image Spread | 质量 73.13 | 可交易性 88.84 | 风险 低
+- USTF | 质量 73.06 | 可交易性 100.00 | 风险 低
+- WHY NOT US? | 质量 68.95 | 可交易性 100.00 | 风险 低
+- Run1ooooo1 Inquires About Penglai | 质量 67.77 | 可交易性 68.38 | 风险 低
 
 ## 伪叙事风险
 
-- Paul Graham Discusses Feature | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Gutierrez Claims Snow King Animation Confirmed | 风险 47.79 | 原因：流动性偏薄
-- Paul Graham on YC Mascot | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged $dogalyst Follows $catalyst | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Launch of $LONGBOI Token | 风险 48.37 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -136,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：USWR（Solana，分数 89.01）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Robin Hanson Discusses Futarchy and Archon 当前为“新出现”
+1. 当前最强叙事：USWR（Solana，分数 89.05）
+2. 共振最强代币：CUPSEY（Solana，共振 100.0）
+3. 记忆层变化：Alleged Reinvest Token Launch 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-08-20)
 #Binance #NarrativeOS #OpenClaw
