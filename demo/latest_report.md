@@ -1,105 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-21T15:54:04.505584+00:00
+- 生成时间：2026-08-21T16:15:45.223955+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：2
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Uncertain:Binance Bull Meme Image Spread，所在链为 BSC，叙事强度 83.41。
-- 当前平均叙事强度为 75.08，其中已确认叙事 0 个。
+- 当前最强叙事是 Conk，所在链为 Solana，叙事强度 84.01。
+- 当前平均叙事强度为 77.73，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 CUPSEY，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Gigachad Carl Meme Image 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Ginnancoin，伪叙事风险 57.02。
+- 记忆层显示 Conk 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 CZ: It's time...，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
 
-- Uncertain:Binance Bull Meme Image Spread | BSC | 降温中 | 强度 83.41 | 质量 72.73
-  - 主题摘要：According to 角度挖掘机's post, the 'Binance Bull' Meme image has gained significant popularity, with domestic news media reporting on videos featuring Yi He and Biao Ge pulling ropes…
-  - 资金 100.00 / 广度 89.12 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged CatGPT Meme | Solana | 点火期 | 强度 82.37 | 质量 78.70
-  - 主题摘要：According to Noah.sol's post, ChatGPT allegedly started sending 'cat photos' as selfies, referred to as 'CatGPT'. This content references a quoted tweet describing ChatGPT rolepla…
-  - 资金 100.00 / 广度 91.23 / 确认 15.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- MCX | Solana | 降温中 | 强度 82.27 | 质量 70.63
-  - 主题摘要：MCX token represents MetaCortex, inspired by the concept of artificial intelligence. The logo features a rotating neural network with a glowing blue eye, symbolizing advanced neur…
-  - 资金 100.00 / 广度 72.27 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 羊必火 | BSC | 降温中 | 强度 78.30 | 质量 65.52
-  - 主题摘要：羊必火 (Goat Will Burn) is a meme token inspired by the viral 'Goat' meme culture. It aims to capture the playful spirit of internet humor while building a community-driven ecosystem…
-  - 资金 100.00 / 广度 73.25 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Gigachad Carl Meme Image | Solana | 降温中 | 强度 78.11 | 质量 68.14
-  - 主题摘要：According to Beans's post, a story about a dog named Carl surviving a 120-foot fall is shared as a Meme image, described as "GIGACHAD CARL" and "Solana coded." This content refere…
-  - 资金 100.00 / 广度 63.96 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ginnancoin | Solana | 点火期 | 强度 76.63 | 质量 73.43
-  - 主题摘要：Multiple tokens named 「GINNAN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.60 / 确认 4.32 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ: Tokenize Everything | BSC | 点火期 | 强度 76.02 | 质量 73.56
-  - 主题摘要：CZ responds to BNB Chain's RWA dominance by advocating for the tokenization of all assets to attract global investment, framing it as a strategic move for countries and companies.
-  - 资金 100.00 / 广度 95.08 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Priceless | BSC | 加速中 | 强度 74.09 | 质量 61.85
-  - 主题摘要：Multiple tokens named 「Priceless」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.70 / 确认 24.48 / 脆弱性 14.00
+- Conk | Solana | 加速中 | 强度 84.01 | 质量 78.50
+  - 主题摘要：Multiple tokens named 「CONK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.24 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged POTATO Meme Coin | Solana | 降温中 | 强度 73.89 | 质量 62.15
-  - 主题摘要：According to megger's post, a user with 1.5 million followers stated they would vote for a 'potato' if it ran for president, describing the subject as highly memeable. This conten…
-  - 资金 100.00 / 广度 78.45 / 确认 4.32 / 脆弱性 14.00
+- Uncertain:Binance Bull Meme Image Spread | BSC | 降温中 | 强度 83.40 | 质量 72.71
+  - 主题摘要：According to 角度挖掘机's post, the 'Binance Bull' Meme image has gained significant popularity, with domestic news media reporting on videos featuring Yi He and Biao Ge pulling ropes…
+  - 资金 100.00 / 广度 89.07 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FWOG DEV Discusses GTA 6 Map | Solana | 点火期 | 强度 73.63 | 质量 66.30
+- Alleged CatGPT Meme | Solana | 加速中 | 强度 81.74 | 质量 79.54
+  - 主题摘要：Multiple tokens named 「CatGPT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 91.37 / 确认 18.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ginnancoin | Solana | 降温中 | 强度 81.66 | 质量 73.45
+  - 主题摘要：Multiple tokens named 「GINNAN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.67 / 确认 4.32 / 脆弱性 10.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 羊必火 | BSC | 降温中 | 强度 79.45 | 质量 67.00
+  - 主题摘要：羊必火 (Goat Will Burn) is a meme token inspired by the viral 'Goat' meme culture. It aims to capture the playful spirit of internet humor while building a community-driven ecosystem…
+  - 资金 100.00 / 广度 73.40 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Priceless | BSC | 加速中 | 强度 76.73 | 质量 62.28
+  - 主题摘要：Multiple tokens named 「Priceless」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.88 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ: Tokenize Everything | BSC | 点火期 | 强度 75.91 | 质量 73.36
+  - 主题摘要：CZ responds to BNB Chain's RWA dominance by advocating for the tokenization of all assets to attract global investment, framing it as a strategic move for countries and companies.
+  - 资金 100.00 / 广度 95.09 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- FWOG DEV Discusses GTA 6 Map | Solana | 点火期 | 强度 73.63 | 质量 67.20
   - 主题摘要：Multiple tokens named 「SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.18 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.85 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ: It's time... | BSC | 点火期 | 强度 72.47 | 质量 72.35
+- CATE Community Mutual Aid Event | Solana | 降温中 | 强度 73.57 | 质量 59.25
+  - 主题摘要：According to john's post, a user named Doctuah mistakenly sent his CATE holdings to an incorrect wallet. The CATE community, including members like poorgoat and frank, rallied to…
+  - 资金 100.00 / 广度 73.49 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Comments on Binance Trading Volume Surge | BSC | 降温中 | 强度 73.37 | 质量 59.92
+  - 主题摘要：CZ quoted a post highlighting Binance's 24-hour trading volume reached $14.6 billion, significantly exceeding the combined volume of three competitors. He attributed this surge to…
+  - 资金 100.00 / 广度 85.12 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ: It's time... | BSC | 点火期 | 强度 72.54 | 质量 72.29
   - 主题摘要：Binance前CEO CZ回复Bruce Fenton的'It's time...'推文，引发社区对Binance未来动向、监管和解或新市场机遇的强烈猜测和FOMO情绪。
-  - 资金 87.73 / 广度 95.94 / 确认 9.36 / 脆弱性 24.00
+  - 资金 88.23 / 广度 95.89 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 币安一站全包 何必另寻他处 | BSC | 点火期 | 强度 72.33 | 质量 68.05
-  - 主题摘要：According to 想吃鸡腿🍗's post, the user claims that the 'Binance Station' token has ended and provided a specific contract address (0x2b17e0c54b81d5a8094a9f5c484a2697211d7777). This i…
-  - 资金 100.00 / 广度 81.86 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Binance Academy Stock Guide | BSC | 点火期 | 强度 72.09 | 质量 69.36
+- Binance Academy Stock Guide | BSC | 点火期 | 强度 72.50 | 质量 69.99
   - 主题摘要：Binance Chinese account posts an educational article explaining different types of stocks like dividend and growth stocks, aiming to simplify financial concepts for beginners. It…
   - 资金 100.00 / 广度 89.87 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- NANDmine | BSC | 加速中 | 强度 71.94 | 质量 64.03
-  - 主题摘要：According to 小鬼's post, the user stated that taxes are distributed to the X account. The post includes a link to another X user's profile. No specific token or project details wer…
-  - 资金 100.00 / 广度 82.30 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- MiniMimi | Solana | 降温中 | 强度 71.75 | 质量 59.44
+  - 主题摘要：Mimi is a cute, chibi-style token inspired by MiMiOfficial_X's vision for a multi-chain aggregated liquidity protocol. The token features a cheerful animated character with red ha…
+  - 资金 100.00 / 广度 32.97 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Agent Sophie | BSC | 降温中 | 强度 71.33 | 质量 58.68
+  - 主题摘要：Multiple tokens named 「SOPHIE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.24 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.08，其中已确认叙事 0 个。
-- FWOG DEV Discusses GTA 6 Map 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.73，其中已确认叙事 0 个。
+- Conk 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Uncertain:Binance Bull Meme Image Spread 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged CatGPT Meme | 质量 78.70 | 可交易性 100.00 | 风险 低
-- CZ: Tokenize Everything | 质量 73.56 | 可交易性 93.76 | 风险 低
-- Ginnancoin | 质量 73.43 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Bull Meme Image Spread | 质量 72.73 | 可交易性 88.08 | 风险 低
-- CZ: It's time... | 质量 72.35 | 可交易性 95.43 | 风险 低
-- MCX | 质量 70.63 | 可交易性 100.00 | 风险 低
-- Binance Academy Stock Guide | 质量 69.36 | 可交易性 100.00 | 风险 低
-- Alleged Gigachad Carl Meme Image | 质量 68.14 | 可交易性 100.00 | 风险 低
-- 币安一站全包 何必另寻他处 | 质量 68.05 | 可交易性 73.88 | 风险 低
-- FWOG DEV Discusses GTA 6 Map | 质量 66.30 | 可交易性 99.84 | 风险 低
+- Alleged CatGPT Meme | 质量 79.54 | 可交易性 100.00 | 风险 低
+- Conk | 质量 78.50 | 可交易性 100.00 | 风险 低
+- Ginnancoin | 质量 73.45 | 可交易性 100.00 | 风险 低
+- CZ: Tokenize Everything | 质量 73.36 | 可交易性 93.76 | 风险 低
+- Uncertain:Binance Bull Meme Image Spread | 质量 72.71 | 可交易性 88.07 | 风险 低
+- CZ: It's time... | 质量 72.29 | 可交易性 95.32 | 风险 低
+- Binance Academy Stock Guide | 质量 69.99 | 可交易性 100.00 | 风险 低
+- FWOG DEV Discusses GTA 6 Map | 质量 67.20 | 可交易性 99.62 | 风险 低
+- 羊必火 | 质量 67.00 | 可交易性 77.80 | 风险 低
+- Priceless | 质量 62.28 | 可交易性 52.78 | 风险 低
 
 ## 伪叙事风险
 
-- Ginnancoin | 风险 57.02 | 原因：流动性偏薄、近 1 小时净流入转负
 - CZ: It's time... | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - FWOG DEV Discusses GTA 6 Map | 风险 47.79 | 原因：流动性偏薄
 - Binance Academy Stock Guide | 风险 47.79 | 原因：流动性偏薄
-- 币安一站全包 何必另寻他处 | 风险 43.18 | 原因：流动性偏薄
-- Alleged CatGPT Meme | 风险 43.15 | 原因：流动性偏薄
+- CZ: Tokenize Everything | 风险 42.03 | 原因：流动性偏薄
+- CZ Comments on Binance Trading Volume Surge | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -138,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Uncertain:Binance Bull Meme Image Spread（BSC，分数 83.41）
+1. 当前最强叙事：Conk（Solana，分数 84.01）
 2. 共振最强代币：CUPSEY（Solana，共振 100.0）
-3. 记忆层变化：Alleged Gigachad Carl Meme Image 当前为“新出现”
+3. 记忆层变化：Conk 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
