@@ -1,104 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-22T23:07:28.165853+00:00
+- 生成时间：2026-08-22T23:31:45.090675+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 duge，所在链为 Solana，叙事强度 87.64。
-- 当前平均叙事强度为 83.05，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 CATE，来自 Solana，共振分数 100.0。
-- 记忆层显示 MetaMask 当前处于“新出现”状态。
+- 当前最强叙事是 Alleged CYBERLEEK Token Doxxing，所在链为 Solana，叙事强度 85.62。
+- 当前平均叙事强度为 85.03，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged CYBERLEEK Token Doxxing 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Uncertain:Alleged Shao Yifu Coin，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
 
-- duge | Solana | 降温中 | 强度 87.64 | 质量 79.57
-  - 主题摘要：Multiple tokens named 「CHECK FOMO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.09 / 确认 16.56 / 脆弱性 14.00
+- Alleged CYBERLEEK Token Doxxing | Solana | 降温中 | 强度 85.62 | 质量 77.65
+  - 主题摘要：According to esoteric's post, the CYBERLEEK token (associated with GnomodelincuenT) has been fully doxxed. The quoted content identifies the individual behind the token as a Spani…
+  - 资金 100.00 / 广度 89.32 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Official Donald Trump Jr. | Solana | 降温中 | 强度 86.17 | 质量 75.26
-  - 主题摘要：Multiple tokens named 「DONALDJR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.99 / 确认 9.36 / 脆弱性 0.00
+- Sheep: PC Gamer Feature Cyberleek | Solana | 降温中 | 强度 85.03 | 质量 76.70
+  - 主题摘要：Multiple tokens named 「CYBERLEEK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.15 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pump.fun CATE Apple Pay | Solana | 降温中 | 强度 84.27 | 质量 76.67
-  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.43 / 确认 16.56 / 脆弱性 24.00
+- GTA VI Leaks and CyberLeek Threats | Solana | 降温中 | 强度 85.03 | 质量 76.70
+  - 主题摘要：Multiple tokens named 「CYBERLEEK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.15 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Federal Trust Fund System | Solana | 降温中 | 强度 82.66 | 质量 71.18
-  - 主题摘要：According to Solana Memes Scanner's post, the Federal Trust Fund System ($FTFS) token allegedly launched on Pump Fun and Pump AMM, reaching an all-time high market cap of $48.80M.…
-  - 资金 100.00 / 广度 70.40 / 确认 9.36 / 脆弱性 0.00
+- lola verifies CYBERLEEK video | Solana | 降温中 | 强度 85.03 | 质量 76.69
+  - 主题摘要：According to lola's post, the user verified the authenticity of a video related to the CYBERLEEK token, directing followers to check the video description for confirmation.
+  - 资金 100.00 / 广度 86.13 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MetaMask | Solana | 降温中 | 强度 81.47 | 质量 68.86
+- Alleged TTWO Token Launch | Solana | 降温中 | 强度 85.03 | 质量 76.70
+  - 主题摘要：Multiple tokens named 「CYBERLEEK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.15 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged GTA VI Hunt Meme | Solana | 降温中 | 强度 85.03 | 质量 76.69
+  - 主题摘要：According to Bebo's post, a Meme image regarding a GTA6 leak is going viral, prompting claims of a worldwide hunt for the leaker. This content references related tokens such as HU…
+  - 资金 100.00 / 广度 86.13 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk: Starship Replacing Falcon | Solana | 降温中 | 强度 84.83 | 质量 72.75
+  - 主题摘要：Elon Musk discusses the future transition from Falcon rockets to Starship, highlighting SpaceX's strategic shift in launch vehicles.
+  - 资金 100.00 / 广度 75.63 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- MetaMask | Solana | 降温中 | 强度 84.68 | 质量 72.43
   - 主题摘要：Multiple tokens named 「MetaMask」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.66 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 74.57 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BULL IN 3D | Solana | 降温中 | 强度 81.47 | 质量 73.23
-  - 主题摘要：Multiple tokens named 「BULL3D」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.25 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Cateification Token Launch | Solana | 降温中 | 强度 80.65 | 质量 72.27
-  - 主题摘要：According to Trencher Bill's post, the author claims to have a chance to change narratives by running them as 'seyong' and promoting 'CATEIFY CATEIFICATION'. This statement sugges…
-  - 资金 100.00 / 广度 74.03 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pump.fun Promotes $CATE Token | Solana | 降温中 | 强度 80.07 | 质量 71.77
-  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.38 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Shao Yifu Coin | BSC | 点火期 | 强度 77.98 | 质量 76.77
+- Uncertain:Alleged Shao Yifu Coin | BSC | 点火期 | 强度 77.67 | 质量 76.77
   - 主题摘要：According to 0x楽's post, the author claims that Changpeng Zhao (CZ) discussed a charity token named after Shaw Yifu on Bitcointalk in 2012. The post alleges that CZ's old username…
-  - 资金 100.00 / 广度 86.38 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.39 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 蝴蝶人生 | BSC | 加速中 | 强度 76.81 | 质量 63.68
+- 蝴蝶人生 | BSC | 加速中 | 强度 76.88 | 质量 63.78
   - 主题摘要：蝴蝶人生 (Butterfly Life) is a meme token inspired by the transformational journey of butterflies. It embodies the concept of personal growth and metamorphosis, resonating with crypto…
-  - 资金 100.00 / 广度 81.20 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.25 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Dog Coins Are Also Dogs | BSC | 加速中 | 强度 76.26 | 质量 73.71
-  - 主题摘要：According to the post, the content expresses a philosophical view on 'local dog' tokens, stating that they are also dogs and have their own destiny. This reflects a sentiment with…
-  - 资金 100.00 / 广度 80.41 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- B-Money and Bitcoin History | BSC | 加速中 | 强度 74.86 | 质量 62.81
+- B-Money and Bitcoin History | BSC | 加速中 | 强度 76.59 | 质量 63.15
   - 主题摘要：According to frontrunner's post, Wei Dai developed B-Money in 1998, which is described as a precursor to Bitcoin. The post notes that Satoshi Nakamoto cited B-Money in the Bitcoin…
-  - 资金 100.00 / 广度 75.08 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.35 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Red-bellied Squirrel Incident | BSC | 点火期 | 强度 74.77 | 质量 73.70
-  - 主题摘要：According to ZY✨BNB（努力)'s post, a man in Sichuan's Leshan Giant Buddha scenic area was filmed stepping on and killing a red-bellied squirrel. Despite tourists' objections, the man…
-  - 资金 100.00 / 广度 84.80 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Bitcat Meme Image Release | BSC | 点火期 | 强度 73.99 | 质量 73.99
+- Alleged Bitcat Meme Image Release | BSC | 点火期 | 强度 75.05 | 质量 73.83
   - 主题摘要：According to Bitcoin's post, the account challenges users to identify a specific Bitcoin holder who acquired a whole coin ten years ago, valued at approximately $586. This highlig…
-  - 资金 100.00 / 广度 80.82 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 80.84 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Dog Coins Are Also Dogs | BSC | 加速中 | 强度 74.93 | 质量 73.65
+  - 主题摘要：According to the post, the content expresses a philosophical view on 'local dog' tokens, stating that they are also dogs and have their own destiny. This reflects a sentiment with…
+  - 资金 100.00 / 广度 80.43 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Red-bellied Squirrel Incident | BSC | 点火期 | 强度 74.92 | 质量 73.79
+  - 主题摘要：According to ZY✨BNB（努力)'s post, a man in Sichuan's Leshan Giant Buddha scenic area was filmed stepping on and killing a red-bellied squirrel. Despite tourists' objections, the man…
+  - 资金 100.00 / 广度 84.81 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.05，其中已确认叙事 0 个。
-- Dog Coins Are Also Dogs 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- duge 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.03，其中已确认叙事 0 个。
+- Alleged CYBERLEEK Token Doxxing 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- duge | 质量 79.57 | 可交易性 100.00 | 风险 低
+- Alleged CYBERLEEK Token Doxxing | 质量 77.65 | 可交易性 100.00 | 风险 低
 - Uncertain:Alleged Shao Yifu Coin | 质量 76.77 | 可交易性 100.00 | 风险 低
-- Pump.fun CATE Apple Pay | 质量 76.67 | 可交易性 100.00 | 风险 低
-- Official Donald Trump Jr. | 质量 75.26 | 可交易性 100.00 | 风险 低
-- Alleged Bitcat Meme Image Release | 质量 73.99 | 可交易性 93.67 | 风险 低
-- Dog Coins Are Also Dogs | 质量 73.71 | 可交易性 90.52 | 风险 低
-- Red-bellied Squirrel Incident | 质量 73.70 | 可交易性 88.71 | 风险 低
-- BULL IN 3D | 质量 73.23 | 可交易性 100.00 | 风险 低
-- Alleged Cateification Token Launch | 质量 72.27 | 可交易性 100.00 | 风险 低
-- Pump.fun Promotes $CATE Token | 质量 71.77 | 可交易性 100.00 | 风险 低
+- Sheep: PC Gamer Feature Cyberleek | 质量 76.70 | 可交易性 100.00 | 风险 低
+- GTA VI Leaks and CyberLeek Threats | 质量 76.70 | 可交易性 100.00 | 风险 低
+- Alleged TTWO Token Launch | 质量 76.70 | 可交易性 100.00 | 风险 低
+- lola verifies CYBERLEEK video | 质量 76.69 | 可交易性 100.00 | 风险 低
+- Alleged GTA VI Hunt Meme | 质量 76.69 | 可交易性 100.00 | 风险 低
+- Alleged Bitcat Meme Image Release | 质量 73.83 | 可交易性 93.12 | 风险 低
+- Red-bellied Squirrel Incident | 质量 73.79 | 可交易性 89.01 | 风险 低
+- Dog Coins Are Also Dogs | 质量 73.65 | 可交易性 90.30 | 风险 低
 
 ## 伪叙事风险
 
 - Uncertain:Alleged Shao Yifu Coin | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
 - Red-bellied Squirrel Incident | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Bitcat Meme Image Release | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Cateification Token Launch | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Pump.fun Promotes $CATE Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Bitcat Meme Image Release | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -137,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：duge（Solana，分数 87.64）
-2. 共振最强代币：CATE（Solana，共振 100.0）
-3. 记忆层变化：MetaMask 当前为“新出现”
+1. 当前最强叙事：Alleged CYBERLEEK Token Doxxing（Solana，分数 85.62）
+2. 共振最强代币：TRUMP（Solana，共振 100.0）
+3. 记忆层变化：Alleged CYBERLEEK Token Doxxing 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
