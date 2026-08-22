@@ -1,99 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-22T21:54:18.946277+00:00
+- 生成时间：2026-08-22T22:06:59.687188+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Official Donald Trump Jr.，所在链为 Solana，叙事强度 86.29。
-- 当前平均叙事强度为 80.77，其中已确认叙事 0 个。
+- 当前最强叙事是 Official Donald Trump Jr.，所在链为 Solana，叙事强度 84.62。
+- 当前平均叙事强度为 81.0，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 FARTCOIN，来自 Solana，共振分数 100.0。
-- 记忆层显示 OBB Mentions Doge2 Token 当前处于“新出现”状态。
+- 记忆层显示 omo 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Uncertain:Alleged Shao Yifu Coin，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
 
-- Official Donald Trump Jr. | Solana | 降温中 | 强度 86.29 | 质量 74.21
+- Official Donald Trump Jr. | Solana | 降温中 | 强度 84.62 | 质量 74.41
   - 主题摘要：Multiple tokens named 「DONALDJR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.51 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 81.18 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Pump.fun CATE Apple Pay | Solana | 降温中 | 强度 84.07 | 质量 76.51
   - 主题摘要：According to Pump.fun's post, the platform promotes the CATE token, encouraging users to join via a provided link. The post highlights the ability to purchase up to $1,500 worth o…
   - 资金 100.00 / 广度 82.90 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Cateification Token Launch | Solana | 降温中 | 强度 80.46 | 质量 70.34
+- omo | Solana | 降温中 | 强度 83.37 | 质量 71.72
+  - 主题摘要：Multiple tokens named 「omo」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 96.70 / 广度 72.21 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Cateification Token Launch | Solana | 降温中 | 强度 80.37 | 质量 70.20
   - 主题摘要：According to Trencher Bill's post, the author claims to have a chance to change narratives by running them as 'seyong' and promoting 'CATEIFY CATEIFICATION'. This statement sugges…
   - 资金 100.00 / 广度 69.89 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- EIGENSLUR | Solana | 加速中 | 强度 80.42 | 质量 77.17
-  - 主题摘要：EIGENSLUR is a meme token inspired by the concept of 'eigenvalues' in mathematics, as reflected in its logo featuring a mathematical symbol. Created by eigenslur_ml, it satirizes…
-  - 资金 100.00 / 广度 79.28 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 - Federal Trust Fund System | Solana | 降温中 | 强度 80.00 | 质量 68.66
   - 主题摘要：According to Solana Memes Scanner's post, the Federal Trust Fund System ($FTFS) token on Solana is identified as a Pump AMM breakout candidate. The post highlights an all-time hig…
   - 资金 100.00 / 广度 62.01 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Trump Meme Coin $WWW | Solana | 降温中 | 强度 79.33 | 质量 67.98
-  - 主题摘要：Multiple tokens named 「WWW」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.53 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Shao Yifu Coin | BSC | 点火期 | 强度 79.27 | 质量 76.74
+- Alleged Claudish Translator Tool | Solana | 加速中 | 强度 79.04 | 质量 69.27
+  - 主题摘要：According to Peter Steinberger 🦞's post, a translator between English and 'Claudish' was shared, referencing a Meme image. This content is associated with the Claudish token. This…
+  - 资金 100.00 / 广度 81.18 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged Shao Yifu Coin | BSC | 点火期 | 强度 78.61 | 质量 76.75
   - 主题摘要：According to 0x楽's post, the author claims that Changpeng Zhao (CZ) discussed a charity token named after Shaw Yifu on Bitcointalk in 2012. The post alleges that CZ's old username…
-  - 资金 100.00 / 广度 86.31 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.32 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- EIGENSLUR | Solana | 加速中 | 强度 78.32 | 质量 77.18
+  - 主题摘要：EIGENSLUR is a meme token inspired by the concept of 'eigenvalues' in mathematics, as reflected in its logo featuring a mathematical symbol. Created by eigenslur_ml, it satirizes…
+  - 资金 100.00 / 广度 79.31 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 - Pump.fun Promotes $CATE Token | Solana | 降温中 | 强度 78.24 | 质量 69.66
   - 主题摘要：According to Pump.fun's post, the platform promotes the $CATE token, suggesting users who are late to the trend can purchase up to $1,500 worth via Apple Pay without KYC verificat…
   - 资金 100.00 / 广度 65.35 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- REDev Allegedly Launches Solcat | BSC | 降温中 | 强度 77.56 | 质量 64.13
+- REDev Allegedly Launches Solcat | BSC | 降温中 | 强度 76.84 | 质量 64.07
   - 主题摘要：According to REDev's post, the BASECAT token has reached a market capitalization of 500k on the Base network. REDev suggests that this milestone indicates it is time to direct att…
-  - 资金 100.00 / 广度 80.39 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.45 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- OBB Mentions Doge2 Token | Solana | 降温中 | 强度 77.33 | 质量 61.93
-  - 主题摘要：According to OBB's post, the user posted a greeting message mentioning the token $Doge2. The content is brief and lacks specific details regarding the token's status or market per…
-  - 资金 100.00 / 广度 76.89 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Flap Whale Token | BSC | 降温中 | 强度 77.10 | 质量 64.77
-  - 主题摘要：According to Cedric 🦋's post, a token named 'Who came to Flap with nothing and now a whale?' (Symbol: WCTFWNANAW) is associated with the Flap ecosystem. The post highlights a narr…
-  - 资金 100.00 / 广度 74.03 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Neslie00 Questions BNB Logo as Suspected Cat Image | BSC | 降温中 | 强度 76.98 | 质量 62.97
-  - 主题摘要：Multiple tokens named 「BNBCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.72 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:BNBCAT Origin Narrative | BSC | 降温中 | 强度 76.95 | 质量 62.97
-  - 主题摘要：According to BNBCAT's post, the BNBCAT narrative originated during Binance's early days, appearing in chats and screenshots before any official mascot existed. It is described as…
-  - 资金 100.00 / 广度 79.73 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Umair Nauman on BNB Cap | BSC | 降温中 | 强度 76.84 | 质量 64.90
+- Red-bellied Squirrel Incident | BSC | 点火期 | 强度 76.72 | 质量 74.44
+  - 主题摘要：According to ZY✨BNB（努力)'s post, a man in Sichuan's Leshan Giant Buddha scenic area was filmed stepping on and killing a red-bellied squirrel. Despite tourists' objections, the man…
+  - 资金 100.00 / 广度 84.95 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 蝴蝶人生 | BSC | 加速中 | 强度 76.62 | 质量 63.39
+  - 主题摘要：蝴蝶人生 (Butterfly Life) is a meme token inspired by the transformational journey of butterflies. It embodies the concept of personal growth and metamorphosis, resonating with crypto…
+  - 资金 100.00 / 广度 81.10 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Umair Nauman on BNB Cap | BSC | 降温中 | 强度 76.19 | 质量 64.85
   - 主题摘要：According to Umair Nauman's post, he commented on the market capitalization of BNB in a reply to a tweet by @cz_binance. The post references a statement by @cz_binance regarding a…
-  - 资金 100.00 / 广度 80.41 / 确认 11.52 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.48 / 确认 11.52 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Neslie00 Questions BNB Logo as Suspected Cat Image | BSC | 降温中 | 强度 76.16 | 质量 62.91
+  - 主题摘要：Multiple tokens named 「BNBCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.79 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.77，其中已确认叙事 0 个。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.0，其中已确认叙事 0 个。
+- Alleged Claudish Translator Tool 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Official Donald Trump Jr. 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- EIGENSLUR | 质量 77.17 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Shao Yifu Coin | 质量 76.74 | 可交易性 100.00 | 风险 低
+- EIGENSLUR | 质量 77.18 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Shao Yifu Coin | 质量 76.75 | 可交易性 100.00 | 风险 低
 - Pump.fun CATE Apple Pay | 质量 76.51 | 可交易性 100.00 | 风险 低
-- Official Donald Trump Jr. | 质量 74.21 | 可交易性 100.00 | 风险 低
-- Alleged Cateification Token Launch | 质量 70.34 | 可交易性 97.72 | 风险 低
+- Red-bellied Squirrel Incident | 质量 74.44 | 可交易性 91.03 | 风险 低
+- Official Donald Trump Jr. | 质量 74.41 | 可交易性 100.00 | 风险 低
+- omo | 质量 71.72 | 可交易性 100.00 | 风险 低
+- Alleged Cateification Token Launch | 质量 70.20 | 可交易性 97.24 | 风险 低
 - Pump.fun Promotes $CATE Token | 质量 69.66 | 可交易性 100.00 | 风险 低
+- Alleged Claudish Translator Tool | 质量 69.27 | 可交易性 74.93 | 风险 低
 - Federal Trust Fund System | 质量 68.66 | 可交易性 100.00 | 风险 低
-- Alleged Trump Meme Coin $WWW | 质量 67.98 | 可交易性 85.21 | 风险 低
-- Uncertain:Umair Nauman on BNB Cap | 质量 64.90 | 可交易性 67.49 | 风险 低
-- Alleged Flap Whale Token | 质量 64.77 | 可交易性 75.01 | 风险 低
 
 ## 伪叙事风险
 
 - Uncertain:Alleged Shao Yifu Coin | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Red-bellied Squirrel Incident | 风险 42.03 | 原因：流动性偏薄
 - Pump.fun Promotes $CATE Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -133,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Official Donald Trump Jr.（Solana，分数 86.29）
+1. 当前最强叙事：Official Donald Trump Jr.（Solana，分数 84.62）
 2. 共振最强代币：FARTCOIN（Solana，共振 100.0）
-3. 记忆层变化：OBB Mentions Doge2 Token 当前为“新出现”
+3. 记忆层变化：omo 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
