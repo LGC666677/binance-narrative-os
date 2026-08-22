@@ -1,6 +1,6 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-22T10:55:40.728241+00:00
+- 生成时间：2026-08-22T11:09:17.224352+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
@@ -8,9 +8,10 @@
 ## 今日摘要
 
 - 当前最强叙事是 长江存储，所在链为 Solana，叙事强度 86.74。
-- 当前平均叙事强度为 83.37，其中已确认叙事 0 个。
+- 当前平均叙事强度为 83.04，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged BOB Meme Image 当前处于“新出现”状态。
+- 记忆层显示 Uncertain:Binance Africa Weekend Post 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 That Little Puff，伪叙事风险 45.71。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
@@ -19,10 +20,6 @@
   - 主题摘要：According to xiaoxian's post, Yangtze Memory is preparing for a major IPO with a fundraising target of approximately 33 billion RMB. The post highlights that AI-driven demand for…
   - 资金 100.00 / 广度 79.07 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- That Little Puff | Solana | 降温中 | 强度 85.38 | 质量 77.28
-  - 主题摘要：Multiple tokens named 「PUFF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.75 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Alleged CONK Token Launch | Solana | 降温中 | 强度 84.26 | 质量 74.53
   - 主题摘要：According to copperinu23✴️'s post, the CONK token is allegedly being launched on the Pump platform, while the BONK token is described as inactive. This information is unverified.…
   - 资金 100.00 / 广度 81.57 / 确认 9.36 / 脆弱性 14.00
@@ -31,67 +28,75 @@
   - 主题摘要：According to Purp's post, the author clarified that the associated Meme image contains only question marks, not exclamation marks. This statement serves to correct potential misin…
   - 资金 100.00 / 广度 79.03 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- That Little Puff | Solana | 点火期 | 强度 83.34 | 质量 77.29
+  - 主题摘要：Multiple tokens named 「PUFF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.78 / 确认 9.36 / 脆弱性 10.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 - USOR | Solana | 降温中 | 强度 82.65 | 质量 71.64
   - 主题摘要：Multiple tokens named 「USOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 69.31 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- US XRP RESERVE | Solana | 降温中 | 强度 82.33 | 质量 71.87
+- US XRP RESERVE | Solana | 降温中 | 强度 82.26 | 质量 71.87
   - 主题摘要：Multiple tokens named 「USXR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 72.70 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cash Cate | Solana | 降温中 | 强度 81.89 | 质量 72.97
+- Cash Cate | Solana | 降温中 | 强度 81.35 | 质量 74.13
   - 主题摘要：Multiple tokens named 「CASHCATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.08 / 确认 4.32 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.25 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Doge Clone Fundraising | Solana | 加速中 | 强度 80.24 | 质量 65.78
+- Alleged Doge Clone Fundraising | Solana | 加速中 | 强度 80.26 | 质量 65.81
   - 主题摘要：According to McDevin's post, the author shared a Meme image related to Doge, proposing to raise funds to clone the dog. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 81.79 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.89 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nuadaeng Meme Image Gains Attention | BSC | 加速中 | 强度 79.28 | 质量 76.61
+- Nuadaeng Meme Image Gains Attention | BSC | 加速中 | 强度 78.48 | 质量 76.26
   - 主题摘要：According to bane's post, the Nuadaeng Meme image is gaining significant attention due to its association with POPMART's blind box releases. The content highlights the trend of co…
-  - 资金 100.00 / 广度 86.26 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.19 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Maye Musk Visits MINISO | BSC | 加速中 | 强度 72.90 | 质量 65.31
-  - 主题摘要：According to Shanghai Daily's post, Maye Musk visited a MINISO store in Shanghai and purchased plush toys of clownfish from Bikini Bottom. This event highlights her engagement wit…
-  - 资金 100.00 / 广度 85.41 / 确认 23.76 / 脆弱性 14.00
+- Agent Sophie | BSC | 加速中 | 强度 73.94 | 质量 59.77
+  - 主题摘要：Multiple tokens named 「SOPHIE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.09 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Priceless | BSC | 加速中 | 强度 72.47 | 质量 62.50
-  - 主题摘要：Multiple tokens named 「Priceless」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.23 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged BOB Meme Image | BSC | 降温中 | 强度 72.21 | 质量 57.57
-  - 主题摘要：According to Based Mogman's post, Cedric shared a Flap BNB mascot named BOB, which resembles PEPE. Based Mogman noted that Cedric posted this image multiple times, linking to the…
-  - 资金 100.00 / 广度 72.76 / 确认 11.52 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dirss Shares Cat Travel Video | BSC | 加速中 | 强度 71.88 | 质量 60.88
+- Dirss Shares Cat Travel Video | BSC | 加速中 | 强度 71.94 | 质量 60.97
   - 主题摘要：According to Dirss（秽土转生版）'s post, a video featuring a cat traveling with its owner has gained significant popularity, achieving 3 million views. The post highlights the cat's gent…
   - 资金 100.00 / 广度 81.16 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Agent Sophie | BSC | 加速中 | 强度 71.38 | 质量 59.59
-  - 主题摘要：Multiple tokens named 「SOPHIE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.11 / 确认 20.16 / 脆弱性 24.00
+- Uncertain:Binance Africa Weekend Post | BSC | 加速中 | 强度 70.99 | 质量 65.28
+  - 主题摘要：According to Binance Africa's post, the account shared a casual weekend update featuring a photo credited to @harymo_, describing the mood as 'swagged out'. The post serves as a l…
+  - 资金 100.00 / 广度 81.77 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Bali Bull Pass | BSC | 点火期 | 强度 70.21 | 质量 66.07
+  - 主题摘要：Binance official account reposts Jessica Walker's 'Bull Pass' photo from Coinfest Asia in Bali. The image symbolizes the 'Bull Market' lifestyle with a tropical ocean background,…
+  - 资金 100.00 / 广度 89.29 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Principal Jason Shares Life Insights | BSC | 点火期 | 强度 69.90 | 质量 65.81
+  - 主题摘要：According to 校长 Jason| Flap🦋's post, the author emphasizes the importance of seizing every opportunity to change one's life. The content serves as a motivational statement regardi…
+  - 资金 100.00 / 广度 89.66 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.37，其中已确认叙事 0 个。
-- That Little Puff 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.04，其中已确认叙事 0 个。
+- Uncertain:Binance Africa Weekend Post 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged CONK Token Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- That Little Puff | 质量 77.28 | 可交易性 100.00 | 风险 低
+- That Little Puff | 质量 77.29 | 可交易性 100.00 | 风险 低
 - 长江存储 | 质量 76.95 | 可交易性 100.00 | 风险 低
-- Nuadaeng Meme Image Gains Attention | 质量 76.61 | 可交易性 94.33 | 风险 低
+- Nuadaeng Meme Image Gains Attention | 质量 76.26 | 可交易性 93.21 | 风险 低
 - Alleged CONK Token Launch | 质量 74.53 | 可交易性 100.00 | 风险 低
+- Cash Cate | 质量 74.13 | 可交易性 100.00 | 风险 低
 - Purp Clarifies Meme Image Punctuation | 质量 73.77 | 可交易性 100.00 | 风险 低
-- Cash Cate | 质量 72.97 | 可交易性 100.00 | 风险 低
 - US XRP RESERVE | 质量 71.87 | 可交易性 100.00 | 风险 低
 - USOR | 质量 71.64 | 可交易性 100.00 | 风险 低
-- Alleged Doge Clone Fundraising | 质量 65.78 | 可交易性 59.53 | 风险 低
-- Maye Musk Visits MINISO | 质量 65.31 | 可交易性 86.72 | 风险 低
+- Bali Bull Pass | 质量 66.07 | 可交易性 95.49 | 风险 低
+- Alleged Doge Clone Fundraising | 质量 65.81 | 可交易性 59.52 | 风险 低
 
 ## 伪叙事风险
 
+- That Little Puff | 风险 45.71 | 原因：近 1 小时净流入转负
+- Bali Bull Pass | 风险 42.03 | 原因：流动性偏薄
+- Principal Jason Shares Life Insights | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -132,6 +137,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：长江存储（Solana，分数 86.74）
 2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：Alleged BOB Meme Image 当前为“新出现”
+3. 记忆层变化：Uncertain:Binance Africa Weekend Post 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
