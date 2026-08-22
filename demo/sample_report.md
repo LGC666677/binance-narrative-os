@@ -1,103 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-22T15:32:21.767515+00:00
+- 生成时间：2026-08-22T15:53:45.406522+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Trump Family Truth Coin Launch，所在链为 Solana，叙事强度 88.84。
-- 当前平均叙事强度为 82.79，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Luigi Wiglione Token 当前处于“新出现”状态。
+- 当前最强叙事是 Alleged Trump Family Truth Coin Launch，所在链为 Solana，叙事强度 89.56。
+- 当前平均叙事强度为 77.92，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
+- 记忆层显示 JIO JIO Proposes FOMOCAT Meme Image 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Musk Loves Space Datacenters，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
 
-- Alleged Trump Family Truth Coin Launch | Solana | 降温中 | 强度 88.84 | 质量 78.95
+- Alleged Trump Family Truth Coin Launch | Solana | 降温中 | 强度 89.56 | 质量 79.58
   - 主题摘要：According to Mario Presidente's post, rumors circulate that Trump Coins MULTISIG is launching a new token named TRUTH COIN (Ticker: TRUTH) on the Robinhood Chain, distinct from th…
-  - 资金 100.00 / 广度 100.00 / 确认 4.32 / 脆弱性 0.00
+  - 资金 100.00 / 广度 100.00 / 确认 7.20 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 长江存储 | Solana | 加速中 | 强度 86.74 | 质量 76.95
-  - 主题摘要：According to xiaoxian's post, Yangtze Memory is preparing for a major IPO with a fundraising target of approximately 33 billion RMB. The post highlights that AI-driven demand for…
-  - 资金 100.00 / 广度 79.07 / 确认 23.76 / 脆弱性 14.00
+- JIO JIO Proposes FOMOCAT Meme Image | BSC | 加速中 | 强度 82.52 | 质量 74.93
+  - 主题摘要：According to JIO JIO's post, the author proposed the name 'FOMOCAT' for a cat-themed Meme image during a 'Cat Festival' event. This suggests the potential creation of a Meme coin…
+  - 资金 100.00 / 广度 75.51 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Grok Bot Earns Money | Solana | 加速中 | 强度 86.31 | 质量 81.51
-  - 主题摘要：Elon Musk retweeted a story about his AI chatbot Grok earning its own salary by winning back customers, highlighting the potential of AI agents to generate revenue independently.
-  - 资金 100.00 / 广度 94.26 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- mert: We Are Back | Solana | 降温中 | 强度 81.26 | 质量 71.81
-  - 主题摘要：According to mert's post, the author states "we are back." This brief announcement coincides with the existence of cryptocurrency tokens named "We Are Back" (WAB) and "We are so b…
-  - 资金 100.00 / 广度 83.69 / 确认 12.96 / 脆弱性 14.00
+- United States Mineral Supply | Solana | 降温中 | 强度 82.06 | 质量 73.26
+  - 主题摘要：Multiple tokens named 「USMS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.02 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bitcoin Price Prediction | Solana | 降温中 | 强度 80.96 | 质量 77.09
-  - 主题摘要：Multiple tokens named 「BitBull」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.11 / 确认 9.36 / 脆弱性 24.00
+- Alleged TRUTH COIN Launch | Solana | 降温中 | 强度 80.98 | 质量 73.39
+  - 主题摘要：According to Jacob's post, a quoted tweet claims that Trump Coins MULTISIG is launching a new token named TRUTH COIN (Ticker: TRUTH COIN), distinct from the Trump Family token. Th…
+  - 资金 100.00 / 广度 78.81 / 确认 7.92 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Kiro Allegedly Launches HONK Token | Solana | 降温中 | 强度 80.19 | 质量 69.56
   - 主题摘要：Multiple tokens named 「CONK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 73.52 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Musk Loves Space Datacenters | Solana | 点火期 | 强度 79.23 | 质量 77.78
+- Uncertain:Alleged Shao Yifu Coin | BSC | 加速中 | 强度 79.55 | 质量 70.72
+  - 主题摘要：According to 0x楽's post, the author claims that Changpeng Zhao (CZ) discussed a charity token named after Shaw Yifu on Bitcointalk in 2012. The post alleges that CZ's old username…
+  - 资金 100.00 / 广度 77.56 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Musk Loves Space Datacenters | Solana | 点火期 | 强度 79.31 | 质量 77.78
   - 主题摘要：Elon Musk confirms his interest in placing data centers in space, responding to Yishan's prompt. This aligns with his vision for massive computational power needed for AI and Spac…
   - 资金 100.00 / 广度 92.40 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Dog Coins Are Also Dogs | BSC | 加速中 | 强度 79.22 | 质量 75.98
-  - 主题摘要：According to the post, the content expresses a philosophical view on 'local dog' tokens, stating that they are also dogs and have their own destiny. This reflects a sentiment with…
-  - 资金 100.00 / 广度 79.70 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Luigi Wiglione Token | Solana | 降温中 | 强度 78.76 | 质量 65.95
+- Alleged Luigi Wiglione Token | Solana | 降温中 | 强度 78.83 | 质量 66.05
   - 主题摘要：According to bone's post, the name 'Luigi Wiglione' is associated with multiple tokens (WIGLIONE, LUIGI) launched on platforms like launchblitz.ai. This information is unverified.…
-  - 资金 100.00 / 广度 73.91 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.97 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ Likes Cat Meme | BSC | 加速中 | 强度 78.26 | 质量 75.75
+- SpaceX AI Manager Calls Crypto Insane | Solana | 降温中 | 强度 78.11 | 质量 65.18
+  - 主题摘要：According to d's post, an article from Yahoo Finance reports that a SpaceX AI manager described cryptocurrency and memecoins as "insane." The post questions the source of the arti…
+  - 资金 100.00 / 广度 72.15 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Dog Coins Are Also Dogs | BSC | 加速中 | 强度 77.38 | 质量 75.01
+  - 主题摘要：According to the post, the content expresses a philosophical view on 'local dog' tokens, stating that they are also dogs and have their own destiny. This reflects a sentiment with…
+  - 资金 100.00 / 广度 79.74 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ Likes Cat Meme | BSC | 加速中 | 强度 77.16 | 质量 75.43
   - 主题摘要：CZ replied to a post by @catsofsol featuring an exclusive cat image dedicated to him, expressing approval with thumbs-up and prayer emojis. The post references the 'Cats of Sol' c…
-  - 资金 100.00 / 广度 84.19 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.14 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Africa Weekend Post | BSC | 点火期 | 强度 77.58 | 质量 76.31
-  - 主题摘要：According to Binance Africa's post, the account shared a casual weekend update featuring a photo credited to @harymo_, describing the mood as 'swagged out'. The post serves as a l…
-  - 资金 100.00 / 广度 96.49 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Bali Bull Pass | BSC | 降温中 | 强度 77.20 | 质量 71.16
-  - 主题摘要：Binance official account reposts Jessica Walker's 'Bull Pass' photo from Coinfest Asia in Bali. The image symbolizes the 'Bull Market' lifestyle with a tropical ocean background,…
-  - 资金 100.00 / 广度 90.43 / 确认 16.56 / 脆弱性 24.00
+- White House Post on America's 250th | Solana | 降温中 | 强度 76.41 | 质量 64.91
+  - 主题摘要：The White House posted a message indicating that preparations for America's 250th anniversary are proceeding with significant momentum. The post uses the phrase 'going full thrott…
+  - 资金 100.00 / 广度 56.52 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蝴蝶人生 | BSC | 加速中 | 强度 75.93 | 质量 62.75
+- 蝴蝶人生 | BSC | 加速中 | 强度 75.96 | 质量 62.68
   - 主题摘要：蝴蝶人生 (Butterfly Life) is a meme token inspired by the transformational journey of butterflies. It embodies the concept of personal growth and metamorphosis, resonating with crypto…
-  - 资金 100.00 / 广度 80.03 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.42 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Red-bellied Squirrel Incident | BSC | 点火期 | 强度 74.94 | 质量 74.67
+- Red-bellied Squirrel Incident | BSC | 点火期 | 强度 74.92 | 质量 74.66
   - 主题摘要：According to ZY✨BNB（努力)'s post, a man in Sichuan's Leshan Giant Buddha scenic area was filmed stepping on and killing a red-bellied squirrel. Despite tourists' objections, the man…
-  - 资金 100.00 / 广度 85.36 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.38 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.79，其中已确认叙事 0 个。
-- 蝴蝶人生 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.92，其中已确认叙事 0 个。
+- JIO JIO Proposes FOMOCAT Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Alleged Trump Family Truth Coin Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Grok Bot Earns Money | 质量 81.51 | 可交易性 100.00 | 风险 低
-- Alleged Trump Family Truth Coin Launch | 质量 78.95 | 可交易性 100.00 | 风险 低
+- Alleged Trump Family Truth Coin Launch | 质量 79.58 | 可交易性 100.00 | 风险 低
 - Musk Loves Space Datacenters | 质量 77.78 | 可交易性 100.00 | 风险 低
-- Bitcoin Price Prediction | 质量 77.09 | 可交易性 100.00 | 风险 低
-- 长江存储 | 质量 76.95 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Africa Weekend Post | 质量 76.31 | 可交易性 100.00 | 风险 低
-- Dog Coins Are Also Dogs | 质量 75.98 | 可交易性 96.13 | 风险 低
-- Uncertain:CZ Likes Cat Meme | 质量 75.75 | 可交易性 99.24 | 风险 低
-- Red-bellied Squirrel Incident | 质量 74.67 | 可交易性 91.41 | 风险 低
-- mert: We Are Back | 质量 71.81 | 可交易性 86.16 | 风险 低
+- Uncertain:CZ Likes Cat Meme | 质量 75.43 | 可交易性 99.64 | 风险 低
+- Dog Coins Are Also Dogs | 质量 75.01 | 可交易性 92.86 | 风险 低
+- JIO JIO Proposes FOMOCAT Meme Image | 质量 74.93 | 可交易性 100.00 | 风险 低
+- Red-bellied Squirrel Incident | 质量 74.66 | 可交易性 91.33 | 风险 低
+- Alleged TRUTH COIN Launch | 质量 73.39 | 可交易性 100.00 | 风险 低
+- United States Mineral Supply | 质量 73.26 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Shao Yifu Coin | 质量 70.72 | 可交易性 83.39 | 风险 低
+- Kiro Allegedly Launches HONK Token | 质量 69.56 | 可交易性 95.40 | 风险 低
 
 ## 伪叙事风险
 
 - Musk Loves Space Datacenters | 风险 47.79 | 原因：流动性偏薄
 - Red-bellied Squirrel Incident | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Uncertain:Binance Africa Weekend Post | 风险 42.03 | 原因：流动性偏薄
-- Bitcoin Price Prediction | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -136,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Trump Family Truth Coin Launch（Solana，分数 88.84）
-2. 共振最强代币：TRUMP（Solana，共振 100.0）
-3. 记忆层变化：Alleged Luigi Wiglione Token 当前为“新出现”
+1. 当前最强叙事：Alleged Trump Family Truth Coin Launch（Solana，分数 89.56）
+2. 共振最强代币：ASTER（BSC，共振 100.0）
+3. 记忆层变化：JIO JIO Proposes FOMOCAT Meme Image 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
