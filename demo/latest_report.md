@@ -1,6 +1,6 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-22T08:45:16.771087+00:00
+- 生成时间：2026-08-22T09:13:37.419366+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
@@ -8,10 +8,10 @@
 ## 今日摘要
 
 - 当前最强叙事是 NTDA，所在链为 Solana，叙事强度 87.18。
-- 当前平均叙事强度为 83.85，其中已确认叙事 0 个。
+- 当前平均叙事强度为 83.77，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged CONK Token Launch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Solana Honors Innovators，伪叙事风险 47.79。
+- 记忆层显示 White House RTs Duffy Race Weekend 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Launch of Timbothy Token，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
@@ -20,18 +20,14 @@
   - 主题摘要：Trump Meme, Presidential Promo, Digital Accounts
   - 资金 100.00 / 广度 91.07 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- US XRP RESERVE | Solana | 降温中 | 强度 84.94 | 质量 73.39
-  - 主题摘要：Multiple tokens named 「USXR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.77 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USOR | Solana | 降温中 | 强度 84.75 | 质量 73.88
-  - 主题摘要：Multiple tokens named 「USOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.76 / 确认 12.96 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- That Little Puff | Solana | 点火期 | 强度 84.43 | 质量 77.24
+- That Little Puff | Solana | 降温中 | 强度 85.65 | 质量 77.25
   - 主题摘要：Multiple tokens named 「PUFF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.60 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+  - 资金 100.00 / 广度 90.62 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- US XRP RESERVE | Solana | 降温中 | 强度 84.95 | 质量 73.40
+  - 主题摘要：Multiple tokens named 「USXR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.80 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Alleged CONK Token Launch | Solana | 降温中 | 强度 84.29 | 质量 74.57
   - 主题摘要：According to copperinu23✴️'s post, the CONK token is allegedly being launched on the Pump platform, while the BONK token is described as inactive. This information is unverified.…
   - 资金 100.00 / 广度 81.71 / 确认 9.36 / 脆弱性 14.00
@@ -40,65 +36,68 @@
   - 主题摘要：According to Purp's post, the author clarified that the associated Meme image contains only question marks, not exclamation marks. This statement serves to correct potential misin…
   - 资金 100.00 / 广度 79.02 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Solana Honors Innovators | Solana | 点火期 | 强度 81.86 | 质量 78.43
-  - 主题摘要：Solana官方推文致敬在币圈低谷期坚持建设的交易员、创造者和创始人，引用乔布斯经典文案，引发社区对坚韧精神的共鸣。
-  - 资金 100.00 / 广度 94.56 / 确认 9.36 / 脆弱性 14.00
+- USOR | Solana | 降温中 | 强度 82.28 | 质量 71.77
+  - 主题摘要：Multiple tokens named 「USOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.72 / 确认 12.96 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- White House RTs Duffy Race Weekend | Solana | 降温中 | 强度 82.22 | 质量 69.98
+  - 主题摘要：The White House retweeted a message from Secretary Duffy wishing a happy race weekend. The post references motorsport imagery, including a checkered flag, without mentioning any c…
+  - 资金 100.00 / 广度 81.58 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Nuadaeng Meme Image Gains Attention | BSC | 点火期 | 强度 80.49 | 质量 76.21
+  - 主题摘要：According to bane's post, the Nuadaeng Meme image is gaining significant attention due to its association with POPMART's blind box releases. The content highlights the trend of co…
+  - 资金 100.00 / 广度 86.48 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Launch of Timbothy Token | Solana | 点火期 | 强度 79.92 | 质量 76.68
+- Alleged Launch of Timbothy Token | Solana | 点火期 | 强度 80.17 | 质量 76.68
   - 主题摘要：According to quantnig's post, a new raccoon image named 'Timbothy' is going viral. The post includes a link to a video featuring this Meme image. This information is unverified. P…
-  - 资金 100.00 / 广度 88.72 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.73 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Bali Bull Pass | BSC | 点火期 | 强度 75.87 | 质量 75.28
+- Bali Bull Pass | BSC | 点火期 | 强度 73.65 | 质量 72.38
   - 主题摘要：Binance official account reposts Jessica Walker's 'Bull Pass' photo from Coinfest Asia in Bali. The image symbolizes the 'Bull Market' lifestyle with a tropical ocean background,…
-  - 资金 100.00 / 广度 89.40 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.41 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Principal Jason Shares Life Insights | BSC | 点火期 | 强度 75.71 | 质量 75.14
-  - 主题摘要：According to 校长 Jason| Flap🦋's post, the author emphasizes the importance of seizing every opportunity to change one's life. The content serves as a motivational statement regardi…
-  - 资金 100.00 / 广度 89.89 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Priceless | BSC | 加速中 | 强度 72.34 | 质量 62.45
-  - 主题摘要：Multiple tokens named 「Priceless」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.14 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Luckin Coffee Meme Image | BSC | 加速中 | 强度 71.94 | 质量 58.71
-  - 主题摘要：According to BnB-角度王's post, a Meme image featuring cats and referencing Luckin Coffee is circulating, with the author noting it appears to be officially released by Luckin and aw…
-  - 资金 99.09 / 广度 74.00 / 确认 18.72 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Maye Musk Visits MINISO | BSC | 加速中 | 强度 71.81 | 质量 71.50
+- Maye Musk Visits MINISO | BSC | 加速中 | 强度 73.45 | 质量 71.96
   - 主题摘要：According to Shanghai Daily's post, Maye Musk visited a MINISO store in Shanghai and purchased plush toys of clownfish from Bikini Bottom. This event highlights her engagement wit…
-  - 资金 100.00 / 广度 85.45 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.52 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Meme on Binance | BSC | 加速中 | 强度 71.17 | 质量 67.47
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.37 / 确认 20.16 / 脆弱性 14.00
+- Principal Jason Shares Life Insights | BSC | 点火期 | 强度 73.40 | 质量 72.19
+  - 主题摘要：According to 校长 Jason| Flap🦋's post, the author emphasizes the importance of seizing every opportunity to change one's life. The content serves as a motivational statement regardi…
+  - 资金 100.00 / 广度 89.84 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 0xTT Posts Daidai Meme Image | BSC | 降温中 | 强度 72.97 | 质量 60.92
+  - 主题摘要：According to 0xTT's post, the user shared a Meme image featuring a character named 'Daidai'. The post describes the character as having a round head and being a perfect member amo…
+  - 资金 100.00 / 广度 67.31 / 确认 11.52 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Priceless | BSC | 加速中 | 强度 70.58 | 质量 62.34
+  - 主题摘要：Multiple tokens named 「Priceless」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.15 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.85，其中已确认叙事 0 个。
-- Solana Honors Innovators 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.77，其中已确认叙事 0 个。
+- Nuadaeng Meme Image Gains Attention 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - NTDA 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Solana Honors Innovators | 质量 78.43 | 可交易性 100.00 | 风险 低
 - NTDA | 质量 78.17 | 可交易性 100.00 | 风险 低
-- That Little Puff | 质量 77.24 | 可交易性 100.00 | 风险 低
+- That Little Puff | 质量 77.25 | 可交易性 100.00 | 风险 低
 - Alleged Launch of Timbothy Token | 质量 76.68 | 可交易性 100.00 | 风险 低
-- Bali Bull Pass | 质量 75.28 | 可交易性 99.55 | 风险 低
-- Principal Jason Shares Life Insights | 质量 75.14 | 可交易性 99.49 | 风险 低
+- Nuadaeng Meme Image Gains Attention | 质量 76.21 | 可交易性 98.05 | 风险 低
 - Alleged CONK Token Launch | 质量 74.57 | 可交易性 100.00 | 风险 低
-- USOR | 质量 73.88 | 可交易性 100.00 | 风险 低
 - Purp Clarifies Meme Image Punctuation | 质量 73.77 | 可交易性 100.00 | 风险 低
-- US XRP RESERVE | 质量 73.39 | 可交易性 100.00 | 风险 低
+- US XRP RESERVE | 质量 73.40 | 可交易性 100.00 | 风险 低
+- Bali Bull Pass | 质量 72.38 | 可交易性 98.31 | 风险 低
+- Principal Jason Shares Life Insights | 质量 72.19 | 可交易性 98.23 | 风险 低
+- Maye Musk Visits MINISO | 质量 71.96 | 可交易性 87.20 | 风险 低
 
 ## 伪叙事风险
 
-- Solana Honors Innovators | 风险 47.79 | 原因：流动性偏薄
 - Alleged Launch of Timbothy Token | 风险 47.79 | 原因：流动性偏薄
 - Bali Bull Pass | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 - Principal Jason Shares Life Insights | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- That Little Puff | 风险 40.51 | 原因：确认层仍然偏薄
+- Nuadaeng Meme Image Gains Attention | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -139,6 +138,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：NTDA（Solana，分数 87.18）
 2. 共振最强代币：TRUMP（Solana，共振 100.0）
-3. 记忆层变化：Alleged CONK Token Launch 当前为“新出现”
+3. 记忆层变化：White House RTs Duffy Race Weekend 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
