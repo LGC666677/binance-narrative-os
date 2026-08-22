@@ -1,6 +1,6 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-22T14:07:43.340551+00:00
+- 生成时间：2026-08-22T14:34:26.455095+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
@@ -8,10 +8,10 @@
 ## 今日摘要
 
 - 当前最强叙事是 长江存储，所在链为 Solana，叙事强度 86.74。
-- 当前平均叙事强度为 81.13，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 CATE，来自 Solana，共振分数 100.0。
-- 记忆层显示 Dog Coins Are Also Dogs 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Uncertain:Binance Africa Weekend Post，伪叙事风险 42.03。
+- 当前平均叙事强度为 80.63，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
+- 记忆层显示 Uncertain:CZ Likes Cat Meme 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Red-bellied Squirrel Incident，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
@@ -20,81 +20,83 @@
   - 主题摘要：According to xiaoxian's post, Yangtze Memory is preparing for a major IPO with a fundraising target of approximately 33 billion RMB. The post highlights that AI-driven demand for…
   - 资金 100.00 / 广度 79.07 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bali Bull Pass | BSC | 降温中 | 强度 86.50 | 质量 77.25
-  - 主题摘要：Binance official account reposts Jessica Walker's 'Bull Pass' photo from Coinfest Asia in Bali. The image symbolizes the 'Bull Market' lifestyle with a tropical ocean background,…
-  - 资金 100.00 / 广度 91.19 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trumpcate Coin | Solana | 降温中 | 强度 83.19 | 质量 75.09
+- Trumpcate Coin | Solana | 降温中 | 强度 84.37 | 质量 75.10
   - 主题摘要：Multiple tokens named 「TRUMPCATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.43 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.47 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- mert: We Are Back | Solana | 降温中 | 强度 81.48 | 质量 71.46
-  - 主题摘要：According to mert's post, the author states "we are back." This brief announcement coincides with the existence of cryptocurrency tokens named "We Are Back" (WAB) and "We are so b…
-  - 资金 100.00 / 广度 82.79 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bitcoin Price Prediction | Solana | 降温中 | 强度 81.17 | 质量 77.01
+- Bitcoin Price Prediction | Solana | 降温中 | 强度 81.43 | 质量 77.02
   - 主题摘要：Multiple tokens named 「BitBull」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.83 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.88 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dog Coins Are Also Dogs | BSC | 加速中 | 强度 80.86 | 质量 76.98
-  - 主题摘要：According to the post, the author expresses a philosophical view on meme coins, stating that 'meme coins are also dogs' and that their fate is predetermined. This reflects a senti…
-  - 资金 100.00 / 广度 79.79 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 - Kiro Allegedly Launches HONK Token | Solana | 降温中 | 强度 80.51 | 质量 70.38
   - 主题摘要：Multiple tokens named 「CONK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.25 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.26 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance Africa Weekend Post | BSC | 点火期 | 强度 79.93 | 质量 80.23
+- Uncertain:Binance Africa Weekend Post | BSC | 点火期 | 强度 80.26 | 质量 80.51
   - 主题摘要：According to Binance Africa's post, the account shared a casual weekend update featuring a photo credited to @harymo_, describing the mood as 'swagged out'. The post serves as a l…
-  - 资金 100.00 / 广度 95.78 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 96.23 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Doge Meme Origin History | Solana | 降温中 | 强度 79.07 | 质量 69.96
-  - 主题摘要：According to Toochie WMI's post, the misspelled word "doge" used to refer to a dog dates back to June 24, 2005, appearing in an episode of Homestar Runner’s puppet show. This is i…
-  - 资金 100.00 / 广度 70.02 / 确认 4.32 / 脆弱性 14.00
+- mert: We Are Back | Solana | 降温中 | 强度 80.23 | 质量 71.47
+  - 主题摘要：According to mert's post, the author states "we are back." This brief announcement coincides with the existence of cryptocurrency tokens named "We Are Back" (WAB) and "We are so b…
+  - 资金 100.00 / 广度 82.89 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Red-bellied Squirrel Incident | BSC | 加速中 | 强度 78.81 | 质量 79.02
+- Bali Bull Pass | BSC | 降温中 | 强度 79.51 | 质量 73.71
+  - 主题摘要：Binance official account reposts Jessica Walker's 'Bull Pass' photo from Coinfest Asia in Bali. The image symbolizes the 'Bull Market' lifestyle with a tropical ocean background,…
+  - 资金 100.00 / 广度 90.73 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:CZ Likes Cat Meme | BSC | 点火期 | 强度 78.49 | 质量 74.10
+  - 主题摘要：Multiple tokens named 「CZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.80 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- SpaceX AI Manager Calls Crypto Insane | Solana | 降温中 | 强度 77.97 | 质量 65.05
+  - 主题摘要：According to d's post, an article from Yahoo Finance reports that a SpaceX AI manager described cryptocurrency and memecoins as "insane." The post questions the source of the arti…
+  - 资金 100.00 / 广度 72.14 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Dog Coins Are Also Dogs | BSC | 加速中 | 强度 77.48 | 质量 75.79
+  - 主题摘要：According to the post, the content expresses a philosophical view on 'local dog' tokens, stating that they are also dogs and have their own destiny. This reflects a sentiment with…
+  - 资金 100.00 / 广度 79.48 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- White House RTs Duffy Race Weekend | Solana | 降温中 | 强度 77.00 | 质量 63.54
+  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 99.91 / 广度 83.36 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Red-bellied Squirrel Incident | BSC | 点火期 | 强度 76.84 | 质量 76.55
   - 主题摘要：According to ZY✨BNB（努力)'s post, a man in Sichuan's Leshan Giant Buddha scenic area was filmed stepping on and killing a red-bellied squirrel. Despite tourists' objections, the man…
-  - 资金 100.00 / 广度 85.98 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Orphaned Polar Bear Meme Token | Solana | 降温中 | 强度 78.63 | 质量 71.31
-  - 主题摘要：According to Kova's post, tokens named 'Rai-kun' (The Orphaned Polar Bear) are allegedly launched based on a viral orphaned polar bear cub. This information is unverified. Please…
-  - 资金 100.00 / 广度 83.68 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.86 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Dog in Bun | Solana | 降温中 | 强度 76.79 | 质量 61.24
+  - 主题摘要：Multiple tokens named 「META」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.97 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DonaldSharpener | Solana | 加速中 | 强度 78.23 | 质量 72.60
-  - 主题摘要：Multiple tokens named 「DTS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.74 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged chAIn Token Narrative | BSC | 加速中 | 强度 77.48 | 质量 76.66
-  - 主题摘要：According to 777🔶BNB's post, the author analyzed the 'chAIn' tick in the Flap API for Binance Agents OS, interpreting it as 'Collective Human–Agent Intelligence Network'. The post…
-  - 资金 100.00 / 广度 97.93 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Flap Launches BNB Chain Token via AI | BSC | 加速中 | 强度 76.17 | 质量 76.34
-  - 主题摘要：According to Flap 🦋's post, the Flap team has launched a token on the BNB Chain using the Binance Agentic Wallet. The process involves installing specific skills within the wallet…
-  - 资金 100.00 / 广度 97.26 / 确认 20.16 / 脆弱性 24.00
+- Uncertain:Flap Launches BNB Chain Token via AI | BSC | 加速中 | 强度 76.05 | 质量 76.07
+  - 主题摘要：Multiple tokens named 「chAIn」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 96.94 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.13，其中已确认叙事 0 个。
-- Dog Coins Are Also Dogs 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Bali Bull Pass 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.63，其中已确认叙事 0 个。
+- Uncertain:CZ Likes Cat Meme 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Trumpcate Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:Binance Africa Weekend Post | 质量 80.23 | 可交易性 100.00 | 风险 低
-- Red-bellied Squirrel Incident | 质量 79.02 | 可交易性 100.00 | 风险 低
-- Bali Bull Pass | 质量 77.25 | 可交易性 99.80 | 风险 低
-- Bitcoin Price Prediction | 质量 77.01 | 可交易性 100.00 | 风险 低
-- Dog Coins Are Also Dogs | 质量 76.98 | 可交易性 99.39 | 风险 低
+- Uncertain:Binance Africa Weekend Post | 质量 80.51 | 可交易性 100.00 | 风险 低
+- Bitcoin Price Prediction | 质量 77.02 | 可交易性 100.00 | 风险 低
 - 长江存储 | 质量 76.95 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged chAIn Token Narrative | 质量 76.66 | 可交易性 98.42 | 风险 低
-- Uncertain:Flap Launches BNB Chain Token via AI | 质量 76.34 | 可交易性 100.00 | 风险 低
-- Trumpcate Coin | 质量 75.09 | 可交易性 100.00 | 风险 低
-- DonaldSharpener | 质量 72.60 | 可交易性 100.00 | 风险 低
+- Red-bellied Squirrel Incident | 质量 76.55 | 可交易性 97.15 | 风险 低
+- Uncertain:Flap Launches BNB Chain Token via AI | 质量 76.07 | 可交易性 99.00 | 风险 低
+- Dog Coins Are Also Dogs | 质量 75.79 | 可交易性 95.73 | 风险 低
+- Trumpcate Coin | 质量 75.10 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Likes Cat Meme | 质量 74.10 | 可交易性 93.07 | 风险 低
+- Bali Bull Pass | 质量 73.71 | 可交易性 98.61 | 风险 低
+- mert: We Are Back | 质量 71.47 | 可交易性 85.84 | 风险 低
 
 ## 伪叙事风险
 
+- Red-bellied Squirrel Incident | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 - Uncertain:Binance Africa Weekend Post | 风险 42.03 | 原因：流动性偏薄
+- Uncertain:CZ Likes Cat Meme | 风险 42.03 | 原因：流动性偏薄
 - Bitcoin Price Prediction | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -135,7 +137,7 @@
 
 今日币安叙事中枢观察：
 1. 当前最强叙事：长江存储（Solana，分数 86.74）
-2. 共振最强代币：CATE（Solana，共振 100.0）
-3. 记忆层变化：Dog Coins Are Also Dogs 当前为“新出现”
+2. 共振最强代币：ANSEM（Solana，共振 100.0）
+3. 记忆层变化：Uncertain:CZ Likes Cat Meme 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
