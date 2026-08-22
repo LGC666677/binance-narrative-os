@@ -1,6 +1,6 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-22T12:10:59.444289+00:00
+- 生成时间：2026-08-22T12:57:26.032204+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
@@ -8,10 +8,10 @@
 ## 今日摘要
 
 - 当前最强叙事是 长江存储，所在链为 Solana，叙事强度 86.74。
-- 当前平均叙事强度为 82.34，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ASTER，来自 BSC，共振分数 100.0。
-- 记忆层显示 Kiro Allegedly Launches HONK Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Bali Bull Pass，伪叙事风险 47.23。
+- 当前平均叙事强度为 82.58，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BTW，来自 BSC，共振分数 100.0。
+- 记忆层显示 Uncertain:Alleged chAIn Token Narrative 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 AGI Quant Allegedly Launches AI Meme Coin，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
@@ -20,96 +20,95 @@
   - 主题摘要：According to xiaoxian's post, Yangtze Memory is preparing for a major IPO with a fundraising target of approximately 33 billion RMB. The post highlights that AI-driven demand for…
   - 资金 100.00 / 广度 79.07 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk's Grandmaster of the Tower Halo | Solana | 降温中 | 强度 83.46 | 质量 75.54
+- Elon Musk's Grandmaster of the Tower Halo | Solana | 降温中 | 强度 84.69 | 质量 75.55
   - 主题摘要：Elon Musk retweeted a player's 'Grandmaster of the Tower' achievement and halo from Diablo IV, highlighting the title's coolness and the game's prestige. This viral moment connect…
-  - 资金 100.00 / 广度 84.95 / 确认 9.36 / 脆弱性 30.28
+  - 资金 100.00 / 广度 84.98 / 确认 9.36 / 脆弱性 20.29
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Comments on Childhood Book | Solana | 降温中 | 强度 83.13 | 质量 75.19
+- Uncertain:Alleged chAIn Token Narrative | BSC | 降温中 | 强度 84.38 | 质量 78.90
+  - 主题摘要：According to 777🔶BNB's post, the author analyzed the 'chAIn' tick in the Flap API for Binance Agents OS, interpreting it as 'Collective Human–Agent Intelligence Network'. The post…
+  - 资金 100.00 / 广度 93.49 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk Comments on Childhood Book | Solana | 降温中 | 强度 84.37 | 质量 75.20
   - 主题摘要：Elon Musk replies to a bio highlighting his childhood fascination with futuristic inventions and ion-thruster rockets, sparking nostalgia for his early sci-fi inspirations and roc…
-  - 资金 100.00 / 广度 83.78 / 确认 9.36 / 脆弱性 30.28
+  - 资金 100.00 / 广度 83.81 / 确认 9.36 / 脆弱性 20.29
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dog Coins Are Also Dogs | BSC | 加速中 | 强度 82.39 | 质量 77.20
-  - 主题摘要：According to the post, the author expresses a philosophical view on meme coins, stating that 'meme coins are also dogs' and that their fate is predetermined. This reflects a senti…
-  - 资金 100.00 / 广度 79.38 / 确认 24.48 / 脆弱性 14.00
+- Trumpcate Coin | Solana | 降温中 | 强度 83.03 | 质量 73.06
+  - 主题摘要：Multiple tokens named 「TRUMPCATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.67 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Flap Launches BNB Chain Token via AI | BSC | 加速中 | 强度 82.73 | 质量 80.38
+  - 主题摘要：According to Flap 🦋's post, the Flap team has launched a token on the BNB Chain using the Binance Agentic Wallet. The process involves installing specific skills within the wallet…
+  - 资金 100.00 / 广度 89.99 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Kim Mani Token | Solana | 降温中 | 强度 82.29 | 质量 75.10
-  - 主题摘要：According to omgXBT's post, the owner of the token named Mani is identified as Kim. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 84.86 / 确认 11.52 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- US XRP RESERVE | Solana | 降温中 | 强度 82.28 | 质量 71.87
+- US XRP RESERVE | Solana | 降温中 | 强度 82.35 | 质量 71.87
   - 主题摘要：Multiple tokens named 「USXR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.70 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.71 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Kiro Allegedly Launches HONK Token | Solana | 降温中 | 强度 81.15 | 质量 71.80
+- Kiro Allegedly Launches HONK Token | Solana | 降温中 | 强度 81.28 | 质量 71.84
   - 主题摘要：According to Kiro's post, the author suggests launching a token named 'HONK' based on a new Apple sticker resembling a duck, comparing it to the Bonk meme. This proposal reference…
-  - 资金 100.00 / 广度 72.46 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.59 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Doge Clone Fundraising | Solana | 加速中 | 强度 80.12 | 质量 65.57
+- Alleged Doge Clone Fundraising | Solana | 加速中 | 强度 80.20 | 质量 65.70
   - 主题摘要：According to McDevin's post, the author shared a Meme image related to Doge, proposing to raise funds to clone the dog. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 82.28 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.42 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- USOR | Solana | 降温中 | 强度 79.55 | 质量 68.49
-  - 主题摘要：Multiple tokens named 「USOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.45 / 确认 12.96 / 脆弱性 14.00
+- Red-bellied Squirrel Incident | BSC | 降温中 | 强度 79.52 | 质量 71.00
+  - 主题摘要：According to ZY✨BNB（努力)'s post, a man in Sichuan's Leshan Giant Buddha scenic area was filmed stepping on and killing a red-bellied squirrel. Despite tourists' objections, the man…
+  - 资金 100.00 / 广度 72.27 / 确认 15.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance Africa Weekend Post | BSC | 加速中 | 强度 77.93 | 质量 78.57
+- SpaceX AI Manager Calls Crypto Insane | Solana | 降温中 | 强度 77.99 | 质量 64.98
+  - 主题摘要：According to d's post, an article from Yahoo Finance reports that a SpaceX AI manager described cryptocurrency and memecoins as "insane." The post questions the source of the arti…
+  - 资金 100.00 / 广度 72.14 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Dog Coins Are Also Dogs | BSC | 加速中 | 强度 77.78 | 质量 76.97
+  - 主题摘要：According to the post, the author expresses a philosophical view on meme coins, stating that 'meme coins are also dogs' and that their fate is predetermined. This reflects a senti…
+  - 资金 100.00 / 广度 79.34 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Binance Africa Weekend Post | BSC | 点火期 | 强度 75.32 | 质量 75.58
   - 主题摘要：According to Binance Africa's post, the account shared a casual weekend update featuring a photo credited to @harymo_, describing the mood as 'swagged out'. The post serves as a l…
-  - 资金 100.00 / 广度 94.72 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nuadaeng Meme Image Gains Attention | BSC | 加速中 | 强度 74.28 | 质量 72.44
-  - 主题摘要：According to bane's post, the Nuadaeng Meme image is gaining significant attention due to its association with POPMART's blind box releases. The content highlights the trend of co…
-  - 资金 100.00 / 广度 86.09 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Maye Musk Visits MINISO | BSC | 点火期 | 强度 73.74 | 质量 65.78
-  - 主题摘要：According to Shanghai Daily's post, Maye Musk visited a MINISO store in Shanghai and purchased plush toys of clownfish from Bikini Bottom. This event highlights her engagement wit…
-  - 资金 100.00 / 广度 85.24 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.94 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Dirss Discusses Dog Stock Theory | BSC | 降温中 | 强度 70.51 | 质量 61.50
-  - 主题摘要：According to Dirss's post, the author questions the existence of the "Dog Stock Theory" and suggests that the combination of meme coins and stocks aligns with this concept. The po…
-  - 资金 100.00 / 广度 62.94 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bali Bull Pass | BSC | 点火期 | 强度 69.56 | 质量 67.04
-  - 主题摘要：Binance official account reposts Jessica Walker's 'Bull Pass' photo from Coinfest Asia in Bali. The image symbolizes the 'Bull Market' lifestyle with a tropical ocean background,…
-  - 资金 100.00 / 广度 89.29 / 确认 16.56 / 脆弱性 24.00
+- AGI Quant Allegedly Launches AI Meme Coin | BSC | 点火期 | 强度 74.06 | 质量 72.86
+  - 主题摘要：According to AGI Quant's post, the individual claims that Flap provided an AI Meme coin for operation, which has not yet been released. The post references the token $chAIn. This…
+  - 资金 100.00 / 广度 85.31 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.34，其中已确认叙事 0 个。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.58，其中已确认叙事 0 个。
+- Uncertain:Flap Launches BNB Chain Token via AI 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Elon Musk's Grandmaster of the Tower Halo 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:Binance Africa Weekend Post | 质量 78.57 | 可交易性 100.00 | 风险 低
-- Dog Coins Are Also Dogs | 质量 77.20 | 可交易性 100.00 | 风险 低
+- Uncertain:Flap Launches BNB Chain Token via AI | 质量 80.38 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged chAIn Token Narrative | 质量 78.90 | 可交易性 100.00 | 风险 低
+- Dog Coins Are Also Dogs | 质量 76.97 | 可交易性 99.29 | 风险 低
 - 长江存储 | 质量 76.95 | 可交易性 100.00 | 风险 低
-- Elon Musk's Grandmaster of the Tower Halo | 质量 75.54 | 可交易性 100.00 | 风险 低
-- Elon Musk Comments on Childhood Book | 质量 75.19 | 可交易性 100.00 | 风险 低
-- Alleged Kim Mani Token | 质量 75.10 | 可交易性 97.01 | 风险 低
-- Nuadaeng Meme Image Gains Attention | 质量 72.44 | 可交易性 87.28 | 风险 低
+- Uncertain:Binance Africa Weekend Post | 质量 75.58 | 可交易性 100.00 | 风险 低
+- Elon Musk's Grandmaster of the Tower Halo | 质量 75.55 | 可交易性 100.00 | 风险 低
+- Elon Musk Comments on Childhood Book | 质量 75.20 | 可交易性 100.00 | 风险 低
+- Trumpcate Coin | 质量 73.06 | 可交易性 100.00 | 风险 低
+- AGI Quant Allegedly Launches AI Meme Coin | 质量 72.86 | 可交易性 98.07 | 风险 低
 - US XRP RESERVE | 质量 71.87 | 可交易性 100.00 | 风险 低
-- Kiro Allegedly Launches HONK Token | 质量 71.80 | 可交易性 100.00 | 风险 低
-- USOR | 质量 68.49 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Bali Bull Pass | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Elon Musk's Grandmaster of the Tower Halo | 风险 44.26 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
-- Elon Musk Comments on Childhood Book | 风险 44.26 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
-- Maye Musk Visits MINISO | 风险 42.03 | 原因：流动性偏薄
+- AGI Quant Allegedly Launches AI Meme Coin | 风险 47.79 | 原因：流动性偏薄
+- Uncertain:Binance Africa Weekend Post | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - EVERYTHING | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- sauce | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Link | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - UPONLY | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BPAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 仙股 | BSC | 看多 | 新鲜度 99.42 | 暂无直接叙事映射
 - FLOPPY | Solana | 看多 | 新鲜度 91.29 | 暂无直接叙事映射
 - Basecat | Base | 看多 | 新鲜度 88.18 | 暂无直接叙事映射
-- HAT | BSC | 看多 | 新鲜度 87.18 | 暂无直接叙事映射
 - 股球 | BSC | 看多 | 新鲜度 80.22 | 暂无直接叙事映射
+- LIZARD | Solana | 看多 | 新鲜度 78.14 | 暂无直接叙事映射
+- 富贵 | BSC | 看多 | 新鲜度 75.87 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,7 +135,7 @@
 
 今日币安叙事中枢观察：
 1. 当前最强叙事：长江存储（Solana，分数 86.74）
-2. 共振最强代币：ASTER（BSC，共振 100.0）
-3. 记忆层变化：Kiro Allegedly Launches HONK Token 当前为“新出现”
+2. 共振最强代币：BTW（BSC，共振 100.0）
+3. 记忆层变化：Uncertain:Alleged chAIn Token Narrative 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
