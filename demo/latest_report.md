@@ -1,102 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-22T17:32:53.947292+00:00
+- 生成时间：2026-08-22T17:54:22.471626+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Pump.fun CATE Apple Pay，所在链为 Solana，叙事强度 87.09。
-- 当前平均叙事强度为 83.04，其中已确认叙事 0 个。
+- 当前最强叙事是 amazon，所在链为 Solana，叙事强度 87.8。
+- 当前平均叙事强度为 82.3，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
-- 记忆层显示 Pump.fun CATE Apple Pay 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Uncertain:Alleged Shao Yifu Coin，伪叙事风险 44.91。
+- 记忆层显示 amazon 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Trump Family Truth Coin Launch，伪叙事风险 54.14。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
 
-- Pump.fun CATE Apple Pay | Solana | 降温中 | 强度 87.09 | 质量 78.08
+- amazon | Solana | 降温中 | 强度 87.80 | 质量 79.35
+  - 主题摘要：Multiple tokens named 「Amazon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 97.63 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Pump.fun CATE Apple Pay | Solana | 降温中 | 强度 87.07 | 质量 78.06
   - 主题摘要：According to Pump.fun's post, the platform promotes the CATE token, encouraging users to purchase up to $1,500 via Apple Pay without KYC requirements to avoid missing investment o…
-  - 资金 100.00 / 广度 90.77 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.69 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Trump Family Truth Coin Launch | Solana | 降温中 | 强度 86.80 | 质量 79.74
-  - 主题摘要：According to Mario Presidente's post, rumors circulate that Trump Coins MULTISIG is launching a new token named TRUTH COIN (Ticker: TRUTH) on the Robinhood Chain, distinct from th…
-  - 资金 100.00 / 广度 100.00 / 确认 7.92 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Trump Family Token Launch | Solana | 降温中 | 强度 82.33 | 质量 76.09
-  - 主题摘要：According to goodalexander's post, the user expressed interest in purchasing the Kai Trump coin contingent upon the implementation of orchard pools. This statement reflects a spec…
-  - 资金 100.00 / 广度 91.67 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dog Coins Are Also Dogs | BSC | 加速中 | 强度 82.31 | 质量 75.96
-  - 主题摘要：According to the post, the content expresses a philosophical view on 'local dog' tokens, stating that they are also dogs and have their own destiny. This reflects a sentiment with…
-  - 资金 100.00 / 广度 80.12 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- United States Mineral Supply | Solana | 降温中 | 强度 82.03 | 质量 73.19
+- United States Mineral Supply | Solana | 降温中 | 强度 81.98 | 质量 73.19
   - 主题摘要：Multiple tokens named 「USMS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 80.79 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Kai Trump Coin | Solana | 点火期 | 强度 81.87 | 质量 75.86
-  - 主题摘要：Multiple tokens named 「KAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.10 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged TRUTH COIN Token | Solana | 降温中 | 强度 81.52 | 质量 70.61
-  - 主题摘要：Multiple tokens named 「WWW」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.28 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Luigi Wiglione Token | Solana | 降温中 | 强度 81.41 | 质量 74.40
-  - 主题摘要：According to bone's post, the name 'Luigi Wiglione' is associated with multiple tokens (WIGLIONE, LUIGI) launched on platforms like launchblitz.ai. This information is unverified.…
-  - 资金 94.67 / 广度 81.13 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bebo Shares Solana Meme | Solana | 降温中 | 强度 81.24 | 质量 74.21
-  - 主题摘要：Multiple tokens named 「WWW」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 94.85 / 广度 80.51 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Shao Yifu Coin | BSC | 点火期 | 强度 80.25 | 质量 76.44
+- Uncertain:Alleged Shao Yifu Coin | BSC | 加速中 | 强度 81.46 | 质量 78.07
   - 主题摘要：According to 0x楽's post, the author claims that Changpeng Zhao (CZ) discussed a charity token named after Shaw Yifu on Bitcointalk in 2012. The post alleges that CZ's old username…
-  - 资金 100.00 / 广度 85.31 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 蝴蝶人生 | BSC | 加速中 | 强度 76.62 | 质量 63.44
-  - 主题摘要：蝴蝶人生 (Butterfly Life) is a meme token inspired by the transformational journey of butterflies. It embodies the concept of personal growth and metamorphosis, resonating with crypto…
-  - 资金 100.00 / 广度 80.91 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.44 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- REDev Allegedly Launches Solcat | BSC | 降温中 | 强度 75.68 | 质量 60.51
-  - 主题摘要：According to REDev's post, the BASECAT token has reached a market capitalization of 500k on the Base network. REDev suggests that this milestone indicates it is time to direct att…
-  - 资金 100.00 / 广度 78.65 / 确认 9.36 / 脆弱性 14.00
+- Alleged TRUTH COIN Token | Solana | 降温中 | 强度 81.43 | 质量 70.44
+  - 主题摘要：Multiple tokens named 「WWW」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.06 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Neslie00 Questions BNB Logo as Suspected Cat Image | BSC | 降温中 | 强度 75.16 | 质量 59.35
-  - 主题摘要：According to Neslie00's post, the author questions whether the central element of the BNB logo resembles a cat, referencing the BNBCAT token. This observation highlights a visual…
-  - 资金 100.00 / 广度 77.99 / 确认 9.36 / 脆弱性 14.00
+- Alleged Luigi Wiglione Token | Solana | 降温中 | 强度 81.39 | 质量 74.43
+  - 主题摘要：According to bone's post, the name 'Luigi Wiglione' is associated with multiple tokens (WIGLIONE, LUIGI) launched on platforms like launchblitz.ai. This information is unverified.…
+  - 资金 94.45 / 广度 81.25 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:BNBCAT Origin Narrative | BSC | 降温中 | 强度 74.90 | 质量 59.35
-  - 主题摘要：According to BNBCAT's post, the BNBCAT token originated during Binance's early days, appearing in chats and screenshots before any official mascot existed. It is described as an u…
-  - 资金 100.00 / 广度 78.00 / 确认 9.36 / 脆弱性 14.00
+- Bebo Shares Solana Meme | Solana | 降温中 | 强度 81.23 | 质量 74.25
+  - 主题摘要：Multiple tokens named 「WWW」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 94.65 / 广度 80.64 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Dog Coins Are Also Dogs | BSC | 加速中 | 强度 78.86 | 质量 75.58
+  - 主题摘要：According to the post, the content expresses a philosophical view on 'local dog' tokens, stating that they are also dogs and have their own destiny. This reflects a sentiment with…
+  - 资金 100.00 / 广度 80.14 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Trump Family Truth Coin Launch | Solana | 点火期 | 强度 78.77 | 质量 79.74
+  - 主题摘要：According to Mario Presidente's post, rumors circulate that Trump Coins MULTISIG is launching a new token named TRUTH COIN (Ticker: TRUTH) on the Robinhood Chain, distinct from th…
+  - 资金 100.00 / 广度 100.00 / 确认 7.92 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Pump.fun Corrects $Jimothy Spelling | Solana | 降温中 | 强度 78.76 | 质量 67.33
+  - 主题摘要：According to Pump.fun's post, the official account corrected a user's comment regarding the spelling of the $Jimothy token, clarifying the correct name. This interaction highlight…
+  - 资金 100.00 / 广度 68.65 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 蝴蝶人生 | BSC | 加速中 | 强度 76.59 | 质量 63.38
+  - 主题摘要：蝴蝶人生 (Butterfly Life) is a meme token inspired by the transformational journey of butterflies. It embodies the concept of personal growth and metamorphosis, resonating with crypto…
+  - 资金 100.00 / 广度 80.92 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Flap Launches BNB Chain Token via AI | BSC | 加速中 | 强度 75.77 | 质量 73.26
+  - 主题摘要：According to Flap 🦋's post, the Flap team has launched a token on the BNB Chain using the Binance Agentic Wallet. The process involves installing specific skills within the wallet…
+  - 资金 100.00 / 广度 97.06 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Red-bellied Squirrel Incident | BSC | 点火期 | 强度 74.66 | 质量 73.95
+  - 主题摘要：According to ZY✨BNB（努力)'s post, a man in Sichuan's Leshan Giant Buddha scenic area was filmed stepping on and killing a red-bellied squirrel. Despite tourists' objections, the man…
+  - 资金 100.00 / 广度 84.92 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Alleged CZ Early Investment in FRSC | BSC | 降温中 | 强度 74.21 | 质量 60.34
+  - 主题摘要：According to 0x楽's post, CZ allegedly purchased the token FRSC (联储币) in January 2014, which predates other tokens mentioned in Bitcoin forums. The post suggests that if this early…
+  - 资金 100.00 / 广度 73.17 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.04，其中已确认叙事 0 个。
-- Pump.fun CATE Apple Pay 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.3，其中已确认叙事 0 个。
+- Uncertain:Flap Launches BNB Chain Token via AI 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- amazon 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Alleged Trump Family Truth Coin Launch | 质量 79.74 | 可交易性 100.00 | 风险 低
-- Pump.fun CATE Apple Pay | 质量 78.08 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Shao Yifu Coin | 质量 76.44 | 可交易性 100.00 | 风险 低
-- Alleged Trump Family Token Launch | 质量 76.09 | 可交易性 89.83 | 风险 低
-- Dog Coins Are Also Dogs | 质量 75.96 | 可交易性 95.14 | 风险 低
-- Alleged Kai Trump Coin | 质量 75.86 | 可交易性 89.63 | 风险 低
-- Alleged Luigi Wiglione Token | 质量 74.40 | 可交易性 100.00 | 风险 低
-- Bebo Shares Solana Meme | 质量 74.21 | 可交易性 100.00 | 风险 低
+- amazon | 质量 79.35 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Shao Yifu Coin | 质量 78.07 | 可交易性 100.00 | 风险 低
+- Pump.fun CATE Apple Pay | 质量 78.06 | 可交易性 100.00 | 风险 低
+- Dog Coins Are Also Dogs | 质量 75.58 | 可交易性 93.84 | 风险 低
+- Alleged Luigi Wiglione Token | 质量 74.43 | 可交易性 100.00 | 风险 低
+- Bebo Shares Solana Meme | 质量 74.25 | 可交易性 100.00 | 风险 低
+- Red-bellied Squirrel Incident | 质量 73.95 | 可交易性 89.43 | 风险 低
+- Uncertain:Flap Launches BNB Chain Token via AI | 质量 73.26 | 可交易性 99.73 | 风险 低
 - United States Mineral Supply | 质量 73.19 | 可交易性 100.00 | 风险 低
-- Alleged TRUTH COIN Token | 质量 70.61 | 可交易性 91.22 | 风险 低
 
 ## 伪叙事风险
 
-- Uncertain:Alleged Shao Yifu Coin | 风险 44.91 | 原因：流动性偏薄
-- Alleged Trump Family Truth Coin Launch | 风险 42.14 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Kai Trump Coin | 风险 42.03 | 原因：流动性偏薄
-- Alleged Luigi Wiglione Token | 风险 41.05 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Trump Family Truth Coin Launch | 风险 54.14 | 原因：流动性偏薄、近 1 小时净流入转负
+- Red-bellied Squirrel Incident | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Luigi Wiglione Token | 风险 41.28 | 原因：流动性偏薄、近 1 小时净流入转负
 - Bebo Shares Solana Meme | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -110,7 +110,7 @@
 - 股球 | BSC | 看多 | 新鲜度 80.22 | 暂无直接叙事映射
 - LIZARD | Solana | 看多 | 新鲜度 78.14 | 暂无直接叙事映射
 - 富贵 | BSC | 看多 | 新鲜度 75.87 | 暂无直接叙事映射
-- GAME | Base | 看多 | 新鲜度 74.37 | 暂无直接叙事映射
+- chAIn | BSC | 看多 | 新鲜度 75.51 | Uncertain:Flap Launches BNB Chain Token via AI
 
 ## 官方催化
 
@@ -136,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Pump.fun CATE Apple Pay（Solana，分数 87.09）
+1. 当前最强叙事：amazon（Solana，分数 87.8）
 2. 共振最强代币：TRUMP（Solana，共振 100.0）
-3. 记忆层变化：Pump.fun CATE Apple Pay 当前为“新出现”
+3. 记忆层变化：amazon 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
