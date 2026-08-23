@@ -1,6 +1,6 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-23T12:11:43.277112+00:00
+- 生成时间：2026-08-23T12:59:18.505454+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
@@ -8,10 +8,10 @@
 ## 今日摘要
 
 - 当前最强叙事是 Alleged MUMU Meme Coin Launch，所在链为 Solana，叙事强度 88.84。
-- 当前平均叙事强度为 83.39，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Elon's Space Cat 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Lucky Cat Meme Image and BTC Narrative，伪叙事风险 42.03。
+- 当前平均叙事强度为 71.0，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged PUMP Token Market Cap 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged CYBERLEEK Legal Action，伪叙事风险 45.02。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
@@ -20,81 +20,82 @@
   - 主题摘要：According to Esoteric's post, the author proposes launching a new MUMU the Bull token on Cashback, citing its 4chan lore and comparing it to other hype memes. The post claims the…
   - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- zeyang liu comments on VPN users | BSC | 加速中 | 强度 87.55 | 质量 79.89
-  - 主题摘要：According to zeyang liu's post, the author comments on individuals using VPNs to bypass internet restrictions, describing them as having boldness. The post references the term 'Fe…
-  - 资金 100.00 / 广度 88.36 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged CYBERLEEK Legal Action | Solana | 降温中 | 强度 86.70 | 质量 77.32
-  - 主题摘要：According to p0tpvp✴️'s post, CyberLeek was doxxed and is facing legal action in Germany. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 94.57 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Catcoin Default Meme | Solana | 降温中 | 强度 86.62 | 质量 77.28
-  - 主题摘要：According to d's post, a Tek founder suggested that the default Google search image for 'cat' could serve as the default Catcoin Meme image. The post highlights the widespread rec…
-  - 资金 100.00 / 广度 88.05 / 确认 13.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Uranium Reserve | Solana | 降温中 | 强度 85.23 | 质量 75.29
+- United States Uranium Reserve | Solana | 降温中 | 强度 86.28 | 质量 76.75
   - 主题摘要：Multiple tokens named 「USUR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.45 / 确认 12.96 / 脆弱性 10.00
+  - 资金 100.00 / 广度 86.32 / 确认 12.96 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nuro Comments on GTA 6 Leek | Solana | 降温中 | 强度 81.16 | 质量 75.58
-  - 主题摘要：According to Nuro's post, the individual expressed admiration for a visual element referred to as a "GTA 6 leek," describing it as "insane." This statement reflects a personal opi…
-  - 资金 100.00 / 广度 88.76 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Discusses Cat Schrödinger | Solana | 降温中 | 强度 80.74 | 质量 71.09
-  - 主题摘要：Elon Musk shared a personal anecdote about his cat, Schrödinger, stating that the feeling of affection was not reciprocated and that the cat subsequently disappeared. He noted tha…
-  - 资金 100.00 / 广度 70.10 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon's Space Cat | Solana | 降温中 | 强度 80.09 | 质量 71.37
+- Elon's Space Cat | Solana | 降温中 | 强度 82.95 | 质量 72.43
   - 主题摘要：Multiple tokens named 「CATALORIAN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 96.75 / 广度 74.73 / 确认 4.32 / 脆弱性 0.00
+  - 资金 100.00 / 广度 78.25 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged XYZ Meme Coin Launch | Solana | 降温中 | 强度 77.71 | 质量 67.20
-  - 主题摘要：According to BERT's post, Jupiter COO Kash Dhanda stated that pursuing wealth through memecoins is unviable. In response, BERT proposed launching an 'XYZ coin' to challenge this v…
-  - 资金 100.00 / 广度 60.84 / 确认 4.32 / 脆弱性 0.00
+- Alleged CYBERLEEK Legal Action | Solana | 降温中 | 强度 82.59 | 质量 75.30
+  - 主题摘要：According to p0tpvp✴️'s post, CyberLeek was doxxed and is facing legal action in Germany. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 87.83 / 确认 4.32 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged HashDog Meme Image Launch | BSC | 降温中 | 强度 71.03 | 质量 59.32
-  - 主题摘要：According to 夏雪宜's post, he proposes the creation of a Meme image named $HashDog. He claims that a 3% transaction tax would be directed to his address to purchase real Bitcoin min…
-  - 资金 100.00 / 广度 67.17 / 确认 16.56 / 脆弱性 14.00
+- Nuro Comments on GTA 6 Leek | Solana | 降温中 | 强度 81.54 | 质量 77.05
+  - 主题摘要：According to Nuro's post, the individual expressed admiration for a visual element referred to as a "GTA 6 leek," describing it as "insane." This statement reflects a personal opi…
+  - 资金 100.00 / 广度 91.04 / 确认 7.92 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Baudcoin | BSC | 加速中 | 强度 67.30 | 质量 61.30
-  - 主题摘要：Multiple tokens named 「BAUD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.70 / 确认 24.48 / 脆弱性 24.00
+- Alleged PUMP Token Market Cap | Solana | 降温中 | 强度 80.57 | 质量 70.88
+  - 主题摘要：According to ENJOYOOR ⛾'s post, the PUMP token has reached a market capitalization of 3.7 billion, with the author stating that the project is recovering and attributing this grow…
+  - 资金 100.00 / 广度 72.85 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Boltricks Dev: PUMP Token Surge | Solana | 降温中 | 强度 80.49 | 质量 70.88
+  - 主题摘要：Multiple tokens named 「PUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.85 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- zeyang liu comments on VPN users | BSC | 加速中 | 强度 78.96 | 质量 71.17
+  - 主题摘要：According to zeyang liu's post, the author comments on individuals using VPNs to bypass internet restrictions, describing them as having boldness. The post references the term 'Fe…
+  - 资金 100.00 / 广度 87.31 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CypherPunk | BSC | 降温中 | 强度 66.83 | 质量 49.38
-  - 主题摘要：CypherPunk is a community-driven meme token inspired by the fusion of crypto culture and punk aesthetics. It emphasizes decentralization and creative expression through NFT integr…
-  - 资金 100.00 / 广度 75.41 / 确认 9.36 / 脆弱性 14.00
+- WallStreetBets Respects Pump | Solana | 降温中 | 强度 78.78 | 质量 70.10
+  - 主题摘要：According to WallStreetBets's post, the account expressed support for market price increases by stating 'respect the pump'. This comment reflects a sentiment aligned with bullish…
+  - 资金 100.00 / 广度 73.54 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Lucky Cat Meme Image and BTC Narrative | BSC | 点火期 | 强度 66.54 | 质量 57.63
-  - 主题摘要：According to just a dev's post, the Lucky Cat Meme image combines the cat theme with the Bitcoin narrative, covering two popular trends in a single post.
-  - 资金 100.00 / 广度 75.61 / 确认 16.56 / 脆弱性 14.00
+- Uncertain:CZ Posts Bullish Final Form Meme | BSC | 降温中 | 强度 74.58 | 质量 59.70
+  - 主题摘要：CZ shared a Meme image on social media, stating that everyone knows he is bullish and that his "final form" has not yet been seen. This post references the "Bull B" token narrativ…
+  - 资金 100.00 / 广度 75.39 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged HashDog Meme Image Launch | BSC | 降温中 | 强度 70.85 | 质量 58.85
+  - 主题摘要：According to 夏雪宜's post, he proposes the creation of a Meme image named $HashDog. He claims that a 3% transaction tax would be directed to his address to purchase real Bitcoin min…
+  - 资金 100.00 / 广度 67.13 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- MOMO: AI Agents on BNB Chain | BSC | 降温中 | 强度 67.43 | 质量 51.57
+  - 主题摘要：According to MOMO🔸's post, AI agents are increasingly choosing the BNB Chain ecosystem. The post highlights that over 276,000 agents are active on the chain, representing 63.7% of…
+  - 资金 100.00 / 广度 64.62 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Félicette Space Cat | BSC | 点火期 | 强度 67.33 | 质量 57.67
+  - 主题摘要：According to 点子王🔶BNB's post, the SpaceCat Félicette Meme image references Félicette, the only cat to travel to space. The post highlights this historical fact in the context of th…
+  - 资金 100.00 / 广度 74.16 / 确认 15.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Eno Shares Info on Kabosu's Offspring Yomogi | BSC | 加速中 | 强度 66.27 | 质量 61.40
-  - 主题摘要：According to Eno's post, the user shared information regarding the adoption of a cat named Yomogi, identified as the mother of Kabosu. The post includes a link to the announcement…
-  - 资金 100.00 / 广度 88.33 / 确认 23.76 / 脆弱性 24.00
+- Baudcoin | BSC | 加速中 | 强度 66.86 | 质量 61.01
+  - 主题摘要：Multiple tokens named 「BAUD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.72 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.39，其中已确认叙事 0 个。
-- Lucky Cat Meme Image and BTC Narrative 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 71.0，其中已确认叙事 0 个。
+- Félicette Space Cat 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Alleged MUMU Meme Coin Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Alleged MUMU Meme Coin Launch | 质量 80.85 | 可交易性 100.00 | 风险 低
-- zeyang liu comments on VPN users | 质量 79.89 | 可交易性 100.00 | 风险 低
-- Alleged CYBERLEEK Legal Action | 质量 77.32 | 可交易性 100.00 | 风险 低
-- Alleged Catcoin Default Meme | 质量 77.28 | 可交易性 100.00 | 风险 低
-- Nuro Comments on GTA 6 Leek | 质量 75.58 | 可交易性 100.00 | 风险 低
-- United States Uranium Reserve | 质量 75.29 | 可交易性 100.00 | 风险 低
-- Elon's Space Cat | 质量 71.37 | 可交易性 100.00 | 风险 低
-- Elon Musk Discusses Cat Schrödinger | 质量 71.09 | 可交易性 100.00 | 风险 低
-- Alleged XYZ Meme Coin Launch | 质量 67.20 | 可交易性 100.00 | 风险 低
-- Eno Shares Info on Kabosu's Offspring Yomogi | 质量 61.40 | 可交易性 60.04 | 风险 低
+- Nuro Comments on GTA 6 Leek | 质量 77.05 | 可交易性 100.00 | 风险 低
+- United States Uranium Reserve | 质量 76.75 | 可交易性 100.00 | 风险 低
+- Alleged CYBERLEEK Legal Action | 质量 75.30 | 可交易性 100.00 | 风险 低
+- Elon's Space Cat | 质量 72.43 | 可交易性 100.00 | 风险 低
+- zeyang liu comments on VPN users | 质量 71.17 | 可交易性 72.50 | 风险 低
+- Alleged PUMP Token Market Cap | 质量 70.88 | 可交易性 96.54 | 风险 低
+- Boltricks Dev: PUMP Token Surge | 质量 70.88 | 可交易性 96.54 | 风险 低
+- WallStreetBets Respects Pump | 质量 70.10 | 可交易性 96.97 | 风险 低
+- Baudcoin | 质量 61.01 | 可交易性 47.71 | 风险 低
 
 ## 伪叙事风险
 
-- Lucky Cat Meme Image and BTC Narrative | 风险 42.03 | 原因：流动性偏薄
+- Alleged CYBERLEEK Legal Action | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
+- Félicette Space Cat | 风险 43.18 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -107,7 +108,7 @@
 - 仙股 | BSC | 看多 | 新鲜度 99.42 | 暂无直接叙事映射
 - FLOPPY | Solana | 看多 | 新鲜度 91.29 | 暂无直接叙事映射
 - Basecat | Base | 看多 | 新鲜度 88.18 | 暂无直接叙事映射
-- 股球 | BSC | 看多 | 新鲜度 80.22 | 暂无直接叙事映射
+- Melo | Solana | 看多 | 新鲜度 77.68 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,7 +135,7 @@
 
 今日币安叙事中枢观察：
 1. 当前最强叙事：Alleged MUMU Meme Coin Launch（Solana，分数 88.84）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Elon's Space Cat 当前为“新出现”
+2. 共振最强代币：TRUMP（Solana，共振 100.0）
+3. 记忆层变化：Alleged PUMP Token Market Cap 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
