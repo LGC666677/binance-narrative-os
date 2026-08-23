@@ -1,102 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-23T00:26:47.370561+00:00
+- 生成时间：2026-08-23T02:07:02.108574+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Adin Ross GTA 6 Payment，所在链为 Solana，叙事强度 87.23。
-- 当前平均叙事强度为 86.24，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged CYBERLEEK Token Doxxing 当前处于“新出现”状态。
+- 当前最强叙事是 World Oil Fund Institution，所在链为 Solana，叙事强度 88.08。
+- 当前平均叙事强度为 87.22，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TOAD，来自 Solana，共振分数 100.0。
+- 记忆层显示 World Oil Fund Institution 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Uncertain:Alleged Shao Yifu Coin，伪叙事风险 44.91。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
 
-- Adin Ross GTA 6 Payment | Solana | 加速中 | 强度 87.23 | 质量 79.85
-  - 主题摘要：Multiple tokens named 「CYBERLEEK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.37 / 确认 20.16 / 脆弱性 24.00
+- World Oil Fund Institution | Solana | 降温中 | 强度 88.08 | 质量 77.10
+  - 主题摘要：Multiple tokens named 「WOFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.13 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Sheep: PC Gamer Feature Cyberleek | Solana | 加速中 | 强度 87.25 | 质量 79.88
+  - 主题摘要：According to Sheep's post, the cryptocurrency token $CYBERLEEK received significant media attention after being featured in a PC Gamer article about the GTA 6 leaker. Sheep highli…
+  - 资金 100.00 / 广度 91.49 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Cyberleek Identity | Solana | 加速中 | 强度 87.23 | 质量 79.85
-  - 主题摘要：According to lola's post, the real name of the individual known as Cyberleek is allegedly Alejandro Gainax. This claim references a 13-year-old YouTube video and a linked Twitter…
-  - 资金 100.00 / 广度 91.37 / 确认 20.16 / 脆弱性 24.00
+- GTA VI Leaks and CyberLeek Threats | Solana | 加速中 | 强度 87.25 | 质量 79.88
+  - 主题摘要：Multiple tokens named 「CYBERLEEK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 91.49 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged CYBERLEEK Token Doxxing | Solana | 降温中 | 强度 86.31 | 质量 76.98
-  - 主题摘要：According to esoteric's post, the CYBERLEEK token (associated with GnomodelincuenT) has been fully doxxed. The quoted content identifies the individual behind the token as a Spani…
-  - 资金 100.00 / 广度 90.27 / 确认 8.64 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GTA 6 Leaker Cyberleek | Solana | 降温中 | 强度 85.83 | 质量 76.20
-  - 主题摘要：Multiple tokens named 「CYBERLEEK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.68 / 确认 8.64 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Sheep: PC Gamer Feature Cyberleek | Solana | 降温中 | 强度 85.83 | 质量 76.20
-  - 主题摘要：Multiple tokens named 「CYBERLEEK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.68 / 确认 8.64 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GTA VI Leaks and CyberLeek Threats | Solana | 降温中 | 强度 85.83 | 质量 76.20
-  - 主题摘要：According to RT's post, the CyberLeek group continues leaking GTA VI content for a third day, releasing a fifth video showing a protagonist shooting 'LEEK' into a wall. The group…
-  - 资金 100.00 / 广度 87.68 / 确认 8.64 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- lola verifies CYBERLEEK video | Solana | 降温中 | 强度 85.83 | 质量 76.20
+- lola verifies CYBERLEEK video | Solana | 加速中 | 强度 87.25 | 质量 79.88
   - 主题摘要：According to lola's post, the user verified the authenticity of a video related to the CYBERLEEK token, directing followers to check the video description for confirmation.
-  - 资金 100.00 / 广度 87.68 / 确认 8.64 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged TTWO Token Launch | Solana | 降温中 | 强度 85.83 | 质量 76.20
+  - 资金 100.00 / 广度 91.49 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged TTWO Token Launch | Solana | 加速中 | 强度 87.25 | 质量 79.88
   - 主题摘要：Multiple tokens named 「CYBERLEEK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.68 / 确认 8.64 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.49 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged GTA VI Hunt Meme | Solana | 加速中 | 强度 87.25 | 质量 79.88
+  - 主题摘要：According to Bebo's post, a Meme image related to a 'GTA Hunt' is going viral, suggesting a worldwide hunt for a leaker. This follows previous 'kitcat' and 'lego' heist memes. The…
+  - 资金 100.00 / 广度 91.49 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Adin Ross GTA 6 Payment | Solana | 降温中 | 强度 86.72 | 质量 79.19
+  - 主题摘要：Multiple tokens named 「CYBERLEEK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 91.83 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Shao Yifu Coin | BSC | 点火期 | 强度 80.11 | 质量 76.79
+- Alleged Cyberleek Identity | Solana | 降温中 | 强度 86.72 | 质量 79.19
+  - 主题摘要：According to lola's post, the real name of the individual known as Cyberleek is allegedly Alejandro Gainax. This claim references a 13-year-old YouTube video and a linked Twitter…
+  - 资金 100.00 / 广度 91.83 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged Shao Yifu Coin | BSC | 点火期 | 强度 81.00 | 质量 76.80
   - 主题摘要：According to 0x楽's post, the author claims that Changpeng Zhao (CZ) discussed a charity token named after Shaw Yifu on Bitcointalk in 2012. The post alleges that CZ's old username…
-  - 资金 100.00 / 广度 86.45 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.49 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Alleged CZ Early Investment in FRSC | BSC | 降温中 | 强度 77.83 | 质量 62.60
-  - 主题摘要：According to 0x楽's post, CZ allegedly purchased the token FRSC (联储币) in January 2014, which predates other tokens mentioned in Bitcoin forums. The post suggests that if this early…
-  - 资金 100.00 / 广度 83.39 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:BoredGrape Shares Flap Token Launch Guide | BSC | 降温中 | 强度 77.27 | 质量 65.60
-  - 主题摘要：According to BoredGrape's post, the user shared a guide on launching tokens on BNB Chain using the Flap protocol and Binance Agentic Wallet. The content outlines steps including i…
-  - 资金 100.00 / 广度 78.89 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蝴蝶人生 | BSC | 加速中 | 强度 77.10 | 质量 64.08
+- Uncertain:Flap Launches BNB Chain Token via AI | BSC | 加速中 | 强度 78.11 | 质量 75.99
+  - 主题摘要：According to Flap 🦋's post, the Flap team has launched a token on the BNB Chain using the Binance Agentic Wallet. The process involves installing specific skills within the wallet…
+  - 资金 100.00 / 广度 97.09 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 蝴蝶人生 | BSC | 加速中 | 强度 77.19 | 质量 64.17
   - 主题摘要：蝴蝶人生 (Butterfly Life) is a meme token inspired by the transformational journey of butterflies. It embodies the concept of personal growth and metamorphosis, resonating with crypto…
-  - 资金 100.00 / 广度 81.47 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.69 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Bitcat Meme Image Release | BSC | 点火期 | 强度 76.39 | 质量 76.07
-  - 主题摘要：According to Bitcoin's post, the account poses a question regarding the identification of a Bitcoin holder who acquired a whole coin ten years ago, referencing a value of $586. Th…
-  - 资金 100.00 / 广度 83.83 / 确认 16.56 / 脆弱性 14.00
+- Uncertain:Umair Nauman on BNB Cap | BSC | 加速中 | 强度 77.12 | 质量 67.13
+  - 主题摘要：Multiple tokens named 「BNBCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.04 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:BoredGrape Shares Flap Token Launch Guide | BSC | 降温中 | 强度 76.20 | 质量 62.25
+  - 主题摘要：According to BoredGrape's post, the user shared a guide on launching tokens on BNB Chain using the Flap protocol and Binance Agentic Wallet. The content outlines steps including i…
+  - 资金 100.00 / 广度 78.90 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Red-bellied Squirrel Incident | BSC | 点火期 | 强度 76.13 | 质量 73.75
+  - 主题摘要：According to ZY✨BNB（努力)'s post, a man in Sichuan's Leshan Giant Buddha scenic area was filmed stepping on and killing a red-bellied squirrel. Despite tourists' objections, the man…
+  - 资金 100.00 / 广度 84.87 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- B-Money and Bitcoin History | BSC | 加速中 | 强度 76.30 | 质量 63.75
-  - 主题摘要：According to frontrunner's post, Wei Dai developed B-Money in 1998, which is described as a precursor to Bitcoin. The post notes that Satoshi Nakamoto cited B-Money in the Bitcoin…
-  - 资金 100.00 / 广度 75.96 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 86.24，其中已确认叙事 0 个。
-- Alleged Bitcat Meme Image Release 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged CYBERLEEK Token Doxxing 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 87.22，其中已确认叙事 0 个。
+- Alleged GTA VI Hunt Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- World Oil Fund Institution 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Adin Ross GTA 6 Payment | 质量 79.85 | 可交易性 100.00 | 风险 低
-- Alleged Cyberleek Identity | 质量 79.85 | 可交易性 100.00 | 风险 低
-- Alleged CYBERLEEK Token Doxxing | 质量 76.98 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Shao Yifu Coin | 质量 76.79 | 可交易性 100.00 | 风险 低
-- GTA 6 Leaker Cyberleek | 质量 76.20 | 可交易性 100.00 | 风险 低
-- Sheep: PC Gamer Feature Cyberleek | 质量 76.20 | 可交易性 100.00 | 风险 低
-- GTA VI Leaks and CyberLeek Threats | 质量 76.20 | 可交易性 100.00 | 风险 低
-- lola verifies CYBERLEEK video | 质量 76.20 | 可交易性 100.00 | 风险 低
-- Alleged TTWO Token Launch | 质量 76.20 | 可交易性 100.00 | 风险 低
-- Alleged Bitcat Meme Image Release | 质量 76.07 | 可交易性 97.59 | 风险 低
+- Sheep: PC Gamer Feature Cyberleek | 质量 79.88 | 可交易性 100.00 | 风险 低
+- GTA VI Leaks and CyberLeek Threats | 质量 79.88 | 可交易性 100.00 | 风险 低
+- lola verifies CYBERLEEK video | 质量 79.88 | 可交易性 100.00 | 风险 低
+- Alleged TTWO Token Launch | 质量 79.88 | 可交易性 100.00 | 风险 低
+- Alleged GTA VI Hunt Meme | 质量 79.88 | 可交易性 100.00 | 风险 低
+- Adin Ross GTA 6 Payment | 质量 79.19 | 可交易性 100.00 | 风险 低
+- Alleged Cyberleek Identity | 质量 79.19 | 可交易性 100.00 | 风险 低
+- World Oil Fund Institution | 质量 77.10 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Shao Yifu Coin | 质量 76.80 | 可交易性 100.00 | 风险 低
+- Uncertain:Flap Launches BNB Chain Token via AI | 质量 75.99 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
 - Uncertain:Alleged Shao Yifu Coin | 风险 44.91 | 原因：流动性偏薄
-- Alleged Bitcat Meme Image Release | 风险 42.03 | 原因：流动性偏薄
-- Uncertain:BoredGrape Shares Flap Token Launch Guide | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Red-bellied Squirrel Incident | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -109,7 +108,7 @@
 - FLOPPY | Solana | 看多 | 新鲜度 91.29 | 暂无直接叙事映射
 - Basecat | Base | 看多 | 新鲜度 88.18 | 暂无直接叙事映射
 - 股球 | BSC | 看多 | 新鲜度 80.22 | 暂无直接叙事映射
-- 富贵 | BSC | 看多 | 新鲜度 75.87 | 暂无直接叙事映射
+- Melo | Solana | 看多 | 新鲜度 77.68 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -135,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Adin Ross GTA 6 Payment（Solana，分数 87.23）
-2. 共振最强代币：TRUMP（Solana，共振 100.0）
-3. 记忆层变化：Alleged CYBERLEEK Token Doxxing 当前为“新出现”
+1. 当前最强叙事：World Oil Fund Institution（Solana，分数 88.08）
+2. 共振最强代币：TOAD（Solana，共振 100.0）
+3. 记忆层变化：World Oil Fund Institution 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
