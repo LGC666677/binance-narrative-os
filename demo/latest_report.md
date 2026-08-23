@@ -1,101 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-23T17:52:59.626798+00:00
+- 生成时间：2026-08-23T18:09:12.322797+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Cybercat，所在链为 Solana，叙事强度 89.62。
-- 当前平均叙事强度为 81.79，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged CYBERBULL Token Proposal 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 CAT SEASON CLUB，伪叙事风险 45.71。
+- 当前最强叙事是 Cybercat，所在链为 Solana，叙事强度 89.63。
+- 当前平均叙事强度为 81.99，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 CATE，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged Trump Family Meme Token Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Binance: Luck vs BUIDL，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
 
-- Cybercat | Solana | 降温中 | 强度 89.62 | 质量 79.74
+- Cybercat | Solana | 降温中 | 强度 89.63 | 质量 79.74
   - 主题摘要：According to Star's post, the CYBERCAT token is being deployed on the LaunchMemestonk platform with Solana rewards for holders. This information is unverified. Please exercise cau…
   - 资金 100.00 / 广度 100.00 / 确认 7.92 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged CYBERBULL Token Proposal | Solana | 降温中 | 强度 82.37 | 质量 77.51
+- Alleged CYBERBULL Token Proposal | Solana | 降温中 | 强度 83.20 | 质量 77.52
   - 主题摘要：According to glerekk's post, the author proposes merging the CYBERLEEK and ANSEM'S BULL narratives into a single token named $CYBERBULL. This alleged token combines two existing m…
-  - 资金 100.00 / 广度 91.51 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.52 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - Alleged NiuLa Meme Image | Solana | 降温中 | 强度 82.36 | 质量 73.14
   - 主题摘要：According to 진짜 깜둥이's post, a Meme image titled 'Niu Lai' is described as a Nietzschean art piece and a potential Solana runner. This content references tokens such as NiuLa and N…
   - 资金 100.00 / 广度 80.62 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Marto Discusses $Ansem and $Marador | Solana | 加速中 | 强度 80.66 | 质量 73.46
+- Alleged USWS Token Migration Analysis | Solana | 降温中 | 强度 81.67 | 质量 70.26
+  - 主题摘要：According to Solana Memes Scanner's post, the token $USWS (United States Water Supply) is analyzed regarding its migration status, showing CTO and DEX as unavailable. The report h…
+  - 资金 100.00 / 广度 67.34 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged BNBdog Launch | BSC | 加速中 | 强度 81.19 | 质量 76.10
+  - 主题摘要：According to DOMINO on Bags's post, the BNBdog token is currently circulating with a supply of 8, attributed to its appearance on the Binance banner. The author identifies a dog i…
+  - 资金 100.00 / 广度 79.78 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Marto Discusses $Ansem and $Marador | Solana | 加速中 | 强度 80.77 | 质量 73.46
   - 主题摘要：According to Marto's post, the author asserts that the $Ansem project cannot operate without $Marador. Marto further notes that this specific dynamic is unprecedented and is curre…
   - 资金 100.00 / 广度 67.44 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AxTrades mentions Toadcoin | Solana | 降温中 | 强度 80.10 | 质量 66.58
+- AxTrades mentions Toadcoin | Solana | 降温中 | 强度 80.13 | 质量 66.65
   - 主题摘要：According to ⓞⓦⓛ's post, Mike Dudas is alleged to be conducting an exit scam involving the Tode token. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 79.96 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.97 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged USWS Token Migration Analysis | Solana | 降温中 | 强度 80.01 | 质量 69.88
-  - 主题摘要：According to Solana Memes Scanner's post, the token $USWS (United States Water Supply) is analyzed regarding its migration status, showing CTO and DEX as unavailable. The report h…
-  - 资金 100.00 / 广度 66.08 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CAT SEASON CLUB | Solana | 点火期 | 强度 79.73 | 质量 76.88
+- CAT SEASON CLUB | Solana | 点火期 | 强度 79.73 | 质量 76.87
   - 主题摘要：Multiple tokens named 「CATLIST」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.39 / 确认 9.36 / 脆弱性 10.00
+  - 资金 100.00 / 广度 89.38 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Poteto Coin Meme | Solana | 降温中 | 强度 79.48 | 质量 65.87
-  - 主题摘要：According to ִֶָ's post, the user claims that 'poteto coin' is being issued, referencing a GitHub repository and a specific summoning signal associated with the account 'poteto'.…
-  - 资金 100.00 / 广度 82.24 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged BNBdog Launch | BSC | 降温中 | 强度 78.16 | 质量 73.11
-  - 主题摘要：According to DOMINO on Bags's post, the BNBdog token is currently circulating with a supply of 8, attributed to its appearance on the Binance banner. The author identifies a dog i…
-  - 资金 100.00 / 广度 79.65 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Laser Cat Meme Image | BSC | 降温中 | 强度 76.76 | 质量 66.86
+- Alleged Laser Cat Meme Image | BSC | 加速中 | 强度 79.41 | 质量 67.81
   - 主题摘要：According to Mack's post, a video featuring a cat with laser-like golden eyes, described as a real-life 'Laser Gold Cat', has gained significant attention with 150,000 likes in a…
-  - 资金 100.00 / 广度 85.76 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- zeyang liu comments on VPN users | BSC | 加速中 | 强度 76.67 | 质量 69.90
-  - 主题摘要：According to zeyang liu's post, the author comments on individuals using VPNs to bypass internet restrictions, describing them as having boldness. The post references the term 'Fe…
-  - 资金 100.00 / 广度 87.72 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 85.82 / 确认 18.72 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Sir Doge of the Coin Meme | BSC | 降温中 | 强度 75.72 | 质量 65.33
-  - 主题摘要：According to Sir Doge of the Coin ⚔️'s post, the user shared a Meme image featuring a dog, captioned with 'Say hello to my little doge!'. The post serves as a casual social media…
-  - 资金 100.00 / 广度 78.62 / 确认 9.36 / 脆弱性 14.00
+- Alleged Trump Family Meme Token Launch | Solana | 降温中 | 强度 78.42 | 质量 67.36
+  - 主题摘要：Multiple tokens named 「BARRON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.55 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nimbus | BSC | 降温中 | 强度 75.33 | 质量 69.55
+- Binance: Luck vs BUIDL | BSC | 点火期 | 强度 76.90 | 质量 72.51
+  - 主题摘要：Binance official account contrasts passive 'luck' with active 'BUIDL' (building), highlighting the platform's core ethos of hard work and development over speculation.
+  - 资金 100.00 / 广度 82.03 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- zeyang liu comments on VPN users | BSC | 加速中 | 强度 76.52 | 质量 69.79
+  - 主题摘要：According to zeyang liu's post, the author comments on individuals using VPNs to bypass internet restrictions, describing them as having boldness. The post references the term 'Fe…
+  - 资金 100.00 / 广度 87.74 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Nimbus | BSC | 降温中 | 强度 76.13 | 质量 68.96
   - 主题摘要：According to kash's post, the individual stated they are leaving Memeland immediately. This declaration follows a comment suggesting their return to the meme culture space, indica…
-  - 资金 100.00 / 广度 84.57 / 确认 7.92 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.57 / 确认 7.92 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Gaze Proposes Broccoli as BNBDOG | BSC | 加速中 | 强度 72.19 | 质量 62.81
+- Uncertain:Gaze Proposes Broccoli as BNBDOG | BSC | 加速中 | 强度 72.07 | 质量 62.95
   - 主题摘要：According to Gaze's post, Gaze suggests that CZ should designate his dog, Broccoli, as the BNBDOG token, drawing a parallel to the existence of BNBCAT. Gaze argues that since Broc…
-  - 资金 100.00 / 广度 69.87 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 70.13 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.79，其中已确认叙事 0 个。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.99，其中已确认叙事 0 个。
+- Binance: Luck vs BUIDL 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - Cybercat 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Cybercat | 质量 79.74 | 可交易性 100.00 | 风险 低
-- Alleged CYBERBULL Token Proposal | 质量 77.51 | 可交易性 100.00 | 风险 低
-- CAT SEASON CLUB | 质量 76.88 | 可交易性 100.00 | 风险 低
+- Alleged CYBERBULL Token Proposal | 质量 77.52 | 可交易性 100.00 | 风险 低
+- CAT SEASON CLUB | 质量 76.87 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged BNBdog Launch | 质量 76.10 | 可交易性 99.11 | 风险 低
 - Marto Discusses $Ansem and $Marador | 质量 73.46 | 可交易性 100.00 | 风险 低
 - Alleged NiuLa Meme Image | 质量 73.14 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged BNBdog Launch | 质量 73.11 | 可交易性 96.95 | 风险 低
-- zeyang liu comments on VPN users | 质量 69.90 | 可交易性 70.49 | 风险 低
-- Alleged USWS Token Migration Analysis | 质量 69.88 | 可交易性 100.00 | 风险 低
-- Nimbus | 质量 69.55 | 可交易性 95.76 | 风险 低
-- Alleged Laser Cat Meme Image | 质量 66.86 | 可交易性 74.90 | 风险 低
+- Binance: Luck vs BUIDL | 质量 72.51 | 可交易性 92.82 | 风险 低
+- Alleged USWS Token Migration Analysis | 质量 70.26 | 可交易性 100.00 | 风险 低
+- zeyang liu comments on VPN users | 质量 69.79 | 可交易性 70.11 | 风险 低
+- Nimbus | 质量 68.96 | 可交易性 95.76 | 风险 低
 
 ## 伪叙事风险
 
+- Binance: Luck vs BUIDL | 风险 47.79 | 原因：流动性偏薄
 - CAT SEASON CLUB | 风险 45.71 | 原因：近 1 小时净流入转负
-- Nimbus | 风险 42.14 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged USWS Token Migration Analysis | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Trump Family Meme Token Launch | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -134,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Cybercat（Solana，分数 89.62）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Alleged CYBERBULL Token Proposal 当前为“新出现”
+1. 当前最强叙事：Cybercat（Solana，分数 89.63）
+2. 共振最强代币：CATE（Solana，共振 100.0）
+3. 记忆层变化：Alleged Trump Family Meme Token Launch 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
