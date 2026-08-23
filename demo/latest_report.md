@@ -1,6 +1,6 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-23T05:59:15.250112+00:00
+- 生成时间：2026-08-23T06:35:41.369102+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
@@ -8,9 +8,10 @@
 ## 今日摘要
 
 - 当前最强叙事是 World Oil Fund Institution，所在链为 Solana，叙事强度 89.92。
-- 当前平均叙事强度为 83.64，其中已确认叙事 0 个。
+- 当前平均叙事强度为 83.85，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 CATE，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Catcoin Default Meme 当前处于“新出现”状态。
+- 记忆层显示 Alleged MUMU Meme Coin Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Bitcoin Cow Bitkoinka，伪叙事风险 42.03。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)。
 
 ## 叙事雷达
@@ -19,79 +20,81 @@
   - 主题摘要：Multiple tokens named 「WOFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GTA 6 Leaker Cyberleek | Solana | 加速中 | 强度 89.44 | 质量 81.31
+- GTA 6 Leaker Cyberleek | Solana | 降温中 | 强度 87.42 | 质量 78.56
   - 主题摘要：Multiple tokens named 「CYBERLEEK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.60 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Eno Shares Info on Kabosu's Offspring Yomogi | BSC | 加速中 | 强度 87.33 | 质量 79.99
+  - 资金 100.00 / 广度 92.37 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Eno Shares Info on Kabosu's Offspring Yomogi | BSC | 加速中 | 强度 87.28 | 质量 79.92
   - 主题摘要：According to Eno's post, the user shared information regarding the adoption of a cat named Yomogi, identified as the mother of Kabosu. The post includes a link to the announcement…
-  - 资金 100.00 / 广度 89.21 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.98 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- amazon | Solana | 降温中 | 强度 84.19 | 质量 75.10
-  - 主题摘要：Multiple tokens named 「Amazon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 95.57 / 广度 83.46 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Catcoin Default Meme | Solana | 降温中 | 强度 82.78 | 质量 74.42
+- Alleged Catcoin Default Meme | Solana | 降温中 | 强度 85.21 | 质量 75.81
   - 主题摘要：Multiple tokens named 「CAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.55 / 确认 13.00 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.17 / 确认 13.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Diddy Coin Launch | Solana | 加速中 | 强度 82.09 | 质量 73.89
+- Alleged Diddy Coin Launch | Solana | 加速中 | 强度 83.61 | 质量 74.17
   - 主题摘要：According to sling's post, the phrase 'time to diddy' is interpreted as a reference to the alleged launch of Diddy Coin (DIDDY) on Solana. This information is unverified. Please e…
-  - 资金 100.00 / 广度 71.51 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 72.45 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- United States Oil Collective | Solana | 降温中 | 强度 80.55 | 质量 68.84
+- Alleged MUMU Meme Coin Launch | Solana | 降温中 | 强度 83.34 | 质量 73.09
+  - 主题摘要：According to Esoteric's post, the author claims to be launching a new MUMU the Bull Meme image-based token on Cashback, citing its 4chan lore and comparing it to other hype memes.…
+  - 资金 100.00 / 广度 76.76 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- United States Oil Collective | Solana | 降温中 | 强度 81.21 | 质量 69.52
   - 主题摘要：Multiple tokens named 「USOC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.31 / 确认 4.32 / 脆弱性 0.00
+  - 资金 100.00 / 广度 68.55 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Barron Token Speculation | Solana | 降温中 | 强度 80.41 | 质量 69.11
+- Alleged Barron Token Speculation | Solana | 降温中 | 强度 80.45 | 质量 69.10
   - 主题摘要：According to gettindevvy_'s post, the author speculates that a token associated with Barron Trump is the next potential market mover, following the recent surge in Trump-related c…
-  - 资金 100.00 / 广度 76.74 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.71 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Eno Shares Info on Kabosu's Offspring Yomogi | Solana | 加速中 | 强度 79.76 | 质量 80.06
+- Eno Shares Info on Kabosu's Offspring Yomogi | Solana | 加速中 | 强度 79.66 | 质量 80.08
   - 主题摘要：According to Sir.Devorski's post, the user shared a link to a book titled 'NyAERA 2026' available on Amazon, noting its publication in February. The post mentions 'Larp at 900K' a…
-  - 资金 100.00 / 广度 88.91 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.99 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- zeyang liu comments on VPN users | BSC | 加速中 | 强度 76.48 | 质量 66.56
+- Flap x Aerodrome Staking Contest | BSC | 加速中 | 强度 74.53 | 质量 69.85
+  - 主题摘要：According to Flap 🦋's post, the Flap x Aerodrome Staking Community Contest, powered by Bybit, allows users to stake tokens purchased on flap.sh via the Aerodrome DApp for a 52% AP…
+  - 资金 100.00 / 广度 75.13 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- zeyang liu comments on VPN users | BSC | 加速中 | 强度 72.63 | 质量 57.03
   - 主题摘要：According to zeyang liu's post, the author comments on individuals using VPNs to bypass internet restrictions, describing them as having boldness. The post references the term 'Fe…
-  - 资金 100.00 / 广度 78.11 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.26 / 确认 23.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- B-Money and Bitcoin History | BSC | 加速中 | 强度 71.29 | 质量 63.20
+- B-Money and Bitcoin History | BSC | 加速中 | 强度 71.64 | 质量 63.30
   - 主题摘要：According to frontrunner's post, Wei Dai developed B-Money in 1998, which is described as a precursor to Bitcoin. The post notes that Satoshi Nakamoto cited B-Money in the Bitcoin…
-  - 资金 100.00 / 广度 77.36 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.38 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Smoke Cat Meme Image by 尖顶🔶BNB | BSC | 降温中 | 强度 70.22 | 质量 56.40
-  - 主题摘要：According to 尖顶🔶BNB's post, the author observed a viral cat-related Meme image with over one million views and stated that it is currently the 'cat season.' Consequently, 尖顶🔶BNB r…
-  - 资金 100.00 / 广度 69.25 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Bitcat Meme Image Release | BSC | 加速中 | 强度 69.71 | 质量 67.22
-  - 主题摘要：According to Bitcoin's post, the account challenges its audience to identify a specific Bitcoin holder who possesses a whole coin acquired ten years ago, valued at approximately $…
-  - 资金 100.00 / 广度 84.32 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Baudcoin | BSC | 加速中 | 强度 68.69 | 质量 61.86
+- Alleged Bitcoin Cow Bitkoinka | BSC | 点火期 | 强度 69.80 | 质量 58.33
+  - 主题摘要：According to kele's post, the user shares information regarding a cow named Bitkoinka, allegedly the first cow purchased and named with Bitcoin, and claims it was reported by the…
+  - 资金 100.00 / 广度 75.44 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Baudcoin | BSC | 加速中 | 强度 68.78 | 质量 61.91
   - 主题摘要：Multiple tokens named 「BAUD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.42 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.47 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.64，其中已确认叙事 0 个。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.85，其中已确认叙事 0 个。
+- Flap x Aerodrome Staking Contest 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - World Oil Fund Institution 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- GTA 6 Leaker Cyberleek | 质量 81.31 | 可交易性 100.00 | 风险 低
+- Eno Shares Info on Kabosu's Offspring Yomogi | 质量 80.08 | 可交易性 100.00 | 风险 低
 - World Oil Fund Institution | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Eno Shares Info on Kabosu's Offspring Yomogi | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Eno Shares Info on Kabosu's Offspring Yomogi | 质量 79.99 | 可交易性 100.00 | 风险 低
-- amazon | 质量 75.10 | 可交易性 100.00 | 风险 低
-- Alleged Catcoin Default Meme | 质量 74.42 | 可交易性 100.00 | 风险 低
-- Alleged Diddy Coin Launch | 质量 73.89 | 可交易性 100.00 | 风险 低
-- Alleged Barron Token Speculation | 质量 69.11 | 可交易性 86.75 | 风险 低
-- United States Oil Collective | 质量 68.84 | 可交易性 100.00 | 风险 低
-- Alleged Bitcat Meme Image Release | 质量 67.22 | 可交易性 80.66 | 风险 低
+- Eno Shares Info on Kabosu's Offspring Yomogi | 质量 79.92 | 可交易性 100.00 | 风险 低
+- GTA 6 Leaker Cyberleek | 质量 78.56 | 可交易性 100.00 | 风险 低
+- Alleged Catcoin Default Meme | 质量 75.81 | 可交易性 100.00 | 风险 低
+- Alleged Diddy Coin Launch | 质量 74.17 | 可交易性 100.00 | 风险 低
+- Alleged MUMU Meme Coin Launch | 质量 73.09 | 可交易性 100.00 | 风险 低
+- Flap x Aerodrome Staking Contest | 质量 69.85 | 可交易性 82.91 | 风险 低
+- United States Oil Collective | 质量 69.52 | 可交易性 100.00 | 风险 低
+- Alleged Barron Token Speculation | 质量 69.10 | 可交易性 86.75 | 风险 低
 
 ## 伪叙事风险
 
+- Alleged Bitcoin Cow Bitkoinka | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -132,6 +135,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：World Oil Fund Institution（Solana，分数 89.92）
 2. 共振最强代币：CATE（Solana，共振 100.0）
-3. 记忆层变化：Alleged Catcoin Default Meme 当前为“新出现”
+3. 记忆层变化：Alleged MUMU Meme Coin Launch 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
 #Binance #NarrativeOS #OpenClaw
