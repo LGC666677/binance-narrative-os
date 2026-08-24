@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-24T18:18:46.424456+00:00
+- 生成时间：2026-08-24T19:06:29.966396+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 CITRINI，所在链为 Solana，叙事强度 87.02。
-- 当前平均叙事强度为 83.09，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
-- 记忆层显示 ANSEM COIN Launch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Trump Education Freedom，伪叙事风险 50.11。
+- 当前最强叙事是 CITRINI，所在链为 Solana，叙事强度 87.22。
+- 当前平均叙事强度为 84.09，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 BNBCAT，来自 BSC，共振分数 100.0。
+- 记忆层显示 cvxv666 Alleged Grok Bot Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Trump Education Freedom，伪叙事风险 44.91。
 - 最新官方催化来自 最新活动：Brazil New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 15% APR!。
 
 ## 叙事雷达
 
-- CITRINI | Solana | 加速中 | 强度 87.02 | 质量 79.95
-  - 主题摘要：Multiple tokens named 「CITRINI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.26 / 确认 19.44 / 脆弱性 14.00
+- CITRINI | Solana | 加速中 | 强度 87.22 | 质量 79.95
+  - 主题摘要：According to Citrini's post, the author expressed strong frustration with the internet, stating 'God, I hate the internet' in a reply to @Phineas_Sol. This statement reflects a pe…
+  - 资金 100.00 / 广度 92.24 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Catcus Posts Sleepy Content | Solana | 降温中 | 强度 86.03 | 质量 76.50
-  - 主题摘要：According to Catcus's post, the author shared a message expressing extreme sleepiness with the phrase "really-really slipy meow!" and added a final warning. The content is a casua…
-  - 资金 100.00 / 广度 88.14 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MCX | Solana | 降温中 | 强度 85.42 | 质量 73.65
+- MCX | Solana | 降温中 | 强度 85.43 | 质量 73.66
   - 主题摘要：Multiple tokens named 「MCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.64 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 78.67 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Tom Advocates Holding LARP | Solana | 降温中 | 强度 84.53 | 质量 77.13
+- Tom Advocates Holding LARP | Solana | 降温中 | 强度 84.48 | 质量 77.15
   - 主题摘要：According to Tom's post, investors are advised not to dismiss LARP and to hold positions to avoid missing out on potential gains from whale wallets. Tom emphasizes that the LARP s…
-  - 资金 100.00 / 广度 84.94 / 确认 16.56 / 脆弱性 19.30
+  - 资金 100.00 / 广度 85.02 / 确认 16.56 / 脆弱性 19.14
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Meeko Token | Solana | 加速中 | 强度 81.67 | 质量 77.72
+- Alleged Meeko Token | Solana | 加速中 | 强度 84.41 | 质量 80.34
   - 主题摘要：According to 莉兹🔶BNB's post, the Shiba Inu meme character has returned with a new character named "Meeko," which is alleged to be the next Doge. This has led to discussions regardi…
-  - 资金 100.00 / 广度 87.54 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.38 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ANSEM COIN Launch | Solana | 降温中 | 强度 81.65 | 质量 71.60
-  - 主题摘要：According to ANSEM COIN's post, the project officially launched the ANSEM COIN token, positioning it as the final form following previous iterations. The post highlights the token…
-  - 资金 100.00 / 广度 71.81 / 确认 9.36 / 脆弱性 14.00
+- cvxv666 Alleged Grok Bot Token | Solana | 降温中 | 强度 83.98 | 质量 74.09
+  - 主题摘要：According to cvxv666's post, an unverified token was allegedly launched based on their Grok Bot AI trading fund, with fees directed to their wallet. cvxv666 stated they did not au…
+  - 资金 100.00 / 广度 77.46 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Space Shiba Meme Image | BSC | 降温中 | 强度 80.32 | 质量 67.85
-  - 主题摘要：According to ChillDeer's post, the user shared a Meme image claiming that NASA deployed a 'Space Shiba'. This post references unrelated NASA research regarding Earth's orbit and s…
-  - 资金 100.00 / 广度 78.54 / 确认 9.36 / 脆弱性 14.00
+- Elon Musk's Grok AI | Solana | 降温中 | 强度 83.42 | 质量 73.20
+  - 主题摘要：According to the post, Elon Musk realizes that his $300 Grok Bot performs tasks equivalent to a $294,000 Wall Street research desk. The creator of the bot shared all prompts for f…
+  - 资金 100.00 / 广度 74.49 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Construction Cat Meme Image | BSC | 加速中 | 强度 79.55 | 质量 78.46
-  - 主题摘要：According to figz's post, a construction crew in Ohio rescued a kitten named Sue, who wears a yellow hard hat resembling BNB branding. figz claims this cat is tailored for BNB, re…
-  - 资金 100.00 / 广度 85.54 / 确认 24.48 / 脆弱性 24.00
+- Alleged Construction Cat Meme Image | BSC | 加速中 | 强度 82.19 | 质量 78.85
+  - 主题摘要：Multiple tokens named 「Sue」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.66 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged GTA VI Wasted Meme | Solana | 降温中 | 强度 79.37 | 质量 66.76
-  - 主题摘要：According to Void's post, the 'WASTED' image from GTA VI has been revealed, predicting viral spread. Void claims the WASTED token is allegedly launched, but this information is un…
-  - 资金 100.00 / 广度 75.01 / 确认 9.36 / 脆弱性 14.00
+- Alleged GTA 6 Wasted Meme | Solana | 降温中 | 强度 82.04 | 质量 69.81
+  - 主题摘要：According to onzhainmozart's post, the user shared a quoted tweet claiming a new GTA 6 leak includes the legendary 'Wasted' text. This content references the WASTED token symbol a…
+  - 资金 100.00 / 广度 80.90 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- YangChul Shares CNN Disruption Meme | Solana | 降温中 | 强度 79.06 | 质量 69.18
-  - 主题摘要：According to YangChul's post, YangChul shared a Meme image referencing a CNN broadcast disruption. The post highlights the 'SYRIAN ELECTRIONIC ARMY' in relation to the quoted cont…
-  - 资金 100.00 / 广度 63.73 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Meeko Token | BSC | 加速中 | 强度 78.77 | 质量 69.33
-  - 主题摘要：According to 莉兹🔶BNB's post, the internet meme Shiba character has returned with a new character named "Meeko," which is alleged to be the next Doge. This content is associated wit…
-  - 资金 100.00 / 广度 86.68 / 确认 24.48 / 脆弱性 14.00
+- SMOLCAT | Solana | 加速中 | 强度 81.77 | 质量 73.67
+  - 主题摘要：SMOLCAT is a meme token inspired by internet cat culture, featuring a cartoon cat in a blue sweater as its logo. The project emphasizes community engagement through meme contests…
+  - 资金 100.00 / 广度 70.78 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He Debunks Fake CZ Scam | BSC | 加速中 | 强度 77.68 | 质量 74.02
+- Trump Education Freedom | BSC | 点火期 | 强度 80.60 | 质量 78.53
+  - 主题摘要：The White House announced that President Donald J. Trump has restored education freedom to families across America, highlighting the letter 'F' for FREEDOM.
+  - 资金 100.00 / 广度 92.27 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- DCA Strategy Discussion | BSC | 加速中 | 强度 78.05 | 质量 76.71
+  - 主题摘要：According to the post, the content expresses support for Dollar-Cost Averaging (DCA) investment strategies, specifically referencing Michael Saylor and MicroStrategy. The post cha…
+  - 资金 100.00 / 广度 80.90 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- White House Crypto Article | BSC | 点火期 | 强度 77.51 | 质量 74.10
+  - 主题摘要：The White House published an article on X, linking to a specific article ID. The post serves as an official communication channel for the administration, with the bio highlighting…
+  - 资金 100.00 / 广度 89.62 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Yi He Debunks Fake CZ Scam | BSC | 加速中 | 强度 77.25 | 质量 73.16
   - 主题摘要：Binance Co-CEO Yi He warns the community about fraudulent 'Binance Mall' and fake CZ ground promotion schemes, clarifying that CZ does not use WeChat. This highlights the ongoing…
   - 资金 100.00 / 广度 96.05 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Tiffany Discusses Film 'Bull Come' | BSC | 降温中 | 强度 77.55 | 质量 70.10
-  - 主题摘要：According to Tiffany's post, she discusses the film 'Bull Arrival' and its sequel 'Bull Arrival'. She highlights that the sequel 'Bull Arrival' was created by a mother and son duo…
-  - 资金 100.00 / 广度 77.62 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump Education Freedom | BSC | 点火期 | 强度 77.35 | 质量 75.86
-  - 主题摘要：The White House announced that President Donald J. Trump has restored education freedom to families across America, highlighting the letter 'F' for FREEDOM.
-  - 资金 100.00 / 广度 88.06 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Meeko Token | BSC | 加速中 | 强度 76.64 | 质量 69.02
+  - 主题摘要：According to 莉兹🔶BNB's post, the internet meme Shiba character has returned with a new character named "Meeko," which is alleged to be the next Doge. This content is associated wit…
+  - 资金 100.00 / 广度 86.96 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.09，其中已确认叙事 0 个。
-- Yi He Debunks Fake CZ Scam 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Catcus Posts Sleepy Content 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.09，其中已确认叙事 0 个。
+- SMOLCAT 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- MCX 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
+- Alleged Meeko Token | 质量 80.34 | 可交易性 100.00 | 风险 低
 - CITRINI | 质量 79.95 | 可交易性 100.00 | 风险 低
-- Alleged Construction Cat Meme Image | 质量 78.46 | 可交易性 98.03 | 风险 低
-- Alleged Meeko Token | 质量 77.72 | 可交易性 93.56 | 风险 低
-- Tom Advocates Holding LARP | 质量 77.13 | 可交易性 100.00 | 风险 低
-- Catcus Posts Sleepy Content | 质量 76.50 | 可交易性 100.00 | 风险 低
-- Trump Education Freedom | 质量 75.86 | 可交易性 95.30 | 风险 低
-- Yi He Debunks Fake CZ Scam | 质量 74.02 | 可交易性 100.00 | 风险 低
-- MCX | 质量 73.65 | 可交易性 100.00 | 风险 低
-- ANSEM COIN Launch | 质量 71.60 | 可交易性 100.00 | 风险 低
-- Tiffany Discusses Film 'Bull Come' | 质量 70.10 | 可交易性 83.91 | 风险 低
+- Alleged Construction Cat Meme Image | 质量 78.85 | 可交易性 99.23 | 风险 低
+- Trump Education Freedom | 质量 78.53 | 可交易性 100.00 | 风险 低
+- Tom Advocates Holding LARP | 质量 77.15 | 可交易性 100.00 | 风险 低
+- DCA Strategy Discussion | 质量 76.71 | 可交易性 100.00 | 风险 低
+- White House Crypto Article | 质量 74.10 | 可交易性 93.34 | 风险 低
+- cvxv666 Alleged Grok Bot Token | 质量 74.09 | 可交易性 100.00 | 风险 低
+- SMOLCAT | 质量 73.67 | 可交易性 100.00 | 风险 低
+- MCX | 质量 73.66 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Trump Education Freedom | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Trump Education Freedom | 风险 44.91 | 原因：流动性偏薄
+- White House Crypto Article | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CITRINI（Solana，分数 87.02）
-2. 共振最强代币：TRUMP（Solana，共振 100.0）
-3. 记忆层变化：ANSEM COIN Launch 当前为“新出现”
+1. 当前最强叙事：CITRINI（Solana，分数 87.22）
+2. 共振最强代币：BNBCAT（BSC，共振 100.0）
+3. 记忆层变化：cvxv666 Alleged Grok Bot Token 当前为“新出现”
 4. 最新官方催化：Brazil New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 15% APR!
 #Binance #NarrativeOS #OpenClaw
