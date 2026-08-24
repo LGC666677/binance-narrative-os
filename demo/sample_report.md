@@ -1,6 +1,6 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-24T20:54:19.373229+00:00
+- 生成时间：2026-08-24T21:15:15.750898+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
@@ -8,9 +8,9 @@
 ## 今日摘要
 
 - 当前最强叙事是 United States Mineral Supply，所在链为 Solana，叙事强度 89.92。
-- 当前平均叙事强度为 82.39，其中已确认叙事 0 个。
+- 当前平均叙事强度为 82.02，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 DGAI，来自 BSC，共振分数 100.0。
-- 记忆层显示 United States Mineral Supply 当前处于“新出现”状态。
+- 记忆层显示 BLVCKLIGHTAI Builds Robot City 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Trump Education Freedom，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Brazil New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 15% APR!。
 
@@ -24,58 +24,59 @@
   - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alana Berger Discusses USWS Token | Solana | 降温中 | 强度 88.68 | 质量 80.06
+- Alana Berger Discusses USWS Token | Solana | 降温中 | 强度 88.72 | 质量 80.06
   - 主题摘要：According to Alana Berger's post, she highlights the USWS token on Solana, citing a 13% price increase tracked by Dexape. The token is described as providing exposure to clean wat…
   - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Construction Cat Meme Image | BSC | 加速中 | 强度 83.25 | 质量 79.31
+- Alleged Construction Cat Meme Image | BSC | 加速中 | 强度 82.84 | 质量 79.32
   - 主题摘要：According to figz's post, a construction crew in Ohio rescued a kitten named Sue, who wears a yellow hard hat resembling BNB branding. figz claims this cat is perfectly suited for…
-  - 资金 100.00 / 广度 86.41 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.44 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Cyberleek Meme Image Goes Viral | Solana | 降温中 | 强度 79.74 | 质量 66.60
-  - 主题摘要：According to beverly's post, edits comparing Cyberleek to Mr. Robot are going viral on TikTok. The post highlights that Cyberleek is valued at $20 million and describes it as a st…
-  - 资金 100.00 / 广度 79.12 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- fxckstar | Solana | 降温中 | 强度 79.28 | 质量 70.16
-  - 主题摘要：fckstr (fxckstar) is a satirical token created by DaRealCyberLeek, a Twitter user who identifies as a 'cyberleek' and claims to be 'officially on Twitter.' The token's logo featur…
-  - 资金 100.00 / 广度 64.88 / 确认 12.24 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Slopius Meme Image | Solana | 点火期 | 强度 79.14 | 质量 79.11
-  - 主题摘要：According to Flipston McCooker's post, the Slopius Meme image is described as highly memeable and associated with a DeepInfra-based AI tool that aggregates multiple models. The po…
-  - 资金 100.00 / 广度 91.55 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ: They all use Binance | BSC | 加速中 | 强度 79.05 | 质量 77.69
+- CZ: They all use Binance | BSC | 加速中 | 强度 81.97 | 质量 78.95
   - 主题摘要：CZ回复用户关于CEX集中向Binance发送代币进行抛售的指控，幽默地表示既然大家都用Binance，那你也应该用。这种对负面指控的轻蔑与自信回应，强化了币安作为行业基础设施的地位。
-  - 资金 100.00 / 广度 88.49 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.38 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FBI Issues Warrant for Lee Min Jae | Solana | 降温中 | 强度 78.65 | 质量 64.78
-  - 主题摘要：According to swag's post, the FBI has issued a warrant for Lee Min Jae, an alleged hacker associated with the Lazarus Group, a government-sponsored cybercrime organization. The po…
-  - 资金 100.00 / 广度 75.93 / 确认 9.36 / 脆弱性 14.00
+- fxckstar | Solana | 降温中 | 强度 79.85 | 质量 70.97
+  - 主题摘要：fckstr (fxckstar) is a satirical token created by DaRealCyberLeek, a Twitter user who identifies as a 'cyberleek' and claims to be 'officially on Twitter.' The token's logo featur…
+  - 资金 100.00 / 广度 72.86 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump Education Freedom | BSC | 点火期 | 强度 78.38 | 质量 77.99
+- BLVCKLIGHTAI Builds Robot City | Solana | 加速中 | 强度 78.84 | 质量 65.16
+  - 主题摘要：According to 𝔹𝕃𝕍ℂ𝕂𝕃!𝔾ℍ𝕋's post, the creator has developed a digital city where only robots are permitted to communicate. This generative experience, linked to agents.srl, showcase…
+  - 资金 100.00 / 广度 80.22 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trump Education Freedom | BSC | 点火期 | 强度 78.39 | 质量 77.97
   - 主题摘要：The White House announced that President Donald J. Trump has restored education freedom to families across America, highlighting the letter 'F' for FREEDOM.
-  - 资金 100.00 / 广度 90.61 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.56 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 - DCA Strategy Discussion | BSC | 加速中 | 强度 78.13 | 质量 76.84
   - 主题摘要：According to the post, the content expresses support for Dollar-Cost Averaging (DCA) investment strategies, specifically referencing Michael Saylor and MicroStrategy. The post cha…
-  - 资金 100.00 / 广度 81.34 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.35 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Meeko Token | BSC | 加速中 | 强度 75.80 | 质量 68.71
-  - 主题摘要：According to 莉兹🔶BNB's post, the Shiba Inu meme character has introduced a new character named "Meeko," which is being discussed as the next major meme. Concurrently, tokens with t…
-  - 资金 100.00 / 广度 87.18 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- a16z crypto Article Link | Solana | 降温中 | 强度 75.03 | 质量 60.05
-  - 主题摘要：Multiple tokens named 「AICOIN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.94 / 确认 9.36 / 脆弱性 14.00
+- Alleged SCRAT Token | Solana | 降温中 | 强度 76.95 | 质量 67.57
+  - 主题摘要：According to Daiseys Journals 0x's post, a viral video of a squirrel resembling Scrat from Ice Age has inspired the alleged launch of the SCRAT token. The author claims the token…
+  - 资金 100.00 / 广度 62.07 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 猴子币 | BSC | 降温中 | 强度 74.64 | 质量 58.18
+- White House Post on Trump Education | Solana | 加速中 | 强度 76.78 | 质量 63.84
+  - 主题摘要：The White House published a post titled 'Tim and Moby: How is President Trump is revitalizing American education?', referencing the educational animated series. This content focus…
+  - 资金 100.00 / 广度 79.72 / 确认 23.80 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Slopius Meme Image | Solana | 点火期 | 强度 76.40 | 质量 75.48
+  - 主题摘要：According to Flipston McCooker's post, the Slopius Meme image is described as highly memeable and associated with a DeepInfra-based AI tool that aggregates multiple models. The po…
+  - 资金 100.00 / 广度 91.66 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Meeko Token | BSC | 加速中 | 强度 74.26 | 质量 68.64
+  - 主题摘要：According to 莉兹🔶BNB's post, the Shiba Inu meme character has introduced a new character named "Meeko," which is being discussed as the next major meme. Concurrently, tokens with t…
+  - 资金 100.00 / 广度 87.21 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 猴子币 | BSC | 降温中 | 强度 74.06 | 质量 58.14
   - 主题摘要：According to 苦瓜大王's post, the author questions whether anyone has distributed dividends for the 'Monkey Coin' (猴子币), referencing its recent popularity on Douyin and comparisons to…
-  - 资金 100.00 / 广度 76.41 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.42 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.39，其中已确认叙事 0 个。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.02，其中已确认叙事 0 个。
+- BLVCKLIGHTAI Builds Robot City 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - United States Mineral Supply 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
@@ -83,18 +84,18 @@
 - United States Mineral Supply | 质量 80.06 | 可交易性 100.00 | 风险 低
 - World Water Reserve | 质量 80.06 | 可交易性 100.00 | 风险 低
 - Alana Berger Discusses USWS Token | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Alleged Construction Cat Meme Image | 质量 79.31 | 可交易性 100.00 | 风险 低
-- Alleged Slopius Meme Image | 质量 79.11 | 可交易性 100.00 | 风险 低
-- Trump Education Freedom | 质量 77.99 | 可交易性 99.85 | 风险 低
-- CZ: They all use Binance | 质量 77.69 | 可交易性 100.00 | 风险 低
+- Alleged Construction Cat Meme Image | 质量 79.32 | 可交易性 100.00 | 风险 低
+- CZ: They all use Binance | 质量 78.95 | 可交易性 100.00 | 风险 低
+- Trump Education Freedom | 质量 77.97 | 可交易性 99.85 | 风险 低
 - DCA Strategy Discussion | 质量 76.84 | 可交易性 100.00 | 风险 低
-- fxckstar | 质量 70.16 | 可交易性 100.00 | 风险 低
-- Alleged Meeko Token | 质量 68.71 | 可交易性 63.90 | 风险 低
+- Alleged Slopius Meme Image | 质量 75.48 | 可交易性 100.00 | 风险 低
+- fxckstar | 质量 70.97 | 可交易性 100.00 | 风险 低
+- Alleged Meeko Token | 质量 68.64 | 可交易性 63.64 | 风险 低
 
 ## 伪叙事风险
 
 - Trump Education Freedom | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Slopius Meme Image | 风险 42.03 | 原因：流动性偏薄
+- Alleged Slopius Meme Image | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -135,6 +136,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：United States Mineral Supply（Solana，分数 89.92）
 2. 共振最强代币：DGAI（BSC，共振 100.0）
-3. 记忆层变化：United States Mineral Supply 当前为“新出现”
+3. 记忆层变化：BLVCKLIGHTAI Builds Robot City 当前为“新出现”
 4. 最新官方催化：Brazil New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 15% APR!
 #Binance #NarrativeOS #OpenClaw
