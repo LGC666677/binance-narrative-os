@@ -1,114 +1,113 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-24T16:00:47.948879+00:00
+- 生成时间：2026-08-24T16:51:41.510928+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 CZ: They all use Binance，所在链为 BSC，叙事强度 86.69。
-- 当前平均叙事强度为 79.26，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 CZ: They all use Binance 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Barron Trump Meme Coin，伪叙事风险 50.11。
+- 当前最强叙事是 Trump Education Freedom，所在链为 BSC，叙事强度 87.84。
+- 当前平均叙事强度为 80.72，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 BNBCAT，来自 BSC，共振分数 100.0。
+- 记忆层显示 Trump Education Freedom 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 CITRINI，伪叙事风险 40.4。
 - 最新官方催化来自 最新活动：Brazil New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 15% APR!。
 
 ## 叙事雷达
 
-- CZ: They all use Binance | BSC | 加速中 | 强度 86.69 | 质量 79.18
+- Trump Education Freedom | BSC | 已确认 | 强度 87.84 | 质量 80.94
+  - 主题摘要：The White House announced that President Donald J. Trump has restored education freedom to families across America, highlighting the letter 'F' for FREEDOM.
+  - 资金 100.00 / 广度 89.21 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- MCX | Solana | 降温中 | 强度 85.41 | 质量 73.65
+  - 主题摘要：Multiple tokens named 「MCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.62 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ: They all use Binance | BSC | 加速中 | 强度 85.10 | 质量 78.86
   - 主题摘要：CZ回复用户关于CEX集中向Binance发送代币进行抛售的指控，幽默地表示既然大家都用Binance，那你也应该用。这种对负面指控的轻蔑与自信回应，强化了币安作为行业基础设施的地位。
-  - 资金 100.00 / 广度 89.15 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.07 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Luminaries Advocates Solana Bullishness | Solana | 降温中 | 强度 83.80 | 质量 74.49
+- Luminaries Advocates Solana Bullishness | Solana | 降温中 | 强度 83.81 | 质量 74.49
   - 主题摘要：According to Luminaries 🐂🀄️'s post, the author encourages maintaining a bullish perspective on the Solana blockchain. The statement emphasizes the importance of continuous positiv…
   - 资金 100.00 / 广度 81.43 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Martin Shkreli's Cat Maurice | Solana | 降温中 | 强度 82.66 | 质量 75.13
-  - 主题摘要：According to Martin Shkreli's post, he introduced his new cat, Maurice, describing the animal as a 'receivable' in a financial context. This statement has been associated with cry…
-  - 资金 100.00 / 广度 87.28 / 确认 4.32 / 脆弱性 14.00
+- CITRINI | Solana | 降温中 | 强度 83.74 | 质量 76.47
+  - 主题摘要：Multiple tokens named 「CITRINI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 92.27 / 确认 3.60 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Martin Shkreli on Photonic AI Computing | Solana | 降温中 | 强度 82.40 | 质量 72.80
-  - 主题摘要：According to Martin Shkreli's post, he claims to have restarted $QCLS with partner @csvoss to create the world's first fully photonic computer for AI. He also identifies companies…
-  - 资金 100.00 / 广度 79.50 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged MURTIN Token Launch | Solana | 加速中 | 强度 82.05 | 质量 76.45
+- Alleged MURTIN Token Launch | Solana | 降温中 | 强度 82.06 | 质量 74.13
   - 主题摘要：According to Ikar's post, an individual with a history of securities fraud and pharmaceutical industry bans is allegedly launching the MURTIN token. Ikar characterizes this as a r…
-  - 资金 100.00 / 广度 81.11 / 确认 18.72 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Construction Cat Meme Image | BSC | 加速中 | 强度 81.95 | 质量 79.12
+  - 资金 100.00 / 广度 81.30 / 确认 7.92 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Construction Cat Meme Image | BSC | 加速中 | 强度 81.68 | 质量 78.91
   - 主题摘要：According to figz's post, a construction crew in Ohio rescued a kitten named Sue, who wears a yellow hard hat resembling BNB branding. figz claims this cat is tailored for BNB, re…
-  - 资金 100.00 / 广度 85.77 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.42 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MCX | Solana | 降温中 | 强度 80.12 | 质量 69.42
-  - 主题摘要：Multiple tokens named 「MCX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.23 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Martin Shkreli Trading on Pumpfun | Solana | 加速中 | 强度 79.87 | 质量 79.08
+- Martin Shkreli Trading on Pumpfun | Solana | 加速中 | 强度 80.33 | 质量 79.09
   - 主题摘要：According to Martin Shkreli's post, he has officially joined the Pumpfun application and is currently streaming his trading activities on the platform. He expressed his intention…
-  - 资金 100.00 / 广度 89.34 / 确认 19.44 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.37 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Barron Trump Meme Coin | Solana | 点火期 | 强度 78.97 | 质量 79.05
-  - 主题摘要：According to New York Post's post, Iran released a video claiming Barron Trump is monitored and placing a bounty on him. Concurrently, multiple tokens named 'Barron' with titles l…
-  - 资金 100.00 / 广度 93.99 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Minneapolis Spiderman Token | Solana | 降温中 | 强度 78.66 | 质量 73.70
-  - 主题摘要：According to asteria's post, videos of a person dressed as Spiderman in Minneapolis are going viral, allegedly involving an altercation with Jake Lang. The individual was arrested…
-  - 资金 100.00 / 广度 78.79 / 确认 9.36 / 脆弱性 24.00
+- Martin Shkreli on Photonic AI Computing | Solana | 降温中 | 强度 77.62 | 质量 62.50
+  - 主题摘要：According to Martin Shkreli's post, he claims to have restarted $QCLS with partner @csvoss to create the world's first fully photonic computer for AI. He also identifies companies…
+  - 资金 100.00 / 广度 69.05 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:JAKE Opens BinanceUS Wallet for Cat | BSC | 降温中 | 强度 77.54 | 质量 68.29
-  - 主题摘要：Multiple tokens named 「币安猫」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 98.64 / 广度 83.70 / 确认 11.52 / 脆弱性 24.00
+- Tiffany Discusses Film 'Bull Come' | BSC | 降温中 | 强度 76.81 | 质量 68.87
+  - 主题摘要：According to Tiffany's post, she discusses the film 'Bull Arrival' and its sequel 'Bull Arrival'. She highlights that the sequel 'Bull Arrival' was created by a mother and son duo…
+  - 资金 100.00 / 广度 76.68 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DCA Strategy Discussion | BSC | 加速中 | 强度 76.73 | 质量 76.76
+- DCA Strategy Discussion | BSC | 加速中 | 强度 76.74 | 质量 76.77
   - 主题摘要：Multiple tokens named 「DCA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.09 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.11 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nub Cat | BSC | 降温中 | 强度 76.42 | 质量 60.22
-  - 主题摘要：Multiple tokens named 「NUBCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.33 / 确认 9.36 / 脆弱性 14.00
+- Yi He Debunks Fake CZ Scam | BSC | 加速中 | 强度 76.14 | 质量 72.06
+  - 主题摘要：Binance Co-CEO Yi He warns the community about fraudulent 'Binance Mall' and fake CZ ground promotion schemes, clarifying that CZ does not use WeChat. This highlights the ongoing…
+  - 资金 100.00 / 广度 96.07 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- California Highway Chase | Solana | 降温中 | 强度 76.09 | 质量 61.23
+  - 主题摘要：According to New York Post's post, a runaway bull sparked a wild chase on a California highway before being rescued by a cowboy. The incident was reported as breaking news by the…
+  - 资金 100.00 / 广度 75.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged ELOY Meme Coin | BSC | 加速中 | 强度 76.25 | 质量 71.06
-  - 主题摘要：According to esoteric's post, a child's drawing of a Tesla hero named 'Eloy' is being promoted for virality to attract Elon Musk's attention. This content is associated with the E…
-  - 资金 100.00 / 广度 79.86 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Nibbles Meme Image | Solana | 降温中 | 强度 76.05 | 质量 76.15
+  - 主题摘要：According to 9shards's post, Martin has a favorite cat named Nibbles, and a quoted tweet suggests turning Nibbles into a snack. This content references the Nibbles token, implying…
+  - 资金 100.00 / 广度 82.76 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.26，其中已确认叙事 0 个。
-- CZ: They all use Binance 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Luminaries Advocates Solana Bullishness 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.72，其中已确认叙事 1 个。
+- Trump Education Freedom 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- MCX 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ: They all use Binance | 质量 79.18 | 可交易性 100.00 | 风险 低
-- Alleged Construction Cat Meme Image | 质量 79.12 | 可交易性 100.00 | 风险 低
-- Martin Shkreli Trading on Pumpfun | 质量 79.08 | 可交易性 100.00 | 风险 低
-- Alleged Barron Trump Meme Coin | 质量 79.05 | 可交易性 100.00 | 风险 低
-- DCA Strategy Discussion | 质量 76.76 | 可交易性 100.00 | 风险 低
-- Alleged MURTIN Token Launch | 质量 76.45 | 可交易性 100.00 | 风险 低
-- Martin Shkreli's Cat Maurice | 质量 75.13 | 可交易性 100.00 | 风险 低
+- Trump Education Freedom | 质量 80.94 | 可交易性 100.00 | 风险 低
+- Martin Shkreli Trading on Pumpfun | 质量 79.09 | 可交易性 100.00 | 风险 低
+- Alleged Construction Cat Meme Image | 质量 78.91 | 可交易性 99.65 | 风险 低
+- CZ: They all use Binance | 质量 78.86 | 可交易性 100.00 | 风险 低
+- DCA Strategy Discussion | 质量 76.77 | 可交易性 100.00 | 风险 低
+- CITRINI | 质量 76.47 | 可交易性 100.00 | 风险 低
+- Alleged Nibbles Meme Image | 质量 76.15 | 可交易性 100.00 | 风险 低
 - Luminaries Advocates Solana Bullishness | 质量 74.49 | 可交易性 100.00 | 风险 低
-- Alleged Minneapolis Spiderman Token | 质量 73.70 | 可交易性 100.00 | 风险 低
-- Martin Shkreli on Photonic AI Computing | 质量 72.80 | 可交易性 100.00 | 风险 低
+- Alleged MURTIN Token Launch | 质量 74.13 | 可交易性 100.00 | 风险 低
+- MCX | 质量 73.65 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Barron Trump Meme Coin | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Minneapolis Spiderman Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- CITRINI | 风险 40.40 | 原因：流动性偏薄
 
 ## 信号台
 
 - Sue | BSC | 看多 | 新鲜度 100.00 | Alleged Construction Cat Meme Image
+- 地推盘 | BSC | 看多 | 新鲜度 100.00 | Yi He Debunks Fake CZ Scam
 - BNBCAT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BinanceCat | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BITMINE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 牛布布 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MARTIN | Solana | 看多 | 新鲜度 100.00 | Martin Shkreli Trading on Pumpfun
+- Nibbles | Solana | 看多 | 新鲜度 100.00 | Alleged Nibbles Meme Image
 - Polycat | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LPC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- UPONLY | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BPAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CZ: They all use Binance（BSC，分数 86.69）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：CZ: They all use Binance 当前为“新出现”
+1. 当前最强叙事：Trump Education Freedom（BSC，分数 87.84）
+2. 共振最强代币：BNBCAT（BSC，共振 100.0）
+3. 记忆层变化：Trump Education Freedom 当前为“新出现”
 4. 最新官方催化：Brazil New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 15% APR!
 #Binance #NarrativeOS #OpenClaw
