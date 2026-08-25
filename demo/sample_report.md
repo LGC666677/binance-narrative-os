@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-25T14:41:38.992065+00:00
+- 生成时间：2026-08-25T15:25:41.496401+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 WWR，所在链为 Solana，叙事强度 88.13。
-- 当前平均叙事强度为 80.41，其中已确认叙事 0 个。
+- 当前最强叙事是 Apple cat，所在链为 Solana，叙事强度 83.0。
+- 当前平均叙事强度为 78.03，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MEMESTOCK，来自 BSC，共振分数 100.0。
-- 记忆层显示 Elon Musk's Dog Marvin 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Hoppy Discusses B Token Ticker，伪叙事风险 51.82。
+- 记忆层显示 Apple cat 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Hoppy Discusses B Token Ticker，伪叙事风险 46.06。
 - 最新官方催化来自 最新活动：Put Your Binance Agent OS to Work & Share 2,000 USDC!。
 
 ## 叙事雷达
 
-- WWR | Solana | 降温中 | 强度 88.13 | 质量 78.95
-  - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 4.32 / 脆弱性 0.00
+- Apple cat | Solana | 降温中 | 强度 83.00 | 质量 73.93
+  - 主题摘要：Multiple tokens named 「APPLECAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.27 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk's Dog Marvin | Solana | 降温中 | 强度 83.81 | 质量 75.77
-  - 主题摘要：According to blank's post, Elon Musk owns a dog named Marvin, named after Marvin the Martian, which has never run properly on Solana. The post references a token associated with t…
-  - 资金 100.00 / 广度 89.39 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FBI Issues Warrant for Son Un Chol | Solana | 降温中 | 强度 82.93 | 质量 71.68
-  - 主题摘要：According to InHumandev's post, the FBI has issued an international warrant for Son Un Chol, identified as the alleged Cyberleek hacker. The post notes that the FBI is offering a…
-  - 资金 100.00 / 广度 75.76 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Cat | BSC | 降温中 | 强度 79.85 | 质量 71.34
-  - 主题摘要：Multiple tokens named 「KOPI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.78 / 确认 11.52 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dexerto Celebrates Elon's Dog | Solana | 降温中 | 强度 78.67 | 质量 64.22
-  - 主题摘要：According to Dexerto's post, Elon Musk celebrated the birthday of his dog, Marvin. The post highlights the personal milestone of the pet associated with the tech entrepreneur.
-  - 资金 100.00 / 广度 87.71 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Issuance of 'My Binance Life' Meme Image | BSC | 加速中 | 强度 78.54 | 质量 76.80
-  - 主题摘要：According to 我肯定会发财！'s post, the user claims to have launched a token named 'My Binance Life' (我的币安人生). This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 83.55 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hoppy Discusses B Token Ticker | Solana | 点火期 | 强度 77.69 | 质量 78.15
+- Hoppy Discusses B Token Ticker | Solana | 点火期 | 强度 80.33 | 质量 80.53
   - 主题摘要：According to ChillDeer's post, the author speculates that GTA VI may use a cryptocurrency symbol resembling a '6' or 'B', suggesting the name 'GTA Bucks' with the ticker '$B'. Thi…
-  - 资金 100.00 / 广度 97.33 / 确认 4.32 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 11.52 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- BlackRock Digital Gas Asset | Solana | 降温中 | 强度 77.67 | 质量 67.60
+- alon Retweets Pump.fun Onboarding | Solana | 降温中 | 强度 78.28 | 质量 66.22
+  - 主题摘要：According to alon's post, the user retweeted content related to the /onboarding token. The shared message indicates the content was sent from the Pumpfun App, highlighting the tok…
+  - 资金 100.00 / 广度 81.84 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged Issuance of 'My Binance Life' Meme Image | BSC | 加速中 | 强度 77.75 | 质量 76.55
+  - 主题摘要：According to 我肯定会发财！'s post, the user claims to have launched a token named 'My Binance Life' (我的币安人生). This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 83.60 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- BlackRock Digital Gas Asset | Solana | 降温中 | 强度 77.70 | 质量 67.60
   - 主题摘要：Multiple tokens named 「BDGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 56.90 / 确认 11.52 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of DDOGE Token | Solana | 降温中 | 强度 77.23 | 质量 68.54
-  - 主题摘要：According to Quantt 💻's post, the user named a token 'DankDoge' (DDOGE), referencing Elon Musk's association with X and dogs. This information is unverified. Please exercise cauti…
-  - 资金 100.00 / 广度 65.29 / 确认 4.32 / 脆弱性 14.00
+- three | Solana | 降温中 | 强度 76.90 | 质量 63.56
+  - 主题摘要：According to orangie's post, the word 'three' is mentioned, which is associated with the $THREE token (TheLastThreeDollars). This token is described as an underdog project startin…
+  - 资金 100.00 / 广度 75.28 / 确认 15.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- American Oil Relief Program | Solana | 降温中 | 强度 77.14 | 质量 66.53
-  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 58.59 / 确认 4.32 / 脆弱性 0.00
+- The Helmet Cat | Solana | 降温中 | 强度 76.84 | 质量 70.63
+  - 主题摘要：Multiple tokens named 「Otter」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.25 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Red Circle Perpetrators Meme Coin Promotion | BSC | 加速中 | 强度 75.14 | 质量 73.36
+- GTA VI CAT | Solana | 降温中 | 强度 76.41 | 质量 70.35
+  - 主题摘要：Multiple tokens named 「GTACAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 87.61 / 广度 74.49 / 确认 0.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Love Machine Meme | Solana | 降温中 | 强度 74.78 | 质量 66.70
+  - 主题摘要：According to JNC's post, a project named 'Love Machine' is trending, described as an AI-driven entity capable of human-like movement. The post references the Somnia platform and a…
+  - 资金 100.00 / 广度 77.63 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Red Circle Perpetrators Meme Coin Promotion | BSC | 加速中 | 强度 73.78 | 质量 73.37
   - 主题摘要：According to PurpleBull's post, the 'Red Circle Perpetrators' internet meme is being leveraged to promote an associated token. PurpleBull claims to have onboarded a TikTok creator…
-  - 资金 100.00 / 广度 66.58 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 66.60 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- batman 🔶 Claims New Life Token Trending on Douyin | BSC | 加速中 | 强度 73.74 | 质量 61.49
-  - 主题摘要：According to batman 🔶's post, the 'New Life' (牛来人生) token has reached the trending list on Douyin. The author claims the project is gaining significant attention. This information…
-  - 资金 100.00 / 广度 75.28 / 确认 24.48 / 脆弱性 24.00
+- Binance Cat | BSC | 降温中 | 强度 73.77 | 质量 65.73
+  - 主题摘要：Multiple tokens named 「KOPI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.85 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- batman 🔶 Claims New Life Token Trending on Douyin | BSC | 加速中 | 强度 73.35 | 质量 61.89
+  - 主题摘要：According to batman 🔶's post, the individual claims that the 'New Life' (牛来人生) Meme image has reached the trending list on Douyin and is experiencing rapid popularity. The post as…
+  - 资金 100.00 / 广度 75.84 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Steam Game Gambling Controversy | BSC | 加速中 | 强度 71.11 | 质量 62.18
-  - 主题摘要：According to 大少牙's post, a recently popular Steam game has attracted widespread attention from streamers in China and abroad. The post highlights a roulette mode that allows users…
-  - 资金 100.00 / 广度 78.41 / 确认 23.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of SHITHON Meme Image | BSC | 点火期 | 强度 70.24 | 质量 65.61
+- Alleged Launch of SHITHON Meme Image | BSC | 点火期 | 强度 71.54 | 质量 67.30
   - 主题摘要：According to WY0371WY's post, the creator of the Douyin abstract journal SHIT has released a new work titled SHITHON (解特松). This content is described as a Meme image created using…
-  - 资金 100.00 / 广度 76.41 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.47 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Italian Govt Teaches Meme Lifecycle | BSC | 降温中 | 强度 71.50 | 质量 57.34
+  - 主题摘要：Multiple tokens named 「Meme」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.73 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.41，其中已确认叙事 0 个。
-- Hoppy Discusses B Token Ticker 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- WWR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.03，其中已确认叙事 0 个。
+- Apple cat 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- WWR | 质量 78.95 | 可交易性 100.00 | 风险 低
-- Hoppy Discusses B Token Ticker | 质量 78.15 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Issuance of 'My Binance Life' Meme Image | 质量 76.80 | 可交易性 95.01 | 风险 低
-- Elon Musk's Dog Marvin | 质量 75.77 | 可交易性 100.00 | 风险 低
-- Alleged Red Circle Perpetrators Meme Coin Promotion | 质量 73.36 | 可交易性 100.00 | 风险 低
-- FBI Issues Warrant for Son Un Chol | 质量 71.68 | 可交易性 100.00 | 风险 低
-- Binance Cat | 质量 71.34 | 可交易性 95.58 | 风险 低
-- Alleged Launch of DDOGE Token | 质量 68.54 | 可交易性 100.00 | 风险 低
+- Hoppy Discusses B Token Ticker | 质量 80.53 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Issuance of 'My Binance Life' Meme Image | 质量 76.55 | 可交易性 94.15 | 风险 低
+- Apple cat | 质量 73.93 | 可交易性 100.00 | 风险 低
+- Alleged Red Circle Perpetrators Meme Coin Promotion | 质量 73.37 | 可交易性 100.00 | 风险 低
+- The Helmet Cat | 质量 70.63 | 可交易性 100.00 | 风险 低
+- GTA VI CAT | 质量 70.35 | 可交易性 100.00 | 风险 低
 - BlackRock Digital Gas Asset | 质量 67.60 | 可交易性 100.00 | 风险 低
-- American Oil Relief Program | 质量 66.53 | 可交易性 100.00 | 风险 低
+- Alleged Launch of SHITHON Meme Image | 质量 67.30 | 可交易性 77.01 | 风险 低
+- Alleged Love Machine Meme | 质量 66.70 | 可交易性 81.53 | 风险 低
+- alon Retweets Pump.fun Onboarding | 质量 66.22 | 可交易性 75.74 | 风险 低
 
 ## 伪叙事风险
 
-- Hoppy Discusses B Token Ticker | 风险 51.82 | 原因：流动性偏薄
+- Hoppy Discusses B Token Ticker | 风险 46.06 | 原因：流动性偏薄
+- GTA VI CAT | 风险 43.28 | 原因：流动性偏薄
 - Alleged Launch of SHITHON Meme Image | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
@@ -134,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：WWR（Solana，分数 88.13）
+1. 当前最强叙事：Apple cat（Solana，分数 83.0）
 2. 共振最强代币：MEMESTOCK（BSC，共振 100.0）
-3. 记忆层变化：Elon Musk's Dog Marvin 当前为“新出现”
+3. 记忆层变化：Apple cat 当前为“新出现”
 4. 最新官方催化：Put Your Binance Agent OS to Work & Share 2,000 USDC!
 #Binance #NarrativeOS #OpenClaw
