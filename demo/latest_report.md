@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-25T21:42:34.465973+00:00
+- 生成时间：2026-08-25T21:58:13.000932+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Pistacio Meme Character，所在链为 Solana，叙事强度 89.32。
-- 当前平均叙事强度为 82.95，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 CHIIKAWA，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Eloncoin Meme Image 当前处于“新出现”状态。
+- 当前最强叙事是 Alleged Pistacio Meme Character，所在链为 Solana，叙事强度 90.31。
+- 当前平均叙事强度为 82.86，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
+- 记忆层显示 dog wif helmet 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 WIN界，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Put Your Binance Agent OS to Work & Share 2,000 USDC!。
 
 ## 叙事雷达
 
-- Alleged Pistacio Meme Character | Solana | 降温中 | 强度 89.32 | 质量 80.85
+- Alleged Pistacio Meme Character | Solana | 降温中 | 强度 90.31 | 质量 80.85
   - 主题摘要：According to ENJOYOOR ⛾'s post, the artist of the Wassie and Pepo memes has allegedly named a new character Pistacio. The post references a wallet in the artist's pinned tweet for…
-  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 10.00
+  - 资金 99.04 / 广度 100.00 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon's Banger Truck | Solana | 降温中 | 强度 83.73 | 质量 77.95
-  - 主题摘要：Elon Musk replies to a viral story about a legendary truck driver with a single word: 'Banger'. This minimalistic endorsement highlights the intersection of crypto influencer cult…
-  - 资金 90.41 / 广度 90.32 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SpaceX Louisiana Spaceport | Solana | 降温中 | 强度 83.63 | 质量 73.32
+- SpaceX Louisiana Spaceport | Solana | 降温中 | 强度 83.79 | 质量 73.40
   - 主题摘要：Multiple tokens named 「ELON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 83.16 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bymotionn Points Out Wrong Wallet | Solana | 降温中 | 强度 82.77 | 质量 73.41
+- Elon's Banger Truck | Solana | 降温中 | 强度 82.93 | 质量 77.95
+  - 主题摘要：Elon Musk replies to a viral story about a legendary truck driver with a single word: 'Banger'. This minimalistic endorsement highlights the intersection of crypto influencer cult…
+  - 资金 86.77 / 广度 90.32 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Bymotionn Points Out Wrong Wallet | Solana | 降温中 | 强度 82.75 | 质量 73.38
   - 主题摘要：According to marcello's post, the user shared a contract address (Ca: 98fAqajBY3ZthsUiHKXSat7tSt4PEutdbdUGy4pfpump) associated with the token Pistacio. This information is unverif…
-  - 资金 100.00 / 广度 77.85 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.75 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Cate Coin Meme Analysis | Solana | 降温中 | 强度 82.12 | 质量 71.70
-  - 主题摘要：According to 0xEmiy's post, the Cate token is allegedly positioned as a rival to Doge, claiming to be the 'Cat Version of Doge' based on a 2013 meme. This information is unverifie…
-  - 资金 100.00 / 广度 75.60 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Shivon Zilis Star Reference | Solana | 降温中 | 强度 81.26 | 质量 70.69
+- Shivon Zilis Star Reference | Solana | 降温中 | 强度 81.31 | 质量 70.77
   - 主题摘要：According to Shivon Zilis's post, she shared a message stating 'He who looks to the stars' accompanied by star and heart emojis. This content is associated with cryptocurrency tok…
   - 资金 100.00 / 广度 77.03 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Eloncoin Meme Image | Solana | 降温中 | 强度 80.81 | 质量 68.30
+- Alleged Eloncoin Meme Image | Solana | 降温中 | 强度 80.86 | 质量 68.38
   - 主题摘要：Multiple tokens named 「ELON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 80.69 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CyberLeek GTA 6 Leak | Solana | 降温中 | 强度 80.00 | 质量 70.45
+- dog wif helmet | Solana | 加速中 | 强度 80.72 | 质量 73.82
+  - 主题摘要：sus (dog wif helmet) is a meme token inspired by internet dog culture. The logo features a dog wearing a yellow construction helmet, embodying the playful 'dog with helmet' meme.…
+  - 资金 100.00 / 广度 71.27 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CyberLeek GTA 6 Leak | Solana | 降温中 | 强度 80.18 | 质量 70.61
   - 主题摘要：According to CyberLeek's post, the user shared content related to a GTA 6 leak, utilizing hashtags #leak, #cyberleek, and #gtavileak. The post references the CyberLeek token assoc…
-  - 资金 100.00 / 广度 67.98 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 68.51 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Bottom: Lucky Cat | BSC | 已确认 | 强度 79.90 | 质量 81.28
+- CZ Bottom: Lucky Cat | BSC | 已确认 | 强度 79.18 | 质量 80.12
   - 主题摘要：CZ在回复KOL关于其精准抄底言论的夸奖时，幽默地自嘲为“瞎猫撞到死耗子”。这种币安CEO的极度谦逊与市场对其神准预测的狂热崇拜形成强烈反差，极具Meme传播潜力。
   - 资金 100.00 / 广度 90.85 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- batman 🔶 Claims New Life Token Trending on Douyin | BSC | 加速中 | 强度 74.46 | 质量 60.33
+- batman 🔶 Claims New Life Token Trending on Douyin | BSC | 加速中 | 强度 73.50 | 质量 60.94
   - 主题摘要：According to batman 🔶's post, the individual claims that the 'New Life' (牛来人生) Meme image has reached the trending list on Douyin and is experiencing rapid popularity. The post as…
-  - 资金 100.00 / 广度 76.79 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.81 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Steam Game Gambling Controversy | BSC | 加速中 | 强度 71.51 | 质量 64.49
-  - 主题摘要：According to 大少牙's post, a recently popular Steam game featuring a roulette mode for gambling in-game items is gaining traction among streamers. The post highlights the game's eme…
-  - 资金 100.00 / 广度 78.75 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Asian Stock Strategy Token | BSC | 降温中 | 强度 70.76 | 质量 53.49
+- Asian Stock Strategy Token | BSC | 降温中 | 强度 71.06 | 质量 53.94
   - 主题摘要：According to $ASS's post, the $ASS token on BNB Chain allegedly pays Asian stock dividends through bStocks, with rewards including $BABAB, $TSMB, and $SKYHB. The custom vault is c…
-  - 资金 100.00 / 广度 73.23 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.24 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WIN界 | BSC | 点火期 | 强度 69.87 | 质量 60.78
+- Steam Game Gambling Controversy | BSC | 加速中 | 强度 71.06 | 质量 64.37
+  - 主题摘要：According to 大少牙's post, a recently popular Steam game featuring a roulette mode for gambling in-game items is gaining traction among streamers. The post highlights the game's eme…
+  - 资金 100.00 / 广度 78.76 / 确认 19.44 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- WIN界 | BSC | 点火期 | 强度 69.94 | 质量 60.79
   - 主题摘要：Multiple tokens named 「WIN界」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 75.92 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ's Boring Companies | BSC | 降温中 | 强度 69.64 | 质量 66.85
-  - 主题摘要：Binance CEO CZ commented on a list of Web3 infrastructure projects, stating that 'many of the most successful companies in history are boring, like making paperclips.' This endors…
-  - 资金 100.00 / 广度 79.53 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ's White Hair | BSC | 加速中 | 强度 69.77 | 质量 65.98
+  - 主题摘要：CZ在回复粉丝关于他头发变白的评论时，幽默地承认自己从小就白发且已老去，展现了亲民且真实的一面。这种名人自嘲个人特征的行为容易引发社区共鸣和二次创作。
+  - 资金 100.00 / 广度 85.71 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.95，其中已确认叙事 0 个。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.86，其中已确认叙事 0 个。
+- dog wif helmet 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Alleged Pistacio Meme Character 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ Bottom: Lucky Cat | 质量 81.28 | 可交易性 100.00 | 风险 低
 - Alleged Pistacio Meme Character | 质量 80.85 | 可交易性 100.00 | 风险 低
+- CZ Bottom: Lucky Cat | 质量 80.12 | 可交易性 100.00 | 风险 低
 - Elon's Banger Truck | 质量 77.95 | 可交易性 100.00 | 风险 低
-- Bymotionn Points Out Wrong Wallet | 质量 73.41 | 可交易性 100.00 | 风险 低
-- SpaceX Louisiana Spaceport | 质量 73.32 | 可交易性 94.38 | 风险 低
-- Alleged Cate Coin Meme Analysis | 质量 71.70 | 可交易性 96.54 | 风险 低
-- Shivon Zilis Star Reference | 质量 70.69 | 可交易性 91.74 | 风险 低
-- CyberLeek GTA 6 Leak | 质量 70.45 | 可交易性 100.00 | 风险 低
-- Alleged Eloncoin Meme Image | 质量 68.30 | 可交易性 80.12 | 风险 低
-- CZ's Boring Companies | 质量 66.85 | 可交易性 90.58 | 风险 低
+- dog wif helmet | 质量 73.82 | 可交易性 100.00 | 风险 低
+- SpaceX Louisiana Spaceport | 质量 73.40 | 可交易性 94.65 | 风险 低
+- Bymotionn Points Out Wrong Wallet | 质量 73.38 | 可交易性 100.00 | 风险 低
+- Shivon Zilis Star Reference | 质量 70.77 | 可交易性 92.00 | 风险 低
+- CyberLeek GTA 6 Leak | 质量 70.61 | 可交易性 100.00 | 风险 低
+- Alleged Eloncoin Meme Image | 质量 68.38 | 可交易性 80.39 | 风险 低
+- CZ's White Hair | 质量 65.98 | 可交易性 96.40 | 风险 低
 
 ## 伪叙事风险
 
 - WIN界 | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Elon's Banger Truck | 风险 46.74 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon's Banger Truck | 风险 50.02 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Pistacio Meme Character（Solana，分数 89.32）
-2. 共振最强代币：CHIIKAWA（Solana，共振 100.0）
-3. 记忆层变化：Alleged Eloncoin Meme Image 当前为“新出现”
+1. 当前最强叙事：Alleged Pistacio Meme Character（Solana，分数 90.31）
+2. 共振最强代币：ANSEM（Solana，共振 100.0）
+3. 记忆层变化：dog wif helmet 当前为“新出现”
 4. 最新官方催化：Put Your Binance Agent OS to Work & Share 2,000 USDC!
 #Binance #NarrativeOS #OpenClaw
