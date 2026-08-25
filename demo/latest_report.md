@@ -1,114 +1,115 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-25T02:50:54.246146+00:00
+- 生成时间：2026-08-25T03:35:56.357655+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 CashCat Market Cap Discussion，所在链为 Solana，叙事强度 88.21。
-- 当前平均叙事强度为 82.74，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 NTDA 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Trump Education Freedom，伪叙事风险 44.91。
+- 当前最强叙事是 NTDA，所在链为 Solana，叙事强度 87.26。
+- 当前平均叙事强度为 83.14，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 FARTCOIN，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged X Platform Trading Feature 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Baton Corp Meme，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products。
 
 ## 叙事雷达
 
-- CashCat Market Cap Discussion | Solana | 降温中 | 强度 88.21 | 质量 79.84
-  - 主题摘要：According to thz Devs's post, the CashCat token has reached a market capitalization of 200 million, and the author notes that a derivative token has not yet been launched. The pos…
-  - 资金 100.00 / 广度 96.63 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PORNHUB OFFICIAL | Solana | 降温中 | 强度 87.62 | 质量 79.07
-  - 主题摘要：Multiple tokens named 「PORNHUB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 96.70 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NTDA | Solana | 降温中 | 强度 84.85 | 质量 76.02
+- NTDA | Solana | 降温中 | 强度 87.26 | 质量 77.18
   - 主题摘要：NTDA token draws inspiration from Donald Trump's political persona, featuring a logo that resembles the White House. The token appears to be associated with Trump's digital initia…
-  - 资金 100.00 / 广度 90.23 / 确认 4.32 / 脆弱性 11.56
+  - 资金 100.00 / 广度 94.10 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Oil Fund Institution | Solana | 降温中 | 强度 84.61 | 质量 72.59
+- Alleged X Platform Trading Feature | Solana | 已确认 | 强度 86.66 | 质量 81.21
+  - 主题摘要：According to intelligent dog's post, Nikita Bier allegedly leaked information that users will be able to trade coins directly from X. This information is unverified. Please exerci…
+  - 资金 100.00 / 广度 84.73 / 确认 35.40 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- World Oil Fund Institution | Solana | 降温中 | 强度 85.25 | 质量 73.25
   - 主题摘要：Multiple tokens named 「WOFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.10 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 77.29 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Construction Cat Meme Image | BSC | 加速中 | 强度 83.37 | 质量 79.51
+- Alleged Baton Corp Meme | Solana | 降温中 | 强度 84.21 | 质量 75.93
+  - 主题摘要：According to ardin's post, the author claims that a 'Baton Corporation Ltd' narrative is emerging, suggesting the company started from humble beginnings and providing links to UK…
+  - 资金 100.00 / 广度 86.23 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Construction Cat Meme Image | BSC | 加速中 | 强度 82.75 | 质量 79.10
   - 主题摘要：According to figz's post, a construction crew in Ohio rescued a kitten named Sue, who wears a yellow hard hat resembling BNB branding. figz claims this cat is tailored for BNB, re…
-  - 资金 100.00 / 广度 87.07 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.61 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trader Holds $CASHCAT | Solana | 降温中 | 强度 81.17 | 质量 73.14
-  - 主题摘要：According to Pump.fun's post, trader @hdegroott is still holding his $CASHCAT position, now valued at over $611,000. He has gained nearly $200,000 today solely by holding.
-  - 资金 100.00 / 广度 76.92 / 确认 9.36 / 脆弱性 24.00
+- NETANYAJEW Discusses BATON Token | Solana | 降温中 | 强度 82.05 | 质量 73.97
+  - 主题摘要：According to NETANYAJEW's post, the user questions the utility of the BATON token, suggesting it should be used for its intended purpose rather than speculative trading. The post…
+  - 资金 100.00 / 广度 79.71 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: They all use Binance | BSC | 加速中 | 强度 80.31 | 质量 78.25
-  - 主题摘要：CZ回复用户关于CEX集中向Binance发送代币进行抛售的指控，幽默地表示既然大家都用Binance，那你也应该用。这种对负面指控的轻蔑与自信回应，强化了币安作为行业基础设施的地位。
-  - 资金 100.00 / 广度 88.29 / 确认 20.16 / 脆弱性 14.00
+- Ansem: Robinhood vs Solana Battle | Solana | 降温中 | 强度 81.39 | 质量 72.31
+  - 主题摘要：According to Ansem 🐂🀄️'s post, the competition between Robinhood and Solana is described as a significant event that will be remembered for its historical importance.
+  - 资金 100.00 / 广度 76.58 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- DameWeb3 Allegedly Launches Gucci Rick | Solana | 降温中 | 强度 81.25 | 质量 70.33
+  - 主题摘要：According to DameWeb3 The Great Onboarder's post, the individual allegedly launched a token named Gucci Rick, referencing a 'Gucci Morty' counterpart and claiming a DEX listing at…
+  - 资金 100.00 / 广度 71.27 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Red Circle Perpetrators Meme Coin Promotion | BSC | 降温中 | 强度 78.89 | 质量 71.38
+  - 主题摘要：According to PurpleBull's post, the 'Red Circle Perpetrators' internet meme is being leveraged to promote an associated token. PurpleBull claims to have onboarded a TikTok creator…
+  - 资金 100.00 / 广度 65.78 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged IREN Meme Narrative | Solana | 加速中 | 强度 77.03 | 质量 67.31
+  - 主题摘要：According to *PARODY* Ephraim "Shabbat Monster" Schindler's post, Elon Musk shared data on X's most searched cashtags, highlighting $IREN as the most frequently searched. Schindle…
+  - 资金 100.00 / 广度 75.85 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $MAYHEMCAT Token Launch | Solana | 降温中 | 强度 79.96 | 质量 69.36
-  - 主题摘要：According to quant's post, the author claims that a tutorial for 'Mayhem Mode' provided an example of a coin named $MAYHEMCAT, which is listed on pump.fun with a DEX liquidity of…
-  - 资金 100.00 / 广度 74.04 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- US Trust Fund | Solana | 降温中 | 强度 78.19 | 质量 64.38
-  - 主题摘要：Multiple tokens named 「USTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.55 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump Education Freedom | BSC | 点火期 | 强度 77.51 | 质量 75.40
-  - 主题摘要：The White House announced that President Donald J. Trump has restored education freedom to families across America, highlighting the letter 'F' for FREEDOM.
-  - 资金 100.00 / 广度 89.12 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Nathan Shares Frank DeGods' CATE Trade | Solana | 加速中 | 强度 77.29 | 质量 73.77
-  - 主题摘要：Multiple tokens named 「trickshot」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.52 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- DCA Strategy Discussion | BSC | 加速中 | 强度 76.95 | 质量 76.91
+- DCA Strategy Discussion | BSC | 加速中 | 强度 76.89 | 质量 76.91
   - 主题摘要：According to the post, the content expresses support for Dollar-Cost Averaging (DCA) investment strategies, specifically referencing Michael Saylor and MicroStrategy. The post cha…
   - 资金 100.00 / 广度 81.58 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:holon Points Out Exchange-Entity Correspondence | BSC | 加速中 | 强度 75.71 | 质量 74.03
-  - 主题摘要：According to holon's post, the author identifies a connection between Binance and Nest Exchange Limited ($NEST). The post lists a sequence of entities, including Robinhood and Cas…
-  - 资金 100.00 / 广度 81.26 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Red Circle Perpetrators Meme Coin Promotion | BSC | 降温中 | 强度 75.62 | 质量 69.42
-  - 主题摘要：According to PurpleBull's post, the 'Red Circle Perpetrators' internet meme is being leveraged to promote an associated token. PurpleBull claims to have onboarded a TikTok creator…
-  - 资金 100.00 / 广度 64.52 / 确认 9.36 / 脆弱性 14.00
+- Ello Comments on X Trading Feature | BSC | 降温中 | 强度 76.51 | 质量 66.14
+  - 主题摘要：Multiple tokens named 「cashtags」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.73 / 确认 15.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ: They all use Binance | BSC | 加速中 | 强度 76.31 | 质量 75.74
+  - 主题摘要：CZ回复用户关于CEX集中向Binance发送代币进行抛售的指控，幽默地表示既然大家都用Binance，那你也应该用。这种对负面指控的轻蔑与自信回应，强化了币安作为行业基础设施的地位。
+  - 资金 100.00 / 广度 88.31 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Meeko Token | BSC | 加速中 | 强度 74.89 | 质量 66.53
+  - 主题摘要：According to 莉兹🔶BNB's post, the Shiba Inu meme character has introduced a new character named "Meeko," which is being referred to as the "next Doge." This has led to discussions r…
+  - 资金 100.00 / 广度 86.90 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.74，其中已确认叙事 0 个。
-- Nathan Shares Frank DeGods' CATE Trade 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- CashCat Market Cap Discussion 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.14，其中已确认叙事 1 个。
+- Alleged X Platform Trading Feature 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- NTDA 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CashCat Market Cap Discussion | 质量 79.84 | 可交易性 100.00 | 风险 低
-- Alleged Construction Cat Meme Image | 质量 79.51 | 可交易性 100.00 | 风险 低
-- PORNHUB OFFICIAL | 质量 79.07 | 可交易性 100.00 | 风险 低
-- CZ: They all use Binance | 质量 78.25 | 可交易性 100.00 | 风险 低
+- Alleged X Platform Trading Feature | 质量 81.21 | 可交易性 100.00 | 风险 低
+- Alleged Construction Cat Meme Image | 质量 79.10 | 可交易性 99.11 | 风险 低
+- NTDA | 质量 77.18 | 可交易性 100.00 | 风险 低
 - DCA Strategy Discussion | 质量 76.91 | 可交易性 100.00 | 风险 低
-- NTDA | 质量 76.02 | 可交易性 100.00 | 风险 低
-- Trump Education Freedom | 质量 75.40 | 可交易性 92.71 | 风险 低
-- Uncertain:holon Points Out Exchange-Entity Correspondence | 质量 74.03 | 可交易性 88.08 | 风险 低
-- Nathan Shares Frank DeGods' CATE Trade | 质量 73.77 | 可交易性 85.58 | 风险 低
-- Trader Holds $CASHCAT | 质量 73.14 | 可交易性 100.00 | 风险 低
+- Alleged Baton Corp Meme | 质量 75.93 | 可交易性 100.00 | 风险 低
+- CZ: They all use Binance | 质量 75.74 | 可交易性 100.00 | 风险 低
+- NETANYAJEW Discusses BATON Token | 质量 73.97 | 可交易性 100.00 | 风险 低
+- World Oil Fund Institution | 质量 73.25 | 可交易性 100.00 | 风险 低
+- Ansem: Robinhood vs Solana Battle | 质量 72.31 | 可交易性 97.58 | 风险 低
+- Alleged Red Circle Perpetrators Meme Coin Promotion | 质量 71.38 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Trump Education Freedom | 风险 44.91 | 原因：流动性偏薄
-- Trader Holds $CASHCAT | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Baton Corp Meme | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- NETANYAJEW Discusses BATON Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Ansem: Robinhood vs Solana Battle | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- Meeko | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Meeko | BSC | 看多 | 新鲜度 100.00 | Alleged Meeko Token
 - Sue | BSC | 看多 | 新鲜度 100.00 | Alleged Construction Cat Meme Image
 - BNBCAT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BinanceCat | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BITMINE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 牛布布 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BATON | Solana | 看多 | 新鲜度 100.00 | CashCat Market Cap Discussion
+- X | Solana | 看多 | 新鲜度 100.00 | Alleged X Platform Trading Feature
+- BOV | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BATON | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - kylie | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- AGENTS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Meeko | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CashCat Market Cap Discussion（Solana，分数 88.21）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：NTDA 当前为“新出现”
+1. 当前最强叙事：NTDA（Solana，分数 87.26）
+2. 共振最强代币：FARTCOIN（Solana，共振 100.0）
+3. 记忆层变化：Alleged X Platform Trading Feature 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products
 #Binance #NarrativeOS #OpenClaw
