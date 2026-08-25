@@ -1,108 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-25T11:14:42.183936+00:00
+- 生成时间：2026-08-25T11:42:47.299029+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 thedevrrrrrr Discusses CATE Coin，所在链为 Solana，叙事强度 87.61。
-- 当前平均叙事强度为 83.62，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 FBI Issues Warrant for Son Un Chol 当前处于“新出现”状态。
+- 当前最强叙事是 Alleged Se Yong Park Meme Image，所在链为 Solana，叙事强度 87.2。
+- 当前平均叙事强度为 83.01，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 CATE，来自 Solana，共振分数 100.0。
+- 记忆层显示 litecat 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Nikita Bier Alleged X Trading Feature，伪叙事风险 52.99。
 - 最新官方催化来自 新币上新：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-08-26。
 
 ## 叙事雷达
 
-- thedevrrrrrr Discusses CATE Coin | Solana | 降温中 | 强度 87.61 | 质量 78.48
-  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 98.42 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Se Yong Park Meme Image | Solana | 加速中 | 强度 86.44 | 质量 79.02
-  - 主题摘要：According to Nikolai's post, he shared a Meme image referencing Se Yong Park, noting that his full name has never been deployed. This content relates to tokens such as SEYONGPARK…
-  - 资金 100.00 / 广度 85.46 / 确认 24.48 / 脆弱性 24.00
+- Alleged Se Yong Park Meme Image | Solana | 加速中 | 强度 87.20 | 质量 80.03
+  - 主题摘要：According to Nikolai's post, Se Yong Park is associated with a Meme image. The post references a discussion regarding lung cancer and a deceased grandfather, linking this narrativ…
+  - 资金 100.00 / 广度 88.83 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged GTA VI First Mission Leaked | Solana | 降温中 | 强度 85.61 | 质量 77.94
+- thedevrrrrrr Discusses CATE Coin | Solana | 降温中 | 强度 86.41 | 质量 78.48
+  - 主题摘要：Multiple tokens named 「CATE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 98.42 / 确认 4.32 / 脆弱性 10.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged GTA VI First Mission Leaked | Solana | 降温中 | 强度 85.62 | 质量 77.95
   - 主题摘要：According to cyberleek's post, the first mission of GTA VI has been leaked. The post includes hashtags related to GTA VI, GTA, and Rockstar, indicating a claim regarding early acc…
-  - 资金 100.00 / 广度 92.95 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 92.96 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 - UOTF | Solana | 降温中 | 强度 84.81 | 质量 72.96
   - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 76.32 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FBI Issues Warrant for Son Un Chol | Solana | 降温中 | 强度 82.90 | 质量 71.61
-  - 主题摘要：According to InHumandev's post, the FBI has issued an international warrant for Son Un Chol, identified as the alleged Cyberleek hacker. The post notes that the FBI is offering a…
-  - 资金 100.00 / 广度 75.54 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BATON OG WHY DID WE SEND NEW? | Solana | 降温中 | 强度 82.35 | 质量 74.04
-  - 主题摘要：Multiple tokens named 「BATON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.95 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Issuance of 'My Binance Life' Meme Image | BSC | 加速中 | 强度 82.33 | 质量 77.49
+- Uncertain:Alleged Issuance of 'My Binance Life' Meme Image | BSC | 加速中 | 强度 83.01 | 质量 77.63
   - 主题摘要：According to 我肯定会发财！'s post, the user claims to have launched a token named 'My Binance Life' (我的币安人生). This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 83.65 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.67 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged BATON Meme Image | Solana | 降温中 | 强度 82.24 | 质量 73.95
-  - 主题摘要：According to honest's post, the author advocates for promoting the $BATON token as a 'breadstick' Meme image, drawing on the Russian meaning of 'baton' (bread) and the slang for m…
-  - 资金 100.00 / 广度 79.65 / 确认 9.36 / 脆弱性 24.00
+- FBI Issues Warrant for Son Un Chol | Solana | 降温中 | 强度 82.91 | 质量 71.61
+  - 主题摘要：According to InHumandev's post, the FBI has issued an international warrant for Son Un Chol, identified as the alleged Cyberleek hacker. The post notes that the FBI is offering a…
+  - 资金 100.00 / 广度 75.53 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Red Circle Perpetrators Meme Coin Promotion | BSC | 加速中 | 强度 80.72 | 质量 73.35
+- BATON OG WHY DID WE SEND NEW? | Solana | 降温中 | 强度 82.55 | 质量 74.25
+  - 主题摘要：Multiple tokens named 「BATON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.63 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Red Circle Perpetrators Meme Coin Promotion | BSC | 加速中 | 强度 79.58 | 质量 73.35
   - 主题摘要：According to PurpleBull's post, the 'Red Circle Perpetrators' internet meme is being leveraged to promote an associated token. PurpleBull claims to have onboarded a TikTok creator…
-  - 资金 100.00 / 广度 66.54 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 66.54 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- American Oil Relief Program | Solana | 降温中 | 强度 76.99 | 质量 66.40
-  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 58.16 / 确认 4.32 / 脆弱性 0.00
+- litecat | BSC | 降温中 | 强度 78.81 | 质量 68.49
+  - 主题摘要：Multiple tokens named 「LITECAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.89 / 确认 11.52 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Google Japan Posts Pixel Character Meme | BSC | 点火期 | 强度 72.17 | 质量 63.96
+- mario Comments on X Platform Trading Feature | Solana | 降温中 | 强度 77.57 | 质量 72.86
+  - 主题摘要：According to mario's post, the user criticizes the current implementation of the coin buying feature on X, describing it as 'terrible.' mario suggests that the feature should inst…
+  - 资金 100.00 / 广度 83.08 / 确认 11.52 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- American Oil Relief Program | Solana | 降温中 | 强度 77.03 | 质量 66.43
+  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 58.28 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Google Japan Posts Pixel Character Meme | BSC | 加速中 | 强度 72.54 | 质量 65.81
   - 主题摘要：According to Google Japan's post, the official account shared a Meme image featuring a character with a surprised expression, accompanied by text introducing the character. The po…
-  - 资金 100.00 / 广度 75.86 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Nikita Bier Alleged X Trading Feature | BSC | 点火期 | 强度 72.14 | 质量 69.32
-  - 主题摘要：According to intelligent dog's post, Nikita Bier allegedly leaked that users will be able to trade coins directly from X.com. This information is unverified. Please exercise cauti…
-  - 资金 100.00 / 广度 85.28 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Meeko Token | BSC | 加速中 | 强度 72.13 | 质量 65.96
+  - 资金 100.00 / 广度 77.97 / 确认 18.72 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Meeko Token | BSC | 加速中 | 强度 72.37 | 质量 66.10
   - 主题摘要：According to 莉兹🔶BNB's post, the Shiba Inu meme character has returned with a new character named "Meeko," which is being referred to as the "next Doge." This has led to discussion…
-  - 资金 100.00 / 广度 87.17 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.19 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of 18BRO Token | BSC | 加速中 | 强度 71.41 | 质量 62.75
-  - 主题摘要：According to 小欧小O's post, the viral black cat '18bro' from 7-Eleven Hong Kong is allegedly suitable for tokenization. The author suggests launching a token based on this Meme imag…
-  - 资金 100.00 / 广度 78.62 / 确认 19.44 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Nikita Bier Alleged X Trading Feature | BSC | 点火期 | 强度 71.89 | 质量 68.56
+  - 主题摘要：According to intelligent dog's post, Nikita Bier allegedly leaked that users will be able to trade coins directly from X.com. This information is unverified. Please exercise cauti…
+  - 资金 100.00 / 广度 85.32 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.62，其中已确认叙事 0 个。
-- Google Japan Posts Pixel Character Meme 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.01，其中已确认叙事 0 个。
 - thedevrrrrrr Discusses CATE Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Se Yong Park Meme Image | 质量 79.02 | 可交易性 100.00 | 风险 低
+- Alleged Se Yong Park Meme Image | 质量 80.03 | 可交易性 100.00 | 风险 低
 - thedevrrrrrr Discusses CATE Coin | 质量 78.48 | 可交易性 100.00 | 风险 低
-- Alleged GTA VI First Mission Leaked | 质量 77.94 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Issuance of 'My Binance Life' Meme Image | 质量 77.49 | 可交易性 97.24 | 风险 低
-- BATON OG WHY DID WE SEND NEW? | 质量 74.04 | 可交易性 100.00 | 风险 低
-- Alleged BATON Meme Image | 质量 73.95 | 可交易性 100.00 | 风险 低
+- Alleged GTA VI First Mission Leaked | 质量 77.95 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Issuance of 'My Binance Life' Meme Image | 质量 77.63 | 可交易性 97.66 | 风险 低
+- BATON OG WHY DID WE SEND NEW? | 质量 74.25 | 可交易性 100.00 | 风险 低
 - Alleged Red Circle Perpetrators Meme Coin Promotion | 质量 73.35 | 可交易性 100.00 | 风险 低
 - UOTF | 质量 72.96 | 可交易性 100.00 | 风险 低
+- mario Comments on X Platform Trading Feature | 质量 72.86 | 可交易性 91.34 | 风险 低
 - FBI Issues Warrant for Son Un Chol | 质量 71.61 | 可交易性 100.00 | 风险 低
-- Nikita Bier Alleged X Trading Feature | 质量 69.32 | 可交易性 95.55 | 风险 低
+- Nikita Bier Alleged X Trading Feature | 质量 68.56 | 可交易性 96.00 | 风险 低
 
 ## 伪叙事风险
 
 - Nikita Bier Alleged X Trading Feature | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Google Japan Posts Pixel Character Meme | 风险 43.18 | 原因：流动性偏薄
 - Alleged GTA VI First Mission Leaked | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - BATON OG WHY DID WE SEND NEW? | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged BATON Meme Image | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- 十八bro | BSC | 看多 | 新鲜度 100.00 | Alleged Launch of 18BRO Token
+- 十八bro | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BNC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Meeko | BSC | 看多 | 新鲜度 100.00 | Alleged Meeko Token
 - Sue | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -137,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：thedevrrrrrr Discusses CATE Coin（Solana，分数 87.61）
-2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：FBI Issues Warrant for Son Un Chol 当前为“新出现”
+1. 当前最强叙事：Alleged Se Yong Park Meme Image（Solana，分数 87.2）
+2. 共振最强代币：CATE（Solana，共振 100.0）
+3. 记忆层变化：litecat 当前为“新出现”
 4. 最新官方催化：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-08-26
 #Binance #NarrativeOS #OpenClaw
