@@ -1,113 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-25T18:18:11.321415+00:00
+- 生成时间：2026-08-25T19:04:59.546561+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Bracket Company Meme Token，所在链为 Solana，叙事强度 86.22。
-- 当前平均叙事强度为 81.65，其中已确认叙事 0 个。
+- 当前最强叙事是 Alleged DOLLY Token Launch，所在链为 Solana，叙事强度 87.14。
+- 当前平均叙事强度为 80.54，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MEMESTOCK，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged DOLLY Token Launch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Meme Image Publication，伪叙事风险 47.23。
+- 记忆层显示 Alleged Melania Trump Meme 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 WIN界，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Put Your Binance Agent OS to Work & Share 2,000 USDC!。
 
 ## 叙事雷达
 
-- Alleged Bracket Company Meme Token | Solana | 加速中 | 强度 86.22 | 质量 75.93
-  - 主题摘要：According to z's post, the user claims that Bracket Company Inc. owns multiple entities including Baton and Pump.fun. In light of this, z introduces a token named [cat]. This info…
-  - 资金 100.00 / 广度 84.21 / 确认 24.48 / 脆弱性 14.00
+- Alleged DOLLY Token Launch | Solana | 加速中 | 强度 87.14 | 质量 79.70
+  - 主题摘要：Multiple tokens named 「DOLLY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.89 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- alon Comments on Pump.fun Rewards | Solana | 降温中 | 强度 82.60 | 质量 73.55
-  - 主题摘要：According to alon's post, the co-founder of Pumpfun, replied to a tweet regarding Pumpfun callout rewards with the acronym "JFC." This comment is associated with the JFC token (Je…
-  - 资金 100.00 / 广度 78.29 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Helmet Cat | Solana | 降温中 | 强度 82.57 | 质量 76.81
-  - 主题摘要：Multiple tokens named 「Otter」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.87 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GTA Leaks Disappearance | Solana | 降温中 | 强度 81.94 | 质量 72.81
+- GTA Leaks Disappearance | Solana | 降温中 | 强度 81.87 | 质量 72.68
   - 主题摘要：According to Autism Capital 🧩's post, the user speculates on the disappearance of GTA leaks and mentions 'cyberleek' in a humorous context regarding Rockstar Games. This content r…
-  - 资金 100.00 / 广度 79.52 / 确认 4.32 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.09 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Gizmodo Discusses Nvidia Gaming | Solana | 降温中 | 强度 81.09 | 质量 69.24
+- Gizmodo Discusses Nvidia Gaming | Solana | 降温中 | 强度 81.18 | 质量 69.37
   - 主题摘要：According to Gizmodo's post, the publication highlights Nvidia's significant advancements in gaming technology for future PCs. The content focuses on the company's hardware develo…
-  - 资金 100.00 / 广度 76.72 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.81 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Bottom: Lucky Cat | BSC | 已确认 | 强度 80.42 | 质量 82.06
-  - 主题摘要：CZ在回复KOL关于其精准抄底言论的夸奖时，幽默地自嘲为“瞎猫撞到死耗子”。这种币安CEO的极度谦逊与市场对其神准预测的狂热崇拜形成强烈反差，极具Meme传播潜力。
-  - 资金 100.00 / 广度 90.82 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Meme Image Publication | Solana | 点火期 | 强度 80.36 | 质量 80.78
+- Alleged Bracket Company Meme Token | Solana | 加速中 | 强度 80.75 | 质量 76.36
+  - 主题摘要：According to z's post, the user claims that Bracket Company Inc. owns multiple entities including Baton and Pump.fun. In light of this, z introduces a token named [cat]. This info…
+  - 资金 100.00 / 广度 85.86 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Meme Image Publication | Solana | 点火期 | 强度 80.20 | 质量 80.77
   - 主题摘要：According to d's post, a user requested the creation of a coin for SKEL (The Black Bull), citing a statement to 'make him a coin' and mentioning holding fees. This implies an alle…
-  - 资金 100.00 / 广度 97.11 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 97.09 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged DOLLY Token Launch | Solana | 降温中 | 强度 79.50 | 质量 71.98
-  - 主题摘要：According to CGTN Europe's post, Dolly Parton has passed away, prompting the creation of multiple tokens such as 'RIP Dolly Parton' and 'Justice for Dolly Parton'. This informatio…
-  - 资金 100.00 / 广度 81.36 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Teller | Solana | 降温中 | 强度 78.91 | 质量 67.50
+- CZ Bottom: Lucky Cat | BSC | 已确认 | 强度 80.15 | 质量 81.78
+  - 主题摘要：CZ在回复KOL关于其精准抄底言论的夸奖时，幽默地自嘲为“瞎猫撞到死耗子”。这种币安CEO的极度谦逊与市场对其神准预测的狂热崇拜形成强烈反差，极具Meme传播潜力。
+  - 资金 100.00 / 广度 90.84 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Teller | Solana | 降温中 | 强度 78.95 | 质量 67.54
   - 主题摘要：Multiple tokens named 「DEBIT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 58.13 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 58.26 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance TR Introduces Bitcoin Whitepaper | BSC | 降温中 | 强度 74.75 | 质量 64.22
+- Alleged Melania Trump Meme | Solana | 加速中 | 强度 78.10 | 质量 80.58
+  - 主题摘要：According to SCP-158921591's post, a link to Melania Trump's tweet is shared with the caption 'the one asset that can never be taken away?'. This implies a potential association b…
+  - 资金 100.00 / 广度 94.86 / 确认 18.72 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- QUEEZING | Solana | 加速中 | 强度 76.14 | 质量 77.78
+  - 主题摘要：Multiple tokens named 「QUEEZING」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.53 / 确认 18.72 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Binance TR Introduces Bitcoin Whitepaper | BSC | 降温中 | 强度 74.83 | 质量 64.33
   - 主题摘要：According to Binance TR's post, the account is launching a new series focusing on the foundations of Bitcoin, specifically the whitepaper and its mysterious creator, Satoshi Nakam…
-  - 资金 100.00 / 广度 67.80 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 67.83 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- batman 🔶 Claims New Life Token Trending on Douyin | BSC | 加速中 | 强度 74.58 | 质量 60.80
-  - 主题摘要：According to batman 🔶's post, the individual claims that the 'New Life' (牛来人生) Meme image has reached the trending list on Douyin and is experiencing rapid popularity. The post as…
-  - 资金 100.00 / 广度 76.67 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Steam Game Gambling Controversy | BSC | 加速中 | 强度 71.20 | 质量 65.97
+- Steam Game Gambling Controversy | BSC | 加速中 | 强度 71.65 | 质量 65.99
   - 主题摘要：According to 大少牙's post, a recently popular Steam game featuring a roulette mode for gambling in-game items is gaining traction among streamers. The post highlights the game's eme…
-  - 资金 100.00 / 广度 79.29 / 确认 19.44 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.31 / 确认 19.44 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Miss Mao Meme Coin | BSC | 加速中 | 强度 70.28 | 质量 58.41
-  - 主题摘要：According to Rastapasta's post, the artist behind the 'Miss Mao' sculptures was jailed, sparking discussions about the associated 'Miss Mao' token. Rastapasta claims the token is…
-  - 资金 100.00 / 广度 67.37 / 确认 23.76 / 脆弱性 14.00
+- QUEEZING | BSC | 降温中 | 强度 71.45 | 质量 57.51
+  - 主题摘要：Multiple tokens named 「QUEEZING」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.12 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- batman 🔶 Claims New Life Token Trending on Douyin | BSC | 加速中 | 强度 71.36 | 质量 57.93
+  - 主题摘要：According to batman 🔶's post, the individual claims that the 'New Life' (牛来人生) Meme image has reached the trending list on Douyin and is experiencing rapid popularity. The post as…
+  - 资金 100.00 / 广度 76.71 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of 18BRO Token | BSC | 加速中 | 强度 70.23 | 质量 62.72
-  - 主题摘要：According to 小欧小O's post, the viral '18bro' black cat meme, adopted by 7-Eleven in Hong Kong, is allegedly being tokenized. The author suggests the meme's popularity makes it suit…
-  - 资金 100.00 / 广度 80.48 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- WIN界 | BSC | 点火期 | 强度 70.91 | 质量 60.72
+  - 主题摘要：Multiple tokens named 「WIN界」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.79 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.65，其中已确认叙事 0 个。
-- Alleged Miss Mao Meme Coin 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- alon Comments on Pump.fun Rewards 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.54，其中已确认叙事 0 个。
+- Alleged Melania Trump Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- GTA Leaks Disappearance 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ Bottom: Lucky Cat | 质量 82.06 | 可交易性 100.00 | 风险 低
-- Alleged Meme Image Publication | 质量 80.78 | 可交易性 100.00 | 风险 低
-- The Helmet Cat | 质量 76.81 | 可交易性 100.00 | 风险 低
-- Alleged Bracket Company Meme Token | 质量 75.93 | 可交易性 90.95 | 风险 低
-- alon Comments on Pump.fun Rewards | 质量 73.55 | 可交易性 100.00 | 风险 低
-- GTA Leaks Disappearance | 质量 72.81 | 可交易性 100.00 | 风险 低
-- Alleged DOLLY Token Launch | 质量 71.98 | 可交易性 86.44 | 风险 低
-- Gizmodo Discusses Nvidia Gaming | 质量 69.24 | 可交易性 87.23 | 风险 低
-- Teller | 质量 67.50 | 可交易性 100.00 | 风险 低
-- Steam Game Gambling Controversy | 质量 65.97 | 可交易性 66.36 | 风险 低
+- CZ Bottom: Lucky Cat | 质量 81.78 | 可交易性 100.00 | 风险 低
+- Alleged Meme Image Publication | 质量 80.77 | 可交易性 100.00 | 风险 低
+- Alleged Melania Trump Meme | 质量 80.58 | 可交易性 100.00 | 风险 低
+- Alleged DOLLY Token Launch | 质量 79.70 | 可交易性 100.00 | 风险 低
+- QUEEZING | 质量 77.78 | 可交易性 100.00 | 风险 低
+- Alleged Bracket Company Meme Token | 质量 76.36 | 可交易性 90.73 | 风险 低
+- GTA Leaks Disappearance | 质量 72.68 | 可交易性 100.00 | 风险 低
+- Gizmodo Discusses Nvidia Gaming | 质量 69.37 | 可交易性 87.55 | 风险 低
+- Teller | 质量 67.54 | 可交易性 100.00 | 风险 低
+- Steam Game Gambling Controversy | 质量 65.99 | 可交易性 66.41 | 风险 低
 
 ## 伪叙事风险
 
+- WIN界 | 风险 47.79 | 原因：流动性偏薄
 - Alleged Meme Image Publication | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- 十八bro | BSC | 看多 | 新鲜度 100.00 | Alleged Launch of 18BRO Token
+- 十八bro | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BNC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Meeko | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Sue | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BNBCAT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Martians | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- [cat] | Solana | 看多 | 新鲜度 100.00 | Alleged Bracket Company Meme Token
 - MEMESTONK | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BOV | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - X | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- KUMA | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Bracket Company Meme Token（Solana，分数 86.22）
+1. 当前最强叙事：Alleged DOLLY Token Launch（Solana，分数 87.14）
 2. 共振最强代币：MEMESTOCK（BSC，共振 100.0）
-3. 记忆层变化：Alleged DOLLY Token Launch 当前为“新出现”
+3. 记忆层变化：Alleged Melania Trump Meme 当前为“新出现”
 4. 最新官方催化：Put Your Binance Agent OS to Work & Share 2,000 USDC!
 #Binance #NarrativeOS #OpenClaw
