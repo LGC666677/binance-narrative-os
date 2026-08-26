@@ -1,103 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-26T09:22:36.682290+00:00
+- 生成时间：2026-08-26T10:01:44.740998+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Uncertain:Alleged Binance Dog Meme Image，所在链为 BSC，叙事强度 81.12。
-- 当前平均叙事强度为 74.47，其中已确认叙事 0 个。
+- 当前最强叙事是 Alleged Sue Meme Narrative Critique，所在链为 Solana，叙事强度 83.21。
+- 当前平均叙事强度为 79.1，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 CHIIKAWA，来自 Solana，共振分数 100.0。
-- 记忆层显示 Trump Banknote 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Wittgenstein Lion Meme，伪叙事风险 51.82。
+- 记忆层显示 Alleged Launch of New Character Frug 当前处于“强化”状态。
+- 当前最需要防止误判的叙事是 tk: Gen Z TikTok Editors Find Wittgenstein，伪叙事风险 43.28。
 - 最新官方催化来自 币安最新公告：Binance Will Support the Corning Incorporated (GLW) and Goldman Sachs Group (GS) Cash Dividend Distribution via bStocks。
 
 ## 叙事雷达
 
-- Uncertain:Alleged Binance Dog Meme Image | BSC | 加速中 | 强度 81.12 | 质量 68.39
+- Alleged Sue Meme Narrative Critique | Solana | 降温中 | 强度 83.21 | 质量 73.67
+  - 主题摘要：According to lildev's post, the Construction Cat (Sue) token is being associated with the WIF narrative, which the author argues lowers its potential ceiling. The post references…
+  - 资金 100.00 / 广度 78.69 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- lola Quotes RapidResponse47 Racing Tweet | Solana | 加速中 | 强度 82.33 | 质量 75.68
+  - 主题摘要：According to lola's post, she shared a tweet from RapidResponse47 stating, "WE HAVE GREEN! WE ARE RACING IN THE FREEDOM 250!" The post includes an audio link and the text "listen…
+  - 资金 100.00 / 广度 78.02 / 确认 19.44 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of New Character Frug | Solana | 降温中 | 强度 82.04 | 质量 71.96
+  - 主题摘要：According to Pen the Artist ✏️'s post, the creator of Pudgy Penguins introduces a new character named Frug, described as a nonchalant frog with 'aura'. The post mentions $PENGU as…
+  - 资金 100.00 / 广度 86.55 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged Binance Dog Meme Image | BSC | 加速中 | 强度 79.98 | 质量 68.47
   - 主题摘要：According to just a dev's post, the user claims that Binance's official image contains a dog, referring to it as the 'Binance Dog' Meme image. The post also mentions the BNB pool.…
-  - 资金 100.00 / 广度 87.18 / 确认 27.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.23 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump Banknote | Solana | 降温中 | 强度 76.50 | 质量 71.09
-  - 主题摘要：Multiple tokens named 「TB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.89 / 确认 15.12 / 脆弱性 14.00
+- Grand Theft Auto VI | Solana | 降温中 | 强度 79.36 | 质量 70.91
+  - 主题摘要：GTA6 token draws inspiration from the Grand Theft Auto video game franchise, featuring a logo with the iconic pink 'GTA' logo. The token aims to connect gaming enthusiasts with bl…
+  - 资金 100.00 / 广度 73.20 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Bnb Chain Test Dog Rufus | BSC | 加速中 | 强度 75.76 | 质量 70.84
-  - 主题摘要：According to 马帕鲁.AI's post, a test dog named Rufus was found in the BNB Chain official GitHub. This has led to speculation regarding the Rufus token. This information is unverifie…
-  - 资金 100.00 / 广度 76.85 / 确认 24.48 / 脆弱性 24.00
+- Yu-Gi-Oh! Crocs Collab Meme | Solana | 降温中 | 强度 77.67 | 质量 68.77
+  - 主题摘要：According to Dexerto's post, Yu-Gi-Oh! unveiled a collaboration with Crocs featuring a Meme image of a monster named CROCODILE wearing Crocs. The post details the creature's stats…
+  - 资金 100.00 / 广度 74.59 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Depe Token Narrative | Solana | 降温中 | 强度 77.34 | 质量 68.76
+  - 主题摘要：According to petal's post, the author claims that a token for 'Depe' (Dog Pepe) has never existed despite its viral history on 4chan. The post suggests launching a Depe token to c…
+  - 资金 100.00 / 广度 81.27 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- tk: Gen Z TikTok Editors Find Wittgenstein | Solana | 降温中 | 强度 75.92 | 质量 67.02
+  - 主题摘要：According to tk's post, Gen Z TikTok editors have finally found Wittgenstein, a development the author has been waiting for years. The post references the philosopher Ludwig Wittg…
+  - 资金 100.00 / 广度 63.39 / 确认 0.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged X Opossum Meme | BSC | 加速中 | 强度 75.51 | 质量 71.60
+  - 主题摘要：According to Momo's post, Owen Sparks discovered a hidden opossum insignia on a Starshield t-shirt, which Momo associates with the alleged X Opossum Meme Coin. This information is…
+  - 资金 100.00 / 广度 77.28 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Randy | BSC | 加速中 | 强度 75.22 | 质量 73.66
+- Randy | BSC | 加速中 | 强度 75.44 | 质量 72.00
   - 主题摘要：According to Dirss's post, the user shared a LinkedIn profile link for Randy Xiaoran Luo, accompanied by the text "IT'S HER". This action highlights the individual's professional…
-  - 资金 100.00 / 广度 86.77 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.57 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged X Opossum Meme | BSC | 加速中 | 强度 75.12 | 质量 71.48
-  - 主题摘要：According to Momo's post, Owen Sparks discovered a hidden opossum insignia on a Starshield t-shirt, which Momo associates with the 'X Opossum' meme. This content references the X…
-  - 资金 100.00 / 广度 77.24 / 确认 23.76 / 脆弱性 14.00
+- Alleged Bnb Chain Test Dog Rufus | BSC | 加速中 | 强度 75.06 | 质量 70.64
+  - 主题摘要：According to 马帕鲁.AI's post, a test dog named Rufus was found in the BNB Chain official GitHub. This has led to speculation regarding the Rufus token. This information is unverifie…
+  - 资金 100.00 / 广度 76.87 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bitcoin 2026 | BSC | 点火期 | 强度 73.78 | 质量 71.33
-  - 主题摘要：Binance marks the 18th anniversary of Bitcoin's genesis by comparing its origin in 2008 to a future milestone in 2026, sparking community discussion on long-term crypto adoption a…
-  - 资金 100.00 / 广度 90.59 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ Bottom: Lucky Cat | BSC | 加速中 | 强度 72.00 | 质量 70.57
+- Alleged Meme Coin CHILLPIST | Solana | 降温中 | 强度 74.90 | 质量 66.28
+  - 主题摘要：According to CHILL PISTACIO's post, the creator claims to have launched the alleged CHILLPIST token, evolving a green character into a meme and then a token. The post promotes the…
+  - 资金 100.00 / 广度 57.75 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Cat Meme Coins Launch on Binance Wallet | BSC | 降温中 | 强度 74.39 | 质量 64.81
+  - 主题摘要：Binance Wallet officially launches a dedicated leaderboard for trending cat-themed meme coins, aggregating popular assets across multiple chains to help users track market movemen…
+  - 资金 100.00 / 广度 70.85 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Bottom: Lucky Cat | BSC | 加速中 | 强度 74.26 | 质量 74.08
   - 主题摘要：CZ在回复KOL关于其精准抄底言论的夸奖时，幽默地自嘲为“瞎猫撞到死耗子”。这种币安CEO的极度谦逊与市场对其神准预测的狂热崇拜形成强烈反差，极具Meme传播潜力。
-  - 资金 100.00 / 广度 90.60 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.56 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 罗小黑 | BSC | 加速中 | 强度 71.64 | 质量 60.45
-  - 主题摘要：Multiple tokens named 「罗小黑」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.07 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WIN界 | BSC | 点火期 | 强度 71.11 | 质量 60.95
-  - 主题摘要：Multiple tokens named 「WIN界」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.63 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Wintalt Discusses Wittgensteinian Meme | Solana | 降温中 | 强度 70.79 | 质量 54.68
-  - 主题摘要：According to Wintalt's post, the user comments on the cultural significance of the Wittgensteinian Duck-Rabbit illusion, describing it as a famous animal in philosophy history. Th…
-  - 资金 100.00 / 广度 73.62 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of New Character Frug | Solana | 降温中 | 强度 68.79 | 质量 57.72
-  - 主题摘要：According to Pen the Artist ✏️'s post, the creator of Pudgy Penguins introduces a new character named Frug, describing him as a nonchalant figure with inherent 'aura'. The post me…
-  - 资金 93.37 / 广度 58.31 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Rocco Token | Solana | 降温中 | 强度 64.51 | 质量 50.17
-  - 主题摘要：According to Tobiath's post, an individual allegedly distributed a Solana wallet containing funds, accompanied by the narrative 'Dog saved by Claude'. This event is associated wit…
-  - 资金 100.00 / 广度 66.57 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Belgrade Running on Solana | Solana | 降温中 | 强度 64.32 | 质量 47.42
-  - 主题摘要：According to Solana Events's post, @solana_sailor stated that Belgrade is running on Solana today. This retweet highlights a specific regional adoption or event involving the Sola…
-  - 资金 100.00 / 广度 64.91 / 确认 0.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Wittgenstein Lion Meme | Solana | 点火期 | 强度 60.98 | 质量 49.55
-  - 主题摘要：According to Zzzzz's post, the user shared a lion image from the book "Wittgenstein and Animal Minds" by Joseph J. Lynch, referencing Ludwig Wittgenstein. This content relates to…
-  - 资金 100.00 / 广度 73.19 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 74.47，其中已确认叙事 0 个。
-- Bitcoin 2026 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Trump Banknote 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.1，其中已确认叙事 0 个。
+- lola Quotes RapidResponse47 Racing Tweet 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Sue Meme Narrative Critique 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Randy | 质量 73.66 | 可交易性 83.98 | 风险 低
-- Alleged X Opossum Meme | 质量 71.48 | 可交易性 83.59 | 风险 低
-- Bitcoin 2026 | 质量 71.33 | 可交易性 93.10 | 风险 低
-- Trump Banknote | 质量 71.09 | 可交易性 100.00 | 风险 低
-- Alleged Bnb Chain Test Dog Rufus | 质量 70.84 | 可交易性 81.33 | 风险 低
-- CZ Bottom: Lucky Cat | 质量 70.57 | 可交易性 99.75 | 风险 低
-- Uncertain:Alleged Binance Dog Meme Image | 质量 68.39 | 可交易性 60.73 | 风险 低
-- WIN界 | 质量 60.95 | 可交易性 59.68 | 风险 低
-- 罗小黑 | 质量 60.45 | 可交易性 48.48 | 风险 低
-- Alleged Launch of New Character Frug | 质量 57.72 | 可交易性 76.93 | 风险 低
+- lola Quotes RapidResponse47 Racing Tweet | 质量 75.68 | 可交易性 100.00 | 风险 低
+- CZ Bottom: Lucky Cat | 质量 74.08 | 可交易性 99.08 | 风险 低
+- Alleged Sue Meme Narrative Critique | 质量 73.67 | 可交易性 100.00 | 风险 低
+- Randy | 质量 72.00 | 可交易性 82.64 | 风险 低
+- Alleged Launch of New Character Frug | 质量 71.96 | 可交易性 82.24 | 风险 低
+- Alleged X Opossum Meme | 质量 71.60 | 可交易性 83.95 | 风险 低
+- Grand Theft Auto VI | 质量 70.91 | 可交易性 100.00 | 风险 低
+- Alleged Bnb Chain Test Dog Rufus | 质量 70.64 | 可交易性 80.66 | 风险 低
+- Yu-Gi-Oh! Crocs Collab Meme | 质量 68.77 | 可交易性 91.47 | 风险 低
+- Alleged Depe Token Narrative | 质量 68.76 | 可交易性 84.75 | 风险 低
 
 ## 伪叙事风险
 
-- Wittgenstein Lion Meme | 风险 51.82 | 原因：流动性偏薄
-- WIN界 | 风险 47.79 | 原因：流动性偏薄
-- Belgrade Running on Solana | 风险 43.28 | 原因：流动性偏薄
-- Bitcoin 2026 | 风险 43.18 | 原因：流动性偏薄
+- tk: Gen Z TikTok Editors Find Wittgenstein | 风险 43.28 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -136,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Uncertain:Alleged Binance Dog Meme Image（BSC，分数 81.12）
+1. 当前最强叙事：Alleged Sue Meme Narrative Critique（Solana，分数 83.21）
 2. 共振最强代币：CHIIKAWA（Solana，共振 100.0）
-3. 记忆层变化：Trump Banknote 当前为“新出现”
+3. 记忆层变化：Alleged Launch of New Character Frug 当前为“强化”
 4. 最新官方催化：Binance Will Support the Corning Incorporated (GLW) and Goldman Sachs Group (GS) Cash Dividend Distribution via bStocks
 #Binance #NarrativeOS #OpenClaw
