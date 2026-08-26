@@ -1,100 +1,99 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-26T05:19:55.220630+00:00
+- 生成时间：2026-08-26T05:54:36.285107+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
 - 当前最强叙事是 Sky Super Cat，所在链为 Solana，叙事强度 88.7。
-- 当前平均叙事强度为 85.02，其中已确认叙事 0 个。
+- 当前平均叙事强度为 86.09，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 PORNHUB OFFICIAL 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 NBC DFW Posts Meemers Cat Meme Image，伪叙事风险 51.87。
+- 记忆层显示 Uncertain:Alleged CZ New Wallet 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 NBC DFW Posts Meemers Cat Meme Image，伪叙事风险 46.58。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-08-27)。
 
 ## 叙事雷达
 
 - Sky Super Cat | Solana | 降温中 | 强度 88.70 | 质量 78.10
   - 主题摘要：Multiple tokens named 「Sky」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 93.46 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 93.47 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Water Reserve | Solana | 降温中 | 强度 88.50 | 质量 77.60
+- World Water Reserve | Solana | 降温中 | 强度 88.56 | 质量 77.70
   - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.15 / 确认 12.96 / 脆弱性 0.00
+  - 资金 100.00 / 广度 89.50 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PORNHUB OFFICIAL | Solana | 降温中 | 强度 87.57 | 质量 78.99
-  - 主题摘要：Multiple tokens named 「PORNHUB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 96.43 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- US Trust Fund | Solana | 加速中 | 强度 86.57 | 质量 76.86
-  - 主题摘要：Multiple tokens named 「USTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.43 / 确认 20.16 / 脆弱性 14.00
+- Alleged MCLX Meme Coin | Solana | 加速中 | 强度 88.21 | 质量 81.97
+  - 主题摘要：According to Marcell's post, an individual created a Meme image based on his drawings and issued a related token. Marcell stated he received fees and would create more Meme images…
+  - 资金 100.00 / 广度 95.28 / 确认 24.48 / 脆弱性 27.92
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- TNOS | Solana | 降温中 | 强度 83.14 | 质量 71.28
+- PORNHUB OFFICIAL | Solana | 降温中 | 强度 87.68 | 质量 79.17
+  - 主题摘要：Multiple tokens named 「PORNHUB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 97.02 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- US Trust Fund | Solana | 加速中 | 强度 86.61 | 质量 76.92
+  - 主题摘要：Multiple tokens named 「USTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.61 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- NBC DFW Posts Meemers Cat Meme Image | Solana | 降温中 | 强度 83.26 | 质量 78.10
+  - 主题摘要：According to NBC DFW's post, the media outlet shared a story about Meemers, an adorable cat with short spine syndrome, following a viral raccoon named Jimothy. The post highlights…
+  - 资金 100.00 / 广度 93.48 / 确认 9.36 / 脆弱性 34.75
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- TNOS | Solana | 降温中 | 强度 83.06 | 质量 71.28
   - 主题摘要：TNOS token represents Transnational Oil Supply, inspired by the concept of global oil distribution. The logo features a stylized oil pumpjack silhouette, symbolizing energy extrac…
   - 资金 100.00 / 广度 70.75 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NBC DFW Posts Meemers Cat Meme Image | Solana | 降温中 | 强度 82.88 | 质量 77.38
-  - 主题摘要：According to NBC DFW's post, the media outlet shared a story about Meemers, an adorable cat with short spine syndrome, following a viral raccoon named Jimothy. The post highlights…
-  - 资金 100.00 / 广度 93.33 / 确认 9.36 / 脆弱性 44.91
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged MCLX Meme Coin | Solana | 加速中 | 强度 81.51 | 质量 81.80
-  - 主题摘要：According to Marcell's post, an individual created a Meme image based on his drawings and issued a related token. Marcell stated he received fees and would create more Meme images…
-  - 资金 100.00 / 广度 94.73 / 确认 24.48 / 脆弱性 37.81
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- fih | Solana | 加速中 | 强度 81.29 | 质量 81.52
+- fih | Solana | 加速中 | 强度 82.66 | 质量 81.55
   - 主题摘要：According to cetaceans's post, the term "fih" is slang for "fish," a claim allegedly confirmed by @grok. The post shares a Meme image and links to Know Your Meme for further infor…
-  - 资金 100.00 / 广度 93.79 / 确认 24.48 / 脆弱性 37.81
+  - 资金 100.00 / 广度 93.89 / 确认 24.48 / 脆弱性 27.92
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance GM Guess | BSC | 加速中 | 强度 77.96 | 质量 64.23
-  - 主题摘要：Binance华语官方账号发布早安问候，附带爪印表情并邀请用户猜测运势。内容属于常规的日常社区互动，缺乏独特的Meme爆点或争议性话题。
-  - 资金 100.00 / 广度 77.69 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Randy | BSC | 加速中 | 强度 77.08 | 质量 77.51
+- Uncertain:Alleged CZ New Wallet | BSC | 降温中 | 强度 80.97 | 质量 72.60
+  - 主题摘要：According to rek's post, CZ allegedly launched a new wallet address (0x5d61...) linked to a biography website, suggesting a return to activity. This information is unverified. Ple…
+  - 资金 100.00 / 广度 79.73 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Randy | BSC | 加速中 | 强度 78.53 | 质量 77.65
   - 主题摘要：According to Dirss's post, the user shared a LinkedIn profile link for Randy Xiaoran Luo, accompanied by the text "IT'S HER". This action highlights the individual's professional…
-  - 资金 100.00 / 广度 84.02 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.02 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Bottom: Lucky Cat | BSC | 加速中 | 强度 75.23 | 质量 73.67
+- CZ Bottom: Lucky Cat | BSC | 加速中 | 强度 75.22 | 质量 73.65
   - 主题摘要：CZ在回复KOL关于其精准抄底言论的夸奖时，幽默地自嘲为“瞎猫撞到死耗子”。这种币安CEO的极度谦逊与市场对其神准预测的狂热崇拜形成强烈反差，极具Meme传播潜力。
   - 资金 100.00 / 广度 90.72 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 海胆刺头 Clarifies BAOBAO Mascot Identity | BSC | 加速中 | 强度 75.13 | 质量 61.83
-  - 主题摘要：According to 海胆刺头(still hold)'s post, the BAOBAO mascot at the Bitcoin Asia summit is the official mascot of the organizer, Bitcoin Company BTC Pool, rather than a sponsor's masco…
-  - 资金 100.00 / 广度 75.42 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Bnb Chain Test Dog Rufus | BSC | 加速中 | 强度 73.91 | 质量 70.45
+- Alleged Bnb Chain Test Dog Rufus | BSC | 加速中 | 强度 74.57 | 质量 70.63
   - 主题摘要：According to 马帕鲁.AI's post, a test dog named Rufus was identified in the official Bnbchain GitHub repository. This observation relates to the Rufuscoin token. This information is…
-  - 资金 100.00 / 广度 76.03 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.23 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged X Opossum Meme | BSC | 加速中 | 强度 73.71 | 质量 71.46
+- Alleged X Opossum Meme | BSC | 加速中 | 强度 73.80 | 质量 71.55
   - 主题摘要：According to Momo's post, Owen Sparks discovered a hidden opossum insignia on a Starshield t-shirt, which Momo associates with the 'X Opossum' meme. This content references the X…
-  - 资金 100.00 / 广度 77.06 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.08 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 海胆刺头 Clarifies BAOBAO Mascot Identity | BSC | 加速中 | 强度 73.32 | 质量 61.59
+  - 主题摘要：According to 海胆刺头(still hold)'s post, the BAOBAO mascot at the Bitcoin Asia summit is the official mascot of the organizer, Bitcoin Company BTC Pool, rather than a sponsor's masco…
+  - 资金 100.00 / 广度 75.56 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.02，其中已确认叙事 0 个。
-- Binance GM Guess 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 86.09，其中已确认叙事 0 个。
 - Sky Super Cat 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged MCLX Meme Coin | 质量 81.80 | 可交易性 100.00 | 风险 低
-- fih | 质量 81.52 | 可交易性 100.00 | 风险 低
-- PORNHUB OFFICIAL | 质量 78.99 | 可交易性 100.00 | 风险 低
+- Alleged MCLX Meme Coin | 质量 81.97 | 可交易性 100.00 | 风险 低
+- fih | 质量 81.55 | 可交易性 100.00 | 风险 低
+- PORNHUB OFFICIAL | 质量 79.17 | 可交易性 100.00 | 风险 低
 - Sky Super Cat | 质量 78.10 | 可交易性 100.00 | 风险 低
-- World Water Reserve | 质量 77.60 | 可交易性 100.00 | 风险 低
-- Randy | 质量 77.51 | 可交易性 94.28 | 风险 低
-- NBC DFW Posts Meemers Cat Meme Image | 质量 77.38 | 可交易性 97.73 | 风险 低
-- US Trust Fund | 质量 76.86 | 可交易性 100.00 | 风险 低
-- CZ Bottom: Lucky Cat | 质量 73.67 | 可交易性 100.00 | 风险 低
-- Alleged X Opossum Meme | 质量 71.46 | 可交易性 83.73 | 风险 低
+- NBC DFW Posts Meemers Cat Meme Image | 质量 78.10 | 可交易性 100.00 | 风险 低
+- World Water Reserve | 质量 77.70 | 可交易性 100.00 | 风险 低
+- Randy | 质量 77.65 | 可交易性 94.76 | 风险 低
+- US Trust Fund | 质量 76.92 | 可交易性 100.00 | 风险 低
+- CZ Bottom: Lucky Cat | 质量 73.65 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged CZ New Wallet | 质量 72.60 | 可交易性 90.14 | 风险 低
 
 ## 伪叙事风险
 
-- NBC DFW Posts Meemers Cat Meme Image | 风险 51.87 | 原因：流动性偏薄、龙头筹码集中度偏高
+- NBC DFW Posts Meemers Cat Meme Image | 风险 46.58 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
 
@@ -135,6 +134,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：Sky Super Cat（Solana，分数 88.7）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：PORNHUB OFFICIAL 当前为“新出现”
+3. 记忆层变化：Uncertain:Alleged CZ New Wallet 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-08-27)
 #Binance #NarrativeOS #OpenClaw
