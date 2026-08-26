@@ -1,115 +1,113 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-26T12:20:32.109270+00:00
+- 生成时间：2026-08-26T13:29:05.096938+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：2
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Uncertain:Alleged Binance Dog Meme Image，所在链为 BSC，叙事强度 86.35。
-- 当前平均叙事强度为 77.62，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Bnb Chain Test Dog Rufus 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Launch of New Character Frug，伪叙事风险 54.14。
+- 当前最强叙事是 UOTF，所在链为 Solana，叙事强度 86.2。
+- 当前平均叙事强度为 81.63，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged Launch of New Character Frug 当前处于“强化”状态。
+- 当前最需要防止误判的叙事是 BullStock，伪叙事风险 44.71。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade DeAgentAI (AIA) and Share $200K Worth of Rewards (2026-08-26)。
 
 ## 叙事雷达
 
-- Uncertain:Alleged Binance Dog Meme Image | BSC | 加速中 | 强度 86.35 | 质量 79.12
-  - 主题摘要：According to just a dev's post, the user claims that Binance's official image contains a dog, referring to it as the 'Binance Dog' Meme image. The post also mentions the BNB pool.…
-  - 资金 100.00 / 广度 90.19 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance: You have the ball | BSC | 加速中 | 强度 81.67 | 质量 77.84
-  - 主题摘要：Binance's official account posted a cryptic message "you have the ball" with a hand gesture, sparking community speculation about upcoming product launches, market direction, or m…
-  - 资金 100.00 / 广度 85.75 / 确认 18.72 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Grand Theft Auto VI | Solana | 降温中 | 强度 79.40 | 质量 70.92
-  - 主题摘要：GTA6 token draws inspiration from the Grand Theft Auto video game franchise, featuring a logo with the iconic pink 'GTA' logo. The token aims to connect gaming enthusiasts with bl…
-  - 资金 100.00 / 广度 73.24 / 确认 4.32 / 脆弱性 14.00
+- UOTF | Solana | 降温中 | 强度 86.20 | 质量 77.23
+  - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 91.62 / 确认 7.92 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Avengers: Endgame Re-release | BSC | 加速中 | 强度 78.82 | 质量 74.42
-  - 主题摘要：According to Lelouch vi Britannia's post, the author highlights an 18-year-old female founder who presented her project in Bhutan before @cz_binance. Lelouch vi Britannia question…
-  - 资金 100.00 / 广度 82.81 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of New Character Frug | Solana | 点火期 | 强度 76.56 | 质量 77.91
-  - 主题摘要：According to Pen the Artist ✏️'s post, the creator of Pudgy Penguins introduces a new character named Frug, describing it as a personal passion project. The post features a Meme i…
-  - 资金 96.59 / 广度 93.89 / 确认 7.92 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 海胆刺头 Clarifies BAOBAO Mascot Identity | BSC | 加速中 | 强度 75.84 | 质量 66.33
-  - 主题摘要：According to 海胆刺头(still hold)'s post, the BAOBAO mascot at the Bitcoin Asia summit is the official mascot of the organizer, BTC Pool, rather than a sponsor's symbol. The author as…
-  - 资金 100.00 / 广度 76.63 / 确认 31.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Bottom: Lucky Cat | BSC | 加速中 | 强度 75.41 | 质量 75.59
-  - 主题摘要：CZ在回复KOL关于其精准抄底言论的夸奖时，幽默地自嘲为“瞎猫撞到死耗子”。这种币安CEO的极度谦逊与市场对其神准预测的狂热崇拜形成强烈反差，极具Meme传播潜力。
-  - 资金 100.00 / 广度 90.64 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance GM Guess | BSC | 点火期 | 强度 75.09 | 质量 73.83
-  - 主题摘要：Binance华语官方账号发布早安问候，附带爪印表情并邀请用户猜测运势。内容属于常规的日常社区互动，缺乏独特的Meme爆点或争议性话题。
-  - 资金 100.00 / 广度 93.45 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged X Opossum Meme | BSC | 加速中 | 强度 73.96 | 质量 71.51
-  - 主题摘要：According to Momo's post, Owen Sparks discovered a hidden opossum insignia on a Starshield t-shirt, which Momo associates with the 'X Opossum' meme. This content references the 'X…
-  - 资金 100.00 / 广度 77.54 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Bnb Chain Test Dog Rufus | BSC | 加速中 | 强度 73.86 | 质量 70.12
-  - 主题摘要：According to 马帕鲁.AI's post, a test dog named Rufus was found in the BNB Chain official GitHub. This has led to speculation regarding the Rufus token. This information is unverifie…
-  - 资金 100.00 / 广度 76.94 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Murad's Investment Advice | Solana | 降温中 | 强度 73.80 | 质量 57.21
-  - 主题摘要：Multiple tokens named 「RIGHT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.08 / 确认 9.36 / 脆弱性 14.00
+- Alleged Launch of New Character Frug | Solana | 降温中 | 强度 85.53 | 质量 78.61
+  - 主题摘要：Multiple tokens named 「Frug」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 96.22 / 确认 7.92 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pray for Nepal | Solana | 点火期 | 强度 73.40 | 质量 70.38
+- NTDA | Solana | 降温中 | 强度 84.15 | 质量 73.75
+  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.66 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- PistacioSOL | Solana | 降温中 | 强度 82.88 | 质量 74.31
+  - 主题摘要：Multiple tokens named 「PISTASOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.53 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Pray for Nepal | Solana | 加速中 | 强度 79.76 | 质量 77.20
   - 主题摘要：According to Turbo's post, the author claims that the 'og coin' associated with Nepal allocates fees to UNICEF, funding projects in Nepal and Tibet. Turbo argues this is unrelated…
-  - 资金 100.00 / 广度 84.51 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Clans Publishes Project Article | Solana | 降温中 | 强度 71.92 | 质量 66.92
-  - 主题摘要：According to Clans's post, the author published an article on X regarding the Clans project, which focuses on connecting users, clan formation, and on-chain gaming wars. The conte…
-  - 资金 92.77 / 广度 59.90 / 确认 4.32 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.83 / 确认 18.72 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Grand Theft Auto VI | Solana | 降温中 | 强度 79.44 | 质量 70.96
+  - 主题摘要：GTA6 token draws inspiration from the Grand Theft Auto video game franchise, featuring a logo with the iconic pink 'GTA' logo. The token aims to connect gaming enthusiasts with bl…
+  - 资金 100.00 / 广度 73.36 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BEFORE MARCH 19 2027 | Solana | 降温中 | 强度 71.52 | 质量 58.69
-  - 主题摘要：Multiple tokens named 「GTA6」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.74 / 确认 4.32 / 脆弱性 14.00
+- Quantt Shares Instagram Post | Solana | 降温中 | 强度 77.84 | 质量 68.51
+  - 主题摘要：According to Quantt 💻's post, the author shared a link to an Instagram post titled "5th slide". The content primarily serves as a reference to external media without providing det…
+  - 资金 100.00 / 广度 65.19 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Anthropic Employee Plushies Viral | Solana | 降温中 | 强度 77.24 | 质量 63.65
+  - 主题摘要：According to Jizz's post, Anthropic is distributing 'MAGIC INTERNET' plushies to its employees, a practice that has begun to go viral on Reddit. The post highlights the growing at…
+  - 资金 100.00 / 广度 79.53 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:CZ Quoted Crypto President | BSC | 降温中 | 强度 73.51 | 质量 65.97
+  - 主题摘要：CZ quoted a post claiming the US President stated the traditional financial system is broken and crypto will fix it, adding the comment 'Crypto President!'. This highlights a narr…
+  - 资金 100.00 / 广度 74.70 / 确认 7.92 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Trump Meme Token | BSC | 降温中 | 强度 64.15 | 质量 62.17
+  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.39 / 确认 11.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 羊来了 | BSC | 降温中 | 强度 64.11 | 质量 49.03
+  - 主题摘要：Multiple tokens named 「羊来了」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 58.48 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Aiqiang Comments on Binance Meme | BSC | 降温中 | 强度 63.28 | 质量 59.57
+  - 主题摘要：According to 爱强's post, Binance's official account published content described as highly meme-like and from an invincible perspective. The post references a tweet stating 'Making…
+  - 资金 100.00 / 广度 71.23 / 确认 11.52 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- BullStock | BSC | 降温中 | 强度 61.47 | 质量 49.02
+  - 主题摘要：Multiple tokens named 「BullStock」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.40 / 确认 11.52 / 脆弱性 34.48
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- TRUMP Meme Image in CCTV Video | BSC | 降温中 | 强度 60.34 | 质量 56.97
+  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 61.57 / 确认 11.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.62，其中已确认叙事 0 个。
-- Alleged Bnb Chain Test Dog Rufus 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Grand Theft Auto VI 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.63，其中已确认叙事 0 个。
+- UOTF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:Alleged Binance Dog Meme Image | 质量 79.12 | 可交易性 96.11 | 风险 低
-- Alleged Launch of New Character Frug | 质量 77.91 | 可交易性 100.00 | 风险 低
-- Binance: You have the ball | 质量 77.84 | 可交易性 100.00 | 风险 低
-- CZ Bottom: Lucky Cat | 质量 75.59 | 可交易性 100.00 | 风险 低
-- Avengers: Endgame Re-release | 质量 74.42 | 可交易性 91.00 | 风险 低
-- Binance GM Guess | 质量 73.83 | 可交易性 97.32 | 风险 低
-- Alleged X Opossum Meme | 质量 71.51 | 可交易性 83.40 | 风险 低
-- Grand Theft Auto VI | 质量 70.92 | 可交易性 100.00 | 风险 低
-- Pray for Nepal | 质量 70.38 | 可交易性 83.34 | 风险 低
-- Alleged Bnb Chain Test Dog Rufus | 质量 70.12 | 可交易性 78.84 | 风险 低
+- Alleged Launch of New Character Frug | 质量 78.61 | 可交易性 100.00 | 风险 低
+- UOTF | 质量 77.23 | 可交易性 100.00 | 风险 低
+- Pray for Nepal | 质量 77.20 | 可交易性 95.77 | 风险 低
+- PistacioSOL | 质量 74.31 | 可交易性 100.00 | 风险 低
+- NTDA | 质量 73.75 | 可交易性 100.00 | 风险 低
+- Grand Theft Auto VI | 质量 70.96 | 可交易性 100.00 | 风险 低
+- Quantt Shares Instagram Post | 质量 68.51 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Quoted Crypto President | 质量 65.97 | 可交易性 79.40 | 风险 低
+- Anthropic Employee Plushies Viral | 质量 63.65 | 可交易性 69.46 | 风险 低
+- Alleged Trump Meme Token | 质量 62.17 | 可交易性 72.35 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Launch of New Character Frug | 风险 54.14 | 原因：流动性偏薄、近 1 小时净流入转负
-- Binance GM Guess | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Pray for Nepal | 风险 43.18 | 原因：流动性偏薄
+- BullStock | 风险 44.71 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Alleged Launch of New Character Frug | 风险 42.14 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- 瑞幸咖啡 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 蜉蝣天地 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Encore | BSC | 看多 | 新鲜度 100.00 | Avengers: Endgame Re-release
 - RANDY | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 十八bro | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BNC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Meeko | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Pistacio | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - fih | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Martians | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- [cat] | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- KUMA | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- UPONLY | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- earl | Solana | 看多 | 新鲜度 94.16 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -135,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Uncertain:Alleged Binance Dog Meme Image（BSC，分数 86.35）
-2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Alleged Bnb Chain Test Dog Rufus 当前为“新出现”
+1. 当前最强叙事：UOTF（Solana，分数 86.2）
+2. 共振最强代币：STONK（Solana，共振 100.0）
+3. 记忆层变化：Alleged Launch of New Character Frug 当前为“强化”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade DeAgentAI (AIA) and Share $200K Worth of Rewards (2026-08-26)
 #Binance #NarrativeOS #OpenClaw
