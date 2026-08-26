@@ -1,114 +1,113 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-26T16:56:53.909603+00:00
+- 生成时间：2026-08-26T18:48:52.544848+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 RST，所在链为 Solana，叙事强度 90.74。
-- 当前平均叙事强度为 85.51，其中已确认叙事 0 个。
+- 当前最强叙事是 RST，所在链为 Solana，叙事强度 90.86。
+- 当前平均叙事强度为 82.61，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Krak Comments on Kate 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 NBA 2K27 CRYPTO THE CLOWN Meme，伪叙事风险 49.6。
+- 记忆层显示 Quake 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 ai16z New Beginning，伪叙事风险 50.11。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade DeAgentAI (AIA) and Share $200K Worth of Rewards (2026-08-26)。
 
 ## 叙事雷达
 
-- RST | Solana | 降温中 | 强度 90.74 | 质量 81.77
+- RST | Solana | 降温中 | 强度 90.86 | 质量 81.77
   - 主题摘要：Multiple tokens named 「RST」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 100.00 / 确认 17.12 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- UOTF | Solana | 降温中 | 强度 88.74 | 质量 79.74
-  - 主题摘要：Multiple tokens named 「UOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 7.92 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- OpenAI Developers Promotes Visualize | Solana | 降温中 | 强度 86.25 | 质量 79.04
-  - 主题摘要：According to OpenAI Developers's post, the account promoted a feature called $visualize within ChatGPT Work and Codex. This tool is designed to convert information into visualizat…
-  - 资金 100.00 / 广度 97.67 / 确认 7.92 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- devvor Regrets Selling $fish | Solana | 降温中 | 强度 85.36 | 质量 75.20
-  - 主题摘要：According to devvor's post, the developer expresses regret for selling $fish at a low valuation, noting that others share similar sentiments. He identifies the token as a derivati…
-  - 资金 100.00 / 广度 87.25 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NBA 2K27 CRYPTO THE CLOWN Meme | Solana | 加速中 | 强度 84.48 | 质量 82.94
-  - 主题摘要：Multiple tokens named 「CRYPTO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 73.03 / 广度 100.00 / 确认 22.44 / 脆弱性 14.00
+- Quake | Solana | 加速中 | 强度 88.41 | 质量 79.81
+  - 主题摘要：Quake token draws inspiration from the iconic video game franchise, featuring a minimalist logo with a stylized 'Q' resembling the game's iconic logo. The project aims to create a…
+  - 资金 100.00 / 广度 91.26 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Federal Trust Fund System | Solana | 降温中 | 强度 83.63 | 质量 72.63
-  - 主题摘要：Multiple tokens named 「FTFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.94 / 确认 4.32 / 脆弱性 0.00
+- NBA 2K27 CRYPTO THE CLOWN Meme | Solana | 加速中 | 强度 87.51 | 质量 80.37
+  - 主题摘要：According to copper maxxing's post, the newly released NBA 2K27 features an NPC named CRYPTO THE CLOWN. The post highlights that the character's short stature (5'3") is expected t…
+  - 资金 100.00 / 广度 94.08 / 确认 18.84 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Visualize Token Launch | Solana | 降温中 | 强度 84.01 | 质量 75.06
+  - 主题摘要：According to OpenAI Developers's post, the account shared a quoted tweet recommending the use of $visualize in ChatGPT Work or Codex to generate visualizations from information. T…
+  - 资金 100.00 / 广度 87.02 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Krak Comments on Kate | Solana | 降温中 | 强度 83.04 | 质量 73.27
-  - 主题摘要：According to Krak's post, Krak replied to @BeastTheMascot, agreeing with the statement that Kate is smart.
-  - 资金 100.00 / 广度 81.07 / 确认 4.32 / 脆弱性 14.00
+- Uncertain:CZ Quoted Crypto President | BSC | 加速中 | 强度 82.43 | 质量 76.42
+  - 主题摘要：CZ shared a post claiming the US President stated the traditional financial system is broken and crypto will fix it, labeling the President as a 'Crypto President'. This highlight…
+  - 资金 100.00 / 广度 80.48 / 确认 19.44 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Pisstacio | Solana | 降温中 | 强度 79.44 | 质量 71.80
+  - 主题摘要：Multiple tokens named 「Pisstacio」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.48 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- fih trump | Solana | 降温中 | 强度 81.85 | 质量 72.48
-  - 主题摘要：Multiple tokens named 「fihtrump」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.90 / 确认 5.04 / 脆弱性 14.00
+- alon Mentions Pump.fun App | Solana | 降温中 | 强度 77.84 | 质量 69.39
+  - 主题摘要：According to alon's post, the co-founder of Pump.fun, he replied to a user's comment regarding potential returns on the Pump.fun app by stating that the response was sent from the…
+  - 资金 100.00 / 广度 86.95 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged First Trump Coin Auction | BSC | 加速中 | 强度 79.99 | 质量 77.49
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.86 / 确认 23.80 / 脆弱性 14.00
+- Alleged Butt Goblin Meme | Solana | 加速中 | 强度 76.92 | 质量 70.47
+  - 主题摘要：According to juice's post, the Butt Goblin character, featured in Reddit comics, is being compared to the Dickbutt meme due to its rising popularity. The post highlights the creat…
+  - 资金 100.00 / 广度 82.59 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of Trust in Trump Token | BSC | 加速中 | 强度 79.85 | 质量 77.49
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.86 / 确认 23.80 / 脆弱性 14.00
+- ai16z New Beginning | Solana | 点火期 | 强度 75.93 | 质量 76.28
+  - 主题摘要：Multiple tokens named 「ai16z」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.05 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance Posts GMEOW Meme | BSC | 加速中 | 强度 75.85 | 质量 65.06
+  - 主题摘要：Binance published a post containing the text 'gmeow', which is associated with the GMEOW token. This content is identified as a Meme image sharing activity within the social media…
+  - 资金 100.00 / 广度 73.05 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Meggar Comments on White House TikTok Live | BSC | 加速中 | 强度 79.51 | 质量 77.49
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.86 / 确认 23.80 / 脆弱性 14.00
+- Binance Pushes AI Agent Infrastructure | BSC | 降温中 | 强度 72.29 | 质量 73.68
+  - 主题摘要：Binance officially promotes the development of AI agents by highlighting the need for better infrastructure, liquidity, and intelligence. This signals a major strategic focus on i…
+  - 资金 100.00 / 广度 79.76 / 确认 7.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Narr Questions GMEOW Pool | BSC | 加速中 | 强度 72.28 | 质量 59.26
+  - 主题摘要：According to Narr's post, Narr questions the legitimacy of the GMEOW pool, citing official statements that GMEOW has been compromised. Narr suggests utilizing the GMEOW pool as a…
+  - 资金 100.00 / 广度 71.87 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump's Weight Gain | BSC | 加速中 | 强度 79.46 | 质量 77.58
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.15 / 确认 23.80 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump Sports President | BSC | 加速中 | 强度 79.42 | 质量 77.49
-  - 主题摘要：Multiple tokens named 「TRUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.86 / 确认 23.80 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Chain x Mastercard | BSC | 加速中 | 强度 78.33 | 质量 75.41
-  - 主题摘要：BNB Chain officially joins Mastercard's Crypto Partner Program, signaling a major step toward integrating digital assets into everyday global commerce and mainstream financial eco…
-  - 资金 100.00 / 广度 80.74 / 确认 20.20 / 脆弱性 14.00
+- Alleged DJT Creator Claim | BSC | 降温中 | 强度 72.06 | 质量 73.43
+  - 主题摘要：According to ZachXBT's post, Martin Shkreli allegedly announced via a Spaces session that he is the creator of the token DJT. This claim emerged after ZachXBT submitted an applica…
+  - 资金 100.00 / 广度 78.92 / 确认 7.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Trump Meme Coin Launch | BSC | 加速中 | 强度 71.78 | 质量 69.89
+  - 主题摘要：According to TrillyDev's post, the author shared a guide on launching a $Trump-like meme coin on BNB Chain, claiming potential consulting support. This information is unverified.…
+  - 资金 100.00 / 广度 78.49 / 确认 18.72 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.51，其中已确认叙事 0 个。
-- Alleged First Trump Coin Auction 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.61，其中已确认叙事 0 个。
+- Quake 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - RST 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- NBA 2K27 CRYPTO THE CLOWN Meme | 质量 82.94 | 可交易性 100.00 | 风险 低
 - RST | 质量 81.77 | 可交易性 100.00 | 风险 低
-- UOTF | 质量 79.74 | 可交易性 100.00 | 风险 低
-- OpenAI Developers Promotes Visualize | 质量 79.04 | 可交易性 100.00 | 风险 低
-- Trump's Weight Gain | 质量 77.58 | 可交易性 100.00 | 风险 低
-- Alleged First Trump Coin Auction | 质量 77.49 | 可交易性 100.00 | 风险 低
-- Alleged Launch of Trust in Trump Token | 质量 77.49 | 可交易性 100.00 | 风险 低
-- Meggar Comments on White House TikTok Live | 质量 77.49 | 可交易性 100.00 | 风险 低
-- Trump Sports President | 质量 77.49 | 可交易性 100.00 | 风险 低
-- BNB Chain x Mastercard | 质量 75.41 | 可交易性 95.83 | 风险 低
+- NBA 2K27 CRYPTO THE CLOWN Meme | 质量 80.37 | 可交易性 100.00 | 风险 低
+- Quake | 质量 79.81 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Quoted Crypto President | 质量 76.42 | 可交易性 100.00 | 风险 低
+- ai16z New Beginning | 质量 76.28 | 可交易性 100.00 | 风险 低
+- Alleged Visualize Token Launch | 质量 75.06 | 可交易性 100.00 | 风险 低
+- Binance Pushes AI Agent Infrastructure | 质量 73.68 | 可交易性 100.00 | 风险 低
+- Alleged DJT Creator Claim | 质量 73.43 | 可交易性 100.00 | 风险 低
+- Pisstacio | 质量 71.80 | 可交易性 90.51 | 风险 低
+- Alleged Butt Goblin Meme | 质量 70.47 | 可交易性 77.54 | 风险 低
 
 ## 伪叙事风险
 
-- NBA 2K27 CRYPTO THE CLOWN Meme | 风险 49.60 | 原因：流动性偏薄、热度领先于资金
-- OpenAI Developers Promotes Visualize | 风险 42.14 | 原因：流动性偏薄、近 1 小时净流入转负
+- ai16z New Beginning | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - DC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- MEME | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- MEME | BSC | 看多 | 新鲜度 100.00 | Alleged Trump Meme Coin Launch
 - 瑞幸咖啡 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 蜉蝣天地 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- RANDY | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Pistacio | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CHARIZARD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CRYPTO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PEBBLE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - KUMA | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - UPONLY | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Quake | Solana | 看多 | 新鲜度 95.62 | Quake
+- Encore | BSC | 看多 | 新鲜度 94.68 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：RST（Solana，分数 90.74）
+1. 当前最强叙事：RST（Solana，分数 90.86）
 2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Krak Comments on Kate 当前为“新出现”
+3. 记忆层变化：Quake 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade DeAgentAI (AIA) and Share $200K Worth of Rewards (2026-08-26)
 #Binance #NarrativeOS #OpenClaw
