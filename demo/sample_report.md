@@ -1,118 +1,116 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-29T13:17:06.708011+00:00
+- 生成时间：2026-08-29T17:13:53.598846+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：2
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 USMS，所在链为 Solana，叙事强度 86.59。
-- 当前平均叙事强度为 79.67，其中已确认叙事 0 个。
+- 当前最强叙事是 WOFI，所在链为 Solana，叙事强度 85.48。
+- 当前平均叙事强度为 82.19，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 USMS 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 GTA6 Coin Market Analysis，伪叙事风险 64.35。
+- 记忆层显示 WOFI 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Google Froggy Meme，伪叙事风险 51.25。
 - 最新官方催化来自 最新活动：ENSO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers。
 
 ## 叙事雷达
 
-- USMS | Solana | 降温中 | 强度 86.59 | 质量 75.43
-  - 主题摘要：USMS token draws inspiration from the United States Military Supply chain, featuring a logo with a military-style shield design. The token aims to connect military supply chain pr…
-  - 资金 100.00 / 广度 84.56 / 确认 9.36 / 脆弱性 0.00
+- WOFI | Solana | 降温中 | 强度 85.48 | 质量 76.75
+  - 主题摘要：Multiple tokens named 「WOFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 92.66 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Jewburger Meme Coin | Solana | 降温中 | 强度 83.49 | 质量 74.19
-  - 主题摘要：Multiple tokens named 「GTA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.51 / 确认 7.92 / 脆弱性 14.00
+- UEFNDucky | Solana | 降温中 | 强度 83.90 | 质量 77.82
+  - 主题摘要：Multiple tokens named 「DUCKY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.25 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Sun Xiaosheng AIGC Series Launch | BSC | 加速中 | 强度 83.24 | 质量 82.36
+- Sun Xiaosheng AIGC Series Launch | BSC | 加速中 | 强度 83.71 | 质量 82.46
   - 主题摘要：According to memecoin Man's post, the AIGC drama 'Sun Xiaosheng', featuring the protagonist Sun Xiaosheng as a new era Sun Wukong, is scheduled to premiere on August 31. The post…
-  - 资金 100.00 / 广度 94.47 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.79 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Baby Apeonfone Token Launch | Solana | 降温中 | 强度 79.25 | 质量 71.15
-  - 主题摘要：According to Crypto box's post, the token Baby Apeonfone has reached a market capitalization of $25 million. The author claims to be redoubling their investment to support the pro…
-  - 资金 100.00 / 广度 76.90 / 确认 5.04 / 脆弱性 14.00
+- pinktacio | Solana | 降温中 | 强度 82.18 | 质量 75.14
+  - 主题摘要：Multiple tokens named 「pinktacio」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.60 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GTA6 Coin Market Analysis | Solana | 降温中 | 强度 79.12 | 质量 74.13
-  - 主题摘要：According to $GTA6 Coin Solana's post, the $GTA6 token recorded $1.5M in volume, experiencing a pullback after a surge. The author attributes this to expected market behavior and…
-  - 资金 100.00 / 广度 87.10 / 确认 0.00 / 脆弱性 54.52
+- MAKE RETIREMENT GREAT AGAIN | Solana | 降温中 | 强度 82.12 | 质量 73.91
+  - 主题摘要：Multiple tokens named 「MRGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.49 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Magnetcoin Launch | Solana | 降温中 | 强度 79.00 | 质量 70.59
-  - 主题摘要：According to Jordan (Infinite Aura)'s post, Magnetcoin is allegedly launched, leveraging Trump's comments on magnets to attract believers. This information is unverified. Please e…
-  - 资金 100.00 / 广度 75.31 / 确认 0.00 / 脆弱性 14.00
+- RST | Solana | 降温中 | 强度 81.81 | 质量 71.42
+  - 主题摘要：Multiple tokens named 「RST」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.25 / 确认 7.92 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ and Fugui | BSC | 点火期 | 强度 78.44 | 质量 79.45
+- iFood Rock in Rio 2026 Promotion | Solana | 降温中 | 强度 81.71 | 质量 69.66
+  - 主题摘要：According to JNC's post, a PumpFun tweet featuring an 'Ape on Fone' Meme image was shared, referencing the 'apeonfone' token. JNC commented on the post, stating 'literally says bu…
+  - 资金 100.00 / 广度 85.05 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Donald Bucks Meme | Solana | 降温中 | 强度 80.55 | 质量 69.09
+  - 主题摘要：According to devius maximus's post, a new narrative regarding 'Donald Bucks' has emerged, with the author claiming that dollar bills are now referred to as Donald Bucks. This cont…
+  - 资金 100.00 / 广度 71.31 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Dexerto Reports GTA 6 Netflix Look | Solana | 降温中 | 强度 79.78 | 质量 69.05
+  - 主题摘要：According to Dexerto's post, Netflix's GTA 6 Extended Look is now live. Concurrently, tokens named 'GTA VI Netflix' (Symbol: GTVNX) have emerged, claiming to relate to this livest…
+  - 资金 100.00 / 广度 87.83 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- bStocks Weekend Promotion | BSC | 点火期 | 强度 78.38 | 质量 75.15
+  - 主题摘要：According to bStocks's post, the platform promotes its 24/7 trading capabilities, suggesting that trading on bStocks offers a superior experience compared to a regular weekend.
+  - 资金 100.00 / 广度 85.22 / 确认 7.20 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- CZ and Fugui | BSC | 点火期 | 强度 77.56 | 质量 79.36
   - 主题摘要：CZ在KOL富贵的香港生活分享帖下幽默互动，指出内容与配图不符。这反映了币圈名人与KOL之间的有趣社交互动，极具传播潜力。
-  - 资金 100.00 / 广度 93.75 / 确认 15.12 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.43 / 确认 15.12 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Chill Ape on Trading Trends | Solana | 降温中 | 强度 77.29 | 质量 70.15
-  - 主题摘要：According to Chill Ape's post, trading is evolving into a social activity driven by feeds, callouts, and copy trading, all converging on mobile devices. Chill Ape notes that this…
-  - 资金 100.00 / 广度 70.67 / 确认 4.32 / 脆弱性 10.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged GTA 6 Coin Airdrop | Solana | 降温中 | 强度 76.78 | 质量 65.81
-  - 主题摘要：According to GTA 6 Coin.Event's post, the airdrop for $CYBERLEEK and $babyjimothy is live, claiming early participants can receive allocations. This relates to GTA6, a token alleg…
-  - 资金 100.00 / 广度 56.20 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NatGeo Polar Bear Documentary | Solana | 点火期 | 强度 75.88 | 质量 75.93
-  - 主题摘要：According to 奈奈Nana's post, National Geographic released a new documentary featuring a polar bear named Lyra. The content describes Lyra's journey of walking nearly 600 miles thro…
-  - 资金 100.00 / 广度 89.94 / 确认 4.32 / 脆弱性 24.00
+- Alleged Google Froggy Meme | BSC | 点火期 | 强度 75.09 | 质量 69.37
+  - 主题摘要：According to BottomFloorChud's post, Google allegedly added a PEPE mascot named 'Froggy' with a game to its weather app. The post claims this feature is new and appeared three hou…
+  - 资金 100.00 / 广度 72.88 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- BNB Chain Teacher Matt | BSC | 加速中 | 强度 72.90 | 质量 71.38
+- BNB Chain Teacher Matt | BSC | 加速中 | 强度 74.31 | 质量 73.20
   - 主题摘要：BNB Chain official account promotes Chinese language learning with 'Teacher Matt'. This quirky educational campaign creates a unique, approachable persona for the blockchain proje…
-  - 资金 100.00 / 广度 90.82 / 确认 19.44 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.53 / 确认 23.04 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 持币300万百分百分红特斯拉股票 | BSC | 降温中 | 强度 72.71 | 质量 58.60
-  - 主题摘要：Multiple tokens named 「特斯拉股票」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.50 / 确认 0.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Launch of $Belief Token | BSC | 降温中 | 强度 71.84 | 质量 62.94
-  - 主题摘要：According to 0xHaruyuki's post, the individual intends to launch a token named $Belief on the BSC network, allocating 40% of the supply to user TCC. This initiative references CZ'…
-  - 资金 100.00 / 广度 71.55 / 确认 0.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Star Xu Slams Richest Man's Double Standards | BSC | 点火期 | 强度 71.67 | 质量 70.08
+- Star Xu Slams Richest Man's Double Standards | BSC | 点火期 | 强度 72.56 | 质量 69.69
   - 主题摘要：OKX创始人徐明星在推特上直接回击关于CZ新书争议中针对他的言论，讽刺CZ作为‘行业老人’却双标教育他人，引发币圈老炮之间的公开互怼话题。
-  - 资金 100.00 / 广度 89.76 / 确认 15.84 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.53 / 确认 15.84 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.67，其中已确认叙事 0 个。
-- NatGeo Polar Bear Documentary 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- USMS 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.19，其中已确认叙事 0 个。
+- bStocks Weekend Promotion 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- WOFI 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Sun Xiaosheng AIGC Series Launch | 质量 82.36 | 可交易性 100.00 | 风险 低
-- CZ and Fugui | 质量 79.45 | 可交易性 100.00 | 风险 低
-- NatGeo Polar Bear Documentary | 质量 75.93 | 可交易性 100.00 | 风险 低
-- USMS | 质量 75.43 | 可交易性 100.00 | 风险 低
-- Alleged Jewburger Meme Coin | 质量 74.19 | 可交易性 97.97 | 风险 低
-- GTA6 Coin Market Analysis | 质量 74.13 | 可交易性 100.00 | 风险 低
-- BNB Chain Teacher Matt | 质量 71.38 | 可交易性 100.00 | 风险 低
-- Alleged Baby Apeonfone Token Launch | 质量 71.15 | 可交易性 96.58 | 风险 低
-- Alleged Magnetcoin Launch | 质量 70.59 | 可交易性 100.00 | 风险 低
-- Chill Ape on Trading Trends | 质量 70.15 | 可交易性 100.00 | 风险 低
+- Sun Xiaosheng AIGC Series Launch | 质量 82.46 | 可交易性 100.00 | 风险 低
+- CZ and Fugui | 质量 79.36 | 可交易性 100.00 | 风险 低
+- UEFNDucky | 质量 77.82 | 可交易性 100.00 | 风险 低
+- WOFI | 质量 76.75 | 可交易性 100.00 | 风险 低
+- bStocks Weekend Promotion | 质量 75.15 | 可交易性 100.00 | 风险 低
+- pinktacio | 质量 75.14 | 可交易性 100.00 | 风险 低
+- MAKE RETIREMENT GREAT AGAIN | 质量 73.91 | 可交易性 100.00 | 风险 低
+- BNB Chain Teacher Matt | 质量 73.20 | 可交易性 97.73 | 风险 低
+- RST | 质量 71.42 | 可交易性 100.00 | 风险 低
+- Star Xu Slams Richest Man's Double Standards | 质量 69.69 | 可交易性 98.62 | 风险 低
 
 ## 伪叙事风险
 
-- GTA6 Coin Market Analysis | 风险 64.35 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
-- NatGeo Polar Bear Documentary | 风险 57.02 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Google Froggy Meme | 风险 51.25 | 原因：流动性偏薄
+- bStocks Weekend Promotion | 风险 49.52 | 原因：流动性偏薄
 - CZ and Fugui | 风险 48.38 | 原因：流动性偏薄、近 1 小时净流入转负
-- Star Xu Slams Richest Man's Double Standards | 风险 47.81 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Magnetcoin Launch | 风险 43.28 | 原因：流动性偏薄
-- 持币300万百分百分红特斯拉股票 | 风险 43.28 | 原因：流动性偏薄
+- Star Xu Slams Richest Man's Double Standards | 风险 42.61 | 原因：流动性偏薄
 
 ## 信号台
 
+- 無為 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- bGuy | BSC | 看多 | 新鲜度 100.00 | bStocks Weekend Promotion
+- 玩偶兔子 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- NETFAB | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 装逼的人 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 怕妻号 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FLORK | BSC | 看多 | 新鲜度 100.00 | CZ and Fugui
 - 方桃子 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 玩偶兔子 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - fone | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - WHALES | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CORGI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- TRUDY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- GOLD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -138,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：USMS（Solana，分数 86.59）
+1. 当前最强叙事：WOFI（Solana，分数 85.48）
 2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：USMS 当前为“新出现”
+3. 记忆层变化：WOFI 当前为“新出现”
 4. 最新官方催化：ENSO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers
 #Binance #NarrativeOS #OpenClaw
