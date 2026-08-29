@@ -1,116 +1,116 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-29T17:13:53.598846+00:00
+- 生成时间：2026-08-29T19:44:08.221043+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 WOFI，所在链为 Solana，叙事强度 85.48。
-- 当前平均叙事强度为 82.19，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 WOFI 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Google Froggy Meme，伪叙事风险 51.25。
+- 当前最强叙事是 Sun Xiaosheng AIGC Series Launch，所在链为 BSC，叙事强度 83.96。
+- 当前平均叙事强度为 76.9，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 CATE，来自 Solana，共振分数 100.0。
+- 记忆层显示 Retirement Plan 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 bStocks Weekend Promotion，伪叙事风险 54.72。
 - 最新官方催化来自 最新活动：ENSO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers。
 
 ## 叙事雷达
 
-- WOFI | Solana | 降温中 | 强度 85.48 | 质量 76.75
-  - 主题摘要：Multiple tokens named 「WOFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.66 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- UEFNDucky | Solana | 降温中 | 强度 83.90 | 质量 77.82
-  - 主题摘要：Multiple tokens named 「DUCKY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.25 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Sun Xiaosheng AIGC Series Launch | BSC | 加速中 | 强度 83.71 | 质量 82.46
+- Sun Xiaosheng AIGC Series Launch | BSC | 加速中 | 强度 83.96 | 质量 81.68
   - 主题摘要：According to memecoin Man's post, the AIGC drama 'Sun Xiaosheng', featuring the protagonist Sun Xiaosheng as a new era Sun Wukong, is scheduled to premiere on August 31. The post…
-  - 资金 100.00 / 广度 94.79 / 确认 27.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.85 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- pinktacio | Solana | 降温中 | 强度 82.18 | 质量 75.14
-  - 主题摘要：Multiple tokens named 「pinktacio」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.60 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MAKE RETIREMENT GREAT AGAIN | Solana | 降温中 | 强度 82.12 | 质量 73.91
-  - 主题摘要：Multiple tokens named 「MRGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.49 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- RST | Solana | 降温中 | 强度 81.81 | 质量 71.42
-  - 主题摘要：Multiple tokens named 「RST」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.25 / 确认 7.92 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- iFood Rock in Rio 2026 Promotion | Solana | 降温中 | 强度 81.71 | 质量 69.66
-  - 主题摘要：According to JNC's post, a PumpFun tweet featuring an 'Ape on Fone' Meme image was shared, referencing the 'apeonfone' token. JNC commented on the post, stating 'literally says bu…
-  - 资金 100.00 / 广度 85.05 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Donald Bucks Meme | Solana | 降温中 | 强度 80.55 | 质量 69.09
-  - 主题摘要：According to devius maximus's post, a new narrative regarding 'Donald Bucks' has emerged, with the author claiming that dollar bills are now referred to as Donald Bucks. This cont…
-  - 资金 100.00 / 广度 71.31 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dexerto Reports GTA 6 Netflix Look | Solana | 降温中 | 强度 79.78 | 质量 69.05
-  - 主题摘要：According to Dexerto's post, Netflix's GTA 6 Extended Look is now live. Concurrently, tokens named 'GTA VI Netflix' (Symbol: GTVNX) have emerged, claiming to relate to this livest…
-  - 资金 100.00 / 广度 87.83 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- bStocks Weekend Promotion | BSC | 点火期 | 强度 78.38 | 质量 75.15
-  - 主题摘要：According to bStocks's post, the platform promotes its 24/7 trading capabilities, suggesting that trading on bStocks offers a superior experience compared to a regular weekend.
-  - 资金 100.00 / 广度 85.22 / 确认 7.20 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ and Fugui | BSC | 点火期 | 强度 77.56 | 质量 79.36
-  - 主题摘要：CZ在KOL富贵的香港生活分享帖下幽默互动，指出内容与配图不符。这反映了币圈名人与KOL之间的有趣社交互动，极具传播潜力。
-  - 资金 100.00 / 广度 93.43 / 确认 15.12 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Google Froggy Meme | BSC | 点火期 | 强度 75.09 | 质量 69.37
-  - 主题摘要：According to BottomFloorChud's post, Google allegedly added a PEPE mascot named 'Froggy' with a game to its weather app. The post claims this feature is new and appeared three hou…
-  - 资金 100.00 / 广度 72.88 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- BNB Chain Teacher Matt | BSC | 加速中 | 强度 74.31 | 质量 73.20
+- BNB Chain Teacher Matt | BSC | 加速中 | 强度 82.29 | 质量 80.12
   - 主题摘要：BNB Chain official account promotes Chinese language learning with 'Teacher Matt'. This quirky educational campaign creates a unique, approachable persona for the blockchain proje…
-  - 资金 100.00 / 广度 90.53 / 确认 23.04 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.16 / 确认 23.04 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Star Xu Slams Richest Man's Double Standards | BSC | 点火期 | 强度 72.56 | 质量 69.69
+- Retirement Plan | Solana | 降温中 | 强度 81.63 | 质量 72.68
+  - 主题摘要：Multiple tokens named 「401k」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.56 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ and Fugui | BSC | 降温中 | 强度 76.81 | 质量 79.36
+  - 主题摘要：CZ在KOL富贵的香港生活分享帖下幽默互动，指出内容与配图不符。这反映了币圈名人与KOL之间的有趣社交互动，极具传播潜力。
+  - 资金 100.00 / 广度 93.46 / 确认 15.12 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Star Xu Slams Richest Man's Double Standards | BSC | 点火期 | 强度 75.48 | 质量 74.07
   - 主题摘要：OKX创始人徐明星在推特上直接回击关于CZ新书争议中针对他的言论，讽刺CZ作为‘行业老人’却双标教育他人，引发币圈老炮之间的公开互怼话题。
-  - 资金 100.00 / 广度 89.53 / 确认 15.84 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.34 / 确认 12.24 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- twam's Post on Billy | Solana | 点火期 | 强度 74.77 | 质量 70.39
+  - 主题摘要：According to виолетта's post, the zoo itself does not have a charity, but the organization it is part of does. This statement clarifies the charitable structure associated with th…
+  - 资金 100.00 / 广度 72.83 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- bStocks Weekend Promotion | BSC | 点火期 | 强度 74.23 | 质量 74.62
+  - 主题摘要：According to bStocks's post, the platform promotes its 24/7 trading capabilities, suggesting that trading on bStocks offers a superior experience compared to a regular weekend.
+  - 资金 100.00 / 广度 85.29 / 确认 7.20 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Launch of The Trucker Trencher Token | Solana | 点火期 | 强度 73.58 | 质量 71.43
+  - 主题摘要：According to Hughman's post, Carl, a pumpfun employee, responded to Cap and the Truck Driver. The post references a 65-year-old trucker and the token TRUSTIEE (The Trucker Trenche…
+  - 资金 100.00 / 广度 87.88 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Wall Shares Golden Kitten Meme Image | BSC | 加速中 | 强度 73.08 | 质量 63.96
+  - 主题摘要：According to Wall's post, a viral Meme image featuring a golden kitten defecating gold is discussed. The content highlights the abstract nature of the imagery and directs viewers…
+  - 资金 100.00 / 广度 78.42 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Smiski Meme Coin | Solana | 加速中 | 强度 73.00 | 质量 64.59
+  - 主题摘要：According to Boltricks Development's post, the Smiski character is currently viral on TikTok. The post references multiple viral videos and claims the character has significant lo…
+  - 资金 100.00 / 广度 79.65 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- National Trust Fund System | Solana | 降温中 | 强度 72.98 | 质量 60.41
+  - 主题摘要：Multiple tokens named 「NTFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 47.81 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Gaze Posts Golden Cat Meme | BSC | 加速中 | 强度 72.43 | 质量 62.85
+  - 主题摘要：According to Gaze's post, the user shared a Meme image related to the 'Golden Cat' sector, questioning how the category could exist without a 'Golden Cat'.
+  - 资金 100.00 / 广度 78.42 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Charleston AI Meme | Solana | 降温中 | 强度 72.40 | 质量 58.56
+  - 主题摘要：According to ENJOYOOR ⛾'s post, Charleston AI has become a viral tech meme, with employees and accounts like High Yield Harry memeing the subject. The post links to GitHub and web…
+  - 资金 100.00 / 广度 76.34 / 确认 12.24 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Attention Token Analysis | Solana | 降温中 | 强度 72.39 | 质量 58.27
+  - 主题摘要：According to thedevrrrrrr's post, the author argues that the competition between Pump.fun and Fomo is not for clout, but for attention. The post highlights that both accounts freq…
+  - 资金 100.00 / 广度 61.88 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.19，其中已确认叙事 0 个。
-- bStocks Weekend Promotion 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- WOFI 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.9，其中已确认叙事 0 个。
+- twam's Post on Billy 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Retirement Plan 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Sun Xiaosheng AIGC Series Launch | 质量 82.46 | 可交易性 100.00 | 风险 低
+- Sun Xiaosheng AIGC Series Launch | 质量 81.68 | 可交易性 100.00 | 风险 低
+- BNB Chain Teacher Matt | 质量 80.12 | 可交易性 100.00 | 风险 低
 - CZ and Fugui | 质量 79.36 | 可交易性 100.00 | 风险 低
-- UEFNDucky | 质量 77.82 | 可交易性 100.00 | 风险 低
-- WOFI | 质量 76.75 | 可交易性 100.00 | 风险 低
-- bStocks Weekend Promotion | 质量 75.15 | 可交易性 100.00 | 风险 低
-- pinktacio | 质量 75.14 | 可交易性 100.00 | 风险 低
-- MAKE RETIREMENT GREAT AGAIN | 质量 73.91 | 可交易性 100.00 | 风险 低
-- BNB Chain Teacher Matt | 质量 73.20 | 可交易性 97.73 | 风险 低
-- RST | 质量 71.42 | 可交易性 100.00 | 风险 低
-- Star Xu Slams Richest Man's Double Standards | 质量 69.69 | 可交易性 98.62 | 风险 低
+- bStocks Weekend Promotion | 质量 74.62 | 可交易性 100.00 | 风险 低
+- Star Xu Slams Richest Man's Double Standards | 质量 74.07 | 可交易性 100.00 | 风险 低
+- Retirement Plan | 质量 72.68 | 可交易性 100.00 | 风险 低
+- Alleged Launch of The Trucker Trencher Token | 质量 71.43 | 可交易性 100.00 | 风险 低
+- twam's Post on Billy | 质量 70.39 | 可交易性 100.00 | 风险 低
+- Alleged Smiski Meme Coin | 质量 64.59 | 可交易性 58.22 | 风险 低
+- Wall Shares Golden Kitten Meme Image | 质量 63.96 | 可交易性 59.98 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Google Froggy Meme | 风险 51.25 | 原因：流动性偏薄
-- bStocks Weekend Promotion | 风险 49.52 | 原因：流动性偏薄
-- CZ and Fugui | 风险 48.38 | 原因：流动性偏薄、近 1 小时净流入转负
-- Star Xu Slams Richest Man's Double Standards | 风险 42.61 | 原因：流动性偏薄
+- bStocks Weekend Promotion | 风险 54.72 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Launch of The Trucker Trencher Token | 风险 51.25 | 原因：流动性偏薄
+- twam's Post on Billy | 风险 47.79 | 原因：流动性偏薄
+- Star Xu Slams Richest Man's Double Standards | 风险 45.49 | 原因：流动性偏薄
 
 ## 信号台
 
+- 玩偶兔子 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 金猫 | BSC | 看多 | 新鲜度 100.00 | Wall Shares Golden Kitten Meme Image / Gaze Posts Golden Cat Meme
 - 無為 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bGuy | BSC | 看多 | 新鲜度 100.00 | bStocks Weekend Promotion
-- 玩偶兔子 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - NETFAB | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 装逼的人 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 怕妻号 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FLORK | BSC | 看多 | 新鲜度 100.00 | CZ and Fugui
 - 方桃子 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- fone | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- WHALES | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- MEMECARDS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：WOFI（Solana，分数 85.48）
-2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：WOFI 当前为“新出现”
+1. 当前最强叙事：Sun Xiaosheng AIGC Series Launch（BSC，分数 83.96）
+2. 共振最强代币：CATE（Solana，共振 100.0）
+3. 记忆层变化：Retirement Plan 当前为“新出现”
 4. 最新官方催化：ENSO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers
 #Binance #NarrativeOS #OpenClaw
