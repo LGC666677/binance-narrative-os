@@ -1,116 +1,118 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-08-28T16:47:44.567602+00:00
+- 生成时间：2026-08-29T00:45:46.652131+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance Signs，所在链为 BSC，叙事强度 85.76。
-- 当前平均叙事强度为 80.5，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 MEMESTOCK，来自 BSC，共振分数 100.0。
-- 记忆层显示 Binance Signs 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Elon Musk's Pets，伪叙事风险 51.25。
+- 当前最强叙事是 GTA6，所在链为 Solana，叙事强度 85.18。
+- 当前平均叙事强度为 77.71，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 CATE，来自 Solana，共振分数 100.0。
+- 记忆层显示 GTA6 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Bruno Meme Coin，伪叙事风险 51.25。
 - 最新官方催化来自 最新活动：ENSO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers。
 
 ## 叙事雷达
 
-- Binance Signs | BSC | 已确认 | 强度 85.76 | 质量 81.06
+- GTA6 | Solana | 降温中 | 强度 85.18 | 质量 77.06
+  - 主题摘要：GTA 6 Coin is a community-driven token inspired by the Grand Theft Auto VI game. The logo features the iconic purple and pink gradient logo from the original GTA series, reflectin…
+  - 资金 100.00 / 广度 89.99 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Boba Coin | BSC | 加速中 | 强度 80.93 | 质量 81.59
+  - 主题摘要：Binance promotes crypto adoption by linking the popular daily habit of buying boba tea to entering the crypto market, framing small purchases as an accessible entry point.
+  - 资金 100.00 / 广度 98.25 / 确认 18.72 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Signs | BSC | 已确认 | 强度 79.42 | 质量 73.27
   - 主题摘要：Binance official account posts a cryptic tweet stating 'there will be signs' accompanied by an image, sparking community speculation about upcoming major announcements, token burn…
-  - 资金 100.00 / 广度 86.96 / 确认 31.68 / 脆弱性 34.00
+  - 资金 100.00 / 广度 88.40 / 确认 31.68 / 脆弱性 34.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- CZ and Fugui | BSC | 加速中 | 强度 83.37 | 质量 79.54
-  - 主题摘要：CZ在KOL富贵的香港生活分享帖下幽默互动，指出内容与配图不符。这反映了币圈名人与KOL之间的有趣社交互动，极具传播潜力。
-  - 资金 100.00 / 广度 85.59 / 确认 26.64 / 脆弱性 34.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Vaseline Rebrands to Baseline | Solana | 降温中 | 强度 82.03 | 质量 73.33
-  - 主题摘要：According to Dexerto's post, Vaseline has temporarily rebranded its entire identity to "Baseline" following a viral incident where a content creator mispronounced the brand name.…
-  - 资金 100.00 / 广度 81.26 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Flap Launches $NFLXB on BNB Chain | BSC | 加速中 | 强度 81.98 | 质量 80.69
-  - 主题摘要：According to Flap 🦋's post, the platform has launched the $NFLXB token on the BNB Chain. The announcement highlights the integration of Netflix-themed assets into the Flap ecosyst…
-  - 资金 100.00 / 广度 88.89 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged GTA VI Gameplay Leak | Solana | 加速中 | 强度 81.42 | 质量 78.56
-  - 主题摘要：According to Hughman's post, the user analyzes a leaked video of the Club Nine1Nine in GTA 6, arguing that the character Valentina is a 'full larp' and lacks a name, citing timest…
-  - 资金 100.00 / 广度 88.05 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged SpaceX Cult Meme | Solana | 加速中 | 强度 81.38 | 质量 79.39
-  - 主题摘要：According to The Flash's post, many SpaceX employees have changed their profile pictures to potatoes, sparking speculation about a new 'SpaceX cult.' The post suggests this could…
-  - 资金 100.00 / 广度 90.39 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of $PINKCOIN | Solana | 降温中 | 强度 81.38 | 质量 77.05
-  - 主题摘要：According to Apollo's post, Apollo claims to be launching $PINKCOIN, allocating 100% of fees to the Breast Cancer Research Foundation. This information is unverified. Please exerc…
-  - 资金 100.00 / 广度 94.20 / 确认 3.60 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk's Pets | Solana | 点火期 | 强度 79.52 | 质量 74.28
-  - 主题摘要：According to Eva Fo𝕏 🦊 Claudius Nero's Legion's post, Elon Musk is described as having a warm relationship with various animals, including dogs Hobbes and Gatsby, a cat named Schr…
-  - 资金 100.00 / 广度 89.44 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Yi He on Industry Leader Effect | BSC | 降温中 | 强度 78.45 | 质量 69.28
-  - 主题摘要：According to Yi He's post, the head-effect applies to all industries. She argues that investors should back industry leaders, as followers often have internal issues and higher fa…
-  - 资金 100.00 / 广度 76.68 / 确认 11.52 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Baseline Meme Coin | Solana | 降温中 | 强度 78.35 | 质量 67.41
-  - 主题摘要：According to Eem's post, a viral Instagram meme named 'Basaline' has garnered over 20 million views. Eem claims that users are searching for this meme on Google and urges the comm…
-  - 资金 100.00 / 广度 78.95 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: Asian Culture Reads PDF First | BSC | 降温中 | 强度 77.32 | 质量 71.05
+- CZ: Asian Culture Reads PDF First | BSC | 点火期 | 强度 79.19 | 质量 79.48
   - 主题摘要：CZ shares a humorous anecdote about how Asian audiences prefer reading the pirate PDF first before buying the physical copy, highlighting a distinct cultural trait in consumption…
-  - 资金 100.00 / 广度 89.42 / 确认 3.60 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.84 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Poop Pill Meme | Solana | 降温中 | 强度 77.89 | 质量 63.93
+  - 主题摘要：According to GCR (Saylor Arc)'s post, the author suggests that a brown pill on @json1444's X banner resembles the color of feces, proposing 'Poop Pill' ($pp) as a narrative. This…
+  - 资金 100.00 / 广度 78.74 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Hu Chenfeng Blesses BTCBruce1 | BSC | 降温中 | 强度 76.14 | 质量 73.30
-  - 主题摘要：According to John's post, Hu Chenfeng recorded a video blessing BTCBruce1, wishing him success in his career, the launch of an Apple car, and the use of Apple products and stocks.
-  - 资金 100.00 / 广度 93.51 / 确认 4.32 / 脆弱性 24.00
+- CZ and Fugui | BSC | 降温中 | 强度 77.02 | 质量 67.76
+  - 主题摘要：CZ在KOL富贵的香港生活分享帖下幽默互动，指出内容与配图不符。这反映了币圈名人与KOL之间的有趣社交互动，极具传播潜力。
+  - 资金 100.00 / 广度 80.93 / 确认 3.60 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Grok Bot Second Brain Token | Solana | 降温中 | 强度 76.11 | 质量 64.19
-  - 主题摘要：According to marcus's post, an alleged token named 'Grok Bot Second Brain' (Symbol: SYNC) is associated with a project claiming to use AI agents to create a 'second brain' that au…
-  - 资金 100.00 / 广度 65.05 / 确认 5.04 / 脆弱性 14.00
+- Kiro Shares Meme on ONE Coin | Solana | 降温中 | 强度 75.94 | 质量 66.70
+  - 主题摘要：According to Kiro's post, the user shared a Meme image referencing the 'ONE Coin' token, commenting that it is 'way better' and quoting a message about trading the first meme. The…
+  - 资金 98.20 / 广度 57.06 / 确认 7.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Popke Meme Coin | Solana | 降温中 | 强度 76.05 | 质量 62.97
-  - 主题摘要：According to hubz's post, hubz claims to have discovered an unlaunched meme related to the 'Popcat' narrative, citing a viral video from over five years ago as evidence of its 'OG…
-  - 资金 100.00 / 广度 69.33 / 确认 14.40 / 脆弱性 14.00
+- Yi He on Industry Leader Effect | BSC | 降温中 | 强度 75.87 | 质量 69.07
+  - 主题摘要：According to Yi He's post, the head-effect applies to all industries. She argues that investors should back industry leaders, as followers often have internal issues and higher fa…
+  - 资金 100.00 / 广度 76.92 / 确认 15.12 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged KITH Meme Token Launch | Solana | 降温中 | 强度 75.06 | 质量 68.06
+  - 主题摘要：According to KITH CLUB's post, the entity claims to have launched a Solana-based meme token, $KITH, which allegedly builds a 'living meme world' where wallets become characters th…
+  - 资金 100.00 / 广度 66.86 / 确认 0.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Bruno Meme Coin | Solana | 点火期 | 强度 74.53 | 质量 72.65
+  - 主题摘要：According to Defi.Mx's post, the author claims that a token named $Bruno is launching on a decentralized exchange, capitalizing on the narrative of Neuralink's implantation of a b…
+  - 资金 100.00 / 广度 82.83 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Pump.fun Launches Hypecoins | Solana | 加速中 | 强度 74.53 | 质量 74.20
+  - 主题摘要：According to Pump.fun's post, the platform has launched a new trading feature called Hypecoins. Users can trade these assets using USDC directly, without the need for external bri…
+  - 资金 100.00 / 广度 91.00 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Anthropic AI Alignment Research | Solana | 降温中 | 强度 74.25 | 质量 60.92
+  - 主题摘要：According to Anthropic's post, Claude autonomously researched and trained methods to improve small model alignment within 48 hours using one GPU. The approach preserved general ca…
+  - 资金 100.00 / 广度 82.83 / 确认 9.36 / 脆弱性 35.57
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Jerome Quantavious Ballz Comments on FORGD Token Ratings | Solana | 加速中 | 强度 73.85 | 质量 64.85
+  - 主题摘要：According to Jerome Quantavious Ballz's post, he expressed positive sentiment regarding the launch of universal token ratings by FORGD and DefiLlama. He noted that his due diligen…
+  - 资金 100.00 / 广度 76.37 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged Launch of Tiantian Coin | BSC | 降温中 | 强度 73.84 | 质量 72.37
+  - 主题摘要：According to Fool CZ's post, the author claims to have discovered 'Tiantian Coin' as a hard currency on Weibo. The post states that internet personality Feng Ge expects an annual…
+  - 资金 100.00 / 广度 84.24 / 确认 15.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.5，其中已确认叙事 1 个。
-- Binance Signs 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Vaseline Rebrands to Baseline 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 77.71，其中已确认叙事 1 个。
+- Boba Coin 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- GTA6 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Signs | 质量 81.06 | 可交易性 100.00 | 风险 高
-- Flap Launches $NFLXB on BNB Chain | 质量 80.69 | 可交易性 100.00 | 风险 低
-- CZ and Fugui | 质量 79.54 | 可交易性 100.00 | 风险 高
-- Alleged SpaceX Cult Meme | 质量 79.39 | 可交易性 100.00 | 风险 低
-- Alleged GTA VI Gameplay Leak | 质量 78.56 | 可交易性 99.55 | 风险 低
-- Alleged Launch of $PINKCOIN | 质量 77.05 | 可交易性 100.00 | 风险 低
-- Elon Musk's Pets | 质量 74.28 | 可交易性 94.45 | 风险 低
-- Vaseline Rebrands to Baseline | 质量 73.33 | 可交易性 100.00 | 风险 低
-- Hu Chenfeng Blesses BTCBruce1 | 质量 73.30 | 可交易性 87.66 | 风险 低
-- CZ: Asian Culture Reads PDF First | 质量 71.05 | 可交易性 96.09 | 风险 低
+- Boba Coin | 质量 81.59 | 可交易性 100.00 | 风险 低
+- CZ: Asian Culture Reads PDF First | 质量 79.48 | 可交易性 100.00 | 风险 低
+- GTA6 | 质量 77.06 | 可交易性 100.00 | 风险 低
+- Pump.fun Launches Hypecoins | 质量 74.20 | 可交易性 100.00 | 风险 低
+- Binance Signs | 质量 73.27 | 可交易性 72.60 | 风险 高
+- Alleged Bruno Meme Coin | 质量 72.65 | 可交易性 95.65 | 风险 低
+- Uncertain:Alleged Launch of Tiantian Coin | 质量 72.37 | 可交易性 85.90 | 风险 低
+- Yi He on Industry Leader Effect | 质量 69.07 | 可交易性 88.01 | 风险 低
+- Alleged KITH Meme Token Launch | 质量 68.06 | 可交易性 100.00 | 风险 低
+- CZ and Fugui | 质量 67.76 | 可交易性 92.89 | 风险 低
 
 ## 伪叙事风险
 
-- Elon Musk's Pets | 风险 51.25 | 原因：流动性偏薄
-- Alleged Launch of $PINKCOIN | 风险 45.60 | 原因：流动性偏薄、近 1 小时净流入转负
-- Hu Chenfeng Blesses BTCBruce1 | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
-- CZ: Asian Culture Reads PDF First | 风险 40.40 | 原因：流动性偏薄
+- Alleged Bruno Meme Coin | 风险 51.25 | 原因：流动性偏薄
+- Anthropic AI Alignment Research | 风险 47.01 | 原因：流动性偏薄、龙头筹码集中度偏高
+- CZ and Fugui | 风险 45.60 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged KITH Meme Token Launch | 风险 43.28 | 原因：流动性偏薄
+- CZ: Asian Culture Reads PDF First | 风险 43.18 | 原因：流动性偏薄
+- GTA6 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- FLORK | BSC | 看多 | 新鲜度 100.00 | Boba Coin / CZ: Asian Culture Reads PDF First
+- 我的女友景甜 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 無為 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AST | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 甜甜币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BOBA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 甜甜币 | BSC | 看多 | 新鲜度 100.00 | Uncertain:Alleged Launch of Tiantian Coin
+- BOBA | BSC | 看多 | 新鲜度 100.00 | Boba Coin
 - 亚洲文化 | BSC | 看多 | 新鲜度 100.00 | CZ: Asian Culture Reads PDF First
 - SINGED | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 白毛牛来 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RANDY | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 电话猴 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 我的女友景甜 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- AI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance Signs（BSC，分数 85.76）
-2. 共振最强代币：MEMESTOCK（BSC，共振 100.0）
-3. 记忆层变化：Binance Signs 当前为“新出现”
+1. 当前最强叙事：GTA6（Solana，分数 85.18）
+2. 共振最强代币：CATE（Solana，共振 100.0）
+3. 记忆层变化：GTA6 当前为“新出现”
 4. 最新官方催化：ENSO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers
 #Binance #NarrativeOS #OpenClaw
