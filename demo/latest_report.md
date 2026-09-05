@@ -1,108 +1,109 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-05T12:08:41.847998+00:00
+- 生成时间：2026-09-05T15:07:43.910921+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged H00D Ticker Strategy，所在链为 Solana，叙事强度 87.1。
-- 当前平均叙事强度为 82.37，其中已确认叙事 0 个。
+- 当前最强叙事是 AGI ALPHA AGENT，所在链为 Solana，叙事强度 86.67。
+- 当前平均叙事强度为 82.16，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 TROLL，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Launch of GouGou Meme Coin 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Venezuela Oil Fund，伪叙事风险 40.99。
+- 记忆层显示 AGI ALPHA AGENT 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Anoncoin Launches ROBINCAT，伪叙事风险 40.99。
 - 最新官方催化来自 新币上新：Binance Will Add MarsCoin (MARSCOIN) on Earn, Buy Crypto, Convert, VIP Loan & Margin。
 
 ## 叙事雷达
 
-- Alleged H00D Ticker Strategy | Solana | 降温中 | 强度 87.10 | 质量 76.11
-  - 主题摘要：According to john's post, the author suggests launching a ticker named H00D to exploit retail investors' perception of it as HOOD, referencing Robinhood Chain's brand restrictions…
-  - 资金 100.00 / 广度 86.84 / 确认 9.36 / 脆弱性 0.00
+- AGI ALPHA AGENT | Solana | 降温中 | 强度 86.67 | 质量 74.82
+  - 主题摘要：Multiple tokens named 「AGIALPHA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.52 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of GouGou Meme Coin | BSC | 加速中 | 强度 85.37 | 质量 76.39
-  - 主题摘要：According to 小欧小O's post, the author claims that 'Google Dog' (symbol: 股狗) represents a perfect combination of stocks and meme coins, describing it as an ideal Google pool. This i…
-  - 资金 100.00 / 广度 82.14 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- jigglystool Shares IBRL Meme | Solana | 降温中 | 强度 85.11 | 质量 74.99
-  - 主题摘要：According to jigglystool's post, the user shared a meme image related to the token IBRL. The post includes a link to a tweet by @toly featuring the IBRL meme.
-  - 资金 100.00 / 广度 85.06 / 确认 9.36 / 脆弱性 14.00
+- Anoncoin Launches ROBINCAT | Solana | 降温中 | 强度 85.37 | 质量 77.36
+  - 主题摘要：Multiple tokens named 「HOOD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 91.01 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged ALMOND Meme Image Release | Solana | 降温中 | 强度 84.38 | 质量 75.91
+- Alleged ALMOND Meme Image Release | Solana | 降温中 | 强度 84.31 | 质量 75.84
   - 主题摘要：According to Quant 💻's post, the author suggests sending a singular almond as a Meme image, positioning it as an anti-AI symbol. This content references the ALMOND token and contr…
-  - 资金 100.00 / 广度 83.52 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.30 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:JBL Questions CZ's Response to Meme Image | BSC | 已确认 | 强度 82.52 | 质量 83.99
-  - 主题摘要：According to JBL's post, the user shared a Meme image stating that stocks are unnecessary and only Meme coins are needed, referencing a quoted tweet about not needing stocks. JBL…
-  - 资金 100.00 / 广度 99.39 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:ProDev Speculates on FLNC Market Cap | BSC | 已确认 | 强度 82.49 | 质量 83.99
-  - 主题摘要：According to 堂哥（毁灭版）'s post, the author discusses Fluence Energy (FLNC) stock, suggesting that sending FLNC tokens to the stock's pool on the BSC chain could drive its value. The…
-  - 资金 100.00 / 广度 99.39 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Mario Presidente Discusses ALMOND Meme | Solana | 降温中 | 强度 81.40 | 质量 71.55
-  - 主题摘要：Multiple tokens named 「AI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.04 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pumpany | Solana | 降温中 | 强度 80.80 | 质量 68.81
-  - 主题摘要：According to Pumpany's post, the entity launched a meme company on Pump.fun aiming for a $1B valuation. The project offers employment based on token ownership, allowing holders to…
-  - 资金 100.00 / 广度 80.79 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USMS | Solana | 降温中 | 强度 80.46 | 质量 67.97
-  - 主题摘要：Multiple tokens named 「USMS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.05 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Lion Coin Chain Launch | BSC | 降温中 | 强度 80.18 | 质量 68.64
-  - 主题摘要：According to KIMI🔶BNB's post, a Douyin KOL with 5 million followers promoted Lion Coin, claiming 1 Lion Coin equals 1 USDT, and advocated for its on-chain listing. This informatio…
-  - 资金 100.00 / 广度 77.03 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Psygen Shares Giant Mushroom Record | Solana | 降温中 | 强度 79.89 | 质量 70.03
-  - 主题摘要：According to Psygen's post, a new world record for a psilocybin-containing mushroom, specifically an Albino Crooked Mystery, has been established. The specimen weighed 1216 grams…
-  - 资金 100.00 / 广度 66.57 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Venezuela Oil Fund | Solana | 降温中 | 强度 79.83 | 质量 71.47
-  - 主题摘要：VOF token draws inspiration from Venezuela's oil wealth and the Trump administration's $500M Venezuela Oil Fund plan. Created following the announcement of Venezuela's oil reserve…
-  - 资金 100.00 / 广度 71.36 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Weibo Coin Dividend Q Coin | BSC | 加速中 | 强度 76.95 | 质量 64.96
-  - 主题摘要：According to Genius's post, the author claims that Weibo, a major Chinese social media platform listed on NASDAQ, has an official virtual currency called 'Weibo Coin'. Genius alle…
-  - 资金 100.00 / 广度 79.95 / 确认 24.48 / 脆弱性 14.00
+- Uncertain:JBL Questions CZ's Response to Meme Image | BSC | 加速中 | 强度 81.58 | 质量 83.86
+  - 主题摘要：Multiple tokens named 「FLNC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 99.48 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged Binance Small Changes Token | BSC | 降温中 | 强度 74.48 | 质量 64.69
-  - 主题摘要：According to gapJ | 版本之子's post, the author discusses Binance Small Changes and the BSC network. The post questions the nature of these changes within the Binance ecosystem.
-  - 资金 100.00 / 广度 84.06 / 确认 9.36 / 脆弱性 14.00
+- Uncertain:ProDev Speculates on FLNC Market Cap | BSC | 加速中 | 强度 81.58 | 质量 83.86
+  - 主题摘要：According to 堂哥（毁灭版）'s post, the author discusses Fluence Energy (FLNC) stock, suggesting that sending FLNC tokens to the stock's pool on the BSC chain could drive its value. The…
+  - 资金 100.00 / 广度 99.48 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of GouGou Meme Coin | BSC | 加速中 | 强度 81.49 | 质量 78.76
+  - 主题摘要：According to 小欧小O's post, the author claims to have created a Meme image combining stocks and meme coins, termed 'GouGou' (Stock Dog), and asserts it represents a perfect Google p…
+  - 资金 100.00 / 广度 84.59 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Mario Presidente Discusses ALMOND Meme | Solana | 降温中 | 强度 81.38 | 质量 71.53
+  - 主题摘要：Multiple tokens named 「AI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.99 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Venezuela Oil Fund | Solana | 降温中 | 强度 80.88 | 质量 71.95
+  - 主题摘要：VOF token draws inspiration from Venezuela's oil wealth and the Trump administration's $500M Venezuela Oil Fund plan. Created following the announcement of Venezuela's oil reserve…
+  - 资金 100.00 / 广度 72.96 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Psygen Shares Giant Mushroom Record | Solana | 降温中 | 强度 80.72 | 质量 70.74
+  - 主题摘要：According to Psygen's post, a new world record for a psilocybin-containing mushroom, specifically an Albino Crooked Mystery, has been established. The specimen weighed 1216 grams…
+  - 资金 100.00 / 广度 68.92 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- USMS | Solana | 降温中 | 强度 80.69 | 质量 68.33
+  - 主题摘要：Multiple tokens named 「USMS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.08 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Binance MENA Post | BSC | 加速中 | 强度 77.72 | 质量 77.08
+  - 主题摘要：According to Binance MENA's post, the official account for the Middle East and North Africa region shared a Meme image accompanied by Arabic text expressing that responsibilities…
+  - 资金 100.00 / 广度 91.04 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Adam Aron Criticizes Crypto Securities Compliance | Solana | 降温中 | 强度 77.30 | 质量 63.76
+  - 主题摘要：According to Adam Aron's post, the AMC CEO criticized cryptocurrency platforms for allegedly ignoring U.S. securities laws by offering offshore stock tokens to U.S. persons. He co…
+  - 资金 100.00 / 广度 74.68 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Genius Posts QQQ Wangchai Meme Image | BSC | 加速中 | 强度 75.61 | 质量 64.61
+  - 主题摘要：According to Genius's post, the user announced the launch of a QQQ Wangchai Meme image. This content references the 'Wangchai' token and incorporates elements of Chinese internet…
+  - 资金 100.00 / 广度 80.97 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance GM Greeting | BSC | 加速中 | 强度 74.13 | 质量 69.32
+  - 主题摘要：Binance华语官方账号发布标准的加密货币社区问候语“GM”，并配图展示太空或旅行主题。该内容属于日常运营互动，缺乏具体的热点事件、争议性或独特的Meme文化元素，难以引发广泛的代币发行讨论或病毒式传播。
+  - 资金 100.00 / 广度 85.70 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.37，其中已确认叙事 0 个。
-- Alleged Launch of GouGou Meme Coin 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged H00D Ticker Strategy 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.16，其中已确认叙事 0 个。
+- Uncertain:Binance MENA Post 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- AGI ALPHA AGENT 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:JBL Questions CZ's Response to Meme Image | 质量 83.99 | 可交易性 100.00 | 风险 低
-- Uncertain:ProDev Speculates on FLNC Market Cap | 质量 83.99 | 可交易性 100.00 | 风险 低
-- Alleged Launch of GouGou Meme Coin | 质量 76.39 | 可交易性 94.55 | 风险 低
-- Alleged H00D Ticker Strategy | 质量 76.11 | 可交易性 100.00 | 风险 低
-- Alleged ALMOND Meme Image Release | 质量 75.91 | 可交易性 100.00 | 风险 低
-- jigglystool Shares IBRL Meme | 质量 74.99 | 可交易性 98.03 | 风险 低
-- Mario Presidente Discusses ALMOND Meme | 质量 71.55 | 可交易性 93.94 | 风险 低
-- Venezuela Oil Fund | 质量 71.47 | 可交易性 100.00 | 风险 低
-- Psygen Shares Giant Mushroom Record | 质量 70.03 | 可交易性 100.00 | 风险 低
-- Pumpany | 质量 68.81 | 可交易性 81.72 | 风险 低
+- Uncertain:JBL Questions CZ's Response to Meme Image | 质量 83.86 | 可交易性 100.00 | 风险 低
+- Uncertain:ProDev Speculates on FLNC Market Cap | 质量 83.86 | 可交易性 100.00 | 风险 低
+- Alleged Launch of GouGou Meme Coin | 质量 78.76 | 可交易性 100.00 | 风险 低
+- Anoncoin Launches ROBINCAT | 质量 77.36 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance MENA Post | 质量 77.08 | 可交易性 100.00 | 风险 低
+- Alleged ALMOND Meme Image Release | 质量 75.84 | 可交易性 100.00 | 风险 低
+- AGI ALPHA AGENT | 质量 74.82 | 可交易性 100.00 | 风险 低
+- Venezuela Oil Fund | 质量 71.95 | 可交易性 100.00 | 风险 低
+- Mario Presidente Discusses ALMOND Meme | 质量 71.53 | 可交易性 93.94 | 风险 低
+- Psygen Shares Giant Mushroom Record | 质量 70.74 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- Anoncoin Launches ROBINCAT | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - Venezuela Oil Fund | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- 忍者 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CEO | BSC | 看多 | 新鲜度 100.00 | Uncertain:Binance MENA Post
+- 股狗 | BSC | 看多 | 新鲜度 100.00 | Alleged Launch of GouGou Meme Coin
 - FLNC | BSC | 看多 | 新鲜度 100.00 | Uncertain:JBL Questions CZ's Response to Meme Image / Uncertain:ProDev Speculates on FLNC Market Cap
-- 豹富 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 旺柴 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CAT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- fone | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEMES | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MINI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - UPTOOMUCH | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged H00D Ticker Strategy（Solana，分数 87.1）
+1. 当前最强叙事：AGI ALPHA AGENT（Solana，分数 86.67）
 2. 共振最强代币：TROLL（Solana，共振 100.0）
-3. 记忆层变化：Alleged Launch of GouGou Meme Coin 当前为“新出现”
+3. 记忆层变化：AGI ALPHA AGENT 当前为“新出现”
 4. 最新官方催化：Binance Will Add MarsCoin (MARSCOIN) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 #Binance #NarrativeOS #OpenClaw
