@@ -1,117 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-07T19:53:58.205290+00:00
+- 生成时间：2026-09-07T22:18:49.502504+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Hunter Boden Wallet Leak，所在链为 Solana，叙事强度 87.06。
-- 当前平均叙事强度为 86.14，其中已确认叙事 0 个。
+- 当前最强叙事是 PROJECT ONYX，所在链为 Solana，叙事强度 89.92。
+- 当前平均叙事强度为 84.39，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Hunter Boden Wallet Leak 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged LAPTOP Token Launch，伪叙事风险 40.99。
+- 记忆层显示 PROJECT ONYX 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Introducing Binance AI: Join the Beta and Shape the Future of Trading。
 
 ## 叙事雷达
 
-- Alleged Hunter Boden Wallet Leak | Solana | 降温中 | 强度 87.06 | 质量 78.17
-  - 主题摘要：According to Pump.fun's post, the platform announced the upcoming launch of the $LAPTOP token on the Base network. The post references Hunter Biden and specifies the launch date a…
-  - 资金 100.00 / 广度 93.69 / 确认 9.36 / 脆弱性 14.00
+- PROJECT ONYX | Solana | 降温中 | 强度 89.92 | 质量 80.06
+  - 主题摘要：Multiple tokens named 「PONYX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Leap Dismisses LAPTOP Token | Solana | 降温中 | 强度 86.94 | 质量 77.97
-  - 主题摘要：According to Leap's post, the user expressed skepticism regarding the LAPTOP token, stating that it cannot be taken seriously. This comment reflects a negative sentiment towards t…
-  - 资金 100.00 / 广度 93.02 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Coca-Cola | Solana | 降温中 | 强度 86.85 | 质量 77.82
+- Coca-Cola | Solana | 降温中 | 强度 85.27 | 质量 75.03
   - 主题摘要：Multiple tokens named 「Coca Cola」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.52 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 98.44 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged LAPTOP Token Launch | Solana | 降温中 | 强度 85.65 | 质量 77.83
-  - 主题摘要：According to Doge's post, the $LAPTOP token is allegedly launching on the Base network on September 9th. The quoted content claims the token is associated with Hunter Biden and wi…
-  - 资金 100.00 / 广度 92.56 / 确认 9.36 / 脆弱性 24.00
+- Alleged Solana Hedge Fund Meme | Solana | 降温中 | 强度 84.70 | 质量 72.91
+  - 主题摘要：According to Washywash's post, the author claims to have created a hedge fund concept embedded within a memecoin on the Solana network. The post states that the token is paired wi…
+  - 资金 100.00 / 广度 76.18 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cat Quotes Hunter Biden on Shatterproof | Solana | 降温中 | 强度 85.65 | 质量 77.83
-  - 主题摘要：According to Cat's post, the user quoted Hunter Biden's statement urging donations to the organization Shatterproof. The content highlights Biden's call for financial support for…
-  - 资金 100.00 / 广度 92.56 / 确认 9.36 / 脆弱性 24.00
+- Alleged LAPTOP Token Launch | Solana | 降温中 | 强度 84.21 | 质量 74.01
+  - 主题摘要：According to SpotEmDropEm's post, the author references Hunter Biden's laptop forensic records and quotes the $LAPTOP token. This implies an alleged connection between the politic…
+  - 资金 100.00 / 广度 81.20 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged LAPTOP Token Launch on Base | Solana | 降温中 | 强度 85.65 | 质量 77.83
-  - 主题摘要：According to d's post, the token $LAPTOP is allegedly launching on the Base network on September 9th via the Pump.fun platform. The post references a quoted tweet claiming the tok…
-  - 资金 100.00 / 广度 92.56 / 确认 9.36 / 脆弱性 24.00
+- Hugging Face | Solana | 降温中 | 强度 84.16 | 质量 72.36
+  - 主题摘要：Multiple tokens named 「Hugging Face」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.34 / 确认 9.36 / 脆弱性 4.52
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged LAPTOP Token Launch | Solana | 降温中 | 强度 85.65 | 质量 77.83
-  - 主题摘要：According to d's post, the Pump.fun platform displayed an image related to the alleged launch of the $LAPTOP token on the Base network. The quoted content claims the token is laun…
-  - 资金 100.00 / 广度 92.56 / 确认 9.36 / 脆弱性 24.00
+- OKX's USDG Expansion | Solana | 降温中 | 强度 84.06 | 质量 76.85
+  - 主题摘要：OKX founder Star Xu highlights the adoption of USDG across its ecosystem and mentions Robinhood Chain's interest, signaling a push for stablecoin utility.
+  - 资金 100.00 / 广度 89.30 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- LAPTOP Token Launch on Base | Solana | 降温中 | 强度 85.65 | 质量 77.83
-  - 主题摘要：According to juice's post, the LAPTOP token is launching on the Base blockchain. The author questions whether it should be paired with COIN. This information is unverified. Please…
-  - 资金 100.00 / 广度 92.56 / 确认 9.36 / 脆弱性 24.00
+- Welcome to the Dragon Restaurant | Solana | 降温中 | 强度 81.71 | 质量 69.77
+  - 主题摘要：Multiple tokens named 「Dragon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.69 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MGGA Comments on Cat-Themed Token | BSC | 降温中 | 强度 79.55 | 质量 75.87
+- WallStreetAlpha Shares Stonk Meme | Solana | 降温中 | 强度 81.07 | 质量 69.50
+  - 主题摘要：According to WallStreetAlpha's post, the user shared a collection of hashtags related to the 'stonk' internet meme culture, including terms like 'stonkfun' and 'stonkmaxxing'. Thi…
+  - 资金 100.00 / 广度 64.81 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- MGGA Comments on Cat-Themed Token | BSC | 降温中 | 强度 80.53 | 质量 75.88
   - 主题摘要：According to MGGA's post, the user comments on a cryptocurrency token, identifying it as a cat-themed project comparable to CASHCAT. The post includes a quoted tweet referencing B…
-  - 资金 100.00 / 广度 80.77 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 80.80 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yun-Ta Tsai Comments on Tesla Cybercat | BSC | 降温中 | 强度 77.02 | 质量 71.67
+- Yun-Ta Tsai Comments on Tesla Cybercat | BSC | 降温中 | 强度 78.13 | 质量 71.88
   - 主题摘要：According to Yun-Ta Tsai's post, he identified a 'lucky cat' in response to a discussion about pets in the Tesla Cybercab. This interaction highlights the emergence of the 'Cyberc…
-  - 资金 100.00 / 广度 79.34 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.41 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged ZDOGE Privacy Dog Meme Image | BSC | 降温中 | 强度 76.47 | 质量 62.51
-  - 主题摘要：According to 我肯定会发财！'s post, the user shared a Meme image related to ZDOGE, referring to it as a 'privacy dog' for DOGE. This content involves the alleged release of a Meme image…
-  - 资金 100.00 / 广度 74.22 / 确认 9.36 / 脆弱性 14.00
+- Alleged Tiscota Meme Coin | BSC | 降温中 | 强度 76.21 | 质量 65.58
+  - 主题摘要：According to Jaydina Yuu's post, an alleged Meme coin named $TISCOTA is being promoted, claiming to be associated with a Tesla-themed arcade game where users collect coins as a ca…
+  - 资金 96.61 / 广度 68.65 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- laptop | BSC | 加速中 | 强度 73.11 | 质量 62.60
-  - 主题摘要：Multiple tokens named 「laptop」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.70 / 确认 24.48 / 脆弱性 34.00
+- laptop | BSC | 加速中 | 强度 73.19 | 质量 62.68
+  - 主题摘要：According to Fill Dozer's post, the user shared a Meme image titled 'apeonlaptop' referencing the $LAPTOP token paired with NVIDIA. This content reflects community-driven meme cul…
+  - 资金 100.00 / 广度 62.96 / 确认 24.48 / 脆弱性 34.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- UXUY Postman Releases Meme Image | BSC | 加速中 | 强度 71.41 | 质量 61.38
-  - 主题摘要：According to UXUY 邮差｜U买万物's post, the account introduced a new colleague named 'UXUY Postman' who has no workstation or KPI. The post features a Meme image with the slogan 'U HAVE…
-  - 资金 100.00 / 广度 71.39 / 确认 23.76 / 脆弱性 14.00
+- Based Mike Lee | BSC | 加速中 | 强度 70.54 | 质量 65.88
+  - 主题摘要：Elon Musk endorsed Senator Mike Lee's criticism of the WSJ's labeling of conservatives as 'far right' with a simple 'Yeah'. This interaction highlights the growing political align…
+  - 资金 100.00 / 广度 73.19 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ: Keep Going 🚀 | BSC | 加速中 | 强度 70.75 | 质量 63.32
-  - 主题摘要：Binance CEO Richard Teng 回复 CZ 的推文，表示“继续前进”。这展现了币安领导层的团结和稳健，但内容较为常规，缺乏强烈的Meme传播点。
-  - 资金 100.00 / 广度 77.10 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- NiltonribeiroA Posts Maneki-neko Meme | BSC | 降温中 | 强度 70.51 | 质量 59.04
+  - 主题摘要：According to 枯坐q小将's post, the user shared a Meme image related to the token 'ZHAO CAI MAO' (招财猫). The post mentions the 'launch' of this Meme image. This information is unverifie…
+  - 资金 100.00 / 广度 70.80 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 86.14，其中已确认叙事 0 个。
-- laptop 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged Hunter Boden Wallet Leak 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.39，其中已确认叙事 0 个。
+- Based Mike Lee 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- PROJECT ONYX 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Hunter Boden Wallet Leak | 质量 78.17 | 可交易性 100.00 | 风险 低
-- Leap Dismisses LAPTOP Token | 质量 77.97 | 可交易性 100.00 | 风险 低
-- Alleged LAPTOP Token Launch | 质量 77.83 | 可交易性 100.00 | 风险 低
-- Cat Quotes Hunter Biden on Shatterproof | 质量 77.83 | 可交易性 100.00 | 风险 低
-- Alleged LAPTOP Token Launch on Base | 质量 77.83 | 可交易性 100.00 | 风险 低
-- Alleged LAPTOP Token Launch | 质量 77.83 | 可交易性 100.00 | 风险 低
-- LAPTOP Token Launch on Base | 质量 77.83 | 可交易性 100.00 | 风险 低
-- Coca-Cola | 质量 77.82 | 可交易性 100.00 | 风险 低
-- MGGA Comments on Cat-Themed Token | 质量 75.87 | 可交易性 100.00 | 风险 低
-- Yun-Ta Tsai Comments on Tesla Cybercat | 质量 71.67 | 可交易性 87.40 | 风险 低
+- PROJECT ONYX | 质量 80.06 | 可交易性 100.00 | 风险 低
+- OKX's USDG Expansion | 质量 76.85 | 可交易性 100.00 | 风险 低
+- MGGA Comments on Cat-Themed Token | 质量 75.88 | 可交易性 100.00 | 风险 低
+- Coca-Cola | 质量 75.03 | 可交易性 84.80 | 风险 低
+- Alleged LAPTOP Token Launch | 质量 74.01 | 可交易性 98.63 | 风险 低
+- Alleged Solana Hedge Fund Meme | 质量 72.91 | 可交易性 100.00 | 风险 低
+- Hugging Face | 质量 72.36 | 可交易性 100.00 | 风险 低
+- Yun-Ta Tsai Comments on Tesla Cybercat | 质量 71.88 | 可交易性 88.03 | 风险 低
+- Welcome to the Dragon Restaurant | 质量 69.77 | 可交易性 100.00 | 风险 低
+- WallStreetAlpha Shares Stonk Meme | 质量 69.50 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged LAPTOP Token Launch | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Cat Quotes Hunter Biden on Shatterproof | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged LAPTOP Token Launch on Base | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged LAPTOP Token Launch | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- LAPTOP Token Launch on Base | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - CM | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SOCK | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Anthropic | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LEVERHEDGE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HONTER | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ELONCOIN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - peepeepoopoo | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CTO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CatGPT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SLOWLANA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BST | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- ape | Solana | 看多 | 新鲜度 99.54 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -137,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Hunter Boden Wallet Leak（Solana，分数 87.06）
+1. 当前最强叙事：PROJECT ONYX（Solana，分数 89.92）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Alleged Hunter Boden Wallet Leak 当前为“新出现”
+3. 记忆层变化：PROJECT ONYX 当前为“新出现”
 4. 最新官方催化：Introducing Binance AI: Join the Beta and Shape the Future of Trading
 #Binance #NarrativeOS #OpenClaw
