@@ -1,116 +1,113 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-08T13:50:11.544541+00:00
+- 生成时间：2026-09-08T17:35:51.202817+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Talon Allegedly Launches RST Token，所在链为 Solana，叙事强度 89.92。
-- 当前平均叙事强度为 86.63，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Talon Allegedly Launches RST Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Biden's Cat Willow Token Launch，伪叙事风险 51.26。
+- 当前最强叙事是 TOTTI  Posts About iPhone 18 Series，所在链为 Solana，叙事强度 87.83。
+- 当前平均叙事强度为 84.18，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 4STOCK，来自 BSC，共振分数 100.0。
+- 记忆层显示 TOTTI  Posts About iPhone 18 Series 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Hunter Biden Meme Coin，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Join Binance Wallet On-Chain Trade & Win Campaign Season 6 to Win a Share of $50,000 Worth of Rewards!。
 
 ## 叙事雷达
 
-- Talon Allegedly Launches RST Token | Solana | 降温中 | 强度 89.92 | 质量 80.06
-  - 主题摘要：According to Talon's post, he claims that the RST token is performing exceptionally well, citing nearly 4,000 holders as evidence of its success. He expresses confidence in its fu…
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
+- TOTTI  Posts About iPhone 18 Series | Solana | 降温中 | 强度 87.83 | 质量 78.95
+  - 主题摘要：According to The Block's post, the launch of the $LAPTOP token associated with Hunter Biden is imminent, featuring Ran Neuner. The token is reportedly launching on the Base networ…
+  - 资金 100.00 / 广度 100.00 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged AMC Meme Cat Token | Solana | 降温中 | 强度 89.87 | 质量 80.06
-  - 主题摘要：According to gettindevvy_'s post, the user promotes an alleged token named 'AMC (A Meme Cat)', claiming it is the most discussed stock narrative. This post quotes a reference to '…
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
+- HAPPY CAT | Solana | 降温中 | 强度 86.42 | 质量 74.85
+  - 主题摘要：HAPPYCAT is a token inspired by the playful and joyful energy of cats, launched by the X user HAPPYCAT_pump to celebrate feline vibes in the crypto space.
+  - 资金 100.00 / 广度 82.63 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged AMC Meme Coin | Solana | 降温中 | 强度 87.36 | 质量 79.76
-  - 主题摘要：According to thedevor's post, the author argues that AMC should be classified as a meme coin rather than a stock, referencing a quoted tweet that defines AMC as 'A Meme Cat'. This…
-  - 资金 100.00 / 广度 99.00 / 确认 9.36 / 脆弱性 16.95
+- ROBINHOOF | Solana | 降温中 | 强度 85.42 | 质量 73.85
+  - 主题摘要：Multiple tokens named 「ROBINHOOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.66 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- beeple Posts 'UNITED STATES OF GRIFT' | Solana | 降温中 | 强度 86.33 | 质量 78.91
-  - 主题摘要：According to beeple's post, the phrase 'UNITED STATES OF GRIFT' is highlighted, which corresponds to the token symbol USOG. This suggests an alleged association or launch of a tok…
-  - 资金 100.00 / 广度 96.18 / 确认 9.36 / 脆弱性 24.00
+- Robin Alon | Solana | 降温中 | 强度 85.07 | 质量 73.51
+  - 主题摘要：RobinAlon token draws inspiration from Robin Alon's profile image, depicting a calm figure riding through a forest with a sharp look and the RobinAlon banner. The token's narrativ…
+  - 资金 100.00 / 广度 75.53 / 确认 12.96 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Meme Strategy Token | Solana | 降温中 | 强度 86.06 | 质量 76.79
-  - 主题摘要：According to nico's post, the author proposes a 'Meme Strategy' token paired with $STRC, suggesting it could drive stock value and attract Michael Saylor's investment. Multiple to…
-  - 资金 100.00 / 广度 92.81 / 确认 4.32 / 脆弱性 14.00
+- Useless Stonk | Solana | 降温中 | 强度 83.88 | 质量 77.32
+  - 主题摘要：Multiple tokens named 「STONKLESS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.88 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Kahoy Suggests MSTR Meme Pairing | Solana | 降温中 | 强度 85.91 | 质量 77.86
-  - 主题摘要：According to Kahoy's post, the author suggests pairing the $MSTR token with a memecoin to potentially recover from its 56% decline from all-time highs. This proposal is framed wit…
-  - 资金 100.00 / 广度 96.37 / 确认 4.32 / 脆弱性 14.00
+- Department of Energy | Solana | 降温中 | 强度 82.45 | 质量 70.83
+  - 主题摘要：Multiple tokens named 「DOE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.94 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Meme Strategy Index | Solana | 降温中 | 强度 84.49 | 质量 75.72
-  - 主题摘要：According to reg's post, the surge of haMSTR prompted a proposal for a 'meme strategy index' to pair tokens like pump, ansem, and fartcoin. This alleged initiative suggests a new…
-  - 资金 100.00 / 广度 89.22 / 确认 4.32 / 脆弱性 14.00
+- Alleged TOPBLAST Token Promotion | Solana | 降温中 | 强度 81.44 | 质量 70.00
+  - 主题摘要：According to DEVILANTE's post, the user promotes the TOPBLAST token, describing it as 'absolute beauty' and urging followers to purchase it. DEVILANTE claims the associated post h…
+  - 资金 100.00 / 广度 69.64 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Federal Trust Fund System | Solana | 降温中 | 强度 83.10 | 质量 71.81
-  - 主题摘要：Multiple tokens named 「FTFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.21 / 确认 4.32 / 脆弱性 0.00
+- Intel Cat | Solana | 降温中 | 强度 80.95 | 质量 76.00
+  - 主题摘要：Multiple tokens named 「INTC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.16 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Hunter Biden Meme Coin | BSC | 降温中 | 强度 81.14 | 质量 73.72
-  - 主题摘要：According to Aggr News's post, sources claim that Hunter Biden is launching a meme coin with the ticker symbol $LAPTOP. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 86.25 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Xiaoguo778 Compiles BSC Meme Images | BSC | 点火期 | 强度 77.09 | 质量 74.10
-  - 主题摘要：According to 尖顶🔶BNB's post, the author has compiled a collection of popular Meme images from the BSC ecosystem. The post indicates the inclusion of various trending Meme images as…
-  - 资金 100.00 / 广度 75.92 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CowRanch | BSC | 点火期 | 强度 76.39 | 质量 73.25
+- Elon Musk Shares SpaceX Meme | BSC | 已确认 | 强度 80.52 | 质量 75.37
+  - 主题摘要：Elon Musk retweeted a post by @luismbat comparing SpaceX launches to children painting astronauts. This action highlights a viral internet meme juxtaposing high-tech space explora…
+  - 资金 100.00 / 广度 81.68 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Uncertain:Alleged GME20 Token | BSC | 加速中 | 强度 75.17 | 质量 64.43
+  - 主题摘要：According to 海胆刺头(still hold)'s post, the GME20 token is allegedly associated with a selection of the 20 lowest market cap stocks in the Binance Stock ecosystem. The post suggests…
+  - 资金 100.00 / 广度 81.38 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CowRanch | BSC | 降温中 | 强度 71.78 | 质量 71.05
   - 主题摘要：CowRanch (养牛) is a community-driven token inspired by the concept of sustainable agriculture and livestock farming. It aims to support eco-friendly farming practices and community…
-  - 资金 100.00 / 广度 73.07 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Biden's Cat Willow Token Launch | BSC | 点火期 | 强度 72.29 | 质量 68.29
-  - 主题摘要：According to 0x狸猫🔶DEV's post, the author claims that the cat named Willow, currently residing with the Biden family, is being used to build a project. This implies the alleged lau…
-  - 资金 100.00 / 广度 78.57 / 确认 11.52 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- PurpleChip Token Promotion | BSC | 降温中 | 强度 71.32 | 质量 56.11
-  - 主题摘要：According to PurpleChip's post, the PurpleChip token is promoted as a counterpart to Bluechip, operating on the BNB Chain via the @flapdotsh platform. The content highlights the t…
-  - 资金 100.00 / 广度 72.36 / 确认 4.32 / 脆弱性 14.00
+  - 资金 100.00 / 广度 65.76 / 确认 15.12 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 梭哈 | BSC | 降温中 | 强度 70.67 | 质量 68.14
-  - 主题摘要：Multiple tokens named 「Suoha」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.94 / 确认 4.32 / 脆弱性 14.00
+- 双色球 | BSC | 降温中 | 强度 66.87 | 质量 53.40
+  - 主题摘要：Multiple tokens named 「双色球」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.58 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Hunter Biden Meme Coin | BSC | 点火期 | 强度 66.72 | 质量 63.23
+  - 主题摘要：According to Aggr News's post, sources claim that Hunter Biden is launching a meme coin with the ticker symbol $LAPTOP. This report is based on WSJ sources and remains unverified.…
+  - 资金 100.00 / 广度 79.80 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Taraxacum | BSC | 加速中 | 强度 65.36 | 质量 59.72
+  - 主题摘要：Taraxacum is a meme token inspired by the dandelion plant, symbolizing resilience and growth. It gained popularity through a viral post on X, where a user humorously claimed to ha…
+  - 资金 100.00 / 广度 81.68 / 确认 19.44 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 86.63，其中已确认叙事 0 个。
-- Uncertain:Xiaoguo778 Compiles BSC Meme Images 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Talon Allegedly Launches RST Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.18，其中已确认叙事 0 个。
+- Elon Musk Shares SpaceX Meme 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- TOTTI  Posts About iPhone 18 Series 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Talon Allegedly Launches RST Token | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Alleged AMC Meme Cat Token | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Alleged AMC Meme Coin | 质量 79.76 | 可交易性 100.00 | 风险 低
-- beeple Posts 'UNITED STATES OF GRIFT' | 质量 78.91 | 可交易性 100.00 | 风险 低
-- Kahoy Suggests MSTR Meme Pairing | 质量 77.86 | 可交易性 100.00 | 风险 低
-- Alleged Meme Strategy Token | 质量 76.79 | 可交易性 100.00 | 风险 低
-- Alleged Meme Strategy Index | 质量 75.72 | 可交易性 100.00 | 风险 低
-- Uncertain:Xiaoguo778 Compiles BSC Meme Images | 质量 74.10 | 可交易性 100.00 | 风险 低
-- Alleged Hunter Biden Meme Coin | 质量 73.72 | 可交易性 95.83 | 风险 低
-- CowRanch | 质量 73.25 | 可交易性 100.00 | 风险 低
+- TOTTI  Posts About iPhone 18 Series | 质量 78.95 | 可交易性 100.00 | 风险 低
+- Useless Stonk | 质量 77.32 | 可交易性 100.00 | 风险 低
+- Intel Cat | 质量 76.00 | 可交易性 100.00 | 风险 低
+- Elon Musk Shares SpaceX Meme | 质量 75.37 | 可交易性 88.95 | 风险 低
+- HAPPY CAT | 质量 74.85 | 可交易性 100.00 | 风险 低
+- ROBINHOOF | 质量 73.85 | 可交易性 100.00 | 风险 低
+- Robin Alon | 质量 73.51 | 可交易性 100.00 | 风险 低
+- CowRanch | 质量 71.05 | 可交易性 100.00 | 风险 低
+- Department of Energy | 质量 70.83 | 可交易性 100.00 | 风险 低
+- Alleged TOPBLAST Token Promotion | 质量 70.00 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Biden's Cat Willow Token Launch | 风险 51.26 | 原因：流动性偏薄、近 1 小时净流入转负
-- Uncertain:Xiaoguo778 Compiles BSC Meme Images | 风险 43.18 | 原因：流动性偏薄
-- CowRanch | 风险 43.18 | 原因：流动性偏薄
-- beeple Posts 'UNITED STATES OF GRIFT' | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Hunter Biden Meme Coin | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- Astro | BSC | 看多 | 新鲜度 100.00 | Elon Musk Shares SpaceX Meme
+- Vape | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- GME20 | BSC | 看多 | 新鲜度 100.00 | Uncertain:Alleged GME20 Token
+- 小股东 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 7Stock | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Taraxacum | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Taraxacum | BSC | 看多 | 新鲜度 100.00 | Taraxacum
 - MIGO | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 4Stock | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BNC4 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- build | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- XRP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Anthropic | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- LEVERHEDGE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BST | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- ATTN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- JUST | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Talon Allegedly Launches RST Token（Solana，分数 89.92）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Talon Allegedly Launches RST Token 当前为“新出现”
+1. 当前最强叙事：TOTTI  Posts About iPhone 18 Series（Solana，分数 87.83）
+2. 共振最强代币：4STOCK（BSC，共振 100.0）
+3. 记忆层变化：TOTTI  Posts About iPhone 18 Series 当前为“新出现”
 4. 最新官方催化：Join Binance Wallet On-Chain Trade & Win Campaign Season 6 to Win a Share of $50,000 Worth of Rewards!
 #Binance #NarrativeOS #OpenClaw
