@@ -1,114 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-10T13:32:03.989599+00:00
+- 生成时间：2026-09-10T17:09:20.899243+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 RST，所在链为 Solana，叙事强度 86.7。
-- 当前平均叙事强度为 84.47，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 RST 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Uncertain:Alleged Binance Shareholder Airdrop，伪叙事风险 49.52。
+- 当前最强叙事是 RST，所在链为 Solana，叙事强度 86.88。
+- 当前平均叙事强度为 82.07，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 牛来，来自 BSC，共振分数 100.0。
+- 记忆层显示 Get On, Or Gay 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 混混猫，伪叙事风险 46.64。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Teller (DEBIT) and Share $200K Worth of Rewards (2026-09-10)。
 
 ## 叙事雷达
 
-- RST | Solana | 降温中 | 强度 86.70 | 质量 76.79
+- RST | Solana | 降温中 | 强度 86.88 | 质量 76.58
   - 主题摘要：Multiple tokens named 「RST」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.79 / 确认 4.32 / 脆弱性 0.00
+  - 资金 100.00 / 广度 92.09 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Robinhood | Solana | 降温中 | 强度 86.65 | 质量 77.71
-  - 主题摘要：According to Hood House's post, Robinhood CEO Vlad Tenev stated that a wealth transfer exceeding $100 trillion will occur over the next several decades. He emphasized Robinhood's…
-  - 资金 100.00 / 广度 95.34 / 确认 5.04 / 脆弱性 14.00
+- Get On, Or Gay | Solana | 降温中 | 强度 86.44 | 质量 74.65
+  - 主题摘要：Multiple tokens named 「GOOG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.15 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MrBeast Official Coin | Solana | 降温中 | 强度 85.46 | 质量 74.33
+- MrBeast Official Coin | Solana | 降温中 | 强度 85.53 | 质量 77.87
   - 主题摘要：Multiple tokens named 「MrBeast」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.78 / 确认 0.00 / 脆弱性 0.00
+  - 资金 100.00 / 广度 96.39 / 确认 4.32 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Strategic Intl Oil Fund | Solana | 降温中 | 强度 84.46 | 质量 72.03
-  - 主题摘要：Multiple tokens named 「SIOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.22 / 确认 9.36 / 脆弱性 0.00
+- Joe Biden Prostate Cancer Disclosure | Solana | 降温中 | 强度 81.93 | 质量 69.76
+  - 主题摘要：According to Joe Biden's post, the former U.S. President disclosed his prostate cancer diagnosis, noting the disease had spread to his bones. He emphasized the importance of early…
+  - 资金 100.00 / 广度 89.85 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Solana Hypes iPhone Duo | Solana | 降温中 | 强度 84.01 | 质量 74.19
-  - 主题摘要：Solana官方账号转发并评论苹果设计的'iPhone Duo'概念预告片，称其具有'maximum potential'（极致潜力）。这一跨界互动结合了科技巨头的未来概念与加密货币公链的关注，引发了关于Web3与硬件结合或单纯蹭热点的讨论。
-  - 资金 100.00 / 广度 89.82 / 确认 15.88 / 脆弱性 14.00
+- Justine Moore Recommends AI Monki | BSC | 加速中 | 强度 80.50 | 质量 76.69
+  - 主题摘要：According to Justine Moore's post, she recommends following an AI monkey character that performs various jobs, noting its presence at just.monki. She highlights this as a notable…
+  - 资金 100.00 / 广度 84.95 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Kirkaversary Token Discussion | Solana | 降温中 | 强度 79.73 | 质量 69.72
+  - 主题摘要：According to Sheep's post, the user clarified that 'KIRKAVERSARY' is the correct spelling for the relevant Meme image, distinguishing it from other variations. This statement addr…
+  - 资金 100.00 / 广度 68.72 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- LillyKuan Comments on SpaceX Meme Coin Claim | Solana | 降温中 | 强度 83.92 | 质量 73.04
-  - 主题摘要：According to LillyKuan's post, a discussion arose regarding whether SpaceX should be classified as a meme coin, citing its valuation and narrative. This commentary references the…
-  - 资金 100.00 / 广度 98.93 / 确认 4.32 / 脆弱性 14.00
+- michibaton | Solana | 降温中 | 强度 79.72 | 质量 69.63
+  - 主题摘要：Multiple tokens named 「MICHIBATON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 62.81 / 确认 15.84 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Baton Token Fee Structure | Solana | 降温中 | 强度 82.74 | 质量 76.28
-  - 主题摘要：According to Connor's post, the Baton token does not offer cashback rewards, and all associated fees are directed to the developer.
-  - 资金 100.00 / 广度 90.57 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Apple Paired with Apple | Solana | 降温中 | 强度 81.82 | 质量 69.30
-  - 主题摘要：According to quant's post, the phrase "APPLE PAIRED WITH APPLE" is shared, referencing the AAPL token. The content implies a thematic connection or pairing involving Apple, potent…
-  - 资金 100.00 / 广度 89.51 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FLAPPEPE | BSC | 加速中 | 强度 81.53 | 质量 79.78
+- Alleged TikTok Coin Launch | Solana | 加速中 | 强度 79.16 | 质量 78.96
+  - 主题摘要：According to Shakespeare's post, TikTok stock was added to OTC markets, allegedly enabling the launch of a monthly TikTok Coin. This information is unverified. Please exercise cau…
+  - 资金 100.00 / 广度 92.52 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- FLAPPEPE | BSC | 加速中 | 强度 78.72 | 质量 79.70
   - 主题摘要：Multiple tokens named 「FEPE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.20 / 确认 18.72 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.94 / 确认 18.72 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged Uponly Stock Launch | BSC | 加速中 | 强度 79.28 | 质量 76.07
-  - 主题摘要：According to _'s post, CZ proposed a concept for a stock that never drops, involving a 'UPONLY' mechanism with a price floor. _ claims CZ is allegedly launching the UPONLY token b…
-  - 资金 100.00 / 广度 93.69 / 确认 24.48 / 脆弱性 24.00
+- Uncertain:Epstein P. Schrödinger: Disney Stock Portfolio | BSC | 加速中 | 强度 77.24 | 质量 65.05
+  - 主题摘要：According to Epstein P. Schrödinger (MAX POTENTIAL)'s post, the author shared an insight regarding Binance co-founders CZ and Yi He, who reportedly used the aliases 'Homer' and 'M…
+  - 资金 100.00 / 广度 67.00 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance iPhone DUO | BSC | 加速中 | 强度 75.33 | 质量 74.79
-  - 主题摘要：Binance official account posts a standard promotional update featuring a fictional 'iPhone DUO' device to showcase asset management features. The content is a routine marketing up…
-  - 资金 100.00 / 广度 91.72 / 确认 19.44 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged Binance Shareholder Airdrop | BSC | 点火期 | 强度 72.24 | 质量 66.38
-  - 主题摘要：According to 天才DEV小号（仅此两号）'s post, the author claims that 'BNC' is Binance's stock code and that holding it makes one a minor shareholder. The post alleges the use of a viral addr…
-  - 资金 100.00 / 广度 99.24 / 确认 7.20 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Launch of Vape Panda Meme Image | BSC | 加速中 | 强度 71.64 | 质量 62.75
-  - 主题摘要：According to justadev's post, the author proposes a concept for a 'Vape Panda' token, suggesting it combine viral infinite fission mechanics with a panda mascot, referencing the '…
-  - 资金 100.00 / 广度 81.05 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 混混猫 | BSC | 点火期 | 强度 70.52 | 质量 62.34
+- pup | Solana | 降温中 | 强度 77.15 | 质量 67.03
+  - 主题摘要：pup token draws inspiration from the viral Shiba Inu meme culture, featuring a puppy with sunglasses against a green upward arrow background. Created by thepuponpf, it embodies th…
+  - 资金 100.00 / 广度 59.75 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 混混猫 | BSC | 点火期 | 强度 69.64 | 质量 59.79
   - 主题摘要：Multiple tokens named 「混混猫」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.83 / 确认 14.40 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.17 / 确认 10.80 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 牛梦 | BSC | 降温中 | 强度 68.97 | 质量 57.01
+  - 主题摘要：Multiple tokens named 「牛梦」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.68 / 确认 7.20 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:CZ Keybase Account Claims Name Charles | BSC | 降温中 | 强度 68.96 | 质量 52.97
+  - 主题摘要：According to Johnny🔶 #BNB's post, CZ's Keybase account identifies him as "Charles," leading to speculation about his potential US citizenship. This observation highlights a discre…
+  - 资金 100.00 / 广度 58.13 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.47，其中已确认叙事 0 个。
-- FLAPPEPE 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.07，其中已确认叙事 0 个。
+- Justine Moore Recommends AI Monki 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
 - RST 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- FLAPPEPE | 质量 79.78 | 可交易性 100.00 | 风险 低
-- Robinhood | 质量 77.71 | 可交易性 100.00 | 风险 低
-- RST | 质量 76.79 | 可交易性 100.00 | 风险 低
-- Alleged Baton Token Fee Structure | 质量 76.28 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Uponly Stock Launch | 质量 76.07 | 可交易性 81.94 | 风险 低
-- Binance iPhone DUO | 质量 74.79 | 可交易性 96.92 | 风险 低
-- MrBeast Official Coin | 质量 74.33 | 可交易性 100.00 | 风险 低
-- Solana Hypes iPhone Duo | 质量 74.19 | 可交易性 85.82 | 风险 低
-- LillyKuan Comments on SpaceX Meme Coin Claim | 质量 73.04 | 可交易性 81.38 | 风险 低
-- Strategic Intl Oil Fund | 质量 72.03 | 可交易性 100.00 | 风险 低
+- FLAPPEPE | 质量 79.70 | 可交易性 100.00 | 风险 低
+- Alleged TikTok Coin Launch | 质量 78.96 | 可交易性 96.79 | 风险 低
+- MrBeast Official Coin | 质量 77.87 | 可交易性 100.00 | 风险 低
+- Justine Moore Recommends AI Monki | 质量 76.69 | 可交易性 95.90 | 风险 低
+- RST | 质量 76.58 | 可交易性 100.00 | 风险 低
+- Get On, Or Gay | 质量 74.65 | 可交易性 100.00 | 风险 低
+- Joe Biden Prostate Cancer Disclosure | 质量 69.76 | 可交易性 79.00 | 风险 低
+- Alleged Kirkaversary Token Discussion | 质量 69.72 | 可交易性 100.00 | 风险 低
+- michibaton | 质量 69.63 | 可交易性 100.00 | 风险 低
+- pup | 质量 67.03 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Uncertain:Alleged Binance Shareholder Airdrop | 风险 49.52 | 原因：流动性偏薄
-- 混混猫 | 风险 43.76 | 原因：流动性偏薄
+- 混混猫 | 风险 46.64 | 原因：流动性偏薄
+- MrBeast Official Coin | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- 混混猫 | BSC | 看多 | 新鲜度 100.00 | 混混猫
-- BSTR | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 1888 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Freedom of Money | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 熊猫烧香 | BSC | 看多 | 新鲜度 100.00 | Alleged Launch of Vape Panda Meme Image
+- 硬币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 嘉豪 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 混混猫 | BSC | 看多 | 新鲜度 100.00 | 混混猫
+- GAY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - KIMCHI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - baton | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - STONKS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BST | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PRIVVVATE | Base | 看多 | 新鲜度 97.40 | 暂无直接叙事映射
-- 511212511121 | BSC | 看多 | 新鲜度 92.07 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：RST（Solana，分数 86.7）
-2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：RST 当前为“新出现”
+1. 当前最强叙事：RST（Solana，分数 86.88）
+2. 共振最强代币：牛来（BSC，共振 100.0）
+3. 记忆层变化：Get On, Or Gay 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Teller (DEBIT) and Share $200K Worth of Rewards (2026-09-10)
 #Binance #NarrativeOS #OpenClaw
