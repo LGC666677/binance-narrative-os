@@ -1,101 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-11T20:54:42.742917+00:00
+- 生成时间：2026-09-11T22:49:11.590199+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 National Trump Digital Accounts，所在链为 Solana，叙事强度 88.98。
-- 当前平均叙事强度为 81.27，其中已确认叙事 0 个。
+- 当前最强叙事是 Trumpcoin，所在链为 Solana，叙事强度 86.01。
+- 当前平均叙事强度为 84.28，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 牛来，来自 BSC，共振分数 100.0。
-- 记忆层显示 Rep. Luna on 9/11 Files Declassification 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Huh Cat Enters Xiaohongshu，伪叙事风险 48.38。
+- 记忆层显示 Trumpcoin 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 RealFlyBrain，伪叙事风险 50.69。
 - 最新官方催化来自 最新活动：Binance Lifestyle Venezuela Cashback Campaign: Spend 10 USDT, Get 2 USDT Back。
 
 ## 叙事雷达
 
-- National Trump Digital Accounts | Solana | 降温中 | 强度 88.98 | 质量 78.55
-  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.98 / 确认 9.36 / 脆弱性 0.00
+- Trumpcoin | Solana | 降温中 | 强度 86.01 | 质量 78.61
+  - 主题摘要：According to El Shrek's post, the US Mint released 2026 American Innovation $1 coin designs, which El Shrek claims tokenizes Apple founder Steve Jobs. El Shrek alleges the launch…
+  - 资金 100.00 / 广度 98.35 / 确认 5.04 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Rep. Luna on 9/11 Files Declassification | Solana | 降温中 | 强度 86.63 | 质量 77.49
+- Rep. Luna on 9/11 Files Declassification | Solana | 降温中 | 强度 85.41 | 质量 77.48
   - 主题摘要：According to Rep. Anna Paulina Luna's post, she stated that she has been informed a tranche of 9/11 files will be declassified today. This announcement relates to the ongoing poli…
-  - 资金 100.00 / 广度 91.98 / 确认 8.64 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.92 / 确认 8.64 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $wifout Meme Token | Solana | 降温中 | 强度 81.00 | 质量 69.52
-  - 主题摘要：According to Fear's post, the $wifout token is described as a simple dog-themed asset without technical features or trading pairs. Fear claims that such basic tokens can achieve s…
-  - 资金 100.00 / 广度 80.76 / 确认 5.04 / 脆弱性 14.00
+- DOLLO ALL IN⁠ | Solana | 降温中 | 强度 84.93 | 质量 75.57
+  - 主题摘要：Multiple tokens named 「ALLINU」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.57 / 确认 8.64 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Requests Donkey Kong Token | Solana | 降温中 | 强度 79.88 | 质量 68.28
-  - 主题摘要：According to Ansem 🐂🀄️'s post, the user jokingly requested 0.1% of the supply from whoever first launches a Donkey Kong paired token, referencing the $DKNG tokenized stock launch…
-  - 资金 100.00 / 广度 76.86 / 确认 5.04 / 脆弱性 14.00
+- Ziwen comments on Claude's usage page | Solana | 降温中 | 强度 84.50 | 质量 76.17
+  - 主题摘要：According to Ziwen's post, the author observes that Claude's recently updated usage page displays excessive information, expressing a subjective opinion that the interface is clut…
+  - 资金 100.00 / 广度 90.21 / 确认 5.04 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Duplicate | Solana | 降温中 | 强度 79.75 | 质量 73.17
+- Alleged Nvidia Fartcoin Meme | Solana | 降温中 | 强度 84.49 | 质量 76.17
+  - 主题摘要：According to Babby sokol's post, a Meme image circulates claiming Nvidia trades through Fartcoin, rather than Fartcoin trading through Nvidia. The post references a Yahoo Finance…
+  - 资金 100.00 / 广度 90.19 / 确认 5.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Nvidia Token | Solana | 降温中 | 强度 84.49 | 质量 76.17
+  - 主题摘要：According to bagwalk's post, Jim Cramer named his dog Nvidia, suggesting an opportunity to launch a tokenized Nvidia stock paired with this famous dog. The post references multipl…
+  - 资金 100.00 / 广度 90.19 / 确认 5.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Just Do It | Solana | 降温中 | 强度 84.12 | 质量 74.91
+  - 主题摘要：Multiple tokens named 「NIKE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.83 / 确认 9.36 / 脆弱性 21.68
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Duplicate | Solana | 降温中 | 强度 80.26 | 质量 74.16
   - 主题摘要：Multiple tokens named 「Duplicate」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.20 / 确认 5.04 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.51 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yahoo Article on MEME OTC Pairs | Solana | 降温中 | 强度 79.04 | 质量 67.12
-  - 主题摘要：Multiple tokens named 「MEME」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.60 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United Global Oil Reserve | Solana | 降温中 | 强度 77.82 | 质量 66.39
-  - 主题摘要：Multiple tokens named 「UGOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 54.43 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $MEME Coin Launch | Solana | 降温中 | 强度 77.06 | 质量 63.85
-  - 主题摘要：Multiple tokens named 「MEME」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.91 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Hek Machine Claims CZ Deserves Binanceman Title | BSC | 降温中 | 强度 76.36 | 质量 66.48
-  - 主题摘要：According to 赫克机器 🔶 BNB's post, CZ is described as deserving the title 'Binanceman' for building a global community of over 300 million users across different countries and langua…
-  - 资金 100.00 / 广度 57.92 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- OKXcoin | BSC | 降温中 | 强度 76.31 | 质量 66.44
+- OKXcoin | BSC | 降温中 | 强度 77.02 | 质量 67.05
   - 主题摘要：Multiple tokens named 「OKXcoin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 57.77 / 确认 5.04 / 脆弱性 14.00
+  - 资金 100.00 / 广度 59.81 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Foundry | BSC | 降温中 | 强度 71.73 | 质量 58.53
+- Uncertain:Hek Machine Claims CZ Deserves Binanceman Title | BSC | 降温中 | 强度 76.44 | 质量 66.55
+  - 主题摘要：According to 赫克机器 🔶 BNB's post, CZ is described as deserving the title 'Binanceman' for building a global community of over 300 million users across different countries and langua…
+  - 资金 100.00 / 广度 58.13 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Squishy 捏捏 | BSC | 加速中 | 强度 75.37 | 质量 75.44
+  - 主题摘要：Multiple tokens named 「捏捏」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.22 / 确认 19.44 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Foundry | BSC | 降温中 | 强度 72.98 | 质量 58.60
   - 主题摘要：Multiple tokens named 「FRDY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 99.96 / 广度 68.94 / 确认 5.04 / 脆弱性 24.00
+  - 资金 100.00 / 广度 68.96 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Huh Cat Enters Xiaohongshu | BSC | 点火期 | 强度 71.54 | 质量 69.17
+- Huh Cat Enters Xiaohongshu | BSC | 点火期 | 强度 72.86 | 质量 69.14
   - 主题摘要：According to Simon👊顶尖（牛来版）'s post, the Huh Cat character has entered Xiaohongshu under the name Ben. The author notes this creates a narrative pairing with Flap's Ben, likening it…
-  - 资金 100.00 / 广度 81.27 / 确认 15.12 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.32 / 确认 15.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Squishy | BSC | 降温中 | 强度 70.11 | 质量 57.75
-  - 主题摘要：Multiple tokens named 「SQUISHY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 98.38 / 广度 50.75 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- RealFlyBrain | BSC | 点火期 | 强度 69.21 | 质量 65.41
+- RealFlyBrain | BSC | 点火期 | 强度 68.27 | 质量 65.90
   - 主题摘要：Multiple tokens named 「FlyBrain」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.89 / 确认 12.24 / 脆弱性 14.00
+  - 资金 100.00 / 广度 74.91 / 确认 12.24 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.27，其中已确认叙事 0 个。
-- National Trump Digital Accounts 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.28，其中已确认叙事 0 个。
+- Squishy 捏捏 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Trumpcoin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- National Trump Digital Accounts | 质量 78.55 | 可交易性 100.00 | 风险 低
-- Rep. Luna on 9/11 Files Declassification | 质量 77.49 | 可交易性 100.00 | 风险 低
-- Duplicate | 质量 73.17 | 可交易性 100.00 | 风险 低
-- Alleged $wifout Meme Token | 质量 69.52 | 可交易性 87.28 | 风险 低
-- Huh Cat Enters Xiaohongshu | 质量 69.17 | 可交易性 78.20 | 风险 低
-- Ansem Requests Donkey Kong Token | 质量 68.28 | 可交易性 87.05 | 风险 低
-- Yahoo Article on MEME OTC Pairs | 质量 67.12 | 可交易性 85.45 | 风险 低
-- Uncertain:Hek Machine Claims CZ Deserves Binanceman Title | 质量 66.48 | 可交易性 100.00 | 风险 低
-- OKXcoin | 质量 66.44 | 可交易性 100.00 | 风险 低
-- United Global Oil Reserve | 质量 66.39 | 可交易性 100.00 | 风险 低
+- Trumpcoin | 质量 78.61 | 可交易性 100.00 | 风险 低
+- Rep. Luna on 9/11 Files Declassification | 质量 77.48 | 可交易性 100.00 | 风险 低
+- Ziwen comments on Claude's usage page | 质量 76.17 | 可交易性 100.00 | 风险 低
+- Alleged Nvidia Fartcoin Meme | 质量 76.17 | 可交易性 100.00 | 风险 低
+- Alleged Nvidia Token | 质量 76.17 | 可交易性 100.00 | 风险 低
+- DOLLO ALL IN⁠ | 质量 75.57 | 可交易性 100.00 | 风险 低
+- Squishy 捏捏 | 质量 75.44 | 可交易性 100.00 | 风险 低
+- Just Do It | 质量 74.91 | 可交易性 100.00 | 风险 低
+- Duplicate | 质量 74.16 | 可交易性 100.00 | 风险 低
+- Huh Cat Enters Xiaohongshu | 质量 69.14 | 可交易性 78.41 | 风险 低
 
 ## 伪叙事风险
 
-- Huh Cat Enters Xiaohongshu | 风险 48.38 | 原因：流动性偏薄、近 1 小时净流入转负
-- RealFlyBrain | 风险 45.49 | 原因：流动性偏薄
-- Foundry | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- RealFlyBrain | 风险 50.69 | 原因：流动性偏薄、近 1 小时净流入转负
+- Trumpcoin | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Ziwen comments on Claude's usage page | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Nvidia Fartcoin Meme | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Nvidia Token | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Huh Cat Enters Xiaohongshu | 风险 43.18 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -104,11 +108,11 @@
 - BUIDL | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PTKR | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - OMME | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BREW | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Doggo | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- *** | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- ARMY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BST | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- POLYFLY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- FLOP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BLEND | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- EMBER | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- ALL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：National Trump Digital Accounts（Solana，分数 88.98）
+1. 当前最强叙事：Trumpcoin（Solana，分数 86.01）
 2. 共振最强代币：牛来（BSC，共振 100.0）
-3. 记忆层变化：Rep. Luna on 9/11 Files Declassification 当前为“新出现”
+3. 记忆层变化：Trumpcoin 当前为“新出现”
 4. 最新官方催化：Binance Lifestyle Venezuela Cashback Campaign: Spend 10 USDT, Get 2 USDT Back
 #Binance #NarrativeOS #OpenClaw
