@@ -1,126 +1,127 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-11T06:08:04.704747+00:00
+- 生成时间：2026-09-11T11:12:41.772871+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 World Oil Trust Fund，所在链为 Solana，叙事强度 89.92。
-- 当前平均叙事强度为 86.81，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 WOFI 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Uncertain:CZ Proposes Token Unlock Mechanism，伪叙事风险 47.23。
-- 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Teller (DEBIT) and Share $200K Worth of Rewards (2026-09-10)。
+- 当前最强叙事是 WOFI，所在链为 Solana，叙事强度 89.79。
+- 当前平均叙事强度为 84.82，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged Pumpcat Token Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 GOBLIN99，伪叙事风险 47.79。
+- 最新官方催化来自 最新活动：Binance Lifestyle Venezuela Cashback Campaign: Spend 10 USDT, Get 2 USDT Back。
 
 ## 叙事雷达
 
-- World Oil Trust Fund | Solana | 降温中 | 强度 89.92 | 质量 80.06
-  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WOFI | Solana | 降温中 | 强度 89.77 | 质量 80.06
+- WOFI | Solana | 降温中 | 强度 89.79 | 质量 80.06
   - 主题摘要：Multiple tokens named 「WOFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USWR | Solana | 降温中 | 强度 87.33 | 质量 75.89
+- USWR | Solana | 降温中 | 强度 88.72 | 质量 80.06
   - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.11 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BeastMr | Solana | 降温中 | 强度 87.25 | 质量 78.46
-  - 主题摘要：According to d's post, the user questions the validity of reports regarding Nasdaq's venture capital arm investing $100 million in Kraken's parent company, Payward. d suggests pai…
-  - 资金 100.00 / 广度 94.68 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Flappy Bird | Solana | 降温中 | 强度 86.31 | 质量 74.24
-  - 主题摘要：Multiple tokens named 「FLAPPY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.59 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Make No Mistakes | Solana | 加速中 | 强度 85.10 | 质量 79.98
+- Make No Mistakes | Solana | 加速中 | 强度 88.68 | 质量 80.04
   - 主题摘要：Multiple tokens named 「MISTAKE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.64 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.86 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Apple Dog Meme | Solana | 降温中 | 强度 84.77 | 质量 74.75
-  - 主题摘要：According to levi petree's post, a viral Meme image depicts a dog resembling Steve Jobs, originating from a 2022 job application blunder. The post suggests sending this 'Apple Dog…
-  - 资金 100.00 / 广度 82.31 / 确认 9.36 / 脆弱性 14.00
+- BeastMr | Solana | 降温中 | 强度 87.05 | 质量 78.15
+  - 主题摘要：According to d's post, d questions the validity of reports regarding Nasdaq's venture capital arm investing $100 million in Kraken's parent company, Payward. d suggests pairing Kr…
+  - 资金 100.00 / 广度 93.63 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Grok AI Summary | Solana | 降温中 | 强度 84.02 | 质量 72.69
-  - 主题摘要：Elon Musk uses his AI company Grok to summarize a SpaceX executive's talk, highlighting the integration of AI into his tech empire and showcasing Grok's capabilities.
-  - 资金 100.00 / 广度 75.43 / 确认 9.36 / 脆弱性 8.05
+- Alleged Pumpcat Token Launch | Solana | 降温中 | 强度 84.86 | 质量 74.78
+  - 主题摘要：According to juice's post, the user claims that a runner for the Pumpcat token has not yet emerged, noting that the Stonkcat token is currently valued at 300k. The post references…
+  - 资金 100.00 / 广度 87.77 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Flap Wrapped Card Launch | BSC | 降温中 | 强度 73.99 | 质量 65.44
-  - 主题摘要：According to Flap 🦋's post, the Flap Wrapped initiative allows users to generate a personalized summary card of their BNB Chain trading history. Users can input their wallet addre…
-  - 资金 100.00 / 广度 77.08 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Top Mentions Panda and Shubao | BSC | 加速中 | 强度 73.69 | 质量 71.38
-  - 主题摘要：According to 顶级's post, the user mentioned "Panda" and "Shubao" in a brief statement. The content lacks detailed context or specific claims regarding the token or entity.
-  - 资金 100.00 / 广度 78.47 / 确认 24.48 / 脆弱性 24.00
+- XBOX TGS Broadcast | Solana | 加速中 | 强度 81.11 | 质量 75.20
+  - 主题摘要：According to XBOX's post, the XBOX cat is back for Tokyo Game Show (TGS). The official broadcast is scheduled for September 17 at 7pm JST / 3am PDT. The event features XBOX FanFes…
+  - 资金 84.89 / 广度 84.76 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- UnderDogXmm Discusses Flap Buddy NFT | BSC | 降温中 | 强度 72.63 | 质量 60.30
-  - 主题摘要：According to 小欧小O's post, the author discusses the Flap Degen project, aiming to revive the Flap Buddy community by distributing all 2,222 unique avatars. The post highlights a fa…
-  - 资金 100.00 / 广度 72.74 / 确认 16.56 / 脆弱性 14.00
+- WWR | Solana | 降温中 | 强度 80.06 | 质量 66.25
+  - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 91.89 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Voice Cat Token Launch | BSC | 加速中 | 强度 69.95 | 质量 66.23
-  - 主题摘要：According to Z's post, Z claims to have launched a token named Voice Cat (VC), paired with VC, leveraging TikTok's new Voice Comments feature as a narrative. Z suggests this is an…
-  - 资金 100.00 / 广度 82.85 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mack Claims Butterfly Official Title is Degem | BSC | 加速中 | 强度 69.58 | 质量 63.96
-  - 主题摘要：According to Mack's post, he asserts that the official titles given by Butterfly are all 'Degem.' He notes that there are five images and suggests that users should pair this name…
-  - 资金 100.00 / 广度 77.09 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ Proposes Token Unlock Mechanism | BSC | 点火期 | 强度 68.78 | 质量 65.19
-  - 主题摘要：CZ proposed a token issuance model where unlocks are conditional on price stability, aiming to align team incentives with long-term value. He clarified he has no plans to issue a…
-  - 资金 100.00 / 广度 89.37 / 确认 16.56 / 脆弱性 24.00
+- 星火燎原 | BSC | 降温中 | 强度 78.47 | 质量 67.42
+  - 主题摘要：Multiple tokens named 「星火燎原」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 61.04 / 确认 5.04 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- GOBLIN99 | Solana | 点火期 | 强度 78.26 | 质量 72.79
+  - 主题摘要：GOBLIN99 is a community-driven token inspired by internet culture's mischievous goblin character. The token embraces chaos with its 99% chaos, 1% common sense philosophy, embodyin…
+  - 资金 100.00 / 广度 75.78 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:BinanceTown Launches AI Digital Town | BSC | 加速中 | 强度 75.16 | 质量 65.99
+  - 主题摘要：According to BinanceTown's post, the author claims to have burned 1 billion tokens to realize Binance's vision of a 'Binance Town,' an AI-powered digital city. The project is desc…
+  - 资金 100.00 / 广度 86.18 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged Monki Meme Image | BSC | 加速中 | 强度 74.35 | 质量 70.92
+  - 主题摘要：According to petal's post, A16 employees are sharing an AI monkey Meme image on X, which resembles CZ. The monkey is named Monki and the image has gone viral.
+  - 资金 100.00 / 广度 85.23 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Binance Town Project | BSC | 加速中 | 强度 73.19 | 质量 64.06
+  - 主题摘要：According to Binance Town's post, the account promotes an exclusive platform called Binance Town, claiming it is developed independently under the influence of Binance. The post i…
+  - 资金 100.00 / 广度 82.45 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Flap Wrapped Card Launch | BSC | 降温中 | 强度 68.41 | 质量 58.98
+  - 主题摘要：According to Flap 🦋's post, the Flap Wrapped feature allows users to generate a summary card of their BNB Chain trading history. Users can input their wallet address to create a p…
+  - 资金 100.00 / 广度 76.75 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Launch of Gongjian Token | BSC | 加速中 | 强度 68.15 | 质量 63.93
+  - 主题摘要：According to 我肯定会发财！'s post, the author claims to be launching a new token named 'Gongjian' (共建) on the BSC network, characterized by a contract address starting with 0x4444 and e…
+  - 资金 100.00 / 广度 80.70 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 86.81，其中已确认叙事 0 个。
-- Make No Mistakes 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- World Oil Trust Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.82，其中已确认叙事 0 个。
+- XBOX TGS Broadcast 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- WOFI 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- World Oil Trust Fund | 质量 80.06 | 可交易性 100.00 | 风险 低
 - WOFI | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Make No Mistakes | 质量 79.98 | 可交易性 100.00 | 风险 低
-- BeastMr | 质量 78.46 | 可交易性 100.00 | 风险 低
-- USWR | 质量 75.89 | 可交易性 100.00 | 风险 低
-- Alleged Apple Dog Meme | 质量 74.75 | 可交易性 100.00 | 风险 低
-- Flappy Bird | 质量 74.24 | 可交易性 100.00 | 风险 低
-- Grok AI Summary | 质量 72.69 | 可交易性 100.00 | 风险 低
-- Top Mentions Panda and Shubao | 质量 71.38 | 可交易性 81.50 | 风险 低
-- Alleged Voice Cat Token Launch | 质量 66.23 | 可交易性 79.83 | 风险 低
+- USWR | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Make No Mistakes | 质量 80.04 | 可交易性 100.00 | 风险 低
+- BeastMr | 质量 78.15 | 可交易性 100.00 | 风险 低
+- XBOX TGS Broadcast | 质量 75.20 | 可交易性 91.13 | 风险 低
+- Alleged Pumpcat Token Launch | 质量 74.78 | 可交易性 97.80 | 风险 低
+- GOBLIN99 | 质量 72.79 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Monki Meme Image | 质量 70.92 | 可交易性 70.59 | 风险 低
+- 星火燎原 | 质量 67.42 | 可交易性 100.00 | 风险 低
+- WWR | 质量 66.25 | 可交易性 62.09 | 风险 低
 
 ## 伪叙事风险
 
-- Uncertain:CZ Proposes Token Unlock Mechanism | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- GOBLIN99 | 风险 47.79 | 原因：流动性偏薄
+- XBOX TGS Broadcast | 风险 45.95 | 原因：流动性偏薄、近 1 小时净流入转负、热度领先于资金
 
 ## 信号台
 
+- OMME | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BREW | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 1888 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Freedom of Money | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 硬币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 嘉豪 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 混混猫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- pisscoin | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RICH | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - COMPANY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RUSH | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SILV | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
-- [Binance Alpha Trading Competition: Trade Teller (DEBIT) and Share $200K Worth of Rewards (2026-09-10)](https://www.binance.com/zh-CN/support/announcement/detail/29b9f6a39ec94a548e28933727b9e517)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wallet is excited to launch the DEBIT Tradin…
+- [Binance Lifestyle Venezuela Cashback Campaign: Spend 10 USDT, Get 2 USDT Back](https://www.binance.com/zh-CN/support/announcement/detail/c495d1c59c014c53a7dcb5a21fc25993)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Lifestyle is launching a limited-time cashback campaign…
+- [REZ Trading Tournament: Trade to Share Up to 200,000 USDC Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/ee6e5b7df8eb4556a472de06624555e2)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users in the EEA. Fellow Binancians, Binance…
+- [Binance Earn: Enjoy Up to 14% APR with KGST Flexible Products – 100,000 KGST Limit Available! (2026-09-13)](https://www.binance.com/zh-CN/support/announcement/detail/f6ff30454a124269bcf185891d11aaa5)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Earn is excited to renew the…
 - [DYOR Just Got Upgraded: Track New On-Chain Metrics for Binance Alpha Tokens](https://www.binance.com/zh-CN/support/announcement/detail/6e2425e25780417eb22ab26dc78411cc)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance has introduced an upgrade to DYOR , the dedicated research hub for Binance Alpha tok…
-- [Binance Starter Carnival: Kicking Off with the Button Game and 30 BNB Token Voucher Rewards!](https://www.binance.com/zh-CN/support/announcement/detail/11cacc4f64944d13a4af3528f2ed458a)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, We are introducing the Binance Starter Carnival , a weekly…
 - [Binance Stock Trading Introduces Recurring Buy Feature](https://www.binance.com/zh-CN/support/announcement/detail/58fc95e4414949e98e2755457d740261)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is pleased to introduce Stock Recurring Buy, a new feature that allows eligible user…
-- [THE Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/9914db97181f443a9fc3a3e3ef726996)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users in the EEA. Fellow Binancians, Binance…
 - [Binance Will Add 牛来 (牛来) on Earn, Buy Crypto, Convert, VIP Loan & Margin](https://www.binance.com/zh-CN/support/announcement/detail/39fe3154675948fbb164b1e63e036629)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: This is not available for users in the EEA. Fellow Binancians, Binance is excited to announce…
 - [Binance Will List 牛来 (牛来) with Seed Tag Applied](https://www.binance.com/zh-CN/support/announcement/detail/6133e417dcfe43a8ad20c0db1b53c7e8)
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：World Oil Trust Fund（Solana，分数 89.92）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：WOFI 当前为“新出现”
-4. 最新官方催化：Binance Alpha Trading Competition: Trade Teller (DEBIT) and Share $200K Worth of Rewards (2026-09-10)
+1. 当前最强叙事：WOFI（Solana，分数 89.79）
+2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
+3. 记忆层变化：Alleged Pumpcat Token Launch 当前为“新出现”
+4. 最新官方催化：Binance Lifestyle Venezuela Cashback Campaign: Spend 10 USDT, Get 2 USDT Back
 #Binance #NarrativeOS #OpenClaw
