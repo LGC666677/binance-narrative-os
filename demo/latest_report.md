@@ -1,114 +1,117 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-13T06:04:39.335778+00:00
+- 生成时间：2026-09-13T11:43:45.040066+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 MrBeast，所在链为 Solana，叙事强度 87.61。
-- 当前平均叙事强度为 79.91，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Stable Coin Launch 当前处于“强化”状态。
-- 当前最需要防止误判的叙事是 Lai Dou Lai Le，伪叙事风险 47.79。
+- 当前最强叙事是 WOFI，所在链为 Solana，叙事强度 88.72。
+- 当前平均叙事强度为 85.25，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 牛来，来自 BSC，共振分数 100.0。
+- 记忆层显示 WOFI 当前处于“强化”状态。
+- 当前最需要防止误判的叙事是 GTA6，伪叙事风险 60.66。
 - 最新官方催化来自 最新活动：Binance Lifestyle Venezuela Cashback Campaign: Spend 10 USDT, Get 2 USDT Back。
 
 ## 叙事雷达
 
-- MrBeast | Solana | 降温中 | 强度 87.61 | 质量 79.05
-  - 主题摘要：Multiple tokens named 「BEAST」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 96.63 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Stable Coin Launch | Solana | 加速中 | 强度 87.12 | 质量 77.44
-  - 主题摘要：According to Kanki's post, the STABLE token, described as a stable coin paired with USDC, is identified as the next potential market runner. This information is unverified. Please…
-  - 资金 100.00 / 广度 85.74 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Medusa Coin | Solana | 降温中 | 强度 84.97 | 质量 75.51
-  - 主题摘要：Medusa Coin draws inspiration from the mythological figure Medusa, featuring her iconic snake-haired head in its logo. The token aims to blend crypto culture with mythology, creat…
-  - 资金 100.00 / 广度 84.85 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DAN KOE's Meme Image | BSC | 加速中 | 强度 80.89 | 质量 80.26
-  - 主题摘要：According to DAN KOE's post, the author shared a link to an article on X. The content is associated with tokens named 'be delusional' and '要想成功你就得活在幻想中'. DAN KOE published a Meme…
-  - 资金 100.00 / 广度 87.48 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged 1000x Token Launch | BSC | 降温中 | 强度 80.31 | 质量 74.60
-  - 主题摘要：Multiple tokens named 「FLAP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.50 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- icookyoueatXD Initiates Meme Image Movement | Solana | 降温中 | 强度 78.24 | 质量 66.98
-  - 主题摘要：According to icookyoueatXD's post, the author proposes a social movement where participants tweet 'i like the meme' to express appreciation for Meme images rather than specific tr…
-  - 资金 100.00 / 广度 69.16 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WOFI | Solana | 降温中 | 强度 77.73 | 质量 66.28
+- WOFI | Solana | 降温中 | 强度 88.72 | 质量 80.06
   - 主题摘要：Multiple tokens named 「WOFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 54.07 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- bCITY | BSC | 加速中 | 强度 77.44 | 质量 64.30
-  - 主题摘要：Multiple tokens named 「BCITY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.43 / 确认 24.48 / 脆弱性 14.00
+- HoodMiners NFT Whitelist Promotion | Solana | 降温中 | 强度 86.64 | 质量 77.68
+  - 主题摘要：According to Σ𝘅𝗮's post, HoodMiners is a 5,000-supply free-mint NFT collection on Robinhood Chain. Each NFT functions as a smart wallet that can earn rewards, including Bitcoin an…
+  - 资金 100.00 / 广度 92.60 / 确认 8.64 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Medusa Coin | Solana | 降温中 | 强度 86.21 | 质量 76.79
+  - 主题摘要：Medusa Coin draws inspiration from the mythological figure Medusa, featuring her iconic snake-haired head in its logo. The token aims to blend crypto culture with mythology, creat…
+  - 资金 100.00 / 广度 89.11 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- MrBeast | Solana | 降温中 | 强度 85.27 | 质量 78.97
+  - 主题摘要：Multiple tokens named 「BEAST」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 96.36 / 确认 9.36 / 脆弱性 33.10
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- USWR | Solana | 降温中 | 强度 84.91 | 质量 73.23
+  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.25 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Stable Coin Launch | Solana | 降温中 | 强度 84.43 | 质量 77.46
+  - 主题摘要：According to Kanki's post, the STABLE token, described as a stable coin paired with USDC, is identified as the next potential market runner. This information is unverified. Please…
+  - 资金 100.00 / 广度 88.71 / 确认 12.96 / 脆弱性 33.25
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- NTDA | Solana | 降温中 | 强度 84.39 | 质量 73.86
+  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.03 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 蝴蝶平台首个动态头像群1097964817 | BSC | 降温中 | 强度 81.78 | 质量 76.08
+  - 主题摘要：妖蝶 (Butterfly) token draws inspiration from the enchanting beauty of butterflies, symbolizing transformation and freedom. The logo features a vibrant butterfly with iridescent win…
+  - 资金 100.00 / 广度 86.74 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- engine in my factory | BSC | 加速中 | 强度 81.55 | 质量 79.55
+  - 主题摘要：Multiple tokens named 「ENGINE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.10 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Golden Security | Solana | 降温中 | 强度 77.43 | 质量 66.00
-  - 主题摘要：Multiple tokens named 「GSC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 53.13 / 确认 9.36 / 脆弱性 0.00
+- GTA6 | Solana | 降温中 | 强度 81.40 | 质量 77.21
+  - 主题摘要：Multiple tokens named 「GTA 6 Coin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.70 / 确认 5.04 / 脆弱性 55.17
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 币安铁军 | BSC | 降温中 | 强度 75.94 | 质量 66.08
-  - 主题摘要：Multiple tokens named 「币安铁军」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 53.39 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Lai Dou Lai Le | BSC | 点火期 | 强度 73.73 | 质量 70.67
-  - 主题摘要：LDLL token draws inspiration from Chinese cultural elements, featuring a cartoon character with traditional Chinese architecture in its logo. The token's narrative emphasizes comm…
-  - 资金 100.00 / 广度 68.70 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Memes paired with stocks | Solana | 降温中 | 强度 73.51 | 质量 59.38
-  - 主题摘要：Solana officially highlights the convergence of meme culture and traditional finance (stocks), suggesting a new trend where meme tokens are paired with stock assets. This reflects…
-  - 资金 100.00 / 广度 66.09 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- YUG1_tm Discusses S&P 500 | BSC | 加速中 | 强度 73.45 | 质量 62.75
-  - 主题摘要：According to YUG1_tm's post, the author commented on a quoted tweet regarding the S&P 500, characterizing it as an 'attention asset' that attracts significant capital. YUG1_tm fur…
-  - 资金 100.00 / 广度 79.54 / 确认 24.48 / 脆弱性 14.00
+- DAN KOE's Meme Image | BSC | 加速中 | 强度 79.88 | 质量 80.31
+  - 主题摘要：According to DAN KOE's post, the author shared a link to an article on X. The post is associated with tokens named 'be delusional' and '要想成功你就得活在幻想中'. DAN KOE published a Meme ima…
+  - 资金 100.00 / 广度 87.64 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- orangie Shares Cate Token Experience | Solana | 点火期 | 强度 72.70 | 质量 71.91
-  - 主题摘要：According to orangie's post, orangie recounts a real-life encounter where a restaurant waiter recognized them and promoted the Cate memecoin. The waiter displayed a profit of over…
-  - 资金 94.76 / 广度 88.15 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged 1000x Token Launch | BSC | 降温中 | 强度 75.57 | 质量 70.75
+  - 主题摘要：According to Flap 🦋's post, the author claims to be launching the '1000x' token, referencing the phrase 'Unfold the Next 1000x'. This information is unverified. Please exercise ca…
+  - 资金 100.00 / 广度 78.41 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Cedric Congratulates BNB bStocks Meme Rank Leaders | BSC | 降温中 | 强度 75.01 | 质量 67.29
+  - 主题摘要：According to Cedric 🦋's post, he congratulated the communities topping the BNB bStocks Meme Rank, emphasizing that strong communities cannot be held down for long. He further stat…
+  - 资金 100.00 / 广度 73.69 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Lim Shares Flap Cat Adoption Info | BSC | 降温中 | 强度 74.80 | 质量 66.98
+  - 主题摘要：According to Lim's post, the author discovered a kitten named "Flap" on a pet adoption website and expressed that the name was a coincidence and the cat was cute. This content foc…
+  - 资金 100.00 / 广度 73.86 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.91，其中已确认叙事 0 个。
-- Alleged Stable Coin Launch 正在向主线升级: Solana 上该叙事处于“强化”状态，值得持续跟踪。
-- MrBeast 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.25，其中已确认叙事 0 个。
+- engine in my factory 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- WOFI 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- DAN KOE's Meme Image | 质量 80.26 | 可交易性 100.00 | 风险 低
-- MrBeast | 质量 79.05 | 可交易性 100.00 | 风险 低
-- Alleged Stable Coin Launch | 质量 77.44 | 可交易性 94.45 | 风险 低
-- Medusa Coin | 质量 75.51 | 可交易性 100.00 | 风险 低
-- Alleged 1000x Token Launch | 质量 74.60 | 可交易性 100.00 | 风险 低
-- orangie Shares Cate Token Experience | 质量 71.91 | 可交易性 95.25 | 风险 低
-- Lai Dou Lai Le | 质量 70.67 | 可交易性 100.00 | 风险 低
-- icookyoueatXD Initiates Meme Image Movement | 质量 66.98 | 可交易性 87.25 | 风险 低
-- WOFI | 质量 66.28 | 可交易性 100.00 | 风险 低
-- 币安铁军 | 质量 66.08 | 可交易性 100.00 | 风险 低
+- DAN KOE's Meme Image | 质量 80.31 | 可交易性 100.00 | 风险 低
+- WOFI | 质量 80.06 | 可交易性 100.00 | 风险 低
+- engine in my factory | 质量 79.55 | 可交易性 100.00 | 风险 低
+- MrBeast | 质量 78.97 | 可交易性 100.00 | 风险 低
+- HoodMiners NFT Whitelist Promotion | 质量 77.68 | 可交易性 100.00 | 风险 低
+- Alleged Stable Coin Launch | 质量 77.46 | 可交易性 100.00 | 风险 低
+- GTA6 | 质量 77.21 | 可交易性 99.98 | 风险 低
+- Medusa Coin | 质量 76.79 | 可交易性 100.00 | 风险 低
+- 蝴蝶平台首个动态头像群1097964817 | 质量 76.08 | 可交易性 100.00 | 风险 低
+- NTDA | 质量 73.86 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Lai Dou Lai Le | 风险 47.79 | 原因：流动性偏薄
-- orangie Shares Cate Token Experience | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- GTA6 | 风险 60.66 | 原因：流动性偏薄、龙头筹码集中度偏高
+- MrBeast | 风险 45.72 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Alleged Stable Coin Launch | 风险 42.92 | 原因：流动性偏薄、龙头筹码集中度偏高
+- 蝴蝶平台首个动态头像群1097964817 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged 1000x Token Launch | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- ENGINE | BSC | 看多 | 新鲜度 100.00 | engine in my factory
+- JARVIS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FRONTIER | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 观境 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 词元 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- MIZO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PQ | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - STONK10 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HOBBES | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - JubJub | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- LEVERSTONK | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- HODL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- MDOG | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：MrBeast（Solana，分数 87.61）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Alleged Stable Coin Launch 当前为“强化”
+1. 当前最强叙事：WOFI（Solana，分数 88.72）
+2. 共振最强代币：牛来（BSC，共振 100.0）
+3. 记忆层变化：WOFI 当前为“强化”
 4. 最新官方催化：Binance Lifestyle Venezuela Cashback Campaign: Spend 10 USDT, Get 2 USDT Back
 #Binance #NarrativeOS #OpenClaw
