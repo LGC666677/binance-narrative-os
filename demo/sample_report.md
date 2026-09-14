@@ -1,113 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-14T16:31:30.763802+00:00
+- 生成时间：2026-09-14T20:30:37.776263+00:00
 - 跟踪叙事：14
 - 已确认叙事：5
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Uncertain:Alleged CZ Culture Meme Image，所在链为 BSC，叙事强度 88.58。
-- 当前平均叙事强度为 82.44，其中已确认叙事 5 个。
+- 当前最强叙事是 Dangote IPO on Solana，所在链为 Solana，叙事强度 89.92。
+- 当前平均叙事强度为 84.78，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 牛来，来自 BSC，共振分数 100.0。
-- 记忆层显示 Uncertain:Alleged CZ Culture Meme Image 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 WOFI，伪叙事风险 40.99。
+- 记忆层显示 Dangote IPO on Solana 当前处于“新出现”状态。
 - 最新官方催化来自 新币上新：Binance Will Add BNCB bStocks Tokenized Securities as Collateral Asset - 2026-09-14。
 
 ## 叙事雷达
 
-- Uncertain:Alleged CZ Culture Meme Image | BSC | 已确认 | 强度 88.58 | 质量 84.01
-  - 主题摘要：According to MGGA's post, an image depicting CZ composed of Binance's cultural concepts and words is shared. The post claims CZ represents Binance's culture and mentions BNB divid…
-  - 资金 100.00 / 广度 91.98 / 确认 38.24 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Huo Interprets CEA Shareholder Letter | BSC | 已确认 | 强度 85.08 | 质量 83.80
-  - 主题摘要：Multiple tokens named 「BNC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 96.58 / 确认 31.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- fomo | Solana | 降温中 | 强度 84.84 | 质量 74.78
-  - 主题摘要：Multiple tokens named 「fomo」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.58 / 确认 5.04 / 脆弱性 14.00
+- Dangote IPO on Solana | Solana | 降温中 | 强度 89.92 | 质量 80.06
+  - 主题摘要：Solana official account highlights the Dangote Refinery IPO, Africa's largest, being subscribed to via stablecoins on the Solana blockchain. This marks a significant milestone for…
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WOFI | Solana | 降温中 | 强度 83.82 | 质量 75.20
-  - 主题摘要：Multiple tokens named 「WOFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.80 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- KIBA INU | Solana | 降温中 | 强度 83.00 | 质量 71.62
-  - 主题摘要：According to tica's post, tica claims that Kiba Inu is a TikTok scam coin promoted by memecoin influencers, whose narrative falsely relies on Elon Musk and SpaceX. tica suggests l…
-  - 资金 100.00 / 广度 71.86 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance Pakistan Chart Maxing | BSC | 已确认 | 强度 82.13 | 质量 84.74
-  - 主题摘要：According to Binance Pakistan 🇵🇰's post, the account highlighted a 'chart maxing weekend,' indicating a period of significant upward price movement or record highs for cryptocurre…
-  - 资金 100.00 / 广度 91.79 / 确认 41.84 / 脆弱性 24.00
+- Uncertain:Alleged CZ Culture Meme Image | BSC | 已确认 | 强度 89.79 | 质量 84.00
+  - 主题摘要：According to MGGA's post, an image composed of numerous words representing Binance's cultural concepts, centered on CZ, is shared. The post claims this image symbolizes Binance's…
+  - 资金 100.00 / 广度 91.97 / 确认 38.24 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged CATE Coin Launch | Solana | 降温中 | 强度 81.83 | 质量 69.45
-  - 主题摘要：According to thedevrrrrrr's post, the user suggests running the CATE token, comparing it to DOGE. As the content involves issuing a token, this is an unverified claim. This inform…
-  - 资金 100.00 / 广度 83.60 / 确认 13.00 / 脆弱性 14.00
+- KIBA INU | Solana | 降温中 | 强度 88.21 | 质量 77.30
+  - 主题摘要：According to tica's post, the user claims that 'Kiba Inu' is a TikTok scam coin promoted by memecoin influencers, based on a false thesis involving Elon Musk and SpaceX. tica sugg…
+  - 资金 100.00 / 广度 90.80 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Where are you wearing yours | BSC | 已确认 | 强度 81.81 | 质量 84.39
-  - 主题摘要：According to Binance Angels's post, the official account shared a Meme image featuring a cap with the caption 'Cap says it all' and asked followers where they are wearing theirs.…
-  - 资金 100.00 / 广度 90.61 / 确认 41.84 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged Binance Revival of Binance DEX | BSC | 已确认 | 强度 81.77 | 质量 84.35
-  - 主题摘要：According to The Prisoner's post, Binance Holdings Limited applied for a logo on November 29, 2019. The post alleges that Binance intends to revive the Binance DEX and launch a BN…
-  - 资金 100.00 / 广度 90.49 / 确认 41.84 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Fat Panda Meme Image | BSC | 加速中 | 强度 80.81 | 质量 79.27
-  - 主题摘要：According to scotch's post, a link to Fat Panda was found on the CEA Industries dashboard, raising questions about whether it serves as the company's mascot. The post includes a r…
-  - 资金 100.00 / 广度 89.46 / 确认 20.16 / 脆弱性 24.00
+- bStock BNCB Launch | BSC | 加速中 | 强度 86.87 | 质量 82.35
+  - 主题摘要：Binance华语官方账号宣布上线bStock新标的BNCB/USDT，支持币安与真实股票1:1免费即时兑换。该推文主要传播产品更新信息，缺乏Meme所需的娱乐性或争议性元素。
+  - 资金 100.00 / 广度 97.49 / 确认 23.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged $IRONMIKE Token | Solana | 降温中 | 强度 80.76 | 质量 69.57
-  - 主题摘要：According to Vibez's post, the author claims that the token $IRONMIKE was overlooked as a beta opportunity, referencing Mike Tyson's nickname "Iron Mike." Vibez suggests that this…
-  - 资金 100.00 / 广度 87.62 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WuYuBaDaoShen Posts 'Minority Shareholder' Meme | BSC | 加速中 | 强度 79.91 | 质量 73.85
-  - 主题摘要：According to 无欲拔刀神（黑化版's post, the user shared content related to the token '小股东' (Minority Shareholder). The post links to an article discussing this specific token. The content…
-  - 资金 100.00 / 广度 78.61 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of bWheel Token | BSC | 加速中 | 强度 79.40 | 质量 78.21
+- Alleged Launch of bWheel Token | BSC | 降温中 | 强度 85.74 | 质量 77.50
   - 主题摘要：According to martha's post, martha deployed a new vault to burn bstocks tokens, allegedly launching the bWheel token. martha claims this creates a 'Ponzi mechanism' where mutual p…
-  - 资金 100.00 / 广度 86.97 / 确认 18.72 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FlyBrain AI Terminal Bridge | Solana | 降温中 | 强度 78.36 | 质量 69.90
-  - 主题摘要：According to Nudiaoya's post, Fly developer Frank released an AI terminal bridge named "FlyBrain". This tool utilizes Claude to convert camera input into neural activity and motor…
-  - 资金 100.00 / 广度 69.31 / 确认 5.04 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.26 / 确认 15.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Huo Interprets CEA Shareholder Letter | BSC | 已确认 | 强度 85.52 | 质量 83.90
+  - 主题摘要：According to 霍伊's post, CEA Industries and BNC released a shareholder letter via GlobeNewswire. The letter emphasizes 'conviction' to explain the strategy of buying more as prices…
+  - 资金 100.00 / 广度 96.91 / 确认 31.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- World Oil Trust Fund | Solana | 降温中 | 强度 84.51 | 质量 72.54
+  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.11 / 确认 5.04 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Binance Pakistan Chart Maxing | BSC | 已确认 | 强度 83.15 | 质量 84.75
+  - 主题摘要：According to Binance Pakistan 🇵🇰's post, the account highlighted a 'chart maxing weekend,' indicating a period of significant upward price movement or record highs for cryptocurre…
+  - 资金 100.00 / 广度 91.81 / 确认 41.84 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Where are you wearing yours | BSC | 已确认 | 强度 82.83 | 质量 84.41
+  - 主题摘要：According to Binance Angels's post, the official account shared a Meme image featuring a cap with the caption 'Cap says it all' and asked followers where they are wearing theirs.…
+  - 资金 100.00 / 广度 90.69 / 确认 41.84 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Uncertain:Alleged Binance Revival of Binance DEX | BSC | 已确认 | 强度 82.79 | 质量 84.38
+  - 主题摘要：According to The Prisoner's post, Binance Holdings Limited applied for a logo on November 29, 2019. The post alleges that Binance intends to revive the Binance DEX and launch a BN…
+  - 资金 100.00 / 广度 90.57 / 确认 41.84 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Pump.fun Adds Kraken's Ink Chain | Solana | 降温中 | 强度 82.63 | 质量 70.59
+  - 主题摘要：According to Crypto Banter's post, Pump.fun has enabled token trading for Ink, an Ethereum layer-2 network built by Kraken, within its application. The trading activity is settled…
+  - 资金 100.00 / 广度 95.23 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged CATE Coin Launch | Solana | 降温中 | 强度 81.95 | 质量 69.64
+  - 主题摘要：According to thedevrrrrrr's post, the user suggests running the CATE token, comparing it to DOGE. As the content involves issuing a token, this is an unverified claim. This inform…
+  - 资金 100.00 / 广度 83.66 / 确认 13.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- PIKACHU | Solana | 降温中 | 强度 81.47 | 质量 69.68
+  - 主题摘要：Multiple tokens named 「PIKACHU」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.58 / 确认 5.04 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Fat Panda Meme Image | BSC | 加速中 | 强度 81.44 | 质量 79.30
+  - 主题摘要：According to scotch's post, a link to Fat Panda was found on the CEA Industries dashboard, raising questions about whether it serves as the company's mascot. The post includes a r…
+  - 资金 100.00 / 广度 89.56 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 82.44，其中已确认叙事 5 个。
-- Uncertain:Alleged CZ Culture Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- fomo 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.78，其中已确认叙事 0 个。
+- bStock BNCB Launch 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Dangote IPO on Solana 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:Binance Pakistan Chart Maxing | 质量 84.74 | 可交易性 100.00 | 风险 低
-- Where are you wearing yours | 质量 84.39 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Binance Revival of Binance DEX | 质量 84.35 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged CZ Culture Meme Image | 质量 84.01 | 可交易性 100.00 | 风险 低
-- Huo Interprets CEA Shareholder Letter | 质量 83.80 | 可交易性 100.00 | 风险 低
-- Fat Panda Meme Image | 质量 79.27 | 可交易性 100.00 | 风险 低
-- Alleged Launch of bWheel Token | 质量 78.21 | 可交易性 100.00 | 风险 低
-- WOFI | 质量 75.20 | 可交易性 100.00 | 风险 低
-- fomo | 质量 74.78 | 可交易性 100.00 | 风险 低
-- WuYuBaDaoShen Posts 'Minority Shareholder' Meme | 质量 73.85 | 可交易性 92.77 | 风险 低
+- Uncertain:Binance Pakistan Chart Maxing | 质量 84.75 | 可交易性 100.00 | 风险 低
+- Where are you wearing yours | 质量 84.41 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Binance Revival of Binance DEX | 质量 84.38 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged CZ Culture Meme Image | 质量 84.00 | 可交易性 100.00 | 风险 低
+- Huo Interprets CEA Shareholder Letter | 质量 83.90 | 可交易性 100.00 | 风险 低
+- bStock BNCB Launch | 质量 82.35 | 可交易性 100.00 | 风险 低
+- Dangote IPO on Solana | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Fat Panda Meme Image | 质量 79.30 | 可交易性 100.00 | 风险 低
+- Alleged Launch of bWheel Token | 质量 77.50 | 可交易性 100.00 | 风险 低
+- KIBA INU | 质量 77.30 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- WOFI | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- 小股东 | BSC | 看多 | 新鲜度 100.00 | WuYuBaDaoShen Posts 'Minority Shareholder' Meme
+- 小股东 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FATPANDA | BSC | 看多 | 新鲜度 100.00 | Fat Panda Meme Image
 - Jacob | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AFOB | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 曙宝 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BNCat | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BWHEEL | BSC | 看多 | 新鲜度 100.00 | Alleged Launch of bWheel Token
-- BNCB | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Ozempig | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- bracat | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LOL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- TWINE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Uncertain:Alleged CZ Culture Meme Image（BSC，分数 88.58）
+1. 当前最强叙事：Dangote IPO on Solana（Solana，分数 89.92）
 2. 共振最强代币：牛来（BSC，共振 100.0）
-3. 记忆层变化：Uncertain:Alleged CZ Culture Meme Image 当前为“新出现”
+3. 记忆层变化：Dangote IPO on Solana 当前为“新出现”
 4. 最新官方催化：Binance Will Add BNCB bStocks Tokenized Securities as Collateral Asset - 2026-09-14
 #Binance #NarrativeOS #OpenClaw
