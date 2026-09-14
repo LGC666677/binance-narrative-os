@@ -1,141 +1,143 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-14T05:09:07.602046+00:00
+- 生成时间：2026-09-14T10:33:40.347557+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：0
+- 已确认叙事：0
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 Rune's Political Comparison，所在链为 Solana，叙事强度 87.99。
-- 当前平均叙事强度为 84.93，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 PEPE，来自 BSC，共振分数 100.0。
-- 记忆层显示 Rune's Political Comparison 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 MarsBoo，伪叙事风险 40.99。
-- 最新官方催化来自 最新活动：Limited-Time Fee Promotion for Stock Options: Trade 1,000+ U.S.-Listed Stocks & ETFs Now。
+- 当前最强叙事是 World Oil Trust Fund，所在链为 Solana，叙事强度 89.92。
+- 当前平均叙事强度为 83.52，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 EMBER，来自 Solana，共振分数 100.0。
+- 记忆层显示 World Oil Trust Fund 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 MarsBoo，伪叙事风险 52.99。
+- 最新官方催化来自 新币上新：Binance Will Add BNCB bStocks Tokenized Securities as Collateral Asset - 2026-09-14。
 
 ## 叙事雷达
 
-- Rune's Political Comparison | Solana | 加速中 | 强度 87.99 | 质量 77.10
-  - 主题摘要：According to Rune's post, the author expressed a personal opinion comparing Barron Trump and Hunter Biden, stating that Barron Trump is superior. This statement reflects a subject…
-  - 资金 100.00 / 广度 79.58 / 确认 23.76 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Memecoins Are So Back | Solana | 降温中 | 强度 86.86 | 质量 75.13
-  - 主题摘要：Multiple tokens named 「MEMEBACK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.58 / 确认 9.36 / 脆弱性 0.00
+- World Oil Trust Fund | Solana | 降温中 | 强度 89.92 | 质量 80.06
+  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Google Gemini | Solana | 降温中 | 强度 86.24 | 质量 74.70
-  - 主题摘要：Multiple tokens named 「Gemini AI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.14 / 确认 9.36 / 脆弱性 1.68
+- Thief Cat | Solana | 降温中 | 强度 84.78 | 质量 74.69
+  - 主题摘要：Multiple tokens named 「NAMI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.28 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WWR | Solana | 降温中 | 强度 85.67 | 质量 75.91
-  - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.17 / 确认 9.36 / 脆弱性 14.00
+- fomo | Solana | 降温中 | 强度 84.45 | 质量 72.27
+  - 主题摘要：Multiple tokens named 「fomo」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.20 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Discusses Token Utility | Solana | 已确认 | 强度 85.53 | 质量 84.18
-  - 主题摘要：According to Ansem 🐂🀄️'s post, the user engaged in a discussion regarding the PVE token, specifically inquiring about the benefits or returns associated with it in response to a r…
-  - 资金 100.00 / 广度 100.00 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Danny Comments on Burn Narrative | BSC | 降温中 | 强度 84.11 | 质量 75.26
-  - 主题摘要：According to GrenMok (Sendor)'s post, the founder of b-money revealed their real name as "Burn Money". The quoted content explains that the name was chosen to reflect "broadcast"…
-  - 资金 100.00 / 广度 92.47 / 确认 12.96 / 脆弱性 14.00
+- Tesla | Solana | 降温中 | 强度 83.22 | 质量 70.96
+  - 主题摘要：Multiple tokens named 「TSLA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.83 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Federal AI Reserve | Solana | 降温中 | 强度 82.45 | 质量 71.58
+- Alleged Release of tunbaton Meme Image | Solana | 降温中 | 强度 81.81 | 质量 75.94
+  - 主题摘要：According to 10xbambii's post, the user suggests that the 'tung tung tung baton' Meme image would be improved by replacing the dog imagery with 'tun tun'. This commentary relates…
+  - 资金 100.00 / 广度 80.98 / 确认 16.56 / 脆弱性 35.46
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Federal AI Reserve | Solana | 降温中 | 强度 81.77 | 质量 70.43
   - 主题摘要：Multiple tokens named 「FAIR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.25 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.85 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of Mic Tyson Token | Solana | 降温中 | 强度 82.39 | 质量 70.48
-  - 主题摘要：According to ramen's post, the user shared a link to a community page for a token named Mic Tyson ($mictyson). Token information describes it as a project with a boxing theme. Thi…
-  - 资金 100.00 / 广度 77.89 / 确认 9.36 / 脆弱性 14.00
+- Alleged GOAT Token Launch | Solana | 降温中 | 强度 81.34 | 质量 69.10
+  - 主题摘要：According to Kanki's post, the author promotes a token named $GOAT (Greatest Of All Tokens), describing it as a simple animal runner. This information is unverified. Please exerci…
+  - 资金 100.00 / 广度 82.48 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Z Questions PVE Token Rewards | Solana | 加速中 | 强度 82.28 | 质量 80.94
-  - 主题摘要：According to Z's post, the user questions the lack of rewards in the PVE (Player vs Environment) token ecosystem, asking how gameplay can function without incentives. This highlig…
-  - 资金 100.00 / 广度 93.01 / 确认 23.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BINANCE HOMER | BSC | 加速中 | 强度 80.02 | 质量 70.35
-  - 主题摘要：Multiple tokens named 「BINANCE HOMER」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 56.54 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MarsBoo | BSC | 降温中 | 强度 78.01 | 质量 71.74
-  - 主题摘要：Multiple tokens named 「MarsBoo」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.26 / 确认 9.36 / 脆弱性 24.00
+- alon Comments on Pump.fun Leaderboard | Solana | 降温中 | 强度 80.91 | 质量 68.22
+  - 主题摘要：According to alon's post, the Pump.fun co-founder replied to a user's tweet about leading the Pump.fun monthly leaderboards. alon referred to the user as the "goat" (Greatest of A…
+  - 资金 100.00 / 广度 82.05 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- engine in my factory | BSC | 加速中 | 强度 77.82 | 质量 75.77
-  - 主题摘要：Multiple tokens named 「ENGINE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.46 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 蝴蝶平台首个动态头像群1097964817 | BSC | 降温中 | 强度 76.93 | 质量 70.92
-  - 主题摘要：妖蝶 (Butterfly) token draws inspiration from the enchanting beauty of butterflies, symbolizing transformation and freedom. The logo features a vibrant butterfly with iridescent win…
-  - 资金 100.00 / 广度 85.11 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Lobster Network | BSC | 加速中 | 强度 76.69 | 质量 76.77
+- Lobster Network | BSC | 加速中 | 强度 76.57 | 质量 76.96
   - 主题摘要：Multiple tokens named 「虾网」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.49 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 78.58 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- MarsBoo | BSC | 点火期 | 强度 75.28 | 质量 71.79
+  - 主题摘要：Multiple tokens named 「MarsBoo」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.43 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Nakmf Shares AI Quail Meme | BSC | 加速中 | 强度 75.07 | 质量 73.19
+  - 主题摘要：According to 见者发财 |只发真角度's post, the user shared a Meme image featuring a quail, humorously suggesting it as a test for AI technology and dubbing it a 'new generation AI goblin'.…
+  - 资金 100.00 / 广度 80.52 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged Niu Lai Xia AI Narrative Analysis | BSC | 降温中 | 强度 74.95 | 质量 63.80
+  - 主题摘要：According to 小手川峰｜Feng 🐝's post, the author analyzes the investment logic of Niu Lai Xia, linking it to AI Agent narratives and OpenAI developments. The post discusses market tren…
+  - 资金 100.00 / 广度 41.05 / 确认 15.84 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Danny Comments on Burn Narrative | BSC | 点火期 | 强度 74.66 | 质量 69.88
+  - 主题摘要：According to GrenMok (Sendor)'s post, the creator of b-money revealed their real name as "Burn Money". The post quotes a discussion where the creator explained the name choice, li…
+  - 资金 100.00 / 广度 92.74 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 蝴蝶平台首个动态头像群1097964817 | BSC | 点火期 | 强度 72.55 | 质量 66.57
+  - 主题摘要：妖蝶 (Butterfly) token draws inspiration from the enchanting beauty of butterflies, symbolizing transformation and freedom. The logo features a vibrant butterfly with iridescent win…
+  - 资金 100.00 / 广度 84.89 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.93，其中已确认叙事 1 个。
-- Rune's Political Comparison 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Memecoins Are So Back 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.52，其中已确认叙事 0 个。
+- Nakmf Shares AI Quail Meme 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- World Oil Trust Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Ansem Discusses Token Utility | 质量 84.18 | 可交易性 100.00 | 风险 低
-- Z Questions PVE Token Rewards | 质量 80.94 | 可交易性 99.91 | 风险 低
-- Rune's Political Comparison | 质量 77.10 | 可交易性 100.00 | 风险 低
-- Lobster Network | 质量 76.77 | 可交易性 100.00 | 风险 低
-- WWR | 质量 75.91 | 可交易性 100.00 | 风险 低
-- engine in my factory | 质量 75.77 | 可交易性 91.15 | 风险 低
-- Danny Comments on Burn Narrative | 质量 75.26 | 可交易性 88.88 | 风险 低
-- Memecoins Are So Back | 质量 75.13 | 可交易性 100.00 | 风险 低
-- Google Gemini | 质量 74.70 | 可交易性 100.00 | 风险 低
-- MarsBoo | 质量 71.74 | 可交易性 100.00 | 风险 低
+- World Oil Trust Fund | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Lobster Network | 质量 76.96 | 可交易性 100.00 | 风险 低
+- Alleged Release of tunbaton Meme Image | 质量 75.94 | 可交易性 100.00 | 风险 低
+- Thief Cat | 质量 74.69 | 可交易性 100.00 | 风险 低
+- Nakmf Shares AI Quail Meme | 质量 73.19 | 可交易性 85.48 | 风险 低
+- fomo | 质量 72.27 | 可交易性 100.00 | 风险 低
+- MarsBoo | 质量 71.79 | 可交易性 100.00 | 风险 低
+- Tesla | 质量 70.96 | 可交易性 100.00 | 风险 低
+- Federal AI Reserve | 质量 70.43 | 可交易性 90.05 | 风险 低
+- Danny Comments on Burn Narrative | 质量 69.88 | 可交易性 85.72 | 风险 低
 
 ## 伪叙事风险
 
-- MarsBoo | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- 蝴蝶平台首个动态头像群1097964817 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- MarsBoo | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- 蝴蝶平台首个动态头像群1097964817 | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Danny Comments on Burn Narrative | 风险 44.91 | 原因：流动性偏薄
+- Alleged Release of tunbaton Meme Image | 风险 41.19 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
 
-- conviction | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 4Stock | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- conviction | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 虾网 | BSC | 看多 | 新鲜度 100.00 | Lobster Network
 - 曙宝 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BEM | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- ENGINE | BSC | 看多 | 新鲜度 100.00 | engine in my factory
+- ENGINE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - JARVIS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- KNOB | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Noiz  | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - POORGOAT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- baton | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
+- [Binance Will Add BNCB bStocks Tokenized Securities as Collateral Asset - 2026-09-14](https://www.binance.com/zh-CN/support/announcement/detail/437f116183e243ce8759ac8cc580881f)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered through an Approved Prospectus in the ADGM an…
+- [Binance Exchange Adds CEA Industries (BNCB) bStocks Trading Pair on Binance Spot/Convert - 2026-09-14](https://www.binance.com/zh-CN/support/announcement/detail/d625f87897a843febc1f4c139740d875)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, To expand the list of trading choices offered on Binance S…
+- [Binance Pay Onchain: Business Infrastructure for Crypto Onramp, Onchain Payments and Agent Payments](https://www.binance.com/zh-CN/support/announcement/detail/3ec6e08666ad41cc9f20c318f5f4e9e1)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Pay is expanding its business-facing payment capab…
+- [Binance Earn: Enjoy Up to 7% APR on U Flexible Products — Exclusive 7.7% APR for VIP Users with 500,000 U Tier (2026-09-15)](https://www.binance.com/zh-CN/support/announcement/detail/47934ad1629f4236a80c3709e2cd116a)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Disclaimer: This is not available for users in the EEA.…
 - [Limited-Time Fee Promotion for Stock Options: Trade 1,000+ U.S.-Listed Stocks & ETFs Now](https://www.binance.com/zh-CN/support/announcement/detail/0df4bdaf019e4804853ce9528210598a)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To celebrate the launch of Stock Options — covering over 1,000 selected U.S.-listed stocks a…
 - [Word of the Day: Test Your Knowledge on “Binance Stock Options” to Unlock USDC Rewards!](https://www.binance.com/zh-CN/support/announcement/detail/140f25e875484b6894eedd6744254eba)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for users in the EEA. Fellow Binancians, Bi…
-- [Binance Lifestyle Venezuela Cashback Campaign: Spend 10 USDT, Get 2 USDT Back](https://www.binance.com/zh-CN/support/announcement/detail/c495d1c59c014c53a7dcb5a21fc25993)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Lifestyle is launching a limited-time cashback campaign…
 - [DYOR Just Got Upgraded: Track New On-Chain Metrics for Binance Alpha Tokens](https://www.binance.com/zh-CN/support/announcement/detail/6e2425e25780417eb22ab26dc78411cc)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance has introduced an upgrade to DYOR , the dedicated research hub for Binance Alpha tok…
 - [Binance Stock Trading Introduces Recurring Buy Feature](https://www.binance.com/zh-CN/support/announcement/detail/58fc95e4414949e98e2755457d740261)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is pleased to introduce Stock Recurring Buy, a new feature that allows eligible user…
 - [Binance Will Add 牛来 (牛来) on Earn, Buy Crypto, Convert, VIP Loan & Margin](https://www.binance.com/zh-CN/support/announcement/detail/39fe3154675948fbb164b1e63e036629)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: This is not available for users in the EEA. Fellow Binancians, Binance is excited to announce…
-- [Binance Will List 牛来 (牛来) with Seed Tag Applied](https://www.binance.com/zh-CN/support/announcement/detail/6133e417dcfe43a8ad20c0db1b53c7e8)
-  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general announcement. Products and services referred…
-- [Binance Will Add 2 bStocks Tokenized Securities as Collateral Asset - 2026-09-09](https://www.binance.com/zh-CN/support/announcement/detail/026d4dfdc82940a5924b22442bcb651e)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered through an Approved Prospectus in the ADGM an…
-- [Binance Earn Yield Arena: Share Up to $200K in BNB Rewards With This Week’s New Limited-Time Offers! (2026-09-09)](https://www.binance.com/zh-CN/support/announcement/detail/67d127357c034cbd9945abbff1c8ceb5)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; &nbsp; Binance Earn presents to you new offers that…
 
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Rune's Political Comparison（Solana，分数 87.99）
-2. 共振最强代币：PEPE（BSC，共振 100.0）
-3. 记忆层变化：Rune's Political Comparison 当前为“新出现”
-4. 最新官方催化：Limited-Time Fee Promotion for Stock Options: Trade 1,000+ U.S.-Listed Stocks & ETFs Now
+1. 当前最强叙事：World Oil Trust Fund（Solana，分数 89.92）
+2. 共振最强代币：EMBER（Solana，共振 100.0）
+3. 记忆层变化：World Oil Trust Fund 当前为“新出现”
+4. 最新官方催化：Binance Will Add BNCB bStocks Tokenized Securities as Collateral Asset - 2026-09-14
 #Binance #NarrativeOS #OpenClaw
