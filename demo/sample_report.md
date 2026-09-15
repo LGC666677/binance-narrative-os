@@ -1,102 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-15T19:52:23.140193+00:00
+- 生成时间：2026-09-15T22:27:52.511897+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：3
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 WOFI，所在链为 Solana，叙事强度 89.92。
-- 当前平均叙事强度为 81.84，其中已确认叙事 0 个。
+- 当前最强叙事是 National Trump Digital Accounts，所在链为 Solana，叙事强度 87.38。
+- 当前平均叙事强度为 71.75，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 牛来，来自 BSC，共振分数 100.0。
-- 记忆层显示 WOTF 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Uncle Cow Publishes Fruit Fly AI Experiment，伪叙事风险 51.25。
+- 记忆层显示 National Trump Digital Accounts 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged WhiteHouse Token Fee Proposal，伪叙事风险 54.32。
 - 最新官方催化来自 最新活动：Community Voice: Give Feedback to Share 1,000 USDC in Rewards!。
 
 ## 叙事雷达
 
-- WOFI | Solana | 降温中 | 强度 89.92 | 质量 80.06
-  - 主题摘要：Multiple tokens named 「WOFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
+- National Trump Digital Accounts | Solana | 降温中 | 强度 87.38 | 质量 77.94
+  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.64 / 确认 16.56 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WOTF | Solana | 降温中 | 强度 82.88 | 质量 70.19
-  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.28 / 确认 5.04 / 脆弱性 0.00
+- Alleged Nick Fuentes Meme Coin | Solana | 加速中 | 强度 83.88 | 质量 80.01
+  - 主题摘要：According to THE DEVOooOR ⛋'s post, the author claims to send fees to Nick Fuentes, referencing a token named GROYPER associated with him. This information is unverified. Please e…
+  - 资金 100.00 / 广度 89.81 / 确认 23.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- DIAP | Solana | 降温中 | 强度 80.04 | 质量 69.12
+  - 主题摘要：DIAP is a community-driven token focused on decentralized finance and DeFi innovation. It aims to empower users through transparent governance and innovative financial tools. DIAP…
+  - 资金 100.00 / 广度 66.70 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- XPXGOLD | Solana | 降温中 | 强度 81.86 | 质量 71.32
-  - 主题摘要：Multiple tokens named 「XPXGOLD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.86 / 确认 9.36 / 脆弱性 0.00
+- Grok Allegedly Launches Meme Coin | Solana | 加速中 | 强度 79.55 | 质量 74.29
+  - 主题摘要：According to Grok's post, the account shared a link to a token on pump.fun, allegedly launching a new Meme coin. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 81.89 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Grok Allegedly Launches Meme Coin | Solana | 加速中 | 强度 79.55 | 质量 74.29
+  - 主题摘要：According to Grok's post, the account shared a link to a token on pump.fun, allegedly launching a new Meme coin. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 81.89 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 蝴蝶股票 | BSC | 加速中 | 强度 79.13 | 质量 67.38
+  - 主题摘要：Multiple tokens named 「蝴蝶股票」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.10 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged WhiteHouse Token Fee Proposal | Solana | 点火期 | 强度 77.81 | 质量 74.62
+  - 主题摘要：According to Esoteric's post, the White House account is described as the largest meme page on the internet, with a suggestion to redirect fees to it to clear the national debt. T…
+  - 资金 100.00 / 广度 86.79 / 确认 5.04 / 脆弱性 19.91
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- PROJECT ONYX | Solana | 降温中 | 强度 77.04 | 质量 65.69
+  - 主题摘要：Multiple tokens named 「PONYX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 52.10 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Toely Meme | Solana | 降温中 | 强度 81.00 | 质量 71.27
-  - 主题摘要：According to Alex's post, Alex claims that Toely is the biggest meme associated with the founder of Solana, referencing Iron Mike, Bike Tyson, and Eelon Musk. Alex suggests launch…
-  - 资金 100.00 / 广度 90.77 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nike | Solana | 降温中 | 强度 80.26 | 质量 68.15
-  - 主题摘要：Multiple tokens named 「Nike」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 63.47 / 确认 5.04 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Z Questions NUT Token No Rewards | Solana | 降温中 | 强度 80.16 | 质量 70.35
-  - 主题摘要：Multiple tokens named 「NUT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.38 / 确认 15.84 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Pnut Meme Coin Launch | Solana | 降温中 | 强度 80.12 | 质量 70.27
-  - 主题摘要：Multiple tokens named 「NUT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.05 / 确认 15.84 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Democrat Meme Coin | Solana | 降温中 | 强度 78.55 | 质量 68.17
-  - 主题摘要：According to bane's post, the author claims that no Senate Democrats voted for the CLARITY Act and suggests sending a 'Democrat' token to mock them. This implies the existence of…
-  - 资金 100.00 / 广度 84.40 / 确认 12.24 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 赵家驹 | BSC | 降温中 | 强度 76.91 | 质量 66.31
-  - 主题摘要：According to CarlaJohnson's post, Zhao Jiaju became the first Asian champion in the history of the UTMB (Ultra-Trail du Mont-Blanc), marking a significant achievement for Chinese…
-  - 资金 100.00 / 广度 73.54 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- JUST Token Nike Pairs | BSC | 降温中 | 强度 73.11 | 质量 60.44
+- Alleged PAID Test Token | Solana | 加速中 | 强度 74.26 | 质量 63.41
+  - 主题摘要：According to Zald's post, an alleged test token named PAID was launched 19 hours ago with a market cap of 10k, redirecting fees to @bot. This information is unverified. Please exe…
+  - 资金 100.00 / 广度 75.96 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- JUST Token Nike Pairs | BSC | 降温中 | 强度 73.07 | 质量 60.44
   - 主题摘要：According to のの✴️'s post, the JUST token (Just Do It) allegedly added trading pairs associated with Nike. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 76.54 / 确认 12.24 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.57 / 确认 12.24 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncle Cow Publishes Fruit Fly AI Experiment | BSC | 点火期 | 强度 70.37 | 质量 66.01
+- 赵家驹 | BSC | 降温中 | 强度 70.47 | 质量 54.99
+  - 主题摘要：According to CarlaJohnson's post, Zhao Jiaju became the first Asian champion in the history of the UTMB (Ultra-Trail du Mont-Blanc), marking a significant achievement for Chinese…
+  - 资金 100.00 / 广度 73.46 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Agent Shaw Comments on Sealook Meme | BSC | 降温中 | 强度 70.15 | 质量 58.06
+  - 主题摘要：According to Agent Shaw's post, the Sealook meme has gained significant traction, evidenced by a KFC collaboration and viral status on Douyin. Shaw characterizes this trend as a m…
+  - 资金 100.00 / 广度 68.68 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncle Cow Publishes Fruit Fly AI Experiment | BSC | 点火期 | 强度 69.11 | 质量 64.28
   - 主题摘要：Multiple tokens named 「镜隙」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.71 / 确认 5.04 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.72 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- everfly | BSC | 降温中 | 强度 69.90 | 质量 57.08
-  - 主题摘要：Multiple tokens named 「EVERFLY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 95.33 / 广度 72.28 / 确认 5.04 / 脆弱性 24.00
+- Arc Airdrop Incoming | BSC | 降温中 | 强度 68.55 | 质量 53.89
+  - 主题摘要：Binance华语账号宣布Arc项目即将进行链上奖励发放，币安钱包用户有望获得首批福利。这一消息引发了社区对Arc代币空投和潜在价值的关注与期待。
+  - 资金 100.00 / 广度 68.88 / 确认 5.04 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Blonskr Quotes C3S Fruit Fly Circuit Project | BSC | 点火期 | 强度 69.47 | 质量 66.94
-  - 主题摘要：Multiple tokens named 「WebAssembly」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.37 / 确认 12.24 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Tsumugi Meme Image Goes Viral | BSC | 点火期 | 强度 68.45 | 质量 65.41
-  - 主题摘要：According to jam's post, a Meme image of Tsumugi is gaining significant traction, with over 2 million views in 10 hours. The post compares her appearance to the 'giga chad' meme a…
-  - 资金 100.00 / 广度 79.18 / 确认 12.24 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.84，其中已确认叙事 0 个。
-- WOFI 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 71.75，其中已确认叙事 0 个。
+- Alleged Nick Fuentes Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- National Trump Digital Accounts 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- WOFI | 质量 80.06 | 可交易性 100.00 | 风险 低
-- XPXGOLD | 质量 71.32 | 可交易性 100.00 | 风险 低
-- Alleged Toely Meme | 质量 71.27 | 可交易性 83.10 | 风险 低
-- Z Questions NUT Token No Rewards | 质量 70.35 | 可交易性 78.51 | 风险 低
-- Alleged Pnut Meme Coin Launch | 质量 70.27 | 可交易性 77.57 | 风险 低
-- WOTF | 质量 70.19 | 可交易性 100.00 | 风险 低
-- Alleged Democrat Meme Coin | 质量 68.17 | 可交易性 73.87 | 风险 低
-- Nike | 质量 68.15 | 可交易性 100.00 | 风险 低
-- Blonskr Quotes C3S Fruit Fly Circuit Project | 质量 66.94 | 可交易性 96.31 | 风险 低
-- 赵家驹 | 质量 66.31 | 可交易性 83.80 | 风险 低
+- Alleged Nick Fuentes Meme Coin | 质量 80.01 | 可交易性 100.00 | 风险 低
+- National Trump Digital Accounts | 质量 77.94 | 可交易性 100.00 | 风险 低
+- Alleged WhiteHouse Token Fee Proposal | 质量 74.62 | 可交易性 98.25 | 风险 低
+- Grok Allegedly Launches Meme Coin | 质量 74.29 | 可交易性 90.97 | 风险 低
+- Grok Allegedly Launches Meme Coin | 质量 74.29 | 可交易性 90.97 | 风险 低
+- DIAP | 质量 69.12 | 可交易性 100.00 | 风险 低
+- 蝴蝶股票 | 质量 67.38 | 可交易性 79.37 | 风险 低
+- PROJECT ONYX | 质量 65.69 | 可交易性 100.00 | 风险 低
+- Uncle Cow Publishes Fruit Fly AI Experiment | 质量 64.28 | 可交易性 91.45 | 风险 低
+- Alleged PAID Test Token | 质量 63.41 | 可交易性 57.44 | 风险 低
 
 ## 伪叙事风险
 
+- Alleged WhiteHouse Token Fee Proposal | 风险 54.32 | 原因：流动性偏薄、龙头筹码集中度偏高
 - Uncle Cow Publishes Fruit Fly AI Experiment | 风险 51.25 | 原因：流动性偏薄
-- Blonskr Quotes C3S Fruit Fly Circuit Project | 风险 50.69 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Tsumugi Meme Image Goes Viral | 风险 50.69 | 原因：流动性偏薄、近 1 小时净流入转负
-- everfly | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Arc Airdrop Incoming | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -108,8 +108,8 @@
 - FLORK | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 永生果蝇 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FlyBrain | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PAID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DOOM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SME | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -135,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：WOFI（Solana，分数 89.92）
+1. 当前最强叙事：National Trump Digital Accounts（Solana，分数 87.38）
 2. 共振最强代币：牛来（BSC，共振 100.0）
-3. 记忆层变化：WOTF 当前为“新出现”
+3. 记忆层变化：National Trump Digital Accounts 当前为“新出现”
 4. 最新官方催化：Community Voice: Give Feedback to Share 1,000 USDC in Rewards!
 #Binance #NarrativeOS #OpenClaw
