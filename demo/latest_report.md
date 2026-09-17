@@ -1,116 +1,115 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-17T01:40:17.691765+00:00
+- 生成时间：2026-09-17T06:37:08.175694+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：3
+- 已确认叙事：0
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 WOTF，所在链为 Solana，叙事强度 86.9。
-- 当前平均叙事强度为 82.12，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MARSCOIN，来自 BSC，共振分数 100.0。
-- 记忆层显示 WOTF 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 COINISM，伪叙事风险 61.55。
+- 当前最强叙事是 E-Commerce Trust Fund，所在链为 Solana，叙事强度 87.04。
+- 当前平均叙事强度为 82.65，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 EMBER，来自 Solana，共振分数 100.0。
+- 记忆层显示 E-Commerce Trust Fund 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Solana Employee Meme Coin，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：Join Binance Wallet On-Chain Trade & Win Season 7: Trade on Arc to Win a Share of $200,000 in Rewards!。
 
 ## 叙事雷达
 
-- WOTF | Solana | 降温中 | 强度 86.90 | 质量 75.40
-  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.63 / 确认 5.04 / 脆弱性 0.00
+- E-Commerce Trust Fund | Solana | 降温中 | 强度 87.04 | 质量 75.45
+  - 主题摘要：Multiple tokens named 「ECTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.37 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged FOMOPAD Test Token | Solana | 降温中 | 强度 86.02 | 质量 76.49
-  - 主题摘要：According to the post, a test token for the FOMOPAD launchpad is allegedly available directly on the website upon opening. The post includes a contract address for this token. Thi…
-  - 资金 100.00 / 广度 88.10 / 确认 9.36 / 脆弱性 14.00
+- TNT | Solana | 降温中 | 强度 86.35 | 质量 75.20
+  - 主题摘要：Multiple tokens named 「TNT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.80 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- OnlyX | Solana | 降温中 | 强度 84.93 | 质量 75.16
-  - 主题摘要：Multiple tokens named 「ONLYX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.66 / 确认 9.36 / 脆弱性 14.00
+- Kiro Criticizes AI-Generated Launchpads | Solana | 降温中 | 强度 85.15 | 质量 76.84
+  - 主题摘要：According to Kiro's post, the author criticizes current launchpads as low-quality AI-generated content and shares a meme image titled 'Hey Claude' to mock this trend. The post ref…
+  - 资金 100.00 / 广度 86.64 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Manlet | Solana | 降温中 | 强度 84.27 | 质量 71.87
-  - 主题摘要：Multiple tokens named 「MANLET」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.69 / 确认 9.36 / 脆弱性 0.00
+- Trump Digital Oil Fund | Solana | 降温中 | 强度 83.52 | 质量 72.53
+  - 主题摘要：Multiple tokens named 「TDOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.89 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Xenocortical Mouse Token | BSC | 已确认 | 强度 81.09 | 质量 78.25
-  - 主题摘要：According to Caner's post, the author discusses a scientific breakthrough involving mice with human brain cells, termed Xenocortical Mice. Caner shares links to news reports on th…
-  - 资金 100.00 / 广度 81.61 / 确认 30.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- AI Token Funding Controversy | Solana | 加速中 | 强度 79.95 | 质量 67.46
-  - 主题摘要：According to Klea's post, Kevin Bass, supported by Elon Musk and AI experts, is investigating METR's funding transparency. He claims to be running out of AI tokens and requests do…
-  - 资金 100.00 / 广度 82.06 / 确认 24.48 / 脆弱性 14.00
+- Elon Musk: Solar is the Future | BSC | 加速中 | 强度 82.34 | 质量 70.94
+  - 主题摘要：Elon Musk strongly endorses solar energy as the definitive future, aligning with his public advocacy for sustainable energy and increasing the visibility of solar-themed crypto as…
+  - 资金 100.00 / 广度 98.09 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- dono | Solana | 点火期 | 强度 79.42 | 质量 80.13
-  - 主题摘要：DONO token enables users to launch their own cryptocurrency and gift fees to favorite streamers. The minimalist logo features a stylized 'd' on black background, reflecting its st…
-  - 资金 95.94 / 广度 97.59 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Mack Claims CZ Steemit Avatar Suspected Privacy Narrative | BSC | 加速中 | 强度 79.27 | 质量 65.03
-  - 主题摘要：Multiple tokens named 「CZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.41 / 确认 24.48 / 脆弱性 14.00
+- American Reserved Oil Supply | Solana | 降温中 | 强度 79.50 | 质量 65.52
+  - 主题摘要：Multiple tokens named 「AROS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.66 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Pons Test Token Launch | BSC | 加速中 | 强度 77.81 | 质量 78.00
+  - 主题摘要：According to Big Money Baller's post, the Solana-based team behind usepaid.app allegedly launched four Pons test tokens. The author claims the project's treasury wallet is hardcod…
+  - 资金 100.00 / 广度 85.97 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 首个宝贝屎壳郎底池分红回购机制 | BSC | 降温中 | 强度 79.23 | 质量 69.51
+- 首个宝贝屎壳郎底池分红回购机制 | BSC | 降温中 | 强度 77.24 | 质量 69.66
   - 主题摘要：粪球 (首个宝贝屎壳郎底池分红回购机制) is a meme token inspired by the Chinese internet slang '粪球' (dirt ball), representing a playful take on crypto culture. It features a分红回购机制 (dividend redempti…
-  - 资金 100.00 / 广度 64.85 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 65.32 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- All on Binance | BSC | 点火期 | 强度 79.03 | 质量 76.29
-  - 主题摘要：Binance官方账号发布了一个填空式互动推文 'All ______ on Binance'，暗示平台即将上线新代币或项目，引发社区对下一个热门Meme代币或项目的猜测与期待。
-  - 资金 100.00 / 广度 89.28 / 确认 16.56 / 脆弱性 14.00
+- 蝴蝶时代 | BSC | 点火期 | 强度 76.99 | 质量 73.55
+  - 主题摘要：According to 蝴蝶时代's post, the Butterfly Era token is a community-based coin initiated by Butterfly Life. It features a 2% tax, with 15% allocated to a buyback vault executing 0.00…
+  - 资金 100.00 / 广度 86.36 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- COINISM | Solana | 降温中 | 强度 78.55 | 质量 74.02
-  - 主题摘要：Multiple tokens named 「COINISM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.87 / 确认 9.36 / 脆弱性 63.54
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Mempool Moth Meme | BSC | 加速中 | 强度 77.08 | 质量 74.40
-  - 主题摘要：According to alpha🅿️rophet's post, the creator of Bitcoin stamps allegedly used AI to generate a new Meme image called 'Mempool Moth'. This information is unverified. Please exerc…
-  - 资金 100.00 / 广度 82.66 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Justin Sun Prize | BSC | 加速中 | 强度 77.06 | 质量 77.20
+- Alleged Justin Sun Prize | BSC | 加速中 | 强度 76.10 | 质量 76.28
   - 主题摘要：According to JBL's post, the user shared a reference to the "Justin Sun Prize" (孙宇晨奖). This content relates to an alleged token or award associated with Justin Sun. This informati…
-  - 资金 100.00 / 广度 79.38 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.47 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon's Mom's Book: Maya | Solana | 点火期 | 强度 76.90 | 质量 77.27
-  - 主题摘要：Elon Musk announces the upcoming release of his mother Maye Musk's new book. This event highlights the Musk family's influence beyond tech and crypto, potentially creating a cultu…
-  - 资金 100.00 / 广度 92.39 / 确认 9.36 / 脆弱性 37.71
+- Alleged Xenocortical Mouse Token | BSC | 加速中 | 强度 75.45 | 质量 73.16
+  - 主题摘要：According to Caner's post, scientific breakthroughs regarding 'Xenocortical Mice' (mice with part human brain) are trending. Caner shares links to news articles about this researc…
+  - 资金 100.00 / 广度 80.70 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Mempool Moth Meme | BSC | 加速中 | 强度 75.44 | 质量 73.67
+  - 主题摘要：According to alpha🅿️rophet's post, the creator of Bitcoin stamps used AI to generate a new Meme image called 'Mempool Moth'. This alleged token release is unverified. This informa…
+  - 资金 100.00 / 广度 84.99 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Mack Claims CZ Steemit Avatar Suspected Privacy Narrative | BSC | 加速中 | 强度 75.39 | 质量 65.78
+  - 主题摘要：Multiple tokens named 「CZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.15 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Solana Employee Meme Coin | Solana | 点火期 | 强度 74.34 | 质量 73.71
+  - 主题摘要：According to Esoteric's post, a Solana employee is allegedly building a stock screening application named StonkScreeners and requesting donations to a 'fomo wallet'. The post clai…
+  - 资金 100.00 / 广度 92.87 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.12，其中已确认叙事 0 个。
-- AI Token Funding Controversy 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- WOTF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.65，其中已确认叙事 0 个。
+- Elon Musk: Solar is the Future 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- E-Commerce Trust Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- dono | 质量 80.13 | 可交易性 100.00 | 风险 低
-- Alleged Xenocortical Mouse Token | 质量 78.25 | 可交易性 96.52 | 风险 低
-- Elon's Mom's Book: Maya | 质量 77.27 | 可交易性 98.30 | 风险 低
-- Alleged Justin Sun Prize | 质量 77.20 | 可交易性 100.00 | 风险 低
-- Alleged FOMOPAD Test Token | 质量 76.49 | 可交易性 100.00 | 风险 低
-- All on Binance | 质量 76.29 | 可交易性 92.87 | 风险 低
-- WOTF | 质量 75.40 | 可交易性 100.00 | 风险 低
-- OnlyX | 质量 75.16 | 可交易性 100.00 | 风险 低
-- Alleged Mempool Moth Meme | 质量 74.40 | 可交易性 87.39 | 风险 低
-- COINISM | 质量 74.02 | 可交易性 100.00 | 风险 低
+- Alleged Pons Test Token Launch | 质量 78.00 | 可交易性 99.25 | 风险 低
+- Kiro Criticizes AI-Generated Launchpads | 质量 76.84 | 可交易性 100.00 | 风险 低
+- Alleged Justin Sun Prize | 质量 76.28 | 可交易性 100.00 | 风险 低
+- E-Commerce Trust Fund | 质量 75.45 | 可交易性 100.00 | 风险 低
+- TNT | 质量 75.20 | 可交易性 100.00 | 风险 低
+- Alleged Solana Employee Meme Coin | 质量 73.71 | 可交易性 100.00 | 风险 低
+- Alleged Mempool Moth Meme | 质量 73.67 | 可交易性 85.78 | 风险 低
+- 蝴蝶时代 | 质量 73.55 | 可交易性 86.65 | 风险 低
+- Alleged Xenocortical Mouse Token | 质量 73.16 | 可交易性 85.74 | 风险 低
+- Trump Digital Oil Fund | 质量 72.53 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- COINISM | 风险 61.55 | 原因：流动性偏薄、龙头筹码集中度偏高
-- Elon's Mom's Book: Maya | 风险 60.12 | 原因：流动性偏薄、龙头筹码集中度偏高
-- dono | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- All on Binance | 风险 42.03 | 原因：流动性偏薄
+- Alleged Solana Employee Meme Coin | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- 蝴蝶时代 | 风险 42.03 | 原因：流动性偏薄
+- 首个宝贝屎壳郎底池分红回购机制 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- 孙宇晨奖 | BSC | 看多 | 新鲜度 100.00 | Alleged Justin Sun Prize
+- Bob | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- MOTH | BSC | 看多 | 新鲜度 100.00 | Alleged Mempool Moth Meme
+- 孙宇晨奖 | BSC | 看多 | 新鲜度 100.00 | Elon Musk: Solar is the Future / Alleged Justin Sun Prize
 - 脚脚币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AFOB | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 果蝇 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BORT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 礼服 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PAID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- ELON | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- KEVIN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ALLINU | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- ZEREBLAST | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- ISTONKS | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- KEVIN | Solana | 看多 | 新鲜度 95.40 | AI Token Funding Controversy
 
 ## 官方催化
 
@@ -136,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：WOTF（Solana，分数 86.9）
-2. 共振最强代币：MARSCOIN（BSC，共振 100.0）
-3. 记忆层变化：WOTF 当前为“新出现”
+1. 当前最强叙事：E-Commerce Trust Fund（Solana，分数 87.04）
+2. 共振最强代币：EMBER（Solana，共振 100.0）
+3. 记忆层变化：E-Commerce Trust Fund 当前为“新出现”
 4. 最新官方催化：Join Binance Wallet On-Chain Trade & Win Season 7: Trade on Arc to Win a Share of $200,000 in Rewards!
 #Binance #NarrativeOS #OpenClaw
