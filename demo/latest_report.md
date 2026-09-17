@@ -1,103 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-17T19:54:18.694086+00:00
+- 生成时间：2026-09-17T22:27:50.393438+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Dividend Fund，所在链为 Solana，叙事强度 87.41。
-- 当前平均叙事强度为 84.43，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 United States Dividend Fund 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Immortal Fruit Flies，伪叙事风险 56.45。
+- 当前最强叙事是 Solana Gaming Fire，所在链为 Solana，叙事强度 89.18。
+- 当前平均叙事强度为 83.27，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 EMBER，来自 Solana，共振分数 100.0。
+- 记忆层显示 Gstock 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 World Water Reserve，伪叙事风险 61.64。
 - 最新官方催化来自 币安最新公告：Binance Futures Will End Last Price Protected Period on USDⓈ-Margined ONEUSDT Perpetual Contract (2026-09-17)。
 
 ## 叙事雷达
 
-- United States Dividend Fund | Solana | 降温中 | 强度 87.41 | 质量 76.02
-  - 主题摘要：Multiple tokens named 「USDF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.53 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Solana Gaming Fire | Solana | 降温中 | 强度 85.21 | 质量 75.39
+- Solana Gaming Fire | Solana | 加速中 | 强度 89.18 | 质量 83.23
   - 主题摘要：Solana Gaming官方账号在Solana官方推文下回复了一个火表情符号，强调其在链上收藏品领域的活跃度和热度。
-  - 资金 100.00 / 广度 87.61 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Steve Wozniak Alleged AGI Superagent | Solana | 加速中 | 强度 84.69 | 质量 77.63
-  - 主题摘要：According to Steve Wozniak's post, he proposed monetizing an AGI superagent named Pimsy, suggesting it may require funding for a competition with Grok. This implies the alleged la…
-  - 资金 100.00 / 广度 83.26 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- NTDA | Solana | 降温中 | 强度 84.52 | 质量 72.27
-  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.04 / 确认 9.36 / 脆弱性 0.00
+- Gstock | Solana | 降温中 | 强度 86.38 | 质量 74.35
+  - 主题摘要：Multiple tokens named 「GSTOCK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.96 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Anonymous Cat | Solana | 降温中 | 强度 84.26 | 质量 73.64
-  - 主题摘要：According to BSCN's post, the ZCAT token has surged 50% in 24 hours as Zcash distributions exceed $8 million. The memecoin pays holders approximately 5,963 ZEC via a 3% transactio…
-  - 资金 100.00 / 广度 78.59 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Daniel Kuhn Refuses to Share Meme | Solana | 降温中 | 强度 83.54 | 质量 73.67
+- Daniel Kuhn Refuses to Share Meme | Solana | 降温中 | 强度 84.91 | 质量 75.22
   - 主题摘要：According to Daniel Kuhn's post, he quoted a tweet stating that fees for the token Atsuko (The Dogemother) are directed to the account @kabosumama. Kuhn added the comment 'not sha…
-  - 资金 100.00 / 广度 78.71 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.22 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- YouTip Launches Creator Coin Platform | Solana | 降温中 | 强度 83.21 | 质量 74.10
-  - 主题摘要：According to YouTip's post, the YouTip platform is now live, enabling users to launch coins for YouTubers. Trading fees are automatically directed to creators via Super Thanks, wi…
-  - 资金 100.00 / 广度 83.29 / 确认 5.04 / 脆弱性 24.00
+- GTA6 | Solana | 降温中 | 强度 84.76 | 质量 72.60
+  - 主题摘要：Multiple tokens named 「GTA 6 Coin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.30 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Comments on Dog Meme | Solana | 降温中 | 强度 82.58 | 质量 73.16
-  - 主题摘要：According to intelligent dog's post, a user shared a picture of a cute dog, which received a comment from Elon Musk stating "nice". This interaction highlights the social media en…
-  - 资金 100.00 / 广度 77.04 / 确认 9.36 / 脆弱性 14.00
+- Global Oil Asset Fund | Solana | 降温中 | 强度 83.77 | 质量 71.32
+  - 主题摘要：Multiple tokens named 「GOAF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.86 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Pons Test Token Launch | BSC | 加速中 | 强度 77.92 | 质量 76.37
-  - 主题摘要：According to Big Money Baller's post, the Solana-based team behind usepaid.app allegedly launched four Pons test tokens. The author claims the project's treasury wallet is hardcod…
-  - 资金 100.00 / 广度 85.24 / 确认 20.16 / 脆弱性 14.00
+- Siqi Chen Discusses Arithecfo and Geri | Solana | 降温中 | 强度 82.52 | 质量 76.92
+  - 主题摘要：According to Siqi Chen's post, CFO.ai is experiencing rapid growth, with the website growing faster than any previous month. Users can now sign up for free without a waitlist. Add…
+  - 资金 100.00 / 广度 92.69 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Steve Wozniak Alleged AGI Superagent | Solana | 加速中 | 强度 77.69 | 质量 69.20
+  - 主题摘要：According to Steve Wozniak's post, he proposed monetizing an AGI superagent named Pimsy, suggesting it may require funding for a competition with Grok. This implies the alleged la…
+  - 资金 100.00 / 广度 88.08 / 确认 23.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Gta Cat VI | BSC | 降温中 | 强度 72.09 | 质量 61.16
-  - 主题摘要：Multiple tokens named 「GTACATVI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 51.67 / 确认 5.04 / 脆弱性 14.00
+- World Water Reserve | Solana | 降温中 | 强度 76.93 | 质量 71.11
+  - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.35 / 确认 5.04 / 脆弱性 57.06
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Flap Meme Image | BSC | 降温中 | 强度 69.42 | 质量 57.08
-  - 主题摘要：According to 我肯定会发财！'s post, the author claims that an official source identified a specific image as a meme with potential for 1000x growth. This information is unverified. Pleas…
-  - 资金 100.00 / 广度 75.09 / 确认 8.64 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Flap | BSC | 降温中 | 强度 68.39 | 质量 66.99
-  - 主题摘要：Multiple tokens named 「Flap」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.64 / 确认 7.20 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Immortal Fruit Flies | BSC | 点火期 | 强度 66.68 | 质量 61.01
-  - 主题摘要：Multiple tokens named 「Flies」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 96.23 / 广度 63.99 / 确认 5.04 / 脆弱性 24.00
+- Alleged Pons Test Token Launch | BSC | 加速中 | 强度 74.42 | 质量 73.60
+  - 主题摘要：According to Big Money Baller's post, the Solana-based team behind usepaid.app allegedly launched four Pons test tokens. The author claims the project's treasury wallet is hardcod…
+  - 资金 100.00 / 广度 85.25 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Binance Chinese Post on Palu | BSC | 加速中 | 强度 72.64 | 质量 57.37
+  - 主题摘要：Binance Chinese official account posted a message referencing 'Palu' (a character from the game Palworld) on its 606th day, encouraging engagement. This content relates to the SUM…
+  - 资金 100.00 / 广度 70.66 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Four.meme-華語 Nostalgia for Bitcoin | BSC | 点火期 | 强度 70.94 | 质量 64.66
+  - 主题摘要：Multiple tokens named 「MEME」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 98.36 / 确认 12.24 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Mempool Moth Meme | BSC | 点火期 | 强度 66.26 | 质量 61.35
-  - 主题摘要：Multiple tokens named 「MOTH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.10 / 确认 16.56 / 脆弱性 24.00
+- Flap | BSC | 降温中 | 强度 68.94 | 质量 67.96
+  - 主题摘要：Multiple tokens named 「Flap」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.66 / 确认 7.20 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Flap Meme Image | BSC | 降温中 | 强度 68.43 | 质量 57.12
+  - 主题摘要：According to 我肯定会发财！'s post, the author claims that an official source identified a specific image as a meme with potential for 1000x growth. This information is unverified. Pleas…
+  - 资金 100.00 / 广度 75.09 / 确认 8.64 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Mempool Moth Meme | BSC | 点火期 | 强度 67.95 | 质量 64.38
+  - 主题摘要：According to alpha🅿️rophet's post, the creator of Bitcoin stamps allegedly used AI to generate a new Meme image called 'Mempool Moth'. This information is unverified. Please exerc…
+  - 资金 100.00 / 广度 84.11 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.43，其中已确认叙事 0 个。
-- Steve Wozniak Alleged AGI Superagent 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- United States Dividend Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.27，其中已确认叙事 0 个。
+- Uncertain:Binance Chinese Post on Palu 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Gstock 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Steve Wozniak Alleged AGI Superagent | 质量 77.63 | 可交易性 98.07 | 风险 低
-- Alleged Pons Test Token Launch | 质量 76.37 | 可交易性 94.55 | 风险 低
-- United States Dividend Fund | 质量 76.02 | 可交易性 100.00 | 风险 低
-- Solana Gaming Fire | 质量 75.39 | 可交易性 100.00 | 风险 低
-- YouTip Launches Creator Coin Platform | 质量 74.10 | 可交易性 100.00 | 风险 低
-- Daniel Kuhn Refuses to Share Meme | 质量 73.67 | 可交易性 100.00 | 风险 低
-- Anonymous Cat | 质量 73.64 | 可交易性 100.00 | 风险 低
-- Elon Musk Comments on Dog Meme | 质量 73.16 | 可交易性 99.96 | 风险 低
-- NTDA | 质量 72.27 | 可交易性 100.00 | 风险 低
-- Flap | 质量 66.99 | 可交易性 100.00 | 风险 低
+- Solana Gaming Fire | 质量 83.23 | 可交易性 100.00 | 风险 低
+- Siqi Chen Discusses Arithecfo and Geri | 质量 76.92 | 可交易性 100.00 | 风险 低
+- Daniel Kuhn Refuses to Share Meme | 质量 75.22 | 可交易性 100.00 | 风险 低
+- Gstock | 质量 74.35 | 可交易性 100.00 | 风险 低
+- Alleged Pons Test Token Launch | 质量 73.60 | 可交易性 93.13 | 风险 低
+- GTA6 | 质量 72.60 | 可交易性 100.00 | 风险 低
+- Global Oil Asset Fund | 质量 71.32 | 可交易性 100.00 | 风险 低
+- World Water Reserve | 质量 71.11 | 可交易性 100.00 | 风险 低
+- Steve Wozniak Alleged AGI Superagent | 质量 69.20 | 可交易性 65.70 | 风险 低
+- Flap | 质量 67.96 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Immortal Fruit Flies | 风险 56.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- World Water Reserve | 风险 61.64 | 原因：龙头筹码集中度偏高
 - Alleged Mempool Moth Meme | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- YouTip Launches Creator Coin Platform | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Four.meme-華語 Nostalgia for Bitcoin | 风险 45.49 | 原因：流动性偏薄
 - Flap | 风险 42.72 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Flap Meme Image | 风险 41.57 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -109,8 +110,8 @@
 - GCAT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 傻福 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GENIUS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Tilcayo | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- THURSDAY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- RIM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- TRENDS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Dividend Fund（Solana，分数 87.41）
-2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：United States Dividend Fund 当前为“新出现”
+1. 当前最强叙事：Solana Gaming Fire（Solana，分数 89.18）
+2. 共振最强代币：EMBER（Solana，共振 100.0）
+3. 记忆层变化：Gstock 当前为“新出现”
 4. 最新官方催化：Binance Futures Will End Last Price Protected Period on USDⓈ-Margined ONEUSDT Perpetual Contract (2026-09-17)
 #Binance #NarrativeOS #OpenClaw
