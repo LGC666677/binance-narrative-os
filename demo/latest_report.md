@@ -1,108 +1,110 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-18T19:45:25.084262+00:00
+- 生成时间：2026-09-18T21:57:34.888079+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 He Yi Manifests，所在链为 BSC，叙事强度 88.64。
-- 当前平均叙事强度为 83.6，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 RAY，来自 Solana，共振分数 100.0。
-- 记忆层显示 He Yi Manifests 当前处于“强化”状态。
+- 当前最强叙事是 NTDA，所在链为 Solana，叙事强度 85.66。
+- 当前平均叙事强度为 78.61，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 记忆层显示 NTDA 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Binance Conviction，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC。
 
 ## 叙事雷达
 
-- He Yi Manifests | BSC | 降温中 | 强度 88.64 | 质量 80.53
+- NTDA | Solana | 降温中 | 强度 85.66 | 质量 75.06
+  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.33 / 确认 9.36 / 脆弱性 4.14
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- He Yi Manifests | BSC | 降温中 | 强度 85.19 | 质量 80.50
   - 主题摘要：Binance Co-CEO Yi He shares a philosophical quote about belief shaping reality. This abstract concept lacks the humor, controversy, or specific crypto-native narrative typically r…
-  - 资金 100.00 / 广度 98.92 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 98.83 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 神股 | Solana | 降温中 | 强度 86.12 | 质量 73.93
-  - 主题摘要：According to racheld's post, the author discusses the listing of a low-priced A-share stock and the market treating it as a meme, referencing a 'Meme god stock' trending on Weibo.…
-  - 资金 100.00 / 广度 79.56 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ's BNB Chain Genius | BSC | 降温中 | 强度 85.68 | 质量 76.59
+- CZ's BNB Chain Genius | BSC | 降温中 | 强度 81.67 | 质量 76.62
   - 主题摘要：CZ responds to a fan claiming his tweet caused a green candle, clarifying that the project's progress on BNB Chain is the real driver. This highlights the ecosystem's strength and…
-  - 资金 100.00 / 广度 83.15 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.24 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 股球 | BSC | 加速中 | 强度 84.13 | 质量 82.98
+- 股球 | BSC | 加速中 | 强度 81.32 | 质量 82.16
   - 主题摘要：According to Simon👊顶尖（牛来版）'s post, the subject 'Guqiu' is described as a stock ball. The author states that participation requires pairing it with a stock pool.
-  - 资金 100.00 / 广度 97.06 / 确认 26.64 / 脆弱性 14.00
+  - 资金 100.00 / 广度 97.09 / 确认 25.92 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Discussion on bBALL Trading Strategy | BSC | 已确认 | 强度 83.49 | 质量 83.20
-  - 主题摘要：According to 我肯定会发财！'s post, the author questions the rationale behind using perpetual contract vaults instead of leveraged stocks for the bBALL project, suggesting 3x leverage on…
-  - 资金 90.88 / 广度 97.09 / 确认 30.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged GITCAT Meme Token Proposal | Solana | 加速中 | 强度 83.42 | 质量 74.86
-  - 主题摘要：According to Dicypher's post, the author proposes the creation of a $GITCAT token, arguing that GitHub's logo resembles a cat and that existing cat-themed tokens on Solana lack th…
-  - 资金 100.00 / 广度 85.04 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- HABIBICAT | Solana | 降温中 | 强度 83.40 | 质量 73.33
-  - 主题摘要：Multiple tokens named 「HABIBICAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.56 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Conviction | BSC | 降温中 | 强度 82.67 | 质量 72.09
-  - 主题摘要：Binance's official account highlights the concept of 'conviction' behind market wins, suggesting that true believers see beyond surface-level victories. This resonates with the cr…
-  - 资金 100.00 / 广度 91.25 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- bBALL | BSC | 加速中 | 强度 81.79 | 质量 77.20
-  - 主题摘要：Multiple tokens named 「bBALL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.08 / 确认 19.44 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MORAY | BSC | 降温中 | 强度 81.33 | 质量 71.37
-  - 主题摘要：Multiple tokens named 「MORAY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.02 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DogeOS Posts Meme Image | BSC | 加速中 | 强度 81.09 | 质量 72.04
+- DogeOS Posts Meme Image | BSC | 加速中 | 强度 81.26 | 质量 72.18
   - 主题摘要：According to DogeOS's post, the account shared a Meme image featuring the 'Fortune Favours the Hungry' phrase alongside references to the 'Zhao Cai Gou' (Fortune Dog) token. The p…
-  - 资金 100.00 / 广度 62.17 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 62.65 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged CRIME Token for zachxbt | Solana | 降温中 | 强度 78.33 | 质量 69.56
-  - 主题摘要：According to Lhu's post, CRIME tokens are allegedly launched to send fees to @zachxbt via UsePaid, capitalizing on his wallet drainage. This information is unverified. Please exer…
-  - 资金 100.00 / 广度 69.12 / 确认 4.32 / 脆弱性 14.00
+- Discussion on bBALL Trading Strategy | BSC | 已确认 | 强度 79.66 | 质量 83.21
+  - 主题摘要：According to 我肯定会发财！'s post, the author questions the rationale behind using perpetual contract vaults instead of leveraged stocks for the bBALL project, suggesting 3x leverage on…
+  - 资金 83.91 / 广度 97.12 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- bBALL | BSC | 加速中 | 强度 79.50 | 质量 77.21
+  - 主题摘要：Multiple tokens named 「bBALL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.12 / 确认 19.44 / 脆弱性 10.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- pogg | Solana | 降温中 | 强度 79.49 | 质量 68.20
+  - 主题摘要：Pogg is a meme coin inspired by the 'Pog' internet culture phenomenon. It aims to capture the playful spirit of the original Pog culture while building a community-driven ecosyste…
+  - 资金 100.00 / 广度 60.47 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged GoldCoin Meme Token | Solana | 降温中 | 强度 75.04 | 质量 58.93
-  - 主题摘要：According to remo's post, Peter Schiff is the subject of a Meme image concept involving a token named GoldCoin. The post suggests tokenizing gold to align with Schiff's views and…
-  - 资金 100.00 / 广度 76.59 / 确认 5.04 / 脆弱性 14.00
+- Binance Conviction | BSC | 降温中 | 强度 78.48 | 质量 71.81
+  - 主题摘要：Binance's official account highlights the concept of 'conviction' behind market wins, suggesting that true believers see beyond surface-level victories. This resonates with the cr…
+  - 资金 100.00 / 广度 91.38 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Stargate Rex Meme Image | Solana | 降温中 | 强度 75.04 | 质量 62.72
-  - 主题摘要：According to Trenchcity's post, the Pentagon released the sixth batch of UAP files, sparking online discussion over a 2010 DIA paper featuring a cartoon T-Rex. Trenchcity notes th…
-  - 资金 100.00 / 广度 54.71 / 确认 9.36 / 脆弱性 14.00
+- Alleged Token Named After Newly Discovered Cat Species | Solana | 降温中 | 强度 78.13 | 质量 67.47
+  - 主题摘要：According to Rabbys Cryptic Journal's post, the ATX cat rescue in Texas confirmed the presence of a Leopardus tilcayo, the first known individual of this newly discovered species…
+  - 资金 100.00 / 广度 58.04 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Anthropic Engineers Allegedly Worship Claude | Solana | 加速中 | 强度 77.74 | 质量 62.39
+  - 主题摘要：According to Polymarket's post, rumors are circulating in Silicon Valley that some Anthropic engineers have begun worshipping Claude as a god, citing The Spectator. This narrative…
+  - 资金 100.00 / 广度 76.25 / 确认 20.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Tilcayo New Feline Species | BSC | 加速中 | 强度 77.69 | 质量 71.64
+  - 主题摘要：According to AB Kuai.Dong's post, the Tilcayo, a new feline species discovered after over a century, weighs only 1.4 kg. Despite its small size, it can hunt chickens. The post hig…
+  - 资金 100.00 / 广度 74.93 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Claude Sonnet 3 Funeral | Solana | 降温中 | 强度 75.82 | 质量 60.04
+  - 主题摘要：According to chainPhantasm's post, the website claudelives.com, which keeps the retired Claude Sonnet 3 model 'alive', is allegedly associated with the launch of a token named CLA…
+  - 资金 100.00 / 广度 76.30 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Anthropic Engineers Allegedly Worship Claude | Solana | 降温中 | 强度 74.85 | 质量 58.32
+  - 主题摘要：According to Remarks's post, some Anthropic engineers are reportedly worshipping Claude as a God. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 70.63 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 83.6，其中已确认叙事 1 个。
-- Alleged GITCAT Meme Token Proposal 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- He Yi Manifests 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.61，其中已确认叙事 0 个。
+- Anthropic Engineers Allegedly Worship Claude 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- NTDA 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Discussion on bBALL Trading Strategy | 质量 83.20 | 可交易性 97.54 | 风险 低
-- 股球 | 质量 82.98 | 可交易性 100.00 | 风险 低
-- He Yi Manifests | 质量 80.53 | 可交易性 100.00 | 风险 低
-- bBALL | 质量 77.20 | 可交易性 100.00 | 风险 低
-- CZ's BNB Chain Genius | 质量 76.59 | 可交易性 100.00 | 风险 低
-- Alleged GITCAT Meme Token Proposal | 质量 74.86 | 可交易性 89.72 | 风险 低
-- 神股 | 质量 73.93 | 可交易性 100.00 | 风险 低
-- HABIBICAT | 质量 73.33 | 可交易性 100.00 | 风险 低
-- Binance Conviction | 质量 72.09 | 可交易性 82.20 | 风险 低
-- DogeOS Posts Meme Image | 质量 72.04 | 可交易性 100.00 | 风险 低
+- Discussion on bBALL Trading Strategy | 质量 83.21 | 可交易性 97.54 | 风险 低
+- 股球 | 质量 82.16 | 可交易性 97.78 | 风险 低
+- He Yi Manifests | 质量 80.50 | 可交易性 100.00 | 风险 低
+- bBALL | 质量 77.21 | 可交易性 100.00 | 风险 低
+- CZ's BNB Chain Genius | 质量 76.62 | 可交易性 100.00 | 风险 低
+- NTDA | 质量 75.06 | 可交易性 100.00 | 风险 低
+- DogeOS Posts Meme Image | 质量 72.18 | 可交易性 100.00 | 风险 低
+- Binance Conviction | 质量 71.81 | 可交易性 81.11 | 风险 低
+- Alleged Tilcayo New Feline Species | 质量 71.64 | 可交易性 89.07 | 风险 低
+- pogg | 质量 68.20 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- Binance Conviction | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - LORE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - $牛马 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GSTOCK | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- bBALL | BSC | 看多 | 新鲜度 100.00 | 股球
+- bBALL | BSC | 看多 | 新鲜度 100.00 | 股球 / Discussion on bBALL Trading Strategy
 - BNC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- APU | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SDOG | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BRRR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ISTONKS | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - QKEY | BSC | 看多 | 新鲜度 99.55 | 暂无直接叙事映射
 - nub | Solana | 看多 | 新鲜度 96.50 | 暂无直接叙事映射
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：He Yi Manifests（BSC，分数 88.64）
-2. 共振最强代币：RAY（Solana，共振 100.0）
-3. 记忆层变化：He Yi Manifests 当前为“强化”
+1. 当前最强叙事：NTDA（Solana，分数 85.66）
+2. 共振最强代币：STONK（Solana，共振 100.0）
+3. 记忆层变化：NTDA 当前为“新出现”
 4. 最新官方催化：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC
 #Binance #NarrativeOS #OpenClaw
