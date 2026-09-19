@@ -1,102 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-19T19:23:54.971901+00:00
+- 生成时间：2026-09-19T21:30:37.643038+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Superior Pepe，所在链为 Solana，叙事强度 85.18。
-- 当前平均叙事强度为 81.29，其中已确认叙事 0 个。
+- 当前最强叙事是 Stonk Comments on Solana，所在链为 Solana，叙事强度 87.14。
+- 当前平均叙事强度为 81.47，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Superior Pepe 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged DoubleT Token Launch，伪叙事风险 51.82。
+- 记忆层显示 Tokenspump Launches AI Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Butterfly Star Community Initiative，伪叙事风险 45.02。
 - 最新官方催化来自 最新活动：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC。
 
 ## 叙事雷达
 
-- Superior Pepe | Solana | 降温中 | 强度 85.18 | 质量 76.08
-  - 主题摘要：Multiple tokens named 「SPEPE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.72 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Stonk Comments on Solana | Solana | 降温中 | 强度 85.07 | 质量 77.71
+- Stonk Comments on Solana | Solana | 降温中 | 强度 87.14 | 质量 78.29
   - 主题摘要：According to Stonk's post, the user expressed positive sentiment towards the Solana network, stating that 'Solana feels good man' in a reply to news regarding PEPE's launch on Sol…
-  - 资金 100.00 / 广度 92.17 / 确认 9.36 / 脆弱性 28.27
+  - 资金 100.00 / 广度 94.09 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Fartcat Meme Image Release | Solana | 降温中 | 强度 82.86 | 质量 72.75
-  - 主题摘要：According to Boltricks Development's post, the account shared a Meme image titled 'IRL fartcat' featuring a cat with its own chamber, which reportedly garnered 16k views. This con…
-  - 资金 100.00 / 广度 75.64 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Discusses On-Chain Digital Life on BNB Chain | BSC | 降温中 | 强度 82.14 | 质量 76.13
-  - 主题摘要：CZ commented on a proposal to create 'immortal fruit flies' on BNB Chain, suggesting the network's speed and low cost could support on-chain neural dynamics and digital immortalit…
-  - 资金 100.00 / 广度 85.33 / 确认 11.52 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蝴蝶c总 | BSC | 降温中 | 强度 81.66 | 质量 71.62
-  - 主题摘要：Multiple tokens named 「蝴蝶c总」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.87 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- chiefofautism Comments on Startup Naming | BSC | 加速中 | 强度 81.62 | 质量 80.51
+- Tokenspump Launches AI Token | Solana | 已确认 | 强度 85.74 | 质量 77.30
+  - 主题摘要：According to tokenspump's post, the project launches a token allowing holders to access over 442 AI models, including Claude and GPT, without subscription fees. The platform offer…
+  - 资金 100.00 / 广度 77.06 / 确认 28.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- chiefofautism Comments on Startup Naming | BSC | 加速中 | 强度 84.65 | 质量 81.25
   - 主题摘要：Multiple tokens named 「SI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.95 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 93.41 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Tipped Cat Meme Image Release | Solana | 降温中 | 强度 80.54 | 质量 68.82
-  - 主题摘要：According to PnTradez's post, the Tipped tipping feature reached 1 million, prompting the suggestion to launch a Tipped Cat Meme image. This information is unverified. Please exer…
-  - 资金 100.00 / 广度 84.52 / 确认 9.36 / 脆弱性 14.00
+- BIGG | Solana | 降温中 | 强度 83.22 | 质量 72.27
+  - 主题摘要：Multiple tokens named 「BIGG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.04 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Butterfly Star Community Initiative | BSC | 降温中 | 强度 79.48 | 质量 69.64
-  - 主题摘要：According to 蝴蝶之星🦋Flap's post, the author claims to be launching a new Meme coin named 'Butterfly Star' (蝴蝶之星). The post emphasizes community building and consensus as the core of…
-  - 资金 100.00 / 广度 80.13 / 确认 4.32 / 脆弱性 14.00
+- 蝴蝶c总 | BSC | 降温中 | 强度 82.01 | 质量 71.65
+  - 主题摘要：Multiple tokens named 「蝴蝶c总」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.97 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Solana Supercycle | BSC | 加速中 | 强度 79.42 | 质量 74.50
+- CZ Discusses On-Chain Digital Life on BNB Chain | BSC | 降温中 | 强度 81.97 | 质量 76.16
+  - 主题摘要：CZ commented on a proposal to create 'immortal fruit flies' on BNB Chain, suggesting the network's speed and low cost could support on-chain neural dynamics and digital immortalit…
+  - 资金 100.00 / 广度 85.42 / 确认 11.52 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Solana Supercycle | BSC | 加速中 | 强度 80.41 | 质量 71.61
   - 主题摘要：According to Luminaries 🐂🀄️'s post, the author declares that the 'Solana Supercycle' has begun. This statement reflects a bullish market sentiment regarding the Solana blockchain…
-  - 资金 100.00 / 广度 86.56 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 88.49 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Tiktok Deployer on Credit Cat | Solana | 加速中 | 强度 77.69 | 质量 70.23
-  - 主题摘要：According to Tiktok Deployer's post, the Credit Cat token reached a market capitalization of 228k with a Psyop pairing. The author asserts that the token can now be properly trade…
-  - 资金 100.00 / 广度 84.31 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump AI Czar Term | BSC | 加速中 | 强度 77.44 | 质量 71.16
+- Trump AI Czar Term | BSC | 加速中 | 强度 79.55 | 质量 71.84
   - 主题摘要：According to Trencher Bill's post, a new term for 'Quant and High IQ individuals' is being associated with Trump, potentially referring to the 'AI Czar' role. This suggests a disc…
-  - 资金 100.00 / 广度 78.98 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.07 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged DoubleT Token Launch | Solana | 点火期 | 强度 76.39 | 质量 75.09
-  - 主题摘要：According to AJ's post, a news article about a two-headed turtle was shared alongside a call to send a meme. The post references the token DoubleT (Turtle Turtle). This informatio…
-  - 资金 100.00 / 广度 90.63 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Binance Mid-Autumn C2C Giveaway | BSC | 点火期 | 强度 75.12 | 质量 69.94
+- Binance Mid-Autumn C2C Giveaway | BSC | 降温中 | 强度 79.44 | 质量 70.62
   - 主题摘要：Binance Chinese announced a Mid-Autumn Festival promotion where users can win prizes such as iPhones and DJI cameras by completing C2C buy tasks. The campaign aims to engage users…
-  - 资金 100.00 / 广度 66.26 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 蝴蝶之王 | BSC | 降温中 | 强度 74.75 | 质量 61.14
+  - 资金 100.00 / 广度 68.53 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Justine Moore Comments on OpenAI Agent Meme | Solana | 降温中 | 强度 78.22 | 质量 64.60
+  - 主题摘要：According to Justine Moore's post, an AI agent created a meme image. This comment was posted in response to OpenAI's announcement of a new framework for tracking and disclosing mo…
+  - 资金 100.00 / 广度 77.80 / 确认 12.24 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Beastcoin Meme | Solana | 降温中 | 强度 77.46 | 质量 63.42
+  - 主题摘要：According to Nikolai's post, he shared a Meme image discussing a token named Beastcoin, claiming all fees would go to MrBeast via UsePaid. Nikolai suggested that while similar tok…
+  - 资金 100.00 / 广度 75.96 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Jean Phil | Solana | 加速中 | 强度 77.04 | 质量 66.29
+  - 主题摘要：According to megger's post, the user inquired about the contract address for the JEANPHIL token, implying the potential launch or distribution of this asset. This information is u…
+  - 资金 100.00 / 广度 81.99 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Butterfly Star Community Initiative | BSC | 降温中 | 强度 75.54 | 质量 69.35
+  - 主题摘要：According to 蝴蝶之星🦋Flap's post, the author claims to be launching a new Meme coin named 'Butterfly Star' (蝴蝶之星). The post emphasizes community building and consensus as the core of…
+  - 资金 100.00 / 广度 80.20 / 确认 4.32 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 蝴蝶之王 | BSC | 降温中 | 强度 74.13 | 质量 61.30
   - 主题摘要：Multiple tokens named 「蝴蝶之王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.83 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.91 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.29，其中已确认叙事 0 个。
-- chiefofautism Comments on Startup Naming 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Superior Pepe 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.47，其中已确认叙事 1 个。
+- Tokenspump Launches AI Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Stonk Comments on Solana 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- chiefofautism Comments on Startup Naming | 质量 80.51 | 可交易性 100.00 | 风险 低
-- Stonk Comments on Solana | 质量 77.71 | 可交易性 100.00 | 风险 低
-- CZ Discusses On-Chain Digital Life on BNB Chain | 质量 76.13 | 可交易性 100.00 | 风险 低
-- Superior Pepe | 质量 76.08 | 可交易性 100.00 | 风险 低
-- Alleged DoubleT Token Launch | 质量 75.09 | 可交易性 100.00 | 风险 低
-- Solana Supercycle | 质量 74.50 | 可交易性 98.34 | 风险 低
-- Alleged Fartcat Meme Image Release | 质量 72.75 | 可交易性 100.00 | 风险 低
-- 蝴蝶c总 | 质量 71.62 | 可交易性 100.00 | 风险 低
-- Trump AI Czar Term | 质量 71.16 | 可交易性 80.79 | 风险 低
-- Tiktok Deployer on Credit Cat | 质量 70.23 | 可交易性 71.84 | 风险 低
+- chiefofautism Comments on Startup Naming | 质量 81.25 | 可交易性 100.00 | 风险 低
+- Stonk Comments on Solana | 质量 78.29 | 可交易性 100.00 | 风险 低
+- Tokenspump Launches AI Token | 质量 77.30 | 可交易性 100.00 | 风险 低
+- CZ Discusses On-Chain Digital Life on BNB Chain | 质量 76.16 | 可交易性 100.00 | 风险 低
+- BIGG | 质量 72.27 | 可交易性 100.00 | 风险 低
+- Trump AI Czar Term | 质量 71.84 | 可交易性 82.97 | 风险 低
+- 蝴蝶c总 | 质量 71.65 | 可交易性 100.00 | 风险 低
+- Solana Supercycle | 质量 71.61 | 可交易性 100.00 | 风险 低
+- Binance Mid-Autumn C2C Giveaway | 质量 70.62 | 可交易性 100.00 | 风险 低
+- Butterfly Star Community Initiative | 质量 69.35 | 可交易性 87.81 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged DoubleT Token Launch | 风险 51.82 | 原因：流动性偏薄
-- Binance Mid-Autumn C2C Giveaway | 风险 47.79 | 原因：流动性偏薄
-- Stonk Comments on Solana | 风险 43.21 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Butterfly Star Community Initiative | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -106,10 +104,10 @@
 - UrAnus | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - STOCKCHAD | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LORE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- UMADBRO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Aiden | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - VRCAT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - INURANUS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PAID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -135,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Superior Pepe（Solana，分数 85.18）
+1. 当前最强叙事：Stonk Comments on Solana（Solana，分数 87.14）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Superior Pepe 当前为“新出现”
+3. 记忆层变化：Tokenspump Launches AI Token 当前为“新出现”
 4. 最新官方催化：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC
 #Binance #NarrativeOS #OpenClaw
