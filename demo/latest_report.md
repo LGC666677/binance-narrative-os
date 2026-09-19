@@ -1,103 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-19T14:38:21.905965+00:00
+- 生成时间：2026-09-19T17:25:17.136759+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 World Strategic Oil Supply，所在链为 Solana，叙事强度 87.8。
-- 当前平均叙事强度为 82.3，其中已确认叙事 0 个。
+- 当前最强叙事是 Tipped Launches TikTok-Crypto Tipping Tool，所在链为 Solana，叙事强度 86.5。
+- 当前平均叙事强度为 82.82，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 World Strategic Oil Supply 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 NVIDIA，伪叙事风险 50.72。
+- 记忆层显示 Tipped Launches TikTok-Crypto Tipping Tool 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Major League Baseball，伪叙事风险 50.63。
 - 最新官方催化来自 最新活动：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC。
 
 ## 叙事雷达
 
-- World Strategic Oil Supply | Solana | 降温中 | 强度 87.80 | 质量 78.47
+- Tipped Launches TikTok-Crypto Tipping Tool | Solana | 加速中 | 强度 86.50 | 质量 77.78
+  - 主题摘要：According to Tipped's post, the entity has introduced a new tool designed to bridge memecoins and TikTok. This system allows users to pair Pump.fun tokens with TikTok creators, au…
+  - 资金 100.00 / 广度 85.54 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- World Strategic Oil Supply | Solana | 降温中 | 强度 86.36 | 质量 76.15
   - 主题摘要：Multiple tokens named 「WSOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 98.40 / 确认 4.32 / 脆弱性 0.00
+  - 资金 100.00 / 广度 90.66 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NVIDIA | Solana | 降温中 | 强度 83.38 | 质量 77.13
-  - 主题摘要：Multiple tokens named 「NVIDIA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 87.32 / 广度 93.92 / 确认 4.32 / 脆弱性 14.00
+- Stonk Comments on Solana | Solana | 降温中 | 强度 85.05 | 质量 75.13
+  - 主题摘要：According to Stonk's post, the user expressed positive sentiment towards the Solana network, stating that 'Solana feels good man' in a reply to news regarding PEPE's launch on Sol…
+  - 资金 100.00 / 广度 86.74 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Mochi Meme Image | Solana | 降温中 | 强度 82.95 | 质量 72.80
-  - 主题摘要：According to Yatogami's post, a tuxedo cat named Mochi from Japan is gaining viral attention due to its perfectly symmetrical face. Yatogami suggests this may become the next majo…
-  - 资金 100.00 / 广度 77.13 / 确认 9.36 / 脆弱性 14.00
+- Jeffery Devstein AI Token Claim | Solana | 降温中 | 强度 83.07 | 质量 73.83
+  - 主题摘要：According to Jeffery Devstein's post, he announced a pairing initiative targeting all AI companies on the OTC (Over-The-Counter) market. The statement suggests a strategic move to…
+  - 资金 100.00 / 广度 86.11 / 确认 0.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- OpenAI | Solana | 降温中 | 强度 82.72 | 质量 72.04
-  - 主题摘要：OpenAI token draws inspiration from the AI research organization founded by Elon Musk, Sam Altman, and others. The logo features a stylized 'A' intertwined with a neural network d…
-  - 资金 100.00 / 广度 77.15 / 确认 9.36 / 脆弱性 14.00
+- Trump Allegedly Launches Superior Inu | Solana | 降温中 | 强度 83.00 | 质量 69.73
+  - 主题摘要：According to Riches 🇸🇴's post, Donald Trump allegedly launched a new token named Superior Inu, citing a Truth Social post. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 68.74 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Pokemon Token Fees | Solana | 降温中 | 强度 82.33 | 质量 72.32
-  - 主题摘要：According to Charr's post, the author questions whether a cryptocurrency token associated with Pokémon can be used to send fees to the official Pokémon account via the UsePaid pla…
-  - 资金 100.00 / 广度 77.91 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- World Wrestling Entertainment | Solana | 降温中 | 强度 81.29 | 质量 69.96
-  - 主题摘要：Multiple tokens named 「WWE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.04 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Discusses On-Chain Digital Life on BNB Chain | BSC | 降温中 | 强度 80.27 | 质量 75.95
+- CZ Discusses On-Chain Digital Life on BNB Chain | BSC | 降温中 | 强度 82.88 | 质量 76.09
   - 主题摘要：CZ commented on a proposal to create 'immortal fruit flies' on BNB Chain, suggesting the network's speed and low cost could support on-chain neural dynamics and digital immortalit…
-  - 资金 100.00 / 广度 84.71 / 确认 11.52 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.19 / 确认 11.52 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk: X Platform Hits Record Usage | Solana | 降温中 | 强度 79.21 | 质量 69.12
-  - 主题摘要：Elon Musk responds to critics by highlighting that X (formerly Twitter) is experiencing all-time record usage, countering earlier predictions of the platform's collapse after his…
-  - 资金 100.00 / 广度 86.11 / 确认 4.32 / 脆弱性 24.00
+- Major League Baseball | Solana | 降温中 | 强度 81.33 | 质量 74.43
+  - 主题摘要：Multiple tokens named 「MLB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.25 / 确认 9.36 / 脆弱性 42.53
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Mochi Meme Image Spread | Solana | 降温中 | 强度 78.75 | 质量 69.51
-  - 主题摘要：According to mintAether's post, a viral Meme image featuring a cat in a specific posture is gaining traction, with over 2.3 million views in 24 hours. mintAether describes the con…
-  - 资金 100.00 / 广度 68.53 / 确认 4.32 / 脆弱性 14.00
+- Tiktok Deployer on Credit Cat | Solana | 加速中 | 强度 79.00 | 质量 70.40
+  - 主题摘要：According to Tiktok Deployer's post, the Credit Cat token reached a market capitalization of 228k with a Psyop pairing. The author asserts that the token can now be properly trade…
+  - 资金 100.00 / 广度 83.93 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trump's Superior Intelligence | Solana | 降温中 | 强度 78.26 | 质量 64.05
+  - 主题摘要：Donald Trump proposes rebranding Artificial Intelligence as "Superior Intelligence" or "Extreme Intelligence," arguing that "Artificial" is inaccurate and ineloquent. This playful…
+  - 资金 100.00 / 广度 76.77 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon's Uranium Uranus | BSC | 点火期 | 强度 76.57 | 质量 74.92
-  - 主题摘要：Elon Musk announced that the next merchandise from The Boring Company will feature the phrase 'Uranium in Uranus,' creating an immediate double entendre. This playful pun combines…
-  - 资金 100.00 / 广度 91.43 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Alleged Binance New Product | BSC | 点火期 | 强度 75.12 | 质量 72.55
-  - 主题摘要：According to 雷霆嘎巴's post, the user questions whether the token BEFORE is a new product of Binance Wallet with FOMO-like features, referencing a quoted tweet about a new chapter. T…
-  - 资金 100.00 / 广度 77.87 / 确认 15.12 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Binance Angel Token Mechanism | BSC | 加速中 | 强度 74.30 | 质量 58.63
+- DAN KOE Publishes New Article | BSC | 加速中 | 强度 77.46 | 质量 70.68
+  - 主题摘要：According to DAN KOE's post, the author published a new article on X. The content focuses on personal development and lifestyle changes, referencing tokens such as LIFE and NEWLIF…
+  - 资金 100.00 / 广度 64.14 / 确认 23.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trump AI Czar Term | BSC | 加速中 | 强度 77.02 | 质量 70.90
+  - 主题摘要：According to Trencher Bill's post, a new term for 'Quant and High IQ individuals' is being associated with Trump, potentially referring to the 'AI Czar' role. This suggests a disc…
+  - 资金 100.00 / 广度 77.18 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Butterfly Star Community Initiative | BSC | 降温中 | 强度 76.04 | 质量 68.90
+  - 主题摘要：According to 蝴蝶之星🦋Flap's post, the author claims to be launching a new Meme coin named 'Butterfly Star' (蝴蝶之星). The post emphasizes community building and consensus as the core of…
+  - 资金 100.00 / 广度 79.23 / 确认 4.32 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Binance Angel Token Mechanism | BSC | 加速中 | 强度 74.99 | 质量 61.08
   - 主题摘要：According to 币安天使's post, the Binance Angel token implements a unique airdrop protocol where 50% of transaction taxes are airdropped to real wallet addresses that have incurred lo…
-  - 资金 100.00 / 广度 69.75 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.62 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 蝴蝶之王 | BSC | 降温中 | 强度 70.52 | 质量 56.03
-  - 主题摘要：Multiple tokens named 「蝴蝶之王」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.78 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Wanwan Sui Questions CZ's Avatar | BSC | 加速中 | 强度 69.87 | 质量 65.82
-  - 主题摘要：According to 万万岁's post, the user questions Binance founder CZ regarding his Alipay avatar, specifically asking why he uses a desktop image as his profile picture.
-  - 资金 100.00 / 广度 78.42 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Truman World AI Simulation | BSC | 点火期 | 强度 73.78 | 质量 69.36
+  - 主题摘要：According to Will (Exploring AI)'s post, the author introduces Truman World, an AI-generated persistent simulation powered by GPT-6 Astra and MiniMax H3 Max. The project features…
+  - 资金 100.00 / 广度 72.88 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.3，其中已确认叙事 0 个。
-- Elon's Uranium Uranus 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.82，其中已确认叙事 0 个。
+- Tipped Launches TikTok-Crypto Tipping Tool 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - World Strategic Oil Supply 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- World Strategic Oil Supply | 质量 78.47 | 可交易性 100.00 | 风险 低
-- NVIDIA | 质量 77.13 | 可交易性 100.00 | 风险 低
-- CZ Discusses On-Chain Digital Life on BNB Chain | 质量 75.95 | 可交易性 100.00 | 风险 低
-- Elon's Uranium Uranus | 质量 74.92 | 可交易性 100.00 | 风险 低
-- Alleged Mochi Meme Image | 质量 72.80 | 可交易性 98.67 | 风险 低
-- Uncertain:Alleged Binance New Product | 质量 72.55 | 可交易性 92.86 | 风险 低
-- Alleged Pokemon Token Fees | 质量 72.32 | 可交易性 100.00 | 风险 低
-- OpenAI | 质量 72.04 | 可交易性 100.00 | 风险 低
-- World Wrestling Entertainment | 质量 69.96 | 可交易性 100.00 | 风险 低
-- Alleged Mochi Meme Image Spread | 质量 69.51 | 可交易性 100.00 | 风险 低
+- Tipped Launches TikTok-Crypto Tipping Tool | 质量 77.78 | 可交易性 95.77 | 风险 低
+- World Strategic Oil Supply | 质量 76.15 | 可交易性 100.00 | 风险 低
+- CZ Discusses On-Chain Digital Life on BNB Chain | 质量 76.09 | 可交易性 100.00 | 风险 低
+- Stonk Comments on Solana | 质量 75.13 | 可交易性 100.00 | 风险 低
+- Major League Baseball | 质量 74.43 | 可交易性 100.00 | 风险 低
+- Jeffery Devstein AI Token Claim | 质量 73.83 | 可交易性 100.00 | 风险 低
+- Trump AI Czar Term | 质量 70.90 | 可交易性 79.09 | 风险 低
+- DAN KOE Publishes New Article | 质量 70.68 | 可交易性 94.56 | 风险 低
+- Tiktok Deployer on Credit Cat | 质量 70.40 | 可交易性 72.79 | 风险 低
+- Trump Allegedly Launches Superior Inu | 质量 69.73 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- NVIDIA | 风险 50.72 | 原因：流动性偏薄
-- Uncertain:Alleged Binance New Product | 风险 48.38 | 原因：流动性偏薄、近 1 小时净流入转负
-- Elon Musk: X Platform Hits Record Usage | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
-- Elon's Uranium Uranus | 风险 44.91 | 原因：流动性偏薄
+- Major League Baseball | 风险 50.63 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Alleged Truman World AI Simulation | 风险 47.79 | 原因：流动性偏薄
+- Butterfly Star Community Initiative | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
+- Jeffery Devstein AI Token Claim | 风险 43.28 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -107,10 +107,10 @@
 - UrAnus | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - STOCKCHAD | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LORE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Aiden | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- VRCAT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - INURANUS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PAID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- FLEX | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Pigeon | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：World Strategic Oil Supply（Solana，分数 87.8）
+1. 当前最强叙事：Tipped Launches TikTok-Crypto Tipping Tool（Solana，分数 86.5）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：World Strategic Oil Supply 当前为“新出现”
+3. 记忆层变化：Tipped Launches TikTok-Crypto Tipping Tool 当前为“新出现”
 4. 最新官方催化：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC
 #Binance #NarrativeOS #OpenClaw
