@@ -1,115 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-19T06:36:55.159510+00:00
+- 生成时间：2026-09-19T11:29:48.353351+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 RICH OFF GTA 6，所在链为 Solana，叙事强度 84.08。
-- 当前平均叙事强度为 78.87，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 RICH OFF GTA 6 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 MORAY，伪叙事风险 52.99。
+- 当前最强叙事是 Pump.fun Awards $10M，所在链为 Solana，叙事强度 85.36。
+- 当前平均叙事强度为 79.74，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 PEPE，来自 BSC，共振分数 100.0。
+- 记忆层显示 Pump.fun Awards $10M 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Elon's Roadster Circle，伪叙事风险 62.83。
 - 最新官方催化来自 最新活动：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC。
 
 ## 叙事雷达
 
-- RICH OFF GTA 6 | Solana | 降温中 | 强度 84.08 | 质量 74.42
-  - 主题摘要：Multiple tokens named 「RICH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.21 / 确认 9.36 / 脆弱性 14.00
+- Pump.fun Awards $10M | Solana | 降温中 | 强度 85.36 | 质量 76.11
+  - 主题摘要：According to Pump.fun's post, the platform has awarded $10,000,000 to callers on the Pumpfun app over the past month. The post highlights that users ranging from small traders to…
+  - 资金 100.00 / 广度 81.52 / 确认 16.60 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon's Roadster Circle | Solana | 降温中 | 强度 83.92 | 质量 77.99
-  - 主题摘要：Elon Musk confirmed his Tesla Roadster reservation by liking a tweet detailing his $50k deposit. The meme humorously frames this payment as part of the 'circle of life,' mocking t…
-  - 资金 100.00 / 广度 93.09 / 确认 9.36 / 脆弱性 14.00
+- Raydium Tokenized Stocks on Solana | Solana | 降温中 | 强度 85.17 | 质量 75.72
+  - 主题摘要：Solana官方转发Raydium推文，庆祝其在Solana链上代币化股票交易量突破50亿美元，确立其链上AMM龙头地位。
+  - 资金 100.00 / 广度 85.53 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CASH OUT | Solana | 降温中 | 强度 81.62 | 质量 72.97
+- FTFS | Solana | 降温中 | 强度 83.96 | 质量 71.60
+  - 主题摘要：Multiple tokens named 「FTFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.79 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Tigerreep | Solana | 降温中 | 强度 79.45 | 质量 70.36
+  - 主题摘要：Multiple tokens named 「Tigerreep」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 63.46 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CASH OUT | Solana | 降温中 | 强度 77.85 | 质量 68.51
   - 主题摘要：According to developer's post, a YouTube creator named Cash, who owns a Shiba Inu, is consistently creating memes featuring his dog. The post suggests this content is prone to goi…
-  - 资金 100.00 / 广度 76.87 / 确认 8.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.56 / 确认 13.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蒂尔卡约虎猫 | BSC | 加速中 | 强度 81.34 | 质量 75.81
+- 蒂尔卡约虎猫 | BSC | 加速中 | 强度 77.64 | 质量 76.05
   - 主题摘要：Multiple tokens named 「虎猫」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.76 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.54 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of Niududu Meme Image | BSC | 加速中 | 强度 77.81 | 质量 63.97
-  - 主题摘要：According to Mack's post, a Meme image combining KFC and the 'Bull' character is discussed, referencing the token 'Niu Dudu'. Mack comments on the narrative potential, noting KFC'…
-  - 资金 100.00 / 广度 83.47 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- USWS | Solana | 降温中 | 强度 76.57 | 质量 65.28
-  - 主题摘要：Multiple tokens named 「USWS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 50.72 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Tilcayo New Feline Species | BSC | 加速中 | 强度 75.75 | 质量 66.05
-  - 主题摘要：According to AB Kuai.Dong's post, the Tilcayo, a new feline species discovered after over a century, weighs only 1.4 kg. Despite its small size, it can hunt chickens. The post hig…
-  - 资金 100.00 / 广度 75.71 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- JMemeGroup Publishes Article on On-Chain Meme Entering Stock Market | BSC | 点火期 | 强度 75.70 | 质量 71.08
-  - 主题摘要：According to JMemeGroup's post, the account published an article exploring the concept of an on-chain meme entering the stock market. The content discusses the potential intersect…
-  - 资金 100.00 / 广度 70.06 / 确认 9.36 / 脆弱性 14.00
+- Elon's Roadster Circle | Solana | 点火期 | 强度 77.25 | 质量 79.38
+  - 主题摘要：Elon Musk confirmed his Tesla Roadster reservation by liking a tweet detailing his $50k deposit. The meme humorously frames this payment as part of the 'circle of life,' mocking t…
+  - 资金 100.00 / 广度 97.76 / 确认 9.36 / 脆弱性 42.91
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Discussion on bBALL Trading Strategy | BSC | 加速中 | 强度 75.52 | 质量 78.49
-  - 主题摘要：According to 我肯定会发财！'s post, the author questions the rationale behind using perpetual contract vaults instead of leveraged stocks for the 'bBALL' (股球) project. The author suggest…
-  - 资金 86.81 / 广度 96.83 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Benz | Solana | 点火期 | 强度 74.41 | 质量 73.03
-  - 主题摘要：Multiple tokens named 「Mercedes」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.30 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- WangChai | BSC | 降温中 | 强度 74.10 | 质量 58.47
-  - 主题摘要：According to MGGA's post, the user claims that the Chinese DOGE, referred to as WangChai, involves dividend distributions. This statement appears to be associated with a Meme imag…
-  - 资金 100.00 / 广度 77.04 / 确认 9.36 / 脆弱性 14.00
+- Elon's Transparency | Solana | 降温中 | 强度 75.83 | 质量 62.32
+  - 主题摘要：Elon Musk replies to a product update with 'Transparency builds trust', reinforcing his brand's focus on openness. This minimalist yet powerful statement resonates with crypto val…
+  - 资金 100.00 / 广度 68.70 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged MEMESTOCKS Token | BSC | 加速中 | 强度 74.07 | 质量 69.44
-  - 主题摘要：According to MYX.Finance's post, the entity expresses anticipation for the 'MEMESTOCKS' token while criticizing others for being unaware. As the content involves the mention of a…
-  - 资金 100.00 / 广度 81.64 / 确认 24.48 / 脆弱性 24.00
+- Golden Monkey ID Card | BSC | 加速中 | 强度 75.07 | 质量 65.10
+  - 主题摘要：According to 斯塔克's post, CCTV reported on a golden monkey that has been issued an official ID card, marking it as the first of its kind to receive such identification.
+  - 资金 100.00 / 广度 72.20 / 确认 18.72 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MORAY | BSC | 点火期 | 强度 72.80 | 质量 66.81
+- 首创双池质押分红1121834632 | BSC | 降温中 | 强度 73.11 | 质量 63.71
+  - 主题摘要：Multiple tokens named 「蝴蝶银行」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 50.33 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Shuidichou Founder Responds to Fundraising Controversy | BSC | 加速中 | 强度 73.09 | 质量 63.87
+  - 主题摘要：According to Gutierrez's post, the founder of Shuidichou responded to a crypto KOL, stating he could help initiate fundraising if there is a significant shortfall. The post sugges…
+  - 资金 100.00 / 广度 80.85 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of Annoyed Cat Meme Image | Solana | 降温中 | 强度 73.08 | 质量 59.12
+  - 主题摘要：According to salmononigiri's post, a viral Meme image of an annoyed cat is trending on X and TikTok. The image depicts a Turkish cat expressing frustration as tourists refuse to s…
+  - 资金 100.00 / 广度 75.62 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- GrainFi | BSC | 降温中 | 强度 71.60 | 质量 62.17
+  - 主题摘要：Multiple tokens named 「GrainFi」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.11 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- MORAY | BSC | 点火期 | 强度 71.10 | 质量 68.03
   - 主题摘要：Multiple tokens named 「MORAY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.14 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 72.92 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- OpenAI | Solana | 降温中 | 强度 72.62 | 质量 60.54
-  - 主题摘要：OpenAI token draws inspiration from the AI research organization founded by Elon Musk, Sam Altman, and others. The logo features a stylized 'A' intertwined with a neural network d…
-  - 资金 100.00 / 广度 41.75 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.87，其中已确认叙事 0 个。
-- Alleged Launch of Niududu Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- RICH OFF GTA 6 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.74，其中已确认叙事 0 个。
+- Golden Monkey ID Card 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Pump.fun Awards $10M 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Discussion on bBALL Trading Strategy | 质量 78.49 | 可交易性 92.38 | 风险 低
-- Elon's Roadster Circle | 质量 77.99 | 可交易性 100.00 | 风险 低
-- 蒂尔卡约虎猫 | 质量 75.81 | 可交易性 100.00 | 风险 低
-- RICH OFF GTA 6 | 质量 74.42 | 可交易性 100.00 | 风险 低
-- Benz | 质量 73.03 | 可交易性 100.00 | 风险 低
-- CASH OUT | 质量 72.97 | 可交易性 100.00 | 风险 低
-- JMemeGroup Publishes Article on On-Chain Meme Entering Stock Market | 质量 71.08 | 可交易性 100.00 | 风险 低
-- Alleged MEMESTOCKS Token | 质量 69.44 | 可交易性 71.89 | 风险 低
-- MORAY | 质量 66.81 | 可交易性 100.00 | 风险 低
-- Alleged Tilcayo New Feline Species | 质量 66.05 | 可交易性 66.49 | 风险 低
+- Elon's Roadster Circle | 质量 79.38 | 可交易性 99.99 | 风险 低
+- Pump.fun Awards $10M | 质量 76.11 | 可交易性 100.00 | 风险 低
+- 蒂尔卡约虎猫 | 质量 76.05 | 可交易性 100.00 | 风险 低
+- Raydium Tokenized Stocks on Solana | 质量 75.72 | 可交易性 100.00 | 风险 低
+- FTFS | 质量 71.60 | 可交易性 100.00 | 风险 低
+- Tigerreep | 质量 70.36 | 可交易性 100.00 | 风险 低
+- CASH OUT | 质量 68.51 | 可交易性 100.00 | 风险 低
+- MORAY | 质量 68.03 | 可交易性 100.00 | 风险 低
+- Golden Monkey ID Card | 质量 65.10 | 可交易性 71.06 | 风险 低
+- Shuidichou Founder Responds to Fundraising Controversy | 质量 63.87 | 可交易性 51.46 | 风险 低
 
 ## 伪叙事风险
 
+- Elon's Roadster Circle | 风险 62.83 | 原因：流动性偏薄、龙头筹码集中度偏高
 - MORAY | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- JMemeGroup Publishes Article on On-Chain Meme Entering Stock Market | 风险 47.79 | 原因：流动性偏薄
-- Benz | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
+- TVS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Cookie | BSC | 看多 | 新鲜度 100.00 | Shuidichou Founder Responds to Fundraising Controversy
 - STOCKCHAD | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LORE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - $牛马 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- GSTOCK | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- bBALL | BSC | 看多 | 新鲜度 100.00 | Discussion on bBALL Trading Strategy
+- PAID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FLEX | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Pigeon | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BIDDY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CROSSR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- APU | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -135,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：RICH OFF GTA 6（Solana，分数 84.08）
-2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：RICH OFF GTA 6 当前为“新出现”
+1. 当前最强叙事：Pump.fun Awards $10M（Solana，分数 85.36）
+2. 共振最强代币：PEPE（BSC，共振 100.0）
+3. 记忆层变化：Pump.fun Awards $10M 当前为“新出现”
 4. 最新官方催化：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC
 #Binance #NarrativeOS #OpenClaw
