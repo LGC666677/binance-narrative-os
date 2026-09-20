@@ -1,105 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-20T21:49:52.889860+00:00
+- 生成时间：2026-09-20T23:37:17.935803+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance Mid-Autumn Merch Preview，所在链为 BSC，叙事强度 88.47。
-- 当前平均叙事强度为 78.59，其中已确认叙事 1 个。
+- 当前最强叙事是 inusanity，所在链为 Solana，叙事强度 89.38。
+- 当前平均叙事强度为 81.63，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 GSTOCK，来自 BSC，共振分数 100.0。
-- 记忆层显示 Coca-Cola 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Zcash Token Launch via Inscriptions，伪叙事风险 52.99。
+- 记忆层显示 inusanity 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC。
 
 ## 叙事雷达
 
-- Binance Mid-Autumn Merch Preview | BSC | 降温中 | 强度 88.47 | 质量 80.10
-  - 主题摘要：Binance Chinese announced a preview of its Mid-Autumn Festival merchandise, inviting followers to comment for a chance to win a prize.
-  - 资金 100.00 / 广度 94.85 / 确认 16.56 / 脆弱性 14.00
+- inusanity | Solana | 加速中 | 强度 89.38 | 质量 83.09
+  - 主题摘要：Multiple tokens named 「INU」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 96.91 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Pepe Meme Coin Launch | Solana | 加速中 | 强度 84.91 | 质量 74.84
+  - 主题摘要：According to d's post, the official Pepe website allegedly launched a new token paired with PEPE on Stonk. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 83.39 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ Solicits Mid-Autumn Meme Images | BSC | 降温中 | 强度 82.82 | 质量 71.98
+  - 主题摘要：CZ posted on social media wishing everyone a Happy Mid-Autumn Festival and soliciting the most creative Mid-Autumn Meme images from his followers.
+  - 资金 100.00 / 广度 88.68 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Coca-Cola | Solana | 降温中 | 强度 83.66 | 质量 73.27
-  - 主题摘要：Multiple tokens named 「Coca-Cola」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.38 / 确认 9.36 / 脆弱性 14.00
+- Eric Balchunas on Crypto Clarity Act | Solana | 降温中 | 强度 81.59 | 质量 68.77
+  - 主题摘要：According to Eric Balchunas's post, he argues that the crypto industry's efforts on the Clarity Act were undermined by partisan politics and banking industry influence, rather tha…
+  - 资金 100.00 / 广度 84.36 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- KIBA INU | Solana | 降温中 | 强度 83.19 | 质量 71.06
-  - 主题摘要：Multiple tokens named 「KIBA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.99 / 确认 9.36 / 脆弱性 1.71
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk's Future | BSC | 已确认 | 强度 82.63 | 质量 81.87
+- Elon Musk's Future | BSC | 已确认 | 强度 81.57 | 质量 81.88
   - 主题摘要：Elon Musk posts a visionary statement about bringing the future into being, sparking speculation about his next major project or technological breakthrough. The ambiguity and his…
-  - 资金 100.00 / 广度 89.66 / 确认 31.68 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.70 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Allison Mentions Chang'e | BSC | 加速中 | 强度 77.76 | 质量 69.37
-  - 主题摘要：According to 饼哥's post, CZ's Mid-Autumn Festival Meme image features Yi He as Chang'e and CZ as Peng Lai. The post interprets this as CZ seeking a companion, likening Yi He to Cha…
-  - 资金 100.00 / 广度 77.84 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Niu Dali Meme Image Release | BSC | 点火期 | 强度 77.56 | 质量 73.85
+- STAMP CAT | Solana | 降温中 | 强度 80.66 | 质量 74.40
+  - 主题摘要：STAMP CAT is a meme coin inspired by the iconic Stamps NFT collection. The logo features a pixelated cat design reminiscent of vintage postage stamps, blending internet culture wi…
+  - 资金 100.00 / 广度 78.49 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Niu Dali Meme Image Release | BSC | 降温中 | 强度 80.56 | 质量 74.22
   - 主题摘要：According to 咕噜🔶BNB's post, the user shared an AIGC animation titled 'Niu Dali's Mischievous Adventures' and suggested using 'Niu Dali' as a liquidity pool base, implying the crea…
-  - 资金 100.00 / 广度 82.29 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Pepe Phil | Solana | 降温中 | 强度 76.70 | 质量 69.02
-  - 主题摘要：PEPEPHIL combines the iconic Pepe meme with a more sophisticated persona, as seen in its logo featuring a green frog character with human-like features including a mustache and ha…
-  - 资金 92.87 / 广度 73.10 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.40 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Zcash Token Launch via Inscriptions | Solana | 点火期 | 强度 76.62 | 质量 77.44
-  - 主题摘要：According to ZcashShieldedAssets ᙇ🛡's post, the entity launched a token on Zcash using inscriptions as a workaround for pending shielded asset upgrades. The process involves burni…
-  - 资金 93.41 / 广度 92.28 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Yi He Welcomes New Era | BSC | 点火期 | 强度 75.86 | 质量 68.79
-  - 主题摘要：According to Yi He's post, she welcomes a new era and directs attention to a quoted tweet promoting Binance's new service allowing users to trade stocks and ETFs directly, availab…
-  - 资金 100.00 / 广度 73.51 / 确认 9.36 / 脆弱性 10.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Elon Musk: Diablo IV Old Mountain Set | BSC | 点火期 | 强度 75.70 | 质量 73.54
-  - 主题摘要：Elon Musk commented on a gaming bug in Diablo IV, specifically regarding the 'Old Mountain' set, acknowledging that the glitches were inevitable given the game's complexity. This…
-  - 资金 100.00 / 广度 84.89 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 牛来人生 | BSC | 加速中 | 强度 75.65 | 质量 60.62
-  - 主题摘要：Multiple tokens named 「牛来人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.76 / 确认 31.68 / 脆弱性 14.00
+- Official Dumbcoin | Solana | 降温中 | 强度 80.49 | 质量 69.10
+  - 主题摘要：Multiple tokens named 「DUMBCOIN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 63.47 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged 'uni student life' Meme Trend | Solana | 降温中 | 强度 80.06 | 质量 69.47
+  - 主题摘要：According to Instinct 🐂🀄️'s post, the 'uni student life' Meme image has become a viral trend on X, accumulating millions of views. The author notes that the content is being widel…
+  - 资金 100.00 / 广度 62.04 / 确认 13.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Mid-Autumn Festival Event | BSC | 降温中 | 强度 79.63 | 质量 67.92
+  - 主题摘要：Binance Chinese announced a Mid-Autumn Festival promotional campaign featuring a wheel spin and character collection game. Participants can win prizes such as iPhone 18 Duo, lugga…
+  - 资金 100.00 / 广度 84.17 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- House GOP Patriotic Post | Solana | 加速中 | 强度 78.01 | 质量 64.04
+  - 主题摘要：According to House Republicans's post, the account shared a patriotic message emphasizing national unity, faith, and liberty, accompanied by a US flag emoji. The content reflects…
+  - 资金 100.00 / 广度 80.00 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bending Spoons AI Strategy | BSC | 降温中 | 强度 75.09 | 质量 64.34
-  - 主题摘要：According to clem 🤗's post, Bending Spoons self-hosts open-weight models for approximately 99% of AI requests, reserving frontier models for only 1% of complex tasks. This approac…
-  - 资金 100.00 / 广度 67.47 / 确认 9.36 / 脆弱性 24.00
+- Professor Jiang Claims AI Not Real Intelligence | Solana | 加速中 | 强度 77.92 | 质量 63.29
+  - 主题摘要：According to Polymarket's post, Professor Jiang claims that AI is not real intelligence and is instead manipulated by humans somewhere in India. This statement presents a specific…
+  - 资金 100.00 / 广度 78.52 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He Welcomes New Era | BSC | 降温中 | 强度 77.65 | 质量 68.64
+  - 主题摘要：According to Yi He's post, she welcomes a new era and directs attention to a quoted tweet promoting Binance's new service allowing users to trade stocks and ETFs directly, availab…
+  - 资金 100.00 / 广度 73.72 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- worldwar | Solana | 点火期 | 强度 74.45 | 质量 68.82
-  - 主题摘要：Worldwar token draws inspiration from global conflict themes, as reflected in its fiery globe logo. The project aims to create a decentralized ecosystem for digital asset trading…
-  - 资金 100.00 / 广度 62.55 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Pump.fun Launches Jean Phil Custom Pairs | Solana | 降温中 | 强度 73.94 | 质量 61.48
-  - 主题摘要：According to Pump.fun's post, the platform has launched new custom trading pairs allowing users to pair new tokens with $JEANPHIL. The feature includes toggleable Holder Rewards,…
-  - 资金 100.00 / 广度 81.92 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Allison Mentions Chang'e | BSC | 加速中 | 强度 77.29 | 质量 69.35
+  - 主题摘要：According to 饼哥's post, CZ's Mid-Autumn Festival Meme image features Yi He as Chang'e and CZ as Peng Lai. The post interprets this as CZ seeking a companion, likening Yi He to Cha…
+  - 资金 100.00 / 广度 77.99 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.59，其中已确认叙事 1 个。
-- Alleged Zcash Token Launch via Inscriptions 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Binance Mid-Autumn Merch Preview 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.63，其中已确认叙事 0 个。
+- inusanity 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Uncertain:CZ Solicits Mid-Autumn Meme Images 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk's Future | 质量 81.87 | 可交易性 100.00 | 风险 低
-- Binance Mid-Autumn Merch Preview | 质量 80.10 | 可交易性 100.00 | 风险 低
-- Alleged Zcash Token Launch via Inscriptions | 质量 77.44 | 可交易性 100.00 | 风险 低
-- Alleged Niu Dali Meme Image Release | 质量 73.85 | 可交易性 91.74 | 风险 低
-- Elon Musk: Diablo IV Old Mountain Set | 质量 73.54 | 可交易性 100.00 | 风险 低
-- Coca-Cola | 质量 73.27 | 可交易性 100.00 | 风险 低
-- KIBA INU | 质量 71.06 | 可交易性 100.00 | 风险 低
-- Allison Mentions Chang'e | 质量 69.37 | 可交易性 75.98 | 风险 低
-- Pepe Phil | 质量 69.02 | 可交易性 100.00 | 风险 低
-- worldwar | 质量 68.82 | 可交易性 100.00 | 风险 低
+- inusanity | 质量 83.09 | 可交易性 100.00 | 风险 低
+- Elon Musk's Future | 质量 81.88 | 可交易性 100.00 | 风险 低
+- Alleged Pepe Meme Coin Launch | 质量 74.84 | 可交易性 86.02 | 风险 低
+- STAMP CAT | 质量 74.40 | 可交易性 100.00 | 风险 低
+- Alleged Niu Dali Meme Image Release | 质量 74.22 | 可交易性 92.85 | 风险 低
+- Uncertain:CZ Solicits Mid-Autumn Meme Images | 质量 71.98 | 可交易性 79.11 | 风险 低
+- Alleged 'uni student life' Meme Trend | 质量 69.47 | 可交易性 100.00 | 风险 低
+- Allison Mentions Chang'e | 质量 69.35 | 可交易性 75.76 | 风险 低
+- Official Dumbcoin | 质量 69.10 | 可交易性 100.00 | 风险 低
+- Eric Balchunas on Crypto Clarity Act | 质量 68.77 | 可交易性 75.37 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Zcash Token Launch via Inscriptions | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Elon Musk: Diablo IV Old Mountain Set | 风险 47.79 | 原因：流动性偏薄
-- worldwar | 风险 47.79 | 原因：流动性偏薄
-- Alleged Niu Dali Meme Image Release | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Yi He Welcomes New Era | 风险 45.71 | 原因：近 1 小时净流入转负
-- Bending Spoons AI Strategy | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -111,8 +104,8 @@
 - GSTOCK | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Aiden | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - STX | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Stamp | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MCAT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SENDING  | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -138,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance Mid-Autumn Merch Preview（BSC，分数 88.47）
+1. 当前最强叙事：inusanity（Solana，分数 89.38）
 2. 共振最强代币：GSTOCK（BSC，共振 100.0）
-3. 记忆层变化：Coca-Cola 当前为“新出现”
+3. 记忆层变化：inusanity 当前为“新出现”
 4. 最新官方催化：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC
 #Binance #NarrativeOS #OpenClaw
