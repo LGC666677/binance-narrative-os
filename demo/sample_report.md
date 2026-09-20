@@ -1,16 +1,16 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-20T14:49:58.474868+00:00
+- 生成时间：2026-09-20T17:44:11.540772+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
-- 高风险伪叙事：3
+- 已确认叙事：1
+- 高风险伪叙事：1
 
 ## 今日摘要
 
 - 当前最强叙事是 Trump Digital Oil Fund，所在链为 Solana，叙事强度 89.64。
-- 当前平均叙事强度为 76.39，其中已确认叙事 0 个。
+- 当前平均叙事强度为 83.89，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Trump Digital Oil Fund 当前处于“新出现”状态。
+- 记忆层显示 Binance Mid-Autumn Merch Preview 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Alleged Niu Dali Meme Image Release，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC。
 
@@ -20,95 +20,92 @@
   - 主题摘要：Multiple tokens named 「TDOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 98.52 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk's Future | BSC | 已确认 | 强度 82.04 | 质量 81.78
-  - 主题摘要：Elon Musk posts a visionary statement about bringing the future into being, sparking speculation about his next major project or technological breakthrough. The ambiguity and his…
-  - 资金 100.00 / 广度 89.37 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:CZ Bull Market Statement | BSC | 已确认 | 强度 81.86 | 质量 70.72
-  - 主题摘要：CZ asserts his bullish stance on the market, stating that observers have not yet seen his 'final form'.
-  - 资金 100.00 / 广度 84.17 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- 蝴蝶c总 | BSC | 加速中 | 强度 79.02 | 质量 74.87
-  - 主题摘要：Multiple tokens named 「蝴蝶c总」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.60 / 确认 24.48 / 脆弱性 24.00
+- Binance Mid-Autumn Merch Preview | BSC | 降温中 | 强度 87.76 | 质量 80.06
+  - 主题摘要：Binance Chinese announced a preview of its Mid-Autumn Festival merchandise, inviting followers to guess the items in the comments for a chance to win a prize.
+  - 资金 100.00 / 广度 94.73 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- World Oil Trust Fund | Solana | 降温中 | 强度 87.71 | 质量 78.95
+  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 100.00 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Pump.fun Whimsical Time | Solana | 降温中 | 强度 84.61 | 质量 78.43
+  - 主题摘要：According to Pump.fun's post, the account shared a statement expressing that it encountered a 'whimsical time' in its life. This content is associated with tokens such as WHIMSICA…
+  - 资金 100.00 / 广度 89.30 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Hotel Lobby Meme Trend | Solana | 加速中 | 强度 84.10 | 质量 79.91
+  - 主题摘要：According to tinsi's post, the Hotel Lobby Meme image is experiencing a viral trend on X, with parodies involving cats and war veterans gaining over 5 million views per post in ju…
+  - 资金 97.00 / 广度 88.94 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CROW | BSC | 点火期 | 强度 77.27 | 质量 73.26
-  - 主题摘要：According to GrenMok (Sendor)'s post, the user quoted Geoffrey Huntley's tweet containing the text 'new ralph called slop;?????'. The post serves as a re-sharing of this specific…
-  - 资金 100.00 / 广度 80.03 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ's Meme Acquisition Genius | BSC | 点火期 | 强度 77.15 | 质量 73.75
-  - 主题摘要：Jasmy创始人称赞CZ想出通过Meme代币收购上市公司的点子是天才之举，CZ幽默回应并非自己独创。这一互动引发了社区对Meme项目与传统金融结合及CZ创新思维的热烈讨论。
-  - 资金 100.00 / 广度 82.51 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Yi He Welcomes New Era | BSC | 降温中 | 强度 77.01 | 质量 69.90
-  - 主题摘要：According to Yi He's post, she welcomes a new era and directs attention to a quoted tweet promoting Binance's new service allowing users to trade stocks and ETFs directly, availab…
-  - 资金 100.00 / 广度 73.04 / 确认 9.36 / 脆弱性 10.00
+- Nike | Solana | 降温中 | 强度 83.21 | 质量 72.89
+  - 主题摘要：Multiple tokens named 「Nike」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.09 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Black Jean | Solana | 降温中 | 强度 76.65 | 质量 66.07
-  - 主题摘要：Multiple tokens named 「JEANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 57.07 / 确认 4.32 / 脆弱性 0.00
+- Alleged Tyler Meme Coin | Solana | 加速中 | 强度 82.23 | 质量 71.17
+  - 主题摘要：According to d's post, Tyler Oliveira is allegedly accepting donations via a token named TYLER, with fees redirected to his account. The post suggests he is involved in memecoins.…
+  - 资金 100.00 / 广度 79.47 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk's Future | BSC | 已确认 | 强度 81.05 | 质量 81.80
+  - 主题摘要：Elon Musk posts a visionary statement about bringing the future into being, sparking speculation about his next major project or technological breakthrough. The ambiguity and his…
+  - 资金 100.00 / 广度 89.45 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Levan Accuses Marcelphil of Fraud | Solana | 降温中 | 强度 80.22 | 质量 70.80
+  - 主题摘要：According to Levan's post, he claims that Marcelphil is fake and invites users to send the best beta with fees to him. This statement is associated with the JEANPILL token, which…
+  - 资金 100.00 / 广度 82.03 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Niu Dali Meme Image Release | BSC | 点火期 | 强度 76.19 | 质量 71.99
+- jaeyukbokkeum Shares Cat-Pigeon Video | Solana | 点火期 | 强度 79.41 | 质量 77.02
+  - 主题摘要：According to jaeyukbokkeum's post, a video depicting a cat licking a pigeon, with the pigeon appearing shocked, has gone extremely viral on X, accumulating over 10 million views i…
+  - 资金 100.00 / 广度 89.87 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Allison Mentions Chang'e | BSC | 降温中 | 强度 79.02 | 质量 66.75
+  - 主题摘要：According to 饼哥's post, CZ's Mid-Autumn meme post is interpreted as referencing Yi He as Chang'e and himself as Zhu Bajie, with the 'Jade Rabbit' symbolizing their exclusive pet.…
+  - 资金 100.00 / 广度 75.30 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Niu Dali Meme Image Release | BSC | 点火期 | 强度 75.65 | 质量 71.41
   - 主题摘要：According to 咕噜🔶BNB's post, the user shared an AIGC animation titled 'Niu Dali's Mischievous Adventures' and suggested using 'Niu Dali' as a liquidity pool base, implying the crea…
-  - 资金 100.00 / 广度 81.73 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.74 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 牛散 | BSC | 降温中 | 强度 75.02 | 质量 63.90
-  - 主题摘要：Multiple tokens named 「牛散」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.50 / 确认 9.36 / 脆弱性 14.00
+- Yi He Welcomes New Era | BSC | 降温中 | 强度 75.06 | 质量 65.55
+  - 主题摘要：According to Yi He's post, she welcomes a new era and directs attention to a quoted tweet promoting Binance's new service allowing users to trade stocks and ETFs directly, availab…
+  - 资金 100.00 / 广度 73.39 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Shiba Coin | Solana | 降温中 | 强度 74.14 | 质量 60.09
-  - 主题摘要：Shiba, as a meme token, draws inspiration from the parody culture of Dogecoin. Fueled by community enthusiasm and amplified by social media, especially frequent discussions by KOL…
-  - 资金 100.00 / 广度 81.68 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NftWanderer Discusses Viral CAT Meme | Solana | 点火期 | 强度 72.68 | 质量 63.79
-  - 主题摘要：According to NftWanderer's post, the 'depressed cat' GIF is trending on X, and the author allegedly claims that JEANINU is the perfect token to capitalize on this viral meta. This…
-  - 资金 100.00 / 广度 87.29 / 确认 4.32 / 脆弱性 14.00
+- CZ's Meme Acquisition Genius | BSC | 点火期 | 强度 74.48 | 质量 71.41
+  - 主题摘要：Jasmy创始人称赞CZ想出通过Meme代币收购上市公司的点子是天才之举，CZ幽默回应并非自己独创。这一互动引发了社区对Meme项目与传统金融结合及CZ创新思维的热烈讨论。
+  - 资金 100.00 / 广度 82.09 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged JEANINU Meme | Solana | 点火期 | 强度 72.67 | 质量 63.79
-  - 主题摘要：According to PNTRADES's post, the user shared a Meme image featuring the text 'JEANINU' and 'JEAN BUT INU', describing it as funny. This content references the JEANINU token. This…
-  - 资金 100.00 / 广度 87.29 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Stealth Cat Meme | Solana | 降温中 | 强度 72.55 | 质量 58.20
-  - 主题摘要：According to Stealth Cat's post, the author compares the privacy features of Zcash and Monero, noting that Monero utilizes stealth addresses. Stealth Cat shares a Stealth Cat Meme…
-  - 资金 100.00 / 广度 65.66 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 76.39，其中已确认叙事 0 个。
-- Elon Musk's Future 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.89，其中已确认叙事 0 个。
+- Hotel Lobby Meme Trend 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Trump Digital Oil Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk's Future | 质量 81.78 | 可交易性 100.00 | 风险 低
+- Elon Musk's Future | 质量 81.80 | 可交易性 100.00 | 风险 低
+- Binance Mid-Autumn Merch Preview | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Hotel Lobby Meme Trend | 质量 79.91 | 可交易性 100.00 | 风险 低
 - Trump Digital Oil Fund | 质量 79.62 | 可交易性 100.00 | 风险 低
-- 蝴蝶c总 | 质量 74.87 | 可交易性 100.00 | 风险 低
-- CZ's Meme Acquisition Genius | 质量 73.75 | 可交易性 96.89 | 风险 低
-- CROW | 质量 73.26 | 可交易性 97.30 | 风险 低
-- Alleged Niu Dali Meme Image Release | 质量 71.99 | 可交易性 91.37 | 风险 低
-- Uncertain:CZ Bull Market Statement | 质量 70.72 | 可交易性 68.33 | 风险 低
-- Yi He Welcomes New Era | 质量 69.90 | 可交易性 100.00 | 风险 低
-- The Black Jean | 质量 66.07 | 可交易性 100.00 | 风险 低
-- 牛散 | 质量 63.90 | 可交易性 69.65 | 风险 低
+- World Oil Trust Fund | 质量 78.95 | 可交易性 100.00 | 风险 低
+- Pump.fun Whimsical Time | 质量 78.43 | 可交易性 100.00 | 风险 低
+- jaeyukbokkeum Shares Cat-Pigeon Video | 质量 77.02 | 可交易性 100.00 | 风险 低
+- Nike | 质量 72.89 | 可交易性 100.00 | 风险 低
+- Alleged Niu Dali Meme Image Release | 质量 71.41 | 可交易性 89.44 | 风险 低
+- CZ's Meme Acquisition Genius | 质量 71.41 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
 - Alleged Niu Dali Meme Image Release | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- NftWanderer Discusses Viral CAT Meme | 风险 51.82 | 原因：流动性偏薄
-- Alleged JEANINU Meme | 风险 51.82 | 原因：流动性偏薄
-- CROW | 风险 47.79 | 原因：流动性偏薄
-- CZ's Meme Acquisition Genius | 风险 42.03 | 原因：流动性偏薄
-- Shiba Coin | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- jaeyukbokkeum Shares Cat-Pigeon Video | 风险 47.79 | 原因：流动性偏薄
+- CZ's Meme Acquisition Genius | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- DPAID | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TRUMAN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CROW | BSC | 看多 | 新鲜度 100.00 | CROW
+- CROW | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Suineg | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 天才 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GSTOCK | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- TVS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MCAT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SENDING  | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - fomopay | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -140,6 +137,6 @@
 今日币安叙事中枢观察：
 1. 当前最强叙事：Trump Digital Oil Fund（Solana，分数 89.64）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Trump Digital Oil Fund 当前为“新出现”
+3. 记忆层变化：Binance Mid-Autumn Merch Preview 当前为“新出现”
 4. 最新官方催化：September Back to Markets Class: Deposit, Trade & Share 3,500 USDC
 #Binance #NarrativeOS #OpenClaw
