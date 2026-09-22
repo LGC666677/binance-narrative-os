@@ -1,114 +1,113 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-22T19:06:49.058425+00:00
+- 生成时间：2026-09-22T22:02:45.640898+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Meigu Rensheng Project Launch，所在链为 BSC，叙事强度 85.18。
-- 当前平均叙事强度为 78.76，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
-- 记忆层显示 Meigu Rensheng Project Launch 当前处于“强化”状态。
-- 当前最需要防止误判的叙事是 OpenAI Announces GPT-6 Sol and Luna，伪叙事风险 46.43。
+- 当前最强叙事是 Sweep Tech，所在链为 Solana，叙事强度 87.68。
+- 当前平均叙事强度为 81.29，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 记忆层显示 Sweep Tech 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged BITCOINU Token，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade AEON (AEON) and Share $200K Worth of Rewards (2026-09-22)。
 
 ## 叙事雷达
 
-- Meigu Rensheng Project Launch | BSC | 加速中 | 强度 85.18 | 质量 75.58
+- Sweep Tech | Solana | 已确认 | 强度 87.68 | 质量 82.73
+  - 主题摘要：The SWEEP token draws inspiration from the viral 'sweeping' concept, symbolizing community-driven cleanup and reorganization. Its rapid spread is fueled by influential KOLs on pla…
+  - 资金 100.00 / 广度 95.18 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Archibald_brown | Solana | 降温中 | 强度 84.79 | 质量 73.09
+  - 主题摘要：Archi token draws inspiration from the character Archibald Brown, featuring a man in a beige suit with a distinctive mustache. The token's narrative centers on practicing hand-to-…
+  - 资金 100.00 / 广度 71.49 / 确认 16.56 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Meigu Rensheng Project Launch | BSC | 加速中 | 强度 84.24 | 质量 75.61
   - 主题摘要：According to 美股人生's post, the 'Meigu Rensheng' project is scheduled to officially launch tonight at 20:30. The announcement expresses congratulations and anticipation for the even…
-  - 资金 100.00 / 广度 84.62 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.64 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OpenAI Announces GPT-6 Sol and Luna | Solana | 降温中 | 强度 84.89 | 质量 78.62
-  - 主题摘要：According to OpenAI's post, the organization announced the release of GPT-6 Sol and GPT-6 Luna, models built upon GPT-6 Astra. These new models offer improved efficiency and 50% l…
-  - 资金 100.00 / 广度 95.19 / 确认 9.36 / 脆弱性 34.46
+- Alleged BITCOINU Token | Solana | 降温中 | 强度 83.50 | 质量 76.54
+  - 主题摘要：According to keemo's post, the author claims that adding a 'u' to Bitcoin creates 'Bitcoinu,' which is allegedly the dog of this cycle due to Bitcoin's recent price surge. This re…
+  - 资金 100.00 / 广度 88.28 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Solana's OpenAI Name | Solana | 降温中 | 强度 83.64 | 质量 76.60
-  - 主题摘要：Solana官方账号回复OpenAI关于GPT-6的推文，询问OpenAI是否应该给Solana取一个名字。这一互动暗示了Solana在AI领域的潜在地位，引发了社区关于Solana与OpenAI关系的广泛讨论和造梗。
-  - 资金 100.00 / 广度 88.47 / 确认 9.36 / 脆弱性 34.46
+- FOMO LISA | Solana | 降温中 | 强度 81.43 | 质量 69.63
+  - 主题摘要：Multiple tokens named 「FOMO LISA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.23 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- American Oil Reserve | Solana | 降温中 | 强度 80.77 | 质量 68.70
-  - 主题摘要：Multiple tokens named 「AOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.15 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk: Energy to Intelligence | BSC | 加速中 | 强度 79.39 | 质量 75.83
+- 牛来人生 | BSC | 加速中 | 强度 79.11 | 质量 68.79
+  - 主题摘要：Multiple tokens named 「牛来人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 51.35 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk: Energy to Intelligence | BSC | 加速中 | 强度 78.41 | 质量 75.86
   - 主题摘要：Morgan Stanley analyst Adam Jonas highlights Tesla and SpaceX's shared mission of converting energy to intelligence, positioning Elon Musk's companies at the forefront of the next…
-  - 资金 100.00 / 广度 78.51 / 确认 19.44 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.62 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Grok Token Factory | Solana | 降温中 | 强度 79.38 | 质量 65.80
-  - 主题摘要：According to 查理's post, Roobet developer Zynex allegedly launched the "Grok Token Factory," a platform using Grok agents to deploy tokens on PumpFun. The system reportedly collect…
-  - 资金 100.00 / 广度 66.67 / 确认 9.36 / 脆弱性 14.00
+- tripskeleton | Solana | 降温中 | 强度 77.64 | 质量 68.35
+  - 主题摘要：Multiple tokens named 「tripskltn」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 60.98 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Grok Token Factory | Solana | 降温中 | 强度 79.37 | 质量 65.72
-  - 主题摘要：According to 查理's post, Roobet developer Zynex allegedly launched the "Grok Token Factory," a platform using Grok agents to deploy tokens on PumpFun. The system reportedly collect…
-  - 资金 100.00 / 广度 73.46 / 确认 9.36 / 脆弱性 14.00
+- BFC | Solana | 降温中 | 强度 77.50 | 质量 68.76
+  - 主题摘要：BFC token reimagines humanity's oldest spectacle for the internet. The logo features bold red letters against a dark background, suggesting a powerful, attention-grabbing presence…
+  - 资金 100.00 / 广度 60.24 / 确认 12.24 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Supreme Meme Coin | BSC | 加速中 | 强度 77.42 | 质量 72.14
-  - 主题摘要：According to Shondra Pflum's post, Supreme Intelligence is no longer an AI candidate, marking a shift to a regular meme. The post references Trump removing 'Supreme Intelligence'…
-  - 资金 100.00 / 广度 80.81 / 确认 23.04 / 脆弱性 14.00
+- Peanut the Squirrel | Solana | 降温中 | 强度 76.51 | 质量 66.66
+  - 主题摘要：PNUT token draws inspiration from a viral internet meme featuring a squirrel wearing a cowboy hat. The token's logo showcases this adorable animal character, embodying the playful…
+  - 资金 100.00 / 广度 55.32 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Supreme Meme Coin | BSC | 加速中 | 强度 76.29 | 质量 71.91
+  - 主题摘要：According to Shondra Pflum's post, the 'Supreme Intelligence' AI candidate was removed from a naming poll, prompting a shift to a regular meme. The post references a Meme image re…
+  - 资金 100.00 / 广度 80.92 / 确认 23.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- megger Proposes New Token Name | BSC | 加速中 | 强度 76.87 | 质量 71.44
+- megger Proposes New Token Name | BSC | 加速中 | 强度 75.72 | 质量 71.21
   - 主题摘要：According to megger's post, the author suggests renaming a token from 'inu' to 'inutelligence', proposing 'Superior Inutelligence' as a new name. This information is unverified. P…
-  - 资金 100.00 / 广度 81.13 / 确认 19.44 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.24 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trump AI Name Meme | BSC | 加速中 | 强度 76.85 | 质量 71.44
+- Trump AI Name Meme | BSC | 加速中 | 强度 75.72 | 质量 71.21
   - 主题摘要：According to Kiro's post, the author criticizes the use of a low-quality image associated with the new AI name announced by Donald Trump, expressing frustration over the visual pr…
-  - 资金 100.00 / 广度 81.13 / 确认 19.44 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.24 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Trump SI Token Poll | BSC | 加速中 | 强度 76.82 | 质量 71.46
+- Alleged Trump SI Token Poll | BSC | 加速中 | 强度 75.69 | 质量 71.23
   - 主题摘要：Donald J. Trump posted a poll suggesting that 'Artificial Intelligence' is an inaccurate term, proposing 'Superior Intelligence,' 'Extreme Intelligence,' or 'Supreme Intelligence'…
-  - 资金 100.00 / 广度 78.49 / 确认 19.44 / 脆弱性 14.00
+  - 资金 100.00 / 广度 78.60 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Sam Altman Comments on GPT-6 Models | Solana | 降温中 | 强度 75.67 | 质量 65.57
-  - 主题摘要：According to Sam Altman's post, he commented on the GPT-6 Sol and Luna models, describing them as great models and noting that the associated characters are cute. This statement w…
-  - 资金 100.00 / 广度 83.40 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $LEMONS Token Launch | Solana | 降温中 | 强度 74.97 | 质量 65.49
-  - 主题摘要：According to Aizen's post, Aizen claims to be launching an alleged $LEMONS token on PumpSwap, referencing viral 2017 Instagram memes involving squeezing lemons into eyes. Aizen in…
-  - 资金 100.00 / 广度 54.28 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PUMOSHI NAKAMOTO | Solana | 降温中 | 强度 74.73 | 质量 64.50
-  - 主题摘要：PUMO is a meme token inspired by Japanese culture, featuring a hamster character wearing sunglasses and a Japanese headband. The logo combines traditional Japanese elements with B…
-  - 资金 100.00 / 广度 48.14 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.76，其中已确认叙事 0 个。
-- Meigu Rensheng Project Launch 正在向主线升级: BSC 上该叙事处于“强化”状态，值得持续跟踪。
-- OpenAI Announces GPT-6 Sol and Luna 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.29，其中已确认叙事 1 个。
+- Sweep Tech 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Archibald_brown 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- OpenAI Announces GPT-6 Sol and Luna | 质量 78.62 | 可交易性 100.00 | 风险 低
-- Solana's OpenAI Name | 质量 76.60 | 可交易性 100.00 | 风险 低
-- Elon Musk: Energy to Intelligence | 质量 75.83 | 可交易性 100.00 | 风险 低
-- Meigu Rensheng Project Launch | 质量 75.58 | 可交易性 89.35 | 风险 低
-- Alleged Supreme Meme Coin | 质量 72.14 | 可交易性 82.75 | 风险 低
-- Alleged Trump SI Token Poll | 质量 71.46 | 可交易性 85.46 | 风险 低
-- megger Proposes New Token Name | 质量 71.44 | 可交易性 82.75 | 风险 低
-- Trump AI Name Meme | 质量 71.44 | 可交易性 82.75 | 风险 低
-- American Oil Reserve | 质量 68.70 | 可交易性 100.00 | 风险 低
-- Alleged Grok Token Factory | 质量 65.80 | 可交易性 85.81 | 风险 低
+- Sweep Tech | 质量 82.73 | 可交易性 100.00 | 风险 低
+- Alleged BITCOINU Token | 质量 76.54 | 可交易性 100.00 | 风险 低
+- Elon Musk: Energy to Intelligence | 质量 75.86 | 可交易性 100.00 | 风险 低
+- Meigu Rensheng Project Launch | 质量 75.61 | 可交易性 89.44 | 风险 低
+- Archibald_brown | 质量 73.09 | 可交易性 100.00 | 风险 低
+- Alleged Supreme Meme Coin | 质量 71.91 | 可交易性 81.88 | 风险 低
+- Alleged Trump SI Token Poll | 质量 71.23 | 可交易性 84.58 | 风险 低
+- megger Proposes New Token Name | 质量 71.21 | 可交易性 81.88 | 风险 低
+- Trump AI Name Meme | 质量 71.21 | 可交易性 81.88 | 风险 低
+- FOMO LISA | 质量 69.63 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- OpenAI Announces GPT-6 Sol and Luna | 风险 46.43 | 原因：流动性偏薄、龙头筹码集中度偏高
-- Solana's OpenAI Name | 风险 46.43 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Alleged BITCOINU Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - FI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- SWEEP | Solana | 看多 | 新鲜度 100.00 | Sweep Tech
 - sPL.001 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SOL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - sPL.001 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Project | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - VDINO | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TRUE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- ⠁⠏⠑ | Solana | 看多 | 新鲜度 95.12 | 暂无直接叙事映射
 - Lobby | BSC | 看多 | 新鲜度 94.21 | 暂无直接叙事映射
-- SCHRÖDINGER | Solana | 看多 | 新鲜度 89.37 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Meigu Rensheng Project Launch（BSC，分数 85.18）
-2. 共振最强代币：XRP（BSC，共振 100.0）
-3. 记忆层变化：Meigu Rensheng Project Launch 当前为“强化”
+1. 当前最强叙事：Sweep Tech（Solana，分数 87.68）
+2. 共振最强代币：STONK（Solana，共振 100.0）
+3. 记忆层变化：Sweep Tech 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade AEON (AEON) and Share $200K Worth of Rewards (2026-09-22)
 #Binance #NarrativeOS #OpenClaw
