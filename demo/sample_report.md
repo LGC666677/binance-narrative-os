@@ -1,100 +1,99 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-23T18:26:59.160257+00:00
+- 生成时间：2026-09-23T21:37:11.145684+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Hermès，所在链为 Solana，叙事强度 86.92。
-- 当前平均叙事强度为 81.32，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Hermès 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 XPay，伪叙事风险 47.79。
+- 当前最强叙事是 He Yi Recommends Green Label，所在链为 BSC，叙事强度 90.25。
+- 当前平均叙事强度为 76.21，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
+- 记忆层显示 Trump Digital Oil Fund 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged $PEPE Token Bid，伪叙事风险 52.99。
 - 最新官方催化来自 币安最新公告：Introducing Hold to Earn: Earn Up to 4.75% APR by Holding U, USDe, and USDS in Binance Wallet。
 
 ## 叙事雷达
 
-- Hermès | Solana | 降温中 | 强度 86.92 | 质量 77.94
-  - 主题摘要：Multiple tokens named 「Hermès」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.92 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- He Yi Recommends Green Label | BSC | 已确认 | 强度 85.85 | 质量 82.01
+- He Yi Recommends Green Label | BSC | 已确认 | 强度 90.25 | 质量 83.79
   - 主题摘要：Binance CEO Yi He 回复粉丝关于“绿标”洗发水的种草推文，并幽默表示要分享更多“人生好物”。该互动结合了币圈顶流CEO与大众生活消费，极具反差感和传播潜力。
-  - 资金 100.00 / 广度 92.77 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 98.71 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Launch of PokeDollar Token | Solana | 降温中 | 强度 84.14 | 质量 71.84
-  - 主题摘要：According to McDcken's post, PokeDollar (₽) is described as the official currency for Pokemon products, paired with $SV151 backed by a sealed product vault. Holders are claimed to…
-  - 资金 100.00 / 广度 75.78 / 确认 5.04 / 脆弱性 0.00
+- Trump Digital Oil Fund | Solana | 降温中 | 强度 84.29 | 质量 71.86
+  - 主题摘要：Multiple tokens named 「TDOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.68 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AROS | Solana | 降温中 | 强度 82.37 | 质量 73.31
+- AROS | Solana | 降温中 | 强度 83.73 | 质量 73.44
   - 主题摘要：Multiple tokens named 「AROS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.49 / 确认 9.36 / 脆弱性 10.00
+  - 资金 100.00 / 广度 77.93 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- fomocoin | Solana | 降温中 | 强度 81.56 | 质量 69.73
-  - 主题摘要：Multiple tokens named 「fomocoin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.58 / 确认 9.36 / 脆弱性 0.00
+- Emad Replies to @other__reality | Solana | 降温中 | 强度 82.34 | 质量 72.52
+  - 主题摘要：According to Emad's post, he replied to @other__reality's inquiry regarding a song and animation, tagging @kevinroose with the phrase "it you" in the context of the entity "Sydney…
+  - 资金 100.00 / 广度 74.87 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- XPay | Solana | 点火期 | 强度 80.49 | 质量 75.23
-  - 主题摘要：Multiple tokens named 「XPAY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.91 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- HyperEVM Wallet ERC-20 Asset Issue | Solana | 降温中 | 强度 79.57 | 质量 68.88
-  - 主题摘要：According to 奈奈Nana's post, a HyperEVM wallet transaction via HyperSwap's fee contract returned an ERC-20 token named LongDog (ticker: LONG). This indicates a potential protocol i…
-  - 资金 100.00 / 广度 62.75 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $PEPE Token Bid | Solana | 降温中 | 强度 78.83 | 质量 71.82
-  - 主题摘要：According to kvcooker's post, an individual allegedly placed a bid of $150,000 for a Meme image titled 'Baby of Bonnie Blue' to be named $PEPE. This information is unverified. Ple…
-  - 资金 100.00 / 广度 72.53 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Comments on BNB New Emoji | BSC | 降温中 | 强度 77.78 | 质量 73.01
+- CZ Comments on BNB New Emoji | BSC | 降温中 | 强度 80.68 | 质量 73.27
   - 主题摘要：CZ posted on social media expressing approval of the new BNB emoji, describing it as cool. This statement highlights the update to the BNB Chain's visual identity.
-  - 资金 100.00 / 广度 73.72 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 73.82 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Laughs at TCC | BSC | 加速中 | 强度 77.31 | 质量 77.75
+- gucci | Solana | 降温中 | 强度 79.80 | 质量 68.77
+  - 主题摘要：Multiple tokens named 「GUCCI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.07 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged $PEPE Token Bid | Solana | 点火期 | 强度 79.33 | 质量 75.22
+  - 主题摘要：According to kvcooker's post, an individual allegedly placed a bid of $150,000 for the naming rights of 'Baby of Bonnie Blue' to be designated as $PEPE. This claim involves a Meme…
+  - 资金 100.00 / 广度 83.86 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Nyxara Flux Calls for $ECTF Votes | Solana | 降温中 | 强度 77.47 | 质量 61.93
+  - 主题摘要：According to Nyxara Flux's post, the author urges the $ECTF community to vote to list the token on the Moonshot Top 100 Leaderboard, stating that fewer than 100 votes are required…
+  - 资金 100.00 / 广度 87.06 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk Comments on BUTT Token | Solana | 降温中 | 强度 77.28 | 质量 64.34
+  - 主题摘要：Elon Musk replied to @dogeofficialceo with the phrase "Passing butter" and a YouTube link. This comment is associated with the BUTT token, which has various names including "Pass…
+  - 资金 100.00 / 广度 81.31 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Laughs at TCC | BSC | 加速中 | 强度 76.65 | 质量 76.63
   - 主题摘要：Binance CEO CZ retweeted TCC's post with a laughing emoji, creating a viral moment linking the exchange's leadership with the popular crypto influencer TCC. This interaction highl…
-  - 资金 100.00 / 广度 90.71 / 确认 28.08 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.84 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Melon Musk | Solana | 降温中 | 强度 76.67 | 质量 70.32
-  - 主题摘要：Multiple tokens named 「MMUSK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 63.32 / 确认 15.12 / 脆弱性 14.00
+- World Oil Trust Fund | Solana | 降温中 | 强度 76.28 | 质量 74.40
+  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.13 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Assignment Failed | BSC | 加速中 | 强度 72.32 | 质量 70.25
-  - 主题摘要：Binance's official account posted a cryptic message about a failed assignment, sparking curiosity and confusion among users regarding potential technical issues or a new feature r…
-  - 资金 100.00 / 广度 79.04 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Flap PreLaunch Beta Release | BSC | 降温中 | 强度 70.73 | 质量 59.65
+- Flap PreLaunch Beta Release | BSC | 降温中 | 强度 71.14 | 质量 59.72
   - 主题摘要：According to Flap 🦋's post, Flap PreLaunch Beta is now live on BNB Chain. This launch model combines presale and bonding curve mechanisms, automatically deploying funds into the p…
-  - 资金 100.00 / 广度 74.79 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.85 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Buyback Distribution Mechanism by Baxiannaohai | BSC | 降温中 | 强度 69.87 | 质量 56.59
+- CZ's Golden Shoe | BSC | 降温中 | 强度 69.42 | 质量 54.20
+  - 主题摘要：Binance CEO CZ responded with a wave emoji to Binance Chinese's teaser of Mid-Autumn Festival merchandise featuring a golden shoe. The interaction highlights the exclusive and hig…
+  - 资金 100.00 / 广度 63.11 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged Buyback Distribution Mechanism by Baxiannaohai | BSC | 降温中 | 强度 69.11 | 质量 56.55
   - 主题摘要：According to 八仙's post, the Butterfly platform allegedly launched an on-chain mechanism that automatically repurchases and distributes fees to four exchanges (Binance, Gate, OKX,…
-  - 资金 100.00 / 广度 70.68 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 70.86 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.32，其中已确认叙事 0 个。
-- He Yi Recommends Green Label 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Hermès 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.21，其中已确认叙事 1 个。
+- Trump Digital Oil Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- He Yi Recommends Green Label | 质量 82.01 | 可交易性 100.00 | 风险 低
-- Hermès | 质量 77.94 | 可交易性 100.00 | 风险 低
-- CZ Laughs at TCC | 质量 77.75 | 可交易性 100.00 | 风险 低
-- XPay | 质量 75.23 | 可交易性 100.00 | 风险 低
-- AROS | 质量 73.31 | 可交易性 100.00 | 风险 低
-- CZ Comments on BNB New Emoji | 质量 73.01 | 可交易性 97.51 | 风险 低
-- Alleged Launch of PokeDollar Token | 质量 71.84 | 可交易性 100.00 | 风险 低
-- Alleged $PEPE Token Bid | 质量 71.82 | 可交易性 100.00 | 风险 低
-- Melon Musk | 质量 70.32 | 可交易性 100.00 | 风险 低
-- Binance Assignment Failed | 质量 70.25 | 可交易性 100.00 | 风险 低
+- He Yi Recommends Green Label | 质量 83.79 | 可交易性 100.00 | 风险 低
+- CZ Laughs at TCC | 质量 76.63 | 可交易性 100.00 | 风险 低
+- Alleged $PEPE Token Bid | 质量 75.22 | 可交易性 100.00 | 风险 低
+- World Oil Trust Fund | 质量 74.40 | 可交易性 100.00 | 风险 低
+- AROS | 质量 73.44 | 可交易性 100.00 | 风险 低
+- CZ Comments on BNB New Emoji | 质量 73.27 | 可交易性 98.26 | 风险 低
+- Emad Replies to @other__reality | 质量 72.52 | 可交易性 100.00 | 风险 低
+- Trump Digital Oil Fund | 质量 71.86 | 可交易性 100.00 | 风险 低
+- gucci | 质量 68.77 | 可交易性 100.00 | 风险 低
+- Elon Musk Comments on BUTT Token | 质量 64.34 | 可交易性 66.30 | 风险 低
 
 ## 伪叙事风险
 
-- XPay | 风险 47.79 | 原因：流动性偏薄
+- Alleged $PEPE Token Bid | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - Uncertain:Alleged Buyback Distribution Mechanism by Baxiannaohai | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Hermès（Solana，分数 86.92）
-2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Hermès 当前为“新出现”
+1. 当前最强叙事：He Yi Recommends Green Label（BSC，分数 90.25）
+2. 共振最强代币：XRP（BSC，共振 100.0）
+3. 记忆层变化：Trump Digital Oil Fund 当前为“新出现”
 4. 最新官方催化：Introducing Hold to Earn: Earn Up to 4.75% APR by Holding U, USDe, and USDS in Binance Wallet
 #Binance #NarrativeOS #OpenClaw
