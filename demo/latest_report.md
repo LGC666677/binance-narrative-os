@@ -1,144 +1,140 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-24T06:53:46.069273+00:00
+- 生成时间：2026-09-24T12:20:18.394889+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：0
+- 已确认叙事：2
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged US Gov Renames AI to SI，所在链为 Solana，叙事强度 87.99。
-- 当前平均叙事强度为 82.09，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged US Gov Renames AI to SI 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Asset，伪叙事风险 43.31。
-- 最新官方催化来自 最新活动：Hold RLUSD in Any Binance Accounts to Share $800,000 Rewards in XRP。
+- 当前最强叙事是 NTDA，所在链为 Solana，叙事强度 89.55。
+- 当前平均叙事强度为 80.5，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 NTDA 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 miao coin，伪叙事风险 52.99。
+- 最新官方催化来自 最新活动：Trade bStocks 24/7 and Win Up to 500 USDT in Token Vouchers。
 
 ## 叙事雷达
 
-- Alleged US Gov Renames AI to SI | Solana | 加速中 | 强度 87.99 | 质量 81.93
-  - 主题摘要：According to gum's post, Trump allegedly announced at the UN that the US government is officially renaming "Artificial Intelligence" to "Super Intelligence" (SI), with all governm…
-  - 资金 100.00 / 广度 95.67 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WWR | Solana | 降温中 | 强度 84.75 | 质量 74.25
-  - 主题摘要：Multiple tokens named 「WWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.65 / 确认 9.36 / 脆弱性 0.00
+- NTDA | Solana | 降温中 | 强度 89.55 | 质量 79.46
+  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 98.01 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- He Yi Recommends Green Label | BSC | 加速中 | 强度 84.26 | 质量 83.10
+- He Yi Recommends Green Label | BSC | 已确认 | 强度 86.18 | 质量 84.97
   - 主题摘要：Binance CEO Yi He 回复粉丝关于“绿标”洗发水的种草推文，并幽默表示要分享更多“人生好物”。该互动结合了币圈顶流CEO与大众生活消费，极具反差感和传播潜力。
-  - 资金 100.00 / 广度 99.56 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 中秋玉兔 | BSC | 已确认 | 强度 84.24 | 质量 73.13
-  - 主题摘要：CZ posted a message wishing a happy Mid-Autumn Festival and solicited creative Meme images from the community. The post focuses on cultural engagement and user interaction regardi…
-  - 资金 100.00 / 广度 89.74 / 确认 42.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Vanguard | Solana | 降温中 | 强度 83.23 | 质量 73.92
-  - 主题摘要：Multiple tokens named 「VWA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.54 / 确认 9.36 / 脆弱性 24.00
+- Alleged Nasduck Token Discussion | Solana | 降温中 | 强度 84.10 | 质量 72.75
+  - 主题摘要：According to ardin's post, the user discusses the Nasduck token, noting that fees are not being processed correctly because the coin is not linked on the OTC. The post references…
+  - 资金 100.00 / 广度 79.33 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- USDF | Solana | 降温中 | 强度 81.14 | 质量 71.46
-  - 主题摘要：Multiple tokens named 「USDF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.33 / 确认 9.36 / 脆弱性 24.00
+- THE PIT $PIT Launch | Solana | 降温中 | 强度 83.66 | 质量 73.48
+  - 主题摘要：According to THE PIT $PIT's post, the platform THE PIT $PIT is introduced, allowing users to select AI agents, set trading strategies, and fund wallets for autonomous Solana tradi…
+  - 资金 100.00 / 广度 78.08 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Quanta Pools | Solana | 降温中 | 强度 81.05 | 质量 68.63
-  - 主题摘要：Multiple tokens named 「QUANTA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.40 / 确认 9.36 / 脆弱性 14.00
+- Poly Mascot Token | BSC | 已确认 | 强度 83.30 | 质量 82.64
+  - 主题摘要：According to Polymarket Traders's post, the account replied to a user claiming to be 'Poly' with a question. This interaction references the Polymarket Mascot token, a cryptocurre…
+  - 资金 100.00 / 广度 89.61 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Xpress Bridge Currency | Solana | 降温中 | 强度 79.72 | 质量 68.72
+  - 主题摘要：Multiple tokens named 「XBC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 62.20 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged CATE Meme Coin Launch | Solana | 降温中 | 强度 80.91 | 质量 70.20
-  - 主题摘要：According to thedevrrrrrr's post, the author suggests running the CATE token, comparing it to DOGE. As the content involves an alleged issuance of a token, this information is unv…
-  - 资金 100.00 / 广度 80.63 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Asset | Solana | 点火期 | 强度 79.86 | 质量 75.46
-  - 主题摘要：Asset token powers a wallet designed to simplify cryptocurrency management while rewarding users through staking mechanisms. The logo features a stylized 'A' in blue and green, re…
-  - 资金 100.00 / 广度 80.55 / 确认 14.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- The Helmet Token Derivatives | Solana | 点火期 | 强度 77.75 | 质量 72.97
-  - 主题摘要：According to The Helmet's post, the $helmet token has reached a significant market milestone, with its price on stonkfun approaching its all-time high. The author announces the la…
-  - 资金 100.00 / 广度 71.08 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ Comments on BNB New Emoji | BSC | 点火期 | 强度 77.48 | 质量 72.65
-  - 主题摘要：CZ posted on social media expressing approval of the new BNB emoji, describing it as cool. This statement highlights the update to the BNB Chain's visual identity.
-  - 资金 100.00 / 广度 73.35 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Binance GM Mooncake | BSC | 加速中 | 强度 76.98 | 质量 68.34
-  - 主题摘要：Binance华语账号在社交媒体上发布了一张月饼图片并配文“GM”，将节日传统与加密货币社区常用的问候语结合，营造出一种轻松幽默的节日交易氛围。
-  - 资金 100.00 / 广度 90.79 / 确认 23.76 / 脆弱性 24.00
+- Uncertain:Alleged Lobster Meme Image Analysis | BSC | 加速中 | 强度 79.08 | 质量 70.89
+  - 主题摘要：According to 小手川峰｜Feng 🐝's post, the author analyzes the 'Lobster' (#龙虾) Meme image, linking it to AI Agent narratives and OpenAI developments. The post discusses market trends in…
+  - 资金 100.00 / 广度 62.04 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 信念 | BSC | 降温中 | 强度 75.02 | 质量 65.09
+- Alleged Real-Life Flap-Cat | BSC | 加速中 | 强度 78.93 | 质量 70.77
+  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, a cat with a natural bow-like pattern on its neck is identified as a real-life version of the Flap-Cat mascot. The post highlights the visual si…
+  - 资金 100.00 / 广度 79.74 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 信念 | BSC | 降温中 | 强度 78.67 | 质量 67.20
   - 主题摘要：Multiple tokens named 「信念」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 50.11 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 57.15 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Laughs at TCC | BSC | 加速中 | 强度 74.72 | 质量 73.84
-  - 主题摘要：Binance CEO CZ retweeted TCC's post with a laughing emoji, creating a viral moment linking the exchange's leadership with the popular crypto influencer TCC. This interaction highl…
-  - 资金 100.00 / 广度 90.85 / 确认 28.08 / 脆弱性 24.00
+- Nerd Toast | Solana | 加速中 | 强度 77.99 | 质量 66.54
+  - 主题摘要：NERD token draws inspiration from internet culture, featuring a cartoon toast character in aviator goggles flying an airplane. The logo depicts a fiery scene with the toast charac…
+  - 资金 100.00 / 广度 74.50 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- THIS IS SO GOOD | Solana | 降温中 | 强度 77.84 | 质量 64.35
+  - 主题摘要：According to A Meme Pad's post, the platform positions itself as a Solana launchpad focused on community value. It details a three-layer payout system involving BTC mining, treasu…
+  - 资金 100.00 / 广度 75.09 / 确认 13.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- miao coin | Solana | 点火期 | 强度 75.84 | 质量 71.28
+  - 主题摘要：miao coin emerged as a satirical response to other cat-themed tokens, positioning itself as 'Miaooo' rather than 'GigaCat'. The logo features a cat with a distinctive expression,…
+  - 资金 100.00 / 广度 70.72 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Flap 🦋 comments on HTX | BSC | 加速中 | 强度 75.35 | 质量 74.30
+  - 主题摘要：According to Flap 🦋's post, the user commented on HTX_Global's tweet regarding cat-themed tokens, stating that HTX 'did the thing.' This interaction highlights Flap 🦋's acknowledg…
+  - 资金 100.00 / 广度 84.34 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged CATE Meme Coin Launch | Solana | 降温中 | 强度 75.27 | 质量 63.49
+  - 主题摘要：According to thedevrrrrrr's post, the author suggests running a CATE token similar to DOGE, implying an alleged launch of a CATE meme coin. This information is unverified. Please…
+  - 资金 95.42 / 广度 90.04 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.09，其中已确认叙事 0 个。
-- Alleged US Gov Renames AI to SI 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- WWR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.5，其中已确认叙事 0 个。
+- Poly Mascot Token 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- NTDA 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- He Yi Recommends Green Label | 质量 83.10 | 可交易性 100.00 | 风险 低
-- Alleged US Gov Renames AI to SI | 质量 81.93 | 可交易性 100.00 | 风险 低
-- Asset | 质量 75.46 | 可交易性 100.00 | 风险 低
-- WWR | 质量 74.25 | 可交易性 100.00 | 风险 低
-- Vanguard | 质量 73.92 | 可交易性 100.00 | 风险 低
-- CZ Laughs at TCC | 质量 73.84 | 可交易性 100.00 | 风险 低
-- 中秋玉兔 | 质量 73.13 | 可交易性 62.86 | 风险 低
-- The Helmet Token Derivatives | 质量 72.97 | 可交易性 100.00 | 风险 低
-- CZ Comments on BNB New Emoji | 质量 72.65 | 可交易性 96.66 | 风险 低
-- USDF | 质量 71.46 | 可交易性 100.00 | 风险 低
+- He Yi Recommends Green Label | 质量 84.97 | 可交易性 100.00 | 风险 低
+- Poly Mascot Token | 质量 82.64 | 可交易性 100.00 | 风险 低
+- NTDA | 质量 79.46 | 可交易性 100.00 | 风险 低
+- Flap 🦋 comments on HTX | 质量 74.30 | 可交易性 100.00 | 风险 低
+- THE PIT $PIT Launch | 质量 73.48 | 可交易性 100.00 | 风险 低
+- Alleged Nasduck Token Discussion | 质量 72.75 | 可交易性 100.00 | 风险 低
+- miao coin | 质量 71.28 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Lobster Meme Image Analysis | 质量 70.89 | 可交易性 100.00 | 风险 低
+- Alleged Real-Life Flap-Cat | 质量 70.77 | 可交易性 78.74 | 风险 低
+- Xpress Bridge Currency | 质量 68.72 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Asset | 风险 43.31 | 原因：流动性偏薄
-- The Helmet Token Derivatives | 风险 42.03 | 原因：流动性偏薄
-- CZ Comments on BNB New Emoji | 风险 42.03 | 原因：流动性偏薄
-- Vanguard | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- USDF | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- miao coin | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- TRUMAN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Poly | BSC | 看多 | 新鲜度 100.00 | Poly Mascot Token
 - 乖乖 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Lobby | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 甲亢蛙 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- goon | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- OTC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- SHARTCOIN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPIKE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - VDINO | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TRUE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEME | BSC | 看多 | 新鲜度 97.10 | 暂无直接叙事映射
-- RASMR | Solana | 看多 | 新鲜度 90.22 | 暂无直接叙事映射
-- TIMI | Base | 看多 | 新鲜度 78.72 | 暂无直接叙事映射
 
 ## 官方催化
 
-- [Hold RLUSD in Any Binance Accounts to Share $800,000 Rewards in XRP](https://www.binance.com/zh-CN/support/announcement/detail/3bd5e178205f4051bd008994c5a99363)
-  - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a general announcement and marketing commun…
+- [Trade bStocks 24/7 and Win Up to 500 USDT in Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/9ed4dfcc0ed44d39bede2dda36cf4521)
+  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are offered through an Approved Prospectus…
+- [Binance Alpha Trading Competition: Trade ChainOpera AI (COAI) and Share $200K Worth of Rewards (2026-09-24)](https://www.binance.com/zh-CN/support/announcement/detail/df0f5afc43aa4ef1b344eb92b75c2716)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excited to launch the COAI Trading Competition…
+- [The Binance Starter Carnival: Complete Tasks to Share $100,000 Worth of Rewards in BTC](https://www.binance.com/zh-CN/support/announcement/detail/21e720bb81a14eb7b14ead890cdc20df)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, The Binance Starter Carnival n…
+- [Binance Will Add Hyperliquid (HYPE) on Earn, Buy Crypto, Convert, VIP Loan & Margin](https://www.binance.com/zh-CN/support/announcement/detail/1718842b00ee41479c763ef27b6312f0)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: This is not available for users in the EEA. Fellow Binancians, Binance is excited to announce…
+- [VTHO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/7eb71f110bc44e81b56dbaef7d01ba78)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users in the EEA. Fellow Binancians, Binance…
+- [Trade KES with Zero Fees on Binance P2P for a Limited Time](https://www.binance.com/zh-CN/support/announcement/detail/723a243a436148368e631a93b7a056b2)
+  - This is a general announcement. Products and services mentioned here may not be available in your region. Fellow Binancians, We’re excited to launch a limited-time zero-fee trading campaign on Binance P2P, exclusively f…
+- [Binance Will List Hyperliquid (HYPE) with Seed Tag Applied](https://www.binance.com/zh-CN/support/announcement/detail/d49de208bb6d4a26b02677d7c3d89b5d)
+  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general announcement. Products and services referred…
 - [Introducing Hold to Earn: Earn Up to 4.75% APR by Holding U, USDe, and USDS in Binance Wallet](https://www.binance.com/zh-CN/support/announcement/detail/e9841ff40041405e8bf164b43e89289f)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet is introducing Hold to Earn, a simple way t…
-- [Binance Earn Yield Arena: Share $200K RLUSD Rewards With This Week’s New Limited-Time Offers! (2026-09-23)](https://www.binance.com/zh-CN/support/announcement/detail/59d5ee68f2d84d4a9a731c53c281ce00)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn presents to you new offers that are new…
 - [Binance Futures Will Launch OURAUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-09-23)](https://www.binance.com/zh-CN/support/announcement/detail/8bd2b3a7684749bba472e71fc3ad8043)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, 1. To expand the list o…
-- [Binance Will Add 3 bStocks Tokenized Securities as Collateral Asset - 2026-09-23](https://www.binance.com/zh-CN/support/announcement/detail/c61f3c18a3004f968b53fb09841f7bc7)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered through an Approved Prospectus in the ADGM an…
-- [Binance Exchange Adds Axe Compute (AGPUB), AMC Entertainment (AMCB) and Cypherpunk Technologies (CYPHB) bStocks Trading Pairs on Binance Spot/Convert - 2026-09-23](https://www.binance.com/zh-CN/support/announcement/detail/3cc589ca05904ca28e6ddebeb14148db)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, To expand the list of trading choices offered on Binance S…
-- [Binance Lifestyle Merchant Enrollment Campaign: Join and Earn Up to 100 USDT!](https://www.binance.com/zh-CN/support/announcement/detail/7fb2f9ed343b41aca519ae60314aa548)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited to launch the Global Lifestyle Merchant…
-- [Binance Earn: Subscribe to PLUME Flexible Products to Share 70 BNB in APR Boost Giveaway](https://www.binance.com/zh-CN/support/announcement/detail/a89e0f0e426846b78cd0898922eae806)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Earn is excited to ann…
-- [Binance Alpha Trading Competition: Trade AEON (AEON) and Share $200K Worth of Rewards (2026-09-22)](https://www.binance.com/zh-CN/support/announcement/detail/f155c695dcf243fd87f3e7cea7a48e5c)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excited to launch the AEON Trading Competition…
 
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged US Gov Renames AI to SI（Solana，分数 87.99）
-2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Alleged US Gov Renames AI to SI 当前为“新出现”
-4. 最新官方催化：Hold RLUSD in Any Binance Accounts to Share $800,000 Rewards in XRP
+1. 当前最强叙事：NTDA（Solana，分数 89.55）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：NTDA 当前为“新出现”
+4. 最新官方催化：Trade bStocks 24/7 and Win Up to 500 USDT in Token Vouchers
 #Binance #NarrativeOS #OpenClaw
