@@ -1,113 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-24T12:20:18.394889+00:00
+- 生成时间：2026-09-24T17:21:46.317681+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：1
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 NTDA，所在链为 Solana，叙事强度 89.55。
-- 当前平均叙事强度为 80.5，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 NTDA 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 miao coin，伪叙事风险 52.99。
+- 当前最强叙事是 Binance Shoes，所在链为 BSC，叙事强度 85.23。
+- 当前平均叙事强度为 80.18，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 记忆层显示 Binance Shoes 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Prom Launches PROM Token，伪叙事风险 54.11。
 - 最新官方催化来自 最新活动：Trade bStocks 24/7 and Win Up to 500 USDT in Token Vouchers。
 
 ## 叙事雷达
 
-- NTDA | Solana | 降温中 | 强度 89.55 | 质量 79.46
-  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 98.01 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- He Yi Recommends Green Label | BSC | 已确认 | 强度 86.18 | 质量 84.97
-  - 主题摘要：Binance CEO Yi He 回复粉丝关于“绿标”洗发水的种草推文，并幽默表示要分享更多“人生好物”。该互动结合了币圈顶流CEO与大众生活消费，极具反差感和传播潜力。
-  - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Nasduck Token Discussion | Solana | 降温中 | 强度 84.10 | 质量 72.75
-  - 主题摘要：According to ardin's post, the user discusses the Nasduck token, noting that fees are not being processed correctly because the coin is not linked on the OTC. The post references…
-  - 资金 100.00 / 广度 79.33 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- THE PIT $PIT Launch | Solana | 降温中 | 强度 83.66 | 质量 73.48
-  - 主题摘要：According to THE PIT $PIT's post, the platform THE PIT $PIT is introduced, allowing users to select AI agents, set trading strategies, and fund wallets for autonomous Solana tradi…
-  - 资金 100.00 / 广度 78.08 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Poly Mascot Token | BSC | 已确认 | 强度 83.30 | 质量 82.64
-  - 主题摘要：According to Polymarket Traders's post, the account replied to a user claiming to be 'Poly' with a question. This interaction references the Polymarket Mascot token, a cryptocurre…
-  - 资金 100.00 / 广度 89.61 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Xpress Bridge Currency | Solana | 降温中 | 强度 79.72 | 质量 68.72
-  - 主题摘要：Multiple tokens named 「XBC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.20 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Lobster Meme Image Analysis | BSC | 加速中 | 强度 79.08 | 质量 70.89
-  - 主题摘要：According to 小手川峰｜Feng 🐝's post, the author analyzes the 'Lobster' (#龙虾) Meme image, linking it to AI Agent narratives and OpenAI developments. The post discusses market trends in…
-  - 资金 100.00 / 广度 62.04 / 确认 19.44 / 脆弱性 14.00
+- Binance Shoes | BSC | 加速中 | 强度 85.23 | 质量 83.57
+  - 主题摘要：Binance Chinese community shared photos of a pair of yellow Binance-themed sneakers received as a Mid-Autumn Festival gift. The unique physical merchandise from the exchange spark…
+  - 资金 100.00 / 广度 98.51 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Real-Life Flap-Cat | BSC | 加速中 | 强度 78.93 | 质量 70.77
-  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, a cat with a natural bow-like pattern on its neck is identified as a real-life version of the Flap-Cat mascot. The post highlights the visual si…
-  - 资金 100.00 / 广度 79.74 / 确认 23.76 / 脆弱性 14.00
+- Clinically Monitored | BSC | 加速中 | 强度 84.57 | 质量 82.78
+  - 主题摘要：Binance officially uses the phrase "clinically monitored" to describe its safety and security measures, implying rigorous, scientific oversight. This creates a humorous contrast b…
+  - 资金 100.00 / 广度 95.86 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 信念 | BSC | 降温中 | 强度 78.67 | 质量 67.20
+- CZ Endorses Prediction Markets on BNB Chain | BSC | 加速中 | 强度 84.01 | 质量 82.57
+  - 主题摘要：CZ转发predict.fun推文，正式引入基于BNB Chain和Chainlink的实时股票价格预测市场，标志着传统金融与加密货币预测平台的深度融合。
+  - 资金 100.00 / 广度 95.16 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GTA6 | Solana | 降温中 | 强度 83.76 | 质量 72.84
+  - 主题摘要：Multiple tokens named 「GTA 6 Coin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.92 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- World AI Fund | Solana | 降温中 | 强度 83.25 | 质量 71.08
+  - 主题摘要：Multiple tokens named 「WAIF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.06 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binancians | BSC | 已确认 | 强度 81.50 | 质量 72.73
+  - 主题摘要：According to Whale Insider's post, Binancians has launched a social trading application on the BNB Chain. The platform allows users to follow top traders, share market ideas, and…
+  - 资金 100.00 / 广度 76.11 / 确认 31.92 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- 信念 | BSC | 降温中 | 强度 80.35 | 质量 67.36
   - 主题摘要：Multiple tokens named 「信念」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 57.15 / 确认 9.36 / 脆弱性 10.00
+  - 资金 100.00 / 广度 57.66 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nerd Toast | Solana | 加速中 | 强度 77.99 | 质量 66.54
-  - 主题摘要：NERD token draws inspiration from internet culture, featuring a cartoon toast character in aviator goggles flying an airplane. The logo depicts a fiery scene with the toast charac…
-  - 资金 100.00 / 广度 74.50 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- THIS IS SO GOOD | Solana | 降温中 | 强度 77.84 | 质量 64.35
-  - 主题摘要：According to A Meme Pad's post, the platform positions itself as a Solana launchpad focused on community value. It details a three-layer payout system involving BTC mining, treasu…
-  - 资金 100.00 / 广度 75.09 / 确认 13.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- miao coin | Solana | 点火期 | 强度 75.84 | 质量 71.28
-  - 主题摘要：miao coin emerged as a satirical response to other cat-themed tokens, positioning itself as 'Miaooo' rather than 'GigaCat'. The logo features a cat with a distinctive expression,…
-  - 资金 100.00 / 广度 70.72 / 确认 9.36 / 脆弱性 24.00
+- Prom Launches PROM Token | Solana | 点火期 | 强度 79.00 | 质量 78.94
+  - 主题摘要：According to Prom's post, the PROM token is now live. Prom claims that users can earn a share of the pool fees by tagging their account, @usePromX, in interactions.
+  - 资金 100.00 / 广度 97.60 / 确认 7.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Flap 🦋 comments on HTX | BSC | 加速中 | 强度 75.35 | 质量 74.30
-  - 主题摘要：According to Flap 🦋's post, the user commented on HTX_Global's tweet regarding cat-themed tokens, stating that HTX 'did the thing.' This interaction highlights Flap 🦋's acknowledg…
-  - 资金 100.00 / 广度 84.34 / 确认 27.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged CATE Meme Coin Launch | Solana | 降温中 | 强度 75.27 | 质量 63.49
-  - 主题摘要：According to thedevrrrrrr's post, the author suggests running a CATE token similar to DOGE, implying an alleged launch of a CATE meme coin. This information is unverified. Please…
-  - 资金 95.42 / 广度 90.04 / 确认 4.32 / 脆弱性 14.00
+- VSOF | Solana | 降温中 | 强度 77.85 | 质量 66.41
+  - 主题摘要：Multiple tokens named 「VSOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 54.51 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Poly Mascot Token | BSC | 加速中 | 强度 77.09 | 质量 76.60
+  - 主题摘要：According to Polymarket Traders's post, the account replied to a user claiming to be 'Poly' with a question. This interaction references the Polymarket Mascot token, a cryptocurre…
+  - 资金 100.00 / 广度 89.61 / 确认 35.28 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Flap 🦋 comments on HTX | BSC | 加速中 | 强度 74.41 | 质量 72.24
+  - 主题摘要：According to Flap 🦋's post, the user commented on HTX_Global's tweet with the phrase "did the thing 🦋". This statement appears to be a supportive or acknowledging remark regarding…
+  - 资金 100.00 / 广度 84.43 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Binance Intern Comments on AI Agent Usage | BSC | 加速中 | 强度 74.26 | 质量 59.77
+  - 主题摘要：Binance Intern (@Binance_intern) replied to Aryanny Infante, agreeing that her description of using an AI agent for ecosystem narrative summaries represents a 'Binance lifestyle.'…
+  - 资金 100.00 / 广度 75.07 / 确认 23.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Meme Coin Honky Chonk Beardonkadonk | Solana | 降温中 | 强度 74.26 | 质量 61.30
+  - 主题摘要：According to U.S. Department of the Interior's post, the entity shared a Meme image titled "Honky Chonk Beardonkadonk." This content is associated with cryptocurrency tokens beari…
+  - 资金 100.00 / 广度 79.49 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Forbes: Fat Bear Week Finalists | Solana | 点火期 | 强度 73.39 | 质量 64.89
+  - 主题摘要：According to Forbes's post, the publication highlighted the 12 finalists of the 2026 Fat Bear Week competition held at Katmai National Park, Alaska. The article features photograp…
+  - 资金 100.00 / 广度 86.08 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.5，其中已确认叙事 0 个。
-- Poly Mascot Token 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- NTDA 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.18，其中已确认叙事 1 个。
+- Binance Shoes 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- GTA6 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- He Yi Recommends Green Label | 质量 84.97 | 可交易性 100.00 | 风险 低
-- Poly Mascot Token | 质量 82.64 | 可交易性 100.00 | 风险 低
-- NTDA | 质量 79.46 | 可交易性 100.00 | 风险 低
-- Flap 🦋 comments on HTX | 质量 74.30 | 可交易性 100.00 | 风险 低
-- THE PIT $PIT Launch | 质量 73.48 | 可交易性 100.00 | 风险 低
-- Alleged Nasduck Token Discussion | 质量 72.75 | 可交易性 100.00 | 风险 低
-- miao coin | 质量 71.28 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged Lobster Meme Image Analysis | 质量 70.89 | 可交易性 100.00 | 风险 低
-- Alleged Real-Life Flap-Cat | 质量 70.77 | 可交易性 78.74 | 风险 低
-- Xpress Bridge Currency | 质量 68.72 | 可交易性 100.00 | 风险 低
+- Binance Shoes | 质量 83.57 | 可交易性 100.00 | 风险 低
+- Clinically Monitored | 质量 82.78 | 可交易性 100.00 | 风险 低
+- CZ Endorses Prediction Markets on BNB Chain | 质量 82.57 | 可交易性 100.00 | 风险 低
+- Prom Launches PROM Token | 质量 78.94 | 可交易性 99.69 | 风险 低
+- Poly Mascot Token | 质量 76.60 | 可交易性 98.08 | 风险 低
+- GTA6 | 质量 72.84 | 可交易性 100.00 | 风险 低
+- Binancians | 质量 72.73 | 可交易性 82.90 | 风险 低
+- Flap 🦋 comments on HTX | 质量 72.24 | 可交易性 100.00 | 风险 低
+- World AI Fund | 质量 71.08 | 可交易性 100.00 | 风险 低
+- 信念 | 质量 67.36 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- miao coin | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Prom Launches PROM Token | 风险 54.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Forbes: Fat Bear Week Finalists | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
+- 和平熊猫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- 友谊使者 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TRUMAN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Poly | BSC | 看多 | 新鲜度 100.00 | Poly Mascot Token
-- 乖乖 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Lobby | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - OTC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SHARTCOIN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPIKE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - VDINO | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TRUE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- MEME | BSC | 看多 | 新鲜度 97.10 | 暂无直接叙事映射
+- RASMR | Solana | 看多 | 新鲜度 90.22 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：NTDA（Solana，分数 89.55）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：NTDA 当前为“新出现”
+1. 当前最强叙事：Binance Shoes（BSC，分数 85.23）
+2. 共振最强代币：STONK（Solana，共振 100.0）
+3. 记忆层变化：Binance Shoes 当前为“新出现”
 4. 最新官方催化：Trade bStocks 24/7 and Win Up to 500 USDT in Token Vouchers
 #Binance #NarrativeOS #OpenClaw
