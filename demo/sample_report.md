@@ -1,101 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-25T12:10:30.227789+00:00
+- 生成时间：2026-09-25T17:05:33.152551+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 esoteric Mentions Panda Token，所在链为 BSC，叙事强度 88.05。
-- 当前平均叙事强度为 79.49，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Whitehat Saves $5.7M NFTs 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Lets fuckin go，伪叙事风险 47.79。
+- 当前最强叙事是 World Oil Asset Reserve，所在链为 Solana，叙事强度 87.57。
+- 当前平均叙事强度为 83.39，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 World Oil Asset Reserve 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 World Oil Trust Fund，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products。
 
 ## 叙事雷达
 
-- esoteric Mentions Panda Token | BSC | 已确认 | 强度 88.05 | 质量 82.24
+- World Oil Asset Reserve | Solana | 降温中 | 强度 87.57 | 质量 76.27
+  - 主题摘要：Multiple tokens named 「WOAR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.10 / 确认 16.56 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- embercurve | Solana | 降温中 | 强度 85.51 | 质量 73.14
+  - 主题摘要：Multiple tokens named 「EMBER」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.93 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- United States Dividend Fund | Solana | 降温中 | 强度 84.78 | 质量 72.81
+  - 主题摘要：Multiple tokens named 「USDF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.84 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- World Oil Trust Fund | Solana | 降温中 | 强度 84.63 | 质量 76.17
+  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.03 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Jean Bagwork | Solana | 降温中 | 强度 83.90 | 质量 75.00
+  - 主题摘要：Multiple tokens named 「JEANWORK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.13 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- esoteric Mentions Panda Token | BSC | 加速中 | 强度 82.03 | 质量 72.23
   - 主题摘要：Multiple tokens named 「平平福双」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.89 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Whitehat Saves $5.7M NFTs | Solana | 加速中 | 强度 87.65 | 质量 78.56
-  - 主题摘要：According to Zald's post, the individual associated with the 0xQuit token is Canadian, making X Money unavailable. Zald further claims that fees are directed to the individual's m…
-  - 资金 100.00 / 广度 88.86 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.77 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BITCOIN666 | Solana | 降温中 | 强度 85.07 | 质量 73.32
-  - 主题摘要：BT666 is a satirical meme token inspired by Bitcoin's dark side, featuring a neon Bitcoin logo with digital circuitry. It embraces chaos and rebellion, positioning itself as 'the…
-  - 资金 100.00 / 广度 77.52 / 确认 9.36 / 脆弱性 0.00
+- SOL Rising | Solana | 降温中 | 强度 81.88 | 质量 72.38
+  - 主题摘要：Multiple tokens named 「SOLRISING」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.12 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Q Shares Zoo Tax Grok Link | BSC | 已确认 | 强度 84.19 | 质量 76.31
+- WEPE | Solana | 降温中 | 强度 79.48 | 质量 68.71
+  - 主题摘要：According to Papu🐸💌🐸's post, the author, former CTO of APU, claims to have created the Wepe Meme image with the goal of surpassing Pepe on Solana. This information is unverified.…
+  - 资金 100.00 / 广度 62.17 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged MIMRIGS Mining Protocol | Solana | 降温中 | 强度 79.39 | 质量 68.20
+  - 主题摘要：According to Magic Internet Money's post, the MIMRIGS protocol allegedly introduces a mining economy where creator fees from Pump.fun launches fund SOL rewards. Holders earn hashr…
+  - 资金 100.00 / 广度 60.48 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Flap 🦋 Endorses Flap Token | BSC | 加速中 | 强度 78.96 | 质量 68.65
+  - 主题摘要：According to Flap 🦋's post, the author explicitly endorses the 'Flap' token in response to a query regarding career choices. The statement indicates a preference for the token ove…
+  - 资金 100.00 / 广度 72.28 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Q Shares Zoo Tax Grok Link | BSC | 加速中 | 强度 77.10 | 质量 64.51
   - 主题摘要：Multiple tokens named 「平平福双」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.06 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Niu Bawang Mentions Telegram Landscape Marketing | BSC | 加速中 | 强度 81.09 | 质量 72.04
-  - 主题摘要：According to 牛霸王's post, landscape marketing on Telegram has been included or recorded. The post indicates a specific marketing strategy or content format within the Telegram plat…
-  - 资金 100.00 / 广度 62.17 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.16 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- AROS | Solana | 降温中 | 强度 78.73 | 质量 64.88
-  - 主题摘要：Multiple tokens named 「AROS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 61.80 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Agent Desk Launches Autonomous Trading Agent | Solana | 降温中 | 强度 78.62 | 质量 63.97
-  - 主题摘要：According to Agent Desk's post, the platform simplifies deploying autonomous trading agents. Users select an agent and strategy to launch a coin, after which the agent trades and…
-  - 资金 100.00 / 广度 82.46 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蝴蝶人能飞🦋1067307360 | BSC | 降温中 | 强度 78.15 | 质量 70.00
+- 蝴蝶人能飞🦋1067307360 | BSC | 降温中 | 强度 76.41 | 质量 68.44
   - 主题摘要：Multiple tokens named 「蝴蝶人能飞」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.78 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 86.46 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Shoes | BSC | 加速中 | 强度 77.16 | 质量 76.46
-  - 主题摘要：Binance Chinese community shared photos of a pair of yellow Binance-themed sneakers received as a Mid-Autumn Festival gift. The unique physical merchandise from the exchange spark…
-  - 资金 100.00 / 广度 97.68 / 确认 23.76 / 脆弱性 24.00
+- Binance Moon Sneakers | BSC | 加速中 | 强度 75.86 | 质量 76.79
+  - 主题摘要：A Binance fan showcases a full yellow outfit featuring custom Binance sneakers and a box labeled "MOON" during the Mid-Autumn Festival, blending crypto lifestyle with holiday cele…
+  - 资金 100.00 / 广度 97.72 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Lets fuckin go | Solana | 点火期 | 强度 76.06 | 质量 70.04
-  - 主题摘要：Multiple tokens named 「LFG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 98.31 / 广度 66.61 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Clinically Monitored | BSC | 加速中 | 强度 75.82 | 质量 74.75
-  - 主题摘要：Binance officially uses the phrase "clinically monitored" to describe its safety and security measures, implying rigorous, scientific oversight. This creates a humorous contrast b…
-  - 资金 100.00 / 广度 94.86 / 确认 23.76 / 脆弱性 24.00
+- DIRSS Comments on ur mom coin | BSC | 加速中 | 强度 74.95 | 质量 73.91
+  - 主题摘要：According to DIRSS's post, the token ur mom coin is being launched on the FOUR platform, which explains its lack of price momentum.
+  - 资金 100.00 / 广度 81.45 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nate Esparza's Meme Post | BSC | 加速中 | 强度 75.75 | 质量 63.38
-  - 主题摘要：According to Nate Esparza's post, he stated that "Life is a meme." This expression reflects a philosophical or cultural perspective on existence, utilizing internet meme terminolo…
-  - 资金 100.00 / 广度 79.64 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Endorses Prediction Markets on BNB Chain | BSC | 加速中 | 强度 75.73 | 质量 74.65
-  - 主题摘要：CZ转发predict.fun推文，正式引入基于BNB Chain和Chainlink的实时股票价格预测市场，标志着传统金融与加密货币预测平台的深度融合。
-  - 资金 100.00 / 广度 94.47 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Humpin Meme Coin | Solana | 降温中 | 强度 75.26 | 质量 67.14
-  - 主题摘要：According to seri's post, a viral cat image is compared to the Jorkin and Goon coins, suggesting the emergence of a new meme coin named Humpin. This information is unverified. Ple…
-  - 资金 100.00 / 广度 60.81 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.49，其中已确认叙事 2 个。
-- Alleged Whitehat Saves $5.7M NFTs 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- BITCOIN666 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.39，其中已确认叙事 0 个。
+- Flap 🦋 Endorses Flap Token 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- World Oil Asset Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- esoteric Mentions Panda Token | 质量 82.24 | 可交易性 100.00 | 风险 低
-- Alleged Whitehat Saves $5.7M NFTs | 质量 78.56 | 可交易性 98.22 | 风险 低
-- Binance Shoes | 质量 76.46 | 可交易性 100.00 | 风险 低
-- Q Shares Zoo Tax Grok Link | 质量 76.31 | 可交易性 94.73 | 风险 低
-- Clinically Monitored | 质量 74.75 | 可交易性 100.00 | 风险 低
-- CZ Endorses Prediction Markets on BNB Chain | 质量 74.65 | 可交易性 100.00 | 风险 低
-- BITCOIN666 | 质量 73.32 | 可交易性 100.00 | 风险 低
-- Niu Bawang Mentions Telegram Landscape Marketing | 质量 72.04 | 可交易性 100.00 | 风险 低
-- Lets fuckin go | 质量 70.04 | 可交易性 100.00 | 风险 低
-- 蝴蝶人能飞🦋1067307360 | 质量 70.00 | 可交易性 96.03 | 风险 低
+- Binance Moon Sneakers | 质量 76.79 | 可交易性 100.00 | 风险 低
+- World Oil Asset Reserve | 质量 76.27 | 可交易性 100.00 | 风险 低
+- World Oil Trust Fund | 质量 76.17 | 可交易性 100.00 | 风险 低
+- Jean Bagwork | 质量 75.00 | 可交易性 100.00 | 风险 低
+- DIRSS Comments on ur mom coin | 质量 73.91 | 可交易性 86.96 | 风险 低
+- embercurve | 质量 73.14 | 可交易性 100.00 | 风险 低
+- United States Dividend Fund | 质量 72.81 | 可交易性 100.00 | 风险 低
+- SOL Rising | 质量 72.38 | 可交易性 100.00 | 风险 低
+- esoteric Mentions Panda Token | 质量 72.23 | 可交易性 96.66 | 风险 低
+- WEPE | 质量 68.71 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Lets fuckin go | 风险 47.79 | 原因：流动性偏薄
-- 蝴蝶人能飞🦋1067307360 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- World Oil Trust Fund | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -104,11 +103,11 @@
 - CMC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 和平熊猫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 友谊使者 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- TRUMAN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BRICK | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - COLLECT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TTP | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- AI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPIKE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- VDINO | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：esoteric Mentions Panda Token（BSC，分数 88.05）
-2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Alleged Whitehat Saves $5.7M NFTs 当前为“新出现”
+1. 当前最强叙事：World Oil Asset Reserve（Solana，分数 87.57）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：World Oil Asset Reserve 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products
 #Binance #NarrativeOS #OpenClaw
