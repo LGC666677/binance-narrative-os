@@ -1,103 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-24T23:24:55.685209+00:00
+- 生成时间：2026-09-25T01:38:19.909156+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：0
+- 已确认叙事：1
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 FomoFantasy Fantasy League Launch，所在链为 Solana，叙事强度 86.7。
-- 当前平均叙事强度为 81.57，其中已确认叙事 0 个。
+- 当前最强叙事是 esoteric Mentions Panda Token，所在链为 BSC，叙事强度 87.7。
+- 当前平均叙事强度为 80.44，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 FomoFantasy Fantasy League Launch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Trencher Bill Proposes BNB Pair for CMC，伪叙事风险 47.73。
+- 记忆层显示 Alleged Gofundpump Donation System 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 FomoFantasy Fantasy League Launch，伪叙事风险 53.0。
 - 最新官方催化来自 最新活动：Trade bStocks 24/7 and Win Up to 500 USDT in Token Vouchers。
 
 ## 叙事雷达
 
-- FomoFantasy Fantasy League Launch | Solana | 加速中 | 强度 86.70 | 质量 76.12
-  - 主题摘要：According to FomoFantasy's post, the platform introduces FomoFantasy, a fantasy league built on real trading activity. Users draft a team of five traders, designate a captain whos…
-  - 资金 100.00 / 广度 75.79 / 确认 24.48 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Holdoween | Solana | 降温中 | 强度 86.31 | 质量 76.95
-  - 主题摘要：Multiple tokens named 「Holdoween」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.64 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- esoteric Mentions Panda Token | BSC | 点火期 | 强度 81.92 | 质量 78.86
+- esoteric Mentions Panda Token | BSC | 已确认 | 强度 87.70 | 质量 82.34
   - 主题摘要：According to esoteric's post, the Peace Panda tokens will reside in the United States, with a stated price of $1. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 90.71 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- NIGHTFANG | Solana | 加速中 | 强度 81.31 | 质量 71.16
-  - 主题摘要：Multiple tokens named 「NIGHTFANG」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.43 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Hermes | Solana | 降温中 | 强度 80.72 | 质量 68.44
-  - 主题摘要：Multiple tokens named 「HERMES」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.13 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 91.76 / 确认 30.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Holdoween | Solana | 降温中 | 强度 86.74 | 质量 77.65
+  - 主题摘要：Multiple tokens named 「Holdoween」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 91.97 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Rockstar Grand Theft Auto VI | Solana | 降温中 | 强度 79.95 | 质量 70.46
-  - 主题摘要：Multiple tokens named 「GTA VI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 90.21 / 广度 78.49 / 确认 9.36 / 脆弱性 14.00
+- Alleged Gofundpump Donation System | Solana | 降温中 | 强度 85.50 | 质量 77.70
+  - 主题摘要：According to Gofundpump's post, the Gofundpump system allegedly collects rewards from launched coins into Solana wallets and off-ramps balances to a GoFundMe organization account.…
+  - 资金 100.00 / 广度 92.12 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Shoes | BSC | 加速中 | 强度 78.89 | 质量 76.85
-  - 主题摘要：Binance Chinese community shared photos of a pair of yellow Binance-themed sneakers received as a Mid-Autumn Festival gift. The unique physical merchandise from the exchange spark…
-  - 资金 100.00 / 广度 98.15 / 确认 23.76 / 脆弱性 14.00
+- SolRain | Solana | 加速中 | 强度 84.81 | 质量 74.94
+  - 主题摘要：Multiple tokens named 「SOLRAIN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.77 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Flap 🦋 comments on HTX | BSC | 加速中 | 强度 78.85 | 质量 77.82
-  - 主题摘要：According to Flap 🦋's post, the user commented on HTX_Global's tweet with the phrase "did the thing 🦋". This interaction references a previous post by HTX_Global regarding "cat sz…
-  - 资金 100.00 / 广度 84.62 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 信念 | BSC | 降温中 | 强度 78.55 | 质量 67.38
-  - 主题摘要：Multiple tokens named 「信念」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 57.72 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Q Shares Zoo Tax Grok Link | BSC | 点火期 | 强度 78.48 | 质量 73.69
+- Q Shares Zoo Tax Grok Link | BSC | 加速中 | 强度 84.44 | 质量 77.64
   - 主题摘要：Multiple tokens named 「平平福双」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.59 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Clinically Monitored | BSC | 加速中 | 强度 78.11 | 质量 75.95
-  - 主题摘要：Binance officially uses the phrase "clinically monitored" to describe its safety and security measures, implying rigorous, scientific oversight. This creates a humorous contrast b…
-  - 资金 100.00 / 广度 95.50 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.71 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Endorses Prediction Markets on BNB Chain | BSC | 加速中 | 强度 77.95 | 质量 75.77
-  - 主题摘要：CZ转发predict.fun推文，正式引入基于BNB Chain和Chainlink的实时股票价格预测市场，标志着传统金融与加密货币预测平台的深度融合。
-  - 资金 100.00 / 广度 94.82 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Poly Mascot Token | BSC | 加速中 | 强度 77.76 | 质量 75.71
-  - 主题摘要：According to Polymarket Traders's post, the account replied to a user claiming to be 'Poly' with a question. This interaction references the Polymarket Mascot token, a cryptocurre…
-  - 资金 100.00 / 广度 89.57 / 确认 35.28 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Trencher Bill Proposes BNB Pair for CMC | Solana | 降温中 | 强度 74.46 | 质量 63.65
-  - 主题摘要：Multiple tokens named 「CMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 86.74 / 广度 87.66 / 确认 9.36 / 脆弱性 14.00
+- World Strategic Oil Supply | Solana | 降温中 | 强度 82.76 | 质量 70.57
+  - 主题摘要：Multiple tokens named 「WSOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.37 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 信念 | BSC | 降温中 | 强度 82.29 | 质量 70.45
+  - 主题摘要：Multiple tokens named 「信念」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.97 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- FomoFantasy Fantasy League Launch | Solana | 降温中 | 强度 80.89 | 质量 75.40
+  - 主题摘要：According to FomoFantasy's post, the platform introduces FomoFantasy, a fantasy league built on real trading. Users draft a team of five traders, select a captain with double-poin…
+  - 资金 100.00 / 广度 88.41 / 确认 12.96 / 脆弱性 52.63
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CATAPE | Solana | 加速中 | 强度 80.84 | 质量 71.71
+  - 主题摘要：Multiple tokens named 「CATAPE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 61.09 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Tuggin | Solana | 降温中 | 强度 79.26 | 质量 68.40
+  - 主题摘要：Multiple tokens named 「TUGGIN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 97.65 / 广度 66.20 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Shoes | BSC | 加速中 | 强度 77.67 | 质量 77.30
+  - 主题摘要：Binance Chinese community shared photos of a pair of yellow Binance-themed sneakers received as a Mid-Autumn Festival gift. The unique physical merchandise from the exchange spark…
+  - 资金 100.00 / 广度 98.10 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Flap 🦋 comments on HTX | BSC | 加速中 | 强度 77.31 | 质量 77.40
+  - 主题摘要：According to Flap 🦋's post, the user commented on HTX_Global's tweet with the phrase "did the thing 🦋". This interaction references a previous post by HTX_Global regarding "cat sz…
+  - 资金 100.00 / 广度 84.66 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Clinically Monitored | BSC | 加速中 | 强度 76.91 | 质量 76.52
+  - 主题摘要：Binance officially uses the phrase "clinically monitored" to describe its safety and security measures, implying rigorous, scientific oversight. This creates a humorous contrast b…
+  - 资金 100.00 / 广度 95.50 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ Endorses Prediction Markets on BNB Chain | BSC | 加速中 | 强度 76.75 | 质量 76.34
+  - 主题摘要：CZ转发predict.fun推文，正式引入基于BNB Chain和Chainlink的实时股票价格预测市场，标志着传统金融与加密货币预测平台的深度融合。
+  - 资金 100.00 / 广度 94.83 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.57，其中已确认叙事 0 个。
-- FomoFantasy Fantasy League Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.44，其中已确认叙事 1 个。
+- SolRain 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Holdoween 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- esoteric Mentions Panda Token | 质量 78.86 | 可交易性 100.00 | 风险 低
-- Flap 🦋 comments on HTX | 质量 77.82 | 可交易性 100.00 | 风险 低
-- Holdoween | 质量 76.95 | 可交易性 100.00 | 风险 低
-- Binance Shoes | 质量 76.85 | 可交易性 100.00 | 风险 低
-- FomoFantasy Fantasy League Launch | 质量 76.12 | 可交易性 100.00 | 风险 低
-- Clinically Monitored | 质量 75.95 | 可交易性 100.00 | 风险 低
-- CZ Endorses Prediction Markets on BNB Chain | 质量 75.77 | 可交易性 100.00 | 风险 低
-- Poly Mascot Token | 质量 75.71 | 可交易性 98.05 | 风险 低
-- Q Shares Zoo Tax Grok Link | 质量 73.69 | 可交易性 95.54 | 风险 低
-- NIGHTFANG | 质量 71.16 | 可交易性 100.00 | 风险 低
+- esoteric Mentions Panda Token | 质量 82.34 | 可交易性 100.00 | 风险 低
+- Alleged Gofundpump Donation System | 质量 77.70 | 可交易性 100.00 | 风险 低
+- Holdoween | 质量 77.65 | 可交易性 100.00 | 风险 低
+- Q Shares Zoo Tax Grok Link | 质量 77.64 | 可交易性 98.01 | 风险 低
+- Flap 🦋 comments on HTX | 质量 77.40 | 可交易性 100.00 | 风险 低
+- Binance Shoes | 质量 77.30 | 可交易性 100.00 | 风险 低
+- Clinically Monitored | 质量 76.52 | 可交易性 100.00 | 风险 低
+- CZ Endorses Prediction Markets on BNB Chain | 质量 76.34 | 可交易性 100.00 | 风险 低
+- FomoFantasy Fantasy League Launch | 质量 75.40 | 可交易性 93.43 | 风险 低
+- SolRain | 质量 74.94 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Trencher Bill Proposes BNB Pair for CMC | 风险 47.73 | 原因：流动性偏薄
-- Q Shares Zoo Tax Grok Link | 风险 44.91 | 原因：流动性偏薄
-- Rockstar Grand Theft Auto VI | 风险 44.60 | 原因：流动性偏薄
-- esoteric Mentions Panda Token | 风险 42.03 | 原因：流动性偏薄
+- FomoFantasy Fantasy League Launch | 风险 53.00 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Tuggin | 风险 43.11 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,12 +103,12 @@
 - 和平熊猫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 友谊使者 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TRUMAN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Poly | BSC | 看多 | 新鲜度 100.00 | Poly Mascot Token
+- COLLECT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - METSUMI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - JOLLY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- OTC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPIKE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- VDINO | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：FomoFantasy Fantasy League Launch（Solana，分数 86.7）
+1. 当前最强叙事：esoteric Mentions Panda Token（BSC，分数 87.7）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：FomoFantasy Fantasy League Launch 当前为“新出现”
+3. 记忆层变化：Alleged Gofundpump Donation System 当前为“新出现”
 4. 最新官方催化：Trade bStocks 24/7 and Win Up to 500 USDT in Token Vouchers
 #Binance #NarrativeOS #OpenClaw
