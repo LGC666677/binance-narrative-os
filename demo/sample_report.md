@@ -1,100 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-26T01:42:33.217054+00:00
+- 生成时间：2026-09-26T06:35:52.141234+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Cream Token Launch by Crémieux，所在链为 Solana，叙事强度 89.27。
-- 当前平均叙事强度为 81.84，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Cream Token Launch by Crémieux 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 蝴蝶人能飞🦋1067307360，伪叙事风险 40.99。
+- 当前最强叙事是 Xpress Bridge Currency，所在链为 Solana，叙事强度 88.57。
+- 当前平均叙事强度为 81.54，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 Xpress Bridge Currency 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Vitalik Buterin's d/acc Philosophy，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products。
 
 ## 叙事雷达
 
-- Alleged Cream Token Launch by Crémieux | Solana | 加速中 | 强度 89.27 | 质量 81.72
-  - 主题摘要：According to Crémieux's post, the individual allegedly launched a token named 'Cream' via the UsePaid platform. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 94.44 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World AI Fund | Solana | 降温中 | 强度 86.02 | 质量 73.98
-  - 主题摘要：Multiple tokens named 「WAIF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.73 / 确认 9.36 / 脆弱性 0.00
+- Xpress Bridge Currency | Solana | 降温中 | 强度 88.57 | 质量 80.06
+  - 主题摘要：Multiple tokens named 「XBC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Oura Files for IPO | Solana | 降温中 | 强度 82.70 | 质量 72.51
-  - 主题摘要：According to Polymarket's post, Oura, the maker of the Oura Ring, has confidentially filed for an Initial Public Offering (IPO). This financial development marks a significant ste…
-  - 资金 100.00 / 广度 72.17 / 确认 13.00 / 脆弱性 0.00
+- Orvix Agent | Solana | 降温中 | 强度 85.46 | 质量 73.80
+  - 主题摘要：Multiple tokens named 「Orvix」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.12 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- fric | Solana | 降温中 | 强度 82.34 | 质量 69.76
-  - 主题摘要：Multiple tokens named 「FRIC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.68 / 确认 9.36 / 脆弱性 0.00
+- United States Water Reserve | Solana | 降温中 | 强度 83.97 | 质量 71.80
+  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.48 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- esoteric Mentions Panda Token | BSC | 加速中 | 强度 82.02 | 质量 73.00
+- Nate Esparza on X Platform | Solana | 降温中 | 强度 82.19 | 质量 70.75
+  - 主题摘要：According to Nate Esparza's post, he stated that the platform is now called X, expressing doubt that the Crypto Twitter community will change its terminology despite the official…
+  - 资金 100.00 / 广度 80.71 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- esoteric Mentions Panda Token | BSC | 加速中 | 强度 80.42 | 质量 72.83
   - 主题摘要：Multiple tokens named 「平平福双」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.16 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.61 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Flap Protocol Live Stream Promotion | BSC | 降温中 | 强度 81.86 | 质量 73.63
-  - 主题摘要：According to 校长 Jason| Flap🦋's post, the Flap protocol is hosting a Chinese live stream to discuss the integration of real-world assets and meme culture. The session highlights ne…
-  - 资金 100.00 / 广度 73.29 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elizabeth Holmes Responds to Xmoney Inquiry | Solana | 加速中 | 强度 80.75 | 质量 77.54
-  - 主题摘要：According to Elizabeth Holmes's post, she replied affirmatively to a query regarding 'xmoney'. Concurrently, multiple tokens named 'Elizabeth Holmes' and 'Theranos' have been crea…
-  - 资金 100.00 / 广度 83.03 / 确认 23.76 / 脆弱性 14.00
+- Jibe | BSC | 加速中 | 强度 80.28 | 质量 73.86
+  - 主题摘要：Multiple tokens named 「JIBE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.41 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- X Users Report Unsolicited Funds | Solana | 降温中 | 强度 79.31 | 质量 66.97
-  - 主题摘要：According to Polymarket's post, X users are reporting being "financially DDOS'd" with tens of thousands of dollars being sent to them unsolicited via X Money. This information is…
-  - 资金 100.00 / 广度 76.97 / 确认 12.96 / 脆弱性 14.00
+- Alleged X Logo Creator Token | Solana | 降温中 | 强度 79.82 | 质量 66.82
+  - 主题摘要：According to scar's post, AJ Tourville designed the X logo but allegedly never received compensation or claimed associated crypto assets. The post references a token named $X, cla…
+  - 资金 100.00 / 广度 74.31 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Flap 🦋 Endorses Flap Token | BSC | 降温中 | 强度 78.37 | 质量 68.16
-  - 主题摘要：According to Flap 🦋's post, the author explicitly endorses the 'Flap' token in response to a query regarding career choices. The statement indicates a preference for the token ove…
-  - 资金 100.00 / 广度 73.34 / 确认 16.56 / 脆弱性 14.00
+- Alleged 𝕏 Token Deployment | Solana | 降温中 | 强度 79.24 | 质量 65.86
+  - 主题摘要：According to Benno🀄️'s post, an asset symbolized as 𝕏 was deployed and bonded yesterday. Benno🀄️ claims this is unrelated to the official X brand and suggests that OG holders shou…
+  - 资金 100.00 / 广度 76.20 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Get Rich Overnight Token | Solana | 降温中 | 强度 77.35 | 质量 62.98
-  - 主题摘要：According to I_getsjiggy's post, the author claims that investors can get rich overnight, referencing a Nasdaq tweet about 23/5 trading. This content is associated with tokens nam…
-  - 资金 100.00 / 广度 74.71 / 确认 9.36 / 脆弱性 14.00
+- Vitalik Buterin's d/acc Philosophy | Solana | 点火期 | 强度 76.99 | 质量 73.45
+  - 主题摘要：Vitalik Buterin defines his philosophy as 'd/acc' (defensive accelerationism) in a reply to a critique of centralized actors in e/acc and EA camps. This stance emphasizes balancin…
+  - 资金 100.00 / 广度 85.50 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Spongey Clarifies X Token | Solana | 降温中 | 强度 76.11 | 质量 60.36
+  - 主题摘要：According to Spongey 🔸 👀's post, the official X brand identity is simply "𝕏" and should not be referred to as "X coin," as they are completely unrelated. The post clarifies that t…
+  - 资金 100.00 / 广度 77.48 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Q Shares Zoo Tax Grok Link | BSC | 加速中 | 强度 77.17 | 质量 65.33
+- Q Shares Zoo Tax Grok Link | BSC | 加速中 | 强度 75.74 | 质量 65.33
   - 主题摘要：Multiple tokens named 「平平福双」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.93 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 70.95 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Jean Phil | Solana | 降温中 | 强度 76.97 | 质量 64.35
-  - 主题摘要：Multiple tokens named 「JEANPHIL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.06 / 确认 9.36 / 脆弱性 14.00
+- 币安时代 | BSC | 降温中 | 强度 75.70 | 质量 66.02
+  - 主题摘要：Multiple tokens named 「币安时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 54.80 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蝴蝶人能飞🦋1067307360 | BSC | 降温中 | 强度 74.71 | 质量 69.06
-  - 主题摘要：Multiple tokens named 「蝴蝶人能飞」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.25 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Hold Community | BSC | 加速中 | 强度 73.76 | 质量 59.54
-  - 主题摘要：Multiple tokens named 「HOLDCo」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.15 / 确认 24.48 / 脆弱性 29.41
+- boring Criticizes Genius Platform High Tax | BSC | 加速中 | 强度 74.86 | 质量 62.54
+  - 主题摘要：According to boring's post, the user urges the developer to launch a GME token to compete with the Genius narrative. The post criticizes the Genius platform's high transaction tax…
+  - 资金 100.00 / 广度 76.73 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GME Stock Activity | BSC | 加速中 | 强度 74.64 | 质量 62.17
+  - 主题摘要：According to Washywash's post, GameStop (GME) stock has risen nearly 100% in recent weeks, coinciding with the fifth anniversary of the original short squeeze. The post cites rumo…
+  - 资金 100.00 / 广度 76.16 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.84，其中已确认叙事 0 个。
-- Alleged Cream Token Launch by Crémieux 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- World AI Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.54，其中已确认叙事 0 个。
+- Jibe 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Xpress Bridge Currency 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Cream Token Launch by Crémieux | 质量 81.72 | 可交易性 100.00 | 风险 低
-- Elizabeth Holmes Responds to Xmoney Inquiry | 质量 77.54 | 可交易性 98.00 | 风险 低
-- World AI Fund | 质量 73.98 | 可交易性 100.00 | 风险 低
-- Uncertain:Flap Protocol Live Stream Promotion | 质量 73.63 | 可交易性 100.00 | 风险 低
-- esoteric Mentions Panda Token | 质量 73.00 | 可交易性 96.96 | 风险 低
-- Oura Files for IPO | 质量 72.51 | 可交易性 100.00 | 风险 低
-- fric | 质量 69.76 | 可交易性 100.00 | 风险 低
-- 蝴蝶人能飞🦋1067307360 | 质量 69.06 | 可交易性 94.90 | 风险 低
-- Flap 🦋 Endorses Flap Token | 质量 68.16 | 可交易性 81.70 | 风险 低
-- X Users Report Unsolicited Funds | 质量 66.97 | 可交易性 76.76 | 风险 低
+- Xpress Bridge Currency | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Jibe | 质量 73.86 | 可交易性 100.00 | 风险 低
+- Orvix Agent | 质量 73.80 | 可交易性 100.00 | 风险 低
+- Vitalik Buterin's d/acc Philosophy | 质量 73.45 | 可交易性 92.46 | 风险 低
+- esoteric Mentions Panda Token | 质量 72.83 | 可交易性 96.86 | 风险 低
+- United States Water Reserve | 质量 71.80 | 可交易性 100.00 | 风险 低
+- Nate Esparza on X Platform | 质量 70.75 | 可交易性 88.25 | 风险 低
+- Alleged X Logo Creator Token | 质量 66.82 | 可交易性 81.55 | 风险 低
+- 币安时代 | 质量 66.02 | 可交易性 100.00 | 风险 低
+- Alleged 𝕏 Token Deployment | 质量 65.86 | 可交易性 76.46 | 风险 低
 
 ## 伪叙事风险
 
-- 蝴蝶人能飞🦋1067307360 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Vitalik Buterin's d/acc Philosophy | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -103,11 +103,11 @@
 - CMC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 和平熊猫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 友谊使者 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- e/acc | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Theranos | Solana | 看多 | 新鲜度 100.00 | Elizabeth Holmes Responds to Xmoney Inquiry
-- roon | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- DDOS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PAID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Cream | Solana | 看多 | 新鲜度 100.00 | Alleged Cream Token Launch by Crémieux
+- e/acc | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- TOLY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- MAX | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Cream Token Launch by Crémieux（Solana，分数 89.27）
-2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Alleged Cream Token Launch by Crémieux 当前为“新出现”
+1. 当前最强叙事：Xpress Bridge Currency（Solana，分数 88.57）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：Xpress Bridge Currency 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products
 #Binance #NarrativeOS #OpenClaw
