@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-26T21:31:36.517639+00:00
+- 生成时间：2026-09-26T23:51:56.739467+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 AI Song Mace Fell Out of a Windu Viral，所在链为 Solana，叙事强度 84.9。
-- 当前平均叙事强度为 78.73，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 AI Song Mace Fell Out of a Windu Viral 当前处于“新出现”状态。
+- 当前最强叙事是 shub Mentions PaidBot，所在链为 Solana，叙事强度 85.19。
+- 当前平均叙事强度为 81.67，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 shub Mentions PaidBot 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products。
 
 ## 叙事雷达
 
-- AI Song Mace Fell Out of a Windu Viral | Solana | 加速中 | 强度 84.90 | 质量 76.91
-  - 主题摘要：According to Dom Lucre | Breaker of Narratives's post, the AI-generated song titled "Mace Fell Out of a Windu" has gone viral, sparking discussions among entertainment and Star Wa…
-  - 资金 100.00 / 广度 79.47 / 确认 23.76 / 脆弱性 24.00
+- shub Mentions PaidBot | Solana | 降温中 | 强度 85.19 | 质量 79.81
+  - 主题摘要：According to shub's post, the user inquired about PaidBot in response to a quoted tweet discussing a reward mechanism for sharing bots on X. The post highlights a discussion regar…
+  - 资金 100.00 / 广度 99.17 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Normie Coin Proposal | Solana | 降温中 | 强度 83.14 | 质量 71.71
+  - 主题摘要：According to Fear's post, Fear proposes launching a 'Normie' coin with fees directed to @GiveDirectly to support average individuals rather than billionaires. Fear suggests this i…
+  - 资金 100.00 / 广度 80.72 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- RELOAD | Solana | 降温中 | 强度 81.98 | 质量 71.38
+  - 主题摘要：Multiple tokens named 「RELOAD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.25 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Tax the world. | Solana | 降温中 | 强度 81.77 | 质量 69.78
+  - 主题摘要：Multiple tokens named 「TariffsDon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.75 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- HyperOvsm | Solana | 加速中 | 强度 81.48 | 质量 75.02
+  - 主题摘要：HOVSM (HyperOvsm) features a jigsaw puzzle piece logo against a digital background, symbolizing connectivity and integration. The token aims to bridge decentralized finance with b…
+  - 资金 100.00 / 广度 75.27 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- mert Discusses Crypto Privacy | Solana | 降温中 | 强度 82.93 | 质量 71.45
-  - 主题摘要：According to mert's post, mert argues that privacy is a core value of crypto and the last remaining 1000x opportunity, despite a bumpy road. He claims his project will significant…
-  - 资金 100.00 / 广度 84.49 / 确认 9.36 / 脆弱性 14.00
+- Rockstar Grand Theft Auto VI | Solana | 降温中 | 强度 81.38 | 质量 69.51
+  - 主题摘要：Multiple tokens named 「GTA 7VII」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.84 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TROLLOWEEN | Solana | 降温中 | 强度 82.63 | 质量 71.88
-  - 主题摘要：TROLLOWEEN is a Halloween-themed token featuring a vampire pumpkin character with a mischievous grin. Inspired by the playful spirit of Halloween, it embraces the spooky yet humor…
-  - 资金 100.00 / 广度 72.75 / 确认 9.36 / 脆弱性 14.00
+- Uncertain:Bort Invites CZ to Try BORT Agents | BSC | 已确认 | 强度 79.75 | 质量 75.43
+  - 主题摘要：According to Bort's post, Bort addressed CZ, recommending that he try BORT agents. Bort stated that these agents are built on BNB Chain’s native BAP-578 standard, highlighting the…
+  - 资金 100.00 / 广度 80.77 / 确认 31.68 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Cobie Alleged Meme Coin | Solana | 降温中 | 强度 79.27 | 质量 70.44
+  - 主题摘要：According to Piou Piou's post, the cryptocurrency market is experiencing rapid acceleration in both market dynamics and sentiment. The author asserts that this trend is resulting…
+  - 资金 100.00 / 广度 89.21 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mongotsuki Discusses p/acc Meme | Solana | 降温中 | 强度 77.50 | 质量 62.12
-  - 主题摘要：According to Mongotsuki's post, the user shared a Meme image referencing the 'p/acc' (Pepe Accelerationism) token. The content utilizes internet culture metaphors, specifically th…
-  - 资金 100.00 / 广度 80.73 / 确认 9.36 / 脆弱性 14.00
+- Alleged Launch of Privacy Accelerationism Token | Solana | 降温中 | 强度 79.14 | 质量 68.85
+  - 主题摘要：Multiple tokens named 「p/acc」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.46 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Avery Meme Coin Launch | Solana | 降温中 | 强度 76.63 | 质量 64.71
-  - 主题摘要：According to Pete's post, a token named 'Avery the PokeKid' is allegedly launched to honor a deceased Pokémon fan, with fees directed to his family via X Money. This initiative fo…
-  - 资金 100.00 / 广度 68.84 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- john Discusses Crypto Market Acceleration | Solana | 降温中 | 强度 76.12 | 质量 60.57
-  - 主题摘要：According to john's post, the cryptocurrency market and sentiment are accelerating, with claims that everyone is being paid. The post references the token p/acc.
-  - 资金 100.00 / 广度 79.97 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 币安时代 | BSC | 降温中 | 强度 75.73 | 质量 67.65
+- 币安时代 | BSC | 降温中 | 强度 78.56 | 质量 69.28
   - 主题摘要：Multiple tokens named 「币安时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 58.64 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 58.78 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Action | BSC | 降温中 | 强度 75.42 | 质量 64.31
-  - 主题摘要：Binance's official account highlights its pragmatic approach with a concise statement about effectiveness, sparking discussions on the exchange's operational efficiency and result…
-  - 资金 100.00 / 广度 71.98 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Paid Acceleration Token | Solana | 降温中 | 强度 75.13 | 质量 61.10
-  - 主题摘要：According to fadoor's post, the user suggests launching a token named 'Paid Acceleration' ($p/acc), referencing the market capitalization of 'e/acc' and 'paid'. The post implies a…
-  - 资金 100.00 / 广度 80.79 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Wired fees to socials | BSC | 加速中 | 强度 74.32 | 质量 59.79
+- Wired fees to socials | BSC | 加速中 | 强度 77.40 | 质量 64.83
   - 主题摘要：Multiple tokens named 「WIRED」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.15 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.77 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Launch of Privacy Accelerationism Token | Solana | 降温中 | 强度 74.03 | 质量 59.15
-  - 主题摘要：According to 德尔塔's post, Mert is allegedly launching a token named 'Privacy Accelerationism' (privacy/acc or p/acc). The post claims privacy is the last '1000x' opportunity in cry…
-  - 资金 100.00 / 广度 75.80 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- bPay | BSC | 加速中 | 强度 73.38 | 质量 65.14
-  - 主题摘要：Multiple tokens named 「bPay」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.86 / 确认 24.48 / 脆弱性 14.00
+- TCCCoin | BSC | 加速中 | 强度 75.82 | 质量 72.49
+  - 主题摘要：Multiple tokens named 「TCC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.81 / 确认 27.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNPaid | BSC | 加速中 | 强度 71.68 | 质量 67.47
-  - 主题摘要：Multiple tokens named 「BNPaid」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.17 / 确认 23.76 / 脆弱性 24.00
+- CZ's 64-min Interview & The 10/10 Truth | BSC | 加速中 | 强度 74.30 | 质量 66.66
+  - 主题摘要：CZ responds to a deep-dive interview by @KevinWSHPod regarding his past, the '10/10' incident, and his legacy at Binance. The discussion covers significant historical moments and…
+  - 资金 100.00 / 广度 77.40 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GeniusLife | BSC | 加速中 | 强度 70.39 | 质量 68.69
-  - 主题摘要：天才人生 (GeniusLife) is a meme token inspired by the concept of achieving greatness through hard work and determination. It aims to empower users to build successful careers and life…
-  - 资金 100.00 / 广度 54.19 / 确认 20.16 / 脆弱性 29.44
+- 牛来人生 | BSC | 加速中 | 强度 73.36 | 质量 57.43
+  - 主题摘要：Multiple tokens named 「牛来人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.28 / 确认 28.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.73，其中已确认叙事 0 个。
-- AI Song Mace Fell Out of a Windu Viral 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- mert Discusses Crypto Privacy 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.67，其中已确认叙事 0 个。
+- HyperOvsm 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- shub Mentions PaidBot 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- AI Song Mace Fell Out of a Windu Viral | 质量 76.91 | 可交易性 99.48 | 风险 低
-- TROLLOWEEN | 质量 71.88 | 可交易性 100.00 | 风险 低
-- mert Discusses Crypto Privacy | 质量 71.45 | 可交易性 86.81 | 风险 低
-- GeniusLife | 质量 68.69 | 可交易性 100.00 | 风险 低
-- 币安时代 | 质量 67.65 | 可交易性 100.00 | 风险 低
-- BNPaid | 质量 67.47 | 可交易性 68.32 | 风险 低
-- bPay | 质量 65.14 | 可交易性 55.31 | 风险 低
-- Alleged Avery Meme Coin Launch | 质量 64.71 | 可交易性 79.98 | 风险 低
-- Binance Action | 质量 64.31 | 可交易性 75.52 | 风险 低
-- Mongotsuki Discusses p/acc Meme | 质量 62.12 | 可交易性 59.46 | 风险 低
+- shub Mentions PaidBot | 质量 79.81 | 可交易性 100.00 | 风险 低
+- Uncertain:Bort Invites CZ to Try BORT Agents | 质量 75.43 | 可交易性 87.43 | 风险 低
+- HyperOvsm | 质量 75.02 | 可交易性 100.00 | 风险 低
+- TCCCoin | 质量 72.49 | 可交易性 81.75 | 风险 低
+- Alleged Normie Coin Proposal | 质量 71.71 | 可交易性 91.44 | 风险 低
+- RELOAD | 质量 71.38 | 可交易性 83.83 | 风险 低
+- Cobie Alleged Meme Coin | 质量 70.44 | 可交易性 82.41 | 风险 低
+- Tax the world. | 质量 69.78 | 可交易性 100.00 | 风险 低
+- Rockstar Grand Theft Auto VI | 质量 69.51 | 可交易性 100.00 | 风险 低
+- 币安时代 | 质量 69.28 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -100,12 +100,12 @@
 - SEND | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GSTOCK | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BREW | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CMC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- SPLIT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - e/acc | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - P(DOOM) | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- KARDASHEV | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- DDOS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPIKE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- VDINO | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- TRUE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：AI Song Mace Fell Out of a Windu Viral（Solana，分数 84.9）
-2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：AI Song Mace Fell Out of a Windu Viral 当前为“新出现”
+1. 当前最强叙事：shub Mentions PaidBot（Solana，分数 85.19）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：shub Mentions PaidBot 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products
 #Binance #NarrativeOS #OpenClaw
