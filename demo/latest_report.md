@@ -1,109 +1,112 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-26T15:06:07.052954+00:00
+- 生成时间：2026-09-26T18:33:11.413823+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Dividend Fund A+，所在链为 Solana，叙事强度 85.65。
-- 当前平均叙事强度为 81.4，其中已确认叙事 0 个。
+- 当前最强叙事是 United States Dividend Fund，所在链为 Solana，叙事强度 86.45。
+- 当前平均叙事强度为 79.2，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 United States Dividend Fund A+ 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 币安时代，伪叙事风险 40.99。
+- 记忆层显示 United States Dividend Fund 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Saivom，伪叙事风险 49.56。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products。
 
 ## 叙事雷达
 
-- United States Dividend Fund A+ | Solana | 降温中 | 强度 85.65 | 质量 75.18
-  - 主题摘要：Multiple tokens named 「USDFA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.43 / 确认 4.32 / 脆弱性 0.00
+- United States Dividend Fund | Solana | 降温中 | 强度 86.45 | 质量 75.81
+  - 主题摘要：Multiple tokens named 「USDF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.83 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AROS | Solana | 降温中 | 强度 85.64 | 质量 75.32
-  - 主题摘要：Multiple tokens named 「AROS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.89 / 确认 4.32 / 脆弱性 0.00
+- Elon Musk's X Ecosystem Vision | Solana | 降温中 | 强度 79.47 | 质量 65.46
+  - 主题摘要：According to Printrrr's post, Elon Musk is allegedly launching the 𝕏Life token, with fees directed to him via UsePaid. The post claims Musk is integrating X into all aspects of li…
+  - 资金 100.00 / 广度 80.45 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WOTF | Solana | 降温中 | 强度 82.55 | 质量 70.93
-  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.26 / 确认 4.32 / 脆弱性 0.00
+- Alleged Ledger Cat Meme | Solana | 降温中 | 强度 79.07 | 质量 67.40
+  - 主题摘要：According to Clown's post, the user shared a Meme image regarding 'Ledger Cat' (LCAT) in the context of the PAID token ecosystem. Clown commented that the concept is 'actually rea…
+  - 资金 100.00 / 广度 65.58 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Accelerate Token | Solana | 降温中 | 强度 80.47 | 质量 72.93
-  - 主题摘要：According to faded's post, Solana supports @UsePaid and mentions the $ACCELERATE token, claiming an alpenglow update and significant funding. This information is unverified. Pleas…
-  - 资金 100.00 / 广度 79.93 / 确认 4.32 / 脆弱性 14.00
+- 沙耶の唄 | Solana | 加速中 | 强度 78.30 | 质量 70.98
+  - 主题摘要：Multiple tokens named 「沙耶」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 86.35 / 广度 74.56 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Bymotionn Discusses XCAT and XMoney | Solana | 降温中 | 强度 77.65 | 质量 64.21
+  - 主题摘要：According to intelligent dog's post, users can now purchase cryptocurrency tokens, specifically mentioning XCAT, directly on the X platform using Coinbase. The post references a d…
+  - 资金 100.00 / 广度 80.60 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- pup | Solana | 降温中 | 强度 79.55 | 质量 68.41
-  - 主题摘要：According to cooldev's post, the author argues that viral success stems from organic onboarding rather than forced incentives like airdrops. cooldev shares a PUP Meme image to pro…
-  - 资金 100.00 / 广度 64.85 / 确认 4.32 / 脆弱性 14.00
+- iPhone Duo | Solana | 降温中 | 强度 77.64 | 质量 66.43
+  - 主题摘要：Multiple tokens named 「Duo」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 54.56 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Effective LGBT | Solana | 降温中 | 强度 79.42 | 质量 71.43
-  - 主题摘要：Multiple tokens named 「e/LGBT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.83 / 确认 7.20 / 脆弱性 14.00
+- Zack Morris Confirms Use of X Money | Solana | 加速中 | 强度 77.56 | 质量 62.53
+  - 主题摘要：According to Zack Morris's post, he confirmed in a reply to user @miggl_sol that he uses the 'X Money' application or service. This statement directly addresses a user's inquiry r…
+  - 资金 100.00 / 广度 78.89 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Saivom | Solana | 降温中 | 强度 77.49 | 质量 70.38
+  - 主题摘要：According to pscldev on Pumpfun's post, the user proposed the name "SAVE A INU" for a new charity initiative where every purchase saves an Inu. This content involves the publicati…
+  - 资金 89.16 / 广度 75.17 / 确认 4.32 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ASPCA Pet Grooming Initiative | Solana | 降温中 | 强度 79.27 | 质量 70.14
-  - 主题摘要：According to ASPCA's post, the organization highlights Daniela, a pet rescued from NYC streets, to promote the importance of regular grooming. The post notes that cost is a barrie…
-  - 资金 100.00 / 广度 70.64 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- X Open Source Shares Under The Hood Update | Solana | 降温中 | 强度 78.62 | 质量 64.55
-  - 主题摘要：According to X Open Source's post, the 'Under The Hood' feature has been expanded to provide greater transparency regarding government-required content filtering. The update now d…
-  - 资金 100.00 / 广度 77.79 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 币安时代 | BSC | 降温中 | 强度 75.58 | 质量 67.25
-  - 主题摘要：Multiple tokens named 「币安时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 57.37 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- bPay | BSC | 加速中 | 强度 75.46 | 质量 65.09
+- bPay | BSC | 加速中 | 强度 75.92 | 质量 65.61
   - 主题摘要：Multiple tokens named 「bPay」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.04 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.24 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GeniusLife | BSC | 加速中 | 强度 73.37 | 质量 68.44
-  - 主题摘要：天才人生 (GeniusLife) is a meme token inspired by the concept of achieving greatness through hard work and determination. It aims to empower users to build successful careers and life…
-  - 资金 100.00 / 广度 53.35 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- The Inu / 犬 Publishes Meme Image | BSC | 加速中 | 强度 71.49 | 质量 65.51
-  - 主题摘要：According to The Inu / 犬's post, the author shares a Meme image contrasting the simplicity of the original 'Inu' concept with the complexity of modern meme derivatives like Shiba…
-  - 资金 100.00 / 广度 73.37 / 确认 18.72 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- SENTU Platform Mechanics | BSC | 降温中 | 强度 71.48 | 质量 58.84
-  - 主题摘要：According to SENTU's post, the SENTU platform automates the conversion of creator taxes into social credits via real-time vaults, bypassing manual claims. It utilizes cross-chain…
-  - 资金 100.00 / 广度 74.53 / 确认 15.12 / 脆弱性 14.00
+- 币安时代 | BSC | 降温中 | 强度 75.08 | 质量 67.62
+  - 主题摘要：Multiple tokens named 「币安时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 58.53 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- boring Criticizes Genius Platform High Tax | BSC | 加速中 | 强度 71.38 | 质量 62.01
+- boring Criticizes Genius Platform High Tax | BSC | 加速中 | 强度 73.51 | 质量 62.15
   - 主题摘要：According to boring's post, the user urges the developer to launch a GME token to compete with the Genius narrative. The post criticizes the Genius platform's high transaction tax…
-  - 资金 100.00 / 广度 76.97 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.08 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GME Stock Activity | BSC | 加速中 | 强度 73.28 | 质量 61.78
+  - 主题摘要：According to Washywash's post, GameStop (GME) stock has risen nearly 100% in recent weeks, coinciding with the fifth anniversary of the original short squeeze. The post cites rumo…
+  - 资金 100.00 / 广度 76.51 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GeniusLife | BSC | 加速中 | 强度 71.60 | 质量 68.69
+  - 主题摘要：天才人生 (GeniusLife) is a meme token inspired by the concept of achieving greatness through hard work and determination. It aims to empower users to build successful careers and life…
+  - 资金 100.00 / 广度 54.19 / 确认 20.16 / 脆弱性 19.44
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Flap Protocol Live Stream Promotion | BSC | 点火期 | 强度 69.98 | 质量 64.08
+  - 主题摘要：According to 校长 Jason| Flap🦋's post, the Flap protocol is hosting a Chinese live stream to discuss the integration of real-world assets and meme culture. The session highlights ne…
+  - 资金 100.00 / 广度 71.64 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.4，其中已确认叙事 0 个。
-- bPay 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- United States Dividend Fund A+ 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.2，其中已确认叙事 0 个。
+- 沙耶の唄 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- United States Dividend Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- AROS | 质量 75.32 | 可交易性 100.00 | 风险 低
-- United States Dividend Fund A+ | 质量 75.18 | 可交易性 100.00 | 风险 低
-- Alleged Accelerate Token | 质量 72.93 | 可交易性 100.00 | 风险 低
-- Effective LGBT | 质量 71.43 | 可交易性 100.00 | 风险 低
-- WOTF | 质量 70.93 | 可交易性 100.00 | 风险 低
-- ASPCA Pet Grooming Initiative | 质量 70.14 | 可交易性 100.00 | 风险 低
-- GeniusLife | 质量 68.44 | 可交易性 100.00 | 风险 低
-- pup | 质量 68.41 | 可交易性 100.00 | 风险 低
-- 币安时代 | 质量 67.25 | 可交易性 100.00 | 风险 低
-- The Inu / 犬 Publishes Meme Image | 质量 65.51 | 可交易性 71.26 | 风险 低
+- United States Dividend Fund | 质量 75.81 | 可交易性 100.00 | 风险 低
+- 沙耶の唄 | 质量 70.98 | 可交易性 87.27 | 风险 低
+- Saivom | 质量 70.38 | 可交易性 96.25 | 风险 低
+- GeniusLife | 质量 68.69 | 可交易性 100.00 | 风险 低
+- 币安时代 | 质量 67.62 | 可交易性 100.00 | 风险 低
+- Alleged Ledger Cat Meme | 质量 67.40 | 可交易性 96.15 | 风险 低
+- iPhone Duo | 质量 66.43 | 可交易性 100.00 | 风险 低
+- bPay | 质量 65.61 | 可交易性 57.51 | 风险 低
+- Elon Musk's X Ecosystem Vision | 质量 65.46 | 可交易性 70.87 | 风险 低
+- Bymotionn Discusses XCAT and XMoney | 质量 64.21 | 可交易性 70.25 | 风险 低
 
 ## 伪叙事风险
 
+- Saivom | 风险 49.56 | 原因：流动性偏薄、近 1 小时净流入转负
+- Uncertain:Flap Protocol Live Stream Promotion | 风险 47.79 | 原因：流动性偏薄
+- 沙耶の唄 | 风险 41.84 | 原因：流动性偏薄、近 1 小时净流入转负
 - 币安时代 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- SENTU | BSC | 看多 | 新鲜度 100.00 | SENTU Platform Mechanics
+- SENTU | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SEND | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GSTOCK | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BREW | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CMC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 和平熊猫 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- e/acc | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - P(DOOM) | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - KARDASHEV | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DDOS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -133,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Dividend Fund A+（Solana，分数 85.65）
+1. 当前最强叙事：United States Dividend Fund（Solana，分数 86.45）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：United States Dividend Fund A+ 当前为“新出现”
+3. 记忆层变化：United States Dividend Fund 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products
 #Binance #NarrativeOS #OpenClaw
