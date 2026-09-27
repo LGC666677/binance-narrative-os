@@ -1,102 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-27T17:42:22.953086+00:00
+- 生成时间：2026-09-27T20:22:39.377892+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：0
+- 已确认叙事：1
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Ozzy Confirms Holding X Money，所在链为 Solana，叙事强度 84.2。
-- 当前平均叙事强度为 81.0，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Ozzy Confirms Holding X Money 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Uncertain:Binance Update: Currency-Freedom as Slogan，伪叙事风险 47.79。
+- 当前最强叙事是 Pump.fun on 100X Returns，所在链为 Solana，叙事强度 87.36。
+- 当前平均叙事强度为 82.82，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 Pump.fun on 100X Returns 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Uncertain:Binance Update: Currency-Freedom as Slogan，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products。
 
 ## 叙事雷达
 
-- Ozzy Confirms Holding X Money | Solana | 降温中 | 强度 84.20 | 质量 74.71
-  - 主题摘要：According to Ozzy | 奥兹 🅿️'s post, Ozzy confirmed in a reply to a user's inquiry that he possesses funds on the X platform. This statement directly addresses questions regarding hi…
-  - 资金 100.00 / 广度 82.16 / 确认 9.36 / 脆弱性 14.00
+- Pump.fun on 100X Returns | Solana | 降温中 | 强度 87.36 | 质量 78.48
+  - 主题摘要：According to Pump.fun's post, the platform expresses a preference for immediate high returns over long-term compound interest, stating a desire for a 100x gain right now rather th…
+  - 资金 100.00 / 广度 92.08 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Dividend Fund | Solana | 降温中 | 强度 84.05 | 质量 72.82
-  - 主题摘要：Multiple tokens named 「USDF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.57 / 确认 4.32 / 脆弱性 0.00
+- Earn by Post Platform Launch | Solana | 已确认 | 强度 86.29 | 质量 77.13
+  - 主题摘要：According to earn by post's post, the platform is introduced to allow traders and creators to publish market theses, build verifiable track records, and earn recognition for their…
+  - 资金 100.00 / 广度 89.10 / 确认 38.40 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Dangote Refinery | Solana | 降温中 | 强度 85.86 | 质量 73.56
+  - 主题摘要：Multiple tokens named 「DANGR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.33 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Grok Conjecture Experiment | Solana | 降温中 | 强度 83.41 | 质量 73.41
-  - 主题摘要：According to Grok Conjecture's post, the project launches a 24/7 autonomous experiment using Grok 4.5 to solve graph theory conjectures. Creator fees from $GROK fund the compute.…
-  - 资金 100.00 / 广度 77.85 / 确认 9.36 / 脆弱性 14.00
+- UNVAULT | Solana | 加速中 | 强度 84.62 | 质量 76.46
+  - 主题摘要：According to Vault's post, the most popular strategies for the $Vault token are $pikastr, $charstr, and $mewtwstr. Vault claims to allocate 20% of $Vault fees to buy back these to…
+  - 资金 100.00 / 广度 87.38 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Claude | Solana | 降温中 | 强度 81.53 | 质量 69.65
+  - 主题摘要：Multiple tokens named 「Claude」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.31 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Grok Bot Finance Integration | Solana | 降温中 | 强度 83.22 | 质量 73.38
-  - 主题摘要：According to Grok Bot's post, the AI assistant now offers a Finance integration that allows users to link bank, card, and investment accounts. This feature enables the bot to assi…
-  - 资金 100.00 / 广度 77.72 / 确认 9.36 / 脆弱性 14.00
+- NFL | Solana | 降温中 | 强度 80.29 | 质量 69.60
+  - 主题摘要：Multiple tokens named 「NFL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.82 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Near Cat | Solana | 点火期 | 强度 81.82 | 质量 77.96
-  - 主题摘要：According to ⚡trenchsniper7's post, the author shared a Meme image featuring a cat, identifying it as the 'NEAR cat' associated with the NEAR Protocol ecosystem. This content sugg…
-  - 资金 100.00 / 广度 88.77 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- The Laughing Cow Meme | BSC | 加速中 | 强度 79.28 | 质量 77.66
+- Alleged FX Senshi Kurumi-chan Meme Coin | BSC | 加速中 | 强度 79.18 | 质量 77.08
+  - 主题摘要：According to ABEL今年拿下1000X's post, the anime 'FX Senshi Kurumi-chan' is associated with a meme coin named $KURUMI. The post claims the community promotes it as a crypto-related as…
+  - 资金 100.00 / 广度 82.15 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- PAWLAY | Solana | 降温中 | 强度 78.72 | 质量 69.66
+  - 主题摘要：Multiple tokens named 「PAWLAY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.35 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- The Laughing Cow Meme | BSC | 加速中 | 强度 78.34 | 质量 77.36
   - 主题摘要：According to JBL's post, the packaging change of the well-known American cheese brand has gone viral as a Meme image, garnering over 2 million views. The shift from the original s…
-  - 资金 100.00 / 广度 82.84 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 82.90 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Oil Fund Institution | Solana | 降温中 | 强度 77.99 | 质量 68.04
-  - 主题摘要：Multiple tokens named 「WOFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 59.92 / 确认 9.36 / 脆弱性 13.59
+- RICH OFF GTA 6 | Solana | 降温中 | 强度 77.89 | 质量 66.43
+  - 主题摘要：Multiple tokens named 「RICH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 54.56 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- regulars | Solana | 降温中 | 强度 76.91 | 质量 63.93
-  - 主题摘要：Multiple tokens named 「REGULARS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.41 / 确认 7.92 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ramp Capital Questions UsePaid | Solana | 加速中 | 强度 76.36 | 质量 61.56
-  - 主题摘要：According to Ramp Capital's post, the account questions the legitimacy of the UsePaid platform, explicitly asking if it is a scam. This statement reflects skepticism regarding the…
-  - 资金 100.00 / 广度 74.36 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Busan Shark Meme Token Launch | BSC | 加速中 | 强度 74.26 | 质量 64.79
-  - 主题摘要：According to bujaeyo's post, the viral Busan shark 'Bukangi' is being developed into a tourism character, with a public design contest planned. bujaeyo shared a Meme image depicti…
-  - 资金 100.00 / 广度 76.63 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 聚势赴月 | BSC | 加速中 | 强度 74.16 | 质量 65.86
-  - 主题摘要：Multiple tokens named 「FOMOON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.64 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Bort Invites CZ to Try BORT Agents | BSC | 加速中 | 强度 73.94 | 质量 72.33
-  - 主题摘要：According to Bort's post, Bort directly addressed CZ, inviting him to try BORT agents. Bort stated that these agents are built on BNB Chain’s native BAP-578 standard, positioning…
-  - 资金 100.00 / 广度 78.83 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Wired fees to socials | BSC | 加速中 | 强度 73.23 | 质量 64.94
+- Wired fees to socials | BSC | 加速中 | 强度 75.30 | 质量 65.13
   - 主题摘要：Multiple tokens named 「WIRED」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.55 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.65 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Update: Currency-Freedom as Slogan | BSC | 点火期 | 强度 73.13 | 质量 69.64
-  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, the user questions whether 'Currency Freedom' has become Binance's slogan following an app update, noting that the term is visible upon entering…
-  - 资金 100.00 / 广度 97.27 / 确认 9.36 / 脆弱性 14.00
+- Uncertain:Binance Update: Currency-Freedom as Slogan | BSC | 点火期 | 强度 72.07 | 质量 70.29
+  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, the user questions whether 'Currency Freedom' has become Binance's slogan following a recent app update, noting that the term is visible upon op…
+  - 资金 100.00 / 广度 97.13 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Bort Invites CZ to Try BORT Agents | BSC | 加速中 | 强度 70.38 | 质量 67.29
+  - 主题摘要：According to Bort's post, Bort directly addressed CZ, inviting him to try BORT agents. These agents are built on BNB Chain’s native BAP-578 standard. The post was made in reply to…
+  - 资金 100.00 / 广度 78.82 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 币安蝴蝶 | BSC | 降温中 | 强度 70.28 | 质量 57.05
+  - 主题摘要：Multiple tokens named 「币安蝴蝶」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.09 / 确认 11.52 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.0，其中已确认叙事 0 个。
-- Near Cat 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Ozzy Confirms Holding X Money 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.82，其中已确认叙事 1 个。
+- Earn by Post Platform Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Pump.fun on 100X Returns 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Near Cat | 质量 77.96 | 可交易性 100.00 | 风险 低
-- The Laughing Cow Meme | 质量 77.66 | 可交易性 98.06 | 风险 低
-- Ozzy Confirms Holding X Money | 质量 74.71 | 可交易性 100.00 | 风险 低
-- Grok Conjecture Experiment | 质量 73.41 | 可交易性 100.00 | 风险 低
-- Grok Bot Finance Integration | 质量 73.38 | 可交易性 100.00 | 风险 低
-- United States Dividend Fund | 质量 72.82 | 可交易性 100.00 | 风险 低
-- Uncertain:Bort Invites CZ to Try BORT Agents | 质量 72.33 | 可交易性 81.68 | 风险 低
-- Uncertain:Binance Update: Currency-Freedom as Slogan | 质量 69.64 | 可交易性 100.00 | 风险 低
-- World Oil Fund Institution | 质量 68.04 | 可交易性 100.00 | 风险 低
-- 聚势赴月 | 质量 65.86 | 可交易性 74.10 | 风险 低
+- Pump.fun on 100X Returns | 质量 78.48 | 可交易性 100.00 | 风险 低
+- The Laughing Cow Meme | 质量 77.36 | 可交易性 97.01 | 风险 低
+- Earn by Post Platform Launch | 质量 77.13 | 可交易性 79.84 | 风险 低
+- Alleged FX Senshi Kurumi-chan Meme Coin | 质量 77.08 | 可交易性 100.00 | 风险 低
+- UNVAULT | 质量 76.46 | 可交易性 89.53 | 风险 低
+- Dangote Refinery | 质量 73.56 | 可交易性 100.00 | 风险 低
+- Uncertain:Binance Update: Currency-Freedom as Slogan | 质量 70.29 | 可交易性 100.00 | 风险 低
+- PAWLAY | 质量 69.66 | 可交易性 100.00 | 风险 低
+- Claude | 质量 69.65 | 可交易性 100.00 | 风险 低
+- NFL | 质量 69.60 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Uncertain:Binance Update: Currency-Freedom as Slogan | 风险 47.79 | 原因：流动性偏薄
-- Near Cat | 风险 43.18 | 原因：流动性偏薄
-- regulars | 风险 42.14 | 原因：流动性偏薄、近 1 小时净流入转负
+- Uncertain:Binance Update: Currency-Freedom as Slogan | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -106,10 +104,10 @@
 - SEND | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - WORLD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bukangi | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- REGULARS | Solana | 看多 | 新鲜度 100.00 | regulars
+- REGULARS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Backpacknami | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - e/acc | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PAID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- SPIKE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -135,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Ozzy Confirms Holding X Money（Solana，分数 84.2）
-2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Ozzy Confirms Holding X Money 当前为“新出现”
+1. 当前最强叙事：Pump.fun on 100X Returns（Solana，分数 87.36）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：Pump.fun on 100X Returns 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products
 #Binance #NarrativeOS #OpenClaw
