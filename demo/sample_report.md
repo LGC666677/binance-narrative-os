@@ -1,95 +1,95 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-26T23:51:56.739467+00:00
+- 生成时间：2026-09-27T01:55:58.797080+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 shub Mentions PaidBot，所在链为 Solana，叙事强度 85.19。
-- 当前平均叙事强度为 81.67，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 shub Mentions PaidBot 当前处于“新出现”状态。
+- 当前最强叙事是 Global Oil Asset Fund，所在链为 Solana，叙事强度 85.76。
+- 当前平均叙事强度为 81.32，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 记忆层显示 Global Oil Asset Fund 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products。
 
 ## 叙事雷达
 
-- shub Mentions PaidBot | Solana | 降温中 | 强度 85.19 | 质量 79.81
-  - 主题摘要：According to shub's post, the user inquired about PaidBot in response to a quoted tweet discussing a reward mechanism for sharing bots on X. The post highlights a discussion regar…
-  - 资金 100.00 / 广度 99.17 / 确认 9.36 / 脆弱性 14.00
+- Global Oil Asset Fund | Solana | 降温中 | 强度 85.76 | 质量 76.06
+  - 主题摘要：Multiple tokens named 「GOAF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.67 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Normie Coin Proposal | Solana | 降温中 | 强度 83.14 | 质量 71.71
-  - 主题摘要：According to Fear's post, Fear proposes launching a 'Normie' coin with fees directed to @GiveDirectly to support average individuals rather than billionaires. Fear suggests this i…
-  - 资金 100.00 / 广度 80.72 / 确认 9.36 / 脆弱性 14.00
+- Alleged 100x Coin Launch | Solana | 降温中 | 强度 85.02 | 质量 72.94
+  - 主题摘要：According to 100x Coin's post, the author claims to be launching the next $100x coin and will promote it via TikTok live streams, using fees for marketing. This information is unv…
+  - 资金 100.00 / 广度 76.28 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- RELOAD | Solana | 降温中 | 强度 81.98 | 质量 71.38
-  - 主题摘要：Multiple tokens named 「RELOAD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.25 / 确认 9.36 / 脆弱性 14.00
+- 𒐪 | Solana | 降温中 | 强度 84.37 | 质量 76.07
+  - 主题摘要：According to Solvamp89's post, the user questions whether the @SHL0MS account, identified as an automated bot by NousResearch, is capable of accepting transaction fees. The post h…
+  - 资金 100.00 / 广度 82.22 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Tax the world. | Solana | 降温中 | 强度 81.77 | 质量 69.78
-  - 主题摘要：Multiple tokens named 「TariffsDon」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.75 / 确认 9.36 / 脆弱性 0.00
+- Jack Doherty Asks About Meme Coins | Solana | 降温中 | 强度 83.03 | 质量 77.34
+  - 主题摘要：According to Jack Doherty's post, the content creator recently registered a Fomo3d account and publicly asked his audience for recommendations on which meme coins to purchase. Thi…
+  - 资金 100.00 / 广度 85.67 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- HyperOvsm | Solana | 加速中 | 强度 81.48 | 质量 75.02
-  - 主题摘要：HOVSM (HyperOvsm) features a jigsaw puzzle piece logo against a digital background, symbolizing connectivity and integration. The token aims to bridge decentralized finance with b…
-  - 资金 100.00 / 广度 75.27 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Rockstar Grand Theft Auto VI | Solana | 降温中 | 强度 81.38 | 质量 69.51
-  - 主题摘要：Multiple tokens named 「GTA 7VII」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 64.84 / 确认 9.36 / 脆弱性 0.00
+- NTDA | Solana | 降温中 | 强度 79.11 | 质量 68.08
+  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 60.08 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Bort Invites CZ to Try BORT Agents | BSC | 已确认 | 强度 79.75 | 质量 75.43
+- Alleged PLS Meme Image | Solana | 降温中 | 强度 78.31 | 质量 69.36
+  - 主题摘要：According to gampsito's post, the author urges the community to send a 'pls' Meme image to support the token, aiming to increase its market capitalization to 100 million. This inf…
+  - 资金 100.00 / 广度 64.34 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- rylo Discusses XMoney Adoption | Solana | 降温中 | 强度 78.23 | 质量 64.95
+  - 主题摘要：According to rylo's post, ryloUSA states that users prefer receiving payments in @XMoney, describing the process as simple. He asserts that his initiative aims to accelerate crypt…
+  - 资金 100.00 / 广度 82.49 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- SPX69F | Solana | 降温中 | 强度 76.70 | 质量 65.05
+  - 主题摘要：Multiple tokens named 「SPX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 49.97 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Bort Invites CZ to Try BORT Agents | BSC | 加速中 | 强度 75.43 | 质量 73.92
   - 主题摘要：According to Bort's post, Bort addressed CZ, recommending that he try BORT agents. Bort stated that these agents are built on BNB Chain’s native BAP-578 standard, highlighting the…
-  - 资金 100.00 / 广度 80.77 / 确认 31.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Cobie Alleged Meme Coin | Solana | 降温中 | 强度 79.27 | 质量 70.44
-  - 主题摘要：According to Piou Piou's post, the cryptocurrency market is experiencing rapid acceleration in both market dynamics and sentiment. The author asserts that this trend is resulting…
-  - 资金 100.00 / 广度 89.21 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of Privacy Accelerationism Token | Solana | 降温中 | 强度 79.14 | 质量 68.85
-  - 主题摘要：Multiple tokens named 「p/acc」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.46 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 币安时代 | BSC | 降温中 | 强度 78.56 | 质量 69.28
+  - 资金 100.00 / 广度 80.95 / 确认 30.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 币安时代 | BSC | 降温中 | 强度 73.73 | 质量 66.68
   - 主题摘要：Multiple tokens named 「币安时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 58.78 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 59.10 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Wired fees to socials | BSC | 加速中 | 强度 77.40 | 质量 64.83
-  - 主题摘要：Multiple tokens named 「WIRED」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.77 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- TCCCoin | BSC | 加速中 | 强度 75.82 | 质量 72.49
-  - 主题摘要：Multiple tokens named 「TCC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.81 / 确认 27.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ's 64-min Interview & The 10/10 Truth | BSC | 加速中 | 强度 74.30 | 质量 66.66
-  - 主题摘要：CZ responds to a deep-dive interview by @KevinWSHPod regarding his past, the '10/10' incident, and his legacy at Binance. The discussion covers significant historical moments and…
-  - 资金 100.00 / 广度 77.40 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 牛来人生 | BSC | 加速中 | 强度 73.36 | 质量 57.43
+- 牛来人生 | BSC | 加速中 | 强度 73.48 | 质量 57.59
   - 主题摘要：Multiple tokens named 「牛来人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.28 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.41 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- BNPaid | BSC | 加速中 | 强度 72.64 | 质量 67.51
+  - 主题摘要：Multiple tokens named 「BNPaid」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.86 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Wired fees to socials | BSC | 加速中 | 强度 72.13 | 质量 64.52
+  - 主题摘要：Multiple tokens named 「WIRED」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.42 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- bPay | BSC | 加速中 | 强度 71.83 | 质量 64.53
+  - 主题摘要：Multiple tokens named 「bPay」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.09 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.67，其中已确认叙事 0 个。
-- HyperOvsm 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- shub Mentions PaidBot 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.32，其中已确认叙事 0 个。
+- BNPaid 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Global Oil Asset Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- shub Mentions PaidBot | 质量 79.81 | 可交易性 100.00 | 风险 低
-- Uncertain:Bort Invites CZ to Try BORT Agents | 质量 75.43 | 可交易性 87.43 | 风险 低
-- HyperOvsm | 质量 75.02 | 可交易性 100.00 | 风险 低
-- TCCCoin | 质量 72.49 | 可交易性 81.75 | 风险 低
-- Alleged Normie Coin Proposal | 质量 71.71 | 可交易性 91.44 | 风险 低
-- RELOAD | 质量 71.38 | 可交易性 83.83 | 风险 低
-- Cobie Alleged Meme Coin | 质量 70.44 | 可交易性 82.41 | 风险 低
-- Tax the world. | 质量 69.78 | 可交易性 100.00 | 风险 低
-- Rockstar Grand Theft Auto VI | 质量 69.51 | 可交易性 100.00 | 风险 低
-- 币安时代 | 质量 69.28 | 可交易性 100.00 | 风险 低
+- Jack Doherty Asks About Meme Coins | 质量 77.34 | 可交易性 99.99 | 风险 低
+- 𒐪 | 质量 76.07 | 可交易性 99.20 | 风险 低
+- Global Oil Asset Fund | 质量 76.06 | 可交易性 100.00 | 风险 低
+- Uncertain:Bort Invites CZ to Try BORT Agents | 质量 73.92 | 可交易性 82.76 | 风险 低
+- Alleged 100x Coin Launch | 质量 72.94 | 可交易性 100.00 | 风险 低
+- Alleged PLS Meme Image | 质量 69.36 | 可交易性 100.00 | 风险 低
+- NTDA | 质量 68.08 | 可交易性 100.00 | 风险 低
+- BNPaid | 质量 67.51 | 可交易性 67.21 | 风险 低
+- 币安时代 | 质量 66.68 | 可交易性 100.00 | 风险 低
+- SPX69F | 质量 65.05 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
@@ -100,9 +100,9 @@
 - SEND | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GSTOCK | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BREW | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CAKE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPLIT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - e/acc | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- P(DOOM) | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPIKE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - VDINO | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TRUE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：shub Mentions PaidBot（Solana，分数 85.19）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：shub Mentions PaidBot 当前为“新出现”
+1. 当前最强叙事：Global Oil Asset Fund（Solana，分数 85.76）
+2. 共振最强代币：STONK（Solana，共振 100.0）
+3. 记忆层变化：Global Oil Asset Fund 当前为“新出现”
 4. 最新官方催化：Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products
 #Binance #NarrativeOS #OpenClaw
