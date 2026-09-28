@@ -1,113 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-28T15:55:17.905893+00:00
+- 生成时间：2026-09-28T21:25:07.233404+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 GTA VI，所在链为 Solana，叙事强度 86.34。
-- 当前平均叙事强度为 79.89，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 当前最强叙事是 GTA VI，所在链为 Solana，叙事强度 89.04。
+- 当前平均叙事强度为 81.21，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 牛来，来自 BSC，共振分数 100.0。
 - 记忆层显示 GTA VI 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Mamesuke Token，伪叙事风险 51.26。
+- 当前最需要防止误判的叙事是 FreeDuck，伪叙事风险 45.02。
 - 最新官方催化来自 币安最新公告：Important Updates on Dividend Adjustment Process of SAMSUNGUSDT TradFi Perpetual Contract (2026-09-28)。
 
 ## 叙事雷达
 
-- GTA VI | Solana | 降温中 | 强度 86.34 | 质量 77.46
+- GTA VI | Solana | 降温中 | 强度 89.04 | 质量 78.64
   - 主题摘要：Multiple tokens named 「GTA6」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.02 / 确认 4.32 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.26 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Mamesuke Meme Image Release | BSC | 加速中 | 强度 84.60 | 质量 83.86
+- Mewania Twemp | Solana | 降温中 | 强度 86.86 | 质量 77.84
+  - 主题摘要：Multiple tokens named 「Mewania」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 92.59 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- HOOKED ON CATS | Solana | 降温中 | 强度 86.23 | 质量 74.10
+  - 主题摘要：Multiple tokens named 「HOOKEDCATS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.15 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Mamesuke Meme Image Release | BSC | 加速中 | 强度 84.89 | 质量 83.86
   - 主题摘要：According to Wenmoon's post, the Shiba Inu Mamesuke is allegedly launching a Meme image and token. The post highlights the character's popularity in Japan and claims significant s…
-  - 资金 100.00 / 广度 100.00 / 确认 26.64 / 脆弱性 24.00
+  - 资金 100.00 / 广度 100.00 / 确认 26.64 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Oil Trust Fund | Solana | 降温中 | 强度 80.75 | 质量 69.59
-  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.80 / 确认 4.32 / 脆弱性 0.00
+- Inuink | Solana | 降温中 | 强度 83.72 | 质量 73.44
+  - 主题摘要：Multiple tokens named 「INUINK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.93 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Manus AI Promotes Cue Platform | BSC | 加速中 | 强度 80.25 | 质量 77.45
-  - 主题摘要：According to Manus's post, the official account shared a link to the Cue platform (cue.im). This action promotes the platform in conjunction with the Manus Studio desktop applicat…
-  - 资金 100.00 / 广度 82.19 / 确认 26.64 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- OPERATION ECONOMIC OUTCAST | Solana | 降温中 | 强度 80.23 | 质量 68.82
-  - 主题摘要：According to The White House's post, the administration announced that "Operation Economic Outcast" is in full swing. The post tags Secretary Scott Bessent, indicating his involve…
-  - 资金 100.00 / 广度 66.23 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Viscacha Rabbit Meme | Solana | 加速中 | 强度 79.46 | 质量 79.95
-  - 主题摘要：According to 6vj's post, the author claims to have discovered a new animal species, described as a rabbit and capybara combination, and shares TikTok videos of this creature, iden…
-  - 资金 100.00 / 广度 89.06 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Pacifinu | Solana | 降温中 | 强度 79.33 | 质量 73.04
-  - 主题摘要：Multiple tokens named 「PACIFINU」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.29 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Openclaw Token Fees | Solana | 降温中 | 强度 79.21 | 质量 66.75
-  - 主题摘要：According to intelligent dog's post, Peter did not charge fees for OpenClaw because they were crypto fees, and now he can receive X Money. This information is unverified. Please e…
-  - 资金 100.00 / 广度 77.09 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged FX Senshi Kurumi-chan Meme Coin | BSC | 加速中 | 强度 79.16 | 质量 76.09
-  - 主题摘要：According to ABEL今年拿下1000X's post, the anime 'FX Senshi Kurumi-chan' is associated with an alleged $kurumi meme coin. The post analyzes the anime's niche status and limited mainst…
-  - 资金 100.00 / 广度 82.86 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Froink | Solana | 降温中 | 强度 77.69 | 质量 69.79
-  - 主题摘要：FROINK is a protocol token designed to reserve 20% of creator fees for its own token purchases, execution costs, and burns. The token's creator fees are retained by the Froink tre…
-  - 资金 100.00 / 广度 69.48 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged OpenClaw Token Fees | Solana | 降温中 | 强度 76.09 | 质量 63.65
-  - 主题摘要：According to minjidevs's post, the OpenClaw token allegedly directs fees to Peter (referenced as @steipete) because he declined crypto fees. The post questions if money can now be…
-  - 资金 100.00 / 广度 75.45 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Town Cat | BSC | 加速中 | 强度 68.65 | 质量 61.82
-  - 主题摘要：Multiple tokens named 「TCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.03 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Mamesuke Token | BSC | 点火期 | 强度 68.54 | 质量 68.59
-  - 主题摘要：According to pscldev on Pumpfun's post, the user commented on a viral Meme image featuring a Shiba Inu named "Mamesuke" that was reportedly gaining traction in Japan. The post hig…
-  - 资金 80.34 / 广度 86.86 / 确认 11.52 / 脆弱性 24.00
+- ai6agent | Solana | 点火期 | 强度 77.70 | 质量 71.11
+  - 主题摘要：Multiple tokens named 「AI6」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.78 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- freedom of pi | BSC | 加速中 | 强度 68.32 | 质量 55.98
-  - 主题摘要：Multiple tokens named 「Pi币人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.05 / 确认 20.16 / 脆弱性 14.00
+- Manus AI Promotes Cue Platform | BSC | 加速中 | 强度 77.64 | 质量 74.88
+  - 主题摘要：According to Manus's post, the official account shared a link to the Cue platform (cue.im). This action promotes the platform in conjunction with the Manus Studio desktop applicat…
+  - 资金 100.00 / 广度 83.42 / 确认 26.64 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Effective Nyan Cat | Solana | 降温中 | 强度 75.98 | 质量 65.30
+  - 主题摘要：Multiple tokens named 「E/NYANCAT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.93 / 确认 11.52 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Pasquale D’Silva Launches Meme Coin | Solana | 降温中 | 强度 75.61 | 质量 60.31
+  - 主题摘要：According to Pasquale D’Silva's post, he launched a memecoin to purchase a Boston Dynamics robot, stating the initiative was successful. This claim involves the creation of a toke…
+  - 资金 100.00 / 广度 73.41 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged FX Senshi Kurumi-chan Meme Coin | BSC | 加速中 | 强度 74.74 | 质量 68.99
+  - 主题摘要：According to ABEL今年拿下1000X's post, the anime 'FX Senshi Kurumi-chan' is associated with an alleged $kurumi meme coin. The post analyzes the anime's niche status and limited mainst…
+  - 资金 100.00 / 广度 80.08 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Dan Asks About Snowball | Solana | 降温中 | 强度 74.56 | 质量 60.23
+  - 主题摘要：According to Dan's post, he asks the audience if they still love Snowball, referencing the associated token.
+  - 资金 100.00 / 广度 80.33 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Heyi is a Light Source | BSC | 降温中 | 强度 73.24 | 质量 59.34
+  - 主题摘要：CZ posted a statement declaring that Heyi is a light source, accompanied by a link to a Binance Square post. This content references a specific phrase associated with tokens named…
+  - 资金 100.00 / 广度 63.86 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- FreeDuck | BSC | 降温中 | 强度 69.95 | 质量 56.73
+  - 主题摘要：Multiple tokens named 「自由鸭」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.43 / 确认 4.32 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 健康天使 | BSC | 降温中 | 强度 69.85 | 质量 59.23
+  - 主题摘要：Multiple tokens named 「健康天使」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.90 / 确认 11.52 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.89，其中已确认叙事 0 个。
-- Alleged Mamesuke Meme Image Release 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.21，其中已确认叙事 0 个。
+- ai6agent 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - GTA VI 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
 - Alleged Mamesuke Meme Image Release | 质量 83.86 | 可交易性 100.00 | 风险 低
-- Alleged Viscacha Rabbit Meme | 质量 79.95 | 可交易性 100.00 | 风险 低
-- GTA VI | 质量 77.46 | 可交易性 100.00 | 风险 低
-- Manus AI Promotes Cue Platform | 质量 77.45 | 可交易性 96.44 | 风险 低
-- Alleged FX Senshi Kurumi-chan Meme Coin | 质量 76.09 | 可交易性 92.82 | 风险 低
-- Pacifinu | 质量 73.04 | 可交易性 100.00 | 风险 低
-- Froink | 质量 69.79 | 可交易性 100.00 | 风险 低
-- World Oil Trust Fund | 质量 69.59 | 可交易性 100.00 | 风险 低
-- OPERATION ECONOMIC OUTCAST | 质量 68.82 | 可交易性 100.00 | 风险 低
-- Alleged Mamesuke Token | 质量 68.59 | 可交易性 81.63 | 风险 低
+- GTA VI | 质量 78.64 | 可交易性 100.00 | 风险 低
+- Mewania Twemp | 质量 77.84 | 可交易性 100.00 | 风险 低
+- Manus AI Promotes Cue Platform | 质量 74.88 | 可交易性 86.63 | 风险 低
+- HOOKED ON CATS | 质量 74.10 | 可交易性 100.00 | 风险 低
+- Inuink | 质量 73.44 | 可交易性 100.00 | 风险 低
+- ai6agent | 质量 71.11 | 可交易性 82.11 | 风险 低
+- Alleged FX Senshi Kurumi-chan Meme Coin | 质量 68.99 | 可交易性 89.85 | 风险 低
+- Effective Nyan Cat | 质量 65.30 | 可交易性 99.00 | 风险 低
+- Pasquale D’Silva Launches Meme Coin | 质量 60.31 | 可交易性 60.75 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Mamesuke Token | 风险 51.26 | 原因：流动性偏薄、近 1 小时净流入转负
+- FreeDuck | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
+- ai6agent | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
 - GOOMS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SENTU | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SEND | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- HOOKED | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 80085 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- LEVERAGE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- FIM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPIKE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - VDINO | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- TRUE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - osbook | BSC | 看多 | 新鲜度 92.77 | 暂无直接叙事映射
+- TRUE | Base | 看多 | 新鲜度 92.36 | 暂无直接叙事映射
+- WIRED | BSC | 看多 | 新鲜度 89.94 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：GTA VI（Solana，分数 86.34）
-2. 共振最强代币：STONK（Solana，共振 100.0）
+1. 当前最强叙事：GTA VI（Solana，分数 89.04）
+2. 共振最强代币：牛来（BSC，共振 100.0）
 3. 记忆层变化：GTA VI 当前为“新出现”
 4. 最新官方催化：Important Updates on Dividend Adjustment Process of SAMSUNGUSDT TradFi Perpetual Contract (2026-09-28)
 #Binance #NarrativeOS #OpenClaw
