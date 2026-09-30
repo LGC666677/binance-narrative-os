@@ -1,114 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-30T13:56:35.435606+00:00
+- 生成时间：2026-09-30T18:41:55.672339+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：2
+- 已确认叙事：8
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 EVERNORTHXRP，所在链为 Solana，叙事强度 87.02。
-- 当前平均叙事强度为 80.31，其中已确认叙事 0 个。
+- 当前最强叙事是 POV: You Win Binance Traders League，所在链为 BSC，叙事强度 87.54。
+- 当前平均叙事强度为 84.71，其中已确认叙事 8 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Binance Pays with PayPay 当前处于“强化”状态。
-- 当前最需要防止误判的叙事是 Man Arrested for Crashing into Kroger，伪叙事风险 51.26。
+- 记忆层显示 POV: You Win Binance Traders League 当前处于“新出现”状态。
 - 最新官方催化来自 最新活动：October Affiliate Dual-Star Program: Refer & Trade to Win iPhone 18 Series & Up to 12,000 USDC!。
 
 ## 叙事雷达
 
-- EVERNORTHXRP | Solana | 降温中 | 强度 87.02 | 质量 78.44
-  - 主题摘要：Multiple tokens named 「XRPN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 98.29 / 确认 4.32 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Pays with PayPay | BSC | 加速中 | 强度 87.00 | 质量 82.36
-  - 主题摘要：币安宣布其App已支持扫描日本PayPay二维码进行数字货币支付，提供10%折扣，旨在简化跨境购物流程。
-  - 资金 100.00 / 广度 99.71 / 确认 20.20 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Pay Japan Tourist | BSC | 加速中 | 强度 86.77 | 质量 82.26
-  - 主题摘要：Binance Pay integrates with Japan's PayPay, allowing users to spend crypto like locals. This creates a 'Tourist by passport, local by payment' meme narrative for crypto travelers.
-  - 资金 100.00 / 广度 99.39 / 确认 20.20 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MCD | Solana | 降温中 | 强度 86.51 | 质量 77.28
-  - 主题摘要：Multiple tokens named 「McDonald's」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.73 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump: Committee to Watch Over | BSC | 已确认 | 强度 84.83 | 质量 80.63
-  - 主题摘要：According to _'s post, the acronym CSI is interpreted as Chinese Super Inu, which also coincides with the meaning of CSI (China Securities Index). The post contrasts this with Sol…
-  - 资金 100.00 / 广度 88.17 / 确认 28.08 / 脆弱性 14.00
+- POV: You Win Binance Traders League | BSC | 已确认 | 强度 87.54 | 质量 87.35
+  - 主题摘要：Binance promotes its Traders League Season 4, highlighting the prestige of topping the leaderboard. This taps into the competitive culture of crypto trading and the desire for rec…
+  - 资金 100.00 / 广度 100.00 / 确认 42.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- United States Water Reserve | Solana | 降温中 | 强度 84.07 | 质量 74.08
-  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.76 / 确认 4.32 / 脆弱性 0.00
+- Tronn Anime Style | BSC | 已确认 | 强度 84.71 | 质量 85.44
+  - 主题摘要：BNB Chain的BD负责人Tronn在BNB Seoul活动上使用了极具二次元风格的AI生成头像，这种动漫美学在硬核的加密货币商务场合中形成强烈反差，引发了社区对于“链圈二次元化”的讨论。
+  - 资金 100.00 / 广度 100.00 / 确认 33.84 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Uncertain:Alleged Belgian Malinois Token | BSC | 已确认 | 强度 84.68 | 质量 85.44
+  - 主题摘要：According to Mikuklk's post, CZ stated that the token is not a Shiba Inu but a Belgian Malinois. This refers to the alleged Belgian Malinois token (BELG/BM). This information is u…
+  - 资金 100.00 / 广度 100.00 / 确认 33.84 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Richard Teng: AI Behind the Scenes | BSC | 已确认 | 强度 84.65 | 质量 85.42
+  - 主题摘要：Binance CEO Richard Teng highlights the unseen role of AI in enhancing platform security and user experience. This follows Binance's '100 Days of AI' campaign, emphasizing utility…
+  - 资金 100.00 / 广度 99.92 / 确认 33.84 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged ZYROX Meme Coin Launch | Solana | 降温中 | 强度 84.35 | 质量 74.04
+  - 主题摘要：According to Zyrox's post, the individual is allegedly launching a new memecoin named $ZYROX on September 30th. The post claims that the majority of the supply will be locked, ear…
+  - 资金 100.00 / 广度 89.24 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged 'Binance People Can Fly' Meme | BSC | 加速中 | 强度 83.44 | 质量 80.20
-  - 主题摘要：According to wangyan's post, the user shared a Meme image referencing the phrase 'Binance People Can Fly' in the context of Binance's 300 million+ user community. The content expr…
-  - 资金 100.00 / 广度 92.55 / 确认 20.16 / 脆弱性 24.00
+- Uncertain:Alleged Launch of Binance Incat | BSC | 已确认 | 强度 84.04 | 质量 84.61
+  - 主题摘要：According to Simon👊顶尖（牛来版）'s post, the author proposes the concept of 'Binance Incat' by punning on Binance Inc, suggesting a cat-themed narrative to counter dog-themed chains. Th…
+  - 资金 100.00 / 广度 99.85 / 确认 30.24 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- BNBDOT | BSC | 已确认 | 强度 84.03 | 质量 84.61
+  - 主题摘要：Multiple tokens named 「BI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 99.85 / 确认 30.24 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Uncertain:Alleged Binance Dog Meme Image | BSC | 已确认 | 强度 84.02 | 质量 84.61
+  - 主题摘要：According to 我肯定会发财！'s post, the user allegedly launched a token named 'Binance-inspired Inu' (BI), also referred to as 'Binance Dog'. This information is unverified. Please exerc…
+  - 资金 100.00 / 广度 99.85 / 确认 30.24 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Elon Musk Starship AGI | BSC | 已确认 | 强度 84.00 | 质量 84.56
+  - 主题摘要：Multiple tokens named 「BI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 99.70 / 确认 30.24 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- stonk | Solana | 降温中 | 强度 82.10 | 质量 72.36
+  - 主题摘要：According to HimJames's post, the author proposes a narrative for the STONK token, using the acronym to represent major entities: SpaceX, Tesla, OpenAI, Nvidia, and Kalshi. This a…
+  - 资金 100.00 / 广度 74.35 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CheckMyCA Launches X Scanning Tool | Solana | 加速中 | 强度 82.09 | 质量 75.02
+  - 主题摘要：According to CheckMyCA's post, the CheckMyCA project has launched a real-time memecoin scanning tool on X. The service allows users to log token calls, track entry prices, and gen…
+  - 资金 100.00 / 广度 75.28 / 确认 20.16 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Says Soon | BSC | 加速中 | 强度 80.71 | 质量 79.39
-  - 主题摘要：Binance CEO Changpeng Zhao (CZ) posts a cryptic 'Soon...' tweet, sparking market speculation and excitement about a major upcoming announcement or event related to the Binance eco…
-  - 资金 100.00 / 广度 95.07 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Fat Bear Week 2026 Winner | Solana | 降温中 | 强度 77.81 | 质量 66.64
-  - 主题摘要：According to Dexerto's post, the bear named "89 Backpack" has been crowned the winner of Fat Bear Week 2026 after a close final. He is the son of the former 2019 champion, Holly.
-  - 资金 100.00 / 广度 58.95 / 确认 4.32 / 脆弱性 14.00
+- Alleged Madonna Meme Image | Solana | 降温中 | 强度 80.47 | 质量 70.59
+  - 主题摘要：According to Bert's post, Madonna is allegedly going viral for resembling the 'Human Jimothy' character, with millions of views and numerous comments. This content is associated w…
+  - 资金 100.00 / 广度 68.44 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNB Builders | BSC | 降温中 | 强度 77.67 | 质量 69.95
-  - 主题摘要：BNB Chain官方账号引用了Mario Salamanca致敬其十年坚持和开发者社区精神的诗句，强调了'Buidlers keep building'的社区韧性。这一内容突显了BNB生态长期的建设者文化，适合转化为强调忠诚和长期持有的Meme代币叙事。
-  - 资金 100.00 / 广度 88.96 / 确认 12.96 / 脆弱性 14.00
+- Feyn | Solana | 降温中 | 强度 77.52 | 质量 64.21
+  - 主题摘要：FEYN is a token designed to detect and report pump.fun rug operations. Created by FeynFun, it provides live detection of scams with on-chain evidence. The logo features a stylized…
+  - 资金 100.00 / 广度 65.12 / 确认 16.56 / 脆弱性 14.70
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Herzogian Ethos Token | Solana | 降温中 | 强度 77.43 | 质量 67.73
-  - 主题摘要：According to Historic Vids's post, Werner Herzog is featured in a Meme image sharing his philosophy. The post discusses his filmmaking style and life. Tokens named Herzogian Ethos…
-  - 资金 100.00 / 广度 75.23 / 确认 7.20 / 脆弱性 14.00
+- Alleged Madonna Meme Coin | Solana | 降温中 | 强度 76.28 | 质量 60.65
+  - 主题摘要：According to Bert's post, Madonna is experiencing viral attention for resembling 'Human Jimothy,' with claims of 7M views in 24 hours. This content is associated with tokens named…
+  - 资金 100.00 / 广度 76.89 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Chinese Recommends Loop Playback | BSC | 加速中 | 强度 75.76 | 质量 65.71
-  - 主题摘要：Binance VIP creator Yuki shares a song about the trading grind, prompting a follower to suggest a daily listening loop. This highlights the emotional connection between traders an…
-  - 资金 100.00 / 广度 76.00 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Man Arrested for Crashing into Kroger | Solana | 点火期 | 强度 74.69 | 质量 72.17
-  - 主题摘要：According to Dexerto's post, a man was arrested for crashing into a closed Kroger store to use the restroom. This incident has inspired the creation of a token named 'Kroger toile…
-  - 资金 100.00 / 广度 91.69 / 确认 11.52 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Pump Inu Token | Solana | 点火期 | 强度 74.61 | 质量 72.11
-  - 主题摘要：According to kingjimbo's post, the author questions the absence of a Pump Inu ($PI) token paired with Pump, referencing existing tokens like Super Inu and Soldier Inu. This implie…
-  - 资金 100.00 / 广度 91.46 / 确认 11.52 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.31，其中已确认叙事 0 个。
-- Binance Pays with PayPay 正在向主线升级: BSC 上该叙事处于“强化”状态，值得持续跟踪。
-- EVERNORTHXRP 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 84.71，其中已确认叙事 8 个。
+- POV: You Win Binance Traders League 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged ZYROX Meme Coin Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Pays with PayPay | 质量 82.36 | 可交易性 100.00 | 风险 低
-- Binance Pay Japan Tourist | 质量 82.26 | 可交易性 100.00 | 风险 低
-- Trump: Committee to Watch Over | 质量 80.63 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged 'Binance People Can Fly' Meme | 质量 80.20 | 可交易性 100.00 | 风险 低
-- CZ Says Soon | 质量 79.39 | 可交易性 94.77 | 风险 低
-- EVERNORTHXRP | 质量 78.44 | 可交易性 100.00 | 风险 低
-- MCD | 质量 77.28 | 可交易性 100.00 | 风险 低
-- United States Water Reserve | 质量 74.08 | 可交易性 100.00 | 风险 低
-- Man Arrested for Crashing into Kroger | 质量 72.17 | 可交易性 100.00 | 风险 低
-- Alleged Pump Inu Token | 质量 72.11 | 可交易性 100.00 | 风险 低
+- POV: You Win Binance Traders League | 质量 87.35 | 可交易性 100.00 | 风险 低
+- Tronn Anime Style | 质量 85.44 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Belgian Malinois Token | 质量 85.44 | 可交易性 100.00 | 风险 低
+- Richard Teng: AI Behind the Scenes | 质量 85.42 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Launch of Binance Incat | 质量 84.61 | 可交易性 100.00 | 风险 低
+- BNBDOT | 质量 84.61 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged Binance Dog Meme Image | 质量 84.61 | 可交易性 100.00 | 风险 低
+- Elon Musk Starship AGI | 质量 84.56 | 可交易性 100.00 | 风险 低
+- CheckMyCA Launches X Scanning Tool | 质量 75.02 | 可交易性 100.00 | 风险 低
+- Alleged ZYROX Meme Coin Launch | 质量 74.04 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Man Arrested for Crashing into Kroger | 风险 51.26 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Pump Inu Token | 风险 51.26 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- BI | BSC | 看多 | 新鲜度 100.00 | POV: You Win Binance Traders League / Tronn Anime Style / Uncertain:Alleged Belgian Malinois Token / Richard Teng: AI Behind the Scenes / Uncertain:Alleged Launch of Binance Incat / BNBDOT / Uncertain:Alleged Binance Dog Meme Image / Elon Musk Starship AGI
+- BI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- GOLDCAT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 拼好股 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 拼好币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RB | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BNCDAO | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BNC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Saw | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FZ1073 | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PAID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- us | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- RIBBIT | Base | 看多 | 新鲜度 98.43 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：EVERNORTHXRP（Solana，分数 87.02）
+1. 当前最强叙事：POV: You Win Binance Traders League（BSC，分数 87.54）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Binance Pays with PayPay 当前为“强化”
+3. 记忆层变化：POV: You Win Binance Traders League 当前为“新出现”
 4. 最新官方催化：October Affiliate Dual-Star Program: Refer & Trade to Win iPhone 18 Series & Up to 12,000 USDC!
 #Binance #NarrativeOS #OpenClaw
