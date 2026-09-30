@@ -1,110 +1,110 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-09-29T22:35:56.936474+00:00
+- 生成时间：2026-09-30T01:31:41.559340+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 OpenAI Launches GPT-6 Astra Agents，所在链为 Solana，叙事强度 88.43。
-- 当前平均叙事强度为 82.38，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 OpenAI Launches GPT-6 Astra Agents 当前处于“新出现”状态。
+- 当前最强叙事是 Uncertain:Binance Chain Can Fly，所在链为 BSC，叙事强度 86.53。
+- 当前平均叙事强度为 81.31，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 Uncertain:Binance Chain Can Fly 当前处于“强化”状态。
 - 最新官方催化来自 最新活动：Brazil New User Exclusive: Subscribe to USDC Simple Earn to Enjoy 15% APR!。
 
 ## 叙事雷达
 
-- OpenAI Launches GPT-6 Astra Agents | Solana | 加速中 | 强度 88.43 | 质量 80.20
-  - 主题摘要：According to OpenAI's post, the organization introduced 'dots,' a new service powered by GPT-6 Astra. These are described as remarkably capable, always-on agents designed to handl…
-  - 资金 100.00 / 广度 92.55 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Nvidia CEO Jensen Huang on SI Factories | Solana | 降温中 | 强度 83.51 | 质量 71.82
-  - 主题摘要：According to Clash Report's post, Nvidia CEO Jensen Huang stated that the facilities currently being built are no longer just data centers but are now referred to as SI factories.
-  - 资金 100.00 / 广度 83.40 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Trump Meme Token | Solana | 降温中 | 强度 83.23 | 质量 72.03
-  - 主题摘要：According to Aes🇺🇸's post, a token named FED (America.gov) is associated with a meme claiming Trump admitted to a poor presidency. This information is unverified. Please exercise…
-  - 资金 100.00 / 广度 75.02 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Says Soon | BSC | 降温中 | 强度 83.20 | 质量 78.28
-  - 主题摘要：Binance CEO Changpeng Zhao (CZ) posts a cryptic 'Soon...' tweet, sparking market speculation and excitement about a major upcoming announcement or event related to the Binance eco…
-  - 资金 100.00 / 广度 92.66 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged SGI Meme Image | BSC | 降温中 | 强度 82.96 | 质量 73.30
-  - 主题摘要：According to youwatched's post, Robinhood is associated with AI, Solana with SI, and BNB with SGI (Super Giga Inu). This implies an alleged launch of the SGI token on the BNB Chai…
-  - 资金 100.00 / 广度 85.74 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- terry Quotes Trump ASI Renaming | Solana | 降温中 | 强度 82.50 | 质量 73.55
-  - 主题摘要：According to Trencher Bill's post, the American Super Intelligence (ASI) narrative is emerging as a dominant theme, potentially overshadowing traditional narratives related to Don…
-  - 资金 100.00 / 广度 89.77 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 战备人生生态币 | BSC | 降温中 | 强度 81.93 | 质量 73.56
-  - 主题摘要：Multiple tokens named 「战备股票」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.34 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of BNC Token | BSC | 加速中 | 强度 81.64 | 质量 81.59
-  - 主题摘要：According to Quant 💻's post, the ticker BNC is associated with BNB Standard Corporation. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 94.54 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged 'Binance People Can Fly' Meme | BSC | 降温中 | 强度 81.61 | 质量 72.52
-  - 主题摘要：According to wangyan's post, the user shared a Meme image referencing the phrase 'Binance People Can Fly' in the context of Binance's 300 million+ user community. The content expr…
-  - 资金 100.00 / 广度 79.93 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NASA | Solana | 降温中 | 强度 79.54 | 质量 69.66
-  - 主题摘要：Multiple tokens named 「NASA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.33 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNCDAO | BSC | 加速中 | 强度 78.15 | 质量 66.25
-  - 主题摘要：Multiple tokens named 「BNCDAO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.59 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance Chain Can Fly | BSC | 加速中 | 强度 78.07 | 质量 69.26
+- Uncertain:Binance Chain Can Fly | BSC | 加速中 | 强度 86.53 | 质量 78.33
   - 主题摘要：According to 角度之王，龙头先生's post, the user advocates for the slogan "Binance Chain Can Fly" and expresses strong support for BNB Chain's growth. The post urges followers to chant the…
-  - 资金 100.00 / 广度 79.80 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 83.15 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Polythesis | BSC | 加速中 | 强度 77.36 | 质量 69.82
+- fomocoin | Solana | 降温中 | 强度 84.79 | 质量 72.38
+  - 主题摘要：Multiple tokens named 「fomocoin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.40 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- VSOF | Solana | 降温中 | 强度 84.46 | 质量 72.23
+  - 主题摘要：Multiple tokens named 「VSOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.90 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged dotbook Meme Image Launch | Solana | 降温中 | 强度 84.21 | 质量 73.56
+  - 主题摘要：According to nostalgicgareth's post, a platform named dotbook is live, allowing bots to post and interact. The first post is a Meme image representing the bot's chosen face. nosta…
+  - 资金 100.00 / 广度 78.35 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Says Soon | BSC | 加速中 | 强度 84.09 | 质量 79.44
+  - 主题摘要：Binance CEO Changpeng Zhao (CZ) posts a cryptic 'Soon...' tweet, sparking market speculation and excitement about a major upcoming announcement or event related to the Binance eco…
+  - 资金 100.00 / 广度 94.25 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Oura Files for IPO | Solana | 降温中 | 强度 81.78 | 质量 70.40
+  - 主题摘要：According to Polymarket's post, Oura, the maker of the Oura Ring, has confidentially filed for an Initial Public Offering (IPO). This announcement highlights the company's move to…
+  - 资金 100.00 / 广度 67.81 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged SS Token Launch | Solana | 降温中 | 强度 81.64 | 质量 69.96
+  - 主题摘要：According to XENTIAL's post, the user claims that the acronym 'SS' stands for 'Shalom Shabbat' and references a token with this name. This follows viral discussions about Sydney S…
+  - 资金 100.00 / 广度 84.65 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged 'Binance People Can Fly' Meme | BSC | 加速中 | 强度 81.55 | 质量 76.37
+  - 主题摘要：According to wangyan's post, the user shared a Meme image referencing the phrase 'Binance people can fly' in the context of Binance's 300 million+ user community. The content expr…
+  - 资金 100.00 / 广度 81.93 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Launch of BNC Token | BSC | 加速中 | 强度 80.75 | 质量 81.35
+  - 主题摘要：According to Quant 💻's post, the ticker BNC is associated with BNB Standard Corporation. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 94.56 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Phantom: Solana Supercycle | Solana | 降温中 | 强度 80.11 | 质量 67.35
+  - 主题摘要：According to Phantom's post, the account asserts that Solana is entering a supercycle phase, while also indicating that prices are higher. This statement reflects a bullish market…
+  - 资金 100.00 / 广度 84.00 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Polythesis | BSC | 加速中 | 强度 79.73 | 质量 70.16
   - 主题摘要：According to Arya@羊姐社区🦅's post, the THESIS token on BSC is described as an application-based platform coin for the AI trading terminal ThesisAI. Arya claims it converts on-chain d…
-  - 资金 100.00 / 广度 78.91 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 79.04 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mario Allegedly Launches SuperCoin | Solana | 降温中 | 强度 77.05 | 质量 66.22
-  - 主题摘要：According to Mario's post, Mario allegedly launched a token named SuperCoin (SC). This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 53.87 / 确认 9.36 / 脆弱性 14.00
+- BNB Builders | BSC | 加速中 | 强度 78.72 | 质量 72.95
+  - 主题摘要：BNB Chain官方账号引用了Mario Salamanca致敬其十年坚持和开发者社区精神的诗句，强调了'Buidlers keep building'的社区韧性。这一内容突显了BNB生态长期的建设者文化，适合转化为强调忠诚和长期持有的Meme代币叙事。
+  - 资金 100.00 / 广度 89.55 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Sydney Sweenstein Meme Coin | Solana | 降温中 | 强度 78.39 | 质量 64.01
+  - 主题摘要：According to Odyseas's post, the user discusses Sydney Sweeney's conversion to Judaism and the resulting viral memes, including the term 'Sydney Sweenstein.' The post references t…
+  - 资金 100.00 / 广度 84.47 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 战备人生生态币 | BSC | 降温中 | 强度 77.82 | 质量 66.66
+  - 主题摘要：Multiple tokens named 「战备股票」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.48 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.38，其中已确认叙事 0 个。
-- OpenAI Launches GPT-6 Astra Agents 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Nvidia CEO Jensen Huang on SI Factories 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 81.31，其中已确认叙事 0 个。
+- Uncertain:Binance Chain Can Fly 正在向主线升级: BSC 上该叙事处于“强化”状态，值得持续跟踪。
+- fomocoin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Launch of BNC Token | 质量 81.59 | 可交易性 100.00 | 风险 低
-- OpenAI Launches GPT-6 Astra Agents | 质量 80.20 | 可交易性 100.00 | 风险 低
-- CZ Says Soon | 质量 78.28 | 可交易性 96.13 | 风险 低
-- 战备人生生态币 | 质量 73.56 | 可交易性 100.00 | 风险 低
-- terry Quotes Trump ASI Renaming | 质量 73.55 | 可交易性 90.41 | 风险 低
-- Alleged SGI Meme Image | 质量 73.30 | 可交易性 92.37 | 风险 低
-- Uncertain:Alleged 'Binance People Can Fly' Meme | 质量 72.52 | 可交易性 89.67 | 风险 低
-- Alleged Trump Meme Token | 质量 72.03 | 可交易性 100.00 | 风险 低
-- Nvidia CEO Jensen Huang on SI Factories | 质量 71.82 | 可交易性 83.85 | 风险 低
-- Polythesis | 质量 69.82 | 可交易性 76.40 | 风险 低
+- Alleged Launch of BNC Token | 质量 81.35 | 可交易性 100.00 | 风险 低
+- CZ Says Soon | 质量 79.44 | 可交易性 95.78 | 风险 低
+- Uncertain:Binance Chain Can Fly | 质量 78.33 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged 'Binance People Can Fly' Meme | 质量 76.37 | 可交易性 97.85 | 风险 低
+- Alleged dotbook Meme Image Launch | 质量 73.56 | 可交易性 100.00 | 风险 低
+- BNB Builders | 质量 72.95 | 可交易性 96.90 | 风险 低
+- fomocoin | 质量 72.38 | 可交易性 100.00 | 风险 低
+- VSOF | 质量 72.23 | 可交易性 100.00 | 风险 低
+- Oura Files for IPO | 质量 70.40 | 可交易性 100.00 | 风险 低
+- Polythesis | 质量 70.16 | 可交易性 76.87 | 风险 低
 
 ## 伪叙事风险
 
 
 ## 信号台
 
-- BNC | BSC | 看多 | 新鲜度 100.00 | Alleged Launch of BNC Token
-- BNCDAO | BSC | 看多 | 新鲜度 100.00 | BNCDAO
+- BNC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BNCDAO | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 企鹅 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 神经蛙 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CMC | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- SI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SIF | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CHILL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - NERO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPIKE | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
@@ -131,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：OpenAI Launches GPT-6 Astra Agents（Solana，分数 88.43）
-2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：OpenAI Launches GPT-6 Astra Agents 当前为“新出现”
+1. 当前最强叙事：Uncertain:Binance Chain Can Fly（BSC，分数 86.53）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：Uncertain:Binance Chain Can Fly 当前为“强化”
 4. 最新官方催化：Brazil New User Exclusive: Subscribe to USDC Simple Earn to Enjoy 15% APR!
 #Binance #NarrativeOS #OpenClaw
