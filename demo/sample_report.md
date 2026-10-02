@@ -1,113 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-02T02:26:15.925994+00:00
+- 生成时间：2026-10-02T08:42:33.176159+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：3
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance CT Job，所在链为 BSC，叙事强度 88.82。
-- 当前平均叙事强度为 83.28，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 ZCAT，来自 Solana，共振分数 100.0。
-- 记忆层显示 Spinning Dog Meme Video Trend 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Eloncoin Bonding Error，伪叙事风险 47.79。
+- 当前最强叙事是 Nailong Chinese Meme，所在链为 BSC，叙事强度 87.86。
+- 当前平均叙事强度为 79.67，其中已确认叙事 3 个。
+- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 记忆层显示 VSOF 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Uncertain:Dirss7 Proposes Naming CZ's Cybertruck MEMEtruk，伪叙事风险 47.23。
 - 最新官方催化来自 最新活动：PK Exclusive: Trading Rush - Trade, Invite and Unlock Rewards。
 
 ## 叙事雷达
 
-- Binance CT Job | BSC | 已确认 | 强度 88.82 | 质量 84.97
-  - 主题摘要：Binance official account posted a meme about the difficulty or nature of applying for a Chief Technology Officer position, highlighting internal corporate culture or hiring challe…
-  - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 14.00
+- Nailong Chinese Meme | BSC | 已确认 | 强度 87.86 | 质量 85.76
+  - 主题摘要：According to Zhou (周)'s post, Changi Airport announced that Nailong will serve as its official mascot for the Chinese Golden Week. Zhou (周) also noted incorporating gold elements…
+  - 资金 100.00 / 广度 100.00 / 确认 35.28 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Nailong Chinese Meme | BSC | 已确认 | 强度 88.51 | 质量 84.97
-  - 主题摘要：According to Zhou (周)'s post, Changi Airport announced that the Chinese IP character Nailong will serve as its official mascot for the Golden Week holiday. Zhou (周) also noted inc…
-  - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 14.00
+- VSOF | Solana | 降温中 | 强度 83.99 | 质量 72.77
+  - 主题摘要：Multiple tokens named 「VSOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.39 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Musk Nudges AI5 to 96GB | BSC | 已确认 | 强度 81.72 | 质量 72.19
+  - 主题摘要：Elon Musk confirms a hardware specification change for Tesla's upcoming AI5 chip, increasing RAM to 96GB to balance production volume and cost while maintaining Optimus robot perf…
+  - 资金 100.00 / 广度 79.52 / 确认 28.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- World Strategic Oil Supply | Solana | 降温中 | 强度 87.95 | 质量 76.89
-  - 主题摘要：Multiple tokens named 「WSOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.44 / 确认 9.36 / 脆弱性 0.00
+- Alleged AI Agent for Satoshi | Solana | 降温中 | 强度 80.03 | 质量 70.39
+  - 主题摘要：According to quant's post, an autonomous AI investigator was deployed on @www_stream with the mission to find Satoshi Nakamoto by searching the internet and analyzing evidence. Th…
+  - 资金 100.00 / 广度 66.19 / 确认 11.52 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Spinning Dog Meme Video Trend | Solana | 降温中 | 强度 86.97 | 质量 76.47
-  - 主题摘要：According to terry's post, the spinning dog Meme image achieved significant viral traction, reaching 5 million views previously. A related cat version of the Meme image has since…
-  - 资金 100.00 / 广度 85.37 / 确认 13.00 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged AstroSchro Meme Coin | Solana | 降温中 | 强度 85.70 | 质量 75.99
-  - 主题摘要：According to sharky's post, a DOG STICKER was spotted on the ISS during a NASA livestream, identified as a mural of a space company's office dog named 'Schrodinger' (AstroSchro).…
-  - 资金 100.00 / 广度 87.44 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Oil Supply | Solana | 降温中 | 强度 84.26 | 质量 71.82
-  - 主题摘要：Multiple tokens named 「USOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.53 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Binance Intern Meme | BSC | 加速中 | 强度 83.27 | 质量 83.70
-  - 主题摘要：Multiple tokens named 「BI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 25.92 / 脆弱性 24.00
+- Uncertain:Alleged CZ Banana Meme Image | BSC | 加速中 | 强度 79.56 | 质量 80.11
+  - 主题摘要：Multiple tokens named 「bananas」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 97.72 / 确认 26.64 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Flap 🦋 Comments on Binance | BSC | 加速中 | 强度 82.45 | 质量 82.74
-  - 主题摘要：Multiple tokens named 「BI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.73 / 确认 27.36 / 脆弱性 14.00
+- Super Chillhouse | Solana | 加速中 | 强度 79.53 | 质量 70.42
+  - 主题摘要：Multiple tokens named 「SCHOUSE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.82 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged CZ Banana Meme Image | BSC | 加速中 | 强度 82.23 | 质量 83.04
-  - 主题摘要：According to 海胆刺头's post, CZ allegedly shared a Meme image claiming Binance is yellow because of bananas and launched a golden banana pool. This information is unverified. Please…
-  - 资金 100.00 / 广度 97.25 / 确认 26.64 / 脆弱性 14.00
+- Bloom | BSC | 已确认 | 强度 79.09 | 质量 76.90
+  - 主题摘要：According to Mikuklk's post, the user questions whether the term 'Bloom' refers to a specific cryptocurrency token, citing the phrase 'radiant flower must bloom' in a quoted tweet…
+  - 资金 100.00 / 广度 81.06 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Flap 🦋 Recommends BNB Memes | BSC | 加速中 | 强度 78.68 | 质量 71.08
+  - 主题摘要：According to Flap 🦋's post, the author recommends going all in on BNB memes, suggesting it is worth an attempt. This statement reflects a personal investment opinion regarding the…
+  - 资金 100.00 / 广度 79.52 / 确认 23.08 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Four.Meme Fora Responds to Binance | BSC | 加速中 | 强度 81.69 | 质量 82.18
-  - 主题摘要：According to Four.Meme Fora's post, the author replied to Binance International, agreeing with a previous statement and expressing a desire to try something different. The post in…
-  - 资金 100.00 / 广度 97.56 / 确认 22.32 / 脆弱性 24.00
+- even a devil may cry | BSC | 加速中 | 强度 78.08 | 质量 73.30
+  - 主题摘要：According to 유진's post, the world has entered a "China time" era, comparing this development to the concept of "America is back." The author characterizes this shift as top-tier,…
+  - 资金 100.00 / 广度 77.47 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged NOSH CSGO Skin Update | Solana | 降温中 | 强度 79.72 | 质量 69.66
-  - 主题摘要：According to Rin's post, NOSH allegedly released an update where holders receive CS2 skins for their Steam accounts. Rin claims this feature distinguishes NOSH from a similar toke…
-  - 资金 100.00 / 广度 65.33 / 确认 9.36 / 脆弱性 14.00
+- Elon Musk: Super Intelligence Acing Accounting | Solana | 降温中 | 强度 77.69 | 质量 65.46
+  - 主题摘要：Elon Musk highlights that his AI project, formerly known as 'AI' and now 'xAI', is successfully passing accounting tests, signaling rapid progress in AI reasoning capabilities. Th…
+  - 资金 100.00 / 广度 81.41 / 确认 7.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Griffin Meme Image | BSC | 降温中 | 强度 79.70 | 质量 69.63
-  - 主题摘要：According to Mikuklk's post, the Griffin AI model passed the video Turing test, achieving a 48% human recognition rate. Mikuklk claims this aligns with the 'Griffin' token name, s…
-  - 资金 100.00 / 广度 72.53 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Lists Real Stocks | BSC | 降温中 | 强度 79.56 | 质量 74.87
-  - 主题摘要：Binance officially announces the listing of tokenized real-world stocks like Apple and Nvidia, bridging traditional finance with crypto trading. This move blurs the line between D…
-  - 资金 100.00 / 广度 85.55 / 确认 13.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Eloncoin Bonding Error | Solana | 点火期 | 强度 78.34 | 质量 76.00
-  - 主题摘要：According to d's post, Eloncoin reportedly bonded at 50k with an accidental placement of ANDRUIL. The post clarifies that the token has no connection to Elon. This information is…
-  - 资金 100.00 / 广度 86.46 / 确认 9.36 / 脆弱性 14.00
+- Uncertain:Dirss7 Proposes Naming CZ's Cybertruck MEMEtruk | BSC | 点火期 | 强度 76.78 | 质量 76.47
+  - 主题摘要：According to Dirss7's post, the author suggests naming a modified Cybertruck 'MEMEtruk' and implies the creation of a corresponding token. This information is unverified. Please e…
+  - 资金 100.00 / 广度 84.07 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance AI 100 Days | BSC | 加速中 | 强度 75.60 | 质量 66.38
+  - 主题摘要：Binance launches a '100 Days of AI' campaign, encouraging users to focus on AI trends by closing distracting browser tabs. This initiative highlights the intersection of the world…
+  - 资金 100.00 / 广度 84.63 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk: NYT Altercation | Solana | 点火期 | 强度 75.54 | 质量 68.99
+  - 主题摘要：Elon Musk retweeted a post from @libsoftiktok criticizing the New York Times for using the word 'altercation' to describe a violent incident involving a pilot stabbing a co-pilot…
+  - 资金 100.00 / 广度 86.22 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Dogdev Discusses FABLEINU | Solana | 降温中 | 强度 75.15 | 质量 66.32
+  - 主题摘要：According to Dogdev's post, the FableInu token is allegedly going offline. The post mentions making it a runner for Claude Fable and notes that CATGPT is at 500k. This information…
+  - 资金 100.00 / 广度 66.46 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 83.28，其中已确认叙事 2 个。
-- Alleged Eloncoin Bonding Error 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- World Strategic Oil Supply 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.67，其中已确认叙事 3 个。
+- Musk Nudges AI5 to 96GB 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- VSOF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance CT Job | 质量 84.97 | 可交易性 100.00 | 风险 低
-- Nailong Chinese Meme | 质量 84.97 | 可交易性 100.00 | 风险 低
-- Uncertain:Binance Intern Meme | 质量 83.70 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged CZ Banana Meme Image | 质量 83.04 | 可交易性 100.00 | 风险 低
-- Uncertain:Flap 🦋 Comments on Binance | 质量 82.74 | 可交易性 100.00 | 风险 低
-- Uncertain:Four.Meme Fora Responds to Binance | 质量 82.18 | 可交易性 100.00 | 风险 低
-- World Strategic Oil Supply | 质量 76.89 | 可交易性 100.00 | 风险 低
-- Spinning Dog Meme Video Trend | 质量 76.47 | 可交易性 100.00 | 风险 低
-- Alleged Eloncoin Bonding Error | 质量 76.00 | 可交易性 100.00 | 风险 低
-- Alleged AstroSchro Meme Coin | 质量 75.99 | 可交易性 100.00 | 风险 低
+- Nailong Chinese Meme | 质量 85.76 | 可交易性 100.00 | 风险 低
+- Uncertain:Alleged CZ Banana Meme Image | 质量 80.11 | 可交易性 100.00 | 风险 低
+- Bloom | 质量 76.90 | 可交易性 94.69 | 风险 低
+- Uncertain:Dirss7 Proposes Naming CZ's Cybertruck MEMEtruk | 质量 76.47 | 可交易性 98.70 | 风险 低
+- even a devil may cry | 质量 73.30 | 可交易性 89.43 | 风险 低
+- VSOF | 质量 72.77 | 可交易性 100.00 | 风险 低
+- Musk Nudges AI5 to 96GB | 质量 72.19 | 可交易性 80.48 | 风险 低
+- Flap 🦋 Recommends BNB Memes | 质量 71.08 | 可交易性 80.48 | 风险 低
+- Super Chillhouse | 质量 70.42 | 可交易性 100.00 | 风险 低
+- Alleged AI Agent for Satoshi | 质量 70.39 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Eloncoin Bonding Error | 风险 47.79 | 原因：流动性偏薄
+- Uncertain:Dirss7 Proposes Naming CZ's Cybertruck MEMEtruk | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon Musk: NYT Altercation | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
-- Nailoong | BSC | 看多 | 新鲜度 100.00 | Binance CT Job / Nailong Chinese Meme
+- Nailoong | BSC | 看多 | 新鲜度 100.00 | Nailong Chinese Meme / Binance AI 100 Days
 - NAILONG | BSC | 看多 | 新鲜度 100.00 | Nailong Chinese Meme
-- 逆袭人生 | BSC | 看多 | 新鲜度 100.00 | Binance CT Job / Uncertain:Binance Intern Meme / Uncertain:Four.Meme Fora Responds to Binance
+- 逆袭人生 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 雪王币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- GOLDCAT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SPLIT | BSC | 看多 | 新鲜度 99.45 | 暂无直接叙事映射
 - RIBBIT | Base | 看多 | 新鲜度 98.43 | 暂无直接叙事映射
-- BI | BSC | 看多 | 新鲜度 87.31 | 暂无直接叙事映射
+- OCTO | Solana | 看多 | 新鲜度 96.09 | 暂无直接叙事映射
+- MEMETRUCK | BSC | 看多 | 新鲜度 94.00 | Uncertain:Dirss7 Proposes Naming CZ's Cybertruck MEMEtruk
+- Agency | Solana | 看多 | 新鲜度 91.18 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance CT Job（BSC，分数 88.82）
-2. 共振最强代币：ZCAT（Solana，共振 100.0）
-3. 记忆层变化：Spinning Dog Meme Video Trend 当前为“新出现”
+1. 当前最强叙事：Nailong Chinese Meme（BSC，分数 87.86）
+2. 共振最强代币：STONK（Solana，共振 100.0）
+3. 记忆层变化：VSOF 当前为“新出现”
 4. 最新官方催化：PK Exclusive: Trading Rush - Trade, Invite and Unlock Rewards
 #Binance #NarrativeOS #OpenClaw
