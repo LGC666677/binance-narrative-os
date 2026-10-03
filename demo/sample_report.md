@@ -1,111 +1,113 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-02T23:16:31.062191+00:00
+- 生成时间：2026-10-03T02:06:45.735864+00:00
 - 跟踪叙事：14
-- 已确认叙事：6
+- 已确认叙事：4
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Zhou Proposes DOGE Logo Design，所在链为 BSC，叙事强度 86.15。
-- 当前平均叙事强度为 82.31，其中已确认叙事 6 个。
+- 当前最强叙事是 Elon Musk: We Are Early，所在链为 BSC，叙事强度 87.01。
+- 当前平均叙事强度为 81.35，其中已确认叙事 4 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Zhou Proposes DOGE Logo Design 当前处于“新出现”状态。
+- 记忆层显示 Esoteric Discusses Wallet Creation 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 MrBeast，伪叙事风险 48.9。
 - 最新官方催化来自 币安最新公告：Updates on International Virtual Asset Transfer Procedures in Brazil。
 
 ## 叙事雷达
 
-- Zhou Proposes DOGE Logo Design | BSC | 已确认 | 强度 86.15 | 质量 85.11
-  - 主题摘要：According to Zhou (Zhou)'s post, the individual suggests that the TAIGAN token's logo should resemble the Dogecoin logo. This statement reflects a personal opinion regarding the v…
-  - 资金 100.00 / 广度 92.54 / 确认 42.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon Musk: We Are Early | BSC | 已确认 | 强度 84.05 | 质量 78.30
+- Elon Musk: We Are Early | BSC | 已确认 | 强度 87.01 | 质量 80.20
   - 主题摘要：Elon Musk replied 'Yup' to Farzad's comment about being 'unbelievably stupidly early' in a project, validating the sentiment that the market or technology is at a nascent stage. T…
-  - 资金 100.00 / 广度 81.80 / 确认 28.08 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.10 / 确认 31.68 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged SOL Banana Monkey Meme Image | BSC | 加速中 | 强度 83.91 | 质量 83.86
-  - 主题摘要：According to Marquis Carter's post, CZ favors the 'Three Wise Monkeys' Meme image, which has gained billions of views on Douyin. The author claims that Solana (SOL) features class…
-  - 资金 100.00 / 广度 100.00 / 确认 26.64 / 脆弱性 24.00
+- Uncertain:Alleged SOL Banana Monkey Meme Image | BSC | 加速中 | 强度 84.44 | 质量 83.86
+  - 主题摘要：According to Marquis Carter's post, CZ favors the Three Wise Monkeys Meme image, which has been displayed in multiple tweets. The post claims that SOL-based tokens like Banana Mon…
+  - 资金 100.00 / 广度 100.00 / 确认 26.64 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- HOOKED | Solana | 降温中 | 强度 83.17 | 质量 72.93
-  - 主题摘要：Multiple tokens named 「HOOKED」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.24 / 确认 9.36 / 脆弱性 14.51
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ Comments on Kyrgyzstan Trip | BSC | 已确认 | 强度 83.01 | 质量 81.65
-  - 主题摘要：CZ replied to a post regarding a walk through Ala-Archa National Park, describing the experience as beautiful. The post referenced a photo involving CZ and another individual, hig…
-  - 资金 100.00 / 广度 88.94 / 确认 31.68 / 脆弱性 14.00
+- Zhou Proposes DOGE Logo Design | BSC | 已确认 | 强度 84.22 | 质量 84.10
+  - 主题摘要：According to Zhou (周)'s post, he suggests that the TAIGAN token should adopt a logo design resembling that of Dogecoin. This statement reflects a personal opinion regarding the vi…
+  - 资金 100.00 / 广度 91.82 / 确认 38.88 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:CZ's Second Dog: Taigan | BSC | 已确认 | 强度 82.27 | 质量 84.94
+- Esoteric Discusses Wallet Creation | Solana | 降温中 | 强度 82.99 | 质量 74.33
+  - 主题摘要：According to Esoteric's post, a wallet associated with the LOBSTAR token was shared, with a note regarding a 10% distribution mechanism. The post includes a quoted tweet and a wal…
+  - 资金 100.00 / 广度 83.68 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- MrBeast | Solana | 降温中 | 强度 82.93 | 质量 76.66
+  - 主题摘要：Multiple tokens named 「Mr Beast」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 85.44 / 广度 88.67 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:CZ's Second Dog: Taigan | BSC | 已确认 | 强度 82.22 | 质量 84.92
   - 主题摘要：Multiple tokens named 「TAIGAN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 97.80 / 确认 34.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 97.18 / 确认 35.28 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- White House Post on New President | Solana | 降温中 | 强度 80.48 | 质量 66.88
-  - 主题摘要：The White House posted a message stating that only a new president was needed, accompanied by an alien emoji. This post appears to reference political transitions or leadership ch…
-  - 资金 100.00 / 广度 84.30 / 确认 12.96 / 脆弱性 14.00
+- Google Bard AI | Solana | 降温中 | 强度 81.53 | 质量 70.01
+  - 主题摘要：Multiple tokens named 「GoogleAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.50 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged CATE Meme Coin Launch | Solana | 降温中 | 强度 79.57 | 质量 70.87
+- Musk Nudges AI5 to 96GB | Solana | 降温中 | 强度 80.84 | 质量 68.89
+  - 主题摘要：Elon Musk confirms a hardware specification change for Tesla's upcoming AI5 chip, increasing RAM to 96GB to balance production volume and cost while maintaining Optimus robot perf…
+  - 资金 100.00 / 广度 68.92 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged CATE Meme Coin Launch | Solana | 降温中 | 强度 80.31 | 质量 71.49
   - 主题摘要：According to thedevrrrrrr's post, the author suggests running a CATE token similar to DOGE, implying the launch of a feline-themed meme coin. This information is unverified. Pleas…
-  - 资金 100.00 / 广度 69.36 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 71.42 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:ayznnn Allegedly Claims CZ's Taigan Photo Found | BSC | 已确认 | 强度 78.64 | 质量 78.98
-  - 主题摘要：According to ayznnn's post, a photo of CZ's Taigan was found on a deleted Instagram account. The post includes a NYT link and a quoted tweet featuring CZ. This information is unve…
-  - 资金 100.00 / 广度 80.57 / 确认 30.96 / 脆弱性 14.00
+- NTDA | Solana | 降温中 | 强度 80.05 | 质量 69.18
+  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 63.72 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Meme Token $enu Launch | Solana | 降温中 | 强度 79.77 | 质量 70.33
+  - 主题摘要：According to minjidevs's post, the developer claims to have launched the $enu token, stating that transaction fees will be donated to the Global Down Syndrome Foundation. The post…
+  - 资金 100.00 / 广度 62.28 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:CZ Comments on Kyrgyzstan Trip | BSC | 已确认 | 强度 79.66 | 质量 81.47
+  - 主题摘要：According to CZ's post, he replied to a tweet featuring a walk through Ala-Archa National Park, describing the experience as beautiful. The post highlights his appreciation for th…
+  - 资金 100.00 / 广度 88.33 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged TAIGAN Token | BSC | 已确认 | 强度 78.13 | 质量 78.49
-  - 主题摘要：According to Jewjo's post, CZ revealed he owns a Taigan dog, prompting speculation about a related token. Jewjo suggests the narrative resembles Dogecoin and Shiba Inu. This infor…
-  - 资金 100.00 / 广度 78.92 / 确认 30.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon Musk: We Are Early | Solana | 降温中 | 强度 77.74 | 质量 62.42
-  - 主题摘要：Elon Musk replied 'Yup' to Farzad's comment about being 'unbelievably stupidly early' in a project, validating the sentiment that the market or technology is at a nascent stage. T…
-  - 资金 100.00 / 广度 85.31 / 确认 9.36 / 脆弱性 14.00
+- Oura | Solana | 降温中 | 强度 77.82 | 质量 66.57
+  - 主题摘要：According to Polymarket's post, Oura, the maker of the Oura Ring, has confidentially filed for an Initial Public Offering (IPO). This financial development marks a significant ste…
+  - 资金 100.00 / 广度 55.02 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Shondra Pflum Quotes HIM Model | Solana | 加速中 | 强度 77.68 | 质量 75.07
-  - 主题摘要：According to Shondra Pflum's post, a new Human Interaction Model (HIM) named Griffin was introduced, claiming to pass the video Turing test with a 48% pass rate. This information…
-  - 资金 100.00 / 广度 84.83 / 确认 23.76 / 脆弱性 14.00
+- WormBrain On-Chain Neural Network | BSC | 加速中 | 强度 70.55 | 质量 59.89
+  - 主题摘要：According to WormBrain's post, a deterministic spiking neural network modeling the C. elegans nervous system has been deployed on BNB Chain. The system, comprising 302 neurons and…
+  - 资金 100.00 / 广度 76.72 / 确认 18.72 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- wsdzxy Questions HIM-NVIDIA Link | Solana | 加速中 | 强度 77.66 | 质量 75.07
-  - 主题摘要：According to wsdzxy's post, the user questions the rationale behind pairing the Human Interaction Model (HIM) with NVIDIA. The post references a discussion regarding new AI models…
-  - 资金 100.00 / 广度 84.83 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- American Oil Relief Program | Solana | 降温中 | 强度 77.19 | 质量 65.97
-  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 53.02 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 82.31，其中已确认叙事 6 个。
-- Zhou Proposes DOGE Logo Design 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- HOOKED 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 81.35，其中已确认叙事 4 个。
+- WormBrain On-Chain Neural Network 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Esoteric Discusses Wallet Creation 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Zhou Proposes DOGE Logo Design | 质量 85.11 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ's Second Dog: Taigan | 质量 84.94 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ's Second Dog: Taigan | 质量 84.92 | 可交易性 100.00 | 风险 低
+- Zhou Proposes DOGE Logo Design | 质量 84.10 | 可交易性 100.00 | 风险 低
 - Uncertain:Alleged SOL Banana Monkey Meme Image | 质量 83.86 | 可交易性 100.00 | 风险 低
-- Uncertain:CZ Comments on Kyrgyzstan Trip | 质量 81.65 | 可交易性 100.00 | 风险 低
-- Uncertain:ayznnn Allegedly Claims CZ's Taigan Photo Found | 质量 78.98 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged TAIGAN Token | 质量 78.49 | 可交易性 100.00 | 风险 低
-- Elon Musk: We Are Early | 质量 78.30 | 可交易性 98.61 | 风险 低
-- Shondra Pflum Quotes HIM Model | 质量 75.07 | 可交易性 87.98 | 风险 低
-- wsdzxy Questions HIM-NVIDIA Link | 质量 75.07 | 可交易性 87.98 | 风险 低
-- HOOKED | 质量 72.93 | 可交易性 100.00 | 风险 低
+- Uncertain:CZ Comments on Kyrgyzstan Trip | 质量 81.47 | 可交易性 100.00 | 风险 低
+- Elon Musk: We Are Early | 质量 80.20 | 可交易性 100.00 | 风险 低
+- MrBeast | 质量 76.66 | 可交易性 100.00 | 风险 低
+- Esoteric Discusses Wallet Creation | 质量 74.33 | 可交易性 91.93 | 风险 低
+- Alleged CATE Meme Coin Launch | 质量 71.49 | 可交易性 100.00 | 风险 低
+- Alleged Meme Token $enu Launch | 质量 70.33 | 可交易性 100.00 | 风险 低
+- Google Bard AI | 质量 70.01 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- MrBeast | 风险 48.90 | 原因：流动性偏薄
 
 ## 信号台
 
 - AIKOL | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- MOON | BSC | 看多 | 新鲜度 100.00 | Elon Musk: We Are Early
 - TAIGAN | BSC | 看多 | 新鲜度 100.00 | Uncertain:CZ's Second Dog: Taigan
 - Monkeys | BSC | 看多 | 新鲜度 100.00 | Uncertain:Alleged SOL Banana Monkey Meme Image
 - GM | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 金鱼 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- casinu | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - STUPIDINU | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- GOLDCAT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RIBBIT | Base | 看多 | 新鲜度 98.43 | 暂无直接叙事映射
-- PAID | Solana | 看多 | 新鲜度 98.14 | 暂无直接叙事映射
-- MOON | BSC | 看多 | 新鲜度 90.22 | Elon Musk: We Are Early
+- ARMY | Solana | 看多 | 新鲜度 80.64 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Zhou Proposes DOGE Logo Design（BSC，分数 86.15）
+1. 当前最强叙事：Elon Musk: We Are Early（BSC，分数 87.01）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Zhou Proposes DOGE Logo Design 当前为“新出现”
+3. 记忆层变化：Esoteric Discusses Wallet Creation 当前为“新出现”
 4. 最新官方催化：Updates on International Virtual Asset Transfer Procedures in Brazil
 #Binance #NarrativeOS #OpenClaw
