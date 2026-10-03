@@ -1,101 +1,98 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-03T20:01:22.312006+00:00
+- 生成时间：2026-10-03T22:51:10.740080+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Startup Agency Launches AI Startup，所在链为 Solana，叙事强度 85.04。
-- 当前平均叙事强度为 79.87，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 CARDS，来自 Solana，共振分数 100.0。
-- 记忆层显示 Startup Agency Launches AI Startup 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Aiden Token Promotion，伪叙事风险 50.11。
+- 当前最强叙事是 Solana Christmas，所在链为 Solana，叙事强度 84.17。
+- 当前平均叙事强度为 81.57，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 牛来，来自 BSC，共振分数 100.0。
+- 记忆层显示 Solana Christmas 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Updates on International Virtual Asset Transfer Procedures in Brazil。
 
 ## 叙事雷达
 
-- Startup Agency Launches AI Startup | Solana | 降温中 | 强度 85.04 | 质量 77.11
-  - 主题摘要：According to Startup Agency's post, the entity is launching an autonomous AI founder to build a real startup from the ground up. This AI agent is designed to research, launch, and…
-  - 资金 98.26 / 广度 90.16 / 确认 9.36 / 脆弱性 14.00
+- Solana Christmas | Solana | 降温中 | 强度 84.17 | 质量 74.35
+  - 主题摘要：According to Black Bull's post, the author predicts that $SOLMAS could become the leading cryptocurrency runner of 2026, drawing parallels to the success of Rizzmas in 2024. Black…
+  - 资金 100.00 / 广度 80.96 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Higgsfield AI Influencer Launch | Solana | 加速中 | 强度 81.82 | 质量 75.92
-  - 主题摘要：According to Higgsfield AI 🧩's post, the platform has introduced the Higgsfield AI Influencer, a tool allowing users to create custom AI influencers and integrate them into variou…
-  - 资金 100.00 / 广度 80.92 / 确认 23.76 / 脆弱性 14.00
+- Wizrd: Next Super Inu | Solana | 降温中 | 强度 83.90 | 质量 76.46
+  - 主题摘要：According to Wizrd's post, the author identifies the 'Next Super Inu' and shares a link to a Donald Trump 2026 interview transcript. This content suggests a potential connection b…
+  - 资金 100.00 / 广度 88.00 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Payr | Solana | 降温中 | 强度 83.22 | 质量 74.76
+  - 主题摘要：Multiple tokens named 「PAYR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.33 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Crypto Bridge | Solana | 加速中 | 强度 82.32 | 质量 73.84
+  - 主题摘要：According to edward.00's post, BridgeLaunch is described as a crypto launch platform enabling users to create and launch tokens on pump.fun while receiving creator fees on other b…
+  - 资金 100.00 / 广度 87.28 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Diskette | Solana | 加速中 | 强度 81.38 | 质量 71.30
-  - 主题摘要：Multiple tokens named 「Diskette」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.70 / 确认 23.76 / 脆弱性 14.00
+- POTUS Visits Alabama | Solana | 降温中 | 强度 81.45 | 质量 70.83
+  - 主题摘要：According to Rapid Response 47's post, President Trump expressed strong support for Alabama, highlighting Mobile as a significant location. He announced plans to attend the upcomi…
+  - 资金 100.00 / 广度 69.24 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Matthew Allegedly Launches CRAWLNET LLM Project | Solana | 加速中 | 强度 81.40 | 质量 71.54
+  - 主题摘要：According to Matthew's post, he developed CRAWLNET, a platform using web crawlers to train a crypto-specific LLM. He claims the model will be open-sourced on Hugging Face. This in…
+  - 资金 100.00 / 广度 87.71 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged First AI Startup CEO Token | Solana | 点火期 | 强度 80.98 | 质量 76.39
-  - 主题摘要：According to himdev's post, an entity claims to be the first AI startup on the web, describing itself as an autonomous AI founder aiming to create and scale a profitable business.…
-  - 资金 98.80 / 广度 88.44 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Yi He on Industry Leader Effect | BSC | 降温中 | 强度 80.39 | 质量 71.78
+- Yi He on Industry Leader Effect | BSC | 降温中 | 强度 78.58 | 质量 71.72
   - 主题摘要：Yi He commented on the bellwether effect in any industry, citing the 3Q War in China's internet history as an example. She argued that users may perceive competitors as equal if t…
-  - 资金 100.00 / 广度 73.93 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.18 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:ama Questions CZ Photo Authenticity | BSC | 已确认 | 强度 80.11 | 质量 79.15
+- Uncertain:ama Questions CZ Photo Authenticity | BSC | 加速中 | 强度 78.53 | 质量 77.69
   - 主题摘要：According to ama's post, the user questions the authenticity of a photo involving Binance founder CZ, referencing a Kyrgyz news link and tagging relevant accounts. The post seeks…
-  - 资金 100.00 / 广度 83.24 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Uncertain:Alleged Bata Meme Image Launch | BSC | 已确认 | 强度 79.67 | 质量 76.06
-  - 主题摘要：According to Fruitcats's post, CZ is receiving a dog gifted by the President of Kyrgyzstan. Fruitcats claims the dog's name is Bata and is launching a token using a Meme image, pe…
-  - 资金 100.00 / 广度 79.59 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Ansem inquires about tung | Solana | 加速中 | 强度 79.63 | 质量 67.80
-  - 主题摘要：According to Ansem 🐂🀄️'s post, the user inquired about the token 'tung' by replying 'why' to a previous statement regarding its size. This interaction highlights community interes…
-  - 资金 100.00 / 广度 57.75 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 82.50 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Humancoin Meme | Solana | 降温中 | 强度 78.96 | 质量 68.66
-  - 主题摘要：According to Lana Goat's post, she shared a Meme image promoting 'humancoin' as an alternative to AI-generated content. The post references the 'humancoin' token. This information…
-  - 资金 100.00 / 广度 80.17 / 确认 9.36 / 脆弱性 14.00
+- tica discusses CAT token | Solana | 已确认 | 强度 78.14 | 质量 71.18
+  - 主题摘要：According to tica's post, the CAT token (Cognitive Autonomous Thinking) is allegedly launched, leveraging the narrative of "Cognitive Autonomous Thinking" as an anti-AI skill. Thi…
+  - 资金 100.00 / 广度 83.28 / 确认 31.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- ibullrun Discusses PUMPERS Trading | Solana | 降温中 | 强度 77.99 | 质量 70.11
+  - 主题摘要：According to ibullrun's post, the FOMO metric for the token PUMPERS on the Pump.fun platform has reached 700k due to exclusive buying restrictions. The post contrasts this with th…
+  - 资金 100.00 / 广度 82.04 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NFL | Solana | 降温中 | 强度 77.76 | 质量 65.19
-  - 主题摘要：Multiple tokens named 「NFL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 98.28 / 广度 60.89 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Wan Guo Gong Jiang Hui Meme Image | BSC | 加速中 | 强度 76.06 | 质量 76.04
+- Wan Guo Gong Jiang Hui Meme Image | BSC | 加速中 | 强度 76.15 | 质量 76.13
   - 主题摘要：According to 小欧小O's post, a Douyin blogger launched a concept called 'Wan Guo Gong Jiang Hui,' combining privacy, charity, and church themes. Members share meatball Meme images an…
-  - 资金 100.00 / 广度 85.50 / 确认 18.72 / 脆弱性 24.00
+  - 资金 100.00 / 广度 85.34 / 确认 18.72 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Zald Corrects CZ's Dog Name | BSC | 加速中 | 强度 74.03 | 质量 70.22
+- Uncertain:Alleged Bata Meme Image Launch | BSC | 加速中 | 强度 74.75 | 质量 72.43
+  - 主题摘要：According to Fruitcats's post, CZ is receiving a dog from the President of Kyrgyzstan. Fruitcats claims the dog's name is Bata and is launching a related Meme image, pending an of…
+  - 资金 100.00 / 广度 79.47 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Bull Fart Meme Image | BSC | 降温中 | 强度 73.02 | 质量 60.27
+  - 主题摘要：According to code*'s post, the user shared a Meme image of a 'Bull Fart' art piece by Chinese contemporary artist Chen Wenling, describing it as a bull that farts and shoots into…
+  - 资金 100.00 / 广度 66.82 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Zald Corrects CZ's Dog Name | BSC | 加速中 | 强度 71.33 | 质量 67.22
   - 主题摘要：Multiple tokens named 「KUMAIYK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.25 / 确认 28.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Aiden Token Promotion | Solana | 点火期 | 强度 73.42 | 质量 67.82
-  - 主题摘要：According to Tradexeee's post, the user claims to be promoting a coin named Aiden, describing it as an AI bot similar to another entity. This information is unverified. Please exe…
-  - 资金 96.63 / 广度 92.75 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Flap 🦋 Responds to BNB Chain Changes | BSC | 加速中 | 强度 72.14 | 质量 61.84
-  - 主题摘要：Multiple tokens named 「改变人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.52 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 75.30 / 确认 28.08 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.87，其中已确认叙事 0 个。
-- Higgsfield AI Influencer Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Startup Agency Launches AI Startup 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.57，其中已确认叙事 1 个。
+- Crypto Bridge 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana Christmas 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Uncertain:ama Questions CZ Photo Authenticity | 质量 79.15 | 可交易性 100.00 | 风险 低
-- Startup Agency Launches AI Startup | 质量 77.11 | 可交易性 100.00 | 风险 低
-- Alleged First AI Startup CEO Token | 质量 76.39 | 可交易性 99.34 | 风险 低
-- Uncertain:Alleged Bata Meme Image Launch | 质量 76.06 | 可交易性 93.36 | 风险 低
-- Wan Guo Gong Jiang Hui Meme Image | 质量 76.04 | 可交易性 94.24 | 风险 低
-- Higgsfield AI Influencer Launch | 质量 75.92 | 可交易性 94.73 | 风险 低
-- Yi He on Industry Leader Effect | 质量 71.78 | 可交易性 93.18 | 风险 低
-- Diskette | 质量 71.30 | 可交易性 97.53 | 风险 低
-- Uncertain:Zald Corrects CZ's Dog Name | 质量 70.22 | 可交易性 81.99 | 风险 低
-- Alleged Humancoin Meme | 质量 68.66 | 可交易性 81.83 | 风险 低
+- Uncertain:ama Questions CZ Photo Authenticity | 质量 77.69 | 可交易性 99.04 | 风险 低
+- Wizrd: Next Super Inu | 质量 76.46 | 可交易性 100.00 | 风险 低
+- Wan Guo Gong Jiang Hui Meme Image | 质量 76.13 | 可交易性 94.71 | 风险 低
+- Payr | 质量 74.76 | 可交易性 100.00 | 风险 低
+- Solana Christmas | 质量 74.35 | 可交易性 100.00 | 风险 低
+- Crypto Bridge | 质量 73.84 | 可交易性 81.44 | 风险 低
+- Uncertain:Alleged Bata Meme Image Launch | 质量 72.43 | 可交易性 89.43 | 风险 低
+- Yi He on Industry Leader Effect | 质量 71.72 | 可交易性 92.74 | 风险 低
+- Matthew Allegedly Launches CRAWLNET LLM Project | 质量 71.54 | 可交易性 73.34 | 风险 低
+- tica discusses CAT token | 质量 71.18 | 可交易性 71.21 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Aiden Token Promotion | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged First AI Startup CEO Token | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -134,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Startup Agency Launches AI Startup（Solana，分数 85.04）
-2. 共振最强代币：CARDS（Solana，共振 100.0）
-3. 记忆层变化：Startup Agency Launches AI Startup 当前为“新出现”
+1. 当前最强叙事：Solana Christmas（Solana，分数 84.17）
+2. 共振最强代币：牛来（BSC，共振 100.0）
+3. 记忆层变化：Solana Christmas 当前为“新出现”
 4. 最新官方催化：Updates on International Virtual Asset Transfer Procedures in Brazil
 #Binance #NarrativeOS #OpenClaw
