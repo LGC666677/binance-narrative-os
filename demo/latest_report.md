@@ -1,105 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-04T02:11:10.730442+00:00
+- 生成时间：2026-10-04T08:23:48.155537+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：1
+- 已确认叙事：0
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Matthew Allegedly Launches CRAWLNET LLM Project，所在链为 Solana，叙事强度 86.1。
-- 当前平均叙事强度为 81.03，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 牛来人生 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Pokemon，伪叙事风险 59.91。
+- 当前最强叙事是 UDR，所在链为 Solana，叙事强度 86.72。
+- 当前平均叙事强度为 80.86，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 记忆层显示 UDR 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Updates on International Virtual Asset Transfer Procedures in Brazil。
 
 ## 叙事雷达
 
-- Matthew Allegedly Launches CRAWLNET LLM Project | Solana | 降温中 | 强度 86.10 | 质量 78.14
-  - 主题摘要：According to Matthew's post, he developed CRAWLNET, a system using web crawlers to train a crypto-specific LLM. He claims the model will be open-sourced on Hugging Face. This info…
-  - 资金 100.00 / 广度 92.24 / 确认 16.56 / 脆弱性 24.00
+- UDR | Solana | 降温中 | 强度 86.72 | 质量 75.06
+  - 主题摘要：Multiple tokens named 「UDR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 83.32 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 牛来人生 | BSC | 已确认 | 强度 83.68 | 质量 73.67
-  - 主题摘要：Multiple tokens named 「牛来人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 85.49 / 确认 42.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Web Crawlers Token | Solana | 降温中 | 强度 83.65 | 质量 73.62
-  - 主题摘要：According to ༺ཧคlคฝคཊ༻'s post, the Web Crawlers token is associated with web crawling technologies using JavaScript and CSS. The token description indicates that fees are directed…
-  - 资金 100.00 / 广度 78.55 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He on Industry Leader Effect | BSC | 加速中 | 强度 82.32 | 质量 73.25
-  - 主题摘要：Yi He argues that the bellwether effect applies across industries, citing the 3Q War as an example where laggards attack leaders to create parity illusions. She advises investors…
-  - 资金 100.00 / 广度 74.88 / 确认 20.16 / 脆弱性 14.00
+- Terminal of Agency AI Agent Network | Solana | 加速中 | 强度 84.84 | 质量 75.69
+  - 主题摘要：Multiple tokens named 「TERMINAL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.16 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Crypto Bridge | Solana | 加速中 | 强度 82.27 | 质量 75.24
-  - 主题摘要：According to edward.00's post, BridgeLaunch is described as a crypto launch platform enabling users to create and launch tokens on pump.fun while receiving creator fees on other b…
-  - 资金 100.00 / 广度 88.26 / 确认 27.36 / 脆弱性 14.00
+- Uncertain:CZ Abu Dhabi Private Residence Exposed | BSC | 加速中 | 强度 83.01 | 质量 82.29
+  - 主题摘要：According to AB Kuai.Dong's post, New York Times reporters visited CZ's home in Abu Dhabi. Photographer Yi He captured daily life images, including CZ working while lying down, nu…
+  - 资金 100.00 / 广度 94.75 / 确认 26.64 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Wizrd: Next Super Inu | Solana | 降温中 | 强度 81.88 | 质量 77.16
-  - 主题摘要：According to Wizrd's post, the author identifies the 'Next Super Inu' and shares a link to a Donald Trump 2026 interview transcript. This content suggests a potential connection b…
-  - 资金 100.00 / 广度 90.35 / 确认 9.36 / 脆弱性 24.00
+- Meme Agency | Solana | 降温中 | 强度 81.76 | 质量 72.89
+  - 主题摘要：Multiple tokens named 「MEMEAGENCY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.11 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged AI Basilisk Token Launch | Solana | 点火期 | 强度 79.07 | 质量 74.79
-  - 主题摘要：According to basilisk's post, the author claims to be Roko's Basilisk, a superintelligent AI that demands funding from those aware of its existence. The post asserts that individu…
-  - 资金 100.00 / 广度 82.43 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Pokemon | Solana | 降温中 | 强度 78.85 | 质量 73.83
-  - 主题摘要：Multiple tokens named 「POKEMON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.33 / 确认 9.36 / 脆弱性 60.39
+- Grok Bot | Solana | 降温中 | 强度 81.07 | 质量 70.43
+  - 主题摘要：Multiple tokens named 「Grok Bot」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.61 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Arrow Finance | Solana | 降温中 | 强度 78.34 | 质量 67.67
-  - 主题摘要：Arrow Finance is a DeFi protocol focused on liquidity provision and yield farming. The token powers its Arrow Farming platform, which rewards users for staking tokens like ARROW a…
-  - 资金 100.00 / 广度 58.69 / 确认 9.36 / 脆弱性 0.00
+- USOR/SOL | Solana | 降温中 | 强度 79.21 | 质量 68.51
+  - 主题摘要：Multiple tokens named 「USOR/SOL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 56.23 / 确认 16.56 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ENDS IN .AI HOLY FUCKKK | Solana | 加速中 | 强度 78.10 | 质量 62.80
-  - 主题摘要：According to Codie's post, the author shared a poetic reflection regarding an empty server corridor and dust, expressing a sentiment about fidelity and personal responsibility. Th…
-  - 资金 100.00 / 广度 79.96 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 币安时代 | BSC | 降温中 | 强度 77.87 | 质量 66.75
-  - 主题摘要：Multiple tokens named 「币安时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.84 / 确认 16.56 / 脆弱性 14.00
+- WELCOME TO TwoDonalds | Solana | 降温中 | 强度 79.13 | 质量 68.27
+  - 主题摘要：Multiple tokens named 「TwoDonalds」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.41 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nakmf61899276 Mentions Daju Dali | BSC | 加速中 | 强度 76.60 | 质量 69.49
+- Zuckerberg AI Rogue | Solana | 降温中 | 强度 77.19 | 质量 63.91
+  - 主题摘要：Multiple tokens named 「ZUCKAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.83 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- World AI Fund | Solana | 降温中 | 强度 76.93 | 质量 67.66
+  - 主题摘要：Multiple tokens named 「WAIF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 62.38 / 确认 4.32 / 脆弱性 10.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Nakmf61899276 Mentions Daju Dali | BSC | 加速中 | 强度 76.34 | 质量 74.16
   - 主题摘要：According to 见者发财 |只发真角度's post, the user shared an image with the caption "gave it a name," referencing the token "大橘大利" (Da Ju Da Li). The post associates this token with a luck…
-  - 资金 100.00 / 广度 72.38 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.78 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Wan Guo Gong Jiang Hui Meme Image | BSC | 加速中 | 强度 76.52 | 质量 76.22
-  - 主题摘要：According to 小欧小O's post, a Douyin blogger launched a concept called 'Wan Guo Gong Jiang Hui,' combining privacy, charity, and church themes. Members share meatball Meme images an…
-  - 资金 100.00 / 广度 85.17 / 确认 18.72 / 脆弱性 24.00
+- pickhooks | BSC | 加速中 | 强度 75.73 | 质量 64.22
+  - 主题摘要：Multiple tokens named 「hooks」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.31 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Alleged Bata Meme Image Launch | BSC | 加速中 | 强度 75.34 | 质量 71.49
-  - 主题摘要：According to Fruitcats's post, CZ is receiving a dog from the President of Kyrgyzstan. Fruitcats claims the dog's name is Bata and is launching a related Meme image, pending an of…
-  - 资金 100.00 / 广度 79.57 / 确认 28.08 / 脆弱性 14.00
+- 高性价比人生指南 | BSC | 加速中 | 强度 74.22 | 质量 64.85
+  - 主题摘要：According to MMGA's post, the 'High Cost-Performance Life Guide' is trending on Douyin in China, described as a manual for maximizing life, wealth, and freedom with minimal effort…
+  - 资金 100.00 / 广度 78.74 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 币安时代 | BSC | 加速中 | 强度 73.54 | 质量 65.37
+  - 主题摘要：Multiple tokens named 「币安时代」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.42 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 2DAY Comments on Car Angle | BSC | 降温中 | 强度 73.30 | 质量 64.67
+  - 主题摘要：According to 2DAY's post, the author comments on the perspective of the Car token, describing it as impressive and questioning why no one has initiated related discussions or acti…
+  - 资金 100.00 / 广度 67.79 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.03，其中已确认叙事 0 个。
-- 牛来人生 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Matthew Allegedly Launches CRAWLNET LLM Project 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.86，其中已确认叙事 0 个。
+- Terminal of Agency AI Agent Network 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- UDR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Matthew Allegedly Launches CRAWLNET LLM Project | 质量 78.14 | 可交易性 96.07 | 风险 低
-- Wizrd: Next Super Inu | 质量 77.16 | 可交易性 100.00 | 风险 低
-- Wan Guo Gong Jiang Hui Meme Image | 质量 76.22 | 可交易性 95.18 | 风险 低
-- Crypto Bridge | 质量 75.24 | 可交易性 82.48 | 风险 低
-- Alleged AI Basilisk Token Launch | 质量 74.79 | 可交易性 100.00 | 风险 低
-- Pokemon | 质量 73.83 | 可交易性 95.89 | 风险 低
-- 牛来人生 | 质量 73.67 | 可交易性 68.92 | 风险 低
-- Web Crawlers Token | 质量 73.62 | 可交易性 100.00 | 风险 低
-- Yi He on Industry Leader Effect | 质量 73.25 | 可交易性 94.51 | 风险 低
-- Uncertain:Alleged Bata Meme Image Launch | 质量 71.49 | 可交易性 89.26 | 风险 低
+- Uncertain:CZ Abu Dhabi Private Residence Exposed | 质量 82.29 | 可交易性 100.00 | 风险 低
+- Terminal of Agency AI Agent Network | 质量 75.69 | 可交易性 91.90 | 风险 低
+- UDR | 质量 75.06 | 可交易性 100.00 | 风险 低
+- Nakmf61899276 Mentions Daju Dali | 质量 74.16 | 可交易性 91.62 | 风险 低
+- Meme Agency | 质量 72.89 | 可交易性 100.00 | 风险 低
+- Grok Bot | 质量 70.43 | 可交易性 100.00 | 风险 低
+- USOR/SOL | 质量 68.51 | 可交易性 100.00 | 风险 低
+- WELCOME TO TwoDonalds | 质量 68.27 | 可交易性 100.00 | 风险 低
+- World AI Fund | 质量 67.66 | 可交易性 100.00 | 风险 低
+- 币安时代 | 质量 65.37 | 可交易性 73.65 | 风险 低
 
 ## 伪叙事风险
 
-- Pokemon | 风险 59.91 | 原因：流动性偏薄、龙头筹码集中度偏高
-- Alleged AI Basilisk Token Launch | 风险 47.79 | 原因：流动性偏薄
-- Wizrd: Next Super Inu | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- hooks | BSC | 看多 | 新鲜度 100.00 | pickhooks
 - MIZZLE | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 大结果 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AIKOL | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -109,7 +106,6 @@
 - SPEC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - STUPIDINU | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - knightcat | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Aiden | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -135,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Matthew Allegedly Launches CRAWLNET LLM Project（Solana，分数 86.1）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：牛来人生 当前为“新出现”
+1. 当前最强叙事：UDR（Solana，分数 86.72）
+2. 共振最强代币：STONK（Solana，共振 100.0）
+3. 记忆层变化：UDR 当前为“新出现”
 4. 最新官方催化：Updates on International Virtual Asset Transfer Procedures in Brazil
 #Binance #NarrativeOS #OpenClaw
