@@ -1,113 +1,118 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-05T12:28:36.673944+00:00
+- 生成时间：2026-10-05T20:47:44.913273+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：0
+- 已确认叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Dogan Ural Proposes LLM to Super Model Shift，所在链为 Solana，叙事强度 87.72。
-- 当前平均叙事强度为 82.24，其中已确认叙事 0 个。
+- 当前最强叙事是 Digital Oil Trust Fund🔥，所在链为 Solana，叙事强度 87.49。
+- 当前平均叙事强度为 80.09，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Dogan Ural Proposes LLM to Super Model Shift 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Digital Oil Trust Fund，伪叙事风险 40.99。
+- 记忆层显示 Digital Oil Trust Fund🔥 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Ukraine Hamster Rescue，伪叙事风险 50.62。
 - 最新官方催化来自 最新活动：Binance Pay Exclusive: Get up to 20% Off Mobile Top-Ups in Selected Regions!。
 
 ## 叙事雷达
 
-- Dogan Ural Proposes LLM to Super Model Shift | Solana | 加速中 | 强度 87.72 | 质量 81.47
-  - 主题摘要：According to Dogan Ural's post, he questions whether Large Language Models (LLMs) should be changed, suggesting a transition to 'Super Models'. This statement reflects his perspec…
-  - 资金 100.00 / 广度 94.67 / 确认 23.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- NTDA | Solana | 降温中 | 强度 85.40 | 质量 73.02
-  - 主题摘要：Multiple tokens named 「NTDA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.54 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Digital Oil Trust Fund | Solana | 降温中 | 强度 83.47 | 质量 74.81
+- Digital Oil Trust Fund🔥 | Solana | 降温中 | 强度 87.49 | 质量 76.19
   - 主题摘要：Multiple tokens named 「DOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.49 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.11 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Monkey D. Luffy AI Persona | Solana | 加速中 | 强度 82.68 | 质量 80.72
-  - 主题摘要：According to Monkey D. Luffy's post, the previous account associated with the agent was compromised. The author has updated the Dex connection and reconnected the current account…
-  - 资金 100.00 / 广度 93.20 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- American Dividend Trust Fund | Solana | 降温中 | 强度 81.13 | 质量 70.75
-  - 主题摘要：Multiple tokens named 「ADTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.98 / 确认 9.36 / 脆弱性 0.00
+- SpaceXSI Launches Meme Coin | Solana | 降温中 | 强度 83.85 | 质量 73.84
+  - 主题摘要：According to SpaceXSI's post, the author shared a Meme image referencing Elon Musk's statement "No more AI. SI." The post describes a "mission control" concept where climbing coin…
+  - 资金 100.00 / 广度 82.44 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Michael Jensen | BSC | 加速中 | 强度 80.57 | 质量 80.00
-  - 主题摘要：Multiple tokens named 「MJ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.77 / 确认 23.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Jean Phil Token | Solana | 降温中 | 强度 80.47 | 质量 71.32
-  - 主题摘要：According to TheApudev's post, Jean Phil is identified as a leading AI figure, and the author suggests creating a Jean Phil token for the agency. This implies the alleged launch o…
-  - 资金 100.00 / 广度 70.88 / 确认 9.36 / 脆弱性 14.00
+- GTA6 | Solana | 降温中 | 强度 81.03 | 质量 71.09
+  - 主题摘要：Multiple tokens named 「GTA 6 Coin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.01 / 确认 5.04 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged AI Influencer Meme | Solana | 降温中 | 强度 79.22 | 质量 69.15
-  - 主题摘要：According to d's post, the user proposes the concept of running the biggest AI influencer meme, referencing the token Jean Phil. This information is unverified. Please exercise ca…
-  - 资金 100.00 / 广度 65.83 / 确认 9.36 / 脆弱性 14.00
+- THIS IS NOT AI | Solana | 加速中 | 强度 80.63 | 质量 70.77
+  - 主题摘要：Multiple tokens named 「notAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 61.66 / 确认 19.44 / 脆弱性 0.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Kermit the Frog | BSC | 加速中 | 强度 80.09 | 质量 74.46
+  - 主题摘要：Kermit token draws inspiration from the iconic green frog character from Sesame Street. The logo features the recognizable green puppet with large white eyes and red mouth, embody…
+  - 资金 100.00 / 广度 70.26 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ukraine Hamster Rescue | Solana | 点火期 | 强度 78.41 | 质量 78.38
+  - 主题摘要：According to NEXTA's post, energy workers in Ukraine's Rivne region rescued a hamster from a high-voltage power line during repairs. The method by which the animal reached the lin…
+  - 资金 100.00 / 广度 92.22 / 确认 12.32 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Richard Teng at Token2049 | BSC | 降温中 | 强度 77.46 | 质量 69.47
+  - 主题摘要：Binance CEO Richard Teng announces his attendance at the Token2049 conference in Singapore, inviting the community to connect with him. This represents standard corporate networki…
+  - 资金 100.00 / 广度 70.95 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Traders League S4 Leaderboard | BSC | 已确认 | 强度 78.88 | 质量 82.01
-  - 主题摘要：Binance announced the leaderboard for the Season 4 Traders League, highlighting the achievement of users who ranked at the top of the competition.
-  - 资金 95.54 / 广度 100.00 / 确认 38.88 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Iranian Rial | Solana | 降温中 | 强度 77.81 | 质量 66.70
-  - 主题摘要：Multiple tokens named 「IRR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 55.48 / 确认 9.36 / 脆弱性 0.00
+- EVERNORTHXRP | Solana | 降温中 | 强度 76.87 | 质量 65.18
+  - 主题摘要：Multiple tokens named 「XRPN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 53.58 / 确认 5.04 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dogan Ural Proposes LLM to Super Models | BSC | 加速中 | 强度 77.50 | 质量 78.17
-  - 主题摘要：According to Dogan Ural's post, he questions whether Large Language Models (LLMs) should be changed, suggesting a transition to 'Super Models'. This statement reflects his persona…
-  - 资金 100.00 / 广度 92.69 / 确认 26.64 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Real Name of China Dragon Exposed | BSC | 加速中 | 强度 77.23 | 质量 78.20
-  - 主题摘要：According to woof's post, the real name of the entity known as 'China Dragon' has been identified through a Suning product link. This information is unverified. Please exercise ca…
-  - 资金 100.00 / 广度 91.60 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Jadoodoo Posts Insulting Remarks | BSC | 加速中 | 强度 77.02 | 质量 70.40
-  - 主题摘要：According to Jadoodoo 🍑's post, Jadoodoo allegedly launched a token named JADOODOO. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 81.97 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance's Three Pieces Puzzle | BSC | 加速中 | 强度 76.94 | 质量 76.34
-  - 主题摘要：Binance officially teased a major reveal by describing a 'three pieces' puzzle coming together into 'one mind,' hinting at a unified ecosystem or product suite. The cryptic langua…
-  - 资金 100.00 / 广度 84.96 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged First AI Doctor Token | Solana | 点火期 | 强度 76.34 | 质量 74.20
+  - 主题摘要：According to Chill Dev's post, Nolla Health received regulatory approval for an AI to issue prescriptions, described as the first end-to-end AI doctor. Chill Dev questions if this…
+  - 资金 100.00 / 广度 91.54 / 确认 15.84 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged SpaceXSAI Meme Image | Solana | 降温中 | 强度 76.06 | 质量 60.81
+  - 主题摘要：According to Brian Roemmele's post, a Meme image introducing 'SpaceXSAI' (pronounced 'Space Sexy') was shared. This content references the token symbol SpaceXSAI. This information…
+  - 资金 100.00 / 广度 75.23 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Dum Announces Bilibili Entry | BSC | 降温中 | 强度 69.66 | 质量 61.37
+  - 主题摘要：According to Dum's post, the creator announced their presence on the Chinese video platform Bilibili, sharing a link to their content on the site.
+  - 资金 100.00 / 广度 71.04 / 确认 5.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Four.meme at TOKEN2049 | BSC | 降温中 | 强度 69.40 | 质量 55.80
+  - 主题摘要：BNB Chain官方账号在TOKEN2049大会期间，转发并支持了Four.meme在新加坡举办的线下聚会活动，展示了Meme文化与顶级公链生态的结合。
+  - 资金 100.00 / 广度 71.34 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Rupert Ross Discusses AI | BSC | 点火期 | 强度 68.29 | 质量 59.63
+  - 主题摘要：Multiple tokens named 「SI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.89 / 确认 8.64 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Hai Dan Ci Tou Claims Bull Inu Narrative is Top-Tier | BSC | 点火期 | 强度 67.44 | 质量 61.32
+  - 主题摘要：Multiple tokens named 「SI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.06 / 确认 8.64 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.24，其中已确认叙事 0 个。
-- Dogan Ural Proposes LLM to Super Model Shift 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- NTDA 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.09，其中已确认叙事 0 个。
+- THIS IS NOT AI 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Digital Oil Trust Fund🔥 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Traders League S4 Leaderboard | 质量 82.01 | 可交易性 100.00 | 风险 低
-- Dogan Ural Proposes LLM to Super Model Shift | 质量 81.47 | 可交易性 100.00 | 风险 低
-- Monkey D. Luffy AI Persona | 质量 80.72 | 可交易性 98.45 | 风险 低
-- Michael Jensen | 质量 80.00 | 可交易性 100.00 | 风险 低
-- Alleged Real Name of China Dragon Exposed | 质量 78.20 | 可交易性 100.00 | 风险 低
-- Dogan Ural Proposes LLM to Super Models | 质量 78.17 | 可交易性 100.00 | 风险 低
-- Binance's Three Pieces Puzzle | 质量 76.34 | 可交易性 100.00 | 风险 低
-- Digital Oil Trust Fund | 质量 74.81 | 可交易性 100.00 | 风险 低
-- NTDA | 质量 73.02 | 可交易性 100.00 | 风险 低
-- Alleged Jean Phil Token | 质量 71.32 | 可交易性 100.00 | 风险 低
+- Ukraine Hamster Rescue | 质量 78.38 | 可交易性 100.00 | 风险 低
+- Digital Oil Trust Fund🔥 | 质量 76.19 | 可交易性 100.00 | 风险 低
+- Kermit the Frog | 质量 74.46 | 可交易性 100.00 | 风险 低
+- Alleged First AI Doctor Token | 质量 74.20 | 可交易性 90.50 | 风险 低
+- SpaceXSI Launches Meme Coin | 质量 73.84 | 可交易性 100.00 | 风险 低
+- GTA6 | 质量 71.09 | 可交易性 100.00 | 风险 低
+- THIS IS NOT AI | 质量 70.77 | 可交易性 100.00 | 风险 低
+- Richard Teng at Token2049 | 质量 69.47 | 可交易性 93.74 | 风险 低
+- EVERNORTHXRP | 质量 65.18 | 可交易性 100.00 | 风险 低
+- Dum Announces Bilibili Entry | 质量 61.37 | 可交易性 86.41 | 风险 低
 
 ## 伪叙事风险
 
-- Digital Oil Trust Fund | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Ukraine Hamster Rescue | 风险 50.62 | 原因：流动性偏薄、近 1 小时净流入转负
+- Rupert Ross Discusses AI | 风险 48.37 | 原因：流动性偏薄
+- Uncertain:Hai Dan Ci Tou Claims Bull Inu Narrative is Top-Tier | 风险 48.37 | 原因：流动性偏薄
+- GTA6 | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Dum Announces Bilibili Entry | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged First AI Doctor Token | 风险 42.61 | 原因：流动性偏薄
 
 ## 信号台
 
+- ANIMA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GiggleHero | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 中国龙 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - WISP | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 躺赢 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bibi | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Stompy | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SM | Solana | 看多 | 新鲜度 100.00 | Dogan Ural Proposes LLM to Super Model Shift
-- PSTR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- OWL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CELLUMO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- sizeinu | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- RIBBIT | Base | 看多 | 新鲜度 98.43 | 暂无直接叙事映射
+- Flapa | BSC | 看多 | 新鲜度 98.08 | 暂无直接叙事映射
+- Grokdog | Solana | 看多 | 新鲜度 82.53 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Dogan Ural Proposes LLM to Super Model Shift（Solana，分数 87.72）
+1. 当前最强叙事：Digital Oil Trust Fund🔥（Solana，分数 87.49）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Dogan Ural Proposes LLM to Super Model Shift 当前为“新出现”
+3. 记忆层变化：Digital Oil Trust Fund🔥 当前为“新出现”
 4. 最新官方催化：Binance Pay Exclusive: Get up to 20% Off Mobile Top-Ups in Selected Regions!
 #Binance #NarrativeOS #OpenClaw
