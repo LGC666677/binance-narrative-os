@@ -1,114 +1,117 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-04T21:17:41.439793+00:00
+- 生成时间：2026-10-05T00:00:44.099949+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Team Human Anti-AI Website，所在链为 Solana，叙事强度 85.1。
-- 当前平均叙事强度为 80.03，其中已确认叙事 0 个。
+- 当前最强叙事是 ChatGPT-6，所在链为 Solana，叙事强度 86.52。
+- 当前平均叙事强度为 80.19，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Team Human Anti-AI Website 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 SpaceXAI Rebranding Speculation，伪叙事风险 64.6。
+- 记忆层显示 Institutional Oil Fund 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 root，伪叙事风险 51.25。
 - 最新官方催化来自 币安最新公告：Updates on International Virtual Asset Transfer Procedures in Brazil。
 
 ## 叙事雷达
 
-- Team Human Anti-AI Website | Solana | 加速中 | 强度 85.10 | 质量 77.82
-  - 主题摘要：According to Hughman's post, numerous creators with over 300 million combined followers, including Mark Rober and Simon Squirrell, have partnered to launch the Team Human website,…
-  - 资金 100.00 / 广度 86.76 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- EVERNORTHXRP | Solana | 降温中 | 强度 84.57 | 质量 75.00
-  - 主题摘要：Multiple tokens named 「XRPN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.12 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ChatGPT-6 | Solana | 降温中 | 强度 84.22 | 质量 75.18
+- ChatGPT-6 | Solana | 降温中 | 强度 86.52 | 质量 77.28
   - 主题摘要：Multiple tokens named 「Open AI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.74 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.75 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Intelligence Launch | BSC | 降温中 | 强度 83.26 | 质量 77.27
+- EVERNORTHXRP | Solana | 降温中 | 强度 84.25 | 质量 74.47
+  - 主题摘要：Multiple tokens named 「XRPN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.54 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Intelligence Launch | BSC | 降温中 | 强度 82.64 | 质量 77.99
   - 主题摘要：Binance announced the launch of Binance Intelligence, describing it as a new layer of intelligence for finance. The platform invited users to join a livestream on October 5 at 12:…
-  - 资金 100.00 / 广度 87.73 / 确认 15.12 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.87 / 确认 15.12 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance's 100 Days of AI | BSC | 加速中 | 强度 81.84 | 质量 81.16
-  - 主题摘要：Binance launches a 100-day challenge focusing on AI, highlighting their strategic interest in the technology. This initiative positions Binance at the intersection of crypto and t…
-  - 资金 100.00 / 广度 94.16 / 确认 22.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:CZ and Yi He Daily Life | BSC | 加速中 | 强度 81.39 | 质量 76.69
-  - 主题摘要：Multiple tokens named 「CZ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.75 / 确认 23.04 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Likes AI Navier-Stokes Post | Solana | 点火期 | 强度 76.81 | 质量 74.69
-  - 主题摘要：Elon Musk liked a tweet clarifying that AI has not yet solved the Navier-Stokes equations, highlighting the current boundaries of artificial intelligence in complex physics proble…
-  - 资金 100.00 / 广度 91.74 / 确认 12.24 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- SpaceXAI Rebranding Speculation | Solana | 降温中 | 强度 76.72 | 质量 70.86
-  - 主题摘要：According to john's post, the author questions whether SpaceXAI will be rebranded to SpaceXSI, referencing the token symbol SpaceXSI. This speculation suggests a potential connect…
-  - 资金 100.00 / 广度 88.87 / 确认 5.04 / 脆弱性 62.75
+- Institutional Oil Fund | Solana | 降温中 | 强度 81.65 | 质量 72.08
+  - 主题摘要：Multiple tokens named 「IOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.56 / 确认 5.04 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem Questions NIGGAPUBES | Solana | 降温中 | 强度 76.47 | 质量 65.67
-  - 主题摘要：According to Ansem 🐂🀄️'s post, the author questions a previous statement regarding the market cap potential of Niggapubestoken, arguing that retail cannot add $2T in market cap. A…
-  - 资金 100.00 / 广度 86.87 / 确认 12.24 / 脆弱性 14.00
+- Alleged NC Arrest Record Fraud | Solana | 降温中 | 强度 81.27 | 质量 74.06
+  - 主题摘要：According to Washywash's post, Washywash shared a claim that major fraud is occurring in North Carolina arrest records, where hundreds of Black offenders are allegedly mislabeled…
+  - 资金 100.00 / 广度 80.52 / 确认 8.64 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Swaply | Solana | 加速中 | 强度 76.31 | 质量 60.21
-  - 主题摘要：SWAP token powers Swaply, a platform enabling users to trade tokens and stocks with 0.3% cashback. The logo features a stylized 'S' design in blue tones, reflecting its focus on s…
-  - 资金 100.00 / 广度 68.92 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Bedside | BSC | 加速中 | 强度 74.28 | 质量 71.57
+- Alleged Plague Meme Coin | Solana | 降温中 | 强度 80.49 | 质量 69.18
+  - 主题摘要：Multiple tokens named 「PLAGUE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.29 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Bedside | BSC | 点火期 | 强度 78.53 | 质量 74.51
   - 主题摘要：CZ shares a humorous photo of himself lying in bed with a laptop, referencing the 'lying flat' culture and his relaxed lifestyle. This resonates with the crypto community's desire…
-  - 资金 100.00 / 广度 90.77 / 确认 18.72 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Dubai Minimalist | BSC | 加速中 | 强度 74.28 | 质量 71.57
+  - 资金 100.00 / 广度 90.73 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- CZ Dubai Minimalist | BSC | 点火期 | 强度 78.43 | 质量 74.46
   - 主题摘要：CZ in Dubai embracing a simple life, showcasing his minimalist style through a BNB jacket, a laptop, and a cozy home environment.
-  - 资金 100.00 / 广度 90.77 / 确认 18.72 / 脆弱性 24.00
+  - 资金 100.00 / 广度 90.73 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Launch of Baobao Mi Meme Image | BSC | 加速中 | 强度 77.71 | 质量 72.99
+  - 主题摘要：According to 小布丁's post, the author shared a viral cat video from Douyin named 'Baobao Mi', describing it as highly meme-worthy and comparing it to their profile picture. The post…
+  - 资金 100.00 / 广度 65.95 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Wisp | BSC | 加速中 | 强度 73.91 | 质量 63.71
-  - 主题摘要：Multiple tokens named 「WISP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.51 / 确认 24.48 / 脆弱性 14.00
+- Uncertain:jio Claims Binance AI Pro May Be Renamed | BSC | 加速中 | 强度 76.84 | 质量 74.76
+  - 主题摘要：According to jio's post, Binance's upcoming Binance Ai Pro is rumored to be renamed Binance Si Pro. This speculation relates to tokens such as JARVIS, BSI, BSP, and bibi, which ar…
+  - 资金 100.00 / 广度 87.00 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ's Walking Billboards | BSC | 加速中 | 强度 73.77 | 质量 73.19
-  - 主题摘要：CZ humorously reveals that his free merchandise distribution is a strategy to turn people into 'walking billboards,' despite a journalist framing it as a bribe. This candid and wi…
-  - 资金 100.00 / 广度 92.47 / 确认 22.32 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Regulars Creator Fee Mechanism | Solana | 降温中 | 强度 76.08 | 质量 64.19
+  - 主题摘要：According to Regulars's post, the $REGULARS project introduces a mechanism where creator fees from tokens are automatically attributed to specific X handles. This allows individua…
+  - 资金 100.00 / 广度 58.39 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Hivemind Introduces $HIVE Token | Solana | 降温中 | 强度 75.83 | 质量 65.86
+  - 主题摘要：According to Hivemind's post, Hivemind introduces HIVE as the alliance layer of AGENCY, a memecoin designed to connect autonomous minds, communities, and ideas. The project emphas…
+  - 资金 100.00 / 广度 91.06 / 确认 5.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- root | Solana | 点火期 | 强度 75.43 | 质量 71.97
+  - 主题摘要：According to root's post, the author shared an article detailing the 'root' cryptocurrency project. The content describes the token's mechanism, specifically noting that coins gen…
+  - 资金 100.00 / 广度 84.00 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Matthews Releases Lao Mao Meme Image | BSC | 降温中 | 强度 75.11 | 质量 64.44
+  - 主题摘要：According to 马修斯's post, the author shared a Meme image featuring characters including 'Lao Mao' (also referred to as 'Niu Lai' and 'Fat Frog'). The post describes the content as…
+  - 资金 100.00 / 广度 44.96 / 确认 15.84 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.03，其中已确认叙事 0 个。
-- Team Human Anti-AI Website 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- EVERNORTHXRP 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.19，其中已确认叙事 0 个。
+- Alleged Launch of Baobao Mi Meme Image 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- ChatGPT-6 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance's 100 Days of AI | 质量 81.16 | 可交易性 100.00 | 风险 低
-- Team Human Anti-AI Website | 质量 77.82 | 可交易性 97.86 | 风险 低
-- Binance Intelligence Launch | 质量 77.27 | 可交易性 98.75 | 风险 低
-- Uncertain:CZ and Yi He Daily Life | 质量 76.69 | 可交易性 100.00 | 风险 低
-- ChatGPT-6 | 质量 75.18 | 可交易性 100.00 | 风险 低
-- EVERNORTHXRP | 质量 75.00 | 可交易性 100.00 | 风险 低
-- Elon Musk Likes AI Navier-Stokes Post | 质量 74.69 | 可交易性 100.00 | 风险 低
-- CZ's Walking Billboards | 质量 73.19 | 可交易性 100.00 | 风险 低
-- CZ Bedside | 质量 71.57 | 可交易性 98.52 | 风险 低
-- CZ Dubai Minimalist | 质量 71.57 | 可交易性 98.52 | 风险 低
+- Binance Intelligence Launch | 质量 77.99 | 可交易性 100.00 | 风险 低
+- ChatGPT-6 | 质量 77.28 | 可交易性 100.00 | 风险 低
+- Uncertain:jio Claims Binance AI Pro May Be Renamed | 质量 74.76 | 可交易性 97.84 | 风险 低
+- CZ Bedside | 质量 74.51 | 可交易性 100.00 | 风险 低
+- EVERNORTHXRP | 质量 74.47 | 可交易性 100.00 | 风险 低
+- CZ Dubai Minimalist | 质量 74.46 | 可交易性 100.00 | 风险 低
+- Alleged NC Arrest Record Fraud | 质量 74.06 | 可交易性 100.00 | 风险 低
+- Alleged Launch of Baobao Mi Meme Image | 质量 72.99 | 可交易性 99.91 | 风险 低
+- Institutional Oil Fund | 质量 72.08 | 可交易性 100.00 | 风险 低
+- root | 质量 71.97 | 可交易性 92.19 | 风险 低
 
 ## 伪叙事风险
 
-- SpaceXAI Rebranding Speculation | 风险 64.60 | 原因：流动性偏薄、龙头筹码集中度偏高
-- Elon Musk Likes AI Navier-Stokes Post | 风险 45.49 | 原因：流动性偏薄
+- root | 风险 51.25 | 原因：流动性偏薄
+- Institutional Oil Fund | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Hivemind Introduces $HIVE Token | 风险 44.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- CZ Bedside | 风险 43.18 | 原因：流动性偏薄
+- CZ Dubai Minimalist | 风险 43.18 | 原因：流动性偏薄
 
 ## 信号台
 
-- WISP | BSC | 看多 | 新鲜度 100.00 | Wisp
+- WISP | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 躺赢 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - bibi | BSC | 看多 | 新鲜度 100.00 | Binance Intelligence Launch
 - BI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - hooks | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PSTR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - OWL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CELLUMO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Army | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - OWL | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Team Human Anti-AI Website（Solana，分数 85.1）
+1. 当前最强叙事：ChatGPT-6（Solana，分数 86.52）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Team Human Anti-AI Website 当前为“新出现”
+3. 记忆层变化：Institutional Oil Fund 当前为“新出现”
 4. 最新官方催化：Updates on International Virtual Asset Transfer Procedures in Brazil
 #Binance #NarrativeOS #OpenClaw
