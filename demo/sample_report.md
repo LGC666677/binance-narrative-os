@@ -1,116 +1,121 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-07T08:55:20.466758+00:00
+- 生成时间：2026-10-07T15:50:28.524701+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 World Strategic Oil Supply，所在链为 Solana，叙事强度 88.61。
-- 当前平均叙事强度为 82.08，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 SI，来自 Solana，共振分数 100.0。
-- 记忆层显示 World Strategic Oil Supply 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 BNB Chain Takes Over Singapore，伪叙事风险 50.11。
-- 最新官方催化来自 新币上新：Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-07。
+- 当前最强叙事是 Binance October PoR，所在链为 BSC，叙事强度 88.32。
+- 当前平均叙事强度为 81.2，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 Binance October PoR 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged UI Token Launch，伪叙事风险 45.02。
+- 最新官方催化来自 最新活动：Trade Futures & Win: Complete Tasks to Share 200 BNB in Rewards!。
 
 ## 叙事雷达
 
-- World Strategic Oil Supply | Solana | 降温中 | 强度 88.61 | 质量 77.95
-  - 主题摘要：Multiple tokens named 「WSOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.97 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pokemon | Solana | 降温中 | 强度 83.31 | 质量 71.59
-  - 主题摘要：Multiple tokens named 「POKEMON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.76 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pumpkinu | Solana | 降温中 | 强度 83.13 | 质量 71.46
-  - 主题摘要：Pumpku is a meme token inspired by the Halloween season, featuring a Shiba Inu dog dressed as a pumpkin. The token's name combines 'pump' (launching on pump.fun) with 'pumpkin' an…
-  - 资金 100.00 / 广度 71.35 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance 1 Hour Wait | BSC | 加速中 | 强度 82.78 | 质量 83.24
-  - 主题摘要：Binance官方账号发布推文称只需再等待1小时，引发社区对即将发布的重大公告、空投或系统升级的猜测与期待，这种不确定性催生了投机性讨论。
-  - 资金 100.00 / 广度 100.00 / 确认 23.80 / 脆弱性 14.00
+- Binance October PoR | BSC | 已确认 | 强度 88.32 | 质量 82.60
+  - 主题摘要：Binance CEO Richard Teng retweeted the official Binance announcement regarding the October Proof of Reserves (PoR) update, emphasizing that user assets are backed 1:1 and can be v…
+  - 资金 100.00 / 广度 94.75 / 确认 28.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Binance PoR | BSC | 加速中 | 强度 86.14 | 质量 79.20
+  - 主题摘要：Binance releases its latest Proof of Reserves update, emphasizing that user assets are backed 1:1. This reinforces platform transparency and financial security, addressing common…
+  - 资金 100.00 / 广度 92.16 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 币安何一 | BSC | 降温中 | 强度 81.93 | 质量 76.66
-  - 主题摘要：Multiple tokens named 「币安何一」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.37 / 确认 4.32 / 脆弱性 14.00
+- American Trust Fund System | Solana | 降温中 | 强度 82.51 | 质量 74.41
+  - 主题摘要：Multiple tokens named 「ATFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.22 / 确认 7.92 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Rolls-Royce | Solana | 降温中 | 强度 81.74 | 质量 69.73
-  - 主题摘要：Multiple tokens named 「Rolls-Royc」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.58 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged SpaceXSAI Token | BSC | 降温中 | 强度 80.67 | 质量 72.77
-  - 主题摘要：According to Brian Roemmele's post, the SpaceXSAI token (Space Sexy Inu) is introduced with the pronunciation 'Space Sexy'. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 97.52 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: More family | BSC | 加速中 | 强度 79.65 | 质量 82.11
-  - 主题摘要：Binance CEO CZ replied to co-founder Yi He's post with 'More family,' reinforcing the strong narrative of the Binance leadership team as a unified, close-knit group. This interact…
-  - 资金 100.00 / 广度 98.93 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged SpaceSexy Token | BSC | 降温中 | 强度 79.43 | 质量 70.65
-  - 主题摘要：According to ️'s post, a Meme image titled 'SpaceSexy' (pronounced SpaceSexy) was shared, suggesting it is superior to 'No more AI'. This content references the SpaceSexy token. T…
-  - 资金 100.00 / 广度 97.52 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Fitness | BSC | 加速中 | 强度 78.60 | 质量 80.87
-  - 主题摘要：Binance founder CZ praises Miami Mayor Francis Suarez's workout routine, highlighting the crypto community's shift towards health and longevity. This interaction showcases the bon…
-  - 资金 100.00 / 广度 94.79 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Steven's Token Philosophy | Solana | 加速中 | 强度 78.51 | 质量 67.56
-  - 主题摘要：According to Steven (っ♡◡♡)っ's post, he asserts that everything is a token, specifically highlighting Solana (SOL). This statement reflects his perspective on the tokenization of a…
-  - 资金 100.00 / 广度 75.51 / 确认 20.20 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Abs | BSC | 加速中 | 强度 77.45 | 质量 77.27
-  - 主题摘要：Binance CEO CZ responds to a fan's playful question about his abs with a laughing emoji, sparking meme culture around his fitness or lack thereof.
-  - 资金 100.00 / 广度 100.00 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Chain Takes Over Singapore | BSC | 点火期 | 强度 77.43 | 质量 79.29
+- BNB Chain Takes Over Singapore | BSC | 加速中 | 强度 80.38 | 质量 81.06
   - 主题摘要：BNB Chain官方宣布将在新加坡举办一系列大型活动，包括主舞台对话和社区聚会，旨在展示其在Web3领域的扩张和影响力。
-  - 资金 100.00 / 广度 94.81 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- SARP | Solana | 降温中 | 强度 77.21 | 质量 65.81
-  - 主题摘要：Multiple tokens named 「SARP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 52.49 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 95.40 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ Fitness | BSC | 加速中 | 强度 80.36 | 质量 80.91
+  - 主题摘要：Binance founder CZ praises Miami Mayor Francis Suarez's workout routine, highlighting the crypto community's shift towards health and longevity. This interaction showcases the bon…
+  - 资金 100.00 / 广度 94.93 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:CZ Clarifies Token vs Coin | BSC | 降温中 | 强度 80.20 | 质量 70.65
+  - 主题摘要：According to 我肯定会发财！'s post, CZ clarified that his previous statement referred to 'token' rather than 'coin'. This distinction was made in response to a discussion regarding a pro…
+  - 资金 100.00 / 广度 84.03 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ: More family | BSC | 加速中 | 强度 79.76 | 质量 78.35
+  - 主题摘要：Binance CEO CZ replied to co-founder Yi He's post with 'More family,' reinforcing the strong narrative of the Binance leadership team as a unified, close-knit group. This interact…
+  - 资金 100.00 / 广度 100.00 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Azuky: Vitalik AI UI & User Inu | Solana | 降温中 | 强度 77.73 | 质量 73.20
+  - 主题摘要：According to Azuky's post, Vitalik Buterin stated that AI will become the new UI to reduce security risks. Azuky suggests launching a 'User Inu' token paired with AI agents. This…
+  - 资金 100.00 / 广度 77.15 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- World Oil Trust Fund💎 | Solana | 降温中 | 强度 77.52 | 质量 66.16
+  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 53.68 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Jiang Qiping Proposes FI Concept | BSC | 加速中 | 强度 77.32 | 质量 77.72
+  - 主题摘要：According to _'s post, Jiang Qiping, Editor-in-Chief of Internet Weekly under the Chinese Academy of Sciences, proposed the concept of FI (Fusion Intelligence).
+  - 资金 100.00 / 广度 89.61 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged SpaceXSAI Token | BSC | 降温中 | 强度 77.09 | 质量 70.97
+  - 主题摘要：According to Brian Roemmele's post, he introduced a token named SpaceXSAI, pronounced as 'Space Sexy'. This content references a quoted tweet regarding a potential change. The pos…
+  - 资金 100.00 / 广度 96.90 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- United States Oil Fund | Solana | 降温中 | 强度 76.55 | 质量 60.97
+  - 主题摘要：Multiple tokens named 「USOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.00 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- TERP Live Coding Stream | Solana | 加速中 | 强度 75.88 | 质量 72.25
+  - 主题摘要：According to john's post, the user @onlyterp is currently live coding a game on Twitch. The post encourages viewers to send fees to support the streamer during the broadcast.
+  - 资金 100.00 / 广度 87.14 / 确认 18.72 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged UI Token Launch | Solana | 降温中 | 强度 75.87 | 质量 71.89
+  - 主题摘要：According to reg's post, Vitalik Buterin's prediction that AI will become the new UI is cited to promote the User Inu (UI) token. The post claims this token is paired with AI to p…
+  - 资金 100.00 / 广度 76.48 / 确认 4.32 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.08，其中已确认叙事 0 个。
-- CZ: More family 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- World Strategic Oil Supply 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 81.2，其中已确认叙事 1 个。
+- Binance October PoR 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- American Trust Fund System 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance 1 Hour Wait | 质量 83.24 | 可交易性 100.00 | 风险 低
-- CZ: More family | 质量 82.11 | 可交易性 100.00 | 风险 低
-- CZ Fitness | 质量 80.87 | 可交易性 100.00 | 风险 低
-- BNB Chain Takes Over Singapore | 质量 79.29 | 可交易性 100.00 | 风险 低
-- World Strategic Oil Supply | 质量 77.95 | 可交易性 100.00 | 风险 低
-- CZ Abs | 质量 77.27 | 可交易性 100.00 | 风险 低
-- 币安何一 | 质量 76.66 | 可交易性 100.00 | 风险 低
-- Alleged SpaceXSAI Token | 质量 72.77 | 可交易性 91.20 | 风险 低
-- Pokemon | 质量 71.59 | 可交易性 100.00 | 风险 低
-- Pumpkinu | 质量 71.46 | 可交易性 100.00 | 风险 低
+- Binance October PoR | 质量 82.60 | 可交易性 100.00 | 风险 低
+- BNB Chain Takes Over Singapore | 质量 81.06 | 可交易性 100.00 | 风险 低
+- CZ Fitness | 质量 80.91 | 可交易性 100.00 | 风险 低
+- Binance PoR | 质量 79.20 | 可交易性 93.88 | 风险 低
+- CZ: More family | 质量 78.35 | 可交易性 100.00 | 风险 低
+- Jiang Qiping Proposes FI Concept | 质量 77.72 | 可交易性 100.00 | 风险 低
+- American Trust Fund System | 质量 74.41 | 可交易性 100.00 | 风险 低
+- Azuky: Vitalik AI UI & User Inu | 质量 73.20 | 可交易性 100.00 | 风险 低
+- TERP Live Coding Stream | 质量 72.25 | 可交易性 79.96 | 风险 低
+- Alleged UI Token Launch | 质量 71.89 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- BNB Chain Takes Over Singapore | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged UI Token Launch | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
+- American Trust Fund System | 风险 42.14 | 原因：流动性偏薄、近 1 小时净流入转负
+- Azuky: Vitalik AI UI & User Inu | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged SpaceXSAI Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- HEALTHCOIN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CRAZYCOIN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Nailoong | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 西八姐姐 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CAT | BSC | 看多 | 新鲜度 100.00 | Binance 1 Hour Wait
+- CAT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - pancakes | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- ANIMA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- ART | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- AI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TITS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AUTON | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- slopcannon | Solana | 看多 | 新鲜度 93.78 | 暂无直接叙事映射
-- MJ | BSC | 看多 | 新鲜度 86.61 | 暂无直接叙事映射
-- TITS | Solana | 看多 | 新鲜度 84.67 | 暂无直接叙事映射
-- 币安公主 | BSC | 看多 | 新鲜度 82.17 | Binance 1 Hour Wait
 
 ## 官方催化
 
+- [Trade Futures & Win: Complete Tasks to Share 200 BNB in Rewards!](https://www.binance.com/zh-CN/support/announcement/detail/c6f5ccd7407f40ac98ff0d38ea9dfa3e)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures is launching a new promotion for all eligible returning, new, and active Bin…
 - [Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-07](https://www.binance.com/zh-CN/support/announcement/detail/a1a7996170f246da90ea49f199a61bcd)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered through an Approved Prospectus in the ADGM an…
 - [Binance Exchange Adds JPMorgan Chase (JPMB), Eli Lilly (LLYB), Securitize Corp (SECZB) and StablecoinX Inc (USDEB) bStocks Trading Pairs on Binance Spot/Convert - 2026-10-07](https://www.binance.com/zh-CN/support/announcement/detail/9c34999b27234dfe9c43d2ac33cebde4)
@@ -125,16 +130,14 @@
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are not offered in any other jurisdiction.&n…
 - [New User bStocks Convert Campaign: Join and Share a Reward Pool of Up to 110 SPCXB](https://www.binance.com/zh-CN/support/announcement/detail/197b9abe9a61458a8b191493b9f7e80c)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are not offered in any other jurisdiction.&n…
-- [Binance Pay Exclusive: Get up to 20% Off Mobile Top-Ups in Selected Regions!](https://www.binance.com/zh-CN/support/announcement/detail/d1bd48f85bc344c2a7b0dbe21f4509a2)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Pay is launching a limited time mobile top-up promotion for eligible users in select…
 - [Updates on International Virtual Asset Transfer Procedures in Brazil](https://www.binance.com/zh-CN/support/announcement/detail/21b54c9e5d1d44268cd2607aba8cd3a6)
   - This is a general announcement. Products and services referred to here may not be available in your region. This announcement affects Brazilian users ONLY. Fellow Binancians, In order to adhere to local regulatory requi…
 
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：World Strategic Oil Supply（Solana，分数 88.61）
-2. 共振最强代币：SI（Solana，共振 100.0）
-3. 记忆层变化：World Strategic Oil Supply 当前为“新出现”
-4. 最新官方催化：Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-07
+1. 当前最强叙事：Binance October PoR（BSC，分数 88.32）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：Binance October PoR 当前为“新出现”
+4. 最新官方催化：Trade Futures & Win: Complete Tasks to Share 200 BNB in Rewards!
 #Binance #NarrativeOS #OpenClaw
