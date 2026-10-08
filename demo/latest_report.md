@@ -1,113 +1,114 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-08T13:45:56.665769+00:00
+- 生成时间：2026-10-08T19:31:43.629773+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Dividend Program，所在链为 Solana，叙事强度 89.08。
-- 当前平均叙事强度为 78.71，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 United States Dividend Program 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Underdog Saluki AI Model，伪叙事风险 51.82。
+- 当前最强叙事是 PVE Token Survival Run Mechanism，所在链为 Solana，叙事强度 86.35。
+- 当前平均叙事强度为 83.22，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
+- 记忆层显示 PVE Token Survival Run Mechanism 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 MrBeast，伪叙事风险 43.28。
 - 最新官方催化来自 最新活动：New Users Exclusive: Subscribe to USDT Simple Earn Flexible Products to Enjoy 30% Bonus APR!。
 
 ## 叙事雷达
 
-- United States Dividend Program | Solana | 降温中 | 强度 89.08 | 质量 79.74
-  - 主题摘要：Multiple tokens named 「USDP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 7.92 / 脆弱性 0.00
+- PVE Token Survival Run Mechanism | Solana | 降温中 | 强度 86.35 | 质量 77.29
+  - 主题摘要：According to Try PVE's post, the PVE protocol utilizes an AI Agent to monitor token survival post-launch. The system tracks on-chain activity and verifies milestones (e.g., 6, 24,…
+  - 资金 100.00 / 广度 88.67 / 确认 12.24 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- U Mascot Naming Contest | BSC | 已确认 | 强度 84.99 | 质量 86.52
+- PVE AGENTS Token Agent Economy | Solana | 降温中 | 强度 86.22 | 质量 77.39
+  - 主题摘要：According to PVE AGENTS's post, the PVE token ecosystem utilizes AI agents to autonomously manage creator rewards for service development and marketing. Agents within the network…
+  - 资金 100.00 / 广度 88.98 / 确认 12.24 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- U Mascot Naming Contest | BSC | 已确认 | 强度 86.18 | 质量 86.48
   - 主题摘要：According to U's post, the United Stables team has launched a mascot naming contest. Participants are invited to submit names and rationales via comments, with rewards of 88 $U fo…
-  - 资金 100.00 / 广度 95.04 / 确认 45.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 94.91 / 确认 45.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Washywash: XAI FOMO Bot | Solana | 降温中 | 强度 83.49 | 质量 74.35
-  - 主题摘要：According to Washywash's post, the XAI platform features a bot named FOMO that generates memecoin reports. The author highlights this functionality with the phrase "GOD NARRA" and…
-  - 资金 100.00 / 广度 85.32 / 确认 4.32 / 脆弱性 14.00
+- Pump.fun Launches Custom Pairs | Solana | 降温中 | 强度 84.44 | 质量 75.82
+  - 主题摘要：According to Pump.fun's post, the platform has introduced Custom Pairs, enabling users to pair new tokens with any coin previously launched on Pump.fun. This update aims to reduce…
+  - 资金 100.00 / 广度 82.12 / 确认 14.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Softhearted Gunner Meme | Solana | 已确认 | 强度 81.25 | 质量 73.75
-  - 主题摘要：According to Journey's post, the "Softhearted Gunner" is a viral AI/CapCut Meme format featuring a character aiming a gun, hesitating, and flashing back to emotional memories. The…
-  - 资金 100.00 / 广度 82.65 / 确认 29.64 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Gary the Cat | Solana | 降温中 | 强度 80.45 | 质量 68.83
-  - 主题摘要：Multiple tokens named 「Gary」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.27 / 确认 4.32 / 脆弱性 0.00
+- PVE AGENTS Token AI Agent Economy | Solana | 降温中 | 强度 84.42 | 质量 76.14
+  - 主题摘要：According to PVE AGENTS's post, the PVE token ecosystem utilizes AI agents to autonomously manage creator rewards for service development and marketing. Agents within the network…
+  - 资金 100.00 / 广度 88.52 / 确认 7.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Coinbase Comments on Jez Meme | Solana | 降温中 | 强度 77.08 | 质量 65.10
-  - 主题摘要：According to Coinbase 🛡️'s post, the entity '@intern' has decided to create memes instead. Additionally, Coinbase notes that '@intern' is backing Jez to win.
-  - 资金 100.00 / 广度 79.00 / 确认 4.32 / 脆弱性 14.00
+- alon on Pump.fun PVP Solutions | Solana | 降温中 | 强度 83.67 | 质量 74.84
+  - 主题摘要：According to alon's post, the co-founder of Pump.fun, the platform is addressing the PVP (Player vs. Player) problem by observing feedback and iterating step by step. This approac…
+  - 资金 100.00 / 广度 84.20 / 确认 7.20 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Four.meme-華語 Responds to CZ | BSC | 加速中 | 强度 76.22 | 质量 62.52
-  - 主题摘要：According to Four.meme-華語's post, the user commented on CZ's social media post featuring a half-naked photo, stating that they added four-finger push-ups to their workout routine.…
-  - 资金 100.00 / 广度 67.89 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mario Questions XAI FOMO Bot | Solana | 降温中 | 强度 74.50 | 质量 62.86
-  - 主题摘要：According to Mario's post, Mario questions the narrative surrounding an XAI bot named FOMO that generates memecoin reports, describing the situation as a 'fomo narra' and criticiz…
-  - 资金 100.00 / 广度 58.02 / 确认 4.32 / 脆弱性 14.00
+- MrBeast | Solana | 降温中 | 强度 83.65 | 质量 74.65
+  - 主题摘要：According to Nikolai's post, the MrBeast Coin is officially launched. This claim is unverified. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 88.82 / 确认 0.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNB Chain Takes Over Singapore | BSC | 加速中 | 强度 74.07 | 质量 72.52
-  - 主题摘要：BNB Chain官方宣布将在新加坡举办一系列大型活动，包括主舞台对话和社区聚会，旨在展示其在Web3领域的扩张和影响力。
-  - 资金 100.00 / 广度 90.00 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Fitness | BSC | 加速中 | 强度 73.97 | 质量 72.49
-  - 主题摘要：Binance founder CZ praises Miami Mayor Francis Suarez's workout routine, highlighting the crypto community's shift towards health and longevity. This interaction showcases the bon…
-  - 资金 100.00 / 广度 90.02 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 币安牛 | BSC | 加速中 | 强度 73.93 | 质量 60.89
-  - 主题摘要：According to Qianyuwing's post, the author has released a public test version of an automated profit-making assistant for Binance Square. The tool is currently undergoing optimiza…
-  - 资金 100.00 / 广度 72.37 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Underdog Saluki AI Model | BSC | 点火期 | 强度 72.36 | 质量 67.74
-  - 主题摘要：According to Shakespeare's post, the Underdog Saluki 27B, an AI model based on Qwen, is going viral. Shakespeare claims it is the first dog-based AI model, noting its efficiency a…
-  - 资金 100.00 / 广度 76.20 / 确认 4.32 / 脆弱性 14.00
+- Pump.fun New Token Routing Mechanism | Solana | 降温中 | 强度 78.70 | 质量 66.89
+  - 主题摘要：According to Pump.fun's post, the platform has implemented a new mechanism where newly launched tokens paired with existing successful tokens route all buys through the runner's p…
+  - 资金 100.00 / 广度 79.13 / 确认 7.20 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- alon: Pump.fun Update | Solana | 降温中 | 强度 78.29 | 质量 66.43
+  - 主题摘要：According to alon's post, Pump.fun co-founder alon announced an update to alleviate PVP pressure on ecosystem tokens. The update encourages pairing new tokens with established one…
+  - 资金 100.00 / 广度 78.62 / 确认 7.20 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Smol Advocates 'Big Water' Theory | BSC | 点火期 | 强度 73.67 | 质量 66.61
+  - 主题摘要：According to Smol's post, the author dismisses previous market theories such as 'yellow hair theory' and 'thin muscle theory', asserting that the 'Da Shui theory' is currently the…
+  - 资金 100.00 / 广度 74.16 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- SpaceX | Solana | 降温中 | 强度 72.22 | 质量 71.71
-  - 主题摘要：Multiple tokens named 「SpaceX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.87 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- frog wif ak47 | Solana | 降温中 | 强度 71.63 | 质量 60.43
-  - 主题摘要：Multiple tokens named 「wifAK47」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 46.60 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Fitness | BSC | 加速中 | 强度 72.09 | 质量 70.23
+  - 主题摘要：Binance founder CZ praises Miami Mayor Francis Suarez's workout routine, highlighting the crypto community's shift towards health and longevity. This interaction showcases the bon…
+  - 资金 100.00 / 广度 88.01 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Datacenter Coin | BSC | 加速中 | 强度 70.45 | 质量 66.05
+  - 主题摘要：Multiple tokens named 「Datacenter」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.46 / 确认 19.44 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 金蝴蝶 | BSC | 加速中 | 强度 69.56 | 质量 59.35
+  - 主题摘要：Multiple tokens named 「金蝴蝶」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.13 / 确认 19.44 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Dirss Suggests UU for UTechStables Mascot | BSC | 加速中 | 强度 68.44 | 质量 64.52
+  - 主题摘要：According to Dirss's post, in response to a naming contest for a mascot, Dirss suggested renaming the token to "UU". Dirss argued that the name "UNI" was already taken and conside…
+  - 资金 100.00 / 广度 78.14 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.71，其中已确认叙事 1 个。
-- Alleged Softhearted Gunner Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- United States Dividend Program 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.22，其中已确认叙事 0 个。
+- Smol Advocates 'Big Water' Theory 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- PVE Token Survival Run Mechanism 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- U Mascot Naming Contest | 质量 86.52 | 可交易性 100.00 | 风险 低
-- United States Dividend Program | 质量 79.74 | 可交易性 100.00 | 风险 低
-- Washywash: XAI FOMO Bot | 质量 74.35 | 可交易性 99.33 | 风险 低
-- Alleged Softhearted Gunner Meme | 质量 73.75 | 可交易性 81.46 | 风险 低
-- BNB Chain Takes Over Singapore | 质量 72.52 | 可交易性 100.00 | 风险 低
-- CZ Fitness | 质量 72.49 | 可交易性 100.00 | 风险 低
-- SpaceX | 质量 71.71 | 可交易性 100.00 | 风险 低
-- Gary the Cat | 质量 68.83 | 可交易性 100.00 | 风险 低
-- Alleged Underdog Saluki AI Model | 质量 67.74 | 可交易性 86.44 | 风险 低
-- Coinbase Comments on Jez Meme | 质量 65.10 | 可交易性 74.84 | 风险 低
+- U Mascot Naming Contest | 质量 86.48 | 可交易性 100.00 | 风险 低
+- PVE AGENTS Token Agent Economy | 质量 77.39 | 可交易性 100.00 | 风险 低
+- PVE Token Survival Run Mechanism | 质量 77.29 | 可交易性 100.00 | 风险 低
+- PVE AGENTS Token AI Agent Economy | 质量 76.14 | 可交易性 100.00 | 风险 低
+- Pump.fun Launches Custom Pairs | 质量 75.82 | 可交易性 100.00 | 风险 低
+- alon on Pump.fun PVP Solutions | 质量 74.84 | 可交易性 100.00 | 风险 低
+- MrBeast | 质量 74.65 | 可交易性 100.00 | 风险 低
+- CZ Fitness | 质量 70.23 | 可交易性 100.00 | 风险 低
+- Pump.fun New Token Routing Mechanism | 质量 66.89 | 可交易性 78.57 | 风险 低
+- Smol Advocates 'Big Water' Theory | 质量 66.61 | 可交易性 93.12 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Underdog Saluki AI Model | 风险 51.82 | 原因：流动性偏薄
+- MrBeast | 风险 43.28 | 原因：流动性偏薄
+- Smol Advocates 'Big Water' Theory | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
 - HEALTHCOIN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CRAZYCOIN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Nailoong | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 西八姐姐 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- pear | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CAPYBARA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PQC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BORDR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- FRENS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MJ | BSC | 看多 | 新鲜度 86.61 | 暂无直接叙事映射
-- 🧲 | Solana | 看多 | 新鲜度 79.96 | 暂无直接叙事映射
-- BLOHARD | Base | 看多 | 新鲜度 73.40 | 暂无直接叙事映射
+- Mario64 | Solana | 看多 | 新鲜度 83.62 | 暂无直接叙事映射
+- INU | Solana | 看多 | 新鲜度 81.14 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Dividend Program（Solana，分数 89.08）
-2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：United States Dividend Program 当前为“新出现”
+1. 当前最强叙事：PVE Token Survival Run Mechanism（Solana，分数 86.35）
+2. 共振最强代币：XRP（BSC，共振 100.0）
+3. 记忆层变化：PVE Token Survival Run Mechanism 当前为“新出现”
 4. 最新官方催化：New Users Exclusive: Subscribe to USDT Simple Earn Flexible Products to Enjoy 30% Bonus APR!
 #Binance #NarrativeOS #OpenClaw
