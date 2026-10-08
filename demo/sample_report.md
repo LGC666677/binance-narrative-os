@@ -1,103 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-07T20:49:59.743799+00:00
+- 生成时间：2026-10-08T00:28:27.297527+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
-- 高风险伪叙事：3
+- 已确认叙事：0
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance October PoR，所在链为 BSC，叙事强度 88.35。
-- 当前平均叙事强度为 79.82，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 TWEETCRAFT，来自 Solana，共振分数 100.0。
-- 记忆层显示 MOONZO COIN 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Pump.fun's Market Outlook，伪叙事风险 56.45。
+- 当前最强叙事是 EVERNORTHXRP，所在链为 Solana，叙事强度 87.65。
+- 当前平均叙事强度为 81.52，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 RAY，来自 Solana，共振分数 100.0。
+- 记忆层显示 EVERNORTHXRP 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged GIRAFFE Token Launch，伪叙事风险 42.03。
 - 最新官方催化来自 最新活动：Trade Futures & Win: Complete Tasks to Share 200 BNB in Rewards!。
 
 ## 叙事雷达
 
-- Binance October PoR | BSC | 已确认 | 强度 88.35 | 质量 80.29
-  - 主题摘要：Binance CEO Richard Teng retweeted the official Binance announcement regarding the October Proof of Reserves (PoR) update, emphasizing that user assets are backed 1:1 and can be v…
-  - 资金 100.00 / 广度 94.89 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance PoR | BSC | 加速中 | 强度 85.96 | 质量 76.60
-  - 主题摘要：Binance releases its latest Proof of Reserves update, emphasizing that user assets are backed 1:1. This reinforces platform transparency and financial security, addressing common…
-  - 资金 100.00 / 广度 92.11 / 确认 24.48 / 脆弱性 14.00
+- EVERNORTHXRP | Solana | 降温中 | 强度 87.65 | 质量 76.19
+  - 主题摘要：Multiple tokens named 「XRPN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.82 / 确认 16.56 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- American Trust Fund System💊 | Solana | 降温中 | 强度 84.18 | 质量 72.36
+  - 主题摘要：Multiple tokens named 「ATFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.50 / 确认 5.04 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- WSOS | Solana | 降温中 | 强度 83.55 | 质量 70.95
+  - 主题摘要：Multiple tokens named 「WSOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.79 / 确认 5.04 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- United States Water Reserve | Solana | 降温中 | 强度 83.52 | 质量 71.02
+  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.87 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Shark Tank Onchain | Solana | 加速中 | 强度 83.37 | 质量 75.12
+  - 主题摘要：According to Shark Tank's post, the 'Shark Tank Onchain' initiative invites users to pitch cryptocurrency projects, including name, ticker, and logo, for evaluation by four AI sha…
+  - 资金 100.00 / 广度 72.46 / 确认 24.48 / 脆弱性 0.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Fitness | BSC | 加速中 | 强度 81.99 | 质量 81.00
+- CZ Fitness | BSC | 加速中 | 强度 82.08 | 质量 80.98
   - 主题摘要：Binance founder CZ praises Miami Mayor Francis Suarez's workout routine, highlighting the crypto community's shift towards health and longevity. This interaction showcases the bon…
-  - 资金 100.00 / 广度 95.22 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.15 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Chain Takes Over Singapore | BSC | 加速中 | 强度 81.98 | 质量 80.92
+- BNB Chain Takes Over Singapore | BSC | 加速中 | 强度 82.04 | 质量 80.91
   - 主题摘要：BNB Chain官方宣布将在新加坡举办一系列大型活动，包括主舞台对话和社区聚会，旨在展示其在Web3领域的扩张和影响力。
-  - 资金 100.00 / 广度 94.96 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.93 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- MOONZO COIN | Solana | 降温中 | 强度 81.13 | 质量 71.61
-  - 主题摘要：Multiple tokens named 「MOONZO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.01 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ChatGPT-6 | Solana | 降温中 | 强度 81.01 | 质量 69.52
-  - 主题摘要：Multiple tokens named 「OpenAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.04 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged CALL Token Launch | Solana | 降温中 | 强度 78.14 | 质量 68.48
-  - 主题摘要：According to call on pump's post, the author claims to be launching a token named CALL on the pumpfun platform. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 77.41 / 确认 15.84 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pump.fun's Market Outlook | Solana | 点火期 | 强度 76.54 | 质量 76.56
-  - 主题摘要：According to Pump.fun's post, the platform expressed optimism about its future trajectory, stating that in a few years, the current period will be viewed as the moment everything…
-  - 资金 100.00 / 广度 91.51 / 确认 5.04 / 脆弱性 24.00
+- Alleged GIRAFFE Token Launch | Solana | 点火期 | 强度 77.62 | 质量 70.07
+  - 主题摘要：According to Bymotionn's post, the author claims to have launched a token named 'GIRAFFE' (also referred to as 'giraffe wif cap') following the viral popularity of a rescued baby…
+  - 资金 100.00 / 广度 83.46 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Jiang Qiping Proposes FI Concept | BSC | 加速中 | 强度 76.37 | 质量 74.63
+- ZK Darkpool | Solana | 降温中 | 强度 77.61 | 质量 67.74
+  - 主题摘要：Multiple tokens named 「ZKDARK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 58.92 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Support Level Evolved | BSC | 降温中 | 强度 75.58 | 质量 62.88
+  - 主题摘要：Binance official account posts a cryptic update about 'support level evolved' with a chart, sparking speculation among traders about market direction and potential price floors.
+  - 资金 100.00 / 广度 68.38 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Jiang Qiping Proposes FI Concept | BSC | 加速中 | 强度 75.44 | 质量 73.21
   - 主题摘要：According to _'s post, Jiang Qiping, Editor-in-Chief of Internet Weekly under the Chinese Academy of Sciences, proposed the concept of FI (Fusion Intelligence).
-  - 资金 100.00 / 广度 89.58 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.60 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- No Jeet No Jet | Solana | 加速中 | 强度 76.20 | 质量 67.05
-  - 主题摘要：Multiple tokens named 「JET」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.48 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ: More family | BSC | 加速中 | 强度 75.40 | 质量 73.27
+- DOGE TRUMP | Solana | 降温中 | 强度 74.69 | 质量 62.31
+  - 主题摘要：DTRUMP combines Dogecoin's meme culture with Donald Trump's political persona. The token features a Shiba Inu dog wearing a suit and red tie, sat at a desk with American flags beh…
+  - 资金 100.00 / 广度 48.48 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ: More family | BSC | 加速中 | 强度 74.45 | 质量 72.57
   - 主题摘要：Binance CEO CZ replied to co-founder Yi He's post with 'More family,' reinforcing the strong narrative of the Binance leadership team as a unified, close-knit group. This interact…
-  - 资金 100.00 / 广度 96.40 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 96.37 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ 13M Followers | BSC | 点火期 | 强度 75.31 | 质量 71.46
-  - 主题摘要：CZ回复一条庆祝其Twitter粉丝达到1300万的推文，表达了感谢。这是一个简单的里程碑庆祝，缺乏强烈的Meme潜力或争议性。
-  - 资金 100.00 / 广度 93.49 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged SpaceXSAI Token | BSC | 点火期 | 强度 73.20 | 质量 68.29
+- Alleged SpaceXSAI Token | BSC | 降温中 | 强度 74.44 | 质量 69.39
   - 主题摘要：According to Brian Roemmele's post, he introduced a token named SpaceXSAI, pronounced as 'Space Sexy'. This content references a quoted tweet regarding a potential change. The pos…
-  - 资金 100.00 / 广度 95.69 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Ro0oney Develops StreetCraft | Solana | 点火期 | 强度 73.18 | 质量 67.80
-  - 主题摘要：According to Ro0oney's post, the developer created StreetCraft, a Minecraft mod that uses Python software to analyze Google Street View footage and generate accurate 1:1 3D replic…
-  - 资金 100.00 / 广度 73.84 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+  - 资金 100.00 / 广度 95.57 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.82，其中已确认叙事 1 个。
-- Pump.fun's Market Outlook 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- MOONZO COIN 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.52，其中已确认叙事 0 个。
+- Shark Tank Onchain 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- EVERNORTHXRP 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ Fitness | 质量 81.00 | 可交易性 100.00 | 风险 低
-- BNB Chain Takes Over Singapore | 质量 80.92 | 可交易性 100.00 | 风险 低
-- Binance October PoR | 质量 80.29 | 可交易性 99.55 | 风险 低
-- Binance PoR | 质量 76.60 | 可交易性 92.84 | 风险 低
-- Pump.fun's Market Outlook | 质量 76.56 | 可交易性 100.00 | 风险 低
-- Jiang Qiping Proposes FI Concept | 质量 74.63 | 可交易性 100.00 | 风险 低
-- CZ: More family | 质量 73.27 | 可交易性 100.00 | 风险 低
-- MOONZO COIN | 质量 71.61 | 可交易性 100.00 | 风险 低
-- CZ 13M Followers | 质量 71.46 | 可交易性 100.00 | 风险 低
-- ChatGPT-6 | 质量 69.52 | 可交易性 100.00 | 风险 低
+- CZ Fitness | 质量 80.98 | 可交易性 100.00 | 风险 低
+- BNB Chain Takes Over Singapore | 质量 80.91 | 可交易性 100.00 | 风险 低
+- EVERNORTHXRP | 质量 76.19 | 可交易性 100.00 | 风险 低
+- Shark Tank Onchain | 质量 75.12 | 可交易性 100.00 | 风险 低
+- Jiang Qiping Proposes FI Concept | 质量 73.21 | 可交易性 100.00 | 风险 低
+- CZ: More family | 质量 72.57 | 可交易性 100.00 | 风险 低
+- American Trust Fund System💊 | 质量 72.36 | 可交易性 100.00 | 风险 低
+- United States Water Reserve | 质量 71.02 | 可交易性 100.00 | 风险 低
+- WSOS | 质量 70.95 | 可交易性 100.00 | 风险 低
+- Alleged GIRAFFE Token Launch | 质量 70.07 | 可交易性 77.96 | 风险 低
 
 ## 伪叙事风险
 
-- Pump.fun's Market Outlook | 风险 56.45 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged SpaceXSAI Token | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Ro0oney Develops StreetCraft | 风险 51.25 | 原因：流动性偏薄
-- CZ 13M Followers | 风险 42.03 | 原因：流动性偏薄
+- Alleged GIRAFFE Token Launch | 风险 42.03 | 原因：流动性偏薄
+- Alleged SpaceXSAI Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -107,10 +105,10 @@
 - 西八姐姐 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CAT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - pancakes | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SCraft | Solana | 看多 | 新鲜度 100.00 | Ro0oney Develops StreetCraft
-- ART | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- AI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- TITS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- ALT-COIN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- SCraft | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- FRENS | Solana | 看多 | 新鲜度 95.88 | 暂无直接叙事映射
+- MJ | BSC | 看多 | 新鲜度 86.61 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance October PoR（BSC，分数 88.35）
-2. 共振最强代币：TWEETCRAFT（Solana，共振 100.0）
-3. 记忆层变化：MOONZO COIN 当前为“新出现”
+1. 当前最强叙事：EVERNORTHXRP（Solana，分数 87.65）
+2. 共振最强代币：RAY（Solana，共振 100.0）
+3. 记忆层变化：EVERNORTHXRP 当前为“新出现”
 4. 最新官方催化：Trade Futures & Win: Complete Tasks to Share 200 BNB in Rewards!
 #Binance #NarrativeOS #OpenClaw
