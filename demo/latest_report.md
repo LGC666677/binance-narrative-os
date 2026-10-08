@@ -1,101 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-08T00:28:27.297527+00:00
+- 生成时间：2026-10-08T06:25:38.366175+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
+- 已确认叙事：1
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 EVERNORTHXRP，所在链为 Solana，叙事强度 87.65。
-- 当前平均叙事强度为 81.52，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 RAY，来自 Solana，共振分数 100.0。
-- 记忆层显示 EVERNORTHXRP 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged GIRAFFE Token Launch，伪叙事风险 42.03。
+- 当前最强叙事是 Xpress Bridge Currency，所在链为 Solana，叙事强度 89.85。
+- 当前平均叙事强度为 82.06，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
+- 记忆层显示 Xpress Bridge Currency 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Elon Musk Retweets Grok Integration，伪叙事风险 47.79。
 - 最新官方催化来自 最新活动：Trade Futures & Win: Complete Tasks to Share 200 BNB in Rewards!。
 
 ## 叙事雷达
 
-- EVERNORTHXRP | Solana | 降温中 | 强度 87.65 | 质量 76.19
-  - 主题摘要：Multiple tokens named 「XRPN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 81.82 / 确认 16.56 / 脆弱性 0.00
+- Xpress Bridge Currency | Solana | 降温中 | 强度 89.85 | 质量 79.95
+  - 主题摘要：XBC (Xpress Bridge Currency) is a bridge token designed to facilitate cross-chain transactions between different blockchain networks. The logo features a stylized 'XBC' design aga…
+  - 资金 100.00 / 广度 99.62 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- American Trust Fund System💊 | Solana | 降温中 | 强度 84.18 | 质量 72.36
-  - 主题摘要：Multiple tokens named 「ATFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.50 / 确认 5.04 / 脆弱性 0.00
+- U Mascot Naming Contest | BSC | 已确认 | 强度 88.27 | 质量 84.16
+  - 主题摘要：According to U's post, the United Stables team has launched a mascot naming contest. Participants are invited to submit names and rationales via comments, with rewards of up to 88…
+  - 资金 100.00 / 广度 95.17 / 确认 34.60 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- World Oil Supply Exchange | Solana | 降温中 | 强度 86.38 | 质量 77.07
+  - 主题摘要：Multiple tokens named 「WOSE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.03 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- WSOS | Solana | 降温中 | 强度 83.55 | 质量 70.95
-  - 主题摘要：Multiple tokens named 「WSOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.79 / 确认 5.04 / 脆弱性 0.00
+- Rolex S.A. | Solana | 降温中 | 强度 81.50 | 质量 70.64
+  - 主题摘要：Multiple tokens named 「ROLEX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 68.95 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Water Reserve | Solana | 降温中 | 强度 83.52 | 质量 71.02
-  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.87 / 确认 9.36 / 脆弱性 0.00
+- Super Intelligence SI276 | Solana | 降温中 | 强度 81.23 | 质量 69.48
+  - 主题摘要：Multiple tokens named 「SI276」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 64.75 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Shark Tank Onchain | Solana | 加速中 | 强度 83.37 | 质量 75.12
-  - 主题摘要：According to Shark Tank's post, the 'Shark Tank Onchain' initiative invites users to pitch cryptocurrency projects, including name, ticker, and logo, for evaluation by four AI sha…
-  - 资金 100.00 / 广度 72.46 / 确认 24.48 / 脆弱性 0.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Fitness | BSC | 加速中 | 强度 82.08 | 质量 80.98
+- CZ Fitness | BSC | 加速中 | 强度 80.38 | 质量 79.23
   - 主题摘要：Binance founder CZ praises Miami Mayor Francis Suarez's workout routine, highlighting the crypto community's shift towards health and longevity. This interaction showcases the bon…
-  - 资金 100.00 / 广度 95.15 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.87 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- BNB Chain Takes Over Singapore | BSC | 加速中 | 强度 82.04 | 质量 80.91
+- BNB Chain Takes Over Singapore | BSC | 加速中 | 强度 80.10 | 质量 78.81
   - 主题摘要：BNB Chain官方宣布将在新加坡举办一系列大型活动，包括主舞台对话和社区聚会，旨在展示其在Web3领域的扩张和影响力。
-  - 资金 100.00 / 广度 94.93 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 94.63 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged GIRAFFE Token Launch | Solana | 点火期 | 强度 77.62 | 质量 70.07
-  - 主题摘要：According to Bymotionn's post, the author claims to have launched a token named 'GIRAFFE' (also referred to as 'giraffe wif cap') following the viral popularity of a rescued baby…
-  - 资金 100.00 / 广度 83.46 / 确认 16.56 / 脆弱性 14.00
+- Baton Pass | Solana | 降温中 | 强度 80.03 | 质量 68.96
+  - 主题摘要：Multiple tokens named 「BATONPASS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 99.39 / 广度 64.11 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Digital American Water Supply | Solana | 降温中 | 强度 79.95 | 质量 66.41
+  - 主题摘要：Multiple tokens named 「DAWS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.01 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Nate Esparza on SpaceX's Expansion | Solana | 降温中 | 强度 79.51 | 质量 66.21
+  - 主题摘要：According to Nate Esparza's post, SpaceX is evolving into a comprehensive ecosystem encompassing social media, financial services, AI tools, and space infrastructure. The post hig…
+  - 资金 100.00 / 广度 82.00 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk Retweets Grok Integration | Solana | 点火期 | 强度 78.00 | 质量 76.68
+  - 主题摘要：Elon Musk retweeted a post highlighting the capabilities of the Grok bot on X, specifically its ability to search, read, and monitor the platform for free. The content discusses u…
+  - 资金 100.00 / 广度 90.37 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- ZK Darkpool | Solana | 降温中 | 强度 77.61 | 质量 67.74
-  - 主题摘要：Multiple tokens named 「ZKDARK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 58.92 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Support Level Evolved | BSC | 降温中 | 强度 75.58 | 质量 62.88
-  - 主题摘要：Binance official account posts a cryptic update about 'support level evolved' with a chart, sparking speculation among traders about market direction and potential price floors.
-  - 资金 100.00 / 广度 68.38 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jiang Qiping Proposes FI Concept | BSC | 加速中 | 强度 75.44 | 质量 73.21
-  - 主题摘要：According to _'s post, Jiang Qiping, Editor-in-Chief of Internet Weekly under the Chinese Academy of Sciences, proposed the concept of FI (Fusion Intelligence).
-  - 资金 100.00 / 广度 89.60 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- DOGE TRUMP | Solana | 降温中 | 强度 74.69 | 质量 62.31
-  - 主题摘要：DTRUMP combines Dogecoin's meme culture with Donald Trump's political persona. The token features a Shiba Inu dog wearing a suit and red tie, sat at a desk with American flags beh…
-  - 资金 100.00 / 广度 48.48 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: More family | BSC | 加速中 | 强度 74.45 | 质量 72.57
+- CZ: More family | BSC | 加速中 | 强度 77.54 | 质量 73.52
   - 主题摘要：Binance CEO CZ replied to co-founder Yi He's post with 'More family,' reinforcing the strong narrative of the Binance leadership team as a unified, close-knit group. This interact…
-  - 资金 100.00 / 广度 96.37 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 95.79 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged SpaceXSAI Token | BSC | 降温中 | 强度 74.44 | 质量 69.39
-  - 主题摘要：According to Brian Roemmele's post, he introduced a token named SpaceXSAI, pronounced as 'Space Sexy'. This content references a quoted tweet regarding a potential change. The pos…
-  - 资金 100.00 / 广度 95.57 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Dirss Suggests UU for UTechStables Mascot | BSC | 加速中 | 强度 76.53 | 质量 73.17
+  - 主题摘要：According to Dirss's post, Dirss suggested naming the UTechStables mascot "UU" in a reply to their naming contest. Dirss argued that "UNI" was already taken and proposed "UU" as a…
+  - 资金 100.00 / 广度 77.39 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ 13M Followers | BSC | 加速中 | 强度 76.34 | 质量 71.74
+  - 主题摘要：CZ回复一条庆祝其Twitter粉丝达到1300万的推文，表达了感谢。这是一个简单的里程碑庆祝，缺乏强烈的Meme潜力或争议性。
+  - 资金 100.00 / 广度 92.51 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.52，其中已确认叙事 0 个。
-- Shark Tank Onchain 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- EVERNORTHXRP 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.06，其中已确认叙事 0 个。
+- U Mascot Naming Contest 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Xpress Bridge Currency 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ Fitness | 质量 80.98 | 可交易性 100.00 | 风险 低
-- BNB Chain Takes Over Singapore | 质量 80.91 | 可交易性 100.00 | 风险 低
-- EVERNORTHXRP | 质量 76.19 | 可交易性 100.00 | 风险 低
-- Shark Tank Onchain | 质量 75.12 | 可交易性 100.00 | 风险 低
-- Jiang Qiping Proposes FI Concept | 质量 73.21 | 可交易性 100.00 | 风险 低
-- CZ: More family | 质量 72.57 | 可交易性 100.00 | 风险 低
-- American Trust Fund System💊 | 质量 72.36 | 可交易性 100.00 | 风险 低
-- United States Water Reserve | 质量 71.02 | 可交易性 100.00 | 风险 低
-- WSOS | 质量 70.95 | 可交易性 100.00 | 风险 低
-- Alleged GIRAFFE Token Launch | 质量 70.07 | 可交易性 77.96 | 风险 低
+- U Mascot Naming Contest | 质量 84.16 | 可交易性 100.00 | 风险 低
+- Xpress Bridge Currency | 质量 79.95 | 可交易性 100.00 | 风险 低
+- CZ Fitness | 质量 79.23 | 可交易性 100.00 | 风险 低
+- BNB Chain Takes Over Singapore | 质量 78.81 | 可交易性 100.00 | 风险 低
+- World Oil Supply Exchange | 质量 77.07 | 可交易性 100.00 | 风险 低
+- Elon Musk Retweets Grok Integration | 质量 76.68 | 可交易性 98.37 | 风险 低
+- CZ: More family | 质量 73.52 | 可交易性 100.00 | 风险 低
+- Dirss Suggests UU for UTechStables Mascot | 质量 73.17 | 可交易性 85.93 | 风险 低
+- CZ 13M Followers | 质量 71.74 | 可交易性 100.00 | 风险 低
+- Rolex S.A. | 质量 70.64 | 可交易性 99.64 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged GIRAFFE Token Launch | 风险 42.03 | 原因：流动性偏薄
-- Alleged SpaceXSAI Token | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon Musk Retweets Grok Integration | 风险 47.79 | 原因：流动性偏薄
+- Baton Pass | 风险 41.54 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,10 +105,10 @@
 - 西八姐姐 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CAT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - pancakes | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- CAPYBARA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BORDR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- FRENS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ALT-COIN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SCraft | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- FRENS | Solana | 看多 | 新鲜度 95.88 | 暂无直接叙事映射
-- MJ | BSC | 看多 | 新鲜度 86.61 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：EVERNORTHXRP（Solana，分数 87.65）
-2. 共振最强代币：RAY（Solana，共振 100.0）
-3. 记忆层变化：EVERNORTHXRP 当前为“新出现”
+1. 当前最强叙事：Xpress Bridge Currency（Solana，分数 89.85）
+2. 共振最强代币：TRUMP（Solana，共振 100.0）
+3. 记忆层变化：Xpress Bridge Currency 当前为“新出现”
 4. 最新官方催化：Trade Futures & Win: Complete Tasks to Share 200 BNB in Rewards!
 #Binance #NarrativeOS #OpenClaw
