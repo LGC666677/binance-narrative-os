@@ -1,113 +1,116 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-10T17:59:12.628442+00:00
+- 生成时间：2026-10-10T21:08:00.519103+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 terry Questions 30k No Cashback，所在链为 Solana，叙事强度 89.94。
-- 当前平均叙事强度为 83.84，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 terry Questions 30k No Cashback 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 币安金标，伪叙事风险 40.99。
+- 当前最强叙事是 CZ's Silent Tweet，所在链为 BSC，叙事强度 89.88。
+- 当前平均叙事强度为 80.44，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 记忆层显示 CZ's Silent Tweet 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Instinct AI，伪叙事风险 56.45。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-10-09)。
 
 ## 叙事雷达
 
-- terry Questions 30k No Cashback | Solana | 加速中 | 强度 89.94 | 质量 82.08
-  - 主题摘要：According to ulke12's post, the author shared a Meme image analyzing patterns related to the Altai token, asserting it represents 'Altai' rather than 'tschuna'. This information i…
-  - 资金 100.00 / 广度 95.65 / 确认 24.48 / 脆弱性 14.00
+- CZ's Silent Tweet | BSC | 加速中 | 强度 89.88 | 质量 84.02
+  - 主题摘要：Binance founder CZ posted a URL without any accompanying text, sparking speculation and silence in the crypto community.
+  - 资金 100.00 / 广度 100.00 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- crispy advocates classical meme fundamentals | Solana | 降温中 | 强度 86.31 | 质量 76.95
-  - 主题摘要：According to crispy's post, the author argues that quantum narratives are distant and that the market is succumbing to FUD. crispy emphasizes the need to return to fundamentals in…
-  - 资金 100.00 / 广度 89.64 / 确认 9.36 / 脆弱性 14.00
+- CZ's Maotai Yellow Raincoat | BSC | 加速中 | 强度 89.71 | 质量 84.02
+  - 主题摘要：CZ转发并点赞了关于Binance将推出印有'Exchange The World'标语的黄色雨衣和T恤的推文，引发了社区对这款'茅台黄'配色的热烈讨论。这种独特的视觉符号结合了Binance的品牌色与中国白酒文化中的'茅台黄'，具有极高的辨识度和传播潜力。
+  - 资金 100.00 / 广度 100.00 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Hiruzen Claims Peepers Guy Onboarding | Solana | 降温中 | 强度 84.03 | 质量 72.84
+  - 主题摘要：According to Hiruzen's post, Hiruzen claims to have successfully onboarded the individual known as the 'Peepers Guy' from Instagram, asserting the legitimacy of this connection wi…
+  - 资金 100.00 / 广度 78.99 / 确认 15.84 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bald Frank Ashford | Solana | 加速中 | 强度 84.78 | 质量 75.56
-  - 主题摘要：Multiple tokens named 「BFA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.08 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- ❤️ | BSC | 降温中 | 强度 84.72 | 质量 76.70
+- him on Crypto Pattern Symmetry | Solana | 降温中 | 强度 83.78 | 质量 73.44
+  - 主题摘要：According to him's post, he argues that as the pattern of identifying 'the next X' becomes more established and symmetric, its potential payout decreases. He claims that widesprea…
+  - 资金 100.00 / 广度 81.10 / 确认 5.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Super Intelligence SI276 | Solana | 降温中 | 强度 82.08 | 质量 71.26
+  - 主题摘要：Multiple tokens named 「SI276」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.83 / 确认 5.04 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- ❤️ | BSC | 降温中 | 强度 81.83 | 质量 74.10
   - 主题摘要：Yi He published a social media post containing a Meme image composed of emoji symbols. The post lacks textual context or specific narrative details.
-  - 资金 100.00 / 广度 96.53 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 96.46 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 宁德时代 | Solana | 降温中 | 强度 84.30 | 质量 74.20
-  - 主题摘要：Multiple tokens named 「CATL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.36 / 确认 12.24 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jean phil's wife | Solana | 降温中 | 强度 81.62 | 质量 73.94
-  - 主题摘要：brigitte token draws inspiration from the character of Jean Phil's wife, as depicted in the logo featuring a blonde-haired woman with glasses. The token appears to reference a fic…
-  - 资金 100.00 / 广度 74.31 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Quantum Inu Meme Image | Solana | 降温中 | 强度 81.32 | 质量 68.85
-  - 主题摘要：According to dinger's post, the author shared a Meme image regarding Quantum Inu (QI), commenting on its low valuation and lack of rewards. The post references a comparison with p…
-  - 资金 100.00 / 广度 78.84 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Claude | Solana | 降温中 | 强度 81.30 | 质量 69.86
-  - 主题摘要：Multiple tokens named 「Claude AI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.16 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Cyberleek Meme Coin | Solana | 降温中 | 强度 81.16 | 质量 70.92
-  - 主题摘要：According to Dexerto's post, the leaker known as Cyberleek has threatened to release a complete, playable build of GTA 6 that can be finished from start to finish. This threat is…
-  - 资金 100.00 / 广度 69.53 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Cedric Returns to Flap | BSC | 降温中 | 强度 80.18 | 质量 75.88
+- Cedric Returns to Flap | BSC | 降温中 | 强度 80.72 | 质量 74.88
   - 主题摘要：According to Cedric 🦋's post, the author announces a return to the Flap project, stating, "Back to Flap. Time to cook." This indicates a renewed focus or activity within the Flap…
-  - 资金 100.00 / 广度 84.48 / 确认 11.52 / 脆弱性 24.00
+  - 资金 100.00 / 广度 84.46 / 确认 11.52 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Man | BSC | 加速中 | 强度 77.42 | 质量 70.85
+- Instinct AI | Solana | 点火期 | 强度 80.10 | 质量 76.35
+  - 主题摘要：Multiple tokens named 「Instinct」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.79 / 确认 5.04 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance Man | BSC | 加速中 | 强度 79.48 | 质量 71.01
   - 主题摘要：Multiple tokens named 「币安人」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.03 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.21 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 草根崛起 | BSC | 降温中 | 强度 75.71 | 质量 61.47
-  - 主题摘要：GR (草根崛起) emerged as a community-driven token representing grassroots empowerment in cryptocurrency. The logo features a golden coin with 'GR' text against a digital background, s…
-  - 资金 100.00 / 广度 74.24 / 确认 16.56 / 脆弱性 14.00
+- Superman Comments on Alon's Reward Mechanism | Solana | 降温中 | 强度 75.41 | 质量 62.38
+  - 主题摘要：According to Superman's post, Alon is adjusting the Callout Rewards program to reduce incentives for low-cap tokens and shift focus from volume to follower profitability. Superman…
+  - 资金 100.00 / 广度 79.50 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 币安金标 | BSC | 降温中 | 强度 74.45 | 质量 69.69
+- 币安金标 | BSC | 降温中 | 强度 74.69 | 质量 69.74
   - 主题摘要：币安金标 (Jinbiao) is a community-driven token inspired by the Chinese character '金' (gold), symbolizing wealth and prosperity. It aims to empower users through decentralized finance…
-  - 资金 100.00 / 广度 65.44 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 65.59 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- MEME人生 | BSC | 加速中 | 强度 73.90 | 质量 62.16
-  - 主题摘要：Multiple tokens named 「MEME人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.62 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 草根崛起 | BSC | 降温中 | 强度 73.93 | 质量 61.43
+  - 主题摘要：GR (草根崛起) emerged as a community-driven token representing grassroots empowerment in cryptocurrency. The logo features a golden coin with 'GR' text against a digital background, s…
+  - 资金 100.00 / 广度 74.30 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- SKYC | BSC | 降温中 | 强度 73.26 | 质量 57.78
+  - 主题摘要：Multiple tokens named 「SKYC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.31 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Picasso Predicted X Rebrand | Solana | 点火期 | 强度 70.66 | 质量 66.45
+  - 主题摘要：According to Mridul Singhai's post, Picasso's 1928 artwork is claimed to have predicted the rebranding of the platform @X. This observation draws a parallel between historical art…
+  - 资金 100.00 / 广度 81.16 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.84，其中已确认叙事 0 个。
-- terry Questions 30k No Cashback 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- crispy advocates classical meme fundamentals 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.44，其中已确认叙事 0 个。
+- CZ's Silent Tweet 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Hiruzen Claims Peepers Guy Onboarding 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- terry Questions 30k No Cashback | 质量 82.08 | 可交易性 100.00 | 风险 低
-- crispy advocates classical meme fundamentals | 质量 76.95 | 可交易性 100.00 | 风险 低
-- ❤️ | 质量 76.70 | 可交易性 100.00 | 风险 低
-- Cedric Returns to Flap | 质量 75.88 | 可交易性 100.00 | 风险 低
-- Bald Frank Ashford | 质量 75.56 | 可交易性 100.00 | 风险 低
-- 宁德时代 | 质量 74.20 | 可交易性 100.00 | 风险 低
-- Jean phil's wife | 质量 73.94 | 可交易性 100.00 | 风险 低
-- Alleged Cyberleek Meme Coin | 质量 70.92 | 可交易性 100.00 | 风险 低
-- Binance Man | 质量 70.85 | 可交易性 81.20 | 风险 低
-- Claude | 质量 69.86 | 可交易性 100.00 | 风险 低
+- CZ's Silent Tweet | 质量 84.02 | 可交易性 100.00 | 风险 低
+- CZ's Maotai Yellow Raincoat | 质量 84.02 | 可交易性 100.00 | 风险 低
+- Instinct AI | 质量 76.35 | 可交易性 100.00 | 风险 低
+- Cedric Returns to Flap | 质量 74.88 | 可交易性 98.54 | 风险 低
+- ❤️ | 质量 74.10 | 可交易性 100.00 | 风险 低
+- him on Crypto Pattern Symmetry | 质量 73.44 | 可交易性 100.00 | 风险 低
+- Hiruzen Claims Peepers Guy Onboarding | 质量 72.84 | 可交易性 92.19 | 风险 低
+- Super Intelligence SI276 | 质量 71.26 | 可交易性 100.00 | 风险 低
+- Binance Man | 质量 71.01 | 可交易性 81.54 | 风险 低
+- 币安金标 | 质量 69.74 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- Instinct AI | 风险 56.45 | 原因：流动性偏薄、近 1 小时净流入转负
+- Picasso Predicted X Rebrand | 风险 47.79 | 原因：流动性偏薄
+- ❤️ | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - 币安金标 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
+- SAFU | BSC | 看多 | 新鲜度 100.00 | CZ's Silent Tweet / CZ's Maotai Yellow Raincoat
+- SAFU | BSC | 看多 | 新鲜度 100.00 | CZ's Silent Tweet / CZ's Maotai Yellow Raincoat
 - HEALTHCOIN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CRAZYCOIN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 奶蛙 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Altai | Solana | 看多 | 新鲜度 100.00 | terry Questions 30k No Cashback
+- Altai | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Altai  | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Tschuna | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Tschuna | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SIB | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Jef | Solana | 看多 | 新鲜度 92.73 | 暂无直接叙事映射
-- Pepper | Solana | 看多 | 新鲜度 88.28 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：terry Questions 30k No Cashback（Solana，分数 89.94）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：terry Questions 30k No Cashback 当前为“新出现”
+1. 当前最强叙事：CZ's Silent Tweet（BSC，分数 89.88）
+2. 共振最强代币：STONK（Solana，共振 100.0）
+3. 记忆层变化：CZ's Silent Tweet 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-10-09)
 #Binance #NarrativeOS #OpenClaw
