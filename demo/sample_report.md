@@ -1,111 +1,113 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-12T20:20:14.607585+00:00
+- 生成时间：2026-10-13T02:07:07.912335+00:00
 - 跟踪叙事：14
-- 已确认叙事：2
+- 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Binance Official，所在链为 BSC，叙事强度 87.2。
-- 当前平均叙事强度为 84.95，其中已确认叙事 2 个。
-- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Binance Official 当前处于“新出现”状态。
+- 当前最强叙事是 Extract，所在链为 Solana，叙事强度 87.31。
+- 当前平均叙事强度为 81.99，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 Extract 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Uncertain:Yi He on Industry Bellwether Effect，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Community Voice: Share Binance AI Feedback and Share 500 USDC!。
 
 ## 叙事雷达
 
-- Binance Official | BSC | 加速中 | 强度 87.20 | 质量 82.67
-  - 主题摘要：The post contains only a URL link with no accompanying text or image, making it impossible to extract specific meme-worthy themes or narratives.
-  - 资金 100.00 / 广度 98.68 / 确认 23.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Day 17: LLM Suspicion | BSC | 已确认 | 强度 86.41 | 质量 81.50
-  - 主题摘要：Binance continues its '100 Days of AI' series, highlighting the humorous and slightly eerie behavior of Large Language Models when they express suspicion. This taps into the curre…
-  - 资金 100.00 / 广度 89.39 / 确认 30.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance Cute Kaomoji | BSC | 已确认 | 强度 86.09 | 质量 81.54
-  - 主题摘要：Binance官方账号发布了一个可爱的颜文字表情，未附带具体文字说明或重大新闻。这种日常互动内容缺乏实质性的市场驱动因素或强烈的叙事张力。
-  - 资金 100.00 / 广度 89.52 / 确认 30.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Binance: Day 629, Oops! | BSC | 加速中 | 强度 85.89 | 质量 81.35
-  - 主题摘要：Binance官方账号发布推文庆祝成立629天，但配文“这下坏了”及无奈表情暗示市场波动或运营小插曲，这种官方自嘲形成了强烈的反差幽默。
-  - 资金 100.00 / 广度 94.28 / 确认 23.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Listen to Elon | Solana | 降温中 | 强度 85.67 | 质量 76.13
-  - 主题摘要：The tweet amplifies Elon Musk's voice by urging followers to heed his words, leveraging his celebrity status and polarizing influence. It taps into the cultural phenomenon of 'Elo…
-  - 资金 100.00 / 广度 90.08 / 确认 5.04 / 脆弱性 14.00
+- Extract | Solana | 降温中 | 强度 87.31 | 质量 76.45
+  - 主题摘要：Multiple tokens named 「XRC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.96 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ: Don't Copy, Innovate | BSC | 加速中 | 强度 85.58 | 质量 80.82
-  - 主题摘要：Binance CEO CZ shares a philosophical quote about avoiding mediocrity by focusing on originality rather than obsessing over competitors. This resonates with crypto natives who val…
-  - 资金 100.00 / 广度 95.14 / 确认 19.44 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Global Oil Institution Fund | Solana | 降温中 | 强度 84.12 | 质量 72.61
-  - 主题摘要：Multiple tokens named 「GOIF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.18 / 确认 9.36 / 脆弱性 0.00
+- Tesla Super Intelligence | Solana | 降温中 | 强度 86.61 | 质量 77.43
+  - 主题摘要：TESLA SI draws inspiration from Elon Musk's vision of artificial intelligence, featuring the iconic Tesla logo on a red background. The token aims to connect AI enthusiasts with T…
+  - 资金 100.00 / 广度 91.23 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Korean Political Meme Image | BSC | 加速中 | 强度 83.25 | 质量 80.59
-  - 主题摘要：According to Lifan's post, a new political Meme image has emerged in South Korea, associated with President Lee Jae-myung and his supporters known as 'Parangi'. The image is repor…
-  - 资金 100.00 / 广度 91.22 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- QQ:945497833 | BSC | 降温中 | 强度 83.16 | 质量 74.86
-  - 主题摘要：Binance Angels (QQ:945497833) is a meme token inspired by the popular QQ chat platform. It aims to create a community-driven ecosystem where users can engage through memes and soc…
-  - 资金 100.00 / 广度 82.66 / 确认 9.36 / 脆弱性 14.00
+- Terafab: Musk's New Economy | BSC | 降温中 | 强度 84.14 | 质量 76.52
+  - 主题摘要：Elon Musk promotes his Terafab project, claiming its output value will rival the GDP of top countries. This ambitious vision blends industrial scale with economic dominance, creat…
+  - 资金 100.00 / 广度 85.55 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- He Yi Slams Yue Buqun-style Clout Chasing | BSC | 加速中 | 强度 81.99 | 质量 82.20
+- Uncertain:Yi He on Industry Bellwether Effect | BSC | 降温中 | 强度 82.34 | 质量 77.77
+  - 主题摘要：Yi He criticized Twitter for exploiting CZ's divorce rumors to damage his reputation, alleging that legal teams use compliance as a shield. She questioned the ethics of such tacti…
+  - 资金 100.00 / 广度 92.37 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- He Yi Slams Yue Buqun-style Clout Chasing | BSC | 加速中 | 强度 82.34 | 质量 83.18
   - 主题摘要：Binance Co-CEO Yi He publicly rebuts a critic, comparing their behavior to the hypocritical martial artist Yue Buqun from Jin Yong's novels. She criticizes the practice of 'touchi…
-  - 资金 100.00 / 广度 99.21 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 99.83 / 确认 23.76 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- XRPN | Solana | 降温中 | 强度 81.71 | 质量 70.30
-  - 主题摘要：Multiple tokens named 「EVERNORTHX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.47 / 确认 9.36 / 脆弱性 0.00
+- CZ Eyes Love | BSC | 加速中 | 强度 82.30 | 质量 83.16
+  - 主题摘要：Binance CEO CZ responds with heart eyes to a claim about bribery attempts against Binance, reinforcing the platform's image of loyalty and security. This interaction highlights th…
+  - 资金 100.00 / 广度 99.76 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance Official | BSC | 加速中 | 强度 82.23 | 质量 83.52
+  - 主题摘要：The post contains only a URL link with no accompanying text or image, making it impossible to extract specific meme-worthy themes or narratives.
+  - 资金 100.00 / 广度 98.32 / 确认 27.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He Thanks | BSC | 加速中 | 强度 81.86 | 质量 82.64
+  - 主题摘要：Binance Co-CEO Yi He replies with a salute emoji to a post celebrating Binance's massive user base, reinforcing the platform's community trust and leadership in the crypto space.
+  - 资金 100.00 / 广度 98.03 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Korean Political Meme Image | BSC | 加速中 | 强度 81.51 | 质量 80.65
+  - 主题摘要：According to Lifan's post, a new political Meme image has emerged in South Korea, associated with President Lee Jae-myung and his supporters known as 'Parangi'. The image is repor…
+  - 资金 100.00 / 广度 91.41 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Binance: Day 629, Oops! | BSC | 加速中 | 强度 80.52 | 质量 81.58
+  - 主题摘要：Binance官方账号发布推文庆祝成立629天，但配文“这下坏了”及无奈表情暗示市场波动或运营小插曲，这种官方自嘲形成了强烈的反差幽默。
+  - 资金 100.00 / 广度 94.52 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- I_getsjiggy Shares Normie Meme | Solana | 降温中 | 强度 80.22 | 质量 69.39
+  - 主题摘要：According to I_getsjiggy's post, the user shared a Meme image depicting the concept of a "Normie," expressing readiness to distribute or circulate it. The post references the term…
+  - 资金 100.00 / 广度 64.43 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Coinputer | Solana | 降温中 | 强度 81.70 | 质量 74.15
-  - 主题摘要：Multiple tokens named 「COINPUTER」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.47 / 确认 5.04 / 脆弱性 14.00
+- Doji: Market Shift to Extreme Fear | Solana | 降温中 | 强度 79.84 | 质量 70.15
+  - 主题摘要：According to Doji's post, the cryptocurrency market has experienced a significant shift in sentiment, moving from a 'super cycle' phase to a state of 'extreme fear'.
+  - 资金 100.00 / 广度 80.74 / 确认 12.24 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- batona | Solana | 降温中 | 强度 81.41 | 质量 74.02
-  - 主题摘要：According to d's post, the BATONA Meme image depicting a dog holding a baton does not appear female as expected, noting the absence of hair.
-  - 资金 100.00 / 广度 89.16 / 确认 12.96 / 脆弱性 24.00
+- Alleged Markodex Meme Image | Solana | 降温中 | 强度 79.10 | 质量 67.26
+  - 主题摘要：According to Cannis Dingo's post, the author discusses a Meme image related to 'Markodex' and 'Normie', suggesting it targets mainstream audiences. The post references a Pump.fun…
+  - 资金 100.00 / 广度 73.27 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Depth | Solana | 降温中 | 强度 79.24 | 质量 72.02
-  - 主题摘要：Multiple tokens named 「DEPTH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.38 / 确认 5.04 / 脆弱性 14.00
+- Alleged Rink Boid Token | Solana | 降温中 | 强度 78.87 | 质量 66.96
+  - 主题摘要：According to Cici's post, the name 'Rink Boid' appears on billings, potentially linking to a token with this name. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 73.27 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 84.95，其中已确认叙事 2 个。
-- Binance Official 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Listen to Elon 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.99，其中已确认叙事 0 个。
+- CZ Eyes Love 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- Extract 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Binance Official | 质量 82.67 | 可交易性 100.00 | 风险 低
-- He Yi Slams Yue Buqun-style Clout Chasing | 质量 82.20 | 可交易性 100.00 | 风险 低
-- Binance Cute Kaomoji | 质量 81.54 | 可交易性 100.00 | 风险 低
-- Day 17: LLM Suspicion | 质量 81.50 | 可交易性 100.00 | 风险 低
-- Binance: Day 629, Oops! | 质量 81.35 | 可交易性 100.00 | 风险 低
-- CZ: Don't Copy, Innovate | 质量 80.82 | 可交易性 100.00 | 风险 低
-- Alleged Korean Political Meme Image | 质量 80.59 | 可交易性 100.00 | 风险 低
-- Listen to Elon | 质量 76.13 | 可交易性 100.00 | 风险 低
-- QQ:945497833 | 质量 74.86 | 可交易性 100.00 | 风险 低
-- Coinputer | 质量 74.15 | 可交易性 100.00 | 风险 低
+- Binance Official | 质量 83.52 | 可交易性 100.00 | 风险 低
+- He Yi Slams Yue Buqun-style Clout Chasing | 质量 83.18 | 可交易性 100.00 | 风险 低
+- CZ Eyes Love | 质量 83.16 | 可交易性 100.00 | 风险 低
+- Yi He Thanks | 质量 82.64 | 可交易性 100.00 | 风险 低
+- Binance: Day 629, Oops! | 质量 81.58 | 可交易性 100.00 | 风险 低
+- Alleged Korean Political Meme Image | 质量 80.65 | 可交易性 100.00 | 风险 低
+- Uncertain:Yi He on Industry Bellwether Effect | 质量 77.77 | 可交易性 100.00 | 风险 低
+- Tesla Super Intelligence | 质量 77.43 | 可交易性 100.00 | 风险 低
+- Terafab: Musk's New Economy | 质量 76.52 | 可交易性 100.00 | 风险 低
+- Extract | 质量 76.45 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- Uncertain:Yi He on Industry Bellwether Effect | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
-- OKT | BSC | 看多 | 新鲜度 100.00 | He Yi Slams Yue Buqun-style Clout Chasing
-- okt | BSC | 看多 | 新鲜度 100.00 | He Yi Slams Yue Buqun-style Clout Chasing
+- OKT | BSC | 看多 | 新鲜度 100.00 | He Yi Slams Yue Buqun-style Clout Chasing / CZ Eyes Love
+- okt | BSC | 看多 | 新鲜度 100.00 | He Yi Slams Yue Buqun-style Clout Chasing / CZ Eyes Love / Yi He Thanks
 - 파랭이 | BSC | 看多 | 新鲜度 100.00 | Alleged Korean Political Meme Image
 - SAFU | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SAFU | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- XTV | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Monke | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - LOAD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- MarsX | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- casino | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Larp | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- OKT | BSC | 看多 | 新鲜度 94.00 | He Yi Slams Yue Buqun-style Clout Chasing
+- OKT | BSC | 看多 | 新鲜度 94.00 | He Yi Slams Yue Buqun-style Clout Chasing / CZ Eyes Love / Yi He Thanks
+- BLOHARD | Base | 看多 | 新鲜度 73.40 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Binance Official（BSC，分数 87.2）
-2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Binance Official 当前为“新出现”
+1. 当前最强叙事：Extract（Solana，分数 87.31）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：Extract 当前为“新出现”
 4. 最新官方催化：Community Voice: Share Binance AI Feedback and Share 500 USDC!
 #Binance #NarrativeOS #OpenClaw
