@@ -1,116 +1,111 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-13T21:48:48.423175+00:00
+- 生成时间：2026-10-14T00:39:35.791212+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Musk on China Scale，所在链为 BSC，叙事强度 85.31。
-- 当前平均叙事强度为 80.57，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Musk on China Scale 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged US Treasury Coin for Charlie Kirk，伪叙事风险 51.25。
+- 当前最强叙事是 Binance: Day 629, Oops!，所在链为 BSC，叙事强度 84.79。
+- 当前平均叙事强度为 81.32，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 JUP，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged Taylor Token 当前处于“新出现”状态。
 - 最新官方催化来自 币安最新公告：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-16)。
 
 ## 叙事雷达
 
-- Musk on China Scale | BSC | 降温中 | 强度 85.31 | 质量 76.03
-  - 主题摘要：Elon Musk comments on the rapid scaling capability of Chinese manufacturing after CXMT's progress in DRAM technology, highlighting the global impact of China's industrial capacity.
-  - 资金 100.00 / 广度 83.91 / 确认 13.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance: Day 629, Oops! | BSC | 加速中 | 强度 85.10 | 质量 81.06
+- Binance: Day 629, Oops! | BSC | 加速中 | 强度 84.79 | 质量 81.68
   - 主题摘要：Binance官方账号发布推文庆祝成立629天，但配文“这下坏了”及无奈表情暗示市场波动或运营小插曲，这种官方自嘲形成了强烈的反差幽默。
-  - 资金 100.00 / 广度 92.79 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 92.21 / 确认 27.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- No Crying In The Casino | BSC | 降温中 | 强度 84.55 | 质量 74.99
-  - 主题摘要：Elon Musk comments on Broadcom CEO Hock Tan's warning about AI investors betting like they are in a casino by replying with the iconic movie quote 'No crying in the casino'.
-  - 资金 100.00 / 广度 83.40 / 确认 13.00 / 脆弱性 14.00
+- Alleged Taylor Token | Solana | 降温中 | 强度 84.46 | 质量 74.24
+  - 主题摘要：According to Faruk Bilgic's post, the viral seal named Taylor was identified. This has led to the emergence of tokens named Taylor, such as The Swiftie Era. This information is un…
+  - 资金 100.00 / 广度 80.59 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- The Best Part: Binancians | BSC | 加速中 | 强度 84.04 | 质量 84.05
-  - 主题摘要：Binance officially celebrates its community by calling them 'binancians,' highlighting the strong bond between the exchange and its users. This term has become a cultural icon wit…
-  - 资金 100.00 / 广度 100.00 / 确认 27.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CocaCola | Solana | 降温中 | 强度 83.31 | 质量 71.25
-  - 主题摘要：Multiple tokens named 「CocaCola」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.82 / 确认 5.04 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- OpenAI | Solana | 降温中 | 强度 82.22 | 质量 70.98
-  - 主题摘要：Multiple tokens named 「OpenAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.73 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Tesla Super Intelligence | Solana | 降温中 | 强度 82.03 | 质量 71.32
-  - 主题摘要：Multiple tokens named 「TESLA SI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.04 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Douyin Blogger Creates AI Cyber Girlfriend | BSC | 降温中 | 强度 79.15 | 质量 74.79
-  - 主题摘要：According to ying's post, a Douyin blogger demonstrated an AI cyber girlfriend created using Codex, enabling real-time dialogue and interactive features. The live stream attracted…
-  - 资金 100.00 / 广度 89.36 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump on Guilfoyle Resignation | Solana | 降温中 | 强度 78.24 | 质量 69.42
-  - 主题摘要：According to Fox News's post, President Trump addressed Kimberly Guilfoyle's resignation as U.S. ambassador to Greece, stating she was performing well but he disagreed with her wr…
-  - 资金 100.00 / 广度 67.70 / 确认 5.04 / 脆弱性 14.85
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Terafab: Musk's New Economy | BSC | 点火期 | 强度 77.71 | 质量 74.67
+- Terafab: Musk's New Economy | BSC | 加速中 | 强度 82.28 | 质量 78.73
   - 主题摘要：Elon Musk promotes his Terafab project, claiming its output value will rival the GDP of top countries. This ambitious vision blends industrial scale with economic dominance, creat…
-  - 资金 100.00 / 广度 88.06 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Floyd Meme Coin | Solana | 加速中 | 强度 75.65 | 质量 66.89
-  - 主题摘要：According to Justin Boozer's post, the FLOYD token is experiencing significant price increases, with multiple trading pairs emerging. Boozer specifically highlights a George Floyd…
-  - 资金 100.00 / 广度 83.71 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.64 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Robot Closes US Stock Market | BSC | 降温中 | 强度 75.56 | 质量 65.81
-  - 主题摘要：According to Evan's post, a robot has closed the US stock market from the Nasdaq exchange. Concurrently, a token named NASBOT is referenced. This information is unverified. Please…
-  - 资金 100.00 / 广度 73.90 / 确认 5.04 / 脆弱性 14.00
+- The Best Part: Binancians | BSC | 加速中 | 强度 81.97 | 质量 82.46
+  - 主题摘要：Binance officially celebrates its community by calling them 'binancians,' highlighting the strong bond between the exchange and its users. This term has become a cultural icon wit…
+  - 资金 99.58 / 广度 100.00 / 确认 20.28 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- max pain | Solana | 加速中 | 强度 81.64 | 质量 74.45
+  - 主题摘要：Maxpain token draws from crypto's self-deprecating humor, inspired by the meme 'I am ALIVE (but dead inside).' It spreads via X crypto communities, especially Pump.fun traders and…
+  - 资金 100.00 / 广度 70.75 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Musk on China Scale | BSC | 降温中 | 强度 81.57 | 质量 76.15
+  - 主题摘要：Elon Musk comments on the rapid scaling capability of Chinese manufacturing after CXMT's progress in DRAM technology, highlighting the global impact of China's industrial capacity.
+  - 资金 100.00 / 广度 84.29 / 确认 13.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Comments on bStocks | BSC | 点火期 | 强度 73.13 | 质量 70.62
-  - 主题摘要：Binance Co-CEO Yi He responds to claims about bStocks' success with a confident "Talk is cheap, show me the date," challenging the narrative with data. This assertive tone resonat…
-  - 资金 100.00 / 广度 89.43 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged US Treasury Coin for Charlie Kirk | Solana | 点火期 | 强度 73.00 | 质量 70.60
-  - 主题摘要：According to Mario's post, the US Treasury announced that a coin named after Charlie Kirk will be issued, with proceeds sent to his charity. The post highlights viral memes using…
-  - 资金 78.20 / 广度 85.70 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- No Crying In The Casino | BSC | 降温中 | 强度 80.54 | 质量 74.60
+  - 主题摘要：Elon Musk comments on Broadcom CEO Hock Tan's warning about AI investors betting like they are in a casino by replying with the iconic movie quote 'No crying in the casino'.
+  - 资金 100.00 / 广度 84.08 / 确认 13.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- jdm Proposes Cashback Suggestion | Solana | 降温中 | 强度 79.50 | 质量 69.40
+  - 主题摘要：According to jdm's post, the user suggests implementing a cashback mechanism. The post is brief and does not provide specific details regarding the context, platform, or associate…
+  - 资金 100.00 / 广度 77.98 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Douyin Blogger Creates AI Cyber Girlfriend | BSC | 降温中 | 强度 79.32 | 质量 73.62
+  - 主题摘要：According to ying's post, a Douyin blogger demonstrated an AI cyber girlfriend created within Codex, featuring real-time dialogue via Codex Live. The blogger is currently livestre…
+  - 资金 100.00 / 广度 89.17 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- fPad | Solana | 降温中 | 强度 79.30 | 质量 66.85
+  - 主题摘要：Multiple tokens named 「FPAD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 59.14 / 确认 5.04 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Cedric Returns to Flap | BSC | 已确认 | 强度 78.80 | 质量 66.90
+  - 主题摘要：According to Cedric 🦋's post, he announced his return to the Flap project, stating that it is time to cook.
+  - 资金 100.00 / 广度 81.51 / 确认 35.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- RealLeek | Solana | 加速中 | 强度 77.46 | 质量 63.69
+  - 主题摘要：Multiple tokens named 「REALLEEK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 67.67 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged $SHH Meme Coin Launch | Solana | 降温中 | 强度 77.14 | 质量 77.64
+  - 主题摘要：According to ZaZa by Claude's post, a quoted tweet discusses the launch of $SHH, described as a 'veil ghost' mascot for the VEIL privacy layer on Solana. The post includes a Meme…
+  - 资金 100.00 / 广度 86.65 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- United States Dividend Reserve | Solana | 降温中 | 强度 76.52 | 质量 64.55
+  - 主题摘要：USDR token draws inspiration from the United States Dividend Reserve concept, featuring a logo that mimics official government imagery with American flag elements. The token aims…
+  - 资金 100.00 / 广度 51.48 / 确认 5.04 / 脆弱性 8.63
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 80.57，其中已确认叙事 0 个。
-- Alleged Floyd Meme Coin 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Musk on China Scale 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 81.32，其中已确认叙事 1 个。
+- max pain 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Taylor Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- The Best Part: Binancians | 质量 84.05 | 可交易性 100.00 | 风险 低
-- Binance: Day 629, Oops! | 质量 81.06 | 可交易性 100.00 | 风险 低
-- Musk on China Scale | 质量 76.03 | 可交易性 100.00 | 风险 低
-- No Crying In The Casino | 质量 74.99 | 可交易性 97.03 | 风险 低
-- Douyin Blogger Creates AI Cyber Girlfriend | 质量 74.79 | 可交易性 100.00 | 风险 低
-- Terafab: Musk's New Economy | 质量 74.67 | 可交易性 99.11 | 风险 低
-- Tesla Super Intelligence | 质量 71.32 | 可交易性 100.00 | 风险 低
-- CocaCola | 质量 71.25 | 可交易性 100.00 | 风险 低
-- OpenAI | 质量 70.98 | 可交易性 100.00 | 风险 低
-- Yi He Comments on bStocks | 质量 70.62 | 可交易性 100.00 | 风险 低
+- The Best Part: Binancians | 质量 82.46 | 可交易性 100.00 | 风险 低
+- Binance: Day 629, Oops! | 质量 81.68 | 可交易性 100.00 | 风险 低
+- Terafab: Musk's New Economy | 质量 78.73 | 可交易性 100.00 | 风险 低
+- Alleged $SHH Meme Coin Launch | 质量 77.64 | 可交易性 100.00 | 风险 低
+- Musk on China Scale | 质量 76.15 | 可交易性 100.00 | 风险 低
+- No Crying In The Casino | 质量 74.60 | 可交易性 95.06 | 风险 低
+- max pain | 质量 74.45 | 可交易性 100.00 | 风险 低
+- Alleged Taylor Token | 质量 74.24 | 可交易性 100.00 | 风险 低
+- Douyin Blogger Creates AI Cyber Girlfriend | 质量 73.62 | 可交易性 100.00 | 风险 低
+- jdm Proposes Cashback Suggestion | 质量 69.40 | 可交易性 86.49 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged US Treasury Coin for Charlie Kirk | 风险 51.25 | 原因：流动性偏薄
-- Terafab: Musk's New Economy | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Yi He Comments on bStocks | 风险 42.03 | 原因：流动性偏薄
-- Douyin Blogger Creates AI Cyber Girlfriend | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - 币安理论 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BIBI | BSC | 看多 | 新鲜度 100.00 | Binance: Day 629, Oops!
 - binancians | BSC | 看多 | 新鲜度 100.00 | The Best Part: Binancians
 - OKT | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - okt | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 파랭이 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- TXGYM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Pedro | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SEALS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MIKAN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- MIKAN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Altai | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- NAUTO | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +131,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Musk on China Scale（BSC，分数 85.31）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Musk on China Scale 当前为“新出现”
+1. 当前最强叙事：Binance: Day 629, Oops!（BSC，分数 84.79）
+2. 共振最强代币：JUP（Solana，共振 100.0）
+3. 记忆层变化：Alleged Taylor Token 当前为“新出现”
 4. 最新官方催化：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-16)
 #Binance #NarrativeOS #OpenClaw
