@@ -1,103 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-15T00:37:05.550504+00:00
+- 生成时间：2026-10-15T05:07:36.466792+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged AMUR Token Linked to Tiger Attack，所在链为 Solana，叙事强度 86.12。
-- 当前平均叙事强度为 79.53，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 CZ's LoL Meaning 当前处于“强化”状态。
-- 当前最需要防止误判的叙事是 HappyHorse Posts Black Shiba Meme Image，伪叙事风险 52.99。
+- 当前最强叙事是 DAWS，所在链为 Solana，叙事强度 85.26。
+- 当前平均叙事强度为 82.81，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
+- 记忆层显示 DAWS 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 CZ's LoL Meaning，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade DGrid AI (DGAI) and Share $200K Worth of Rewards (2026-10-14)。
 
 ## 叙事雷达
 
-- Alleged AMUR Token Linked to Tiger Attack | Solana | 降温中 | 强度 86.12 | 质量 76.64
-  - 主题摘要：Multiple tokens named 「Altai」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.61 / 确认 9.36 / 脆弱性 14.00
+- DAWS | Solana | 降温中 | 强度 85.26 | 质量 72.96
+  - 主题摘要：Multiple tokens named 「DAWS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.33 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of Hatchan Robot Dog Meme Image | BSC | 降温中 | 强度 85.21 | 质量 79.19
-  - 主题摘要：According to NarrativeDevor's post, the author shared a Meme image regarding 'Hatchan,' a robot dog designed to prevent bear attacks in Japan. The post claims this is a new develo…
-  - 资金 100.00 / 广度 94.47 / 确认 12.96 / 脆弱性 14.00
+- fomo promotes trading app | Solana | 降温中 | 强度 85.25 | 质量 77.15
+  - 主题摘要：According to fomo's post, the platform is positioned as a trading application accessible to everyone, encouraging users to learn from top traders. The content highlights the app's…
+  - 资金 100.00 / 广度 91.49 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Neymar Jr. Coin Launch | Solana | 降温中 | 强度 84.11 | 质量 73.48
-  - 主题摘要：According to Whale Insider's post, a potential Neymar Jr. coin launch on Solana has generated discussion among crypto traders. Neymar Jr. is allegedly issuing this token. This inf…
-  - 资金 100.00 / 广度 80.72 / 确认 9.36 / 脆弱性 14.00
+- UNITED DIVIDEND RESERVE | Solana | 降温中 | 强度 84.47 | 质量 72.05
+  - 主题摘要：Multiple tokens named 「UDR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.29 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ's LoL Meaning | BSC | 降温中 | 强度 84.02 | 质量 75.69
-  - 主题摘要：Binance CEO CZ tweets about learning a new meaning for 'LoL' in response to a prediction market post about the League of Legends World Championship. This plays on the double enten…
-  - 资金 100.00 / 广度 85.44 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Rahul Gandhi Insider Claim | Solana | 已确认 | 强度 80.70 | 质量 69.49
-  - 主题摘要：According to .'s post, Rahul Gandhi is alleged to have claimed that 200 government officials within the BJP administration are leaking secret intelligence to him. The post charact…
-  - 资金 100.00 / 广度 77.76 / 确认 31.08 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Neymar Meme Coin Launch | Solana | 降温中 | 强度 80.30 | 质量 67.21
-  - 主题摘要：According to megger's post, Neymar is allegedly launching a memecoin on Solana, with comments suggesting a 'run meme version' of the athlete. This information is unverified. Pleas…
-  - 资金 100.00 / 广度 77.36 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Bordrless | Solana | 降温中 | 强度 79.15 | 质量 65.80
-  - 主题摘要：Multiple tokens named 「BORDR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.94 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Hatchan Token | BSC | 降温中 | 强度 77.01 | 质量 67.02
-  - 主题摘要：According to ashley's post, the name is Hatchan, not Matagi. The post references a website for verification.
-  - 资金 100.00 / 广度 77.00 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Wolfin | Solana | 降温中 | 强度 76.33 | 质量 65.57
-  - 主题摘要：WOLFIN draws inspiration from the iconic Doge meme, featuring a wolf-like figure in classical architecture reminiscent of ancient Greek art. The token embraces a minimalist approa…
-  - 资金 100.00 / 广度 55.63 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Boot Launchpad AI Agent | Solana | 点火期 | 强度 75.47 | 质量 70.37
-  - 主题摘要：According to Boot's post, the platform introduces an AI agent designed to discover and research GitHub projects based on criteria like virality and innovation. The agent facilitat…
-  - 资金 100.00 / 广度 75.34 / 确认 15.84 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- TrumpVsTiger | Solana | 降温中 | 强度 74.04 | 质量 59.03
-  - 主题摘要：Multiple tokens named 「$DN ALT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.77 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- HappyHorse Posts Black Shiba Meme Image | BSC | 点火期 | 强度 73.14 | 质量 72.64
-  - 主题摘要：According to HappyHorse's post, the user introduced a Meme image of the Black Shiba, describing it with features such as a dual-tone ultra-soft coat and an advanced tail-wagging e…
-  - 资金 100.00 / 广度 90.09 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- China Daily: Guangzhou Cat Meimei | BSC | 加速中 | 强度 72.73 | 质量 62.95
-  - 主题摘要：According to China Daily's post, Meimei, an 11-year-old cat from Guangzhou, has become an international internet sensation. Her videos attract millions of views, and fans worldwid…
-  - 资金 100.00 / 广度 77.18 / 确认 20.16 / 脆弱性 14.00
+- nihilism | Solana | 加速中 | 强度 83.27 | 质量 73.10
+  - 主题摘要：Multiple tokens named 「NIHILISM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.99 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Loopy Related Cryptocurrency | BSC | 点火期 | 强度 71.83 | 质量 64.83
-  - 主题摘要：According to 角度之王，龙头先生's post, Loopy (잔망루피) is identified as the most popular trend in South Korea. The post highlights the character's widespread recognition and cultural signifi…
-  - 资金 100.00 / 广度 83.65 / 确认 16.56 / 脆弱性 14.00
+- Elon Musk's Grok Anti-Scam | Solana | 降温中 | 强度 82.03 | 质量 73.91
+  - 主题摘要：Elon Musk highlights Grok's ability to detect scam emails, showcasing the AI's utility and reliability in a real-world scenario. This reinforces the brand's narrative of advanced…
+  - 资金 100.00 / 广度 79.49 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- XPOSE | Solana | 降温中 | 强度 81.96 | 质量 70.00
+  - 主题摘要：XPOSE is born from the trust deficit in crypto trenches, replacing trust with receipts. Inspired by the culture of on-chain transparency and accountability, it taps into the meme…
+  - 资金 100.00 / 广度 78.64 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- World Oil Trust Fund | Solana | 降温中 | 强度 81.23 | 质量 69.75
+  - 主题摘要：Multiple tokens named 「WOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 65.62 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Launch of Hatchan Robot Dog Meme Image | BSC | 点火期 | 强度 80.52 | 质量 79.04
+  - 主题摘要：According to NarrativeDevor's post, the author shared a Meme image regarding 'Hatchan,' a robot dog designed to prevent bear attacks in Japan. The post claims this is a new develo…
+  - 资金 100.00 / 广度 93.97 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Bordrless | Solana | 降温中 | 强度 78.99 | 质量 65.49
+  - 主题摘要：Multiple tokens named 「BORDR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 75.41 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ's LoL Meaning | BSC | 点火期 | 强度 75.96 | 质量 72.06
+  - 主题摘要：Binance CEO CZ tweets about learning a new meaning for 'LoL' in response to a prediction market post about the League of Legends World Championship. This plays on the double enten…
+  - 资金 100.00 / 广度 85.27 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- CZ's Freedom of Money in Tokyo | BSC | 点火期 | 强度 71.33 | 质量 62.20
+  - 主题摘要：CZ announces his book 'Freedom of Money' coming to Japan, referencing his early days building Binance in Tokyo. This blends personal history with crypto success, appealing to fans…
+  - 资金 100.00 / 广度 77.98 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- China Daily: Guangzhou Cat Meimei | BSC | 加速中 | 强度 70.64 | 质量 62.32
+  - 主题摘要：According to China Daily's post, Meimei, an 11-year-old cat from Guangzhou, has become an international internet sensation. Her videos attract millions of views, and fans worldwid…
+  - 资金 100.00 / 广度 77.27 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- NVIDIA Quotes 'Muse Knows' | BSC | 降温中 | 强度 70.39 | 质量 59.11
+  - 主题摘要：According to NVIDIA's post, the official account shared a quoted tweet containing the phrase 'Muse knows' and 'amen muse jensen, amen'. This activity references the token 'musejen…
+  - 资金 100.00 / 广度 79.31 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Baxian Ecosystem Lock-and-Dividend Mechanism | BSC | 降温中 | 强度 69.56 | 质量 54.75
+  - 主题摘要：According to 八仙生态's post, the Baxian ecosystem implements a six-tier lock-up dividend mechanism to reward long-term holders. Higher lock-up tiers yield greater dividend weights, a…
+  - 资金 100.00 / 广度 69.84 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.53，其中已确认叙事 1 个。
-- Rahul Gandhi Insider Claim 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged AMUR Token Linked to Tiger Attack 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.81，其中已确认叙事 0 个。
+- nihilism 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- DAWS 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Launch of Hatchan Robot Dog Meme Image | 质量 79.19 | 可交易性 100.00 | 风险 低
-- Alleged AMUR Token Linked to Tiger Attack | 质量 76.64 | 可交易性 100.00 | 风险 低
-- CZ's LoL Meaning | 质量 75.69 | 可交易性 100.00 | 风险 低
-- Alleged Neymar Jr. Coin Launch | 质量 73.48 | 可交易性 97.34 | 风险 低
-- HappyHorse Posts Black Shiba Meme Image | 质量 72.64 | 可交易性 100.00 | 风险 低
-- Boot Launchpad AI Agent | 质量 70.37 | 可交易性 87.61 | 风险 低
-- Rahul Gandhi Insider Claim | 质量 69.49 | 可交易性 71.07 | 风险 低
-- Alleged Neymar Meme Coin Launch | 质量 67.21 | 可交易性 79.82 | 风险 低
-- Alleged Hatchan Token | 质量 67.02 | 可交易性 79.53 | 风险 低
-- Bordrless | 质量 65.80 | 可交易性 75.53 | 风险 低
+- Alleged Launch of Hatchan Robot Dog Meme Image | 质量 79.04 | 可交易性 100.00 | 风险 低
+- fomo promotes trading app | 质量 77.15 | 可交易性 98.82 | 风险 低
+- Elon Musk's Grok Anti-Scam | 质量 73.91 | 可交易性 100.00 | 风险 低
+- nihilism | 质量 73.10 | 可交易性 92.90 | 风险 低
+- DAWS | 质量 72.96 | 可交易性 100.00 | 风险 低
+- CZ's LoL Meaning | 质量 72.06 | 可交易性 100.00 | 风险 低
+- UNITED DIVIDEND RESERVE | 质量 72.05 | 可交易性 100.00 | 风险 低
+- XPOSE | 质量 70.00 | 可交易性 87.84 | 风险 低
+- World Oil Trust Fund | 质量 69.75 | 可交易性 100.00 | 风险 低
+- Bordrless | 质量 65.49 | 可交易性 76.04 | 风险 低
 
 ## 伪叙事风险
 
-- HappyHorse Posts Black Shiba Meme Image | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Boot Launchpad AI Agent | 风险 47.81 | 原因：流动性偏薄、近 1 小时净流入转负
-- Loopy Related Cryptocurrency | 风险 42.03 | 原因：流动性偏薄
-- TrumpVsTiger | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- CZ's LoL Meaning | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- CZ's Freedom of Money in Tokyo | 风险 47.79 | 原因：流动性偏薄
+- Alleged Launch of Hatchan Robot Dog Meme Image | 风险 44.91 | 原因：流动性偏薄
+- fomo promotes trading app | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- NVIDIA Quotes 'Muse Knows' | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -108,9 +109,9 @@
 - SLOPCORE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Altai | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Catnip | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- UNICORN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BASEPAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - binancians | BSC | 看多 | 新鲜度 97.32 | 暂无直接叙事映射
+- 薄肌理论 | BSC | 看多 | 新鲜度 90.80 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged AMUR Token Linked to Tiger Attack（Solana，分数 86.12）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：CZ's LoL Meaning 当前为“强化”
+1. 当前最强叙事：DAWS（Solana，分数 85.26）
+2. 共振最强代币：STONK（Solana，共振 100.0）
+3. 记忆层变化：DAWS 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade DGrid AI (DGAI) and Share $200K Worth of Rewards (2026-10-14)
 #Binance #NarrativeOS #OpenClaw
