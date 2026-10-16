@@ -1,113 +1,116 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-15T23:49:17.002162+00:00
+- 生成时间：2026-10-16T01:45:04.500714+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：3
 
 ## 今日摘要
 
-- 当前最强叙事是 CZ's Freedom of Money in Tokyo，所在链为 BSC，叙事强度 89.19。
-- 当前平均叙事强度为 78.98，其中已确认叙事 0 个。
+- 当前最强叙事是 Alleged Eric Trump WLFI Token，所在链为 Solana，叙事强度 88.09。
+- 当前平均叙事强度为 83.95，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 U.S. Treasury Official Encourages Trump Coin Usage 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 U.S. Treasury Official Encourages Trump Coin Usage，伪叙事风险 41.57。
+- 记忆层显示 Alleged Eric Trump WLFI Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Yoon Joins Flap as Korea Lead，伪叙事风险 52.99。
 - 最新官方催化来自 币安最新公告：Binance Launches Covered Call & Cash-Secured Put — Short Options Strategies Now Available。
 
 ## 叙事雷达
 
-- CZ's Freedom of Money in Tokyo | BSC | 加速中 | 强度 89.19 | 质量 83.23
+- Alleged Eric Trump WLFI Token | Solana | 降温中 | 强度 88.09 | 质量 79.82
+  - 主题摘要：According to Takako Beilstein's post, the alleged Elon $1 Coin is mentioned as the next potential token following the Trump $1 Coin, with a reported paying DEX liquidity of 15k. T…
+  - 资金 100.00 / 广度 99.21 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Tesla Roadster Event | Solana | 降温中 | 强度 86.31 | 质量 76.95
+  - 主题摘要：Elon Musk quoted a tweet regarding a live stream of the Roadster event scheduled for Thursday at 7:55pm CST, adding the comment "Timing is everything." This post highlights Musk's…
+  - 资金 100.00 / 广度 89.63 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk's New Roadster | Solana | 降温中 | 强度 84.69 | 质量 76.46
+  - 主题摘要：Elon Musk teases the upcoming New Roadster, describing it as transcending movies, imagination, and humanity itself. This hyperbolic claim generates massive hype and speculation ab…
+  - 资金 100.00 / 广度 85.36 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Tesla Roadster Event Livestream | Solana | 降温中 | 强度 84.45 | 质量 76.62
+  - 主题摘要：According to Tesla's post, the company announced a livestream for the Roadster event. The post includes a direct link to the broadcast on X, indicating an official update or revea…
+  - 资金 92.57 / 广度 88.54 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ's Freedom of Money in Tokyo | BSC | 降温中 | 强度 83.43 | 质量 80.85
   - 主题摘要：CZ announces his book 'Freedom of Money' coming to Japan, referencing his early days building Binance in Tokyo. This blends personal history with crypto success, appealing to fans…
-  - 资金 100.00 / 广度 100.00 / 确认 23.76 / 脆弱性 14.00
+  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Holdoween | Solana | 降温中 | 强度 83.22 | 质量 71.97
+  - 主题摘要：Multiple tokens named 「Holdoween」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.02 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 1 | Solana | 加速中 | 强度 82.99 | 质量 78.25
+  - 主题摘要：Multiple tokens named 「1」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 91.18 / 广度 91.55 / 确认 21.84 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Jupiter YOLO Trade | Solana | 降温中 | 强度 86.26 | 质量 76.80
-  - 主题摘要：Jupiter Exchange introduces a high-risk, high-reward trading feature called YOLO, allowing users to go long or short on major crypto assets with up to 1,000x leverage. This gamifi…
-  - 资金 100.00 / 广度 87.03 / 确认 12.24 / 脆弱性 14.00
+- Alleged Flying Tesla Roadster 2.0 Token | Solana | 降温中 | 强度 80.96 | 质量 75.54
+  - 主题摘要：According to Armin's post, media articles are referring to the new Tesla Roadster as the 'Tesla Roadster 2.0'. Concurrently, tokens such as FTR2 and FTR, named 'Flying Tesla Roads…
+  - 资金 85.94 / 广度 84.93 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Anthropic S-1 Filing & Misanthropic Token | Solana | 降温中 | 强度 83.46 | 质量 73.95
-  - 主题摘要：Multiple tokens named 「AI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.21 / 确认 15.84 / 脆弱性 14.00
+- Tesla Launch Announcement | Solana | 降温中 | 强度 80.91 | 质量 75.54
+  - 主题摘要：According to Tesla's post, the company announced a launch with the message 'Go for launch'. The provided cryptocurrency token list is irrelevant to this corporate announcement and…
+  - 资金 85.70 / 广度 84.93 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- U.S. Treasury Official Encourages Trump Coin Usage | Solana | 降温中 | 强度 83.24 | 质量 76.56
-  - 主题摘要：According to Polymarket's post, a U.S. Treasury official reportedly encouraged Americans to purchase rolls of Trump $1 coins and use them at liberal coffee shops. This statement h…
-  - 资金 100.00 / 广度 93.87 / 确认 8.64 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Riot Games | Solana | 降温中 | 强度 82.07 | 质量 70.44
-  - 主题摘要：Multiple tokens named 「Riot Games」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.09 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yoon Joins Flap as Korea Lead | BSC | 降温中 | 强度 79.61 | 质量 71.56
-  - 主题摘要：According to Yoon🔸's post, Yoon🔸 officially joined the Flap team as the Korea Community Lead. Yoon🔸 stated a commitment to supporting Korean builders within the Flap ecosystem on…
-  - 资金 100.00 / 广度 80.10 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AI Math Discovery Fields Medal | Solana | 降温中 | 强度 79.43 | 质量 68.37
-  - 主题摘要：According to Yahoo Finance's post, mathematician Ejaaz states that AI-generated mathematical discoveries would qualify for a Fields Medal if made by humans, causing unease among m…
-  - 资金 100.00 / 广度 69.86 / 确认 12.24 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- nostalgicgareth Releases Moo-ve Chrome Extension | Solana | 加速中 | 强度 78.97 | 质量 66.49
-  - 主题摘要：According to nostalgicgareth's post, the Moo-ve Chrome extension is now live on the Chrome Web Store. It provides an overlay on X that displays buy/sell cards for cashtags and Pum…
-  - 资金 100.00 / 广度 73.07 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- 币安金库 | BSC | 降温中 | 强度 78.82 | 质量 68.36
-  - 主题摘要：Multiple tokens named 「币安金库」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.48 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Anthropic Onchain Pre-IPO | Solana | 降温中 | 强度 78.15 | 质量 69.30
-  - 主题摘要：Solana官方转发Frontier Traders的推文，推广Anthropic的链上永续合约交易，允许用户将估值判断上链。
-  - 资金 100.00 / 广度 67.31 / 确认 5.04 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Retweets Electric Vehicle Comment | Solana | 降温中 | 强度 77.98 | 质量 66.16
-  - 主题摘要：Elon Musk retweeted a post by Jesse Peltan stating that the world is transitioning to electric vehicles and that the US is lagging behind. This action highlights Musk's engagement…
-  - 资金 100.00 / 广度 67.39 / 确认 12.24 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Launch of AI Affectionate Intelligence Token | BSC | 加速中 | 强度 76.99 | 质量 71.78
-  - 主题摘要：According to Polymarket's post, Apple is reportedly preparing to launch Apple Intelligence in China for the first time this December, following years of regulatory delays.
-  - 资金 100.00 / 广度 82.32 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- TapeFour | BSC | 加速中 | 强度 74.78 | 质量 59.60
+- TapeFour | BSC | 加速中 | 强度 76.57 | 质量 60.49
   - 主题摘要：According to Four.meme-華語's post, Four.Meme officially launched TapeFour, a mining-token model on BNB Chain. This mechanism allows projects to sell transistors for fundraising, wh…
-  - 资金 100.00 / 广度 77.11 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.18 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Trumpbird Meme Image Launch | BSC | 降温中 | 强度 74.52 | 质量 61.86
-  - 主题摘要：According to haha's post, a viral video of a pet bird resembling Donald Trump on Douyin is linked to the alleged launch of a token named 'The Trumpbird' (symbol: 啾啾). The post sug…
-  - 资金 100.00 / 广度 63.97 / 确认 5.04 / 脆弱性 14.00
+- 币安金库 | BSC | 降温中 | 强度 76.28 | 质量 66.58
+  - 主题摘要：Multiple tokens named 「币安金库」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.55 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Yoon Joins Flap as Korea Lead | BSC | 点火期 | 强度 75.52 | 质量 71.16
+  - 主题摘要：According to Yoon🔸's post, Yoon🔸 officially joined the Flap team as the Korea Community Lead. Yoon🔸 stated a commitment to supporting Korean builders within the Flap ecosystem on…
+  - 资金 100.00 / 广度 80.18 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- CZ: Keep building! | BSC | 降温中 | 强度 75.12 | 质量 62.28
+  - 主题摘要：CZ回复了一条对比币安与OKX资产规模的推文，简短地鼓励团队专注于自身发展而非竞争对手。这一回应体现了币安在行业竞争中的自信与定力，常被解读为对OKX等竞争对手的无声反击或长期主义宣言。
+  - 资金 100.00 / 广度 85.62 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- DAWG | BSC | 降温中 | 强度 74.21 | 质量 61.25
+  - 主题摘要：DAWG is a meme token inspired by the French Bulldog breed, featuring a stylish dog wearing sunglasses and a chain necklace in its logo. The token embraces the playful, community-d…
+  - 资金 100.00 / 广度 70.61 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 78.98，其中已确认叙事 0 个。
-- nostalgicgareth Releases Moo-ve Chrome Extension 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Jupiter YOLO Trade 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.95，其中已确认叙事 0 个。
+- 1 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Eric Trump WLFI Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ's Freedom of Money in Tokyo | 质量 83.23 | 可交易性 100.00 | 风险 低
-- Jupiter YOLO Trade | 质量 76.80 | 可交易性 100.00 | 风险 低
-- U.S. Treasury Official Encourages Trump Coin Usage | 质量 76.56 | 可交易性 94.98 | 风险 低
-- Anthropic S-1 Filing & Misanthropic Token | 质量 73.95 | 可交易性 98.68 | 风险 低
-- Alleged Launch of AI Affectionate Intelligence Token | 质量 71.78 | 可交易性 100.00 | 风险 低
-- Yoon Joins Flap as Korea Lead | 质量 71.56 | 可交易性 91.57 | 风险 低
-- Riot Games | 质量 70.44 | 可交易性 100.00 | 风险 低
-- Anthropic Onchain Pre-IPO | 质量 69.30 | 可交易性 100.00 | 风险 低
-- AI Math Discovery Fields Medal | 质量 68.37 | 可交易性 89.06 | 风险 低
-- 币安金库 | 质量 68.36 | 可交易性 84.51 | 风险 低
+- CZ's Freedom of Money in Tokyo | 质量 80.85 | 可交易性 100.00 | 风险 低
+- Alleged Eric Trump WLFI Token | 质量 79.82 | 可交易性 100.00 | 风险 低
+- 1 | 质量 78.25 | 可交易性 93.28 | 风险 低
+- Tesla Roadster Event | 质量 76.95 | 可交易性 100.00 | 风险 低
+- Tesla Roadster Event Livestream | 质量 76.62 | 可交易性 100.00 | 风险 低
+- Elon Musk's New Roadster | 质量 76.46 | 可交易性 100.00 | 风险 低
+- Alleged Flying Tesla Roadster 2.0 Token | 质量 75.54 | 可交易性 100.00 | 风险 低
+- Tesla Launch Announcement | 质量 75.54 | 可交易性 100.00 | 风险 低
+- Holdoween | 质量 71.97 | 可交易性 100.00 | 风险 低
+- Yoon Joins Flap as Korea Lead | 质量 71.16 | 可交易性 90.15 | 风险 低
 
 ## 伪叙事风险
 
-- U.S. Treasury Official Encourages Trump Coin Usage | 风险 41.57 | 原因：流动性偏薄、近 1 小时净流入转负
+- Yoon Joins Flap as Korea Lead | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Tesla Launch Announcement | 风险 52.97 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Flying Tesla Roadster 2.0 Token | 风险 52.76 | 原因：流动性偏薄、近 1 小时净流入转负
+- Tesla Roadster Event Livestream | 风险 42.37 | 原因：流动性偏薄
 
 ## 信号台
 
 - GROKLET | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FLAP | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 萌兰 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Dacity | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- FTR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BASEPAD | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- RL | Solana | 看多 | 新鲜度 96.26 | 暂无直接叙事映射
 - BS | BSC | 看多 | 新鲜度 89.10 | 暂无直接叙事映射
-- DACITY | Solana | 看多 | 新鲜度 86.20 | 暂无直接叙事映射
-- STREAM | Solana | 看多 | 新鲜度 81.48 | 暂无直接叙事映射
 - 3310 | Base | 看多 | 新鲜度 77.09 | 暂无直接叙事映射
 - UU | BSC | 看多 | 新鲜度 75.61 | 暂无直接叙事映射
+- PUFFER | BSC | 看多 | 新鲜度 71.73 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CZ's Freedom of Money in Tokyo（BSC，分数 89.19）
+1. 当前最强叙事：Alleged Eric Trump WLFI Token（Solana，分数 88.09）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：U.S. Treasury Official Encourages Trump Coin Usage 当前为“新出现”
+3. 记忆层变化：Alleged Eric Trump WLFI Token 当前为“新出现”
 4. 最新官方催化：Binance Launches Covered Call & Cash-Secured Put — Short Options Strategies Now Available
 #Binance #NarrativeOS #OpenClaw
