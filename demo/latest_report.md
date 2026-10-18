@@ -1,115 +1,118 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-18T21:26:50.365593+00:00
+- 生成时间：2026-10-18T23:24:48.878781+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 Canada Gold Trust，所在链为 Solana，叙事强度 85.95。
-- 当前平均叙事强度为 76.88，其中已确认叙事 0 个。
+- 当前最强叙事是 Canada Gold Trust，所在链为 Solana，叙事强度 85.96。
+- 当前平均叙事强度为 81.09，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Micromania Saiyan Token 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 SUPERMAMA，伪叙事风险 52.99。
+- 记忆层显示 TikTok US 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Max Hanss Posts Darth Vader Meme，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ACU (Acurast) and Share $100K Worth of Rewards (2026-10-16)。
 
 ## 叙事雷达
 
-- Canada Gold Trust | Solana | 降温中 | 强度 85.95 | 质量 73.92
+- Canada Gold Trust | Solana | 降温中 | 强度 85.96 | 质量 73.92
   - 主题摘要：Multiple tokens named 「CANGD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
   - 资金 100.00 / 广度 79.53 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Micromania Saiyan Token | Solana | 加速中 | 强度 85.69 | 质量 80.81
-  - 主题摘要：Multiple tokens named 「PIERRE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.95 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- bwigitte | Solana | 降温中 | 强度 84.43 | 质量 73.91
+- bwigitte | Solana | 降温中 | 强度 84.43 | 质量 73.92
   - 主题摘要：According to constructooor's post, MUCRON is associated with a meme suggesting he should be paired with his wife, who allegedly slaps him publicly. This information is unverified.…
-  - 资金 100.00 / 广度 79.51 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 79.52 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged EZECK Token Identity Verification | Solana | 降温中 | 强度 84.36 | 质量 80.67
-  - 主题摘要：Multiple tokens named 「EZECK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 93.04 / 广度 96.76 / 确认 16.56 / 脆弱性 14.00
+- TikTok US | Solana | 降温中 | 强度 82.32 | 质量 70.92
+  - 主题摘要：Multiple tokens named 「TikTok US」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.54 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Safufun Platform Launch | Solana | 降温中 | 强度 79.65 | 质量 76.22
-  - 主题摘要：According to stacc 'the staccdex.xyz' overflow's post, the individual claims to have built a platform named Safufun where meme tokens are designed to only increase in value, contr…
-  - 资金 86.20 / 广度 85.12 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Double Down | BSC | 降温中 | 强度 79.38 | 质量 71.32
+- Elon Musk Double Down | BSC | 降温中 | 强度 81.37 | 质量 73.12
   - 主题摘要：Elon Musk replied to a controversial tweet with just two exclamation marks, a classic 'double down' move that fuels crypto community debates on his political alignment and meme po…
-  - 资金 100.00 / 广度 94.96 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.02 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Terra Luna Classic | Solana | 降温中 | 强度 78.36 | 质量 67.66
-  - 主题摘要：Multiple tokens named 「LUNC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 58.68 / 确认 9.36 / 脆弱性 0.00
+- Alleged KOLFIGHTER Meme Game | Solana | 降温中 | 强度 80.52 | 质量 68.44
+  - 主题摘要：According to zonk 🤖's post, a game called KOLFIGHTER is allegedly launched, allowing users to play against KOLs in a Street Fighter style while earning SOL. Holders of 500,000 $KO…
+  - 资金 100.00 / 广度 82.75 / 确认 5.04 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Mocks Crypto Phone Idea | BSC | 降温中 | 强度 78.13 | 质量 71.50
-  - 主题摘要：Binance CEO CZ humorously questions the practicality of carrying a dedicated crypto phone in public, sparking debate on the convergence of hardware and Web3 adoption.
-  - 资金 100.00 / 广度 83.05 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SUPERMAMA | BSC | 点火期 | 强度 77.77 | 质量 77.73
-  - 主题摘要：According to Binance Argentina's post, the account published the term "SUPERMAMA". This content is associated with cryptocurrency tokens bearing the same name. The post serves as…
-  - 资金 100.00 / 广度 92.22 / 确认 9.36 / 脆弱性 24.00
+- Alleged Micromania Saiyan Token | Solana | 点火期 | 强度 79.83 | 质量 72.45
+  - 主题摘要：Multiple tokens named 「PIERRE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 91.65 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Pump.fun Fee Dispute | Solana | 降温中 | 强度 77.77 | 质量 69.65
-  - 主题摘要：According to river's post, river criticized a proposal to allocate fees to a specific wallet, arguing against sending funds on paid platforms. The quoted content details STACCover…
-  - 资金 100.00 / 广度 65.31 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged MEGA Token | Solana | 加速中 | 强度 77.71 | 质量 75.21
-  - 主题摘要：Multiple tokens named 「MEGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.88 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Douyin Coin Issuance | BSC | 点火期 | 强度 77.53 | 质量 72.90
+- Alleged EZECK Token Identity Verification | Solana | 点火期 | 强度 79.66 | 质量 75.92
+  - 主题摘要：Multiple tokens named 「EZECK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 97.75 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Douyin Coin Issuance | BSC | 降温中 | 强度 78.54 | 质量 72.96
   - 主题摘要：According to 我肯定会发财！'s post, Douyin is alleged to have its own coin, with a search for 'Douyin Coin' conducted on the platform. This information is unverified. Please exercise cau…
-  - 资金 100.00 / 广度 76.15 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- TCC🔶️ Shares BNB Tree Story | BSC | 降温中 | 强度 75.16 | 质量 67.77
-  - 主题摘要：According to TCC🔶️'s post, the author planted an orange seed 1.5 years ago to teach patience, referring to it as the "BNB Tree" when BNB was around $600. The post highlights long-…
-  - 资金 100.00 / 广度 73.23 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 76.33 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ Releases New Book 'Freedom of Money' | BSC | 降温中 | 强度 73.31 | 质量 62.68
-  - 主题摘要：CZ announced the release of his book, Freedom of Money, detailing his journey from childhood to founding Binance, covering challenges with Luna/UST, FTX/SBF, and US regulatory act…
-  - 资金 100.00 / 广度 71.90 / 确认 12.96 / 脆弱性 14.00
+- Terra Luna Classic | Solana | 降温中 | 强度 78.49 | 质量 67.70
+  - 主题摘要：Multiple tokens named 「LUNC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 58.80 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Max Hanss Posts Darth Vader Meme | Solana | 点火期 | 强度 77.49 | 质量 75.52
+  - 主题摘要：According to Max Hanss's post, a person dressed as Darth Vader appeared in Lille. This event has inspired discussions and token concepts related to the character, with some users…
+  - 资金 100.00 / 广度 85.39 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- TCC🔶️ Shares BNB Tree Story | BSC | 点火期 | 强度 76.95 | 质量 72.87
+  - 主题摘要：According to TCC🔶️'s post, the author planted an orange seed 1.5 years ago to teach patience, referring to it as the "BNB Tree" when BNB was around $600. The post highlights long-…
+  - 资金 100.00 / 广度 80.60 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- CZ Mocks Crypto Phone Idea | BSC | 点火期 | 强度 75.54 | 质量 70.68
+  - 主题摘要：Binance CEO CZ humorously questions the practicality of carrying a dedicated crypto phone in public, sparking debate on the convergence of hardware and Web3 adoption.
+  - 资金 100.00 / 广度 82.69 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 100xDEV Mentions New BSC Figure | BSC | 点火期 | 强度 73.07 | 质量 68.37
+  - 主题摘要：According to 100xDEV's post, a new figure in BSC was mentioned in the new BNB Chain L1 demo, raising speculation about whether it could be the next Bob.
+  - 资金 100.00 / 广度 81.81 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 1001 | BSC | 降温中 | 强度 73.01 | 质量 58.11
+  - 主题摘要：Multiple tokens named 「1001」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.19 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.88，其中已确认叙事 0 个。
-- Alleged Micromania Saiyan Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.09，其中已确认叙事 0 个。
+- Max Hanss Posts Darth Vader Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Canada Gold Trust 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Micromania Saiyan Token | 质量 80.81 | 可交易性 100.00 | 风险 低
-- Alleged EZECK Token Identity Verification | 质量 80.67 | 可交易性 100.00 | 风险 低
-- SUPERMAMA | 质量 77.73 | 可交易性 100.00 | 风险 低
-- Alleged Safufun Platform Launch | 质量 76.22 | 可交易性 99.44 | 风险 低
-- Alleged MEGA Token | 质量 75.21 | 可交易性 81.04 | 风险 低
+- Alleged EZECK Token Identity Verification | 质量 75.92 | 可交易性 100.00 | 风险 低
+- Max Hanss Posts Darth Vader Meme | 质量 75.52 | 可交易性 99.48 | 风险 低
 - Canada Gold Trust | 质量 73.92 | 可交易性 100.00 | 风险 低
-- bwigitte | 质量 73.91 | 可交易性 100.00 | 风险 低
-- Alleged Douyin Coin Issuance | 质量 72.90 | 可交易性 100.00 | 风险 低
-- CZ Mocks Crypto Phone Idea | 质量 71.50 | 可交易性 88.41 | 风险 低
-- Elon Musk Double Down | 质量 71.32 | 可交易性 93.47 | 风险 低
+- bwigitte | 质量 73.92 | 可交易性 100.00 | 风险 低
+- Elon Musk Double Down | 质量 73.12 | 可交易性 93.74 | 风险 低
+- Alleged Douyin Coin Issuance | 质量 72.96 | 可交易性 100.00 | 风险 低
+- TCC🔶️ Shares BNB Tree Story | 质量 72.87 | 可交易性 92.80 | 风险 低
+- Alleged Micromania Saiyan Token | 质量 72.45 | 可交易性 80.33 | 风险 低
+- TikTok US | 质量 70.92 | 可交易性 100.00 | 风险 低
+- CZ Mocks Crypto Phone Idea | 质量 70.68 | 可交易性 86.05 | 风险 低
 
 ## 伪叙事风险
 
-- SUPERMAMA | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Douyin Coin Issuance | 风险 47.79 | 原因：流动性偏薄
-- Alleged Safufun Platform Launch | 风险 40.09 | 原因：流动性偏薄、近 1 小时净流入转负
+- Max Hanss Posts Darth Vader Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- CZ Mocks Crypto Phone Idea | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- 100xDEV Mentions New BSC Figure | 风险 47.79 | 原因：流动性偏薄
+- Alleged Micromania Saiyan Token | 风险 44.91 | 原因：流动性偏薄
+- Alleged EZECK Token Identity Verification | 风险 44.91 | 原因：流动性偏薄
+- TCC🔶️ Shares BNB Tree Story | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
 - HackiOS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- SUPERMAMA | BSC | 看多 | 新鲜度 100.00 | SUPERMAMA
+- SUPERMAMA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 特斯拉能飞 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GROKLET | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FLAP | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PIERRE | Solana | 看多 | 新鲜度 100.00 | Alleged Micromania Saiyan Token
 - AFC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TSI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Kavantissa | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - EZECK | Solana | 看多 | 新鲜度 97.55 | Alleged EZECK Token Identity Verification
+- PIERRE | Solana | 看多 | 新鲜度 96.74 | 暂无直接叙事映射
+- FLUENCER | Solana | 看多 | 新鲜度 95.15 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -135,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Canada Gold Trust（Solana，分数 85.95）
+1. 当前最强叙事：Canada Gold Trust（Solana，分数 85.96）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Alleged Micromania Saiyan Token 当前为“新出现”
+3. 记忆层变化：TikTok US 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ACU (Acurast) and Share $100K Worth of Rewards (2026-10-16)
 #Binance #NarrativeOS #OpenClaw
