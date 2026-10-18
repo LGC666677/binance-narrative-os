@@ -1,104 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-18T19:01:44.297821+00:00
+- 生成时间：2026-10-18T21:26:50.365593+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：3
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Musk vs LeCun: Air Power，所在链为 Solana，叙事强度 87.58。
-- 当前平均叙事强度为 83.39，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 PUMP，来自 Solana，共振分数 100.0。
-- 记忆层显示 Musk vs LeCun: Air Power 当前处于“新出现”状态。
+- 当前最强叙事是 Canada Gold Trust，所在链为 Solana，叙事强度 85.95。
+- 当前平均叙事强度为 76.88，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged Micromania Saiyan Token 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 SUPERMAMA，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade ACU (Acurast) and Share $100K Worth of Rewards (2026-10-16)。
 
 ## 叙事雷达
 
-- Musk vs LeCun: Air Power | Solana | 降温中 | 强度 87.58 | 质量 79.00
-  - 主题摘要：Elon Musk replies to Yann LeCun's technical critique with a humorous fart joke, highlighting the clash between tech billionaires and AI academics in a meme-friendly way.
-  - 资金 100.00 / 广度 96.48 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Canada Gold Trust | Solana | 降温中 | 强度 85.95 | 质量 73.91
+- Canada Gold Trust | Solana | 降温中 | 强度 85.95 | 质量 73.92
   - 主题摘要：Multiple tokens named 「CANGD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.50 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 79.53 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- YokaiCapital Meme Post | Solana | 降温中 | 强度 85.51 | 质量 75.81
-  - 主题摘要：According to YokaiCapital's post, the user shared a Meme image referencing 'Pepé but baguette,' implying a French-themed variation of the Pepe token. This information is unverifie…
-  - 资金 100.00 / 广度 85.82 / 确认 9.36 / 脆弱性 14.00
+- Alleged Micromania Saiyan Token | Solana | 加速中 | 强度 85.69 | 质量 80.81
+  - 主题摘要：Multiple tokens named 「PIERRE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 91.95 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- bwigitte | Solana | 降温中 | 强度 84.43 | 质量 73.91
+  - 主题摘要：According to constructooor's post, MUCRON is associated with a meme suggesting he should be paired with his wife, who allegedly slaps him publicly. This information is unverified.…
+  - 资金 100.00 / 广度 79.51 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged MEGA Token | Solana | 降温中 | 强度 84.57 | 质量 81.64
-  - 主题摘要：Multiple tokens named 「MEGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 83.36 / 广度 100.00 / 确认 16.56 / 脆弱性 24.00
+- Alleged EZECK Token Identity Verification | Solana | 降温中 | 强度 84.36 | 质量 80.67
+  - 主题摘要：Multiple tokens named 「EZECK」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 93.04 / 广度 96.76 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- catonthinice | Solana | 降温中 | 强度 84.29 | 质量 71.22
-  - 主题摘要：Multiple tokens named 「CATONICE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.53 / 确认 9.36 / 脆弱性 0.00
+- Alleged Safufun Platform Launch | Solana | 降温中 | 强度 79.65 | 质量 76.22
+  - 主题摘要：According to stacc 'the staccdex.xyz' overflow's post, the individual claims to have built a platform named Safufun where meme tokens are designed to only increase in value, contr…
+  - 资金 86.20 / 广度 85.12 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged X Token AI Robotics Energy | Solana | 降温中 | 强度 83.64 | 质量 73.48
-  - 主题摘要：According to .'s post, the user shared a video discussing 'AI, Robotics, Energy' as the three words of X, referencing Elon Musk's statement about Tesla, SpaceX, and xAI. The post…
-  - 资金 100.00 / 广度 79.52 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trencher Bill Comments on Zen Cat Meme | Solana | 点火期 | 强度 79.28 | 质量 73.56
-  - 主题摘要：According to Trencher Bill's post, the user commented on a shared image, stating that while other elements were actual coins, the cat in the center was not a coin but rather a Mem…
-  - 资金 100.00 / 广度 80.77 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Elon Musk Double Down | BSC | 降温中 | 强度 78.61 | 质量 71.05
+- Elon Musk Double Down | BSC | 降温中 | 强度 79.38 | 质量 71.32
   - 主题摘要：Elon Musk replied to a controversial tweet with just two exclamation marks, a classic 'double down' move that fuels crypto community debates on his political alignment and meme po…
   - 资金 100.00 / 广度 94.96 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Mocks Crypto Phone Idea | BSC | 降温中 | 强度 78.46 | 质量 70.15
+- Terra Luna Classic | Solana | 降温中 | 强度 78.36 | 质量 67.66
+  - 主题摘要：Multiple tokens named 「LUNC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 58.68 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Mocks Crypto Phone Idea | BSC | 降温中 | 强度 78.13 | 质量 71.50
   - 主题摘要：Binance CEO CZ humorously questions the practicality of carrying a dedicated crypto phone in public, sparking debate on the convergence of hardware and Web3 adoption.
-  - 资金 100.00 / 广度 82.18 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.05 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SUPERMAMA | BSC | 点火期 | 强度 78.04 | 质量 77.71
+- SUPERMAMA | BSC | 点火期 | 强度 77.77 | 质量 77.73
   - 主题摘要：According to Binance Argentina's post, the account published the term "SUPERMAMA". This content is associated with cryptocurrency tokens bearing the same name. The post serves as…
-  - 资金 100.00 / 广度 92.16 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 92.22 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 网贷人生 | BSC | 降温中 | 强度 77.39 | 质量 65.64
-  - 主题摘要：网贷人生 (Loan Life) token represents the financial struggles of young borrowers in China. The logo displays loan amounts and interest rates, reflecting the token's focus on the real-…
-  - 资金 100.00 / 广度 76.12 / 确认 9.36 / 脆弱性 14.00
+- Alleged Pump.fun Fee Dispute | Solana | 降温中 | 强度 77.77 | 质量 69.65
+  - 主题摘要：According to river's post, river criticized a proposal to allocate fees to a specific wallet, arguing against sending funds on paid platforms. The quoted content details STACCover…
+  - 资金 100.00 / 广度 65.31 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Gold Token on Pump.fun | Solana | 加速中 | 强度 76.29 | 质量 71.91
-  - 主题摘要：According to Frontrunman's post, a token named Gold was launched on Pump.fun, allegedly paired with real gold and distributing 100% of rewards in gold to holders. The contract add…
-  - 资金 100.00 / 广度 78.46 / 确认 20.20 / 脆弱性 24.00
+- Alleged MEGA Token | Solana | 加速中 | 强度 77.71 | 质量 75.21
+  - 主题摘要：Multiple tokens named 「MEGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 94.88 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Douyin Coin Issuance | BSC | 点火期 | 强度 75.84 | 质量 72.74
+- Alleged Douyin Coin Issuance | BSC | 点火期 | 强度 77.53 | 质量 72.90
   - 主题摘要：According to 我肯定会发财！'s post, Douyin is alleged to have its own coin, with a search for 'Douyin Coin' conducted on the platform. This information is unverified. Please exercise cau…
-  - 资金 100.00 / 广度 76.08 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 76.15 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 1001 | BSC | 降温中 | 强度 70.64 | 质量 57.92
-  - 主题摘要：Multiple tokens named 「1001」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.98 / 确认 9.36 / 脆弱性 24.00
+- TCC🔶️ Shares BNB Tree Story | BSC | 降温中 | 强度 75.16 | 质量 67.77
+  - 主题摘要：According to TCC🔶️'s post, the author planted an orange seed 1.5 years ago to teach patience, referring to it as the "BNB Tree" when BNB was around $600. The post highlights long-…
+  - 资金 100.00 / 广度 73.23 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:CZ Releases New Book 'Freedom of Money' | BSC | 降温中 | 强度 73.31 | 质量 62.68
+  - 主题摘要：CZ announced the release of his book, Freedom of Money, detailing his journey from childhood to founding Binance, covering challenges with Luna/UST, FTX/SBF, and US regulatory act…
+  - 资金 100.00 / 广度 71.90 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.39，其中已确认叙事 0 个。
-- Trencher Bill Comments on Zen Cat Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Musk vs LeCun: Air Power 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.88，其中已确认叙事 0 个。
+- Alleged Micromania Saiyan Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Canada Gold Trust 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged MEGA Token | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Musk vs LeCun: Air Power | 质量 79.00 | 可交易性 100.00 | 风险 低
-- SUPERMAMA | 质量 77.71 | 可交易性 100.00 | 风险 低
-- YokaiCapital Meme Post | 质量 75.81 | 可交易性 100.00 | 风险 低
-- Canada Gold Trust | 质量 73.91 | 可交易性 100.00 | 风险 低
-- Trencher Bill Comments on Zen Cat Meme | 质量 73.56 | 可交易性 97.55 | 风险 低
-- Alleged X Token AI Robotics Energy | 质量 73.48 | 可交易性 98.55 | 风险 低
-- Alleged Douyin Coin Issuance | 质量 72.74 | 可交易性 100.00 | 风险 低
-- Alleged Gold Token on Pump.fun | 质量 71.91 | 可交易性 86.42 | 风险 低
-- catonthinice | 质量 71.22 | 可交易性 100.00 | 风险 低
+- Alleged Micromania Saiyan Token | 质量 80.81 | 可交易性 100.00 | 风险 低
+- Alleged EZECK Token Identity Verification | 质量 80.67 | 可交易性 100.00 | 风险 低
+- SUPERMAMA | 质量 77.73 | 可交易性 100.00 | 风险 低
+- Alleged Safufun Platform Launch | 质量 76.22 | 可交易性 99.44 | 风险 低
+- Alleged MEGA Token | 质量 75.21 | 可交易性 81.04 | 风险 低
+- Canada Gold Trust | 质量 73.92 | 可交易性 100.00 | 风险 低
+- bwigitte | 质量 73.91 | 可交易性 100.00 | 风险 低
+- Alleged Douyin Coin Issuance | 质量 72.90 | 可交易性 100.00 | 风险 低
+- CZ Mocks Crypto Phone Idea | 质量 71.50 | 可交易性 88.41 | 风险 低
+- Elon Musk Double Down | 质量 71.32 | 可交易性 93.47 | 风险 低
 
 ## 伪叙事风险
 
 - SUPERMAMA | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Douyin Coin Issuance | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged MEGA Token | 风险 50.21 | 原因：流动性偏薄、近 1 小时净流入转负、热度领先于资金
-- Trencher Bill Comments on Zen Cat Meme | 风险 47.79 | 原因：流动性偏薄
-- 1001 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Douyin Coin Issuance | 风险 47.79 | 原因：流动性偏薄
+- Alleged Safufun Platform Launch | 风险 40.09 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -107,11 +105,11 @@
 - 特斯拉能飞 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - GROKLET | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FLAP | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PIERRE | Solana | 看多 | 新鲜度 100.00 | Alleged Micromania Saiyan Token
 - AFC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TSI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Kavantissa | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- FLUENCER | Solana | 看多 | 新鲜度 95.15 | 暂无直接叙事映射
-- 英雄联盟 | BSC | 看多 | 新鲜度 83.54 | 暂无直接叙事映射
+- EZECK | Solana | 看多 | 新鲜度 97.55 | Alleged EZECK Token Identity Verification
 
 ## 官方催化
 
@@ -137,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Musk vs LeCun: Air Power（Solana，分数 87.58）
-2. 共振最强代币：PUMP（Solana，共振 100.0）
-3. 记忆层变化：Musk vs LeCun: Air Power 当前为“新出现”
+1. 当前最强叙事：Canada Gold Trust（Solana，分数 85.95）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：Alleged Micromania Saiyan Token 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade ACU (Acurast) and Share $100K Worth of Rewards (2026-10-16)
 #Binance #NarrativeOS #OpenClaw
