@@ -1,100 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-22T05:30:23.214293+00:00
+- 生成时间：2026-10-22T10:36:11.898900+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 National Oil Dividend Fund，所在链为 Solana，叙事强度 89.42。
-- 当前平均叙事强度为 82.71，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
-- 记忆层显示 National Oil Dividend Fund 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Elon Musk's Life，伪叙事风险 52.99。
-- 最新官方催化来自 币安最新公告：Updates on Tick Size for Spot Trading Pairs (2026-10-29)。
+- 当前最强叙事是 US Dividend Fund (USDF)🔥，所在链为 Solana，叙事强度 85.82。
+- 当前平均叙事强度为 81.66，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
+- 记忆层显示 KimchiWifHat 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Uncertain:Alleged 7DOG Meme Image Release，伪叙事风险 47.79。
+- 最新官方催化来自 最新活动：Spot Trading Tournament Season 8: Trade to Share Up to 400 BNB Token Vouchers。
 
 ## 叙事雷达
 
-- National Oil Dividend Fund | Solana | 降温中 | 强度 89.42 | 质量 79.83
-  - 主题摘要：Multiple tokens named 「NODF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 99.24 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Four.meme-華語 Mentions Binance | BSC | 加速中 | 强度 84.76 | 质量 75.88
-  - 主题摘要：According to Four.meme-華語's post, the author shares a trading setup involving two screens: one for charts and another for launching tokens based on current trends. This method is…
-  - 资金 100.00 / 广度 80.30 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Bina | BSC | 已确认 | 强度 84.75 | 质量 86.75
-  - 主题摘要：According to whats your card's post, the author claims to have identified the name of CZ's new dog after a two-week investigation. This information is unverified. Please exercise…
-  - 资金 100.00 / 广度 99.35 / 确认 40.68 / 脆弱性 24.00
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Elon Musk on Optimus Learning | Solana | 降温中 | 强度 84.41 | 质量 73.75
-  - 主题摘要：Elon Musk explains that Optimus robots require self-play training similar to human toddlers to acquire data, as they lack the vast fleet data available to cars. He notes the need…
-  - 资金 100.00 / 广度 87.18 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- US Dividend Fund (USDF)🔥 | Solana | 降温中 | 强度 84.40 | 质量 74.16
+- US Dividend Fund (USDF)🔥 | Solana | 降温中 | 强度 85.82 | 质量 74.18
   - 主题摘要：Multiple tokens named 「USDF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.35 / 确认 9.36 / 脆弱性 10.00
+  - 资金 100.00 / 广度 80.40 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Au Token Controversy | Solana | 加速中 | 强度 81.57 | 质量 74.48
-  - 主题摘要：Multiple tokens named 「Au」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.36 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Waddles | Solana | 加速中 | 强度 81.41 | 质量 72.26
-  - 主题摘要：Waddles is a meme token inspired by a whimsical duck character wearing blue boots. The token's narrative centers around a duck who hears a future voice through a battery-free radi…
-  - 资金 100.00 / 广度 63.43 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Working Goats at Yotsuya Station | Solana | 降温中 | 强度 80.97 | 质量 71.88
-  - 主题摘要：According to 復活のリプシファ–'s post, two goats named Nagi and Pokke have begun mowing grass near Yotsuya Station on the Yamanote Line. This initiative has attracted significant public a…
-  - 资金 100.00 / 广度 70.10 / 确认 12.96 / 脆弱性 14.00
+- Elon Musk on Optimus Learning | Solana | 降温中 | 强度 84.86 | 质量 74.51
+  - 主题摘要：Elon Musk explains that Optimus robots require self-play training similar to human toddlers to acquire data, as they lack the vast fleet data available to cars. He notes the need…
+  - 资金 100.00 / 广度 87.51 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Gambla Allegedly Launches BAWSAQ Token | Solana | 降温中 | 强度 80.04 | 质量 72.88
+- Bina | BSC | 已确认 | 强度 84.29 | 质量 85.83
+  - 主题摘要：According to whats your card's post, after a two-week investigation, the name of CZ's new dog, Taigan, was identified. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 98.91 / 确认 37.08 / 脆弱性 24.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- KimchiWifHat | Solana | 加速中 | 强度 83.99 | 质量 73.86
+  - 主题摘要：KWH draws inspiration from the grassroots idea of 'energy as money,' turning household meter readings into on-chain tokens and echoing the decentralized energy movement. Its self-…
+  - 资金 100.00 / 广度 68.79 / 确认 23.76 / 脆弱性 0.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Kim Got Bands | Solana | 加速中 | 强度 82.36 | 质量 72.15
+  - 主题摘要：KIMBANDS (Kim Got Bands) emerged from a tweet by Kimbands_sol stating 'Too many bands. Not enough table.' The token's logo features a cartoon character surrounded by stacks of mon…
+  - 资金 100.00 / 广度 65.22 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Gambla Allegedly Launches BAWSAQ Token | Solana | 降温中 | 强度 80.12 | 质量 73.01
   - 主题摘要：Multiple tokens named 「BAWSAQ」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.08 / 确认 12.96 / 脆弱性 30.17
+  - 资金 100.00 / 广度 75.73 / 确认 12.96 / 脆弱性 30.17
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Klea praises FrankenPHP dev | Solana | 降温中 | 强度 79.49 | 质量 68.93
-  - 主题摘要：According to Klea's post, the developer Kevin, creator of FrankenPHP, is commended for submitting the initial patch for a critical PHP vulnerability and continuing to address rema…
-  - 资金 100.00 / 广度 62.89 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk's Life | BSC | 点火期 | 强度 76.52 | 质量 72.90
+- Working Goats at Yotsuya Station | Solana | 加速中 | 强度 79.23 | 质量 75.87
+  - 主题摘要：According to 復活のリプシファ–'s post, two goats named Nagi and Pokke have begun mowing grass near Yotsuya Station on the Yamanote Line. This initiative has attracted significant public a…
+  - 资金 100.00 / 广度 74.95 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- kimchi & ansem | Solana | 加速中 | 强度 79.14 | 质量 67.07
+  - 主题摘要：K&A token draws inspiration from Korean cuisine, featuring a dog as 'kimchi' and a small figure as 'ansem' in its logo. Created by kimchi_dev, it celebrates Korean culture through…
+  - 资金 100.00 / 广度 55.03 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk's Life | BSC | 降温中 | 强度 78.61 | 质量 73.05
   - 主题摘要：According to Alan Chen's post, Elon Musk's life is characterized by early social struggles, professional setbacks including losing CEO positions at PayPal and Tesla, and repeated…
-  - 资金 100.00 / 广度 83.11 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:CZ Proposes New Tokenomics Model | BSC | 加速中 | 强度 71.58 | 质量 61.39
-  - 主题摘要：CZ proposed a token issuance model where future unlocks are conditional on sustained price appreciation, specifically requiring the price to double above the previous unlock level…
-  - 资金 100.00 / 广度 68.78 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- FATCAT | BSC | 降温中 | 强度 71.50 | 质量 55.29
-  - 主题摘要：FATCAT draws inspiration from a classic cartoon character, featuring a large, bearded cat in a top hat holding a megaphone. The token's logo depicts this iconic feline figure surr…
-  - 资金 100.00 / 广度 71.25 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 83.40 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Agent ID | BSC | 加速中 | 强度 71.09 | 质量 70.13
-  - 主题摘要：Binance Co-CEO Yi He promotes the launch of unique 'Agent IDs' within the Binance App, marking a significant step in integrating AI agents into the platform's ecosystem and user i…
-  - 资金 100.00 / 广度 93.70 / 确认 20.16 / 脆弱性 24.00
+- Alleged Au Token Controversy | Solana | 加速中 | 强度 77.77 | 质量 73.74
+  - 主题摘要：Multiple tokens named 「Au」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.01 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ Predicts On-Chain IPOs | BSC | 降温中 | 强度 72.83 | 质量 60.13
+  - 主题摘要：CZ asserts that Initial Public Offerings (IPOs) will transition to blockchain technology. This statement reflects a perspective on the future integration of traditional financial…
+  - 资金 100.00 / 广度 60.62 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Agent ID | BSC | 降温中 | 强度 71.72 | 质量 69.85
+  - 主题摘要：Binance Co-CEO Yi He promotes the launch of unique 'Agent IDs' within the Binance App, marking a significant step in integrating AI agents into the platform's ecosystem and user i…
+  - 资金 100.00 / 广度 92.06 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged 7DOG Meme Image Release | BSC | 点火期 | 强度 70.97 | 质量 64.62
+  - 主题摘要：According to 我肯定会发财！'s post, the 7DOG token (Zhao Changpeng's Dog) is associated with Binance's privacy protocol starting with 0x77. The narrative links the number 7 to CZ's dog a…
+  - 资金 100.00 / 广度 75.09 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Four.meme-華語 Mentions Binance | BSC | 点火期 | 强度 70.54 | 质量 64.55
+  - 主题摘要：According to Four.meme-華語's post, the author shares a trading setup involving two screens: one for charts and another for launching tokens based on timeline trends. This configura…
+  - 资金 100.00 / 广度 80.66 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.71，其中已确认叙事 0 个。
-- Uncertain:Four.meme-華語 Mentions Binance 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- National Oil Dividend Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.66，其中已确认叙事 0 个。
+- KimchiWifHat 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- US Dividend Fund (USDF)🔥 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Bina | 质量 86.75 | 可交易性 100.00 | 风险 低
-- National Oil Dividend Fund | 质量 79.83 | 可交易性 100.00 | 风险 低
-- Uncertain:Four.meme-華語 Mentions Binance | 质量 75.88 | 可交易性 97.84 | 风险 低
-- Alleged Au Token Controversy | 质量 74.48 | 可交易性 86.97 | 风险 低
-- US Dividend Fund (USDF)🔥 | 质量 74.16 | 可交易性 100.00 | 风险 低
-- Elon Musk on Optimus Learning | 质量 73.75 | 可交易性 91.80 | 风险 低
-- Elon Musk's Life | 质量 72.90 | 可交易性 93.02 | 风险 低
-- Gambla Allegedly Launches BAWSAQ Token | 质量 72.88 | 可交易性 98.54 | 风险 低
-- Waddles | 质量 72.26 | 可交易性 100.00 | 风险 低
-- Working Goats at Yotsuya Station | 质量 71.88 | 可交易性 100.00 | 风险 低
+- Bina | 质量 85.83 | 可交易性 100.00 | 风险 低
+- Working Goats at Yotsuya Station | 质量 75.87 | 可交易性 100.00 | 风险 低
+- Elon Musk on Optimus Learning | 质量 74.51 | 可交易性 94.00 | 风险 低
+- US Dividend Fund (USDF)🔥 | 质量 74.18 | 可交易性 100.00 | 风险 低
+- KimchiWifHat | 质量 73.86 | 可交易性 100.00 | 风险 低
+- Alleged Au Token Controversy | 质量 73.74 | 可交易性 83.83 | 风险 低
+- Elon Musk's Life | 质量 73.05 | 可交易性 93.23 | 风险 低
+- Gambla Allegedly Launches BAWSAQ Token | 质量 73.01 | 可交易性 98.12 | 风险 低
+- Kim Got Bands | 质量 72.15 | 可交易性 100.00 | 风险 低
+- Binance Agent ID | 质量 69.85 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Elon Musk's Life | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Uncertain:Alleged 7DOG Meme Image Release | 风险 47.79 | 原因：流动性偏薄
+- Uncertain:Four.meme-華語 Mentions Binance | 风险 42.03 | 原因：流动性偏薄
 - Gambla Allegedly Launches BAWSAQ Token | 风险 41.32 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
@@ -105,13 +106,15 @@
 - HEYI | BSC | 看多 | 新鲜度 100.00 | Binance Agent ID
 - HackiOS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SUPERMAMA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- SHAV | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BUTTHOLE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - SURY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CYBER | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MERCURY | Solana | 看多 | 新鲜度 95.93 | 暂无直接叙事映射
-- SCI6900 | BSC | 看多 | 新鲜度 84.66 | 暂无直接叙事映射
 
 ## 官方催化
 
+- [Spot Trading Tournament Season 8: Trade to Share Up to 400 BNB Token Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/bf45cbddc47c428a884f58131090d675)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users in the EEA. Fellow Binancians, Binance…
 - [Updates on Tick Size for Spot Trading Pairs (2026-10-29)](https://www.binance.com/zh-CN/support/announcement/detail/929cf3d29e21443fad70c9eca98bed23)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve trading experience, Binance will complete…
 - [Hold RLUSD in Any Binance Accounts to Share 600,000 XRP Rewards](https://www.binance.com/zh-CN/support/announcement/detail/c453734d8dcc42d9af49c8f0627d67f7)
@@ -128,14 +131,12 @@
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, To expand the list of trading choices offered on Binance S…
 - [Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-10-21)](https://www.binance.com/zh-CN/support/announcement/detail/29e4e52d711946c88762f0ba2259de2e)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of tradin…
-- [Binance Blockchain Week Starter Pack Challenge: Win 1 of 20 Free Tickets to BBW 2026!](https://www.binance.com/zh-CN/support/announcement/detail/e3ed7bd9b119410d8b4f852042af2730)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Blockchain Week 2026 is almost here, and we want t…
 
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：National Oil Dividend Fund（Solana，分数 89.42）
-2. 共振最强代币：XRP（BSC，共振 100.0）
-3. 记忆层变化：National Oil Dividend Fund 当前为“新出现”
-4. 最新官方催化：Updates on Tick Size for Spot Trading Pairs (2026-10-29)
+1. 当前最强叙事：US Dividend Fund (USDF)🔥（Solana，分数 85.82）
+2. 共振最强代币：TRUMP（Solana，共振 100.0）
+3. 记忆层变化：KimchiWifHat 当前为“新出现”
+4. 最新官方催化：Spot Trading Tournament Season 8: Trade to Share Up to 400 BNB Token Vouchers
 #Binance #NarrativeOS #OpenClaw
