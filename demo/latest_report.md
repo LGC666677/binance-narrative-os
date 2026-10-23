@@ -1,116 +1,115 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-23T10:20:57.655738+00:00
+- 生成时间：2026-10-23T15:13:05.246157+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 CZ Rings Nasdaq Bell，所在链为 BSC，叙事强度 85.24。
-- 当前平均叙事强度为 76.18，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
-- 记忆层显示 CZ Rings Nasdaq Bell 当前处于“强化”状态。
-- 当前最需要防止误判的叙事是 BNB Standard Nasdaq Bell，伪叙事风险 52.99。
+- 当前最强叙事是 Futu Supports BNB，所在链为 BSC，叙事强度 84.38。
+- 当前平均叙事强度为 79.58，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 CARDS，来自 Solana，共振分数 100.0。
+- 记忆层显示 Futu Supports BNB 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 CZ Rings Nasdaq Bell，伪叙事风险 47.79。
 - 最新官方催化来自 币安最新公告：Binance Will Support the ASML Holding N.V. (ASML) and Nokia Corporation (NOK) Cash Dividend Distribution via bStocks。
 
 ## 叙事雷达
 
-- CZ Rings Nasdaq Bell | BSC | 降温中 | 强度 85.24 | 质量 80.06
+- Futu Supports BNB | BSC | 加速中 | 强度 84.38 | 质量 82.51
+  - 主题摘要：BNB Chain officially announces that BNB deposits and withdrawals are now available on the Futu crypto platform, enabling eligible professional investors in Hong Kong to move BNB b…
+  - 资金 93.31 / 广度 97.61 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- United States Water Reserve | Solana | 降温中 | 强度 81.24 | 质量 69.66
+  - 主题摘要：Multiple tokens named 「USWR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.03 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged GTA 6 Dacity Coin Meme | Solana | 降温中 | 强度 81.07 | 质量 73.36
+  - 主题摘要：According to RobTheMaster's post, a leaked video from GTA 6 allegedly features a 'Dacity Coin' Meme image displayed on a stunt plane. This token is described as a fictional crypto…
+  - 资金 100.00 / 广度 81.38 / 确认 4.32 / 脆弱性 22.09
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- USDF | Solana | 降温中 | 强度 80.72 | 质量 72.59
+  - 主题摘要：Multiple tokens named 「USDF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.79 / 确认 4.32 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Cindy AI Agent | BSC | 加速中 | 强度 80.00 | 质量 78.34
+  - 主题摘要：According to bwams brother's post, an open-source AI agent named Cindy, developed by a Chinese developer, is reportedly gaining viral traction on GitHub. The agent is described as…
+  - 资金 100.00 / 广度 87.39 / 确认 18.72 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Alleged CiShanGou Meme Image | BSC | 降温中 | 强度 79.47 | 质量 69.30
+  - 主题摘要：According to 角度之王，龙头先生's post, CZ is mentioned in relation to a token named CiShanGou_GiggleAcademy. The post claims CZ will like this token and encourages charitable activities.…
+  - 资金 100.00 / 广度 82.97 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Cedric Introduces FLAP APPS | BSC | 加速中 | 强度 78.83 | 质量 77.92
+  - 主题摘要：According to Cedric 🦋's post, FLAP APPS is a platform enabling developers to build applications on Flap infrastructure. The first application, ID Agent Curve, allows users with Bi…
+  - 资金 100.00 / 广度 85.47 / 确认 19.44 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Flap 🦋 Responds to AncoBinance | BSC | 加速中 | 强度 78.83 | 质量 77.92
+  - 主题摘要：According to Flap 🦋's post, the author replied to Anco Binance's inquiry regarding follow-up information, stating 'We are on it' and 'Let’s build'. This interaction indicates that…
+  - 资金 100.00 / 广度 85.47 / 确认 19.44 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Cedric Shares FLAP APPS | BSC | 加速中 | 强度 78.55 | 质量 77.92
+  - 主题摘要：According to Cedric 🦋's post, FLAP APPS enables developers to build products on Flap infrastructure. The first app, ID Agent Curve, allows Binance Wallet Agent ID holders to creat…
+  - 资金 100.00 / 广度 85.47 / 确认 19.44 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:Cedric Shares FLAP APPS | BSC | 加速中 | 强度 78.51 | 质量 77.92
+  - 主题摘要：According to Cedric 🦋's post, FLAP APPS is a platform enabling developers to build applications on Flap infrastructure. The first application, ID Agent Curve, allows users with Bi…
+  - 资金 100.00 / 广度 85.47 / 确认 19.44 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ Rings Nasdaq Bell | BSC | 点火期 | 强度 78.05 | 质量 74.42
   - 主题摘要：Binance CEO Richard Teng (referred to as New CEO/CZ in the context of BNB Standard's Nasdaq listing celebration) celebrates BNB Standard's listing on Nasdaq by engaging with the '…
   - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- XTO | Solana | 降温中 | 强度 82.22 | 质量 68.43
-  - 主题摘要：According to clapzy's post, the author claims to be launching an organic $XTO token on Pump.fun to compete with existing projects, alleging that current $XTO tokens are scams extr…
-  - 资金 100.00 / 广度 67.81 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Borbino | Solana | 降温中 | 强度 80.79 | 质量 69.67
-  - 主题摘要：Multiple tokens named 「BORBINO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 65.37 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mad Moko | Solana | 加速中 | 强度 80.45 | 质量 72.30
-  - 主题摘要：MOKO is born from the sound a city makes when everyone else has gone home—a collective loneliness that resonates instantly with urban dwellers. Its rapid spread stems from this em…
-  - 资金 100.00 / 广度 63.06 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Massimo Shares Video of Seal Scaring Polar Bear Cub | Solana | 降温中 | 强度 78.71 | 质量 68.95
-  - 主题摘要：According to Massimo's post, a video shows a seal accidentally popping up and scaring a polar bear cub while it was happily making snowballs. The content focuses on this wildlife…
-  - 资金 100.00 / 广度 62.96 / 确认 9.36 / 脆弱性 22.20
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Aura First Boss | Solana | 降温中 | 强度 76.57 | 质量 63.97
-  - 主题摘要：Multiple tokens named 「DEMOKIMCHI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 98.70 / 广度 58.36 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNB Standard Nasdaq Bell | BSC | 点火期 | 强度 75.90 | 质量 73.04
-  - 主题摘要：According to BNB Standard Corporation (BNC)'s post, the company will ring the Nasdaq Opening Bell on October 26 to celebrate its new name and leadership. CEO @odagius will partici…
-  - 资金 100.00 / 广度 99.38 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Bear Meme Image Release | Solana | 降温中 | 强度 75.52 | 质量 70.86
-  - 主题摘要：According to Devviee's post, a viral polar bear Meme image is trending on X, garnering around 10 million views in 24 hours. Devviee highlights the widespread reactions and memes a…
-  - 资金 87.38 / 广度 79.05 / 确认 16.56 / 脆弱性 24.00
+- Milly The Fish | Solana | 降温中 | 强度 77.31 | 质量 66.73
+  - 主题摘要：MILLY is a meme token inspired by a pink fish character with gold accents, embodying the playful 'Too Glam To Give A Clam' ethos. Created by millydafish on X, it celebrates prospe…
+  - 资金 100.00 / 广度 59.26 / 确认 4.32 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 100X | BSC | 降温中 | 强度 75.46 | 质量 65.27
-  - 主题摘要：Multiple tokens named 「100X」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 50.71 / 确认 9.36 / 脆弱性 14.00
+- Alleged McRib Bull Market Indicator | Solana | 降温中 | 强度 77.19 | 质量 62.88
+  - 主题摘要：Multiple tokens named 「McRib」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 97.90 / 广度 89.78 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- FATCAT | BSC | 降温中 | 强度 75.12 | 质量 66.61
-  - 主题摘要：FATCAT draws inspiration from a classic cartoon character, featuring a large, bearded cat in a top hat holding a megaphone. The token's logo depicts this iconic feline figure surr…
-  - 资金 100.00 / 广度 66.82 / 确认 9.36 / 脆弱性 14.00
+- World Collective Oil Reserve | Solana | 降温中 | 强度 76.99 | 质量 65.69
+  - 主题摘要：Multiple tokens named 「WCOR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 52.10 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged CiShanGou Meme Image | BSC | 降温中 | 强度 74.67 | 质量 60.95
-  - 主题摘要：According to 角度之王，龙头先生's post, CZ is associated with a Meme image of a dog named CiShanGou, which is described as a charitable figure. This information is unverified. Please exerc…
-  - 资金 100.00 / 广度 78.15 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Rockstar Games | Solana | 点火期 | 强度 74.62 | 质量 73.14
-  - 主题摘要：Multiple tokens named 「Rockstar」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.46 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- POFD | BSC | 降温中 | 强度 74.24 | 质量 60.22
-  - 主题摘要：Multiple tokens named 「POFD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.96 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 会议号3386099899 | BSC | 点火期 | 强度 72.63 | 质量 66.39
-  - 主题摘要：BNCB共建 (Meeting Number 3386099899) appears to be a community-driven token inspired by a specific meeting number. The token likely aims to foster collaboration among participants t…
-  - 资金 100.00 / 广度 57.70 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 76.18，其中已确认叙事 0 个。
-- Mad Moko 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- CZ Rings Nasdaq Bell 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 79.58，其中已确认叙事 0 个。
+- Futu Supports BNB 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
+- United States Water Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- CZ Rings Nasdaq Bell | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Rockstar Games | 质量 73.14 | 可交易性 100.00 | 风险 低
-- BNB Standard Nasdaq Bell | 质量 73.04 | 可交易性 100.00 | 风险 低
-- Mad Moko | 质量 72.30 | 可交易性 100.00 | 风险 低
-- Alleged Bear Meme Image Release | 质量 70.86 | 可交易性 85.02 | 风险 低
-- Borbino | 质量 69.67 | 可交易性 100.00 | 风险 低
-- Massimo Shares Video of Seal Scaring Polar Bear Cub | 质量 68.95 | 可交易性 100.00 | 风险 低
-- XTO | 质量 68.43 | 可交易性 100.00 | 风险 低
-- FATCAT | 质量 66.61 | 可交易性 100.00 | 风险 低
-- 会议号3386099899 | 质量 66.39 | 可交易性 100.00 | 风险 低
+- Futu Supports BNB | 质量 82.51 | 可交易性 100.00 | 风险 低
+- Alleged Cindy AI Agent | 质量 78.34 | 可交易性 100.00 | 风险 低
+- Uncertain:Cedric Introduces FLAP APPS | 质量 77.92 | 可交易性 100.00 | 风险 低
+- Uncertain:Flap 🦋 Responds to AncoBinance | 质量 77.92 | 可交易性 100.00 | 风险 低
+- Uncertain:Cedric Shares FLAP APPS | 质量 77.92 | 可交易性 100.00 | 风险 低
+- Uncertain:Cedric Shares FLAP APPS | 质量 77.92 | 可交易性 100.00 | 风险 低
+- CZ Rings Nasdaq Bell | 质量 74.42 | 可交易性 100.00 | 风险 低
+- Alleged GTA 6 Dacity Coin Meme | 质量 73.36 | 可交易性 100.00 | 风险 低
+- USDF | 质量 72.59 | 可交易性 100.00 | 风险 低
+- United States Water Reserve | 质量 69.66 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- BNB Standard Nasdaq Bell | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Rockstar Games | 风险 47.79 | 原因：流动性偏薄
-- 会议号3386099899 | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Massimo Shares Video of Seal Scaring Polar Bear Cub | 风险 40.06 | 原因：流动性偏薄、龙头筹码集中度偏高
+- CZ Rings Nasdaq Bell | 风险 47.79 | 原因：流动性偏薄
+- USDF | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged GTA 6 Dacity Coin Meme | 风险 44.03 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
 
+- BIBI | BSC | 看多 | 新鲜度 100.00 | Uncertain:Cedric Introduces FLAP APPS / Uncertain:Flap 🦋 Responds to AncoBinance / Uncertain:Cedric Shares FLAP APPS
 - sats | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RSA4 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- .ai | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - .ai | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - Kimchi | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - ELON | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - MEMEMAN | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Kimchi | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- kimchi | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - worth | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- AI | BSC | 看多 | 新鲜度 98.00 | 暂无直接叙事映射
+- HEYI | BSC | 看多 | 新鲜度 96.87 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：CZ Rings Nasdaq Bell（BSC，分数 85.24）
-2. 共振最强代币：TRUMP（Solana，共振 100.0）
-3. 记忆层变化：CZ Rings Nasdaq Bell 当前为“强化”
+1. 当前最强叙事：Futu Supports BNB（BSC，分数 84.38）
+2. 共振最强代币：CARDS（Solana，共振 100.0）
+3. 记忆层变化：Futu Supports BNB 当前为“新出现”
 4. 最新官方催化：Binance Will Support the ASML Holding N.V. (ASML) and Nokia Corporation (NOK) Cash Dividend Distribution via bStocks
 #Binance #NarrativeOS #OpenClaw
