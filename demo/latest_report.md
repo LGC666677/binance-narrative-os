@@ -1,112 +1,113 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-25T18:21:51.994503+00:00
+- 生成时间：2026-10-25T20:59:19.440229+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Solana PFP Meme Trend，所在链为 Solana，叙事强度 89.44。
-- 当前平均叙事强度为 89.44，其中已确认叙事 0 个。
+- 当前最强叙事是 American Overwatch Protocol，所在链为 Solana，叙事强度 85.86。
+- 当前平均叙事强度为 80.11，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 STONK，来自 Solana，共振分数 100.0。
-- 记忆层显示 Solana PFP Meme Trend 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Four.meme-華語 Mentions BNB Chain New Dynamics，伪叙事风险 44.91。
+- 记忆层显示 American Overwatch Protocol 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Four.meme-華語 Mentions BNB Chain New Dynamics，伪叙事风险 50.11。
 - 最新官方催化来自 新币上新：Binance Futures Will Launch USDⓈ-Margined PREDICTUSDT Perpetual Contract Pre-Market Trading (2026-10-25)。
 
 ## 叙事雷达
 
-- Solana PFP Meme Trend | Solana | 降温中 | 强度 89.44 | 质量 81.64
-  - 主题摘要：According to KODAQ's post, a new trend on TikTok involves traders and normies changing their profile pictures using the 'Creation of Adam' Meme image template. This activity incor…
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
+- American Overwatch Protocol | Solana | 降温中 | 强度 85.86 | 质量 74.25
+  - 主题摘要：Multiple tokens named 「AOP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.65 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pump.fun Squads Competition | Solana | 降温中 | 强度 89.44 | 质量 81.64
-  - 主题摘要：Multiple tokens named 「PUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Lana Goat Discusses PUMP Token | Solana | 降温中 | 强度 89.44 | 质量 81.64
-  - 主题摘要：Multiple tokens named 「PUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Pump.fun Bubble | Solana | 降温中 | 强度 89.44 | 质量 81.64
-  - 主题摘要：Multiple tokens named 「PUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Zack Zack Shares SQUADS Competition | Solana | 降温中 | 强度 89.44 | 质量 81.64
-  - 主题摘要：According to Zack Zack's post, the Pumpfun app is hosting a SQUADS competition with a $2.5 million prize pool for the top 3 squads by PNL. The competition runs for two weeks, with…
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Meme Image Release | Solana | 降温中 | 强度 89.44 | 质量 81.64
-  - 主题摘要：Multiple tokens named 「PUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged $GREEN Meme Trend | Solana | 降温中 | 强度 89.44 | 质量 81.64
-  - 主题摘要：According to playa's post, a viral trend on YouTube involves users changing their profile pictures to a green canary, symbolizing prosperity and representing the $GREEN token. The…
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Pumpers Squad Launch | Solana | 降温中 | 强度 89.44 | 质量 81.64
-  - 主题摘要：According to Moxey's post, Moxey allegedly launched the 'Pumpers Squad' token on the pump.fun platform and invited users to join the squad. This information is unverified. Please…
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Thumbs Up | BSC | 降温中 | 强度 85.92 | 质量 81.64
+- CZ Thumbs Up | BSC | 降温中 | 强度 84.91 | 质量 81.64
   - 主题摘要：CZ (赵长鹏) 亲自回复并点赞了一位粉丝分享的燃向视频，这种简单的互动在币圈被视为强烈的积极信号，激发了社区的狂热情绪。
   - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Shares BNB Standard Nasdaq Listing News | BSC | 降温中 | 强度 84.78 | 质量 80.97
-  - 主题摘要：CZ quoted a post announcing that BNB Standard (Nasdaq: $BNC) will ring the Nasdaq Opening Bell on October 26 to celebrate its new name and CEO. The event features CEO @odagius and…
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Four.meme-華語 Mentions BNB Chain New Dynamics | BSC | 点火期 | 强度 84.51 | 质量 80.53
-  - 主题摘要：According to Four.meme-華語's post, the account announced that something new is coming to the BNB Chain ecosystem. The post serves as a teaser for upcoming developments or projects…
-  - 资金 100.00 / 广度 98.93 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Flap 🦋 Responds to AncoBinance | BSC | 加速中 | 强度 81.95 | 质量 76.14
+- Uncertain:Flap 🦋 Responds to AncoBinance | BSC | 加速中 | 强度 84.86 | 质量 76.58
   - 主题摘要：According to Flap 🦋's post, the author replied to Anco Binance's inquiry regarding follow-up information, stating 'We are on it' and 'Let’s build'. This interaction indicates that…
-  - 资金 100.00 / 广度 89.59 / 确认 23.76 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.61 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Cedric Introduces FLAP APPS | BSC | 加速中 | 强度 80.03 | 质量 75.03
+- Uncertain:Cedric Introduces FLAP APPS | BSC | 加速中 | 强度 82.93 | 质量 75.46
   - 主题摘要：According to Cedric 🦋's post, FLAP APPS is a platform enabling developers to build applications on Flap infrastructure. The first application, ID Agent Curve, allows users with Bi…
-  - 资金 100.00 / 广度 89.59 / 确认 18.72 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.61 / 确认 18.72 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Cedric Shares FLAP APPS | BSC | 加速中 | 强度 78.59 | 质量 72.11
+- Alleged Meme Coin Launch | Solana | 降温中 | 强度 82.35 | 质量 74.49
+  - 主题摘要：According to sling's post, sling encourages users to deploy new tokens paired with a specific Solana address and requests a percentage of fees. sling claims that upon reaching a m…
+  - 资金 100.00 / 广度 82.47 / 确认 13.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Cedric Shares FLAP APPS | BSC | 加速中 | 强度 82.23 | 质量 73.64
   - 主题摘要：According to Cedric 🦋's post, FLAP APPS is a platform enabling developers to build and run applications on Flap infrastructure. The first application, ID Agent Curve, allows users…
-  - 资金 100.00 / 广度 81.53 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.56 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Four.meme-華語 Mentions BNB Chain New Dynamics | BSC | 点火期 | 强度 81.75 | 质量 80.53
+  - 主题摘要：According to Four.meme-華語's post, the account announced that something new is coming to the BNB Chain ecosystem. The post serves as a teaser for upcoming developments or projects…
+  - 资金 100.00 / 广度 98.93 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- CZ Shares BNB Standard Nasdaq Listing News | BSC | 降温中 | 强度 81.48 | 质量 77.37
+  - 主题摘要：CZ quoted a post announcing that BNB Standard (Nasdaq: $BNC) will ring the Nasdaq Opening Bell on October 26 to celebrate its new name and CEO. The event features CEO @odagius and…
+  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged AAPL Meme Token | Solana | 降温中 | 强度 80.39 | 质量 71.19
+  - 主题摘要：According to Kryptonite's post, the author suggests launching an AAPL token named 'Absolutely Perfect Apple Lovers' to capitalize on Apple's high market capitalization. This infor…
+  - 资金 100.00 / 广度 85.10 / 确认 13.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Cedric Shares FLAP APPS | BSC | 降温中 | 强度 80.31 | 质量 72.53
+  - 主题摘要：According to Cedric 🦋's post, FLAP APPS is a platform enabling developers to build applications on Flap infrastructure. The first app, ID Agent Curve, allows Binance Wallet Agent…
+  - 资金 100.00 / 广度 81.56 / 确认 15.12 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- BNB Standard Corp. Nasdaq Bell | BSC | 降温中 | 强度 79.82 | 质量 77.14
+  - 主题摘要：According to BNB Standard Corporation (BNC)'s post, the company will ring the Nasdaq Opening Bell on October 26 to celebrate its new name and leadership. CEO @odagius will partici…
+  - 资金 100.00 / 广度 99.82 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged $GREEN Meme Trend | Solana | 降温中 | 强度 77.39 | 质量 72.95
+  - 主题摘要：Multiple tokens named 「PUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 89.80 / 广度 95.16 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Meme Image Release | Solana | 降温中 | 强度 77.33 | 质量 72.95
+  - 主题摘要：Multiple tokens named 「PUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 89.51 / 广度 95.18 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Zack Zack Shares SQUADS Competition | Solana | 降温中 | 强度 77.33 | 质量 72.95
+  - 主题摘要：Multiple tokens named 「PUMP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 89.51 / 广度 95.18 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 89.44，其中已确认叙事 0 个。
-- Solana PFP Meme Trend 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.11，其中已确认叙事 0 个。
+- American Overwatch Protocol 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Solana PFP Meme Trend | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Pump.fun Squads Competition | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Lana Goat Discusses PUMP Token | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Alleged Pump.fun Bubble | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Zack Zack Shares SQUADS Competition | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Alleged Meme Image Release | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Alleged $GREEN Meme Trend | 质量 81.64 | 可交易性 100.00 | 风险 低
-- Alleged Pumpers Squad Launch | 质量 81.64 | 可交易性 100.00 | 风险 低
 - CZ Thumbs Up | 质量 81.64 | 可交易性 100.00 | 风险 低
-- CZ Shares BNB Standard Nasdaq Listing News | 质量 80.97 | 可交易性 100.00 | 风险 低
+- Four.meme-華語 Mentions BNB Chain New Dynamics | 质量 80.53 | 可交易性 100.00 | 风险 低
+- CZ Shares BNB Standard Nasdaq Listing News | 质量 77.37 | 可交易性 100.00 | 风险 低
+- BNB Standard Corp. Nasdaq Bell | 质量 77.14 | 可交易性 100.00 | 风险 低
+- Uncertain:Flap 🦋 Responds to AncoBinance | 质量 76.58 | 可交易性 100.00 | 风险 低
+- Uncertain:Cedric Introduces FLAP APPS | 质量 75.46 | 可交易性 100.00 | 风险 低
+- Alleged Meme Coin Launch | 质量 74.49 | 可交易性 96.31 | 风险 低
+- American Overwatch Protocol | 质量 74.25 | 可交易性 100.00 | 风险 低
+- Uncertain:Cedric Shares FLAP APPS | 质量 73.64 | 可交易性 100.00 | 风险 低
+- Alleged $GREEN Meme Trend | 质量 72.95 | 可交易性 78.49 | 风险 低
 
 ## 伪叙事风险
 
-- Four.meme-華語 Mentions BNB Chain New Dynamics | 风险 44.91 | 原因：流动性偏薄
+- Four.meme-華語 Mentions BNB Chain New Dynamics | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- BNB Standard Corp. Nasdaq Bell | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
 - BIBI | BSC | 看多 | 新鲜度 100.00 | Uncertain:Flap 🦋 Responds to AncoBinance / Uncertain:Cedric Introduces FLAP APPS / Uncertain:Cedric Shares FLAP APPS
 - sats | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RSA4 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- NMS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BTC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BILLIONS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - WILDWOOD | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- bbCoin | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- bbCoin | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - worth | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AI | BSC | 看多 | 新鲜度 98.00 | 暂无直接叙事映射
+- HEYI | BSC | 看多 | 新鲜度 96.87 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -132,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Solana PFP Meme Trend（Solana，分数 89.44）
+1. 当前最强叙事：American Overwatch Protocol（Solana，分数 85.86）
 2. 共振最强代币：STONK（Solana，共振 100.0）
-3. 记忆层变化：Solana PFP Meme Trend 当前为“新出现”
+3. 记忆层变化：American Overwatch Protocol 当前为“新出现”
 4. 最新官方催化：Binance Futures Will Launch USDⓈ-Margined PREDICTUSDT Perpetual Contract Pre-Market Trading (2026-10-25)
 #Binance #NarrativeOS #OpenClaw
