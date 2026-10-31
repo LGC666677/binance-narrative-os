@@ -1,98 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-10-31T20:56:44.561004+00:00
+- 生成时间：2026-10-31T23:51:45.525123+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Oil Exchange，所在链为 Solana，叙事强度 87.98。
-- 当前平均叙事强度为 85.29，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 PUMP，来自 Solana，共振分数 100.0。
-- 记忆层显示 United States Oil Exchange 当前处于“新出现”状态。
+- 当前最强叙事是 AODF，所在链为 Solana，叙事强度 83.56。
+- 当前平均叙事强度为 81.53，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ANTHROPIC，来自 Solana，共振分数 100.0。
+- 记忆层显示 AODF 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Yi He Thanks Tether Freeze，伪叙事风险 44.91。
 - 最新官方催化来自 币安最新公告：Security Incident | Recovery Update #3: 90% of Stolen Assets Replenished; Proof of Reserves Snapshot Provided (2026-10-31)。
 
 ## 叙事雷达
 
-- United States Oil Exchange | Solana | 降温中 | 强度 87.98 | 质量 76.93
-  - 主题摘要：Multiple tokens named 「USOE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.56 / 确认 9.36 / 脆弱性 0.00
+- AODF | Solana | 降温中 | 强度 83.56 | 质量 71.85
+  - 主题摘要：Multiple tokens named 「AODF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.63 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Trump Coin Dev Comments on Market Sentiment | Solana | 降温中 | 强度 85.69 | 质量 76.35
-  - 主题摘要：According to mystique's post, the developer of Trump Coin, identified as Ansem, allegedly suggested that calling another individual a racial slur is the only way to reverse market…
-  - 资金 100.00 / 广度 82.37 / 确认 16.56 / 脆弱性 14.00
+- Ace Comments on Solana Meme Coin | Solana | 降温中 | 强度 82.15 | 质量 77.35
+  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.68 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Anakin Meme Trend | Solana | 加速中 | 强度 85.67 | 质量 77.31
-  - 主题摘要：According to ...'s post, the Anakin Meme image has gained significant traction on X this week. The trend interprets the Star Wars character Anakin Skywalker as a symbol for the mo…
-  - 资金 100.00 / 广度 79.74 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged ANSEM Pump | Solana | 降温中 | 强度 85.08 | 质量 76.35
+- Alleged Trump Coin Dev Comments on Market Sentiment | Solana | 降温中 | 强度 81.94 | 质量 77.01
+  - 主题摘要：According to mystique's post, the developer of Trump Coin, who also claims involvement with other tokens, stated that the only way to reverse market declines caused by bearish pos…
+  - 资金 100.00 / 广度 84.56 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged ANSEM Pump | Solana | 降温中 | 强度 81.93 | 质量 77.01
   - 主题摘要：According to Chief's post, the user mentions 'ANSEM 1 CLIPPED PUMP', referencing the ANSEM token. The statement appears to be a brief commentary on market activity or price moveme…
-  - 资金 100.00 / 广度 82.36 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.55 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ace Comments on Solana Meme Coin | Solana | 降温中 | 强度 85.03 | 质量 75.20
-  - 主题摘要：According to solution's post, a query is raised regarding the absence of fees associated with the ANSEM token. The post specifically asks if there are no fees for this token, indi…
-  - 资金 100.00 / 广度 82.34 / 确认 16.56 / 脆弱性 14.00
+- Bold Comments on ANSEM Black Bear | Solana | 降温中 | 强度 81.83 | 质量 77.01
+  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.55 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ansem 🐂🀄️ Discusses WHATBRO Token | Solana | 降温中 | 强度 84.74 | 质量 74.60
+- Ansem 🐂🀄️ Discusses WHATBRO Token | Solana | 降温中 | 强度 80.69 | 质量 75.04
   - 主题摘要：According to Ansem 🐂🀄️'s post, the user shared a brief message containing the phrase "what bro". This content is associated with the WHATBRO token. The post reflects a casual inqu…
-  - 资金 100.00 / 广度 81.79 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.54 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- john Questions iCoin Value | Solana | 降温中 | 强度 84.22 | 质量 78.11
-  - 主题摘要：According to john's post, he shared a quoted tweet questioning whether iCoin could become the most valuable currency, paralleling Apple's status as the most valuable company. The…
-  - 资金 100.00 / 广度 90.86 / 确认 12.96 / 脆弱性 24.00
+- Trencher Bill Comments on Ansem's Token Sale | Solana | 降温中 | 强度 80.60 | 质量 74.68
+  - 主题摘要：According to Trencher Bill's post, Ansem sold 300k of pump tokens, leading to the conclusion that he is no longer bullish but bearish.
+  - 资金 100.00 / 广度 86.31 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Apple Overtakes Nvidia | Solana | 降温中 | 强度 83.92 | 质量 76.20
-  - 主题摘要：According to Decrypt's post, Apple surpassed Nvidia as the world's most valuable company, with a market cap of approximately $5.03 trillion compared to Nvidia's $4.94 trillion.
-  - 资金 100.00 / 广度 90.34 / 确认 9.36 / 脆弱性 14.00
+- Pump.fun Perps Social Trading | Solana | 降温中 | 强度 79.53 | 质量 72.92
+  - 主题摘要：Multiple tokens named 「ANSEM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.09 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 快乐人生 | BSC | 降温中 | 强度 77.83 | 质量 71.63
+- 快乐人生 | BSC | 降温中 | 强度 78.93 | 质量 73.13
   - 主题摘要：Multiple tokens named 「快乐人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.60 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 77.77 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Thanks Tether Freeze | BSC | 加速中 | 强度 75.90 | 质量 71.14
+- Yi He Thanks Tether Freeze | BSC | 点火期 | 强度 76.00 | 质量 72.87
   - 主题摘要：Binance CEO Yi He publicly thanked Tether for freezing $971M USDT related to a suspected Binance hack. Her calm and appreciative response to a major security incident created a vi…
-  - 资金 100.00 / 广度 100.00 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Covers Losses | BSC | 加速中 | 强度 75.02 | 质量 69.62
-  - 主题摘要：Binance officially announced it will cover user losses from affected assets and is working with law enforcement to recover funds. This reinforces the 'SAFU' narrative of the excha…
-  - 资金 100.00 / 广度 93.61 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Richard Teng: Your Money is Safe | BSC | 加速中 | 强度 75.02 | 质量 69.62
-  - 主题摘要：Binance CEO Richard Teng directly addresses a security incident, assuring users that their funds are secure and the exchange will cover all losses. This statement reinforces the S…
-  - 资金 100.00 / 广度 93.61 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Binance Security Alert | BSC | 加速中 | 强度 74.87 | 质量 69.49
+  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance Security Alert | BSC | 点火期 | 强度 74.94 | 质量 71.16
   - 主题摘要：Binance Co-CEO Yi He issued a formal statement regarding potential security concerns, emphasizing active investigation and user safety. The tone is serious and corporate, focusing…
-  - 资金 100.00 / 广度 94.52 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ's SpaceX Fund Joke | BSC | 加速中 | 强度 74.55 | 质量 69.08
+  - 资金 100.00 / 广度 94.30 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance Covers Losses | BSC | 点火期 | 强度 74.83 | 质量 70.90
+  - 主题摘要：Binance officially announced it will cover user losses from affected assets and is working with law enforcement to recover funds. This reinforces the 'SAFU' narrative of the excha…
+  - 资金 100.00 / 广度 93.32 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Richard Teng: Your Money is Safe | BSC | 点火期 | 强度 74.83 | 质量 70.90
+  - 主题摘要：Binance CEO Richard Teng directly addresses a security incident, assuring users that their funds are secure and the exchange will cover all losses. This statement reinforces the S…
+  - 资金 100.00 / 广度 93.32 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- CZ's SpaceX Fund Joke | BSC | 点火期 | 强度 73.94 | 质量 69.57
   - 主题摘要：CZ jokingly clarifies that his previous tweet about 'funds' was a playful reference to holding SpaceX shares, linking Binance leadership with Elon Musk's ventures and Huawei, crea…
-  - 资金 100.00 / 广度 92.56 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+  - 资金 100.00 / 广度 92.27 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.29，其中已确认叙事 0 个。
-- Anakin Meme Trend 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- United States Oil Exchange 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.53，其中已确认叙事 0 个。
+- AODF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- john Questions iCoin Value | 质量 78.11 | 可交易性 100.00 | 风险 低
-- Anakin Meme Trend | 质量 77.31 | 可交易性 100.00 | 风险 低
-- United States Oil Exchange | 质量 76.93 | 可交易性 100.00 | 风险 低
-- Alleged Trump Coin Dev Comments on Market Sentiment | 质量 76.35 | 可交易性 100.00 | 风险 低
-- Alleged ANSEM Pump | 质量 76.35 | 可交易性 100.00 | 风险 低
-- Apple Overtakes Nvidia | 质量 76.20 | 可交易性 96.80 | 风险 低
-- Ace Comments on Solana Meme Coin | 质量 75.20 | 可交易性 96.18 | 风险 低
-- Ansem 🐂🀄️ Discusses WHATBRO Token | 质量 74.60 | 可交易性 94.73 | 风险 低
-- 快乐人生 | 质量 71.63 | 可交易性 100.00 | 风险 低
-- Yi He Thanks Tether Freeze | 质量 71.14 | 可交易性 100.00 | 风险 低
+- Ace Comments on Solana Meme Coin | 质量 77.35 | 可交易性 100.00 | 风险 低
+- Alleged Trump Coin Dev Comments on Market Sentiment | 质量 77.01 | 可交易性 100.00 | 风险 低
+- Alleged ANSEM Pump | 质量 77.01 | 可交易性 100.00 | 风险 低
+- Bold Comments on ANSEM Black Bear | 质量 77.01 | 可交易性 100.00 | 风险 低
+- Ansem 🐂🀄️ Discusses WHATBRO Token | 质量 75.04 | 可交易性 93.45 | 风险 低
+- Trencher Bill Comments on Ansem's Token Sale | 质量 74.68 | 可交易性 90.48 | 风险 低
+- 快乐人生 | 质量 73.13 | 可交易性 100.00 | 风险 低
+- Pump.fun Perps Social Trading | 质量 72.92 | 可交易性 86.84 | 风险 低
+- Yi He Thanks Tether Freeze | 质量 72.87 | 可交易性 100.00 | 风险 低
+- AODF | 质量 71.85 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
+- Yi He Thanks Tether Freeze | 风险 44.91 | 原因：流动性偏薄
+- Binance Security Alert | 风险 44.91 | 原因：流动性偏薄
+- Binance Covers Losses | 风险 44.91 | 原因：流动性偏薄
+- Richard Teng: Your Money is Safe | 风险 44.91 | 原因：流动性偏薄
+- CZ's SpaceX Fund Joke | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -104,8 +109,8 @@
 - RIKI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BATCOIN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - AGORA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- KIM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DOUGHBRIKS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- DAVID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -131,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Oil Exchange（Solana，分数 87.98）
-2. 共振最强代币：PUMP（Solana，共振 100.0）
-3. 记忆层变化：United States Oil Exchange 当前为“新出现”
+1. 当前最强叙事：AODF（Solana，分数 83.56）
+2. 共振最强代币：ANTHROPIC（Solana，共振 100.0）
+3. 记忆层变化：AODF 当前为“新出现”
 4. 最新官方催化：Security Incident | Recovery Update #3: 90% of Stolen Assets Replenished; Proof of Reserves Snapshot Provided (2026-10-31)
 #Binance #NarrativeOS #OpenClaw
