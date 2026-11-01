@@ -1,105 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-01T09:41:29.373951+00:00
+- 生成时间：2026-11-01T16:21:41.933520+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：3
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 AODF，所在链为 Solana，叙事强度 89.26。
-- 当前平均叙事强度为 81.88，其中已确认叙事 0 个。
+- 当前最强叙事是 American Oil Trust Fund，所在链为 Solana，叙事强度 88.76。
+- 当前平均叙事强度为 86.07，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ANTHROPIC，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged LEGO Token Proposal 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Laowu Cat Meme Token Launch，伪叙事风险 52.99。
+- 记忆层显示 American Oil Trust Fund 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 快乐人生，伪叙事风险 40.99。
 - 最新官方催化来自 币安最新公告：Security Incident | Recovery Update #4: Withdrawals Resume in Phases (2026-11-01)。
 
 ## 叙事雷达
 
-- AODF | Solana | 降温中 | 强度 89.26 | 质量 78.99
-  - 主题摘要：Multiple tokens named 「AODF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 96.45 / 确认 9.36 / 脆弱性 0.00
+- American Oil Trust Fund | Solana | 降温中 | 强度 88.76 | 质量 78.20
+  - 主题摘要：AOTF (American Oil Trust Fund) draws inspiration from oil industry themes, featuring an eagle logo symbolizing strength and freedom. The token aims to empower oil and gas professi…
+  - 资金 100.00 / 广度 93.79 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged LEGO Token Proposal | Solana | 降温中 | 强度 84.81 | 质量 75.27
-  - 主题摘要：According to BORED's post, the author proposes tokenizing collections of rare sealed LEGO sets, expressing interest in participating as both an investor and contributor. This sugg…
-  - 资金 100.00 / 广度 84.03 / 确认 9.36 / 脆弱性 14.00
+- PROJECT CORTEX | Solana | 降温中 | 强度 86.80 | 质量 76.05
+  - 主题摘要：Multiple tokens named 「XTX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.64 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Digital Oil Asset Supply | Solana | 降温中 | 强度 84.30 | 质量 72.39
-  - 主题摘要：Multiple tokens named 「DOAS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.44 / 确认 9.36 / 脆弱性 0.00
+- National Oil Trust Fund | Solana | 降温中 | 强度 86.23 | 质量 74.15
+  - 主题摘要：Multiple tokens named 「NOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.29 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Federal Oil Trust Fund | Solana | 降温中 | 强度 83.20 | 质量 72.52
-  - 主题摘要：Multiple tokens named 「FOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.88 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Nike Tyson | Solana | 降温中 | 强度 80.30 | 质量 69.93
-  - 主题摘要：According to Crypto Molodoy's post, the Nike Tyson token is allegedly launched without holder rewards. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 60.95 / 确认 16.56 / 脆弱性 7.18
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Anthropic Files S-1 for IPO | Solana | 加速中 | 强度 78.79 | 质量 66.66
-  - 主题摘要：According to Anthropic's post, the company has filed an S-1 registration statement with the SEC regarding its proposed initial public offering. The post includes a legal disclaime…
-  - 资金 100.00 / 广度 77.07 / 确认 23.76 / 脆弱性 24.00
+- Fidelity: Bitcoin Outperforms Gold | Solana | 加速中 | 强度 85.98 | 质量 79.70
+  - 主题摘要：Multiple tokens named 「BTC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.72 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Federal Oil Dividend Fund | Solana | 降温中 | 强度 77.21 | 质量 65.91
-  - 主题摘要：Multiple tokens named 「FODF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 52.85 / 确认 9.36 / 脆弱性 0.00
+- Bitcoin Pennywise Meme | Solana | 加速中 | 强度 85.72 | 质量 79.09
+  - 主题摘要：Multiple tokens named 「BTC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.71 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Satoshi Nakamoto Whitepaper Anniversary | Solana | 加速中 | 强度 85.26 | 质量 78.35
+  - 主题摘要：According to Watcher.Guru's post, Satoshi Nakamoto published the Bitcoin whitepaper 18 years ago. This event marks the foundational release of the Bitcoin protocol, establishing t…
+  - 资金 100.00 / 广度 89.21 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged BALLS TINGLING COIN | Solana | 加速中 | 强度 85.11 | 质量 78.12
+  - 主题摘要：According to 河内の虎's post, the author suggests launching an adult-themed Meme image for Bitcoin (BTC) to celebrate its 18th anniversary. The post proposes the concept of 'Big Titty…
+  - 资金 100.00 / 广度 89.03 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged BALLS TINGLE COIN Launch | Solana | 加速中 | 强度 84.70 | 质量 77.19
+  - 主题摘要：Multiple tokens named 「BTC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.28 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Musk's AI Warning | BSC | 降温中 | 强度 83.66 | 质量 79.63
+  - 主题摘要：Elon Musk retweets a prediction that Super Intelligence will rapidly disrupt businesses and industries, highlighting the imminent rise of humanoid robots. This sparks discussions…
+  - 资金 100.00 / 广度 93.29 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Ansem Token Ticker Debate | Solana | 点火期 | 强度 77.15 | 质量 69.94
-  - 主题摘要：According to jacksn's post, a dispute regarding the ticker symbol for the token 'The Black Bear' (Ansem) is discussed. jacksn argues that while cashback mechanisms are beneficial,…
-  - 资金 100.00 / 广度 84.36 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Ella Zhang Recalls Yi He's Pregnancy Work | BSC | 降温中 | 强度 76.47 | 质量 69.15
-  - 主题摘要：According to Ella Zhang's post, she recalled Yi He's dedication during the Binance hack, noting Yi He managed operations while pregnant in Abu Dhabi. Ella Zhang shared a 2018 phot…
-  - 资金 100.00 / 广度 80.11 / 确认 9.36 / 脆弱性 14.00
+- DeepSeek Launches Super-Agent | BSC | 降温中 | 强度 83.25 | 质量 79.07
+  - 主题摘要：According to Polymarket's post, China's DeepSeek has launched "Super-Agent," a new open-source AI coding agent designed to compete with Anthropic's Claude Code.
+  - 资金 100.00 / 广度 91.42 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 快乐人生 | BSC | 降温中 | 强度 74.32 | 质量 69.00
+- AIpro | BSC | 降温中 | 强度 73.34 | 质量 61.27
+  - 主题摘要：AI Pro, Meme Coin, Tech Innovation
+  - 资金 100.00 / 广度 49.01 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ Thanks Binance Hack Discussion | BSC | 加速中 | 强度 73.24 | 质量 70.75
+  - 主题摘要：CZ对Snowball关于币安被盗及市场影响的帖子回复了一个感谢表情。这一行为被社区解读为对危机公关或市场情绪的微妙回应，引发了关于交易所安全、用户赔付及市场走向的广泛讨论和讽刺性解读。
+  - 资金 100.00 / 广度 88.40 / 确认 20.28 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 快乐人生 | BSC | 降温中 | 强度 69.77 | 质量 62.70
   - 主题摘要：Multiple tokens named 「快乐人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.08 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 74.63 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Thanks Tether Freeze | BSC | 点火期 | 强度 72.29 | 质量 71.39
-  - 主题摘要：Binance CEO Yi He publicly thanked Tether for freezing $971M USDT related to a suspected Binance hack. Her calm and appreciative response to a major security incident created a vi…
-  - 资金 100.00 / 广度 98.51 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ's Self-Deprecating Humor | BSC | 点火期 | 强度 72.20 | 质量 69.21
-  - 主题摘要：CZ replies to a comment about his humor style, admitting he tries to emulate self-deprecating humor but often fails. This candid admission adds a relatable, human layer to his pub…
-  - 资金 100.00 / 广度 88.07 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Laowu Cat Meme Token Launch | BSC | 点火期 | 强度 71.54 | 质量 69.62
-  - 主题摘要：According to 小欧小O's post, the author discusses a Douyin video featuring a Ragdoll cat named Laowu, whose value allegedly increased from 600 to 1.4 million RMB. The author suggests…
-  - 资金 100.00 / 广度 79.45 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Yi He: User Funds SAFU | BSC | 点火期 | 强度 70.42 | 质量 69.11
-  - 主题摘要：Binance Co-CEO Yi He confirms that user funds are secure (SAFU), reinforcing trust in the platform's safety mechanisms during market volatility.
-  - 资金 100.00 / 广度 85.89 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 飞蝶启元 | BSC | 降温中 | 强度 69.34 | 质量 57.92
+  - 主题摘要：飞蝶启元 (Butterfly Awakening) is a community-driven token inspired by the concept of transformation and growth. It aims to empower users through decentralized finance initiatives, fo…
+  - 资金 100.00 / 广度 70.33 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.88，其中已确认叙事 0 个。
-- Anthropic Files S-1 for IPO 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- AODF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 86.07，其中已确认叙事 0 个。
+- Fidelity: Bitcoin Outperforms Gold 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- American Oil Trust Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- AODF | 质量 78.99 | 可交易性 100.00 | 风险 低
-- Alleged LEGO Token Proposal | 质量 75.27 | 可交易性 100.00 | 风险 低
-- Federal Oil Trust Fund | 质量 72.52 | 可交易性 100.00 | 风险 低
-- Digital Oil Asset Supply | 质量 72.39 | 可交易性 100.00 | 风险 低
-- Yi He Thanks Tether Freeze | 质量 71.39 | 可交易性 100.00 | 风险 低
-- Alleged Ansem Token Ticker Debate | 质量 69.94 | 可交易性 76.64 | 风险 低
-- Nike Tyson | 质量 69.93 | 可交易性 100.00 | 风险 低
-- Alleged Laowu Cat Meme Token Launch | 质量 69.62 | 可交易性 90.22 | 风险 低
-- CZ's Self-Deprecating Humor | 质量 69.21 | 可交易性 99.27 | 风险 低
-- Uncertain:Ella Zhang Recalls Yi He's Pregnancy Work | 质量 69.15 | 可交易性 83.52 | 风险 低
+- Fidelity: Bitcoin Outperforms Gold | 质量 79.70 | 可交易性 96.98 | 风险 低
+- Musk's AI Warning | 质量 79.63 | 可交易性 100.00 | 风险 低
+- Bitcoin Pennywise Meme | 质量 79.09 | 可交易性 96.98 | 风险 低
+- DeepSeek Launches Super-Agent | 质量 79.07 | 可交易性 100.00 | 风险 低
+- Satoshi Nakamoto Whitepaper Anniversary | 质量 78.35 | 可交易性 93.99 | 风险 低
+- American Oil Trust Fund | 质量 78.20 | 可交易性 100.00 | 风险 低
+- Alleged BALLS TINGLING COIN | 质量 78.12 | 可交易性 93.43 | 风险 低
+- Alleged BALLS TINGLE COIN Launch | 质量 77.19 | 可交易性 91.07 | 风险 低
+- PROJECT CORTEX | 质量 76.05 | 可交易性 100.00 | 风险 低
+- National Oil Trust Fund | 质量 74.15 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Laowu Cat Meme Token Launch | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Yi He: User Funds SAFU | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Yi He Thanks Tether Freeze | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- CZ's Self-Deprecating Humor | 风险 47.79 | 原因：流动性偏薄
-- Alleged Ansem Token Ticker Debate | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 - 快乐人生 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- 飞蝶启元 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -110,9 +106,9 @@
 - DEGENIUS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RIKI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BATCOIN | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- REGRETAMINE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - KIM | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- DOUGHBRIKS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- DAVID | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- wIRON | Base | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -138,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：AODF（Solana，分数 89.26）
+1. 当前最强叙事：American Oil Trust Fund（Solana，分数 88.76）
 2. 共振最强代币：ANTHROPIC（Solana，共振 100.0）
-3. 记忆层变化：Alleged LEGO Token Proposal 当前为“新出现”
+3. 记忆层变化：American Oil Trust Fund 当前为“新出现”
 4. 最新官方催化：Security Incident | Recovery Update #4: Withdrawals Resume in Phases (2026-11-01)
 #Binance #NarrativeOS #OpenClaw
