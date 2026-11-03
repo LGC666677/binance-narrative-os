@@ -1,100 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-03T17:23:11.392623+00:00
+- 生成时间：2026-11-03T22:23:18.719835+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：1
+- 已确认叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 XTO，所在链为 Solana，叙事强度 89.32。
-- 当前平均叙事强度为 84.6，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 OPENAI，来自 Solana，共振分数 100.0。
-- 记忆层显示 CZ Discusses Translation Issue 当前处于“强化”状态。
-- 当前最需要防止误判的叙事是 Uncertain:CZ Oxford Debate on Cashless Society，伪叙事风险 52.99。
+- 当前最强叙事是 AMD Q4 Revenue Forecast，所在链为 Solana，叙事强度 91.35。
+- 当前平均叙事强度为 81.24，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
+- 记忆层显示 AMD Q4 Revenue Forecast 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Xiao Gui Claims Meme Image Boosted Mango Media Stock，伪叙事风险 52.99。
 - 最新官方催化来自 币安最新公告：Security Incident | Recovery Update #6: Withdrawals Reopen for More Assets (2026-11-03)。
 
 ## 叙事雷达
 
-- XTO | Solana | 降温中 | 强度 89.32 | 质量 80.85
-  - 主题摘要：Multiple tokens named 「XTO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 10.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- javier's Post on USOE | Solana | 降温中 | 强度 88.72 | 质量 80.06
-  - 主题摘要：According to javier's post, the author stated that USOE is the wrong coin. This brief comment reflects a negative assessment of the token's value or suitability.
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 10.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ASMLcompany | Solana | 降温中 | 强度 86.07 | 质量 76.57
-  - 主题摘要：Multiple tokens named 「ASML」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.36 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AOTF | Solana | 降温中 | 强度 85.40 | 质量 73.03
+- AMD Q4 Revenue Forecast | Solana | 已确认 | 强度 91.35 | 质量 84.18
+  - 主题摘要：According to FWOG DEV's post, AMD's earnings beat expectations, potentially restarting the AI run. The post promotes a token named 'A Meme Dog' (Symbol: AMD), allegedly launched o…
+  - 资金 100.00 / 广度 100.00 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- AOTF | Solana | 降温中 | 强度 87.23 | 质量 75.72
   - 主题摘要：Multiple tokens named 「AOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.56 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 85.53 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Discusses Translation Issue | BSC | 降温中 | 强度 85.38 | 质量 76.69
-  - 主题摘要：CZ clarifies that a mistranslation of 'damn' as a swear word was inaccurate, suggesting 'damn' should be translated as 'wo kao'.
-  - 资金 100.00 / 广度 88.76 / 确认 9.36 / 脆弱性 14.00
+- Mario Discusses HERD Theory | Solana | 降温中 | 强度 85.93 | 质量 76.33
+  - 主题摘要：Multiple tokens named 「FOMO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.58 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GTA6 | Solana | 降温中 | 强度 84.04 | 质量 73.68
-  - 主题摘要：Multiple tokens named 「GTA 6 Coin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 78.73 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ROBINHOOD | Solana | 降温中 | 强度 81.33 | 质量 70.86
-  - 主题摘要：Multiple tokens named 「Robinhood」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 69.33 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Murad Predicts Memecoin Supercycle Ch.2 | Solana | 降温中 | 强度 81.08 | 质量 71.99
-  - 主题摘要：According to Murad 💹🧲's post, the crypto investor predicts that the 'Memecoin Supercycle: Chapter 2' is approaching. This statement reflects his personal market outlook regarding…
-  - 资金 100.00 / 广度 77.30 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ElunMesk | Solana | 降温中 | 强度 80.87 | 质量 72.13
-  - 主题摘要：Multiple tokens named 「ElunMesk」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.56 / 确认 9.36 / 脆弱性 15.63
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alita | BSC | 降温中 | 强度 79.65 | 质量 72.03
+- Alita | BSC | 降温中 | 强度 80.03 | 质量 72.33
   - 主题摘要：Alita is a meme coin inspired by the iconic 1978 film 'Battle Angel Alita', featuring a cyborg protagonist. It aims to blend nostalgic sci-fi themes with modern crypto culture, cr…
-  - 资金 100.00 / 广度 68.92 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 68.96 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Xiao Gui Claims Meme Image Boosted Mango Media Stock | BSC | 降温中 | 强度 79.47 | 质量 72.81
+- Danny Discusses Super Ape Token | Solana | 降温中 | 强度 79.17 | 质量 67.45
+  - 主题摘要：According to Danny's post, he identifies Super Ape as a super intelligence token and mentions running it paired with FXION on the BNB Chain. This statement reflects his personal o…
+  - 资金 100.00 / 广度 71.49 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trump Space Policy | Solana | 降温中 | 强度 78.70 | 质量 70.27
+  - 主题摘要：According to tradfi news's post, Donald Trump proclaimed outer space open to US exploration and ordered the US to return to the Moon by 2028.
+  - 资金 100.00 / 广度 77.99 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Xiao Gui Claims Meme Image Boosted Mango Media Stock | BSC | 点火期 | 强度 77.24 | 质量 72.36
   - 主题摘要：According to 小鬼's post, the viral "I draw a prison for myself" meme image significantly boosted the stock price of Mango Super Media. The post claims the trend spread across the e…
-  - 资金 100.00 / 广度 81.26 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alex Claims National Temp Drops to -32° | BSC | 降温中 | 强度 76.11 | 质量 64.80
-  - 主题摘要：According to alex's post, the user shared a screenshot of weather data showing a temperature of -32°C, claiming it indicates the end of the world. This content is associated with…
-  - 资金 100.00 / 广度 66.38 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 极寒降临 | BSC | 降温中 | 强度 75.71 | 质量 66.52
-  - 主题摘要：According to Max For AI's post, Apple Weather displayed abnormal minimum temperatures of -32°C in multiple Chinese cities, suspected to be a data bug. The post also references a f…
-  - 资金 100.00 / 广度 75.66 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:CZ Oxford Debate on Cashless Society | BSC | 点火期 | 强度 73.91 | 质量 67.77
-  - 主题摘要：According to JBL's post, CZ will participate in a debate at the Oxford Union on the motion "A Completely Cashless Society." JBL notes this aligns with CZ's previous views on finan…
-  - 资金 100.00 / 广度 79.95 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.56 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged GTA 6 Dacity Coin Meme | Solana | 点火期 | 强度 76.05 | 质量 75.90
+  - 主题摘要：According to RobTheMaster's post, a leaked Meme image from GTA 6 allegedly features a token named "Dacity Coin." This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 86.13 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:CZ Oxford Debate on Cashless Society | BSC | 点火期 | 强度 76.03 | 质量 69.73
+  - 主题摘要：According to JBL's post, CZ will participate in a debate at the Oxford Union on the motion "A Completely Cashless Society." JBL notes this aligns with CZ's previous views on finan…
+  - 资金 100.00 / 广度 80.00 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance Security Incident | BSC | 点火期 | 强度 75.91 | 质量 74.64
+  - 主题摘要：Yi He, Co-Founder of Binance, stated that user funds are safe and Binance will cover all hacking losses. Deposits and withdrawals are temporarily suspended for security checks and…
+  - 资金 100.00 / 广度 83.40 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- PIKACHU STRATEGY Trading Plan | Solana | 点火期 | 强度 75.75 | 质量 73.02
+  - 主题摘要：According to PIKACHU STRATEGY's post, the account outlines a trading strategy aimed at acquiring a PSA 10 Pikachu card. The plan involves starting with available assets and making…
+  - 资金 100.00 / 广度 76.53 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Starbucks Corporation | Solana | 降温中 | 强度 75.70 | 质量 73.26
+  - 主题摘要：Multiple tokens named 「STARBUCKS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.34 / 确认 9.36 / 脆弱性 45.15
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 火龙果 | BSC | 降温中 | 强度 74.76 | 质量 69.94
+  - 主题摘要：火龙果 (Dragon Fruit) is a meme token inspired by the vibrant red dragon fruit, symbolizing strength and resilience. It gained popularity through viral social media campaigns, partic…
+  - 资金 100.00 / 广度 62.86 / 确认 16.56 / 脆弱性 37.77
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- AIpro | BSC | 降温中 | 强度 72.88 | 质量 61.50
+  - 主题摘要：AI Pro, Meme Coin, Tech Innovation
+  - 资金 100.00 / 广度 47.65 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.6，其中已确认叙事 0 个。
-- Uncertain:CZ Oxford Debate on Cashless Society 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- XTO 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.24，其中已确认叙事 1 个。
+- AMD Q4 Revenue Forecast 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- AOTF 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- XTO | 质量 80.85 | 可交易性 100.00 | 风险 低
-- javier's Post on USOE | 质量 80.06 | 可交易性 100.00 | 风险 低
-- CZ Discusses Translation Issue | 质量 76.69 | 可交易性 100.00 | 风险 低
-- ASMLcompany | 质量 76.57 | 可交易性 100.00 | 风险 低
-- GTA6 | 质量 73.68 | 可交易性 100.00 | 风险 低
-- AOTF | 质量 73.03 | 可交易性 100.00 | 风险 低
-- Xiao Gui Claims Meme Image Boosted Mango Media Stock | 质量 72.81 | 可交易性 94.56 | 风险 低
-- ElunMesk | 质量 72.13 | 可交易性 100.00 | 风险 低
-- Alita | 质量 72.03 | 可交易性 100.00 | 风险 低
-- Murad Predicts Memecoin Supercycle Ch.2 | 质量 71.99 | 可交易性 95.79 | 风险 低
+- AMD Q4 Revenue Forecast | 质量 84.18 | 可交易性 100.00 | 风险 低
+- Mario Discusses HERD Theory | 质量 76.33 | 可交易性 100.00 | 风险 低
+- Alleged GTA 6 Dacity Coin Meme | 质量 75.90 | 可交易性 100.00 | 风险 低
+- AOTF | 质量 75.72 | 可交易性 100.00 | 风险 低
+- Binance Security Incident | 质量 74.64 | 可交易性 100.00 | 风险 低
+- Starbucks Corporation | 质量 73.26 | 可交易性 100.00 | 风险 低
+- PIKACHU STRATEGY Trading Plan | 质量 73.02 | 可交易性 100.00 | 风险 低
+- Xiao Gui Claims Meme Image Boosted Mango Media Stock | 质量 72.36 | 可交易性 92.77 | 风险 低
+- Alita | 质量 72.33 | 可交易性 100.00 | 风险 低
+- Trump Space Policy | 质量 70.27 | 可交易性 89.38 | 风险 低
 
 ## 伪叙事风险
 
-- Uncertain:CZ Oxford Debate on Cashless Society | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Xiao Gui Claims Meme Image Boosted Mango Media Stock | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Starbucks Corporation | 风险 51.99 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Alleged GTA 6 Dacity Coin Meme | 风险 47.79 | 原因：流动性偏薄
+- Uncertain:CZ Oxford Debate on Cashless Society | 风险 47.79 | 原因：流动性偏薄
+- Binance Security Incident | 风险 47.79 | 原因：流动性偏薄
+- PIKACHU STRATEGY Trading Plan | 风险 47.79 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -105,9 +110,9 @@
 - DOG | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DEGENIUS | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RIKI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- HYPE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- CAPY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BWAH | Solana | 看多 | 新鲜度 97.77 | 暂无直接叙事映射
+- AMD | Solana | 看多 | 新鲜度 100.00 | AMD Q4 Revenue Forecast
+- STONKS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- toby | Base | 看多 | 新鲜度 92.31 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -133,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：XTO（Solana，分数 89.32）
-2. 共振最强代币：OPENAI（Solana，共振 100.0）
-3. 记忆层变化：CZ Discusses Translation Issue 当前为“强化”
+1. 当前最强叙事：AMD Q4 Revenue Forecast（Solana，分数 91.35）
+2. 共振最强代币：ANSEM（Solana，共振 100.0）
+3. 记忆层变化：AMD Q4 Revenue Forecast 当前为“新出现”
 4. 最新官方催化：Security Incident | Recovery Update #6: Withdrawals Reopen for More Assets (2026-11-03)
 #Binance #NarrativeOS #OpenClaw
