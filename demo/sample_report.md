@@ -1,105 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-02T20:18:17.879944+00:00
+- 生成时间：2026-11-03T02:27:46.311337+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：5
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Oil Exchange，所在链为 Solana，叙事强度 89.92。
-- 当前平均叙事强度为 86.63，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANTHROPIC，来自 Solana，共振分数 100.0。
-- 记忆层显示 United States Oil Exchange 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 CZ Discusses Translation Issue，伪叙事风险 52.99。
+- 当前最强叙事是 Boltricks Dev Comments on Capybara Meme，所在链为 Solana，叙事强度 84.13。
+- 当前平均叙事强度为 73.03，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 CARDS，来自 Solana，共振分数 100.0。
+- 记忆层显示 Boltricks Dev Comments on Capybara Meme 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 CZ Discusses Translation Issue，伪叙事风险 47.79。
 - 最新官方催化来自 币安最新公告：Security Incident | Recovery Update #5: October 31st PoR Snapshot Now Fully Verifiable by Users as ZK Proof Generated (2026-11-02)。
 
 ## 叙事雷达
 
-- United States Oil Exchange | Solana | 降温中 | 强度 89.92 | 质量 80.06
-  - 主题摘要：USOE represents the United States Oil Exchange, inspired by the U.S. oil industry's dominance in global markets. The logo features an eagle with wings spread, symbolizing strength…
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 0.00
+- Boltricks Dev Comments on Capybara Meme | Solana | 降温中 | 强度 84.13 | 质量 75.37
+  - 主题摘要：Multiple tokens named 「CAPY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.38 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- XTX | Solana | 降温中 | 强度 87.45 | 质量 76.43
-  - 主题摘要：Multiple tokens named 「XTX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.89 / 确认 9.36 / 脆弱性 0.00
+- National Oil Trust Fund | Solana | 降温中 | 强度 82.84 | 质量 70.85
+  - 主题摘要：Multiple tokens named 「NOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.29 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Fomocoin Meme | Solana | 降温中 | 强度 87.35 | 质量 78.63
-  - 主题摘要：According to Nikolai's post, he shared a Meme image of an alleged Fomocoin, claiming to have used AI to enhance the image. The post references a leaked image from a Fomo employee'…
-  - 资金 100.00 / 广度 95.24 / 确认 9.36 / 脆弱性 14.00
+- Levan: USDC Bonded Coins Zero | Solana | 降温中 | 强度 82.74 | 质量 75.16
+  - 主题摘要：According to Levan's post, the platform currently has zero bonded coins for USDC. Levan observes that market conditions are declining while users are stabilizing their positions,…
+  - 资金 100.00 / 广度 81.00 / 确认 13.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Fomo Meme Coin | Solana | 降温中 | 强度 87.13 | 质量 78.63
-  - 主题摘要：According to Chief's post, Maurits Neo is alleged to have launched a Fomo-themed Meme image, evidenced by a collar logo in an Instagram photo. This information is unverified. Plea…
-  - 资金 99.01 / 广度 95.24 / 确认 9.36 / 脆弱性 14.00
+- Ahsoka Tano | Solana | 降温中 | 强度 81.94 | 质量 71.87
+  - 主题摘要：Ahsoka token draws inspiration from the Star Wars character Ahsoka Tano, symbolizing rebellion and independence. Its rapid spread is driven by the Star Wars fan community and cryp…
+  - 资金 100.00 / 广度 81.37 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Trump Promises to Protect Musk | Solana | 降温中 | 强度 86.09 | 质量 76.59
-  - 主题摘要：Multiple tokens named 「ELON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 88.43 / 确认 9.36 / 脆弱性 14.00
+- Alleged USDC Token Issuance | Solana | 降温中 | 强度 81.92 | 质量 73.62
+  - 主题摘要：According to ice_puty3bl's post, the user claims to be issuing a token named USDC (Ultra Sized Double Cups) and states they will send 10% of the supply to @slingoorio. This inform…
+  - 资金 100.00 / 广度 80.23 / 确认 13.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Elon Musk Crypto Wallet | Solana | 降温中 | 强度 85.77 | 质量 76.08
-  - 主题摘要：According to Troy's post, Troy speculates that a specific Solana wallet named 'Mr. X' on the TRUMP project website belongs to Elon Musk. Troy cites the wallet's funding source fro…
-  - 资金 100.00 / 广度 86.75 / 确认 9.36 / 脆弱性 14.00
+- Parker Discusses Stablecoin Narrative | Solana | 降温中 | 强度 81.78 | 质量 73.41
+  - 主题摘要：According to Parker's post, the author argues for the necessity of a simple stablecoin narrative in the current market, citing widespread asset declines. Parker further observes t…
+  - 资金 100.00 / 广度 79.51 / 确认 13.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged FOMO Coin Launch | Solana | 降温中 | 强度 85.57 | 质量 78.63
-  - 主题摘要：According to Lalokin's post, an employee of Fomo allegedly leaked a FOMOCOIN token during a Halloween party event. The post suggests that the FOMO team will likely invest in this…
-  - 资金 91.89 / 广度 95.24 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mamesuke | Solana | 降温中 | 强度 83.77 | 质量 75.32
-  - 主题摘要：Multiple tokens named 「豆助」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 84.20 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Discusses Translation Issue | BSC | 点火期 | 强度 79.29 | 质量 79.05
+- CZ Discusses Translation Issue | BSC | 点火期 | 强度 81.01 | 质量 79.10
   - 主题摘要：CZ clarifies that a mistranslation of 'damn' as a swear word was inaccurate, suggesting 'damn' should be translated as 'wo kao'.
-  - 资金 100.00 / 广度 96.62 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 96.80 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Flying Squirrel | BSC | 点火期 | 强度 72.58 | 质量 68.86
-  - 主题摘要：Multiple tokens named 「XFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.35 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ: Damn is not swearing | BSC | 点火期 | 强度 72.11 | 质量 66.32
-  - 主题摘要：Binance CEO CZ clarifies that the word 'damn' is merely a translation nuance and not an actual curse word, sparking humorous discussions about his linguistic precision and the tra…
-  - 资金 100.00 / 广度 81.41 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 币安魂 | BSC | 降温中 | 强度 71.01 | 质量 58.85
-  - 主题摘要：Multiple tokens named 「币安魂」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.92 / 确认 9.36 / 脆弱性 14.00
+- apedev Criticizes USDC Deployment | Solana | 降温中 | 强度 80.74 | 质量 71.84
+  - 主题摘要：According to apedev's post, the deployment of $USDC at 15k is incorrect because it is not paired with BTC. apedev states that slinger will not buy, shill, or endorse this token du…
+  - 资金 100.00 / 广度 79.51 / 确认 13.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DeepSeek Launches Super-Agent | BSC | 点火期 | 强度 69.57 | 质量 65.64
-  - 主题摘要：According to Polymarket's post, China's DeepSeek has launched "Super-Agent," a new open-source AI coding agent designed to compete with Anthropic's Claude Code.
-  - 资金 100.00 / 广度 82.80 / 确认 9.36 / 脆弱性 24.00
+- Wanted | Solana | 降温中 | 强度 79.96 | 质量 70.94
+  - 主题摘要：Multiple tokens named 「Wanted」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 69.60 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Flying Squirrel | BSC | 点火期 | 强度 74.25 | 质量 69.12
+  - 主题摘要：Multiple tokens named 「XFS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.99 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Musk's AI Warning | BSC | 点火期 | 强度 69.52 | 质量 65.55
-  - 主题摘要：Elon Musk retweets a prediction that Super Intelligence will rapidly disrupt businesses and industries, highlighting the imminent rise of humanoid robots. This sparks discussions…
-  - 资金 100.00 / 广度 82.51 / 确认 9.36 / 脆弱性 24.00
+- CZ: Damn is not swearing | BSC | 点火期 | 强度 73.15 | 质量 64.96
+  - 主题摘要：Binance CEO CZ clarifies that the word 'damn' is merely a translation nuance and not an actual curse word, sparking humorous discussions about his linguistic precision and the tra…
+  - 资金 100.00 / 广度 81.26 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 币安魂 | BSC | 点火期 | 强度 70.14 | 质量 58.82
+  - 主题摘要：Multiple tokens named 「币安魂」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 77.38 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- AIpro | BSC | 降温中 | 强度 70.05 | 质量 59.98
+  - 主题摘要：AI Pro, Meme Coin, Tech Innovation
+  - 资金 100.00 / 广度 50.60 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- AMC Smart Mining City Launch | BSC | 降温中 | 强度 69.60 | 质量 57.69
+  - 主题摘要：According to AMC's post, the Agent Mining City (AMC) project is introduced as a platform integrating AI agents, GPU mining, and a 3D city on the BNB chain. The system allows users…
+  - 资金 100.00 / 广度 72.40 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 86.63，其中已确认叙事 0 个。
-- Flying Squirrel 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- United States Oil Exchange 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 73.03，其中已确认叙事 0 个。
+- Boltricks Dev Comments on Capybara Meme 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- United States Oil Exchange | 质量 80.06 | 可交易性 100.00 | 风险 低
-- CZ Discusses Translation Issue | 质量 79.05 | 可交易性 100.00 | 风险 低
-- Alleged Fomocoin Meme | 质量 78.63 | 可交易性 100.00 | 风险 低
-- Alleged Fomo Meme Coin | 质量 78.63 | 可交易性 100.00 | 风险 低
-- Alleged FOMO Coin Launch | 质量 78.63 | 可交易性 100.00 | 风险 低
-- Trump Promises to Protect Musk | 质量 76.59 | 可交易性 100.00 | 风险 低
-- XTX | 质量 76.43 | 可交易性 100.00 | 风险 低
-- Alleged Elon Musk Crypto Wallet | 质量 76.08 | 可交易性 100.00 | 风险 低
-- Mamesuke | 质量 75.32 | 可交易性 100.00 | 风险 低
-- Flying Squirrel | 质量 68.86 | 可交易性 86.31 | 风险 低
+- CZ Discusses Translation Issue | 质量 79.10 | 可交易性 100.00 | 风险 低
+- Boltricks Dev Comments on Capybara Meme | 质量 75.37 | 可交易性 100.00 | 风险 低
+- Levan: USDC Bonded Coins Zero | 质量 75.16 | 可交易性 100.00 | 风险 低
+- Alleged USDC Token Issuance | 质量 73.62 | 可交易性 95.64 | 风险 低
+- Parker Discusses Stablecoin Narrative | 质量 73.41 | 可交易性 95.64 | 风险 低
+- Ahsoka Tano | 质量 71.87 | 可交易性 91.34 | 风险 低
+- apedev Criticizes USDC Deployment | 质量 71.84 | 可交易性 90.43 | 风险 低
+- Wanted | 质量 70.94 | 可交易性 100.00 | 风险 低
+- National Oil Trust Fund | 质量 70.85 | 可交易性 100.00 | 风险 低
+- Flying Squirrel | 质量 69.12 | 可交易性 86.54 | 风险 低
 
 ## 伪叙事风险
 
-- CZ Discusses Translation Issue | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Flying Squirrel | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- CZ: Damn is not swearing | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- DeepSeek Launches Super-Agent | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Musk's AI Warning | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged FOMO Coin Launch | 风险 43.09 | 原因：流动性偏薄
+- CZ Discusses Translation Issue | 风险 47.79 | 原因：流动性偏薄
+- Flying Squirrel | 风险 47.79 | 原因：流动性偏薄
+- CZ: Damn is not swearing | 风险 47.79 | 原因：流动性偏薄
+- 币安魂 | 风险 47.79 | 原因：流动性偏薄
+- Boltricks Dev Comments on Capybara Meme | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- AIpro | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -138,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Oil Exchange（Solana，分数 89.92）
-2. 共振最强代币：ANTHROPIC（Solana，共振 100.0）
-3. 记忆层变化：United States Oil Exchange 当前为“新出现”
+1. 当前最强叙事：Boltricks Dev Comments on Capybara Meme（Solana，分数 84.13）
+2. 共振最强代币：CARDS（Solana，共振 100.0）
+3. 记忆层变化：Boltricks Dev Comments on Capybara Meme 当前为“新出现”
 4. 最新官方催化：Security Incident | Recovery Update #5: October 31st PoR Snapshot Now Fully Verifiable by Users as ZK Proof Generated (2026-11-02)
 #Binance #NarrativeOS #OpenClaw
