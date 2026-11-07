@@ -1,103 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-06T22:02:50.588639+00:00
+- 生成时间：2026-11-07T01:51:40.197425+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：3
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Trump COOL Coin，所在链为 Solana，叙事强度 85.69。
-- 当前平均叙事强度为 79.65，其中已确认叙事 0 个。
+- 当前最强叙事是 Prison Panic，所在链为 Solana，叙事强度 87.76。
+- 当前平均叙事强度为 85.07，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Trump COOL Coin 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Prison Panic，伪叙事风险 52.99。
+- 记忆层显示 Prison Panic 当前处于“强化”状态。
+- 当前最需要防止误判的叙事是 CZ x Musk，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Launches Limited-Time Spot Taker Program Promotion (2026-11-09)。
 
 ## 叙事雷达
 
-- Alleged Trump COOL Coin | Solana | 降温中 | 强度 85.69 | 质量 76.29
-  - 主题摘要：According to TV ⛾'s post, an individual claims to be the creator of 'Elon' and asserts that they possess the correct technology. This person reportedly used a specific wallet to s…
-  - 资金 100.00 / 广度 87.44 / 确认 9.36 / 脆弱性 14.00
+- Prison Panic | Solana | 降温中 | 强度 87.76 | 质量 79.97
+  - 主题摘要：Multiple tokens named 「TEST」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 99.70 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Strategic American Protocol | Solana | 降温中 | 强度 85.39 | 质量 73.02
-  - 主题摘要：Multiple tokens named 「SARP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.54 / 确认 9.36 / 脆弱性 0.00
+- Esoteric Discusses Diamond Meme | Solana | 降温中 | 强度 87.40 | 质量 79.40
+  - 主题摘要：According to Esoteric's post, the user comments on the $Diamond token, describing it as the "most obvious meme" and referencing its pairing with Pump.fun. The post questions wheth…
+  - 资金 100.00 / 广度 97.80 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- UDTF | Solana | 降温中 | 强度 80.38 | 质量 70.11
-  - 主题摘要：Multiple tokens named 「UDTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.83 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He Responds to 'E' Token | BSC | 降温中 | 强度 80.03 | 质量 68.16
-  - 主题摘要：Binance联合创始人何一（Yi He）幽默回应网友关于她采访中没有口头禅“呃”的观察，调侃说十年前没有，现在反而有了。这一反差萌瞬间拉近了与社区的距离，展现了币圈头部KOL亲民、真实且带有自嘲精神的一面，极易引发社区关于“一姐”人设的二次创作和传播。
-  - 资金 100.00 / 广度 80.83 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Squirrelcoin Token | Solana | 降温中 | 强度 79.27 | 质量 72.33
-  - 主题摘要：According to thedevrrrrrr's post, a Doge employee's video on meme economies featured an example of a "SQRL" coin, which the author identifies as Squirrelcoin. The post notes that…
-  - 资金 100.00 / 广度 86.82 / 确认 12.96 / 脆弱性 19.45
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Kraken Replying to Anthropic Meme | Solana | 降温中 | 强度 79.18 | 质量 67.41
-  - 主题摘要：According to Kraken's post, the official account replied to a user's tweet containing the text 'anthropiccccccccccccccccccc！！！！' with an eye emoji. This interaction references the…
-  - 资金 100.00 / 广度 78.78 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ticius Maximus Publishes Meme Image | Solana | 降温中 | 强度 77.09 | 质量 64.20
-  - 主题摘要：According to Ticius Maximus's post, the author created and shared a Meme image featuring a creature named Pip, expressing hope that the audience would appreciate the artwork.
-  - 资金 100.00 / 广度 74.24 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Prison Panic | Solana | 点火期 | 强度 75.80 | 质量 78.72
-  - 主题摘要：Multiple tokens named 「PANIC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 90.38 / 广度 95.53 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ x Musk | BSC | 点火期 | 强度 74.56 | 质量 74.23
-  - 主题摘要：Binance CEO Richard Teng reposted a meme by Elon Musk depicting a cartoon character resembling CZ being shot by an arrow, followed by a photo of Musk in a red-lit setting. This vi…
-  - 资金 97.65 / 广度 95.20 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Musk Loves Droid Slop | BSC | 加速中 | 强度 74.56 | 质量 70.77
-  - 主题摘要：Elon Musk replied with laughter to a 'slopcore' art video featuring a dancing robot. This interaction highlights the intersection of AI culture, meme aesthetics, and Musk's person…
-  - 资金 100.00 / 广度 94.59 / 确认 23.88 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- alon Retweets Pump Diamond Reward Program | Solana | 点火期 | 强度 74.41 | 质量 78.15
+- alon Retweets Callout Rewards Update | Solana | 降温中 | 强度 87.34 | 质量 79.35
   - 主题摘要：Multiple tokens named 「HODL」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 85.63 / 广度 93.64 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 九运元亨币 | BSC | 降温中 | 强度 73.92 | 质量 63.15
-  - 主题摘要：Multiple tokens named 「九运元亨币 」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 58.11 / 确认 9.36 / 脆弱性 27.87
+  - 资金 100.00 / 广度 97.62 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Relay BNB Chain OTC Desk | BSC | 降温中 | 强度 73.89 | 质量 61.86
-  - 主题摘要：According to Relay's post, Relay introduces an OTC desk for the BNB Chain designed for large-volume transactions. The platform facilitates wallet-to-wallet settlements to avoid ma…
-  - 资金 100.00 / 广度 78.71 / 确认 16.56 / 脆弱性 24.00
+- American Dividend Protocol | Solana | 降温中 | 强度 85.95 | 质量 73.91
+  - 主题摘要：Multiple tokens named 「ADP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.50 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CORLA | BSC | 加速中 | 强度 73.80 | 质量 68.42
-  - 主题摘要：According to Flap 🦋's post, the Flap APPS platform has launched Corla, a community token launchpad on BNB Chain. Built on Flap's Pool Launch infrastructure, Corla supports token c…
-  - 资金 100.00 / 广度 79.54 / 确认 28.08 / 脆弱性 24.00
+- XTO | Solana | 降温中 | 强度 85.30 | 质量 75.27
+  - 主题摘要：Multiple tokens named 「XTO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 87.67 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trump Veto Hat | Solana | 加速中 | 强度 83.55 | 质量 76.42
+  - 主题摘要：According to Polymarket's post, Donald Trump displayed a new red "VETO" hat on the Resolute Desk in the Oval Office. This event highlights a symbolic gesture by the US President,…
+  - 资金 100.00 / 广度 76.78 / 确认 24.48 / 脆弱性 16.20
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Trump Retweets White House | Solana | 加速中 | 强度 83.46 | 质量 76.27
+  - 主题摘要：According to President Donald J. Trump's post, he retweeted a message from the White House account containing only emojis. The post does not contain specific policy announcements…
+  - 资金 100.00 / 广度 76.27 / 确认 24.48 / 脆弱性 16.20
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Elon Musk as Satoshi | Solana | 加速中 | 强度 79.83 | 质量 78.22
+  - 主题摘要：According to Esoteric's post, a video accuses Elon Musk of being Satoshi Nakamoto, with a full documentary and stylometry data forthcoming. This content relates to tokens such as…
+  - 资金 100.00 / 广度 91.01 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Altruists | BSC | 降温中 | 强度 78.81 | 质量 71.04
+  - 主题摘要：Altruists token powers a decentralized platform focused on community-driven initiatives. It enables users to contribute resources through staking and governance mechanisms, reward…
+  - 资金 100.00 / 广度 69.93 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 九运元亨币 | BSC | 降温中 | 强度 77.32 | 质量 66.55
+  - 主题摘要：Multiple tokens named 「九运元亨币 」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 58.50 / 确认 9.36 / 脆弱性 17.87
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Musk Loves Droid Slop | BSC | 加速中 | 强度 75.53 | 质量 72.22
+  - 主题摘要：Elon Musk replied with laughter to a 'slopcore' art video featuring a dancing robot. This interaction highlights the intersection of AI culture, meme aesthetics, and Musk's person…
+  - 资金 100.00 / 广度 94.58 / 确认 23.88 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CORLA | BSC | 加速中 | 强度 73.73 | 质量 66.32
+  - 主题摘要：According to Flap 🦋's post, the Flap APPS platform has launched Corla, a community token launchpad on BNB Chain. Built on Flap's Pool Launch infrastructure, Corla supports token c…
+  - 资金 100.00 / 广度 79.00 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CZ x Musk | BSC | 点火期 | 强度 73.44 | 质量 72.74
+  - 主题摘要：Binance CEO Richard Teng reposted a meme by Elon Musk depicting a cartoon character resembling CZ being shot by an arrow, followed by a photo of Musk in a red-lit setting. This vi…
+  - 资金 97.92 / 广度 95.56 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Relay BNB Chain OTC Desk | BSC | 降温中 | 强度 72.90 | 质量 61.71
+  - 主题摘要：According to Relay's post, Relay introduces an OTC desk for the BNB Chain designed for large-volume transactions. The platform facilitates wallet-to-wallet settlements to avoid ma…
+  - 资金 100.00 / 广度 79.30 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.65，其中已确认叙事 0 个。
-- Prison Panic 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged Trump COOL Coin 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.07，其中已确认叙事 0 个。
+- Trump Veto Hat 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Prison Panic 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Prison Panic | 质量 78.72 | 可交易性 100.00 | 风险 低
-- alon Retweets Pump Diamond Reward Program | 质量 78.15 | 可交易性 100.00 | 风险 低
-- Alleged Trump COOL Coin | 质量 76.29 | 可交易性 100.00 | 风险 低
-- CZ x Musk | 质量 74.23 | 可交易性 100.00 | 风险 低
-- Strategic American Protocol | 质量 73.02 | 可交易性 100.00 | 风险 低
-- Alleged Squirrelcoin Token | 质量 72.33 | 可交易性 84.76 | 风险 低
-- Musk Loves Droid Slop | 质量 70.77 | 可交易性 100.00 | 风险 低
-- UDTF | 质量 70.11 | 可交易性 100.00 | 风险 低
-- CORLA | 质量 68.42 | 可交易性 86.54 | 风险 低
-- Yi He Responds to 'E' Token | 质量 68.16 | 可交易性 79.49 | 风险 低
+- Prison Panic | 质量 79.97 | 可交易性 100.00 | 风险 低
+- Esoteric Discusses Diamond Meme | 质量 79.40 | 可交易性 100.00 | 风险 低
+- alon Retweets Callout Rewards Update | 质量 79.35 | 可交易性 100.00 | 风险 低
+- Alleged Elon Musk as Satoshi | 质量 78.22 | 可交易性 100.00 | 风险 低
+- Trump Veto Hat | 质量 76.42 | 可交易性 100.00 | 风险 低
+- Trump Retweets White House | 质量 76.27 | 可交易性 100.00 | 风险 低
+- XTO | 质量 75.27 | 可交易性 96.35 | 风险 低
+- American Dividend Protocol | 质量 73.91 | 可交易性 100.00 | 风险 低
+- CZ x Musk | 质量 72.74 | 可交易性 100.00 | 风险 低
+- Musk Loves Droid Slop | 质量 72.22 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Prison Panic | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
 - CZ x Musk | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- alon Retweets Pump Diamond Reward Program | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- 九运元亨币 | 风险 43.00 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -106,11 +103,11 @@
 - RM | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CORLA | BSC | 看多 | 新鲜度 100.00 | CORLA
 - 珍珠币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PRIVACY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FUSE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- WHITE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- MNST | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- WHITE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- DacityCoin | BSC | 看多 | 新鲜度 92.30 | 暂无直接叙事映射
+- José | Solana | 看多 | 新鲜度 83.17 | 暂无直接叙事映射
+- anon | Solana | 看多 | 新鲜度 82.10 | 暂无直接叙事映射
+- UMplan | BSC | 看多 | 新鲜度 71.64 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -136,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Trump COOL Coin（Solana，分数 85.69）
+1. 当前最强叙事：Prison Panic（Solana，分数 87.76）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Alleged Trump COOL Coin 当前为“新出现”
+3. 记忆层变化：Prison Panic 当前为“强化”
 4. 最新官方催化：Binance Launches Limited-Time Spot Taker Program Promotion (2026-11-09)
 #Binance #NarrativeOS #OpenClaw
