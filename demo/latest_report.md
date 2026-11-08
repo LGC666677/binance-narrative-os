@@ -1,103 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-08T19:05:13.732702+00:00
+- 生成时间：2026-11-08T22:49:20.662785+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 United Oil Dividend Fund，所在链为 Solana，叙事强度 87.97。
-- 当前平均叙事强度为 82.05，其中已确认叙事 0 个。
+- 当前最强叙事是 United Oil Dividend Fund，所在链为 Solana，叙事强度 87.75。
+- 当前平均叙事强度为 85.05，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 JCT，来自 BSC，共振分数 100.0。
-- 记忆层显示 XTO 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 DEV ON SPACE，伪叙事风险 52.99。
+- 记忆层显示 I said this way 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Elon Musk True，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Launches Limited-Time Spot Taker Program Promotion (2026-11-09)。
 
 ## 叙事雷达
 
-- United Oil Dividend Fund | Solana | 降温中 | 强度 87.97 | 质量 77.20
+- United Oil Dividend Fund | Solana | 降温中 | 强度 87.75 | 质量 77.27
   - 主题摘要：Multiple tokens named 「UODF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 90.46 / 确认 9.36 / 脆弱性 0.00
+  - 资金 100.00 / 广度 90.69 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pump.fun Trading Rewards | Solana | 降温中 | 强度 83.81 | 质量 77.07
-  - 主题摘要：Multiple tokens named 「BTC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.59 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Dividend Program | Solana | 降温中 | 强度 83.59 | 质量 71.51
-  - 主题摘要：Multiple tokens named 「U SDP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.49 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- XTO | Solana | 降温中 | 强度 82.97 | 质量 72.32
-  - 主题摘要：Multiple tokens named 「XTO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.19 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TerafabAI | BSC | 降温中 | 强度 82.77 | 质量 78.75
-  - 主题摘要：Multiple tokens named 「TerafabAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.93 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GTA6 | Solana | 降温中 | 强度 82.47 | 质量 74.04
-  - 主题摘要：Multiple tokens named 「GTA 6 Coin」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 96.23 / 广度 79.92 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Xiaoyin Ren Ge Shares Vending Machine Item | Solana | 降温中 | 强度 80.94 | 质量 70.99
-  - 主题摘要：According to 消音人格's post, the user shared an image of an item that appeared to have emerged from a vending machine. The post focuses on this casual observation without referencing…
-  - 资金 100.00 / 广度 86.32 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk True | BSC | 点火期 | 强度 79.90 | 质量 74.93
-  - 主题摘要：Elon Musk replied 'True' to a controversial statement by cultural commentator Gad Saad, signaling his endorsement of the creator's views. This interaction highlights Musk's active…
-  - 资金 100.00 / 广度 85.29 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged PAD Meme Coin | Solana | 降温中 | 强度 77.84 | 质量 67.27
-  - 主题摘要：According to The Dev's post, the crypto launchpad market is dominated by Pump, rendering new platforms irrelevant. The Dev suggests that "Poor Autistic Degen" should serve as the…
-  - 资金 100.00 / 广度 62.79 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DEV ON SPACE | Solana | 点火期 | 强度 76.78 | 质量 71.94
-  - 主题摘要：Multiple tokens named 「ELYSION」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 82.82 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- DONKEY MORNING | BSC | 点火期 | 强度 75.68 | 质量 73.08
-  - 主题摘要：Multiple tokens named 「GM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 96.60 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 稳定上岸符 | BSC | 降温中 | 强度 75.59 | 质量 61.82
-  - 主题摘要：Multiple tokens named 「上岸」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.70 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- He Yi on Chivalry | BSC | 加速中 | 强度 73.82 | 质量 70.09
-  - 主题摘要：Binance Co-CEO He Yi replies to a post praising Binance's 'Chivalry' with 'You really have everything?', highlighting the platform's strong community culture and loyalty. This int…
-  - 资金 100.00 / 广度 84.06 / 确认 20.16 / 脆弱性 24.00
+- I said this way | Solana | 加速中 | 强度 85.75 | 质量 75.40
+  - 主题摘要：Multiple tokens named 「MYWAY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.38 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- WHALE | BSC | 降温中 | 强度 72.56 | 质量 56.80
+- Alleged FLOAT Meme Coin Launch | Solana | 降温中 | 强度 85.33 | 质量 75.39
+  - 主题摘要：According to DJ SHO's post, the author questions why the FLOAT meme coin has not gained traction despite Bitcoin's price movements, suggesting the token is undervalued. The post r…
+  - 资金 100.00 / 广度 84.45 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- AODT | Solana | 降温中 | 强度 85.25 | 质量 73.04
+  - 主题摘要：Multiple tokens named 「AODT」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 76.60 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged FLOAT Token Launch | Solana | 降温中 | 强度 85.06 | 质量 75.40
+  - 主题摘要：According to DJ SHO's post, the FLOAT token (Freaky Latina On a Trampoline) is allegedly launched. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 84.46 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- United States Dividend Program | Solana | 降温中 | 强度 84.56 | 质量 72.48
+  - 主题摘要：Multiple tokens named 「U SDP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.72 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- SPCX1K | Solana | 降温中 | 强度 84.06 | 质量 71.91
+  - 主题摘要：Multiple tokens named 「SPCX1K」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 72.85 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- XTO | Solana | 降温中 | 强度 82.67 | 质量 72.38
+  - 主题摘要：Multiple tokens named 「XTO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.39 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- TerafabAI | BSC | 降温中 | 强度 80.99 | 质量 78.68
+  - 主题摘要：Multiple tokens named 「TerafabAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 92.97 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- DONKEY MORNING | BSC | 点火期 | 强度 77.35 | 质量 73.06
+  - 主题摘要：Multiple tokens named 「GM」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 96.44 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 稳定上岸符 | BSC | 降温中 | 强度 75.78 | 质量 61.90
+  - 主题摘要：Multiple tokens named 「上岸」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.83 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- He Yi on Chivalry | BSC | 加速中 | 强度 75.64 | 质量 75.61
+  - 主题摘要：Binance Co-CEO He Yi replies to a post praising Binance's 'Chivalry' with 'You really have everything?', highlighting the platform's strong community culture and loyalty. This int…
+  - 资金 100.00 / 广度 97.76 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk True | BSC | 点火期 | 强度 75.32 | 质量 73.51
+  - 主题摘要：Elon Musk replied 'True' to a controversial statement by cultural commentator Gad Saad, signaling his endorsement of the creator's views. This interaction highlights Musk's active…
+  - 资金 100.00 / 广度 85.47 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- WHALE | BSC | 降温中 | 强度 74.11 | 质量 59.27
   - 主题摘要：Multiple tokens named 「WHALE」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 77.20 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 77.07 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.05，其中已确认叙事 0 个。
-- DEV ON SPACE 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.05，其中已确认叙事 0 个。
+- I said this way 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - United Oil Dividend Fund 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- TerafabAI | 质量 78.75 | 可交易性 97.43 | 风险 低
-- United Oil Dividend Fund | 质量 77.20 | 可交易性 100.00 | 风险 低
-- Pump.fun Trading Rewards | 质量 77.07 | 可交易性 100.00 | 风险 低
-- Elon Musk True | 质量 74.93 | 可交易性 97.62 | 风险 低
-- GTA6 | 质量 74.04 | 可交易性 100.00 | 风险 低
-- DONKEY MORNING | 质量 73.08 | 可交易性 100.00 | 风险 低
-- XTO | 质量 72.32 | 可交易性 100.00 | 风险 低
-- DEV ON SPACE | 质量 71.94 | 可交易性 90.11 | 风险 低
-- United States Dividend Program | 质量 71.51 | 可交易性 100.00 | 风险 低
-- Xiaoyin Ren Ge Shares Vending Machine Item | 质量 70.99 | 可交易性 86.90 | 风险 低
+- TerafabAI | 质量 78.68 | 可交易性 97.14 | 风险 低
+- United Oil Dividend Fund | 质量 77.27 | 可交易性 100.00 | 风险 低
+- He Yi on Chivalry | 质量 75.61 | 可交易性 100.00 | 风险 低
+- I said this way | 质量 75.40 | 可交易性 100.00 | 风险 低
+- Alleged FLOAT Token Launch | 质量 75.40 | 可交易性 100.00 | 风险 低
+- Alleged FLOAT Meme Coin Launch | 质量 75.39 | 可交易性 100.00 | 风险 低
+- Elon Musk True | 质量 73.51 | 可交易性 92.71 | 风险 低
+- DONKEY MORNING | 质量 73.06 | 可交易性 100.00 | 风险 低
+- AODT | 质量 73.04 | 可交易性 100.00 | 风险 低
+- United States Dividend Program | 质量 72.48 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- DEV ON SPACE | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Elon Musk True | 风险 47.79 | 原因：流动性偏薄
-- DONKEY MORNING | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- GTA6 | 风险 44.38 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon Musk True | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- DONKEY MORNING | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -106,10 +104,10 @@
 - RM | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CORLA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 珍珠币 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PUSSY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BTC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BTC | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TAOLF | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- MARS | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - BAN | BSC | 看多 | 新鲜度 74.52 | 暂无直接叙事映射
 
 ## 官方催化
@@ -136,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United Oil Dividend Fund（Solana，分数 87.97）
+1. 当前最强叙事：United Oil Dividend Fund（Solana，分数 87.75）
 2. 共振最强代币：JCT（BSC，共振 100.0）
-3. 记忆层变化：XTO 当前为“新出现”
+3. 记忆层变化：I said this way 当前为“新出现”
 4. 最新官方催化：Binance Launches Limited-Time Spot Taker Program Promotion (2026-11-09)
 #Binance #NarrativeOS #OpenClaw
