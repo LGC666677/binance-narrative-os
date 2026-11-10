@@ -1,105 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-10T17:58:48.410897+00:00
+- 生成时间：2026-11-10T22:46:20.738250+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：4
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 007|只找真角度: West Journey X Public Beta，所在链为 BSC，叙事强度 82.86。
-- 当前平均叙事强度为 74.91，其中已确认叙事 0 个。
+- 当前最强叙事是 Alleged Dacity Coin Listing，所在链为 Solana，叙事强度 86.4。
+- 当前平均叙事强度为 82.26，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 007|只找真角度: West Journey X Public Beta 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 GTA VI Physical Case Artwork，伪叙事风险 57.94。
+- 记忆层显示 Alleged Dacity Coin Listing 当前处于“强化”状态。
+- 当前最需要防止误判的叙事是 007|只找真角度: West Journey X Public Beta，伪叙事风险 52.99。
 - 最新官方催化来自 币安最新公告：Binance Futures Will End Last Price Protected Period on USDⓈ-Margined BULLAUSDT Perpetual Contract (2026-11-10)。
 
 ## 叙事雷达
 
-- 007|只找真角度: West Journey X Public Beta | BSC | 降温中 | 强度 82.86 | 质量 73.80
-  - 主题摘要：According to 007|只找真角度's post, the Web3 community token 'West Journey X' is launching its public beta test on November 11, 2026. The post describes the project as a game for crypt…
-  - 资金 100.00 / 广度 79.15 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GTA VI Physical Case Artwork | Solana | 降温中 | 强度 79.57 | 质量 77.03
-  - 主题摘要：According to ben's post, the artwork inside the Grand Theft Auto VI physical game case is based on the closing scene of Trailer 1. This design matches the poster shown with the Cl…
-  - 资金 100.00 / 广度 94.40 / 确认 5.04 / 脆弱性 49.94
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Google Gemini | Solana | 降温中 | 强度 78.50 | 质量 72.21
-  - 主题摘要：Multiple tokens named 「Gemini」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.82 / 确认 9.36 / 脆弱性 49.79
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Praises Chinese X as Niu Bi | BSC | 加速中 | 强度 77.59 | 质量 78.14
-  - 主题摘要：Elon Musk posted a short phrase combining English and Chinese slang to express strong approval of the Chinese version of X. This cross-cultural linguistic blend creates immediate…
-  - 资金 100.00 / 广度 100.00 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Chu Shanhe Questions Ji Mi Xian Ren Hype | BSC | 点火期 | 强度 73.88 | 质量 67.72
-  - 主题摘要：According to 楚山河's post, the 'Ni Hao Cat' Meme image originated from Douyin effects and became popular as 'Hakimi Immortal'. 楚山河 argues that this Chinese cultural symbol should no…
-  - 资金 100.00 / 广度 80.23 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- United Dividend Trust Fund | Solana | 降温中 | 强度 73.83 | 质量 64.59
-  - 主题摘要：Multiple tokens named 「UDTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 48.44 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- YFI（大姨父）BSC 链正式启航共识群938547502 | BSC | 降温中 | 强度 72.62 | 质量 63.86
-  - 主题摘要：Multiple tokens named 「YFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.44 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mikuklk Shares Cash Cow Meme Image | BSC | 点火期 | 强度 71.46 | 质量 67.71
-  - 主题摘要：According to Mikuklk's post, the user shared a Meme image related to the token "Cash Cow" (现金牛). The post indicates the image was recently published in a public square, highlighti…
-  - 资金 100.00 / 广度 93.76 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Alleged North Korea Elon Musk Meme Coin | BSC | 点火期 | 强度 71.07 | 质量 64.29
-  - 主题摘要：According to Watcher.Guru's post, North Korea is allegedly launching 'Elon Musk' crypto memecoins to launder $6.3 billion stolen from Binance. This information is unverified. Plea…
-  - 资金 100.00 / 广度 81.57 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged AGI-Generated Solana Token | Solana | 降温中 | 强度 70.68 | 质量 55.14
-  - 主题摘要：According to 🟢🟢AlpacaVulture7🟢🟢's post, the user claims to have utilized Artificial General Intelligence (AGI) to launch a new token on the Solana blockchain. This information is…
-  - 资金 100.00 / 广度 72.16 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Coinbase Hack | Solana | 降温中 | 强度 70.30 | 质量 56.82
-  - 主题摘要：According to franklin quant's post, the user shared a claim that Coinbase was hacked, accompanied by links to search results and a Whale Alert transaction. This information is unv…
-  - 资金 99.29 / 广度 56.81 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- XTO | Solana | 点火期 | 强度 70.26 | 质量 68.05
-  - 主题摘要：Multiple tokens named 「XTO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.89 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- BANDIT Calls for HCAT Meme Image | Solana | 降温中 | 强度 69.86 | 质量 54.21
-  - 主题摘要：According to BANDIT's post, the author commented on Helius's Zcash-like project for Solana, suggesting the launch of a 'Ring Cat' (RCAT) Meme image. BANDIT stated that the concept…
-  - 资金 100.00 / 广度 72.06 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Dacity Coin Listing | Solana | 降温中 | 强度 69.10 | 质量 66.71
+- Alleged Dacity Coin Listing | Solana | 降温中 | 强度 86.40 | 质量 78.00
   - 主题摘要：According to intelligent dog's post, the DACITY Coin is allegedly being listed on Rockstar Games with a valuation of 7 million. This information is unverified. Please exercise cau…
-  - 资金 100.00 / 广度 68.49 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.49 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Dacity Coin Trailer Reference | Solana | 降温中 | 强度 83.80 | 质量 73.92
+  - 主题摘要：According to Dacity Coin's post, the author highlights a reference to the Dacity Coin token found within a trailer, urging followers to zoom in to see the detail. The post suggest…
+  - 资金 100.00 / 广度 83.52 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Launch of Baton Token | Solana | 降温中 | 强度 83.35 | 质量 73.20
+  - 主题摘要：According to 💎 ＧＥＭ 💎's post, the user claims that 'BATON' is the best option and references the Pump.fun platform. This suggests the alleged launch of a token named Baton. This in…
+  - 资金 100.00 / 广度 85.65 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- FOTF | Solana | 降温中 | 强度 83.22 | 质量 70.00
+  - 主题摘要：Multiple tokens named 「FOTF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 66.48 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged GTA6 Leak Dacity Coin | Solana | 降温中 | 强度 82.57 | 质量 71.91
+  - 主题摘要：According to 🟢🟢🟢🟢🟢🟢🟢🟢🟢's post, a Meme image circulated claiming that a token named "Dacity Coin" appears in a GTA 6 leak. The post discusses the ticker spacing and associated fees…
+  - 资金 100.00 / 广度 84.35 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Helius Privacy Rings Meme | Solana | 加速中 | 强度 82.55 | 质量 76.38
+  - 主题摘要：According to Gerald Dev's post, he commented on a quoted tweet regarding Helius Privacy Rings, asserting that the feature is essential. The post includes references to tokens name…
+  - 资金 100.00 / 广度 79.99 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Rockstar Games | Solana | 降温中 | 强度 79.81 | 质量 74.13
+  - 主题摘要：Multiple tokens named 「Rockstar」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 93.31 / 广度 80.22 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk Praises Chinese X as Niu Bi | BSC | 加速中 | 强度 78.37 | 质量 77.44
+  - 主题摘要：Elon Musk posted a short phrase combining English and Chinese slang to express strong approval of the Chinese version of X. This cross-cultural linguistic blend creates immediate…
+  - 资金 100.00 / 广度 99.83 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 007|只找真角度: West Journey X Public Beta | BSC | 点火期 | 强度 77.64 | 质量 74.22
+  - 主题摘要：According to 007|只找真角度's post, the Web3 community token 'West Journey X' is scheduled to launch its public beta test on November 11, 2026. The post describes the project as a game…
+  - 资金 100.00 / 广度 80.54 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Toly on Percolator Forks | Solana | 点火期 | 强度 76.34 | 质量 72.74
+  - 主题摘要：Toly, Co-Founder of Solana Labs, commented on a quoted tweet regarding the Pppercolator project. He stated that the probability of all infinite Percolator forks being rugs is 100%…
+  - 资金 100.00 / 广度 82.39 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Chu Shanhe Questions Ji Mi Xian Ren Hype | BSC | 点火期 | 强度 76.21 | 质量 69.18
+  - 主题摘要：According to Chu Shanhe's post, the token 'Jimi Xianren' (Ni Hao Cat) originated from Douyin special effects and the 'Hakimi' trend, evolving into a Chinese cultural symbol. Chu S…
+  - 资金 100.00 / 广度 80.39 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- TerafabAI | BSC | 降温中 | 强度 71.49 | 质量 66.52
+  - 主题摘要：Multiple tokens named 「TerafabAI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.54 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- YFI（大姨父）BSC 链正式启航共识群938547502 | BSC | 降温中 | 强度 71.12 | 质量 61.11
+  - 主题摘要：Multiple tokens named 「YFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.40 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Alleged North Korea Elon Musk Meme Coin | BSC | 点火期 | 强度 70.08 | 质量 63.52
+  - 主题摘要：Multiple tokens named 「머스크」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.68 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 74.91，其中已确认叙事 0 个。
-- Chu Shanhe Questions Ji Mi Xian Ren Hype 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- 007|只找真角度: West Journey X Public Beta 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.26，其中已确认叙事 0 个。
+- Alleged Helius Privacy Rings Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Dacity Coin Listing 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk Praises Chinese X as Niu Bi | 质量 78.14 | 可交易性 100.00 | 风险 低
-- GTA VI Physical Case Artwork | 质量 77.03 | 可交易性 98.68 | 风险 低
-- 007|只找真角度: West Journey X Public Beta | 质量 73.80 | 可交易性 100.00 | 风险 低
-- Google Gemini | 质量 72.21 | 可交易性 100.00 | 风险 低
-- XTO | 质量 68.05 | 可交易性 94.15 | 风险 低
-- Chu Shanhe Questions Ji Mi Xian Ren Hype | 质量 67.72 | 可交易性 84.26 | 风险 低
-- Mikuklk Shares Cash Cow Meme Image | 质量 67.71 | 可交易性 82.01 | 风险 低
-- Alleged Dacity Coin Listing | 质量 66.71 | 可交易性 97.77 | 风险 低
-- United Dividend Trust Fund | 质量 64.59 | 可交易性 100.00 | 风险 低
-- Uncertain:Alleged North Korea Elon Musk Meme Coin | 质量 64.29 | 可交易性 65.85 | 风险 低
+- Alleged Dacity Coin Listing | 质量 78.00 | 可交易性 100.00 | 风险 低
+- Elon Musk Praises Chinese X as Niu Bi | 质量 77.44 | 可交易性 100.00 | 风险 低
+- Alleged Helius Privacy Rings Meme | 质量 76.38 | 可交易性 97.20 | 风险 低
+- 007|只找真角度: West Journey X Public Beta | 质量 74.22 | 可交易性 100.00 | 风险 低
+- Rockstar Games | 质量 74.13 | 可交易性 100.00 | 风险 低
+- Dacity Coin Trailer Reference | 质量 73.92 | 可交易性 96.02 | 风险 低
+- Alleged Launch of Baton Token | 质量 73.20 | 可交易性 91.49 | 风险 低
+- Toly on Percolator Forks | 质量 72.74 | 可交易性 87.93 | 风险 低
+- Alleged GTA6 Leak Dacity Coin | 质量 71.91 | 可交易性 88.48 | 风险 低
+- FOTF | 质量 70.00 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- GTA VI Physical Case Artwork | 风险 57.94 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
-- Google Gemini | 风险 54.40 | 原因：流动性偏薄、龙头筹码集中度偏高
-- Uncertain:Alleged North Korea Elon Musk Meme Coin | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- XTO | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Mikuklk Shares Cash Cow Meme Image | 风险 47.79 | 原因：流动性偏薄
+- 007|只找真角度: West Journey X Public Beta | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Uncertain:Alleged North Korea Elon Musk Meme Coin | 风险 47.79 | 原因：流动性偏薄
+- Toly on Percolator Forks | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 - Chu Shanhe Questions Ji Mi Xian Ren Hype | 风险 42.03 | 原因：流动性偏薄
+- TerafabAI | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -107,12 +106,12 @@
 - 躺枪 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RM | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CORLA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- HCAT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- PUSSY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- h1t | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BANDANA | Solana | 看多 | 新鲜度 100.00 | Alleged Helius Privacy Rings Meme
+- RWA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - X | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- BOXCAT | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 牛逼 | BSC | 看多 | 新鲜度 99.40 | Elon Musk Praises Chinese X as Niu Bi
-- HCAT | Solana | 看多 | 新鲜度 88.01 | 暂无直接叙事映射
+- mihao | Solana | 看多 | 新鲜度 74.88 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -138,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：007|只找真角度: West Journey X Public Beta（BSC，分数 82.86）
+1. 当前最强叙事：Alleged Dacity Coin Listing（Solana，分数 86.4）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：007|只找真角度: West Journey X Public Beta 当前为“新出现”
+3. 记忆层变化：Alleged Dacity Coin Listing 当前为“强化”
 4. 最新官方催化：Binance Futures Will End Last Price Protected Period on USDⓈ-Margined BULLAUSDT Perpetual Contract (2026-11-10)
 #Binance #NarrativeOS #OpenClaw
