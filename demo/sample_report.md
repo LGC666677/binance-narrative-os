@@ -1,105 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-11T17:25:26.567945+00:00
+- 生成时间：2026-11-11T23:31:18.563924+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 USPR，所在链为 Solana，叙事强度 82.89。
-- 当前平均叙事强度为 78.1，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MIHAO，来自 Solana，共振分数 100.0。
-- 记忆层显示 USPR 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 GTA 6，伪叙事风险 66.23。
+- 当前最强叙事是 Luminaries: Memes are back，所在链为 Solana，叙事强度 87.99。
+- 当前平均叙事强度为 83.29，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
+- 记忆层显示 Luminaries: Memes are back 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Mart Discusses Max Token，伪叙事风险 50.11。
 - 最新官方催化来自 币安最新公告：Binance Convert and Buy/Sell Now Support Fiat Purchases of bStocks。
 
 ## 叙事雷达
 
-- USPR | Solana | 降温中 | 强度 82.89 | 质量 71.84
-  - 主题摘要：Multiple tokens named 「USPR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.59 / 确认 9.36 / 脆弱性 10.00
+- Luminaries: Memes are back | Solana | 降温中 | 强度 87.99 | 质量 79.31
+  - 主题摘要：According to Luminaries's post, the author states that memes are back, indicating a resurgence of interest in meme culture within the social media landscape.
+  - 资金 100.00 / 广度 92.21 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He on Female Crypto Leaders | BSC | 点火期 | 强度 80.28 | 质量 79.08
-  - 主题摘要：Binance Co-CEO Yi He reflects on the historical struggle for women's rights and her complex feelings regarding recent scandals involving female figures in the crypto industry, spa…
-  - 资金 100.00 / 广度 94.09 / 确认 12.96 / 脆弱性 14.00
+- Elon Musk's Son Acknowledges Dog | Solana | 点火期 | 强度 83.71 | 质量 80.85
+  - 主题摘要：Multiple tokens named 「MAX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uncertain:Yuki Shares Binance New Year VIP Event | BSC | 降温中 | 强度 78.69 | 质量 69.26
+- Alleged Max Meme Coin | Solana | 点火期 | 强度 83.19 | 质量 81.64
+  - 主题摘要：According to Meme Creator's post, a Meme image featuring a dog named Max is shared, potentially linking to tokens with the symbol Max. This information is unverified. Please exerc…
+  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- berna Allegedly Posts Meme Image | Solana | 降温中 | 强度 82.91 | 质量 73.81
+  - 主题摘要：Multiple tokens named 「mihao」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 96.94 / 广度 94.27 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged MAX Meme Coin Launch | Solana | 加速中 | 强度 82.51 | 质量 78.56
+  - 主题摘要：According to ChainChomp131's post, the user claims to have created a token named MAX for followers who requested it, while asking the community to generate memes to establish it a…
+  - 资金 100.00 / 广度 87.08 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Mart Discusses Max Token | Solana | 点火期 | 强度 82.44 | 质量 80.85
+  - 主题摘要：According to Mart's post, Mart responded to a query regarding meme coinification by mentioning 'Max'. This comment references the Max token, potentially alluding to the token name…
+  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- BRING IT ON! | Solana | 加速中 | 强度 81.86 | 质量 81.23
+  - 主题摘要：Multiple tokens named 「BRINGITON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 96.13 / 广度 95.98 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Mihao Cat Token Dispute | Solana | 降温中 | 强度 81.71 | 质量 72.10
+  - 主题摘要：Multiple tokens named 「mihao」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 96.96 / 广度 94.27 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Yuki Shares Binance New Year VIP Event | BSC | 降温中 | 强度 79.81 | 质量 71.18
   - 主题摘要：According to Yuki's post, Binance is offering New Year VIP gifts, including pilot or mountaineering gear sets for VIP 1-9. Yuki outlines the eligibility requirements, such as main…
-  - 资金 100.00 / 广度 88.33 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.36 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GTA 6 | Solana | 降温中 | 强度 78.69 | 质量 76.08
-  - 主题摘要：Multiple tokens named 「GTA 6」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 91.17 / 广度 92.11 / 确认 9.36 / 脆弱性 57.26
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Before GTA 6 Token Relaunch | Solana | 降温中 | 强度 78.64 | 质量 68.01
-  - 主题摘要：According to PascaI (i) on Pump's post, the user is relaunching the 'Before GTA 6' token (ticker: Before) to properly include the Take2 pair and holder rewards, claiming it is the…
-  - 资金 100.00 / 广度 74.15 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged GTA6 Lotto Meme Project | Solana | 降温中 | 强度 77.90 | 质量 66.87
-  - 主题摘要：According to GTA6 LOTTO's post, the account allegedly launched a Meme coin project named GTA6 LOTTO, featuring a lottery mechanism where holders can win copies of the upcoming gam…
-  - 资金 100.00 / 广度 70.71 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged GTA VI Meme Coin | Solana | 降温中 | 强度 76.98 | 质量 65.38
-  - 主题摘要：According to horswifphone's post, the user observed that a token associated with GTA VI is trading at a $4 million valuation on Stonk with a $40 million market cap. The user quest…
-  - 资金 100.00 / 广度 65.38 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- GTA 6 Pre-order Sales | Solana | 降温中 | 强度 76.72 | 质量 64.94
-  - 主题摘要：According to Kalshi's post, Grand Theft Auto 6 (GTA 6) is nearing $1,000,000,000 in pre-order sales. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 66.69 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged GTA 6 Coin Launch | Solana | 降温中 | 强度 76.48 | 质量 64.32
-  - 主题摘要：According to coffeesippa1's post, the user claims that an official GTA 6 coin can now be run, referencing a discussion about a 'dacity coin' to Rockstar Games. This refers to comm…
-  - 资金 100.00 / 广度 67.41 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- LeChuck GTA 6 Download | Solana | 降温中 | 强度 76.47 | 质量 64.34
-  - 主题摘要：According to LeChuck's post, the GTA 6 download has started. This statement is presented as a personal claim and is not a confirmed fact.
-  - 资金 100.00 / 广度 67.48 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Praises Chinese X as Niu Bi | BSC | 点火期 | 强度 75.35 | 质量 74.05
+- Yi He on Female Crypto Leaders | BSC | 点火期 | 强度 75.31 | 质量 74.69
+  - 主题摘要：Binance Co-CEO Yi He reflects on the historical struggle for women's rights and her complex feelings regarding recent scandals involving female figures in the crypto industry, spa…
+  - 资金 100.00 / 广度 93.83 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Elon Musk Praises Chinese X as Niu Bi | BSC | 点火期 | 强度 73.36 | 质量 73.13
   - 主题摘要：Elon Musk posted a short phrase combining English and Chinese slang to express strong approval of the Chinese version of X. This cross-cultural linguistic blend creates immediate…
-  - 资金 100.00 / 广度 96.91 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 96.67 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Chu Shanhe Questions Ji Mi Xian Ren Hype | BSC | 点火期 | 强度 73.40 | 质量 68.59
-  - 主题摘要：According to Chu Shanhe's post, the token 'Jimi Xianren' (Ni Hao Cat) originated from Douyin special effects and the 'Hajimi' trend, evolving into a Chinese cultural symbol. Chu S…
-  - 资金 100.00 / 广度 80.89 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Nile River Two Sages Meme Goes Viral | BSC | 点火期 | 强度 73.36 | 质量 68.93
+- Nile River Two Sages Meme Goes Viral | BSC | 点火期 | 强度 72.88 | 质量 67.03
   - 主题摘要：According to 吉大力大篱笆大's post, a Meme image featuring a hippopotamus and a crocodile, titled 'Nile Two Saints', has gained significant popularity with nearly 60 million views in one…
-  - 资金 100.00 / 广度 81.51 / 确认 16.56 / 脆弱性 24.00
+  - 资金 100.00 / 广度 81.32 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 007|只找真角度: West Journey X Public Beta | BSC | 点火期 | 强度 72.86 | 质量 68.87
-  - 主题摘要：According to 007|只找真角度's post, the user claims that the token YouxiX is launching a Web3 community game titled 'YouxiX x Double 11' for public beta testing on November 11, 2026. T…
-  - 资金 100.00 / 广度 86.45 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Hongyu Discusses Yang Le Ge Yang Revenue | BSC | 降温中 | 强度 71.01 | 质量 57.93
+  - 主题摘要：According to 红鱼（X最友善的人）'s post, the author questions the total revenue generated by the team behind the viral game 'Yang Le Ge Yang' and tags @grok to inquire about the financial…
+  - 资金 100.00 / 广度 72.32 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Binance Guard | BSC | 加速中 | 强度 70.91 | 质量 59.79
+  - 主题摘要：Binance Guard (币安守护) is a community-driven token inspired by the Binance ecosystem. It aims to support decentralized finance initiatives while fostering engagement through communi…
+  - 资金 100.00 / 广度 70.60 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.1，其中已确认叙事 0 个。
-- Yi He on Female Crypto Leaders 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- USPR 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.29，其中已确认叙事 0 个。
+- Elon Musk's Son Acknowledges Dog 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Luminaries: Memes are back 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Yi He on Female Crypto Leaders | 质量 79.08 | 可交易性 100.00 | 风险 低
-- GTA 6 | 质量 76.08 | 可交易性 94.63 | 风险 低
-- Elon Musk Praises Chinese X as Niu Bi | 质量 74.05 | 可交易性 100.00 | 风险 低
-- USPR | 质量 71.84 | 可交易性 100.00 | 风险 低
-- Uncertain:Yuki Shares Binance New Year VIP Event | 质量 69.26 | 可交易性 97.48 | 风险 低
-- Nile River Two Sages Meme Goes Viral | 质量 68.93 | 可交易性 76.10 | 风险 低
-- 007|只找真角度: West Journey X Public Beta | 质量 68.87 | 可交易性 100.00 | 风险 低
-- Chu Shanhe Questions Ji Mi Xian Ren Hype | 质量 68.59 | 可交易性 91.22 | 风险 低
-- Alleged Before GTA 6 Token Relaunch | 质量 68.01 | 可交易性 85.69 | 风险 低
-- Alleged GTA6 Lotto Meme Project | 质量 66.87 | 可交易性 85.34 | 风险 低
+- Alleged Max Meme Coin | 质量 81.64 | 可交易性 100.00 | 风险 低
+- BRING IT ON! | 质量 81.23 | 可交易性 100.00 | 风险 低
+- Elon Musk's Son Acknowledges Dog | 质量 80.85 | 可交易性 100.00 | 风险 低
+- Mart Discusses Max Token | 质量 80.85 | 可交易性 100.00 | 风险 低
+- Luminaries: Memes are back | 质量 79.31 | 可交易性 100.00 | 风险 低
+- Alleged MAX Meme Coin Launch | 质量 78.56 | 可交易性 100.00 | 风险 低
+- Yi He on Female Crypto Leaders | 质量 74.69 | 可交易性 100.00 | 风险 低
+- berna Allegedly Posts Meme Image | 质量 73.81 | 可交易性 96.04 | 风险 低
+- Elon Musk Praises Chinese X as Niu Bi | 质量 73.13 | 可交易性 100.00 | 风险 低
+- Alleged Mihao Cat Token Dispute | 质量 72.10 | 可交易性 96.04 | 风险 低
 
 ## 伪叙事风险
 
-- GTA 6 | 风险 66.23 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
-- 007|只找真角度: West Journey X Public Beta | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Nile River Two Sages Meme Goes Viral | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Yi He on Female Crypto Leaders | 风险 44.91 | 原因：流动性偏薄
-- Elon Musk Praises Chinese X as Niu Bi | 风险 42.03 | 原因：流动性偏薄
-- Chu Shanhe Questions Ji Mi Xian Ren Hype | 风险 42.03 | 原因：流动性偏薄
+- Mart Discusses Max Token | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Yi He on Female Crypto Leaders | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Nile River Two Sages Meme Goes Viral | 风险 47.79 | 原因：流动性偏薄
+- Alleged Max Meme Coin | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon Musk Praises Chinese X as Niu Bi | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon Musk's Son Acknowledges Dog | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -107,12 +107,12 @@
 - 躺枪 | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - RM | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CORLA | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- mihao | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- BANDANA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- RWA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- 弹开 | BSC | 看多 | 新鲜度 94.46 | Yi He on Female Crypto Leaders
-- 牛逼 | BSC | 看多 | 新鲜度 87.40 | 暂无直接叙事映射
-- BAN | BSC | 看多 | 新鲜度 74.52 | 暂无直接叙事映射
+- Max | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PUSSY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- PUSSY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- HUNG | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- Max | Solana | 看多 | 新鲜度 100.00 | Alleged Max Meme Coin
+- HUNG | Solana | 看多 | 新鲜度 94.75 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -138,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：USPR（Solana，分数 82.89）
-2. 共振最强代币：MIHAO（Solana，共振 100.0）
-3. 记忆层变化：USPR 当前为“新出现”
+1. 当前最强叙事：Luminaries: Memes are back（Solana，分数 87.99）
+2. 共振最强代币：ZEC（BSC，共振 100.0）
+3. 记忆层变化：Luminaries: Memes are back 当前为“新出现”
 4. 最新官方催化：Binance Convert and Buy/Sell Now Support Fiat Purchases of bStocks
 #Binance #NarrativeOS #OpenClaw
