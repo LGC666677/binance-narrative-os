@@ -1,105 +1,105 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-11T23:31:18.563924+00:00
+- 生成时间：2026-11-12T04:09:41.183591+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：2
+- 高风险伪叙事：3
 
 ## 今日摘要
 
-- 当前最强叙事是 Luminaries: Memes are back，所在链为 Solana，叙事强度 87.99。
-- 当前平均叙事强度为 83.29，其中已确认叙事 0 个。
+- 当前最强叙事是 Rockstar Games，所在链为 Solana，叙事强度 84.19。
+- 当前平均叙事强度为 75.27，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Luminaries: Memes are back 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Mart Discusses Max Token，伪叙事风险 50.11。
-- 最新官方催化来自 币安最新公告：Binance Convert and Buy/Sell Now Support Fiat Purchases of bStocks。
+- 记忆层显示 Rockstar Games 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Ansem is Back，伪叙事风险 52.99。
+- 最新官方催化来自 币安最新公告：Updates on Step Size for Spot Trading Pairs (2026-11-19)。
 
 ## 叙事雷达
 
-- Luminaries: Memes are back | Solana | 降温中 | 强度 87.99 | 质量 79.31
-  - 主题摘要：According to Luminaries's post, the author states that memes are back, indicating a resurgence of interest in meme culture within the social media landscape.
-  - 资金 100.00 / 广度 92.21 / 确认 16.56 / 脆弱性 14.00
+- Rockstar Games | Solana | 降温中 | 强度 84.19 | 质量 78.01
+  - 主题摘要：Multiple tokens named 「Rockstar」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.16 / 确认 9.36 / 脆弱性 30.10
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk's Son Acknowledges Dog | Solana | 点火期 | 强度 83.71 | 质量 80.85
-  - 主题摘要：Multiple tokens named 「MAX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Max Meme Coin | Solana | 点火期 | 强度 83.19 | 质量 81.64
-  - 主题摘要：According to Meme Creator's post, a Meme image featuring a dog named Max is shared, potentially linking to tokens with the symbol Max. This information is unverified. Please exerc…
-  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- berna Allegedly Posts Meme Image | Solana | 降温中 | 强度 82.91 | 质量 73.81
+- Alleged Launch of Nihao Token | Solana | 降温中 | 强度 83.96 | 质量 77.28
   - 主题摘要：Multiple tokens named 「mihao」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 96.94 / 广度 94.27 / 确认 9.36 / 脆弱性 14.00
+  - 资金 88.41 / 广度 90.72 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged MAX Meme Coin Launch | Solana | 加速中 | 强度 82.51 | 质量 78.56
-  - 主题摘要：According to ChainChomp131's post, the user claims to have created a token named MAX for followers who requested it, while asking the community to generate memes to establish it a…
-  - 资金 100.00 / 广度 87.08 / 确认 20.16 / 脆弱性 14.00
+- Jackson Promotes XMoney | Solana | 加速中 | 强度 82.56 | 质量 81.78
+  - 主题摘要：According to Jackson's post, Jackson states that every dollar sent to him will be spent on boosting the post. This action is associated with the XMoney project, which Jackson is b…
+  - 资金 100.00 / 广度 97.80 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Mart Discusses Max Token | Solana | 点火期 | 强度 82.44 | 质量 80.85
-  - 主题摘要：According to Mart's post, Mart responded to a query regarding meme coinification by mentioning 'Max'. This comment references the Max token, potentially alluding to the token name…
-  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- BRING IT ON! | Solana | 加速中 | 强度 81.86 | 质量 81.23
-  - 主题摘要：Multiple tokens named 「BRINGITON」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 96.13 / 广度 95.98 / 确认 20.16 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Mihao Cat Token Dispute | Solana | 降温中 | 强度 81.71 | 质量 72.10
+- Elon Musk Responds to Jensen Huang Hiring Request | Solana | 降温中 | 强度 81.59 | 质量 74.88
+  - 主题摘要：Elon Musk replied 'That would be an honor' to a suggestion that he hire NVIDIA CEO Jensen Huang, sparking excitement about a potential mega-merger or collaboration between the two…
+  - 资金 100.00 / 广度 82.59 / 确认 12.96 / 脆弱性 29.86
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Pump.fun Promotes Mihao Token | Solana | 降温中 | 强度 81.26 | 质量 76.83
   - 主题摘要：Multiple tokens named 「mihao」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 96.96 / 广度 94.27 / 确认 9.36 / 脆弱性 14.00
+  - 资金 91.07 / 广度 89.24 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Yuki Shares Binance New Year VIP Event | BSC | 降温中 | 强度 79.81 | 质量 71.18
+- Alleged X Coin Launch | Solana | 加速中 | 强度 80.84 | 质量 80.03
+  - 主题摘要：Multiple tokens named 「X」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 89.35 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Ansem is Back | Solana | 点火期 | 强度 79.34 | 质量 73.97
+  - 主题摘要：Multiple tokens named 「AIB」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.11 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Yuki Shares Binance New Year VIP Event | BSC | 降温中 | 强度 79.19 | 质量 69.70
   - 主题摘要：According to Yuki's post, Binance is offering New Year VIP gifts, including pilot or mountaineering gear sets for VIP 1-9. Yuki outlines the eligibility requirements, such as main…
-  - 资金 100.00 / 广度 88.36 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 88.33 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He on Female Crypto Leaders | BSC | 点火期 | 强度 75.31 | 质量 74.69
-  - 主题摘要：Binance Co-CEO Yi He reflects on the historical struggle for women's rights and her complex feelings regarding recent scandals involving female figures in the crypto industry, spa…
-  - 资金 100.00 / 广度 93.83 / 确认 12.96 / 脆弱性 24.00
+- Alleged APEONX Token Launch | Solana | 加速中 | 强度 78.32 | 质量 75.39
+  - 主题摘要：According to gigadevor's post, the user claims to have launched the $apeonx token. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 83.79 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 长鹏人生 | BSC | 加速中 | 强度 78.00 | 质量 68.28
+  - 主题摘要：Multiple tokens named 「长鹏人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 52.83 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- gapJ Shares Xiongda Hot Search | BSC | 点火期 | 强度 75.18 | 质量 73.46
+  - 主题摘要：According to cryptodev's post, the user questions the identity of a character, asking if it is 'Xiong Da', and shares a black-and-white image with the text 'RIP Xiong Da'. This co…
+  - 资金 100.00 / 广度 84.01 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Elon Musk Praises Chinese X as Niu Bi | BSC | 点火期 | 强度 73.36 | 质量 73.13
-  - 主题摘要：Elon Musk posted a short phrase combining English and Chinese slang to express strong approval of the Chinese version of X. This cross-cultural linguistic blend creates immediate…
-  - 资金 100.00 / 广度 96.67 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Nile River Two Sages Meme Goes Viral | BSC | 点火期 | 强度 72.88 | 质量 67.03
-  - 主题摘要：According to 吉大力大篱笆大's post, a Meme image featuring a hippopotamus and a crocodile, titled 'Nile Two Saints', has gained significant popularity with nearly 60 million views in one…
-  - 资金 100.00 / 广度 81.32 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Hongyu Discusses Yang Le Ge Yang Revenue | BSC | 降温中 | 强度 71.01 | 质量 57.93
-  - 主题摘要：According to 红鱼（X最友善的人）'s post, the author questions the total revenue generated by the team behind the viral game 'Yang Le Ge Yang' and tags @grok to inquire about the financial…
-  - 资金 100.00 / 广度 72.32 / 确认 9.36 / 脆弱性 24.00
+- Alleged B-Kitty Token | BSC | 降温中 | 强度 73.96 | 质量 62.31
+  - 主题摘要：According to Yuki's post, the user mentioned 'B-Kitty' in a reply to a question about names. This refers to the B-Kitty token, described as a meme, NFT cat, or digital pet. This i…
+  - 资金 100.00 / 广度 81.78 / 确认 9.36 / 脆弱性 18.81
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Guard | BSC | 加速中 | 强度 70.91 | 质量 59.79
+- 007|只找真角度: West Journey X Public Beta | BSC | 点火期 | 强度 73.52 | 质量 68.75
+  - 主题摘要：According to 007|只找真角度's post, the Web3 community token 'West Journey X' is scheduled to launch its public beta test on November 11, 2026. The post describes the project as a game…
+  - 资金 100.00 / 广度 84.34 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance Guard | BSC | 加速中 | 强度 71.79 | 质量 59.84
   - 主题摘要：Binance Guard (币安守护) is a community-driven token inspired by the Binance ecosystem. It aims to support decentralized finance initiatives while fostering engagement through communi…
-  - 资金 100.00 / 广度 70.60 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 70.97 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.29，其中已确认叙事 0 个。
-- Elon Musk's Son Acknowledges Dog 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Luminaries: Memes are back 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- BSC 正在承接最密集的叙事集合: 当前平均叙事强度为 75.27，其中已确认叙事 0 个。
+- Jackson Promotes XMoney 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Rockstar Games 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Max Meme Coin | 质量 81.64 | 可交易性 100.00 | 风险 低
-- BRING IT ON! | 质量 81.23 | 可交易性 100.00 | 风险 低
-- Elon Musk's Son Acknowledges Dog | 质量 80.85 | 可交易性 100.00 | 风险 低
-- Mart Discusses Max Token | 质量 80.85 | 可交易性 100.00 | 风险 低
-- Luminaries: Memes are back | 质量 79.31 | 可交易性 100.00 | 风险 低
-- Alleged MAX Meme Coin Launch | 质量 78.56 | 可交易性 100.00 | 风险 低
-- Yi He on Female Crypto Leaders | 质量 74.69 | 可交易性 100.00 | 风险 低
-- berna Allegedly Posts Meme Image | 质量 73.81 | 可交易性 96.04 | 风险 低
-- Elon Musk Praises Chinese X as Niu Bi | 质量 73.13 | 可交易性 100.00 | 风险 低
-- Alleged Mihao Cat Token Dispute | 质量 72.10 | 可交易性 96.04 | 风险 低
+- Jackson Promotes XMoney | 质量 81.78 | 可交易性 100.00 | 风险 低
+- Alleged X Coin Launch | 质量 80.03 | 可交易性 100.00 | 风险 低
+- Rockstar Games | 质量 78.01 | 可交易性 100.00 | 风险 低
+- Alleged Launch of Nihao Token | 质量 77.28 | 可交易性 100.00 | 风险 低
+- Pump.fun Promotes Mihao Token | 质量 76.83 | 可交易性 100.00 | 风险 低
+- Alleged APEONX Token Launch | 质量 75.39 | 可交易性 90.07 | 风险 低
+- Elon Musk Responds to Jensen Huang Hiring Request | 质量 74.88 | 可交易性 97.51 | 风险 低
+- Ansem is Back | 质量 73.97 | 可交易性 86.58 | 风险 低
+- gapJ Shares Xiongda Hot Search | 质量 73.46 | 可交易性 93.99 | 风险 低
+- Uncertain:Yuki Shares Binance New Year VIP Event | 质量 69.70 | 可交易性 97.57 | 风险 低
 
 ## 伪叙事风险
 
-- Mart Discusses Max Token | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Yi He on Female Crypto Leaders | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Nile River Two Sages Meme Goes Viral | 风险 47.79 | 原因：流动性偏薄
-- Alleged Max Meme Coin | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Elon Musk Praises Chinese X as Niu Bi | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- Elon Musk's Son Acknowledges Dog | 风险 44.91 | 原因：流动性偏薄
+- Ansem is Back | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- gapJ Shares Xiongda Hot Search | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- 007|只找真角度: West Journey X Public Beta | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Launch of Nihao Token | 风险 46.22 | 原因：流动性偏薄
+- Rockstar Games | 风险 44.16 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Elon Musk Responds to Jensen Huang Hiring Request | 风险 41.16 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
 
@@ -110,12 +110,14 @@
 - Max | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PUSSY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - PUSSY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- HUNG | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- Max | Solana | 看多 | 新鲜度 100.00 | Alleged Max Meme Coin
+- X | Solana | 看多 | 新鲜度 95.07 | Jackson Promotes XMoney / Alleged X Coin Launch / Alleged APEONX Token Launch
+- X | Solana | 看多 | 新鲜度 94.95 | Jackson Promotes XMoney
 - HUNG | Solana | 看多 | 新鲜度 94.75 | 暂无直接叙事映射
 
 ## 官方催化
 
+- [Updates on Step Size for Spot Trading Pairs (2026-11-19)](https://www.binance.com/zh-CN/support/announcement/detail/326fabaa8cbb4a97a98c01f571ffcae7)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve trading experi…
 - [Binance Convert and Buy/Sell Now Support Fiat Purchases of bStocks](https://www.binance.com/zh-CN/support/announcement/detail/99ee5d4197904f45a5337987ea72c22b)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; bStocks are Tokenized Securities issued by BTech Holdings Limited, a Binance group affiliate. bStocks are…
 - [Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-12)](https://www.binance.com/zh-CN/support/announcement/detail/e7a88ff576b541608d0845f3b666ec66)
@@ -126,8 +128,6 @@
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Binance Futures and enhance user…
 - [Binance Earn Yield Arena: Earn Up to 20% APR With This Week’s New Limited-Time Offers! (2026-11-11)](https://www.binance.com/zh-CN/support/announcement/detail/ab1d0c86a83e4e7bbb89be0acd517106)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn presents to you new offers that are new…
-- [Binance Will Support Sandisk Corporation (SNDK) 8-for-1 Forward Stock Split via bStocks](https://www.binance.com/zh-CN/support/announcement/detail/ec32e6657ae341b3b57f1b154c330c6d)
-  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are not offered in any other jurisdiction.&n…
 - [Binance Academy Bitcoin Page: Complete Quiz to Earn BTC Rewards This November 2026!](https://www.binance.com/zh-CN/support/announcement/detail/6b80fb6b884e4f5bb60be4ec475d6190)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Academy is pleased to announce that the Bitcoin Learn &amp; Earn rewards have been r…
 - [Binance Launches Limited-Time Futures Taker Program Promotion (2026-11-10)](https://www.binance.com/zh-CN/support/announcement/detail/62c8e6f2b4d748ffa8bdb536b798d516)
@@ -138,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Luminaries: Memes are back（Solana，分数 87.99）
+1. 当前最强叙事：Rockstar Games（Solana，分数 84.19）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Luminaries: Memes are back 当前为“新出现”
-4. 最新官方催化：Binance Convert and Buy/Sell Now Support Fiat Purchases of bStocks
+3. 记忆层变化：Rockstar Games 当前为“新出现”
+4. 最新官方催化：Updates on Step Size for Spot Trading Pairs (2026-11-19)
 #Binance #NarrativeOS #OpenClaw
