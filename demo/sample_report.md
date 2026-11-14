@@ -1,101 +1,101 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-13T21:37:26.994508+00:00
+- 生成时间：2026-11-14T01:43:40.625389+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 IShowSpeed x Fortnite Emote，所在链为 Solana，叙事强度 88.41。
-- 当前平均叙事强度为 84.33，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 FOOD，来自 Solana，共振分数 100.0。
-- 记忆层显示 IShowSpeed x Fortnite Emote 当前处于“新出现”状态。
+- 当前最强叙事是 Alleged Jensen Files，所在链为 Solana，叙事强度 89.38。
+- 当前平均叙事强度为 85.18，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 MIHAO，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged Jensen Files 当前处于“新出现”状态。
 - 当前最需要防止误判的叙事是 Yi He in Leather Jacket，伪叙事风险 50.11。
 - 最新官方催化来自 币安最新公告：Notice on Share Count Basis of USDⓈ-Margined ANTHROPICUSDT Pre-IPO Perp。
 
 ## 叙事雷达
 
-- IShowSpeed x Fortnite Emote | Solana | 降温中 | 强度 88.41 | 质量 80.16
-  - 主题摘要：According to HYPEX's post, IShowSpeed is collaborating with Fortnite for a new emote and showcase. This content relates to gaming culture and celebrity endorsements rather than cr…
-  - 资金 100.00 / 广度 97.70 / 确认 12.96 / 脆弱性 14.00
+- Alleged Jensen Files | Solana | 降温中 | 强度 89.38 | 质量 81.55
+  - 主题摘要：According to threadguy's post, the 'Jensen Files' are claimed to signal the end of a 20+ year tech supercycle in America. This statement references Jensen Huang, a prominent tech…
+  - 资金 100.00 / 广度 99.68 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Speed Coin Meme | Solana | 降温中 | 强度 88.12 | 质量 79.62
-  - 主题摘要：According to Boltricks Development's post, a video featuring a dog associated with the 'Speed' token was shared. The post references an IShowpeed Fortnite emote, linking the conte…
-  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 14.00
+- Musk Saves Jensen | Solana | 降温中 | 强度 87.00 | 质量 78.15
+  - 主题摘要：Elon Musk publicly supports a petition to reinstate NVIDIA CEO Jensen Huang, highlighting the critical role of leadership in the AI industry. This action underscores the high stak…
+  - 资金 100.00 / 广度 91.01 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- XTO | Solana | 降温中 | 强度 87.07 | 质量 77.41
-  - 主题摘要：Multiple tokens named 「XTO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.16 / 确认 9.36 / 脆弱性 10.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Pump.fun Launches Unichain | Solana | 降温中 | 强度 86.87 | 质量 77.68
-  - 主题摘要：According to Pump.fun's post, the Pump.fun application has officially launched support for the Unichain ecosystem. The platform highlights that users can now discover and trade to…
-  - 资金 100.00 / 广度 89.40 / 确认 13.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AODF | Solana | 降温中 | 强度 85.38 | 质量 73.01
-  - 主题摘要：Multiple tokens named 「AODF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 76.49 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Alice Huang Intel Leak | Solana | 降温中 | 强度 80.70 | 质量 70.80
-  - 主题摘要：According to Byron Wan's post, Alice Huang is alleged to be a Chinese intelligence asset funneling information from Nvidia CEO Jensen Huang to Beijing. The post claims Trump was b…
-  - 资金 100.00 / 广度 83.11 / 确认 9.36 / 脆弱性 19.52
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jensen Meme | Solana | 降温中 | 强度 79.46 | 质量 65.91
+- Alleged Jensen the White Token | Solana | 降温中 | 强度 86.19 | 质量 76.76
   - 主题摘要：Multiple tokens named 「JENSEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 98.61 / 广度 90.75 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.00 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- A Meme Clown | Solana | 降温中 | 强度 78.65 | 质量 67.44
-  - 主题摘要：Multiple tokens named 「AMC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 83.11 / 确认 9.36 / 脆弱性 19.52
+- Alleged Launch of Bring Back The Boss Token | Solana | 降温中 | 强度 84.49 | 质量 74.62
+  - 主题摘要：Multiple tokens named 「JENSEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 81.87 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 意大利炮 | BSC | 降温中 | 强度 78.51 | 质量 71.07
+- Alleged Jensen Meme AI Account | Solana | 降温中 | 强度 84.19 | 质量 74.16
+  - 主题摘要：Multiple tokens named 「Huang」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 80.33 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Cybersecurity Token Launch | Solana | 降温中 | 强度 83.76 | 质量 76.40
+  - 主题摘要：According to BottomFloorChud's post, the author claims that cybersecurity company stocks are rising due to a significant FAA hack and suggests launching the largest cybersecurity…
+  - 资金 100.00 / 广度 87.80 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged WW0 Token Launch | Solana | 降温中 | 强度 83.63 | 质量 77.91
+  - 主题摘要：According to Reasonable Snailman's post, the user expressed support for the WW0 token over WWZ. The content references the alleged launch of the WW0 token. This information is unv…
+  - 资金 100.00 / 广度 92.85 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trencherbill77 on CSI and AVGO Pairing | Solana | 降温中 | 强度 82.81 | 质量 74.92
+  - 主题摘要：According to I wont sell my 0s's post, the author argues that the CSI token should be paired with IBM rather than AVGO, asserting that CSI is unrelated to cybersecurity and that I…
+  - 资金 100.00 / 广度 86.20 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- fomo Shares Weekend Greetings | BSC | 降温中 | 强度 80.39 | 质量 75.47
+  - 主题摘要：According to fomo's post, the author shared a weekend greeting message, advising followers to rest and adopt a passive investment strategy. The post conveys well-wishes for a plea…
+  - 资金 100.00 / 广度 84.69 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 意大利炮 | BSC | 降温中 | 强度 78.42 | 质量 70.96
   - 主题摘要：Italian Cannon,炮 Meme, Tactical Humor
-  - 资金 100.00 / 广度 70.03 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.67 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He in Leather Jacket | BSC | 点火期 | 强度 77.81 | 质量 75.88
+- Yi He in Leather Jacket | BSC | 点火期 | 强度 75.64 | 质量 74.38
   - 主题摘要：Binance联合创始人何一在社交媒体上分享自己穿着皮衣的照片，并配以简短的个人态度表达。这展示了高管的日常时尚风格，但缺乏引发大规模加密社区共鸣的Meme元素或争议性话题。
-  - 资金 100.00 / 广度 95.84 / 确认 12.96 / 脆弱性 24.00
+  - 资金 100.00 / 广度 95.92 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged House Coin Launch | BSC | 点火期 | 强度 71.89 | 质量 66.30
-  - 主题摘要：According to wangyan's post, the author claims that real estate developer Asian Star needs a 'house coin' and provided a related website link. This information is unverified. Plea…
-  - 资金 100.00 / 广度 78.54 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 宇宙神币 | BSC | 降温中 | 强度 69.25 | 质量 52.10
+- 宇宙神币 | BSC | 降温中 | 强度 72.22 | 质量 56.81
   - 主题摘要：Cosmic Myth, Divine Token, Universal Power
-  - 资金 100.00 / 广度 68.46 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 69.28 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 钻石 | BSC | 加速中 | 强度 67.26 | 质量 54.99
+- 钻石 | BSC | 加速中 | 强度 68.10 | 质量 56.76
   - 主题摘要：Diamond token represents a community-focused project with a diamond-shaped logo symbolizing value and strength. The project emphasizes community governance through consensus mecha…
-  - 资金 100.00 / 广度 69.20 / 确认 20.16 / 脆弱性 24.00
+  - 资金 100.00 / 广度 69.15 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Bring Back The Boss Token | BSC | 降温中 | 强度 67.12 | 质量 49.30
-  - 主题摘要：According to Pubity's post, Jensen Huang is reportedly facing internal pressure from Nvidia employees to return to leadership. Concurrently, a token named BBTB (Bring Back The Bos…
-  - 资金 100.00 / 广度 64.90 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged House Coin Launch | BSC | 点火期 | 强度 66.56 | 质量 61.83
+  - 主题摘要：According to wangyan's post, the author claims that real estate developer Asian Star needs a 'house coin' and provided a related website link. This information is unverified. Plea…
+  - 资金 100.00 / 广度 78.72 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.33，其中已确认叙事 0 个。
-- Alleged House Coin Launch 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- IShowSpeed x Fortnite Emote 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.18，其中已确认叙事 0 个。
+- Alleged Jensen Files 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- IShowSpeed x Fortnite Emote | 质量 80.16 | 可交易性 100.00 | 风险 低
-- Alleged Speed Coin Meme | 质量 79.62 | 可交易性 95.91 | 风险 低
-- Pump.fun Launches Unichain | 质量 77.68 | 可交易性 100.00 | 风险 低
-- XTO | 质量 77.41 | 可交易性 100.00 | 风险 低
-- Yi He in Leather Jacket | 质量 75.88 | 可交易性 100.00 | 风险 低
-- AODF | 质量 73.01 | 可交易性 100.00 | 风险 低
-- 意大利炮 | 质量 71.07 | 可交易性 100.00 | 风险 低
-- Alleged Alice Huang Intel Leak | 质量 70.80 | 可交易性 86.02 | 风险 低
-- A Meme Clown | 质量 67.44 | 可交易性 74.82 | 风险 低
-- Alleged House Coin Launch | 质量 66.30 | 可交易性 75.61 | 风险 低
+- Alleged Jensen Files | 质量 81.55 | 可交易性 100.00 | 风险 低
+- Musk Saves Jensen | 质量 78.15 | 可交易性 100.00 | 风险 低
+- Alleged WW0 Token Launch | 质量 77.91 | 可交易性 100.00 | 风险 低
+- Alleged Jensen the White Token | 质量 76.76 | 可交易性 100.00 | 风险 低
+- Alleged Cybersecurity Token Launch | 质量 76.40 | 可交易性 100.00 | 风险 低
+- fomo Shares Weekend Greetings | 质量 75.47 | 可交易性 100.00 | 风险 低
+- Trencherbill77 on CSI and AVGO Pairing | 质量 74.92 | 可交易性 96.67 | 风险 低
+- Alleged Launch of Bring Back The Boss Token | 质量 74.62 | 可交易性 100.00 | 风险 低
+- Yi He in Leather Jacket | 质量 74.38 | 可交易性 100.00 | 风险 低
+- Alleged Jensen Meme AI Account | 质量 74.16 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
 - Yi He in Leather Jacket | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged House Coin Launch | 风险 47.79 | 原因：流动性偏薄
+- Alleged House Coin Launch | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged WW0 Token Launch | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,10 +105,10 @@
 - AI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - 牛逼 | BSC | 看多 | 新鲜度 87.40 | 暂无直接叙事映射
 - 弹开 | BSC | 看多 | 新鲜度 82.46 | 暂无直接叙事映射
-- ZER0 | Solana | 看多 | 新鲜度 80.98 | 暂无直接叙事映射
 - BAN | BSC | 看多 | 新鲜度 74.52 | 暂无直接叙事映射
 - ETHY | Base | 看多 | 新鲜度 72.89 | 暂无直接叙事映射
 - DC | Solana | 看多 | 新鲜度 66.39 | 暂无直接叙事映射
+- DOT | Base | 看多 | 新鲜度 65.41 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：IShowSpeed x Fortnite Emote（Solana，分数 88.41）
-2. 共振最强代币：FOOD（Solana，共振 100.0）
-3. 记忆层变化：IShowSpeed x Fortnite Emote 当前为“新出现”
+1. 当前最强叙事：Alleged Jensen Files（Solana，分数 89.38）
+2. 共振最强代币：MIHAO（Solana，共振 100.0）
+3. 记忆层变化：Alleged Jensen Files 当前为“新出现”
 4. 最新官方催化：Notice on Share Count Basis of USDⓈ-Margined ANTHROPICUSDT Pre-IPO Perp
 #Binance #NarrativeOS #OpenClaw
