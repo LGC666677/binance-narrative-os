@@ -1,105 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-14T23:21:55.745461+00:00
+- 生成时间：2026-11-15T02:52:00.139486+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：3
+- 已确认叙事：1
+- 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 fomo Shares Weekend Greetings，所在链为 BSC，叙事强度 83.9。
-- 当前平均叙事强度为 75.5，其中已确认叙事 0 个。
+- 当前最强叙事是 Pepe Posts Alleged Token，所在链为 Solana，叙事强度 82.25。
+- 当前平均叙事强度为 77.76，其中已确认叙事 1 个。
 - 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 Alleged Bill Token Launch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Jensen Files Meme，伪叙事风险 52.99。
+- 记忆层显示 Pepe Posts Alleged Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged 6 Star Coin Meme，伪叙事风险 53.59。
 - 最新官方催化来自 币安最新公告：Recovery Update: Withdrawals Reopened for More Networks (2026-11-14)。
 
 ## 叙事雷达
 
-- fomo Shares Weekend Greetings | BSC | 降温中 | 强度 83.90 | 质量 76.19
-  - 主题摘要：According to fomo's post, the author shared a weekend greeting message, advising followers to rest and adopt a passive investment strategy. The post conveys well-wishes for a plea…
-  - 资金 100.00 / 广度 87.09 / 确认 9.36 / 脆弱性 24.00
+- Pepe Posts Alleged Token | Solana | 已确认 | 强度 82.25 | 质量 70.34
+  - 主题摘要：According to Pepe's post, the account shared a link associated with a token named 'one life, its worth an attempt' (symbol: worth). This information is unverified. Please exercise…
+  - 资金 100.00 / 广度 58.91 / 确认 31.04 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Huang Sha Zi Ma | BSC | 降温中 | 强度 81.84 | 质量 74.15
+  - 主题摘要：According to Dragon Heart's post, the user shared a Douyin video featuring a song by Zhao Benshan. The post highlights the song's lyrics, which convey a message of patience and op…
+  - 资金 100.00 / 广度 93.43 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Bill Token Launch | Solana | 加速中 | 强度 82.06 | 质量 69.20
+- fomo Shares Weekend Greetings | BSC | 降温中 | 强度 81.09 | 质量 74.39
+  - 主题摘要：According to fomo's post, the author shared a weekend greeting message, advising followers to rest and adopt a passive investment strategy. The post conveys well-wishes for a plea…
+  - 资金 100.00 / 广度 82.25 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Bill Token Launch | Solana | 加速中 | 强度 81.03 | 质量 71.05
   - 主题摘要：According to bill's post, the author claims to be launching a new token named 'bill' paired with USDC on the Solana network. The post suggests the token is designed to remain stab…
-  - 资金 100.00 / 广度 84.16 / 确认 23.80 / 脆弱性 14.00
+  - 资金 100.00 / 广度 86.39 / 确认 27.40 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Musk Saves Jensen | Solana | 点火期 | 强度 80.28 | 质量 79.42
+- VICE 6 | Solana | 降温中 | 强度 79.19 | 质量 67.26
+  - 主题摘要：VTC (VICE 6) draws inspiration from the Vice Media brand, featuring a logo with a cityscape silhouette and palm trees, reflecting its connection to the media company. The token's…
+  - 资金 100.00 / 广度 71.62 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 牛来人生 | BSC | 加速中 | 强度 78.81 | 质量 69.31
+  - 主题摘要：Multiple tokens named 「牛来人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 53.09 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Musk Saves Jensen | Solana | 点火期 | 强度 78.12 | 质量 73.75
   - 主题摘要：Elon Musk publicly supports a petition to reinstate NVIDIA CEO Jensen Huang, highlighting the critical role of leadership in the AI industry. This action underscores the high stak…
   - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Huang Sha Zi Ma | BSC | 降温中 | 强度 78.38 | 质量 69.30
-  - 主题摘要：According to Dragon Heart's post, the user shared a Douyin video featuring a song by Zhao Benshan. The post highlights the song's lyrics, which convey a message of patience and op…
-  - 资金 100.00 / 广度 77.02 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 牛来人生 | BSC | 加速中 | 强度 77.75 | 质量 68.07
-  - 主题摘要：Multiple tokens named 「牛来人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 52.12 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- VICE 6 | Solana | 降温中 | 强度 76.77 | 质量 66.94
-  - 主题摘要：VTC (VICE 6) draws inspiration from the Vice Media brand, featuring a logo with a cityscape silhouette and palm trees, reflecting its connection to the media company. The token's…
-  - 资金 100.00 / 广度 70.27 / 确认 9.36 / 脆弱性 10.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Jensen Files | Solana | 点火期 | 强度 73.62 | 质量 70.86
-  - 主题摘要：According to threadguy's post, the 'Jensen Files' are claimed to signal the end of a 20+ year tech supercycle in America. This statement references Jensen Huang, a prominent tech…
-  - 资金 100.00 / 广度 96.63 / 确认 12.96 / 脆弱性 24.00
+- Alleged 6 Star Coin Meme | Solana | 点火期 | 强度 77.18 | 质量 71.74
+  - 主题摘要：According to AxTrades's post, the author suggests that a '6 Star Coin' Meme image, paired with $TTWO, is likely to gain traction due to the iconic 6-star wanted system in GTA 6. T…
+  - 资金 100.00 / 广度 82.88 / 确认 9.36 / 脆弱性 25.15
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged BEAR Token Launch | Solana | 降温中 | 强度 73.56 | 质量 62.98
-  - 主题摘要：According to trencher 🍼🐂's post, the author claims to be launching a BEAR token to counter the bear market. The plan involves burning a significant portion of the supply, pairing…
-  - 资金 94.03 / 广度 60.24 / 确认 9.36 / 脆弱性 14.00
+- UOF | Solana | 降温中 | 强度 75.78 | 质量 65.40
+  - 主题摘要：Multiple tokens named 「UOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 96.53 / 广度 51.14 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Nietzschean Penguin Token | Solana | 降温中 | 强度 72.76 | 质量 63.28
-  - 主题摘要：According to TKD's post, the user shared a story about a penguin named Gus, describing it as 'Nietzschean' and 'GENNY,' while referencing a token named GUS (The Nietzschean Pengui…
-  - 资金 98.67 / 广度 49.18 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Jensen Files Meme | Solana | 点火期 | 强度 72.67 | 质量 69.55
-  - 主题摘要：Multiple tokens named 「JENSEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 95.50 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Jensen the White Token | Solana | 点火期 | 强度 72.27 | 质量 68.73
-  - 主题摘要：Multiple tokens named 「JENSEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.02 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 破茧成蝶 | BSC | 降温中 | 强度 71.59 | 质量 61.77
+- 破茧成蝶 | BSC | 降温中 | 强度 75.08 | 质量 63.76
   - 主题摘要：破茧成蝶 (Breaking Out of茧) is a community-driven token inspired by transformation and growth. It aims to empower users through decentralized finance initiatives, focusing on DeFi pro…
-  - 资金 100.00 / 广度 73.07 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 73.28 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Yi He in Leather Jacket | BSC | 加速中 | 强度 71.00 | 质量 69.60
-  - 主题摘要：Binance联合创始人何一在社交媒体上分享自己穿着皮衣的照片，并配以简短的个人态度表达。这展示了高管的日常时尚风格，但缺乏引发大规模加密社区共鸣的Meme元素或争议性话题。
-  - 资金 100.00 / 广度 88.59 / 确认 23.76 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- LaserCat397.eth2.0 Responds to Investment Controversy | BSC | 降温中 | 强度 70.37 | 质量 59.38
-  - 主题摘要：According to LaserCat397.eth2.0's post, the author responded to questions regarding their departure by stating that no one would choose to leave when feeling loved. This statement…
-  - 资金 100.00 / 广度 69.83 / 确认 9.36 / 脆弱性 14.00
+- Alleged COIN Meme Token | Solana | 降温中 | 强度 74.25 | 质量 61.67
+  - 主题摘要：According to I's post, a narrative suggests that tech companies including Meta, Coinbase, Oracle, Instagram, and Nvidia form the acronym COIN, allegedly linked to a new token. Thi…
+  - 资金 100.00 / 广度 70.15 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged COIN Meme Narrative | Solana | 降温中 | 强度 74.25 | 质量 61.67
+  - 主题摘要：According to Uncquant's post, a narrative is proposed for a token with the ticker COIN, centered around corporate scandals involving Coinbase, Oracle, Instagram (Meta), and NVIDIA…
+  - 资金 100.00 / 广度 70.15 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Devamp Comments on Sword Cat Market | BSC | 降温中 | 强度 73.60 | 质量 63.00
+  - 主题摘要：According to Devamp's post, the Sword Cat token, which previously achieved viral status and significant market capitalization, is currently experiencing a severe market downturn.…
+  - 资金 100.00 / 广度 67.66 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Yi He Birthday Reflections | BSC | 降温中 | 强度 72.82 | 质量 66.04
+  - 主题摘要：Yi He, Co-Founder of Binance, shared birthday reflections on November 15, 2026, marking her 40th birthday. She discussed learning to respect others' fates and abandon the savior c…
+  - 资金 100.00 / 广度 70.56 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 75.5，其中已确认叙事 0 个。
-- Alleged Bill Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- fomo Shares Weekend Greetings 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 77.76，其中已确认叙事 1 个。
+- Pepe Posts Alleged Token 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Huang Sha Zi Ma 需要防止叙事惯性误判: BSC 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Musk Saves Jensen | 质量 79.42 | 可交易性 100.00 | 风险 低
-- fomo Shares Weekend Greetings | 质量 76.19 | 可交易性 100.00 | 风险 低
-- Alleged Jensen Files | 质量 70.86 | 可交易性 100.00 | 风险 低
-- Yi He in Leather Jacket | 质量 69.60 | 可交易性 100.00 | 风险 低
-- Alleged Jensen Files Meme | 质量 69.55 | 可交易性 100.00 | 风险 低
-- Huang Sha Zi Ma | 质量 69.30 | 可交易性 87.11 | 风险 低
-- Alleged Bill Token Launch | 质量 69.20 | 可交易性 69.07 | 风险 低
-- Alleged Jensen the White Token | 质量 68.73 | 可交易性 100.00 | 风险 低
-- 牛来人生 | 质量 68.07 | 可交易性 100.00 | 风险 低
-- VICE 6 | 质量 66.94 | 可交易性 100.00 | 风险 低
+- fomo Shares Weekend Greetings | 质量 74.39 | 可交易性 98.84 | 风险 低
+- Huang Sha Zi Ma | 质量 74.15 | 可交易性 86.86 | 风险 低
+- Musk Saves Jensen | 质量 73.75 | 可交易性 100.00 | 风险 低
+- Alleged 6 Star Coin Meme | 质量 71.74 | 可交易性 89.40 | 风险 低
+- Alleged Bill Token Launch | 质量 71.05 | 可交易性 70.36 | 风险 低
+- Pepe Posts Alleged Token | 质量 70.34 | 可交易性 92.81 | 风险 低
+- 牛来人生 | 质量 69.31 | 可交易性 100.00 | 风险 低
+- VICE 6 | 质量 67.26 | 可交易性 100.00 | 风险 低
+- Uncertain:Yi He Birthday Reflections | 质量 66.04 | 可交易性 93.17 | 风险 低
+- UOF | 质量 65.40 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Jensen Files Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Jensen the White Token | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Jensen Files | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged 6 Star Coin Meme | 风险 53.59 | 原因：流动性偏薄、龙头筹码集中度偏高
 - Musk Saves Jensen | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
 - fomo Shares Weekend Greetings | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Huang Sha Zi Ma | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Uncertain:Yi He Birthday Reflections | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -138,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：fomo Shares Weekend Greetings（BSC，分数 83.9）
+1. 当前最强叙事：Pepe Posts Alleged Token（Solana，分数 82.25）
 2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：Alleged Bill Token Launch 当前为“新出现”
+3. 记忆层变化：Pepe Posts Alleged Token 当前为“新出现”
 4. 最新官方催化：Recovery Update: Withdrawals Reopened for More Networks (2026-11-14)
 #Binance #NarrativeOS #OpenClaw
