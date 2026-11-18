@@ -1,101 +1,100 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-18T17:25:07.797074+00:00
+- 生成时间：2026-11-18T23:26:07.767793+00:00
 - 跟踪叙事：14
-- 已确认叙事：0
-- 高风险伪叙事：1
+- 已确认叙事：3
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Relationship Sentiment，所在链为 Solana，叙事强度 86.87。
-- 当前平均叙事强度为 84.17，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANTHROPIC，来自 Solana，共振分数 100.0。
-- 记忆层显示 Relationship Sentiment 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 GTA6 Index Pairs Launch，伪叙事风险 52.38。
+- 当前最强叙事是 Alleged FUNDADOR Token Launch，所在链为 Solana，叙事强度 87.57。
+- 当前平均叙事强度为 85.88，其中已确认叙事 3 个。
+- 注意力与资金共振最强的代币是 ROCCO，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged FUNDADOR Token Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 VTC6，伪叙事风险 40.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade KiiChain (KII) and Share $200K Worth of Rewards (2026-11-18)。
 
 ## 叙事雷达
 
-- Relationship Sentiment | Solana | 加速中 | 强度 86.87 | 质量 77.27
-  - 主题摘要：According to 𝐋𝐚𝐌𝐞𝐥𝐨's post, the author expresses a sentiment regarding an unbalanced romantic dynamic, specifically noting the experience of liking a girl more than she likes you.…
-  - 资金 100.00 / 广度 90.16 / 确认 24.48 / 脆弱性 14.00
+- Alleged FUNDADOR Token Launch | Solana | 加速中 | 强度 87.57 | 质量 82.44
+  - 主题摘要：Multiple tokens named 「Founder」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 94.24 / 广度 100.00 / 确认 20.16 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- State of Leonida | Solana | 降温中 | 强度 86.35 | 质量 77.01
-  - 主题摘要：According to AxTrades's post, the author questions the absence of an official cryptocurrency for the State of Leonida, the setting of GTA 6, noting that while the state flag exist…
-  - 资金 100.00 / 广度 89.83 / 确认 9.36 / 脆弱性 14.00
+- Alleged Founder Token | Solana | 降温中 | 强度 87.54 | 质量 78.77
+  - 主题摘要：Multiple tokens named 「Founder」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 93.05 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- UODF | Solana | 降温中 | 强度 84.57 | 质量 72.68
-  - 主题摘要：Multiple tokens named 「UODF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 75.40 / 确认 9.36 / 脆弱性 0.00
+- VTC6 | Solana | 降温中 | 强度 86.80 | 质量 79.68
+  - 主题摘要：VTC6 draws inspiration from the iconic GTA Vice City game franchise, featuring a logo that resembles the game's emblem. The token's description 'GTA Vice City 6' suggests a connec…
+  - 资金 100.00 / 广度 98.72 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Shanyang Mentions Apocrycoin | Solana | 加速中 | 强度 84.43 | 质量 73.72
-  - 主题摘要：According to 山羊's post, tokens named Apocrycoin are allegedly associated with a 'GTA coin' narrative, referencing in-game content from a boat mission. The author notes this is the…
-  - 资金 100.00 / 广度 82.03 / 确认 24.48 / 脆弱性 14.00
+- Alleged Papa Audacity Token | Solana | 已确认 | 强度 85.95 | 质量 78.93
+  - 主题摘要：According to 🟢🟢🟢🟢🟢🟢🟢🟢🟢's post, the official name of the STUNT guy is Papa Audacity. This statement relates to the PAPA token, also known as Papa Audacity or Crypto Stuntman. This…
+  - 资金 100.00 / 广度 82.51 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Papa Audacity Token | Solana | 已确认 | 强度 85.85 | 质量 78.93
+  - 主题摘要：Multiple tokens named 「PAPA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 82.51 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged Launch of FATHER Token | Solana | 已确认 | 强度 85.32 | 质量 77.91
+  - 主题摘要：According to Lana Goat's post, the founder of DACITY COIN, referred to as 'Papa Audacity', allegedly launched a standalone token paired with DCTY. This information is unverified.…
+  - 资金 100.00 / 广度 82.55 / 确认 28.08 / 脆弱性 14.00
+  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
+- Alleged DACITY COIN Founder | Solana | 加速中 | 强度 84.50 | 质量 76.94
+  - 主题摘要：According to Swan's post, the individual known as 'Papa Audacity' Jason is identified as the founder of DACITY COIN. The post references a group chat involving Jason and Lucia, an…
+  - 资金 100.00 / 广度 81.96 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GTA6 Index Pairs Launch | Solana | 点火期 | 强度 83.15 | 质量 80.06
-  - 主题摘要：Multiple tokens named 「GTA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 22.82
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Uralf Confirms Dog Name Rocco | Solana | 降温中 | 强度 82.98 | 质量 72.93
-  - 主题摘要：According to Uralf's post, the name of his dog is confirmed as Rocco. The author shared a note and photo found in the fridge to verify this identity.
-  - 资金 100.00 / 广度 76.24 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Rocco Token Launch | Solana | 降温中 | 强度 82.70 | 质量 72.71
-  - 主题摘要：According to Chrome's post, the Rocco token is allegedly linked to the character Rocco from GTA VI, described as a dog and companion to Jason. Chrome suggests pairing this token w…
-  - 资金 100.00 / 广度 75.51 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged GTA Meme Coin Launch | Solana | 降温中 | 强度 82.27 | 质量 77.54
-  - 主题摘要：According to Zentitus's post, the user claims that a token named $GTA, standing for 'Goon To ASS', is launching and will become a major topic. This assertion is linked to the vira…
-  - 资金 100.00 / 广度 91.74 / 确认 9.36 / 脆弱性 34.47
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DCTY Ticker Analysis | BSC | 加速中 | 强度 80.95 | 质量 76.37
+- Audacity Coin Mascot | Solana | 加速中 | 强度 83.53 | 质量 75.85
+  - 主题摘要：According to I wont sell my 0s's post, the Audacity coin features a crypto stuntman mascot named Papa Audacity.
+  - 资金 100.00 / 广度 81.54 / 确认 24.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- DCTY Ticker Analysis | BSC | 加速中 | 强度 80.14 | 质量 76.36
   - 主题摘要：According to in the private room w ur fav kol's post, the DCTY ticker is considered more logical than other options. This statement reflects a subjective opinion regarding the nam…
-  - 资金 100.00 / 广度 79.77 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.64 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Huang Sha Zi Ma | BSC | 加速中 | 强度 74.01 | 质量 69.57
+- Huang Sha Zi Ma | BSC | 加速中 | 强度 74.70 | 质量 69.09
   - 主题摘要：According to Dragon Heart's post, the user shared a Douyin video featuring a song by Zhao Benshan. The post highlights the song's lyrics, which convey a message of patience and op…
-  - 资金 100.00 / 广度 92.83 / 确认 24.48 / 脆弱性 24.00
+  - 资金 100.00 / 广度 92.59 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:Binance.US GTA 6 Meme | BSC | 降温中 | 强度 71.01 | 质量 56.59
-  - 主题摘要：According to Binance.US 🇺🇸's post, the account shared a Meme image depicting a 'GTA 6 flow state' scenario, where a user holds a controller in one hand and the Binance.US app in t…
-  - 资金 99.66 / 广度 61.46 / 确认 9.36 / 脆弱性 14.00
+- CZ: Discipline Over Luck | BSC | 降温中 | 强度 69.97 | 质量 57.05
+  - 主题摘要：Binance CEO CZ回复新手提问，强调在加密货币交易中，学习、方法和纪律比运气更重要。这一务实且充满智慧的格言引发了社区对于交易心态和长期主义的讨论，适合打造以理性、稳健为核心的Meme代币叙事。
+  - 资金 100.00 / 广度 64.52 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- AICAT Announces AI Cat NFT Mall Plan | BSC | 降温中 | 强度 70.35 | 质量 59.19
-  - 主题摘要：According to AICAT's post, the project plans to launch the first AI cat NFT marketplace, with the initial Genesis NFT 9-color cat series scheduled for release soon. The post outli…
-  - 资金 96.58 / 广度 45.66 / 确认 9.36 / 脆弱性 14.00
+- 破茧成蝶 | BSC | 降温中 | 强度 68.53 | 质量 55.62
+  - 主题摘要：破茧成蝶 (Breaking Out of茧) is a community-driven token inspired by transformation and growth. It aims to empower users through decentralized finance initiatives, focusing on DeFi pro…
+  - 资金 100.00 / 广度 64.51 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- stand with jensen | BSC | 降温中 | 强度 67.86 | 质量 51.64
-  - 主题摘要：Multiple tokens named 「与黄仁勋站在一起」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 68.04 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- rydeme | BSC | 加速中 | 强度 67.39 | 质量 64.03
-  - 主题摘要：According to 我肯定会发财！'s post, the author references the previous BNC4 incident where Flap responded, and asserts that the current situation also requires a counter-response. The po…
-  - 资金 100.00 / 广度 84.48 / 确认 20.16 / 脆弱性 24.00
+- hello binance meme | BSC | 加速中 | 强度 68.08 | 质量 55.79
+  - 主题摘要：HBM (hello binance meme) is a community-driven meme coin inspired by the Binance ecosystem. It aims to capture the playful spirit of crypto culture while fostering engagement thro…
+  - 资金 100.00 / 广度 67.08 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- 火龙 | BSC | 降温中 | 强度 67.21 | 质量 51.79
+  - 主题摘要：火龙 (Fire Dragon) is a meme token inspired by Chinese dragon mythology, symbolizing strength and prosperity. It aims to unite crypto enthusiasts through community-driven initiative…
+  - 资金 100.00 / 广度 62.92 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.17，其中已确认叙事 0 个。
-- Relationship Sentiment 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- State of Leonida 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.88，其中已确认叙事 3 个。
+- Alleged FUNDADOR Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Founder Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- GTA6 Index Pairs Launch | 质量 80.06 | 可交易性 100.00 | 风险 低
-- Alleged GTA Meme Coin Launch | 质量 77.54 | 可交易性 99.86 | 风险 低
-- Relationship Sentiment | 质量 77.27 | 可交易性 89.45 | 风险 低
-- State of Leonida | 质量 77.01 | 可交易性 100.00 | 风险 低
-- DCTY Ticker Analysis | 质量 76.37 | 可交易性 100.00 | 风险 低
-- Shanyang Mentions Apocrycoin | 质量 73.72 | 可交易性 85.75 | 风险 低
-- Uralf Confirms Dog Name Rocco | 质量 72.93 | 可交易性 100.00 | 风险 低
-- Alleged Rocco Token Launch | 质量 72.71 | 可交易性 100.00 | 风险 低
-- UODF | 质量 72.68 | 可交易性 100.00 | 风险 低
-- Huang Sha Zi Ma | 质量 69.57 | 可交易性 82.18 | 风险 低
+- Alleged FUNDADOR Token Launch | 质量 82.44 | 可交易性 100.00 | 风险 低
+- VTC6 | 质量 79.68 | 可交易性 100.00 | 风险 低
+- Alleged Papa Audacity Token | 质量 78.93 | 可交易性 100.00 | 风险 低
+- Alleged Papa Audacity Token | 质量 78.93 | 可交易性 100.00 | 风险 低
+- Alleged Founder Token | 质量 78.77 | 可交易性 100.00 | 风险 低
+- Alleged Launch of FATHER Token | 质量 77.91 | 可交易性 96.55 | 风险 低
+- Alleged DACITY COIN Founder | 质量 76.94 | 可交易性 96.55 | 风险 低
+- DCTY Ticker Analysis | 质量 76.36 | 可交易性 99.10 | 风险 低
+- Audacity Coin Mascot | 质量 75.85 | 可交易性 93.33 | 风险 低
+- Huang Sha Zi Ma | 质量 69.09 | 可交易性 82.04 | 风险 低
 
 ## 伪叙事风险
 
-- GTA6 Index Pairs Launch | 风险 52.38 | 原因：流动性偏薄、龙头筹码集中度偏高
-- Alleged GTA Meme Coin Launch | 风险 46.44 | 原因：流动性偏薄、龙头筹码集中度偏高
+- VTC6 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -105,10 +104,10 @@
 - DCI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CHAR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - HOGE | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- TTWO | Solana | 看多 | 新鲜度 85.22 | 暂无直接叙事映射
+- 破茧成蝶 | BSC | 看多 | 新鲜度 82.61 | 破茧成蝶
 - FLOAT | Solana | 看多 | 新鲜度 77.40 | 暂无直接叙事映射
 - ETHY | Base | 看多 | 新鲜度 72.89 | 暂无直接叙事映射
-- 破茧成蝶 | BSC | 看多 | 新鲜度 70.61 | 暂无直接叙事映射
+- Lemon | Solana | 看多 | 新鲜度 65.62 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +133,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Relationship Sentiment（Solana，分数 86.87）
-2. 共振最强代币：ANTHROPIC（Solana，共振 100.0）
-3. 记忆层变化：Relationship Sentiment 当前为“新出现”
+1. 当前最强叙事：Alleged FUNDADOR Token Launch（Solana，分数 87.57）
+2. 共振最强代币：ROCCO（Solana，共振 100.0）
+3. 记忆层变化：Alleged FUNDADOR Token Launch 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade KiiChain (KII) and Share $200K Worth of Rewards (2026-11-18)
 #Binance #NarrativeOS #OpenClaw
