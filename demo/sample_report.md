@@ -1,108 +1,108 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-19T04:17:40.260233+00:00
+- 生成时间：2026-11-19T13:34:43.577169+00:00
 - 跟踪叙事：14
 - 已确认叙事：1
-- 高风险伪叙事：1
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 VTC，所在链为 Solana，叙事强度 85.83。
-- 当前平均叙事强度为 80.15，其中已确认叙事 1 个。
-- 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
-- 记忆层显示 VTC 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Daniel Kuhn Comments on Founder Token，伪叙事风险 55.21。
-- 最新官方催化来自 币安最新公告：Notice on Anthropic (ANT) on Binance Stocks - 2026-11-19。
+- 当前最强叙事是 Alleged GTA PIPI Coin Meme，所在链为 Solana，叙事强度 87.19。
+- 当前平均叙事强度为 80.48，其中已确认叙事 1 个。
+- 注意力与资金共振最强的代币是 ANTHROPIC，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged GTA PIPI Coin Meme 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 DCTY Ticker Analysis，伪叙事风险 47.79。
+- 最新官方催化来自 币安最新公告：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-11-20)。
 
 ## 叙事雷达
 
-- VTC | Solana | 降温中 | 强度 85.83 | 质量 73.84
-  - 主题摘要：Multiple tokens named 「V TC」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 79.27 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mandy | Solana | 加速中 | 强度 84.13 | 质量 77.94
-  - 主题摘要：Multiple tokens named 「Mandy」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 94.05 / 广度 95.49 / 确认 23.76 / 脆弱性 14.00
+- Alleged GTA PIPI Coin Meme | Solana | 加速中 | 强度 87.19 | 质量 80.79
+  - 主题摘要：According to King 👑's post, the author claims that after completing the story mode in a game, a random advertisement for a 'PIPI coin' appears within the game's social media inter…
+  - 资金 100.00 / 广度 94.52 / 确认 20.16 / 脆弱性 19.54
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- PROJECT VICE 6 | Solana | 降温中 | 强度 81.88 | 质量 72.86
-  - 主题摘要：According to Jerome Ballz's post, Starlink allegedly provided a GTA ticker, which Elon Musk promoted, and Trump included in his bio. This claim is unverified. This information is…
-  - 资金 100.00 / 广度 76.00 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- White House MAGA City XLVII Post | Solana | 点火期 | 强度 79.51 | 质量 75.24
-  - 主题摘要：Multiple tokens named 「MAGA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.32 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Papa Audacity Token | Solana | 已确认 | 强度 78.51 | 质量 77.49
-  - 主题摘要：According to 🟢🟢🟢🟢🟢🟢🟢🟢🟢's post, the official name of the STUNT guy is Papa Audacity. This statement relates to the PAPA token, also known as Papa Audacity or Crypto Stuntman. This…
-  - 资金 100.00 / 广度 87.20 / 确认 28.08 / 脆弱性 14.00
+- Alleged Apocrycoin | Solana | 已确认 | 强度 85.26 | 质量 84.97
+  - 主题摘要：According to solana devor's post, a video features an individual referring to a token as "Apocrycoin" at the 1:32 mark. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 100.00 / 确认 31.68 / 脆弱性 24.00
   - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- Alleged Papa Audacity Token | Solana | 加速中 | 强度 77.63 | 质量 75.98
-  - 主题摘要：According to Flavius Belisarius's post, the developer of Audacity is identified as 'Papa Audacity,' and it is alleged that a token with this name has been launched on a specific p…
-  - 资金 100.00 / 广度 87.20 / 确认 28.08 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- World Oil Fund Institution | Solana | 降温中 | 强度 77.43 | 质量 65.46
-  - 主题摘要：Multiple tokens named 「WOFI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 56.44 / 确认 9.36 / 脆弱性 3.46
+- SPCX99K | Solana | 降温中 | 强度 83.88 | 质量 71.61
+  - 主题摘要：Multiple tokens named 「SPCX99K」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.82 / 确认 9.36 / 脆弱性 0.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- DCTY Ticker Analysis | BSC | 点火期 | 强度 76.40 | 质量 75.05
-  - 主题摘要：According to in the private room w ur fav kol's post, the DCTY ticker is considered more logical than other options. This statement reflects a subjective opinion regarding the nam…
-  - 资金 100.00 / 广度 81.02 / 确认 16.56 / 脆弱性 24.00
+- Alleged GTA Token Launch | Solana | 降温中 | 强度 81.78 | 质量 75.95
+  - 主题摘要：Multiple tokens named 「GTA」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 95.35 / 确认 9.36 / 脆弱性 30.67
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- DCTY Ticker Analysis | BSC | 点火期 | 强度 79.86 | 质量 76.74
+  - 主题摘要：Multiple tokens named 「DCTY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.92 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Daniel Kuhn Comments on Founder Token | Solana | 降温中 | 强度 76.27 | 质量 70.06
-  - 主题摘要：According to Daniel Kuhn's post, he commented on a quoted tweet regarding the 'Founder' token, suggesting it should be associated with a 'GTA basket' rather than 'ttwo'.
-  - 资金 100.00 / 广度 94.39 / 确认 12.96 / 脆弱性 56.88
+- Alleged DacityCoin Ticker Speculation | Solana | 加速中 | 强度 79.85 | 质量 81.85
+  - 主题摘要：According to Chief's post, the author speculates that the ticker for a token named DacityCoin is DCI, drawing parallels to Rockstar Games' Vice City ticker (VCI) in GTA VI. Chief…
+  - 资金 100.00 / 广度 94.88 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Thug Life | Solana | 降温中 | 强度 76.31 | 质量 66.41
+  - 主题摘要：TL (Thug Life) is an open word crime game developed by @whysopepe and @ziwenxu_. The token features a pixel art cityscape logo with a tower against a moonlit sky, reflecting its u…
+  - 资金 100.00 / 广度 54.50 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:AgentidRent Platform Introduction | BSC | 加速中 | 强度 73.75 | 质量 68.99
-  - 主题摘要：According to 币安 · AgentidRent · 钱包租赁's post, the AgentidRent platform, which facilitates Agent wallet rentals on BNB Smart Chain, is preparing to launch its platform token. The po…
-  - 资金 100.00 / 广度 81.08 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Huang Sha Zi Ma | BSC | 加速中 | 强度 72.45 | 质量 66.84
-  - 主题摘要：According to Dragon Heart's post, the user shared a Douyin video featuring a song by Zhao Benshan. The post highlights the song's lyrics, which convey a message of patience and op…
-  - 资金 100.00 / 广度 92.50 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- hello binance meme | BSC | 加速中 | 强度 71.04 | 质量 56.43
-  - 主题摘要：HBM (hello binance meme) is a community-driven meme coin inspired by the Binance ecosystem. It aims to capture the playful spirit of crypto culture while fostering engagement thro…
-  - 资金 100.00 / 广度 67.57 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Flap Receives Strategic Investment from YZi Labs | BSC | 降温中 | 强度 70.74 | 质量 55.47
-  - 主题摘要：According to Flap 🦋's post, Flap has received strategic funding from YZi Labs through the EASY Residency program. The post highlights Flap's growth as a programmable token ecosyst…
-  - 资金 100.00 / 广度 72.77 / 确认 16.56 / 脆弱性 14.00
+- Alleged SPARROW Token | Solana | 点火期 | 强度 75.41 | 质量 69.31
+  - 主题摘要：According to Cannis Dingo's post, the SPARROW token is allegedly linked to the narrative that Anthropic was originally named Sparrow Systems prior to its IPO. The post claims this…
+  - 资金 100.00 / 广度 71.23 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Uncertain:Alleged Quakebnb Token | BSC | 降温中 | 强度 74.80 | 质量 63.46
+  - 主题摘要：According to coke's post, the individual claims that Quakebnb is the correct name for the token associated with the Quake symbol, referencing a Binance Square profile. This inform…
+  - 资金 100.00 / 广度 66.50 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- rydeme | BSC | 加速中 | 强度 68.13 | 质量 63.13
-  - 主题摘要：According to 我肯定会发财！'s post, the author references the previous BNC4 incident where Flap responded, and asserts that the current situation also requires a counter-response. The po…
-  - 资金 100.00 / 广度 84.53 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- TapeX | BSC | 降温中 | 强度 74.53 | 质量 64.67
+  - 主题摘要：Multiple tokens named 「TAPEX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 78.51 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- United States Oil Index | Solana | 降温中 | 强度 74.13 | 质量 62.06
+  - 主题摘要：Multiple tokens named 「USOI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 40.00 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ: ANT Token Hits BNB Chain | BSC | 点火期 | 强度 73.34 | 质量 71.50
+  - 主题摘要：Binance CEO CZ announces that tokenized Ant Group shares will be available on BNB Chain from Day 1 of its IPO via platforms like bStocks. This marks a significant step in bringing…
+  - 资金 100.00 / 广度 90.52 / 确认 16.60 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Burn Lucky Sheep | BSC | 降温中 | 强度 72.43 | 质量 59.73
+  - 主题摘要：Multiple tokens named 「幸运羊 」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.09 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 3.33双鱼座 | BSC | 降温中 | 强度 70.05 | 质量 59.47
+  - 主题摘要：Multiple tokens named 「3.33双鱼座」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 70.79 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.15，其中已确认叙事 1 个。
-- Mandy 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- VTC 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.48，其中已确认叙事 1 个。
+- Alleged GTA PIPI Coin Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- SPCX99K 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Mandy | 质量 77.94 | 可交易性 86.88 | 风险 低
-- Alleged Papa Audacity Token | 质量 77.49 | 可交易性 90.52 | 风险 低
-- Alleged Papa Audacity Token | 质量 75.98 | 可交易性 85.47 | 风险 低
-- White House MAGA City XLVII Post | 质量 75.24 | 可交易性 92.61 | 风险 低
-- DCTY Ticker Analysis | 质量 75.05 | 可交易性 97.00 | 风险 低
-- VTC | 质量 73.84 | 可交易性 100.00 | 风险 低
-- PROJECT VICE 6 | 质量 72.86 | 可交易性 100.00 | 风险 低
-- Daniel Kuhn Comments on Founder Token | 质量 70.06 | 可交易性 69.64 | 风险 低
-- Uncertain:AgentidRent Platform Introduction | 质量 68.99 | 可交易性 74.11 | 风险 低
-- Huang Sha Zi Ma | 质量 66.84 | 可交易性 81.28 | 风险 低
+- Alleged Apocrycoin | 质量 84.97 | 可交易性 100.00 | 风险 低
+- Alleged DacityCoin Ticker Speculation | 质量 81.85 | 可交易性 100.00 | 风险 低
+- Alleged GTA PIPI Coin Meme | 质量 80.79 | 可交易性 100.00 | 风险 低
+- DCTY Ticker Analysis | 质量 76.74 | 可交易性 100.00 | 风险 低
+- Alleged GTA Token Launch | 质量 75.95 | 可交易性 90.94 | 风险 低
+- SPCX99K | 质量 71.61 | 可交易性 100.00 | 风险 低
+- CZ: ANT Token Hits BNB Chain | 质量 71.50 | 可交易性 94.71 | 风险 低
+- Alleged SPARROW Token | 质量 69.31 | 可交易性 92.94 | 风险 低
+- Thug Life | 质量 66.41 | 可交易性 100.00 | 风险 低
+- TapeX | 质量 64.67 | 可交易性 64.91 | 风险 低
 
 ## 伪叙事风险
 
-- Daniel Kuhn Comments on Founder Token | 风险 55.21 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
-- White House MAGA City XLVII Post | 风险 47.79 | 原因：流动性偏薄
-- DCTY Ticker Analysis | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- PROJECT VICE 6 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- DCTY Ticker Analysis | 风险 47.79 | 原因：流动性偏薄
+- Alleged SPARROW Token | 风险 47.79 | 原因：流动性偏薄
+- CZ: ANT Token Hits BNB Chain | 风险 47.20 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged GTA Token Launch | 风险 44.46 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
 
+- TAPEX | BSC | 看多 | 新鲜度 100.00 | TapeX
 - Jacket | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- StarsAI | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DCTY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DCI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - CHAR | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
@@ -114,6 +114,8 @@
 
 ## 官方催化
 
+- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-11-20)](https://www.binance.com/zh-CN/support/announcement/detail/0d3b1632cf474b61afa7c04956005887)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve users’ trading experience, Bina…
 - [Notice on Anthropic (ANT) on Binance Stocks - 2026-11-19](https://www.binance.com/zh-CN/support/announcement/detail/eb785eda143c4f478d4bb897934b5474)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, To expand the range of trading choices offered on Binance Stocks and enhance users’ tr…
 - [Early Completion of Contract Size Adjustment on USDⓈ-Margined BITOUSDT Perpetual Contract (2026-11-19)](https://www.binance.com/zh-CN/support/announcement/detail/712f5b2f99eb4a59ba91b085f7eb124b)
@@ -126,8 +128,6 @@
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet, together with BNB Chain, is jointly hostin…
 - [Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-18)](https://www.binance.com/zh-CN/support/announcement/detail/e881bca4de484755b172ec53141bd422)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of tradin…
-- [Binance Upgrades Spot Liquidity Provider Program (2026-11-16)](https://www.binance.com/zh-CN/support/announcement/detail/fdf0711ce61345e697e3dbc067b32e40)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, As Binance conducts regular reviews of its programs to provide u…
 - [Binance Will Add 7 bStocks Tokenized Securities as Collateral Asset - 2026-11-18](https://www.binance.com/zh-CN/support/announcement/detail/e559d54271c748e080ba4180d453ea1b)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered through an Approved Prospectus in the ADGM an…
 - [Binance Exchange Adds New bStocks Trading Pairs on Binance Spot/Convert - 2026-11-18](https://www.binance.com/zh-CN/support/announcement/detail/a3ffb6df9de942a9bb40e19f904041e6)
@@ -136,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：VTC（Solana，分数 85.83）
-2. 共振最强代币：TRUMP（Solana，共振 100.0）
-3. 记忆层变化：VTC 当前为“新出现”
-4. 最新官方催化：Notice on Anthropic (ANT) on Binance Stocks - 2026-11-19
+1. 当前最强叙事：Alleged GTA PIPI Coin Meme（Solana，分数 87.19）
+2. 共振最强代币：ANTHROPIC（Solana，共振 100.0）
+3. 记忆层变化：Alleged GTA PIPI Coin Meme 当前为“新出现”
+4. 最新官方催化：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-11-20)
 #Binance #NarrativeOS #OpenClaw
