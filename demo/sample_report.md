@@ -1,102 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-21T15:01:24.888136+00:00
+- 生成时间：2026-11-21T20:52:55.498532+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Elon Musk Retweets Reflex Division，所在链为 Solana，叙事强度 86.46。
-- 当前平均叙事强度为 81.39，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ZEC，来自 BSC，共振分数 100.0。
-- 记忆层显示 天蓬元帅是我爹 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Elon Musk Endorses Ilya's AI Sci-Fi，伪叙事风险 51.26。
+- 当前最强叙事是 Alleged Bigfoot Token，所在链为 Solana，叙事强度 84.06。
+- 当前平均叙事强度为 81.08，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 PUMP，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged Bigfoot Token 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 CZ's SBF Netflix Moment，伪叙事风险 52.99。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Pieverse (PIEVERSE) and Share $200K Worth of Rewards (2026-11-20)。
 
 ## 叙事雷达
 
-- Elon Musk Retweets Reflex Division | Solana | 加速中 | 强度 86.46 | 质量 78.80
-  - 主题摘要：Multiple tokens named 「win」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 87.89 / 确认 20.16 / 脆弱性 14.00
+- Alleged Bigfoot Token | Solana | 降温中 | 强度 84.06 | 质量 77.23
+  - 主题摘要：Multiple tokens named 「Bigfoot」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.58 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Trump Admin Releases Bigfoot Files | Solana | 降温中 | 强度 84.04 | 质量 77.14
+  - 主题摘要：According to New York Post's post, the Trump administration has quietly released government files related to Bigfoot, a move described as creating a 'very uneasy feeling.' This di…
+  - 资金 100.00 / 广度 90.81 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Anthropic AICoin Meme Image | BSC | 降温中 | 强度 82.99 | 质量 74.44
+  - 主题摘要：According to Esoteric's post, Anthropic is preparing for an IPO, and an easter egg in its GitHub repository features a cryptocurrency named 'AICoin' within an AI safety test. This…
+  - 资金 100.00 / 广度 87.11 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Anthropic Mathematician Claims AI Proved Riemann Hypothesis | Solana | 加速中 | 强度 82.67 | 质量 75.46
+  - 主题摘要：According to Scientific American's post, a mathematician at Anthropic claims to have used the company's AI to solve the Riemann hypothesis, described as the most notorious open pr…
+  - 资金 100.00 / 广度 85.78 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged PEEBRAIN Token | Solana | 降温中 | 强度 83.65 | 质量 77.58
-  - 主题摘要：According to toly's post, a token named PEEBRAIN is allegedly launched, referencing a New York Times report about Nvidia CEO Jensen Huang's alleged abusive comments to staff. This…
-  - 资金 100.00 / 广度 96.19 / 确认 4.32 / 脆弱性 14.00
+- NOHR | Solana | 加速中 | 强度 82.65 | 质量 77.30
+  - 主题摘要：Multiple tokens named 「NOHR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.73 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- CLAWDIA | Solana | 降温中 | 强度 82.22 | 质量 70.18
+  - 主题摘要：CLAWDIA is a meme token inspired by the concept of a female claw character. Created by 0rdlibrary, it features a cartoon lobster with a purple hat as its logo. The token gained at…
+  - 资金 100.00 / 广度 78.29 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Jensen Huang's Vulnerability | Solana | 降温中 | 强度 83.22 | 质量 76.62
-  - 主题摘要：Multiple tokens named 「JENSEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.57 / 确认 11.60 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 天蓬元帅是我爹 | BSC | 点火期 | 强度 81.25 | 质量 78.55
+- 天蓬元帅是我爹 | BSC | 降温中 | 强度 81.26 | 质量 74.79
   - 主题摘要：Multiple tokens named 「猪小戒」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.68 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Jensen Huang Meme Coin | Solana | 降温中 | 强度 80.05 | 质量 71.72
-  - 主题摘要：According to lequant's post, Jensen Huang is the subject of new viral content, including a reported altercation. Concurrently, multiple tokens named 'JENSEN' (The Jensen Files) ha…
-  - 资金 100.00 / 广度 91.18 / 确认 4.32 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.51 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蚂蚁 | BSC | 降温中 | 强度 79.99 | 质量 70.33
+- 蚂蚁 | BSC | 降温中 | 强度 80.03 | 质量 71.12
   - 主题摘要：蚂蚁 (Ant) is a community-driven meme token inspired by the Chinese ant culture. It emphasizes decentralization and collective participation through social media campaigns and commu…
-  - 资金 100.00 / 广度 71.70 / 确认 16.56 / 脆弱性 10.00
+  - 资金 100.00 / 广度 71.39 / 确认 9.36 / 脆弱性 10.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- ANT人生 | BSC | 加速中 | 强度 79.93 | 质量 74.05
-  - 主题摘要：Multiple tokens named 「ANT人生」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.04 / 确认 20.16 / 脆弱性 14.00
+- Officer Houston Rocket Sworn In | Solana | 加速中 | 强度 79.83 | 质量 71.82
+  - 主题摘要：According to ABC News's post, Officer Houston Rocket, a dog, was sworn in as a member of the Fountain Police Department in Colorado. He is scheduled to provide comfort to children…
+  - 资金 100.00 / 广度 70.92 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Elon Musk Endorses Ilya's AI Sci-Fi | Solana | 点火期 | 强度 79.85 | 质量 80.53
-  - 主题摘要：Elon Musk retweeted an interview clip where Ilya Sutskever describes the rapid advancement of AI in the Bay Area as 'straight out of science fiction.' Musk's endorsement validates…
-  - 资金 94.19 / 广度 100.00 / 确认 11.52 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Jensen Huang Meme Coin | Solana | 降温中 | 强度 79.81 | 质量 71.23
-  - 主题摘要：According to the_polymathic's post, Jensen Huang is associated with new developments, referencing a reported incident. Concurrently, multiple tokens named 'The Jensen Files' (Symb…
-  - 资金 100.00 / 广度 89.32 / 确认 4.32 / 脆弱性 14.00
+- Trump Predicts Bull Run | Solana | 加速中 | 强度 76.64 | 质量 67.10
+  - 主题摘要：According to CORE (Satoshi)'s post, Donald Trump stated that investors should buy stocks immediately, predicting the country will rise like a rocket ship. The post interprets this…
+  - 资金 100.00 / 广度 48.87 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk: Probe Uranus Again | Solana | 降温中 | 强度 76.54 | 质量 77.90
+  - 主题摘要：Elon Musk publicly called for a renewed mission to explore Uranus, highlighting the need for better imaging technology. This bold scientific statement, delivered by a tech billion…
+  - 资金 79.91 / 广度 90.16 / 确认 12.96 / 脆弱性 34.16
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged AMC Meme Coin Proposal | Solana | 降温中 | 强度 79.20 | 质量 70.13
-  - 主题摘要：According to Tige's post, Tige proposes launching an alleged Meme coin named 'A Mario Cat' (AMC ticker), suggesting it aligns with Roaring Kitty's viral activity and the 'Cat Mari…
-  - 资金 99.96 / 广度 87.79 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Jensen Huang Meme | Solana | 降温中 | 强度 78.86 | 质量 69.75
-  - 主题摘要：Multiple tokens named 「JENSEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 89.28 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- TapeX | BSC | 降温中 | 强度 73.21 | 质量 58.98
-  - 主题摘要：Multiple tokens named 「TAPEX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 71.69 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ's SBF Netflix Moment | BSC | 点火期 | 强度 73.14 | 质量 68.70
+- CZ's SBF Netflix Moment | BSC | 点火期 | 强度 71.84 | 质量 70.51
   - 主题摘要：CZ retweeted a Bloomberg report on a Netflix series about SBF, validating his previous gut feeling. This creates a narrative of prophetic foresight or ironic vindication, linking…
-  - 资金 100.00 / 广度 85.16 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.80 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Dark Team Releases Meme Image | BSC | 降温中 | 强度 70.88 | 质量 55.60
-  - 主题摘要：According to Dark's post, the team behind the Dark project on BSC announced a technical advancement integrating PancakeSwap, NEAR Intents, Base USDC, and Peer Cash. This infrastru…
-  - 资金 100.00 / 广度 71.47 / 确认 16.56 / 脆弱性 14.00
+- TapeX | BSC | 降温中 | 强度 70.65 | 质量 55.71
+  - 主题摘要：Multiple tokens named 「TAPEX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.80 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 西游记 | BSC | 降温中 | 强度 70.24 | 质量 54.75
+  - 主题摘要：西游记代币灵感来源于中国经典神话故事，标志展示了孙悟空、猪八戒和唐僧的形象。该代币旨在通过社区驱动的活动促进数字艺术创作和NFT集成，同时强调去中心化金融应用。
+  - 资金 100.00 / 广度 69.93 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.39，其中已确认叙事 0 个。
-- 天蓬元帅是我爹 正在向主线升级: BSC 上该叙事处于“新出现”状态，值得持续跟踪。
-- Alleged PEEBRAIN Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 81.08，其中已确认叙事 0 个。
+- Anthropic Mathematician Claims AI Proved Riemann Hypothesis 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Bigfoot Token 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk Endorses Ilya's AI Sci-Fi | 质量 80.53 | 可交易性 100.00 | 风险 低
-- Elon Musk Retweets Reflex Division | 质量 78.80 | 可交易性 100.00 | 风险 低
-- 天蓬元帅是我爹 | 质量 78.55 | 可交易性 100.00 | 风险 低
-- Alleged PEEBRAIN Token | 质量 77.58 | 可交易性 99.24 | 风险 低
-- Jensen Huang's Vulnerability | 质量 76.62 | 可交易性 97.33 | 风险 低
-- ANT人生 | 质量 74.05 | 可交易性 100.00 | 风险 低
-- Alleged Jensen Huang Meme Coin | 质量 71.72 | 可交易性 84.71 | 风险 低
-- Alleged Jensen Huang Meme Coin | 质量 71.23 | 可交易性 84.95 | 风险 低
-- 蚂蚁 | 质量 70.33 | 可交易性 100.00 | 风险 低
-- Alleged AMC Meme Coin Proposal | 质量 70.13 | 可交易性 100.00 | 风险 低
+- Elon Musk: Probe Uranus Again | 质量 77.90 | 可交易性 100.00 | 风险 低
+- NOHR | 质量 77.30 | 可交易性 100.00 | 风险 低
+- Alleged Bigfoot Token | 质量 77.23 | 可交易性 100.00 | 风险 低
+- Trump Admin Releases Bigfoot Files | 质量 77.14 | 可交易性 99.47 | 风险 低
+- Anthropic Mathematician Claims AI Proved Riemann Hypothesis | 质量 75.46 | 可交易性 87.79 | 风险 低
+- 天蓬元帅是我爹 | 质量 74.79 | 可交易性 92.92 | 风险 低
+- Anthropic AICoin Meme Image | 质量 74.44 | 可交易性 99.40 | 风险 低
+- Officer Houston Rocket Sworn In | 质量 71.82 | 可交易性 93.70 | 风险 低
+- 蚂蚁 | 质量 71.12 | 可交易性 100.00 | 风险 低
+- CZ's SBF Netflix Moment | 质量 70.51 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Elon Musk Endorses Ilya's AI Sci-Fi | 风险 51.26 | 原因：流动性偏薄、近 1 小时净流入转负
-- CZ's SBF Netflix Moment | 风险 47.79 | 原因：流动性偏薄
-- 天蓬元帅是我爹 | 风险 42.03 | 原因：流动性偏薄
+- CZ's SBF Netflix Moment | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon Musk: Probe Uranus Again | 风险 43.40 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
+- Anthropic AICoin Meme Image | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -104,8 +104,8 @@
 - DCTY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DCI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FLOAT | Solana | 看多 | 新鲜度 99.75 | 暂无直接叙事映射
-- HUSS | Solana | 看多 | 新鲜度 79.28 | 暂无直接叙事映射
-- SLC | Base | 看多 | 新鲜度 64.37 | 暂无直接叙事映射
+- HUSS | Solana | 看多 | 新鲜度 91.61 | 暂无直接叙事映射
+- FIONA | Solana | 看多 | 新鲜度 65.95 | 暂无直接叙事映射
 - QUATS | Solana | 看多 | 新鲜度 60.91 | 暂无直接叙事映射
 - GTAVI | Solana | 看多 | 新鲜度 59.77 | 暂无直接叙事映射
 - MONKE | Solana | 看多 | 新鲜度 59.65 | 暂无直接叙事映射
@@ -135,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Elon Musk Retweets Reflex Division（Solana，分数 86.46）
-2. 共振最强代币：ZEC（BSC，共振 100.0）
-3. 记忆层变化：天蓬元帅是我爹 当前为“新出现”
+1. 当前最强叙事：Alleged Bigfoot Token（Solana，分数 84.06）
+2. 共振最强代币：PUMP（Solana，共振 100.0）
+3. 记忆层变化：Alleged Bigfoot Token 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Pieverse (PIEVERSE) and Share $200K Worth of Rewards (2026-11-20)
 #Binance #NarrativeOS #OpenClaw
