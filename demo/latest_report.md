@@ -1,109 +1,109 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-21T00:11:18.122801+00:00
+- 生成时间：2026-11-21T06:57:59.549807+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 American Oil Relief Program，所在链为 Solana，叙事强度 84.72。
-- 当前平均叙事强度为 80.74，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MIHAO，来自 Solana，共振分数 100.0。
-- 记忆层显示 Elon Musk Endorses Ilya's AI Sci-Fi 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 CZ vs SBF: The CEO Mirror，伪叙事风险 51.82。
+- 当前最强叙事是 Alleged AMC Meme Coin Proposal，所在链为 Solana，叙事强度 88.34。
+- 当前平均叙事强度为 84.36，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TTWO，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged AMC Meme Coin Proposal 当前处于“强化”状态。
+- 当前最需要防止误判的叙事是 Alleged PEEBRAIN Token，伪叙事风险 51.82。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Pieverse (PIEVERSE) and Share $200K Worth of Rewards (2026-11-20)。
 
 ## 叙事雷达
 
-- American Oil Relief Program | Solana | 降温中 | 强度 84.72 | 质量 72.35
-  - 主题摘要：Multiple tokens named 「AORP」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 74.30 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- United States Energy Fund | Solana | 降温中 | 强度 84.18 | 质量 73.86
-  - 主题摘要：Multiple tokens named 「USEF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 97.05 / 广度 79.33 / 确认 9.36 / 脆弱性 10.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Endorses Ilya's AI Sci-Fi | Solana | 点火期 | 强度 83.10 | 质量 80.53
-  - 主题摘要：Elon Musk retweeted an interview clip where Ilya Sutskever describes the rapid advancement of AI in the Bay Area as 'straight out of science fiction.' Musk's endorsement validates…
-  - 资金 100.00 / 广度 100.00 / 确认 11.52 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 蚂蚁 | BSC | 降温中 | 强度 81.21 | 质量 72.06
-  - 主题摘要：蚂蚁 (Ant) is a community-driven meme token inspired by the Chinese ant culture. It emphasizes decentralization and collective participation through social media campaigns and commu…
-  - 资金 100.00 / 广度 73.34 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Take-Two Shares Surge on GTA VI Reviews | Solana | 降温中 | 强度 79.64 | 质量 68.27
-  - 主题摘要：According to Polymarket's post, Take-Two Interactive shares surged by up to 8.4% after Grand Theft Auto VI was officially recognized as the best-reviewed video game ever.
-  - 资金 100.00 / 广度 77.25 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Creamy Comments on FTA Token | Solana | 点火期 | 强度 79.56 | 质量 72.89
-  - 主题摘要：According to Creamy's post, the FTA token is nearing its end, after which it will become a unique symbol. Creamy suggests running it merely as a name. The quoted content reference…
-  - 资金 100.00 / 广度 97.90 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged AMC Meme Coin Proposal | Solana | 加速中 | 强度 79.26 | 质量 79.35
+- Alleged AMC Meme Coin Proposal | Solana | 加速中 | 强度 88.34 | 质量 79.70
   - 主题摘要：According to Tige's post, Tige proposes launching an alleged Meme coin named 'A Mario Cat' (AMC ticker), suggesting it aligns with Roaring Kitty's viral activity and the 'Cat Mari…
-  - 资金 98.28 / 广度 90.94 / 确认 20.16 / 脆弱性 14.00
+  - 资金 100.00 / 广度 90.87 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- GTA 6 Cool Dog Based on Real Dog Loosy | Solana | 点火期 | 强度 78.35 | 质量 77.05
-  - 主题摘要：According to Dexerto's post, the 'Cool Dog' character in GTA 6 is based on a real dog named Loosy, who is known for skiing and hoverboarding with her owner in Fort Lauderdale.
-  - 资金 100.00 / 广度 96.26 / 确认 12.96 / 脆弱性 14.00
+- Elon's Obstinate Stupidity | Solana | 降温中 | 强度 87.81 | 质量 81.64
+  - 主题摘要：Elon Musk shared a humorous self-reflection on his social media, stating that his stupidity only counts if he is also obstinate about it. This witty remark highlights his self-awa…
+  - 资金 100.00 / 广度 100.00 / 确认 16.56 / 脆弱性 23.25
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk Retweets Reflex Division | Solana | 加速中 | 强度 87.26 | 质量 78.28
+  - 主题摘要：Multiple tokens named 「win」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 86.15 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Elon Musk Endorses Ilya's AI Sci-Fi | Solana | 降温中 | 强度 85.65 | 质量 79.74
+  - 主题摘要：Elon Musk retweeted an interview clip where Ilya Sutskever describes the rapid advancement of AI in the Bay Area as 'straight out of science fiction.' Musk's endorsement validates…
+  - 资金 100.00 / 广度 100.00 / 确认 7.92 / 脆弱性 23.25
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- United States Oil Index | Solana | 降温中 | 强度 83.32 | 质量 72.20
+  - 主题摘要：According to Hughman (proud BWA copytrader)'s post, the United States Oil Index (USOI) token is allegedly launched on the pumpfun platform. This information is unverified. Please…
+  - 资金 100.00 / 广度 77.49 / 确认 4.32 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged PEEBRAIN Token | Solana | 点火期 | 强度 81.32 | 质量 77.65
+  - 主题摘要：According to toly's post, tokens named 'pee brain' and 'pee on your brain' are allegedly launched, referencing quotes attributed to Nvidia CEO Jensen Huang. This information is un…
+  - 资金 100.00 / 广度 95.66 / 确认 4.32 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- CZ's SBF Netflix Moment | BSC | 点火期 | 强度 78.09 | 质量 76.60
+- US Gov AI Security Collaboration | Solana | 降温中 | 强度 80.81 | 质量 73.06
+  - 主题摘要：Multiple tokens named 「SI」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 79.43 / 确认 9.36 / 脆弱性 23.25
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Jensen Huang's Vulnerability | Solana | 点火期 | 强度 80.38 | 质量 75.97
+  - 主题摘要：Multiple tokens named 「JENSEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 88.87 / 确认 11.60 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- CZ's SBF Netflix Moment | BSC | 点火期 | 强度 78.29 | 质量 78.03
   - 主题摘要：CZ retweeted a Bloomberg report on a Netflix series about SBF, validating his previous gut feeling. This creates a narrative of prophetic foresight or ironic vindication, linking…
-  - 资金 100.00 / 广度 88.47 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 87.96 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Mr. Who Bob Comments on Lucia | Solana | 降温中 | 强度 77.10 | 质量 63.97
-  - 主题摘要：Multiple tokens named 「TTWO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.68 / 确认 9.36 / 脆弱性 14.00
+- 蚂蚁 | BSC | 点火期 | 强度 77.68 | 质量 72.21
+  - 主题摘要：蚂蚁 (Ant) is a community-driven meme token inspired by the Chinese ant culture. It emphasizes decentralization and collective participation through social media campaigns and commu…
+  - 资金 100.00 / 广度 73.84 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Anco D Releases Product Images | BSC | 降温中 | 强度 77.63 | 质量 64.77
+  - 主题摘要：According to Anco D's post, the individual shared several product images to generate interest and invited users to participate in the beta testing phase. The post serves as a teas…
+  - 资金 100.00 / 广度 78.13 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Burn Lucky Sheep | BSC | 降温中 | 强度 73.75 | 质量 58.50
-  - 主题摘要：Multiple tokens named 「幸运羊 」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 70.87 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BINGO | BSC | 降温中 | 强度 72.96 | 质量 59.87
-  - 主题摘要：BINGO is a meme coin inspired by the classic game of chance, aiming to capture the excitement of gambling culture through humor and community engagement. It emphasizes fun and acc…
-  - 资金 100.00 / 广度 69.28 / 确认 11.52 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- JIO JIO Claims Ant Token Return | BSC | 降温中 | 强度 72.78 | 质量 58.96
-  - 主题摘要：According to 我肯定会发财！'s post, the author suggests combining 'Butterfly' and 'Four' projects to create an 'Ant-Ant' token, citing platform support. This information is unverified. P…
-  - 资金 100.00 / 广度 70.97 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ vs SBF: The CEO Mirror | BSC | 点火期 | 强度 69.90 | 质量 64.81
+- CZ vs SBF: The CEO Mirror | BSC | 点火期 | 强度 74.48 | 质量 73.43
   - 主题摘要：Yi He posts a meme contrasting how SBF fans view CZ with CZ's self-perception, highlighting the stark difference in leadership styles and public perception between the two crypto…
-  - 资金 100.00 / 广度 81.81 / 确认 4.32 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.76 / 确认 11.52 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- TapeX | BSC | 降温中 | 强度 74.16 | 质量 58.64
+  - 主题摘要：Multiple tokens named 「TAPEX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 73.69 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Elon Musk's Stupidity Definition | BSC | 降温中 | 强度 73.78 | 质量 63.72
+  - 主题摘要：According to refle𝕏 🔍's post, Elon Musk stated that stupidity does not count unless one is also really obstinate about it. This comment was made in a reply to a user, reflecting M…
+  - 资金 100.00 / 广度 65.13 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.74，其中已确认叙事 0 个。
-- Elon Musk Endorses Ilya's AI Sci-Fi 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- American Oil Relief Program 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.36，其中已确认叙事 0 个。
+- Alleged AMC Meme Coin Proposal 正在向主线升级: Solana 上该叙事处于“强化”状态，值得持续跟踪。
+- Elon's Obstinate Stupidity 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Elon Musk Endorses Ilya's AI Sci-Fi | 质量 80.53 | 可交易性 100.00 | 风险 低
-- Alleged AMC Meme Coin Proposal | 质量 79.35 | 可交易性 100.00 | 风险 低
-- GTA 6 Cool Dog Based on Real Dog Loosy | 质量 77.05 | 可交易性 100.00 | 风险 低
-- CZ's SBF Netflix Moment | 质量 76.60 | 可交易性 100.00 | 风险 低
-- United States Energy Fund | 质量 73.86 | 可交易性 100.00 | 风险 低
-- Creamy Comments on FTA Token | 质量 72.89 | 可交易性 86.09 | 风险 低
-- American Oil Relief Program | 质量 72.35 | 可交易性 100.00 | 风险 低
-- 蚂蚁 | 质量 72.06 | 可交易性 100.00 | 风险 低
-- Take-Two Shares Surge on GTA VI Reviews | 质量 68.27 | 可交易性 100.00 | 风险 低
-- CZ vs SBF: The CEO Mirror | 质量 64.81 | 可交易性 71.07 | 风险 低
+- Elon's Obstinate Stupidity | 质量 81.64 | 可交易性 100.00 | 风险 低
+- Elon Musk Endorses Ilya's AI Sci-Fi | 质量 79.74 | 可交易性 100.00 | 风险 低
+- Alleged AMC Meme Coin Proposal | 质量 79.70 | 可交易性 100.00 | 风险 低
+- Elon Musk Retweets Reflex Division | 质量 78.28 | 可交易性 100.00 | 风险 低
+- CZ's SBF Netflix Moment | 质量 78.03 | 可交易性 100.00 | 风险 低
+- Alleged PEEBRAIN Token | 质量 77.65 | 可交易性 100.00 | 风险 低
+- Jensen Huang's Vulnerability | 质量 75.97 | 可交易性 95.85 | 风险 低
+- CZ vs SBF: The CEO Mirror | 质量 73.43 | 可交易性 91.55 | 风险 低
+- US Gov AI Security Collaboration | 质量 73.06 | 可交易性 97.23 | 风险 低
+- 蚂蚁 | 质量 72.21 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- CZ vs SBF: The CEO Mirror | 风险 51.82 | 原因：流动性偏薄
-- CZ's SBF Netflix Moment | 风险 47.79 | 原因：流动性偏薄
-- Elon Musk Endorses Ilya's AI Sci-Fi | 风险 46.06 | 原因：流动性偏薄
-- Creamy Comments on FTA Token | 风险 44.91 | 原因：流动性偏薄
-- GTA 6 Cool Dog Based on Real Dog Loosy | 风险 44.91 | 原因：流动性偏薄
-- 蚂蚁 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged PEEBRAIN Token | 风险 51.82 | 原因：流动性偏薄
+- CZ vs SBF: The CEO Mirror | 风险 51.26 | 原因：流动性偏薄、近 1 小时净流入转负
+- 蚂蚁 | 风险 47.79 | 原因：流动性偏薄
+- CZ's SBF Netflix Moment | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Jensen Huang's Vulnerability | 风险 46.00 | 原因：流动性偏薄
+- Elon Musk Endorses Ilya's AI Sci-Fi | 风险 41.75 | 原因：流动性偏薄、龙头筹码集中度偏高
 
 ## 信号台
 
-- TAPEX | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- TAPEX | BSC | 看多 | 新鲜度 100.00 | TapeX
 - DCTY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DCI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FLOAT | Solana | 看多 | 新鲜度 99.75 | 暂无直接叙事映射
@@ -138,8 +138,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：American Oil Relief Program（Solana，分数 84.72）
-2. 共振最强代币：MIHAO（Solana，共振 100.0）
-3. 记忆层变化：Elon Musk Endorses Ilya's AI Sci-Fi 当前为“新出现”
+1. 当前最强叙事：Alleged AMC Meme Coin Proposal（Solana，分数 88.34）
+2. 共振最强代币：TTWO（Solana，共振 100.0）
+3. 记忆层变化：Alleged AMC Meme Coin Proposal 当前为“强化”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade Pieverse (PIEVERSE) and Share $200K Worth of Rewards (2026-11-20)
 #Binance #NarrativeOS #OpenClaw
