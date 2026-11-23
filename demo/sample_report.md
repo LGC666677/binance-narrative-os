@@ -1,127 +1,129 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-23T09:43:57.407806+00:00
+- 生成时间：2026-11-23T21:40:06.813601+00:00
 - 跟踪叙事：14
-- 已确认叙事：1
+- 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 GTA6 vs Tesla FSD，所在链为 Solana，叙事强度 87.64。
-- 当前平均叙事强度为 83.32，其中已确认叙事 1 个。
+- 当前最强叙事是 Jason Calacanis Crowns Jensen Huang 'GPU Jesus'，所在链为 Solana，叙事强度 87.23。
+- 当前平均叙事强度为 85.44，其中已确认叙事 0 个。
 - 注意力与资金共振最强的代币是 MIHAO，来自 Solana，共振分数 100.0。
-- 记忆层显示 Xiao Gui Claims Reborn Ant Suitable for four Launch 当前处于“强化”状态。
-- 当前最需要防止误判的叙事是 Fudding CZ Bottom，伪叙事风险 50.11。
-- 最新官方催化来自 最新活动：Share Your Agentic Wallet Experience for Rewards。
+- 记忆层显示 Jason Calacanis Crowns Jensen Huang 'GPU Jesus' 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Musk: Silicon is Conscious，伪叙事风险 50.11。
+- 最新官方催化来自 新币上新：Binance Will Launch Stock Options on Anthropic (ANT)。
 
 ## 叙事雷达
 
-- GTA6 vs Tesla FSD | Solana | 降温中 | 强度 87.64 | 质量 80.86
-  - 主题摘要：Elon Musk 回复关于 FSD 15 与 GTA6 谁更逼真的讨论，称“真心发问”。这一互动将现实中的自动驾驶技术与游戏界的开放世界标杆进行了对比，引发了关于技术奇点与虚拟现实的讨论。
-  - 资金 100.00 / 广度 100.00 / 确认 13.00 / 脆弱性 24.00
+- Jason Calacanis Crowns Jensen Huang 'GPU Jesus' | Solana | 降温中 | 强度 87.23 | 质量 78.41
+  - 主题摘要：According to Polymarket's post, Jason Calacanis crowned Jensen Huang as “GPU Jesus” following Huang's return to Nvidia. This title references the JENSEN token, also known as GPU J…
+  - 资金 100.00 / 广度 97.57 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk Comments on FSD V15 | Solana | 降温中 | 强度 85.23 | 质量 77.04
-  - 主题摘要：Elon Musk quoted Tesla's announcement regarding Full Self-Driving (FSD) V15 visualizations, comparing the new interface to the video game Grand Theft Auto (GTA). The quoted conten…
-  - 资金 100.00 / 广度 95.99 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Tesla FSD v15 Comparison | Solana | 降温中 | 强度 85.23 | 质量 77.04
-  - 主题摘要：According to Teslaconomics's post, the individual compares Tesla's Full Self-Driving (FSD) version 15 to the video game Grand Theft Auto (GTA), describing the driving experience a…
-  - 资金 100.00 / 广度 95.99 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Xiao Gui Claims Reborn Ant Suitable for four Launch | BSC | 降温中 | 强度 83.69 | 质量 72.54
-  - 主题摘要：According to 小鬼's post, the 'Rebirth Ant Crazy Evolution' Meme image is highly popular and suitable for launching on the 'four' platform's ant pool. The post includes a link to an…
-  - 资金 99.90 / 广度 94.93 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- NOHR | Solana | 加速中 | 强度 83.69 | 质量 74.16
-  - 主题摘要：Multiple tokens named 「NOHR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 80.38 / 确认 24.48 / 脆弱性 0.00
+- Alleged Jensen the White Meme | Solana | 点火期 | 强度 85.41 | 质量 80.85
+  - 主题摘要：According to .'s post, Jensen Huang is associated with a 'white leather jacket' meme narrative. Tokens named 'Jensen the White' and 'The White Jacket' have been created, allegedly…
+  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Jensen Huang Reinstatement | Solana | 点火期 | 强度 85.37 | 质量 80.77
+  - 主题摘要：According to chillmigratoor's post, Jensen Huang is allegedly reinstated as NVIDIA CEO following a board vote, described as a 'White Swan' event. This claim is unverified and may…
+  - 资金 100.00 / 广度 99.74 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged JENSEN IS BACK Token | Solana | 点火期 | 强度 85.31 | 质量 80.77
+  - 主题摘要：According to mert's post, the phrase "JENSEN IS BACK" is highlighted, coinciding with the existence of multiple tokens named "JENSEN IS BACK" or "Jensen Huang Coin" on various pla…
+  - 资金 100.00 / 广度 99.74 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged $JENSEN Meme Coin | Solana | 点火期 | 强度 85.31 | 质量 80.77
+  - 主题摘要：According to Kalshi's post, Nvidia CEO Jensen Huang was reinstated, causing a significant stock surge. Concurrently, an unofficial community memecoin named $JENSEN (Reinstated) wa…
+  - 资金 100.00 / 广度 99.74 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged GPU Jesus Meme Coin | Solana | 点火期 | 强度 85.31 | 质量 80.77
+  - 主题摘要：According to @jason's post, the author shares a Meme image titled 'GPU Jesus' and references NVIDIA stock. The post also mentions an upcoming appearance on MSNBC. The content invo…
+  - 资金 100.00 / 广度 99.74 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged GPU Jesus Token | Solana | 点火期 | 强度 85.31 | 质量 80.77
+  - 主题摘要：Multiple tokens named 「JENSEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 99.74 / 确认 12.96 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Musk: Silicon is Conscious | Solana | 点火期 | 强度 84.23 | 质量 80.85
+  - 主题摘要：Elon Musk posits that consciousness exists on a gradient, suggesting that while carbon-based life is conscious, silicon-based entities (AI) likely are too. This blurs the line bet…
+  - 资金 97.99 / 广度 100.00 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- SEX SEX SEX | BSC | 加速中 | 强度 78.68 | 质量 79.66
+  - 主题摘要：According to BottomFloorChud's post, the author questions the presence of a Trump signature on a token, referencing a comparison with Kim Jong Un and Jensen Huang coins. This impl…
+  - 资金 100.00 / 广度 89.13 / 确认 23.80 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Just A Fly On Wall Street | Solana | 降温中 | 强度 81.91 | 质量 70.05
-  - 主题摘要：Multiple tokens named 「WALLSTFLY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 66.65 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Ilya Sutskever Earth Solar | Solana | 已确认 | 强度 81.54 | 质量 83.18
-  - 主题摘要：Elon Musk responds to Ilya Sutskever's prediction that the Earth will be covered by solar panels. The tweet highlights the absurdity of AI infrastructure consuming the planet's su…
-  - 资金 100.00 / 广度 94.03 / 确认 31.68 / 脆弱性 24.92
-  - 下一个观察条件：继续观察近 1 小时净流入是否维持为正，以及是否还有新增催化。
-- USEF | Solana | 降温中 | 强度 80.76 | 质量 70.41
-  - 主题摘要：Multiple tokens named 「USEF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 67.83 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Officer Houston Rocket Sworn In | Solana | 加速中 | 强度 80.52 | 质量 71.23
-  - 主题摘要：According to ABC News's post, Officer Houston Rocket, a dog, was sworn in as a member of the Fountain Police Department in Colorado. He is scheduled to provide comfort to children…
-  - 资金 100.00 / 广度 92.76 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He Backs CZ PR War | BSC | 加速中 | 强度 80.41 | 质量 83.15
-  - 主题摘要：Binance联席CEO何一回复并点赞了关于利用AI短剧改善CZ公众形象的建议。这一互动暗示了币安高层可能正在考虑通过新的媒体形式来重塑创始人形象，引发了社区对币安公关策略转向的讨论。
-  - 资金 100.00 / 广度 97.01 / 确认 27.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Green Candle | BSC | 点火期 | 强度 79.95 | 质量 78.06
+- CZ Green Candle | BSC | 加速中 | 强度 78.31 | 质量 77.13
   - 主题摘要：Binance CEO CZ humorously suggests that market FUD might be halted by a green candle, playing on the meme that CZ's personal situation is tied to crypto market performance. This c…
-  - 资金 100.00 / 广度 90.83 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Binance 2029 Life Simulator | BSC | 点火期 | 强度 78.42 | 质量 80.55
-  - 主题摘要：币安发起的#BinanceBlockchainWeek活动，邀请用户参与“人生模拟器”互动游戏，预测若与币安相伴至2029年能达成的人生成就，并抽取获奖者。
-  - 资金 100.00 / 广度 96.35 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Fudding CZ Bottom | BSC | 点火期 | 强度 77.21 | 质量 77.23
-  - 主题摘要：KOL Mrpunk.eth 发帖声称通过散布 FUD（恐惧、不确定和怀疑）来针对 CZ 和 Binance，从而人为制造了本轮熊市的底部。CZ 转发并确认了这一观点，形成了极具讽刺意味的社区叙事，暗示 CZ 通过自我牺牲或反向操作来拯救市场。
-  - 资金 100.00 / 广度 87.94 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Turtle Coin in Movie 'Oolong Town' | BSC | 点火期 | 强度 75.41 | 质量 72.30
+  - 资金 100.00 / 广度 90.42 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Yi He Backs CZ PR War | BSC | 加速中 | 强度 77.89 | 质量 76.01
+  - 主题摘要：Binance联席CEO何一回复并点赞了关于利用AI短剧改善CZ公众形象的建议。这一互动暗示了币安高层可能正在考虑通过新的媒体形式来重塑创始人形象，引发了社区对币安公关策略转向的讨论。
+  - 资金 100.00 / 广度 93.25 / 确认 27.48 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Turtle Coin in Movie 'Oolong Town' | BSC | 点火期 | 强度 77.87 | 质量 73.14
   - 主题摘要：According to 土豆超人's post, the movie 'Olong Town' features a token named Turtle Coin. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 80.56 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 80.57 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Binance 2029 Life Simulator | BSC | 点火期 | 强度 76.98 | 质量 74.40
+  - 主题摘要：币安发起的#BinanceBlockchainWeek活动，邀请用户参与“人生模拟器”互动游戏，预测若与币安相伴至2029年能达成的人生成就，并抽取获奖者。
+  - 资金 100.00 / 广度 95.24 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Fudding CZ Bottom | BSC | 点火期 | 强度 76.34 | 质量 74.39
+  - 主题摘要：KOL Mrpunk.eth 发帖声称通过散布 FUD（恐惧、不确定和怀疑）来针对 CZ 和 Binance，从而人为制造了本轮熊市的底部。CZ 转发并确认了这一观点，形成了极具讽刺意味的社区叙事，暗示 CZ 通过自我牺牲或反向操作来拯救市场。
+  - 资金 100.00 / 广度 87.34 / 确认 12.96 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 83.32，其中已确认叙事 1 个。
-- NOHR 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- GTA6 vs Tesla FSD 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.44，其中已确认叙事 0 个。
+- Alleged Jensen the White Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Jason Calacanis Crowns Jensen Huang 'GPU Jesus' 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Ilya Sutskever Earth Solar | 质量 83.18 | 可交易性 100.00 | 风险 低
-- Yi He Backs CZ PR War | 质量 83.15 | 可交易性 100.00 | 风险 低
-- GTA6 vs Tesla FSD | 质量 80.86 | 可交易性 100.00 | 风险 低
-- Binance 2029 Life Simulator | 质量 80.55 | 可交易性 100.00 | 风险 低
-- CZ Green Candle | 质量 78.06 | 可交易性 99.86 | 风险 低
-- Fudding CZ Bottom | 质量 77.23 | 可交易性 100.00 | 风险 低
-- Elon Musk Comments on FSD V15 | 质量 77.04 | 可交易性 93.95 | 风险 低
-- Tesla FSD v15 Comparison | 质量 77.04 | 可交易性 93.95 | 风险 低
-- NOHR | 质量 74.16 | 可交易性 100.00 | 风险 低
-- Xiao Gui Claims Reborn Ant Suitable for four Launch | 质量 72.54 | 可交易性 82.00 | 风险 低
+- Alleged Jensen the White Meme | 质量 80.85 | 可交易性 100.00 | 风险 低
+- Musk: Silicon is Conscious | 质量 80.85 | 可交易性 100.00 | 风险 低
+- Alleged Jensen Huang Reinstatement | 质量 80.77 | 可交易性 100.00 | 风险 低
+- Alleged JENSEN IS BACK Token | 质量 80.77 | 可交易性 100.00 | 风险 低
+- Alleged $JENSEN Meme Coin | 质量 80.77 | 可交易性 100.00 | 风险 低
+- Alleged GPU Jesus Meme Coin | 质量 80.77 | 可交易性 100.00 | 风险 低
+- Alleged GPU Jesus Token | 质量 80.77 | 可交易性 100.00 | 风险 低
+- SEX SEX SEX | 质量 79.66 | 可交易性 100.00 | 风险 低
+- Jason Calacanis Crowns Jensen Huang 'GPU Jesus' | 质量 78.41 | 可交易性 99.76 | 风险 低
+- CZ Green Candle | 质量 77.13 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Fudding CZ Bottom | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Binance 2029 Life Simulator | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
-- CZ Green Candle | 风险 44.91 | 原因：流动性偏薄
-- Turtle Coin in Movie 'Oolong Town' | 风险 42.03 | 原因：流动性偏薄
-- Elon Musk Comments on FSD V15 | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Tesla FSD v15 Comparison | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Musk: Silicon is Conscious | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Jensen the White Meme | 风险 44.91 | 原因：流动性偏薄
+- Alleged Jensen Huang Reinstatement | 风险 44.91 | 原因：流动性偏薄
+- Alleged JENSEN IS BACK Token | 风险 44.91 | 原因：流动性偏薄
+- Alleged $JENSEN Meme Coin | 风险 44.91 | 原因：流动性偏薄
+- Alleged GPU Jesus Meme Coin | 风险 44.91 | 原因：流动性偏薄
 
 ## 信号台
 
+- Jacket | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - TAPEX | BSC | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
+- FIONA | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - DCTY | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
-- DCI | Solana | 看多 | 新鲜度 100.00 | 暂无直接叙事映射
 - FLOAT | Solana | 看多 | 新鲜度 99.75 | 暂无直接叙事映射
 - HUSS | Solana | 看多 | 新鲜度 91.61 | 暂无直接叙事映射
 - ZOL | Solana | 看多 | 新鲜度 84.90 | 暂无直接叙事映射
-- FIONA | Solana | 看多 | 新鲜度 78.27 | 暂无直接叙事映射
 - QUATS | Solana | 看多 | 新鲜度 60.91 | 暂无直接叙事映射
 - GTAVI | Solana | 看多 | 新鲜度 59.77 | 暂无直接叙事映射
 - MONKE | Solana | 看多 | 新鲜度 59.65 | 暂无直接叙事映射
 
 ## 官方催化
 
-- [Share Your Agentic Wallet Experience for Rewards](https://www.binance.com/zh-CN/support/announcement/detail/25e018b13a394e609d25cf66a0db0faa)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excited to announce a new campaign for the Bin…
-- [Word of the Day: Test Your Knowledge on “TradFi Products on Binance” to Unlock BNB Rewards!](https://www.binance.com/zh-CN/support/announcement/detail/f4e10dc4e2d643eab9e98f89589f77cc)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for users in the EEA. Fellow Binancians, Bi…
-- [Binance Alpha Trading Competition: Trade Pieverse (PIEVERSE) and Share $200K Worth of Rewards (2026-11-20)](https://www.binance.com/zh-CN/support/announcement/detail/4b72a90be21942bfa22eca0f0748dfcf)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excited to launch the PIEVERSE Trading Competi…
+- [Binance Will Launch Stock Options on Anthropic (ANT)](https://www.binance.com/zh-CN/support/announcement/detail/b3eb06ad744b4398911a103d94d288c6)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will launch US stock options on Anthropic, PBC Class A common stock (NASDAQ: ANT) at…
+- [Brazil New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 15% APR!](https://www.binance.com/zh-CN/support/announcement/detail/ee97d525160e4eb8b8b3ac40bda48323)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to announce this…
+- [New Users Exclusive: Subscribe to USDT Simple Earn Flexible Products to Enjoy 35% Bonus APR!](https://www.binance.com/zh-CN/support/announcement/detail/b9738c47408844a6a5545d7623eb394e)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to announce this…
+- [Binance Blockchain Week: Play the Mini Game, Complete Challenges to Share 1,500 USDC!](https://www.binance.com/zh-CN/support/announcement/detail/5c077c7a5cb6455a90de786a36054d6d)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Blockchain Week Bangkok is here, and our special P…
 - [Binance Futures Will End Last Price Protected Period on USDⓈ-Margined SNDKUSDT Perpetual Contract (2026-11-20)](https://www.binance.com/zh-CN/support/announcement/detail/d3aa0084d3854c3592600ac2dbda0ad6)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region Fellow Binancians, Binance Futures will end Last Price Protected&nbsp; (“LPP”) period on USDⓈ-Margine…
 - [Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-20)](https://www.binance.com/zh-CN/support/announcement/detail/5947f1c3a2904daab60fa896fe0fafea)
@@ -132,14 +134,12 @@
   - Fellow Binancians, Binance Futures will complete the contract size adjustment of USDⓈ-Margined SNDKUSDT Perpetual Contract at 2026-11-20 02:30 (UTC) . There will be a cancel-only phase which may last up to 15 minutes af…
 - [Binance Will Add Anthropic (ANTB) bStocks Tokenized Securities as Collateral Asset - 2026-11-19](https://www.binance.com/zh-CN/support/announcement/detail/c4a6afb79b32434a88e826b9632242c0)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered through an Approved Prospectus in the ADGM an…
-- [Binance Exchange Adds Anthropic (ANTB) bStocks Trading Pairs on Binance Spot/Convert - 2026-11-19](https://www.binance.com/zh-CN/support/announcement/detail/830c320848af4257812d5b6e99e031f9)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, To expand the list of trading choices offered on Binance S…
 
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：GTA6 vs Tesla FSD（Solana，分数 87.64）
+1. 当前最强叙事：Jason Calacanis Crowns Jensen Huang 'GPU Jesus'（Solana，分数 87.23）
 2. 共振最强代币：MIHAO（Solana，共振 100.0）
-3. 记忆层变化：Xiao Gui Claims Reborn Ant Suitable for four Launch 当前为“强化”
-4. 最新官方催化：Share Your Agentic Wallet Experience for Rewards
+3. 记忆层变化：Jason Calacanis Crowns Jensen Huang 'GPU Jesus' 当前为“新出现”
+4. 最新官方催化：Binance Will Launch Stock Options on Anthropic (ANT)
 #Binance #NarrativeOS #OpenClaw
