@@ -1,105 +1,104 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-23T21:40:06.813601+00:00
+- 生成时间：2026-11-24T05:29:30.328489+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：1
+- 高风险伪叙事：2
 
 ## 今日摘要
 
-- 当前最强叙事是 Jason Calacanis Crowns Jensen Huang 'GPU Jesus'，所在链为 Solana，叙事强度 87.23。
-- 当前平均叙事强度为 85.44，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 MIHAO，来自 Solana，共振分数 100.0。
-- 记忆层显示 Jason Calacanis Crowns Jensen Huang 'GPU Jesus' 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Musk: Silicon is Conscious，伪叙事风险 50.11。
+- 当前最强叙事是 Jason Calacanis Crowns Jensen Huang 'GPU Jesus'，所在链为 Solana，叙事强度 87.77。
+- 当前平均叙事强度为 84.66，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 FIONA，来自 Solana，共振分数 100.0。
+- 记忆层显示 PROJECT ATX 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged Jensen Huang Reinstatement，伪叙事风险 52.99。
 - 最新官方催化来自 新币上新：Binance Will Launch Stock Options on Anthropic (ANT)。
 
 ## 叙事雷达
 
-- Jason Calacanis Crowns Jensen Huang 'GPU Jesus' | Solana | 降温中 | 强度 87.23 | 质量 78.41
+- Jason Calacanis Crowns Jensen Huang 'GPU Jesus' | Solana | 降温中 | 强度 87.77 | 质量 79.31
   - 主题摘要：According to Polymarket's post, Jason Calacanis crowned Jensen Huang as “GPU Jesus” following Huang's return to Nvidia. This title references the JENSEN token, also known as GPU J…
-  - 资金 100.00 / 广度 97.57 / 确认 12.96 / 脆弱性 14.00
+  - 资金 100.00 / 广度 97.50 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Jensen the White Meme | Solana | 点火期 | 强度 85.41 | 质量 80.85
-  - 主题摘要：According to .'s post, Jensen Huang is associated with a 'white leather jacket' meme narrative. Tokens named 'Jensen the White' and 'The White Jacket' have been created, allegedly…
-  - 资金 100.00 / 广度 100.00 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged Jensen Huang Reinstatement | Solana | 点火期 | 强度 85.37 | 质量 80.77
-  - 主题摘要：According to chillmigratoor's post, Jensen Huang is allegedly reinstated as NVIDIA CEO following a board vote, described as a 'White Swan' event. This claim is unverified and may…
-  - 资金 100.00 / 广度 99.74 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged JENSEN IS BACK Token | Solana | 点火期 | 强度 85.31 | 质量 80.77
-  - 主题摘要：According to mert's post, the phrase "JENSEN IS BACK" is highlighted, coinciding with the existence of multiple tokens named "JENSEN IS BACK" or "Jensen Huang Coin" on various pla…
-  - 资金 100.00 / 广度 99.74 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged $JENSEN Meme Coin | Solana | 点火期 | 强度 85.31 | 质量 80.77
-  - 主题摘要：According to Kalshi's post, Nvidia CEO Jensen Huang was reinstated, causing a significant stock surge. Concurrently, an unofficial community memecoin named $JENSEN (Reinstated) wa…
-  - 资金 100.00 / 广度 99.74 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged GPU Jesus Meme Coin | Solana | 点火期 | 强度 85.31 | 质量 80.77
-  - 主题摘要：According to @jason's post, the author shares a Meme image titled 'GPU Jesus' and references NVIDIA stock. The post also mentions an upcoming appearance on MSNBC. The content invo…
-  - 资金 100.00 / 广度 99.74 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged GPU Jesus Token | Solana | 点火期 | 强度 85.31 | 质量 80.77
+- PROJECT ATX | Solana | 降温中 | 强度 86.29 | 质量 75.77
+  - 主题摘要：Multiple tokens named 「ATX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.71 / 确认 9.36 / 脆弱性 0.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- DogeDesigner Replies to Elon Musk | Solana | 降温中 | 强度 85.54 | 质量 76.18
   - 主题摘要：Multiple tokens named 「JENSEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 99.74 / 确认 12.96 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Musk: Silicon is Conscious | Solana | 点火期 | 强度 84.23 | 质量 80.85
-  - 主题摘要：Elon Musk posits that consciousness exists on a gradient, suggesting that while carbon-based life is conscious, silicon-based entities (AI) likely are too. This blurs the line bet…
-  - 资金 97.99 / 广度 100.00 / 确认 12.96 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- SEX SEX SEX | BSC | 加速中 | 强度 78.68 | 质量 79.66
-  - 主题摘要：According to BottomFloorChud's post, the author questions the presence of a Trump signature on a token, referencing a comparison with Kim Jong Un and Jensen Huang coins. This impl…
-  - 资金 100.00 / 广度 89.13 / 确认 23.80 / 脆弱性 24.00
+  - 资金 100.00 / 广度 87.07 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Launch of Jimmy Rustles Meme Image | Solana | 加速中 | 强度 84.83 | 质量 77.76
+  - 主题摘要：According to onzhainmozart's post, the user identifies a token named Jimmy Rustles and references a 2014 4chan prediction list containing Monkey, which allegedly failed to run. Th…
+  - 资金 100.00 / 广度 82.30 / 确认 24.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- CZ Green Candle | BSC | 加速中 | 强度 78.31 | 质量 77.13
-  - 主题摘要：Binance CEO CZ humorously suggests that market FUD might be halted by a green candle, playing on the meme that CZ's personal situation is tied to crypto market performance. This c…
-  - 资金 100.00 / 广度 90.42 / 确认 20.16 / 脆弱性 24.00
+- Alleged Grokia Superintelligence | Solana | 降温中 | 强度 84.44 | 质量 73.93
+  - 主题摘要：According to X Freeze's post, Grokia is described as the new face of superintelligence. This statement relates to the token named Grokia Coin, which is associated with Grok's AI i…
+  - 资金 100.00 / 广度 79.58 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Jensen The White Meme | Solana | 降温中 | 强度 84.13 | 质量 77.13
+  - 主题摘要：Multiple tokens named 「JENSEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.25 / 确认 9.36 / 脆弱性 31.85
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 蚂蚁股票 | BSC | 降温中 | 强度 82.42 | 质量 73.50
+  - 主题摘要：Multiple tokens named 「蚂蚁股票」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 90.38 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Jensen Huang Reinstatement | Solana | 点火期 | 强度 82.16 | 质量 80.06
+  - 主题摘要：Multiple tokens named 「JENSEN」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Alleged Jensen the White Meme | Solana | 点火期 | 强度 82.15 | 质量 80.06
+  - 主题摘要：According to .'s post, Jensen Huang is associated with a 'white leather jacket' meme narrative. Tokens named 'Jensen the White' and 'The White Jacket' have been created, allegedly…
+  - 资金 100.00 / 广度 100.00 / 确认 9.36 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- ABear Comments on Trump's Praise for APEC | BSC | 加速中 | 强度 79.14 | 质量 74.52
+  - 主题摘要：According to ABear's post, the user commented on a discussion regarding Donald Trump's praise for the APEC meeting, suggesting that playing in Chinese is preferable. The post refe…
+  - 资金 100.00 / 广度 92.22 / 确认 20.16 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Yi He Backs CZ PR War | BSC | 加速中 | 强度 77.89 | 质量 76.01
+- Yi He Backs CZ PR War | BSC | 加速中 | 强度 76.65 | 质量 74.84
   - 主题摘要：Binance联席CEO何一回复并点赞了关于利用AI短剧改善CZ公众形象的建议。这一互动暗示了币安高层可能正在考虑通过新的媒体形式来重塑创始人形象，引发了社区对币安公关策略转向的讨论。
-  - 资金 100.00 / 广度 93.25 / 确认 27.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.06 / 确认 27.48 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Turtle Coin in Movie 'Oolong Town' | BSC | 点火期 | 强度 77.87 | 质量 73.14
-  - 主题摘要：According to 土豆超人's post, the movie 'Olong Town' features a token named Turtle Coin. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 80.57 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Binance 2029 Life Simulator | BSC | 点火期 | 强度 76.98 | 质量 74.40
+- Binance 2029 Life Simulator | BSC | 点火期 | 强度 76.58 | 质量 74.43
   - 主题摘要：币安发起的#BinanceBlockchainWeek活动，邀请用户参与“人生模拟器”互动游戏，预测若与币安相伴至2029年能达成的人生成就，并抽取获奖者。
-  - 资金 100.00 / 广度 95.24 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 95.13 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Fudding CZ Bottom | BSC | 点火期 | 强度 76.34 | 质量 74.39
-  - 主题摘要：KOL Mrpunk.eth 发帖声称通过散布 FUD（恐惧、不确定和怀疑）来针对 CZ 和 Binance，从而人为制造了本轮熊市的底部。CZ 转发并确认了这一观点，形成了极具讽刺意味的社区叙事，暗示 CZ 通过自我牺牲或反向操作来拯救市场。
-  - 资金 100.00 / 广度 87.34 / 确认 12.96 / 脆弱性 14.00
+- Turtle Coin in Movie 'Oolong Town' | BSC | 点火期 | 强度 76.22 | 质量 72.99
+  - 主题摘要：According to 土豆超人's post, the movie 'Olong Town' features a token named Turtle Coin. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 80.97 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- SEX SEX SEX | BSC | 加速中 | 强度 74.86 | 质量 74.63
+  - 主题摘要：According to BottomFloorChud's post, the author questions the presence of a Trump signature on a token, referencing a comparison with Kim Jong Un and Jensen Huang coins. This impl…
+  - 资金 100.00 / 广度 88.52 / 确认 23.80 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 85.44，其中已确认叙事 0 个。
-- Alleged Jensen the White Meme 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.66，其中已确认叙事 0 个。
+- Alleged Launch of Jimmy Rustles Meme Image 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
 - Jason Calacanis Crowns Jensen Huang 'GPU Jesus' 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Jensen the White Meme | 质量 80.85 | 可交易性 100.00 | 风险 低
-- Musk: Silicon is Conscious | 质量 80.85 | 可交易性 100.00 | 风险 低
-- Alleged Jensen Huang Reinstatement | 质量 80.77 | 可交易性 100.00 | 风险 低
-- Alleged JENSEN IS BACK Token | 质量 80.77 | 可交易性 100.00 | 风险 低
-- Alleged $JENSEN Meme Coin | 质量 80.77 | 可交易性 100.00 | 风险 低
-- Alleged GPU Jesus Meme Coin | 质量 80.77 | 可交易性 100.00 | 风险 低
-- Alleged GPU Jesus Token | 质量 80.77 | 可交易性 100.00 | 风险 低
-- SEX SEX SEX | 质量 79.66 | 可交易性 100.00 | 风险 低
-- Jason Calacanis Crowns Jensen Huang 'GPU Jesus' | 质量 78.41 | 可交易性 99.76 | 风险 低
-- CZ Green Candle | 质量 77.13 | 可交易性 100.00 | 风险 低
+- Alleged Jensen Huang Reinstatement | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Alleged Jensen the White Meme | 质量 80.06 | 可交易性 100.00 | 风险 低
+- Jason Calacanis Crowns Jensen Huang 'GPU Jesus' | 质量 79.31 | 可交易性 100.00 | 风险 低
+- Alleged Launch of Jimmy Rustles Meme Image | 质量 77.76 | 可交易性 98.96 | 风险 低
+- Alleged Jensen The White Meme | 质量 77.13 | 可交易性 100.00 | 风险 低
+- DogeDesigner Replies to Elon Musk | 质量 76.18 | 可交易性 100.00 | 风险 低
+- PROJECT ATX | 质量 75.77 | 可交易性 100.00 | 风险 低
+- Yi He Backs CZ PR War | 质量 74.84 | 可交易性 100.00 | 风险 低
+- SEX SEX SEX | 质量 74.63 | 可交易性 100.00 | 风险 低
+- ABear Comments on Trump's Praise for APEC | 质量 74.52 | 可交易性 93.81 | 风险 低
 
 ## 伪叙事风险
 
-- Musk: Silicon is Conscious | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Jensen the White Meme | 风险 44.91 | 原因：流动性偏薄
-- Alleged Jensen Huang Reinstatement | 风险 44.91 | 原因：流动性偏薄
-- Alleged JENSEN IS BACK Token | 风险 44.91 | 原因：流动性偏薄
-- Alleged $JENSEN Meme Coin | 风险 44.91 | 原因：流动性偏薄
-- Alleged GPU Jesus Meme Coin | 风险 44.91 | 原因：流动性偏薄
+- Alleged Jensen Huang Reinstatement | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Jensen the White Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Turtle Coin in Movie 'Oolong Town' | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged Jensen The White Meme | 风险 45.07 | 原因：流动性偏薄、近 1 小时净流入转负、龙头筹码集中度偏高
+- Binance 2029 Life Simulator | 风险 42.03 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -138,8 +137,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Jason Calacanis Crowns Jensen Huang 'GPU Jesus'（Solana，分数 87.23）
-2. 共振最强代币：MIHAO（Solana，共振 100.0）
-3. 记忆层变化：Jason Calacanis Crowns Jensen Huang 'GPU Jesus' 当前为“新出现”
+1. 当前最强叙事：Jason Calacanis Crowns Jensen Huang 'GPU Jesus'（Solana，分数 87.77）
+2. 共振最强代币：FIONA（Solana，共振 100.0）
+3. 记忆层变化：PROJECT ATX 当前为“新出现”
 4. 最新官方催化：Binance Will Launch Stock Options on Anthropic (ANT)
 #Binance #NarrativeOS #OpenClaw
