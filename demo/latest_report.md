@@ -1,101 +1,103 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-24T16:07:21.673193+00:00
+- 生成时间：2026-11-25T00:35:28.206323+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：0
+- 高风险伪叙事：3
 
 ## 今日摘要
 
-- 当前最强叙事是 United States Asset Reserve，所在链为 Solana，叙事强度 87.42。
-- 当前平均叙事强度为 84.28，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 NIO，来自 Solana，共振分数 100.0。
-- 记忆层显示 United States Asset Reserve 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Alleged Grokia Superintelligence，伪叙事风险 47.79。
+- 当前最强叙事是 Elon Musk on NAND Prices，所在链为 Solana，叙事强度 83.98。
+- 当前平均叙事强度为 79.64，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 XRP，来自 BSC，共振分数 100.0。
+- 记忆层显示 Alleged Satoshi Coin Launch 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Sir Doge of the Coin ⚔️ Questions BOOBS Token，伪叙事风险 55.86。
 - 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade River (RIVER) and Share $200K Worth of Rewards (2026-11-24)。
 
 ## 叙事雷达
 
-- United States Asset Reserve | Solana | 降温中 | 强度 87.42 | 质量 77.49
-  - 主题摘要：Multiple tokens named 「USAR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.44 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Elon Musk on NAND Prices | Solana | 加速中 | 强度 87.05 | 质量 79.75
+- Elon Musk on NAND Prices | Solana | 加速中 | 强度 83.98 | 质量 76.38
   - 主题摘要：Elon Musk replies "Interesting" to a chart showing the freefall of NAND flash prices. This tweet bridges the semiconductor industry and crypto culture, hinting at the cost of AI s…
-  - 资金 100.00 / 广度 89.93 / 确认 24.48 / 脆弱性 14.00
+  - 资金 100.00 / 广度 89.69 / 确认 24.48 / 脆弱性 24.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- United Global Oil Supply | Solana | 降温中 | 强度 86.11 | 质量 76.08
-  - 主题摘要：Multiple tokens named 「UGOS」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 86.72 / 确认 9.36 / 脆弱性 10.00
+- Alleged Satoshi Coin Launch | Solana | 降温中 | 强度 83.96 | 质量 80.48
+  - 主题摘要：According to Sam Belmont's post, he suggests launching a coin to honor Bitcoin creator Satoshi Nakamoto, citing a charity addition by DonateGG. The post references multiple tokens…
+  - 资金 100.00 / 广度 98.77 / 确认 12.96 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Provamper Allegedly Launches POORGOAT Token | Solana | 降温中 | 强度 85.70 | 质量 78.15
-  - 主题摘要：According to Provamper's post, Provamper allegedly launched the POORGOAT token on Solana, claiming to allocate 10% of fees to the account @PoorGoat_ for development. Provamper cit…
-  - 资金 100.00 / 广度 88.37 / 确认 16.56 / 脆弱性 14.00
+- Elon Musk confirms Austin Homeless Donation | Solana | 降温中 | 强度 81.97 | 质量 75.61
+  - 主题摘要：Elon Musk validates a report regarding a $500,000 donation from his foundation to support homeless youth in Austin, sparking discussions on his philanthropic actions and connectio…
+  - 资金 93.11 / 广度 85.18 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- PROJECT ATX | Solana | 降温中 | 强度 84.81 | 质量 74.77
-  - 主题摘要：Multiple tokens named 「ATX」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.58 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Turtle Coin in Movie 'Oolong Town' | BSC | 加速中 | 强度 82.99 | 质量 76.17
-  - 主题摘要：According to 土豆超人's post, the movie 'Olong Town' features a token named Turtle Coin. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 76.47 / 确认 23.76 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Uncertain:JBL on Binance Cult Gesture | BSC | 加速中 | 强度 81.95 | 质量 80.84
-  - 主题摘要：According to JBL's post, the author analyzes a hand gesture in a photo, suggesting it represents a 'cult' associated with Binance, similar to how the number 4 is linked to CZ. JBL…
-  - 资金 100.00 / 广度 92.21 / 确认 24.48 / 脆弱性 24.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged Grokia Superintelligence | Solana | 点火期 | 强度 81.94 | 质量 76.92
-  - 主题摘要：According to X Freeze's post, Grokia is described as the new face of superintelligence. This statement relates to the token named Grokia Coin, which is associated with Grok's AI i…
-  - 资金 100.00 / 广度 91.46 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Claudio | Solana | 加速中 | 强度 81.00 | 质量 81.47
-  - 主题摘要：CLAUDIO token draws inspiration from the iconic rock musician known for his distinctive orange hair and rebellious persona. The token celebrates his cultural impact through music…
-  - 资金 100.00 / 广度 94.51 / 确认 24.48 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Verso Praises Cashcat | Solana | 降温中 | 强度 80.24 | 质量 70.68
-  - 主题摘要：According to CutePie's post, she claims to be launching the POORGOAT token, citing @PoorGoat_'s consistent success in driving coin valuations to millions. She asserts that @PoorGo…
-  - 资金 100.00 / 广度 72.30 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蚂蚁股票 | BSC | 降温中 | 强度 78.45 | 质量 71.09
+- 蚂蚁股票 | BSC | 降温中 | 强度 81.66 | 质量 73.43
   - 主题摘要：Multiple tokens named 「蚂蚁股票」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 91.71 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 93.29 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Binance Thai Greeting | BSC | 点火期 | 强度 75.04 | 质量 69.70
-  - 主题摘要：Binance official account shared a travel guide for Bangkok, introducing the Thai greeting 'Sawatdee' and other phrases. It's a standard educational post with low meme potential.
-  - 资金 100.00 / 广度 82.15 / 确认 16.56 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- 一 | BSC | 降温中 | 强度 72.65 | 质量 57.30
-  - 主题摘要：一 token draws inspiration from the Chinese character '一' (one), symbolizing unity and simplicity. The logo features a minimalist design with a hand gesture, representing the token…
-  - 资金 100.00 / 广度 68.09 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- SEX SEX SEX | BSC | 加速中 | 强度 72.34 | 质量 71.55
-  - 主题摘要：According to BottomFloorChud's post, the author questions the presence of a Trump signature on a token, referencing a comparison with Kim Jong Un and Jensen Huang coins. This impl…
-  - 资金 100.00 / 广度 88.20 / 确认 23.80 / 脆弱性 24.00
+- Alleged Jesus Token Launch | Solana | 加速中 | 强度 80.77 | 质量 76.32
+  - 主题摘要：According to munny 💸's post, the author claims that Jesus' birthday is on Christmas and suggests sending fees to a 'Project Christmas' associated with the Jesus token. This inform…
+  - 资金 100.00 / 广度 94.16 / 确认 23.76 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged Trump Meme Coin | Solana | 降温中 | 强度 80.61 | 质量 74.85
+  - 主题摘要：According to tradfi news's post, a new Meme image related to Donald Trump was published. The post references this content as a 'Trump truth post'.
+  - 资金 100.00 / 广度 92.76 / 确认 13.00 / 脆弱性 52.59
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Wikipedia Coin | Solana | 加速中 | 强度 80.43 | 质量 68.85
+  - 主题摘要：According to Esoteric's post, Wikipedia Coin is described as a token paired with the world's most used encyclopedia, operated by a nonprofit 501c charity. Esoteric claims the proj…
+  - 资金 100.00 / 广度 77.46 / 确认 20.16 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Uncertain:JBL on Binance Cult Gesture | BSC | 加速中 | 强度 79.22 | 质量 79.29
+  - 主题摘要：According to JBL's post, the author analyzes a hand gesture in a photo, suggesting it represents a 'cult' associated with Binance, similar to how the number 4 is linked to CZ. JBL…
+  - 资金 100.00 / 广度 91.96 / 确认 23.76 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Turtle Coin in Movie 'Oolong Town' | BSC | 加速中 | 强度 77.30 | 质量 69.01
+  - 主题摘要：According to 土豆超人's post, the movie 'Oolong Town' features a token named Turtle Coin. This information is unverified. Please exercise caution.
+  - 资金 100.00 / 广度 75.85 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Holders Solana Token Record | Solana | 加速中 | 强度 73.90 | 质量 67.04
+  - 主题摘要：According to Holders's post, the project aims to set a world record for the most held token on Solana. The strategy involves using 100% of creator fees for buybacks and airdrops t…
+  - 资金 100.00 / 广度 85.21 / 确认 24.48 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- GoatAi | BSC | 加速中 | 强度 73.22 | 质量 59.59
+  - 主题摘要：Multiple tokens named 「GoatAi」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 71.34 / 确认 20.16 / 脆弱性 24.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Sir Doge of the Coin ⚔️ Questions BOOBS Token | Solana | 降温中 | 强度 71.46 | 质量 59.64
+  - 主题摘要：According to Sir Doge of the Coin ⚔️'s post, the author questions the validity of information related to the BOOBS token. The post asks whether certain claims are true, indicating…
+  - 资金 100.00 / 广度 82.83 / 确认 9.36 / 脆弱性 52.59
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 一 | BSC | 降温中 | 强度 68.48 | 质量 53.16
+  - 主题摘要：一 token draws inspiration from the Chinese character '一' (one), symbolizing unity and simplicity. The logo features a minimalist design with a hand gesture, representing the token…
+  - 资金 100.00 / 广度 68.60 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- CZ on SBF & FTX Investment | BSC | 点火期 | 强度 68.29 | 质量 65.30
+  - 主题摘要：CZ回应关于他与SBF及FTX投资关系的质疑，透露与SBF会面次数极少，并提及前CFO Wei因不满离开并成立“Binance Avangers”。
+  - 资金 96.43 / 广度 88.88 / 确认 12.96 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 84.28，其中已确认叙事 0 个。
-- Elon Musk on NAND Prices 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- United States Asset Reserve 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 79.64，其中已确认叙事 0 个。
+- Alleged Jesus Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Alleged Satoshi Coin Launch 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Claudio | 质量 81.47 | 可交易性 100.00 | 风险 低
-- Uncertain:JBL on Binance Cult Gesture | 质量 80.84 | 可交易性 99.32 | 风险 低
-- Elon Musk on NAND Prices | 质量 79.75 | 可交易性 100.00 | 风险 低
-- Provamper Allegedly Launches POORGOAT Token | 质量 78.15 | 可交易性 100.00 | 风险 低
-- United States Asset Reserve | 质量 77.49 | 可交易性 100.00 | 风险 低
-- Alleged Grokia Superintelligence | 质量 76.92 | 可交易性 100.00 | 风险 低
-- Turtle Coin in Movie 'Oolong Town' | 质量 76.17 | 可交易性 100.00 | 风险 低
-- United Global Oil Supply | 质量 76.08 | 可交易性 100.00 | 风险 低
-- PROJECT ATX | 质量 74.77 | 可交易性 100.00 | 风险 低
-- SEX SEX SEX | 质量 71.55 | 可交易性 100.00 | 风险 低
+- Alleged Satoshi Coin Launch | 质量 80.48 | 可交易性 100.00 | 风险 低
+- Uncertain:JBL on Binance Cult Gesture | 质量 79.29 | 可交易性 94.93 | 风险 低
+- Elon Musk on NAND Prices | 质量 76.38 | 可交易性 100.00 | 风险 低
+- Alleged Jesus Token Launch | 质量 76.32 | 可交易性 82.83 | 风险 低
+- Elon Musk confirms Austin Homeless Donation | 质量 75.61 | 可交易性 100.00 | 风险 低
+- Alleged Trump Meme Coin | 质量 74.85 | 可交易性 87.20 | 风险 低
+- 蚂蚁股票 | 质量 73.43 | 可交易性 88.59 | 风险 低
+- Turtle Coin in Movie 'Oolong Town' | 质量 69.01 | 可交易性 100.00 | 风险 低
+- Alleged Wikipedia Coin | 质量 68.85 | 可交易性 77.24 | 风险 低
+- Holders Solana Token Record | 质量 67.04 | 可交易性 60.29 | 风险 低
 
 ## 伪叙事风险
 
-- Alleged Grokia Superintelligence | 风险 47.79 | 原因：流动性偏薄
-- Binance Thai Greeting | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- Sir Doge of the Coin ⚔️ Questions BOOBS Token | 风险 55.86 | 原因：流动性偏薄、龙头筹码集中度偏高
+- Alleged Trump Meme Coin | 风险 52.95 | 原因：流动性偏薄、龙头筹码集中度偏高
+- CZ on SBF & FTX Investment | 风险 50.11 | 原因：流动性偏薄、近 1 小时净流入转负
+- Elon Musk confirms Austin Homeless Donation | 风险 43.22 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -107,8 +109,8 @@
 - HUSS | Solana | 看多 | 新鲜度 91.61 | 暂无直接叙事映射
 - ZOL | Solana | 看多 | 新鲜度 84.90 | 暂无直接叙事映射
 - QUATS | Solana | 看多 | 新鲜度 60.91 | 暂无直接叙事映射
-- GTAVI | Solana | 看多 | 新鲜度 59.77 | 暂无直接叙事映射
 - MONKE | Solana | 看多 | 新鲜度 59.65 | 暂无直接叙事映射
+- ANT | Solana | 看多 | 新鲜度 58.33 | 暂无直接叙事映射
 
 ## 官方催化
 
@@ -134,8 +136,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：United States Asset Reserve（Solana，分数 87.42）
-2. 共振最强代币：NIO（Solana，共振 100.0）
-3. 记忆层变化：United States Asset Reserve 当前为“新出现”
+1. 当前最强叙事：Elon Musk on NAND Prices（Solana，分数 83.98）
+2. 共振最强代币：XRP（BSC，共振 100.0）
+3. 记忆层变化：Alleged Satoshi Coin Launch 当前为“新出现”
 4. 最新官方催化：Binance Alpha Trading Competition: Trade River (RIVER) and Share $200K Worth of Rewards (2026-11-24)
 #Binance #NarrativeOS #OpenClaw
