@@ -1,103 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-25T19:09:53.514049+00:00
+- 生成时间：2026-11-26T02:08:53.813298+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
 - 高风险伪叙事：1
 
 ## 今日摘要
 
-- 当前最强叙事是 Alleged Coal Inu Token Launch，所在链为 Solana，叙事强度 88.92。
-- 当前平均叙事强度为 80.03，其中已确认叙事 0 个。
-- 注意力与资金共振最强的代币是 ANSEM，来自 Solana，共振分数 100.0。
-- 记忆层显示 Alleged Coal Inu Token Launch 当前处于“新出现”状态。
-- 当前最需要防止误判的叙事是 Toly on Money as Meme，伪叙事风险 52.99。
+- 当前最强叙事是 nyoruki Comments on TOLY's Preference，所在链为 Solana，叙事强度 86.88。
+- 当前平均叙事强度为 82.25，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 TRUMP，来自 Solana，共振分数 100.0。
+- 记忆层显示 nyoruki Comments on TOLY's Preference 当前处于“新出现”状态。
+- 当前最需要防止误判的叙事是 Alleged PUP Meme Coin Launch，伪叙事风险 73.97。
 - 最新官方催化来自 最新活动：THE BIG BINANCE BONANZA: Black Friday Frenzy, Thanksgiving Giving, Share in 1,000,000 USDC。
 
 ## 叙事雷达
 
-- Alleged Coal Inu Token Launch | Solana | 加速中 | 强度 88.92 | 质量 82.44
-  - 主题摘要：According to Esoteric's post, the author quoted a suggestion to launch a "Commodity Inu" token paired with a basket of commodities as a recession hedge. Esoteric concisely noted t…
-  - 资金 100.00 / 广度 100.00 / 确认 20.16 / 脆弱性 23.33
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Solana2 | Solana | 加速中 | 强度 88.24 | 质量 79.54
-  - 主题摘要：SOL2 represents a community-driven initiative focused on decentralized finance innovation. The logo features colorful, abstract shapes that symbolize the fluid nature of blockchai…
-  - 资金 100.00 / 广度 90.36 / 确认 20.16 / 脆弱性 14.00
-  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Egg Challenge on X | Solana | 降温中 | 强度 85.73 | 质量 76.15
-  - 主题摘要：According to yoxic's post, the viral Instagram World Record Egg challenge is moving to X. The initiative aims to raise funds for the World Food Programme, with the highest bid nam…
-  - 资金 100.00 / 广度 86.96 / 确认 9.36 / 脆弱性 14.00
+- nyoruki Comments on TOLY's Preference | Solana | 降温中 | 强度 86.88 | 质量 77.36
+  - 主题摘要：According to nyoruki's post, nyoruki commented on the MONEY token, stating that Toly prefers Pump.fun over the token. This opinion was expressed in a quoted tweet referencing a di…
+  - 资金 100.00 / 广度 95.79 / 确认 16.56 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Flap Sponsorship at BNBBangkok | BSC | 降温中 | 强度 85.02 | 质量 80.42
+- Toly on Meme Coins | Solana | 降温中 | 强度 86.38 | 质量 76.65
+  - 主题摘要：According to toly 🇺🇸's post, he categorizes memes as S-tier assets, defining them as a 'store of value' and 'ultrasound money'. This statement is made in response to discussions r…
+  - 资金 100.00 / 广度 87.21 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:Flap Sponsorship at BNBBangkok | BSC | 降温中 | 强度 86.16 | 质量 80.47
   - 主题摘要：According to Flap 🦋's post, the Flap team is returning to Binance as a sponsor for Binance Blockchain Week in Bangkok, marking their presence three years after initially building…
-  - 资金 100.00 / 广度 95.91 / 确认 16.60 / 脆弱性 24.00
+  - 资金 100.00 / 广度 96.06 / 确认 16.60 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNB Bangkok Knock Knock | BSC | 降温中 | 强度 82.66 | 质量 77.80
+- Alleged Money Meme Token | Solana | 降温中 | 强度 85.92 | 质量 75.87
+  - 主题摘要：According to bat.sol's post, a token named "Money" is associated with a charity initiative. The quoted content discusses the nature of memes and Solana's technical roadmap. As the…
+  - 资金 100.00 / 广度 87.21 / 确认 16.56 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged Zero Token Launch by ladyboy⛾ | Solana | 加速中 | 强度 84.13 | 质量 72.66
+  - 主题摘要：According to ladyboy⛾'s post, the ZeroSumEnjoyer token (Symbol: Zero) is allegedly being launched or distributed, with a mention of sending 10%. This information is unverified. Pl…
+  - 资金 100.00 / 广度 82.62 / 确认 20.20 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- BNB Bangkok Knock Knock | BSC | 降温中 | 强度 83.70 | 质量 77.71
   - 主题摘要：BNB Chain官方账号转发其团队在曼谷举办的活动推文，强调‘大门敞开’和‘构建者’就位，暗示生态扩张与开发者社区的活跃。
-  - 资金 100.00 / 广度 89.81 / 确认 13.00 / 脆弱性 24.00
+  - 资金 100.00 / 广度 89.49 / 确认 13.00 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 71-Year-Old Zheng Yuanjie Creates Animation with AI | BSC | 降温中 | 强度 82.38 | 质量 75.34
+- Norfeather | Solana | 降温中 | 强度 83.24 | 质量 75.51
+  - 主题摘要：Multiple tokens named 「NORFEATH」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 84.85 / 确认 9.36 / 脆弱性 10.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 71-Year-Old Zheng Yuanjie Creates Animation with AI | BSC | 降温中 | 强度 79.85 | 质量 75.24
   - 主题摘要：According to PePe.sir先生's post, 71-year-old author Zheng Yuanjie independently created an animation using AI, working from 4:30 AM and spending three days to produce one episode.…
-  - 资金 100.00 / 广度 84.28 / 确认 9.36 / 脆弱性 14.00
+  - 资金 100.00 / 广度 84.47 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 蚂蚁股票 | BSC | 降温中 | 强度 77.69 | 质量 70.59
-  - 主题摘要：Multiple tokens named 「蚂蚁股票」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 92.96 / 确认 16.56 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- pipi | BSC | 降温中 | 强度 77.14 | 质量 68.79
+- pipi | BSC | 降温中 | 强度 78.11 | 质量 68.84
   - 主题摘要：Multiple tokens named 「pipi」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 62.45 / 确认 9.36 / 脆弱性 24.00
+  - 资金 100.00 / 广度 62.60 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Satoshi Coin Launch | Solana | 降温中 | 强度 77.10 | 质量 68.96
-  - 主题摘要：Multiple tokens named 「Satoshi」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 94.13 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- BNB Bangkok Event | Solana | 降温中 | 强度 76.68 | 质量 62.24
-  - 主题摘要：BNB Chain announced that development activities are continuing overnight at the BNB Bangkok event, highlighting ongoing ecosystem building efforts in the region.
-  - 资金 100.00 / 广度 74.73 / 确认 16.56 / 脆弱性 23.33
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- UOF | Solana | 降温中 | 强度 76.06 | 质量 64.29
-  - 主题摘要：Multiple tokens named 「UOF」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 51.84 / 确认 9.36 / 脆弱性 0.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Toly on Money as Meme | Solana | 点火期 | 强度 74.82 | 质量 74.14
-  - 主题摘要：Multiple tokens named 「MONEY」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 94.57 / 广度 99.94 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- DAN KOE's Article Link | BSC | 降温中 | 强度 74.38 | 质量 74.78
+- DAN KOE's Article Link | BSC | 点火期 | 强度 76.94 | 质量 75.63
   - 主题摘要：According to DAN KOE's post, he shared an article discussing deep work habits that significantly impacted his life, emphasizing the value of dedicating one hour daily to focused w…
-  - 资金 100.00 / 广度 77.96 / 确认 16.56 / 脆弱性 14.00
+  - 资金 100.00 / 广度 81.38 / 确认 16.56 / 脆弱性 24.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- 蚂蚁股票 | BSC | 降温中 | 强度 75.15 | 质量 70.03
+  - 主题摘要：Multiple tokens named 「蚂蚁股票」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 92.10 / 确认 16.56 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Dumped or not | Solana | 降温中 | 强度 72.66 | 质量 61.06
-  - 主题摘要：Multiple tokens named 「PAD」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 86.22 / 广度 64.18 / 确认 9.36 / 脆弱性 14.00
+- Uncertain:Yoon🔸 Shares Flap Team's BNBBangkok Update | BSC | 降温中 | 强度 73.59 | 质量 62.76
+  - 主题摘要：According to Yoon🔸's post, the Flap team, previously active in hackathons, is returning to the Binance Web3 Week (BNBBangkok) event as a sponsor. Yoon🔸 highlights the team's endur…
+  - 资金 100.00 / 广度 73.08 / 确认 13.00 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Uncertain:JBL on Binance Cult Gesture | BSC | 加速中 | 强度 69.91 | 质量 66.25
+  - 主题摘要：According to JBL's post, the author analyzes a hand gesture in a photo, suggesting it represents a 'cult' associated with Binance, similar to how the number 4 is linked to CZ. JBL…
+  - 资金 100.00 / 广度 83.72 / 确认 27.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Alleged PUP Meme Coin Launch | Solana | 降温中 | 强度 66.92 | 质量 59.87
+  - 主题摘要：According to Nezugg's post, the author claims that the 'trenches' have overlooked dog-themed tokens and asserts that Pump.fun requires a dedicated dog runner. Nezugg introduces $P…
+  - 资金 63.36 / 广度 79.03 / 确认 9.36 / 脆弱性 24.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.03，其中已确认叙事 0 个。
-- Alleged Coal Inu Token Launch 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Egg Challenge on X 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 82.25，其中已确认叙事 0 个。
+- Alleged Zero Token Launch by ladyboy⛾ 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- nyoruki Comments on TOLY's Preference 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Alleged Coal Inu Token Launch | 质量 82.44 | 可交易性 100.00 | 风险 低
-- Uncertain:Flap Sponsorship at BNBBangkok | 质量 80.42 | 可交易性 100.00 | 风险 低
-- Solana2 | 质量 79.54 | 可交易性 100.00 | 风险 低
-- BNB Bangkok Knock Knock | 质量 77.80 | 可交易性 100.00 | 风险 低
-- Egg Challenge on X | 质量 76.15 | 可交易性 100.00 | 风险 低
-- 71-Year-Old Zheng Yuanjie Creates Animation with AI | 质量 75.34 | 可交易性 100.00 | 风险 低
-- DAN KOE's Article Link | 质量 74.78 | 可交易性 99.16 | 风险 低
-- Toly on Money as Meme | 质量 74.14 | 可交易性 92.54 | 风险 低
-- 蚂蚁股票 | 质量 70.59 | 可交易性 88.86 | 风险 低
-- Alleged Satoshi Coin Launch | 质量 68.96 | 可交易性 100.00 | 风险 低
+- Uncertain:Flap Sponsorship at BNBBangkok | 质量 80.47 | 可交易性 100.00 | 风险 低
+- BNB Bangkok Knock Knock | 质量 77.71 | 可交易性 100.00 | 风险 低
+- nyoruki Comments on TOLY's Preference | 质量 77.36 | 可交易性 89.92 | 风险 低
+- Toly on Meme Coins | 质量 76.65 | 可交易性 96.16 | 风险 低
+- Alleged Money Meme Token | 质量 75.87 | 可交易性 93.54 | 风险 低
+- DAN KOE's Article Link | 质量 75.63 | 可交易性 98.58 | 风险 低
+- Norfeather | 质量 75.51 | 可交易性 100.00 | 风险 低
+- 71-Year-Old Zheng Yuanjie Creates Animation with AI | 质量 75.24 | 可交易性 99.48 | 风险 低
+- Alleged Zero Token Launch by ladyboy⛾ | 质量 72.66 | 可交易性 84.76 | 风险 低
+- 蚂蚁股票 | 质量 70.03 | 可交易性 88.43 | 风险 低
 
 ## 伪叙事风险
 
-- Toly on Money as Meme | 风险 52.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Dumped or not | 风险 42.99 | 原因：流动性偏薄
-- pipi | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Satoshi Coin Launch | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- Alleged PUP Meme Coin Launch | 风险 73.97 | 原因：流动性偏薄、近 1 小时净流入转负、热度领先于资金
+- DAN KOE's Article Link | 风险 47.23 | 原因：流动性偏薄、近 1 小时净流入转负
+- 71-Year-Old Zheng Yuanjie Creates Animation with AI | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
 
 ## 信号台
 
@@ -136,8 +135,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Alleged Coal Inu Token Launch（Solana，分数 88.92）
-2. 共振最强代币：ANSEM（Solana，共振 100.0）
-3. 记忆层变化：Alleged Coal Inu Token Launch 当前为“新出现”
+1. 当前最强叙事：nyoruki Comments on TOLY's Preference（Solana，分数 86.88）
+2. 共振最强代币：TRUMP（Solana，共振 100.0）
+3. 记忆层变化：nyoruki Comments on TOLY's Preference 当前为“新出现”
 4. 最新官方催化：THE BIG BINANCE BONANZA: Black Friday Frenzy, Thanksgiving Giving, Share in 1,000,000 USDC
 #Binance #NarrativeOS #OpenClaw
