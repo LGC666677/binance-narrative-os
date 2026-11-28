@@ -1,101 +1,102 @@
 # 币安叙事中枢 2.0
 
-- 生成时间：2026-11-28T02:15:11.662435+00:00
+- 生成时间：2026-11-28T10:38:59.791916+00:00
 - 跟踪叙事：14
 - 已确认叙事：0
-- 高风险伪叙事：2
+- 高风险伪叙事：0
 
 ## 今日摘要
 
-- 当前最强叙事是 Nvidia Exec Super Micro，所在链为 Solana，叙事强度 87.58。
-- 当前平均叙事强度为 80.3，其中已确认叙事 0 个。
-- 记忆层显示 CZ Building 当前处于“强化”状态。
-- 当前最需要防止误判的叙事是 Uncertain:Alleged Binance Robot BENNY，伪叙事风险 57.02。
-- 最新官方催化来自 最新活动：Binance Alpha Trading Competition: Trade Concrete (CT) and Share $200K Worth of Rewards (2026-11-27)。
+- 当前最强叙事是 Alleged WLFI Rug Pull，所在链为 Solana，叙事强度 85.68。
+- 当前平均叙事强度为 78.66，其中已确认叙事 0 个。
+- 注意力与资金共振最强的代币是 SPCX，来自 Solana，共振分数 100.0。
+- 记忆层显示 Alleged $ZHAKI Meme Token 当前处于“强化”状态。
+- 当前最需要防止误判的叙事是 PancakeFi Interns Meet BNBunnies，伪叙事风险 46.06。
+- 最新官方催化来自 币安最新公告：SAFU Update: Adjusting Fund Holdings。
 
 ## 叙事雷达
 
-- Nvidia Exec Super Micro | Solana | 降温中 | 强度 87.58 | 质量 78.82
-  - 主题摘要：According to Polymarket's post, a Wall Street Journal report reveals that an Nvidia executive had a romantic relationship with a senior official at Super Micro Computer. This conn…
-  - 资金 100.00 / 广度 93.21 / 确认 13.00 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- CZ Building | BSC | 降温中 | 强度 85.96 | 质量 77.54
-  - 主题摘要：Binance CEO CZ reposts a fan's post featuring his muscular photo with the caption 'keep training, keep building.' The tweet highlights his dedication to both physical fitness and…
-  - 资金 100.00 / 广度 87.39 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- UBR | Solana | 降温中 | 强度 82.12 | 质量 71.77
-  - 主题摘要：Multiple tokens named 「UBR」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 72.36 / 确认 9.36 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Mandy | Solana | 加速中 | 强度 81.59 | 质量 70.95
-  - 主题摘要：According to NotRexed's post, the MANDY token was created to address the prevalence of fake versions. The author provided a specific contract address and Solana wallet as the only…
-  - 资金 100.00 / 广度 78.07 / 确认 18.72 / 脆弱性 14.00
+- Alleged WLFI Rug Pull | Solana | 加速中 | 强度 85.68 | 质量 79.65
+  - 主题摘要：According to lucki's post, the WLFI token allegedly experienced a rug pull, with its price dropping 50% in five minutes. The post also claims that the co-founder deactivated their…
+  - 资金 97.78 / 广度 92.61 / 确认 18.72 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged NBA Europe Token | Solana | 降温中 | 强度 81.18 | 质量 76.25
-  - 主题摘要：According to bao's post, the NBA has filed an official ETF with the SEC, allowing investors to receive dividends based on team performance. The quoted tweet suggests sending a mem…
-  - 资金 100.00 / 广度 92.12 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- 09degen Comments on NBA Europe League | Solana | 降温中 | 强度 79.81 | 质量 74.39
-  - 主题摘要：According to 09degen's post, the user commented on the NBA's investment of $11 billion to create a new basketball league in Europe, predicting significant interaction. The post re…
-  - 资金 100.00 / 广度 86.05 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged NBA ETF Meme | Solana | 降温中 | 强度 77.85 | 质量 72.46
-  - 主题摘要：According to petal's post, the NBA filed an official ETF allowing investors to earn dividends based on team performance, with each team having a ticker. The author urges sending a…
-  - 资金 95.98 / 广度 87.97 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged Meme Card Token | Solana | 点火期 | 强度 77.22 | 质量 72.71
-  - 主题摘要：According to Own The Doge 🐶🖼's post, the author is manifesting a Meme Card. This content relates to the Meme Card token project. This information is unverified. Please exercise ca…
-  - 资金 100.00 / 广度 83.66 / 确认 4.32 / 脆弱性 14.00
-  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
-- Alleged $ZHAKI Meme Token | Solana | 加速中 | 强度 75.03 | 质量 66.61
+- Alleged $ZHAKI Meme Token | Solana | 加速中 | 强度 83.98 | 质量 80.01
   - 主题摘要：According to DevinDevington's post, the viral Zhaki baboon meme is currently associated with a coin having an 8% cluster held by the developer, which he claims is undesirable. Dev…
-  - 资金 100.00 / 广度 83.78 / 确认 18.72 / 脆弱性 14.00
+  - 资金 100.00 / 广度 92.97 / 确认 18.72 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Alleged MarsCoin Meme | BSC | 降温中 | 强度 74.98 | 质量 64.84
-  - 主题摘要：According to AxTrades's post, the viral video of Mars the pygmy hippo has inspired a proposal to launch MarsCoin. AxTrades suggests creating a token based on the animal's populari…
-  - 资金 100.00 / 广度 72.73 / 确认 11.52 / 脆弱性 14.00
+- Savvy Comments on Toly's Financial Views | Solana | 降温中 | 强度 79.67 | 质量 67.80
+  - 主题摘要：According to Savvy's post, Savvy quoted Toly's statement that "the ultimate product in finance is boring" and commented that such products are the "ultimate boredom" and must be h…
+  - 资金 100.00 / 广度 72.88 / 确认 9.36 / 脆弱性 14.00
   - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Alleged SpaceXCoin | BSC | 加速中 | 强度 73.98 | 质量 73.58
-  - 主题摘要：According to Jham's post, SpaceXCoin is described as representing SpaceXLife. This information is unverified. Please exercise caution.
-  - 资金 100.00 / 广度 95.47 / 确认 23.76 / 脆弱性 24.00
+- Mario Comments on Rare Apple Meme | Solana | 降温中 | 强度 79.54 | 质量 67.43
+  - 主题摘要：According to Mario's post, Mario commented on a viral story about a student finding a rare apple, stating that the meme is simply an apple. This post references the APPLE memecoin…
+  - 资金 100.00 / 广度 90.97 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged WLFI Rug Pull | Solana | 加速中 | 强度 79.21 | 质量 75.09
+  - 主题摘要：According to HimothyyDeploys🅿️'s post, the WLFI token experienced a 50% price drop within five minutes, coinciding with the co-founder's deactivation. The post questions whether t…
+  - 资金 100.00 / 广度 76.04 / 确认 19.44 / 脆弱性 14.00
   - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
-- Just A Polo | BSC | 降温中 | 强度 73.40 | 质量 56.95
-  - 主题摘要：Multiple tokens named 「POLO」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
-  - 资金 100.00 / 广度 73.22 / 确认 15.12 / 脆弱性 14.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Xiao Gui Discusses Fund Bullfrog Meme | BSC | 降温中 | 强度 70.28 | 质量 58.17
-  - 主题摘要：According to 小鬼's post, the "Fund Bullfrog" is a Chinese internet meme symbolizing expectations for fund market growth. The term is a homophone for "Wow" and features a red frog d…
-  - 资金 100.00 / 广度 77.68 / 确认 9.36 / 脆弱性 24.00
-  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
-- Uncertain:Alleged Binance Robot BENNY | BSC | 点火期 | 强度 68.80 | 质量 63.90
-  - 主题摘要：According to PePe.sir先生's post, Binance's official Instagram account released a photo of a robot named BENNY, described as the first Binance robot. This information is unverified.…
-  - 资金 100.00 / 广度 75.63 / 确认 4.32 / 脆弱性 24.00
+- CZ Building | BSC | 点火期 | 强度 78.09 | 质量 77.62
+  - 主题摘要：Binance CEO CZ reposts a fan's post featuring his muscular photo with the caption 'keep training, keep building.' The tweet highlights his dedication to both physical fitness and…
+  - 资金 100.00 / 广度 87.65 / 确认 15.12 / 脆弱性 14.00
   - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Anthropic | Official Team | Solana | 降温中 | 强度 77.26 | 质量 63.81
+  - 主题摘要：Multiple tokens named 「Anthropic」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 85.96 / 确认 9.36 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Alleged SpaceXCoin | BSC | 加速中 | 强度 76.77 | 质量 72.41
+  - 主题摘要：According to Jham's post, SpaceXCoin is associated with SpaceXLife. The post references a tweet by Elon Musk regarding SpaceXCoin. This information is unverified. Please exercise…
+  - 资金 100.00 / 广度 93.12 / 确认 23.76 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- PancakeFi Interns Meet BNBunnies | BSC | 点火期 | 强度 74.01 | 质量 71.01
+  - 主题摘要：BNB Chain官方宣布PancakeSwap实习生与BNB Chain吉祥物BNBunnies在Binance Blockchain Week相遇。这一官方互动引发了社区对两个生态系统IP结合的趣味联想和迷因创作热情。
+  - 资金 100.00 / 广度 80.13 / 确认 11.52 / 脆弱性 14.00
+  - 下一个观察条件：继续观察社交热度能否真正转化为持续净流入。
+- Split Token Mechanism | Solana | 加速中 | 强度 72.92 | 质量 66.06
+  - 主题摘要：According to Split's post, the SPLIT token employs a fee-splitting mechanism where creator fees are divided equally among new holder distribution, buyback and burn, and liquidity…
+  - 资金 100.00 / 广度 78.35 / 确认 19.44 / 脆弱性 14.00
+  - 下一个观察条件：继续观察龙头币流动性和聪明钱参与度是否同步上升。
+- Robinhood | Solana | 降温中 | 强度 71.02 | 质量 54.01
+  - 主题摘要：Robinhood token draws inspiration from the popular trading platform, featuring its iconic neon green logo with a stylized arrow. The token embodies the platform's mission to make…
+  - 资金 100.00 / 广度 61.60 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 雪球2027 | BSC | 降温中 | 强度 69.17 | 质量 57.01
+  - 主题摘要：Multiple tokens named 「雪球2027」are being launched simultaneously with little to no verifiable information. Please exercise caution and perform due diligence.
+  - 资金 100.00 / 广度 74.05 / 确认 4.32 / 脆弱性 24.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- 币安使命 | BSC | 降温中 | 强度 68.68 | 质量 53.70
+  - 主题摘要：币安使命 (Binance Mission) is a community-driven token inspired by Binance's vision of revolutionizing financial systems through blockchain technology. It aims to support initiatives…
+  - 资金 100.00 / 广度 61.52 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
+- Niulai Shares Uptober Feelings | BSC | 降温中 | 强度 67.37 | 质量 59.90
+  - 主题摘要：According to Niulai's post, the author shares their personal feelings and perspective regarding the market sentiment associated with 'Uptober'. The content reflects an optimistic…
+  - 资金 95.61 / 广度 51.04 / 确认 4.32 / 脆弱性 14.00
+  - 下一个观察条件：继续观察该主题能否重新回到正净流入，或出现新的催化。
 
 ## 轮动地图
 
-- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 80.3，其中已确认叙事 0 个。
-- Mandy 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
-- Nvidia Exec Super Micro 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
+- Solana 正在承接最密集的叙事集合: 当前平均叙事强度为 78.66，其中已确认叙事 0 个。
+- Alleged WLFI Rug Pull 正在向主线升级: Solana 上该叙事处于“新出现”状态，值得持续跟踪。
+- Savvy Comments on Toly's Financial Views 需要防止叙事惯性误判: Solana 上该叙事已经边际转弱，不能再只看过去热度。
 
 ## 质量榜
 
-- Nvidia Exec Super Micro | 质量 78.82 | 可交易性 100.00 | 风险 低
-- CZ Building | 质量 77.54 | 可交易性 100.00 | 风险 低
-- Alleged NBA Europe Token | 质量 76.25 | 可交易性 98.88 | 风险 低
-- 09degen Comments on NBA Europe League | 质量 74.39 | 可交易性 98.76 | 风险 低
-- Alleged SpaceXCoin | 质量 73.58 | 可交易性 100.00 | 风险 低
-- Alleged Meme Card Token | 质量 72.71 | 可交易性 95.55 | 风险 低
-- Alleged NBA ETF Meme | 质量 72.46 | 可交易性 90.40 | 风险 低
-- UBR | 质量 71.77 | 可交易性 100.00 | 风险 低
-- Mandy | 质量 70.95 | 可交易性 84.69 | 风险 低
-- Alleged $ZHAKI Meme Token | 质量 66.61 | 可交易性 64.53 | 风险 低
+- Alleged $ZHAKI Meme Token | 质量 80.01 | 可交易性 100.00 | 风险 低
+- Alleged WLFI Rug Pull | 质量 79.65 | 可交易性 99.17 | 风险 低
+- CZ Building | 质量 77.62 | 可交易性 100.00 | 风险 低
+- Alleged WLFI Rug Pull | 质量 75.09 | 可交易性 100.00 | 风险 低
+- Alleged SpaceXCoin | 质量 72.41 | 可交易性 100.00 | 风险 低
+- PancakeFi Interns Meet BNBunnies | 质量 71.01 | 可交易性 88.11 | 风险 低
+- Savvy Comments on Toly's Financial Views | 质量 67.80 | 可交易性 95.32 | 风险 低
+- Mario Comments on Rare Apple Meme | 质量 67.43 | 可交易性 98.69 | 风险 低
+- Split Token Mechanism | 质量 66.06 | 可交易性 67.59 | 风险 低
+- Anthropic | Official Team | 质量 63.81 | 可交易性 100.00 | 风险 低
 
 ## 伪叙事风险
 
-- Uncertain:Alleged Binance Robot BENNY | 风险 57.02 | 原因：流动性偏薄、近 1 小时净流入转负
-- Alleged Meme Card Token | 风险 51.82 | 原因：流动性偏薄
-- Xiao Gui Discusses Fund Bullfrog Meme | 风险 40.99 | 原因：流动性偏薄、近 1 小时净流入转负
+- PancakeFi Interns Meet BNBunnies | 风险 46.06 | 原因：流动性偏薄
+- 雪球2027 | 风险 45.02 | 原因：流动性偏薄、近 1 小时净流入转负
+- CZ Building | 风险 43.18 | 原因：流动性偏薄
 
 ## 信号台
 
@@ -105,11 +106,14 @@
 - FLOAT | Solana | 看多 | 新鲜度 65.29 | 暂无直接叙事映射
 - BATMAN | BSC | 看多 | 新鲜度 53.90 | 暂无直接叙事映射
 - NEURALINK | Solana | 看多 | 新鲜度 50.31 | 暂无直接叙事映射
-- DRV | Base | 看多 | 新鲜度 50.16 | 暂无直接叙事映射
 - FLOCK | Base | 看多 | 新鲜度 45.62 | 暂无直接叙事映射
+- 币安链能飞 | BSC | 看多 | 新鲜度 45.35 | 暂无直接叙事映射
+- DRV | Base | 看多 | 新鲜度 43.78 | 暂无直接叙事映射
 
 ## 官方催化
 
+- [SAFU Update: Adjusting Fund Holdings](https://www.binance.com/zh-CN/support/announcement/detail/33056fdf133147dd9bcae473ad6623cc)
+  - The Secure Asset Fund for Users (SAFU) is an emergency insurance fund that Binance established in July 2018 to protect users’ assets. The SAFU fund offers protection to Binance users and their funds in the event of extr…
 - [Binance Alpha Trading Competition: Trade Concrete (CT) and Share $200K Worth of Rewards (2026-11-27)](https://www.binance.com/zh-CN/support/announcement/detail/e6020e34cae84cb282b9e4dff1e0048c)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wallet is excited to launch the Concrete Tra…
 - [Sub-Affiliate Program: Grow Your Team, Qualify For Up to 5,000 USDC Reward Vouchers](https://www.binance.com/zh-CN/support/announcement/detail/312acc8b0a4446fb88d4e7c074e3589d)
@@ -120,8 +124,6 @@
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Blockchain Week Bangkok is here, and the celebrati…
 - [Binance Will Support the Cash Dividend Distribution of The Wendy's Company (WEN), NVIDIA Corporation (NVDA), Qualcomm Incorporated (QCOM), PayPal Holdings, Inc. (PYPL), and Western Digital Corporation (WDC) via bStocks](https://www.binance.com/zh-CN/support/announcement/detail/2125a821be8f480b99d46c7c82b12958)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are not offered in any other jurisdiction.&n…
-- [Service Recovery Update: Withdrawals Recovery Work Complete (2026-11-26)](https://www.binance.com/zh-CN/support/announcement/detail/95c463396a034f1ab3994814225e6d69)
-  - Fellow Binancians, Our withdrawal recovery work is completed and the withdrawal suspension from the October security incident has been fully lifted. Thank you for your patience and understanding while we worked to safel…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-11-27)](https://www.binance.com/zh-CN/support/announcement/detail/81280e617df24bf7a35ac5f109b1065a)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of tradin…
 - [Binance Will Add 5 bStocks Tokenized Securities as Collateral Asset - 2026-11-25](https://www.binance.com/zh-CN/support/announcement/detail/bbad3eb0d13f4a90954a38797b9077de)
@@ -132,8 +134,8 @@
 ## Square 草稿
 
 今日币安叙事中枢观察：
-1. 当前最强叙事：Nvidia Exec Super Micro（Solana，分数 87.58）
-2. 共振最强代币：待确认（-，共振 -）
-3. 记忆层变化：CZ Building 当前为“强化”
-4. 最新官方催化：Binance Alpha Trading Competition: Trade Concrete (CT) and Share $200K Worth of Rewards (2026-11-27)
+1. 当前最强叙事：Alleged WLFI Rug Pull（Solana，分数 85.68）
+2. 共振最强代币：SPCX（Solana，共振 100.0）
+3. 记忆层变化：Alleged $ZHAKI Meme Token 当前为“强化”
+4. 最新官方催化：SAFU Update: Adjusting Fund Holdings
 #Binance #NarrativeOS #OpenClaw
